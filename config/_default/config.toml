@@ -1,4 +1,4 @@
-baseURL = "http://mtf-wiki.github.io"
+baseURL = "https://mtf.wiki"
 title = "MtF Wiki"
 theme = "zdoc"
 
