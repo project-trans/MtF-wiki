@@ -22,7 +22,7 @@ jobs:
       - name: Publish Site
         uses: chabad360/hugo-gh-pages@master
         with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          githubToken: ${{ secrets.SITE_TOKEN }}
           # Remember to set this as a secret (i.e. secrets.PERSONAL_TOKEN).
           # Don't forget to set the secret value in the project settings.
           #cname: mysite.com # Or anything else
