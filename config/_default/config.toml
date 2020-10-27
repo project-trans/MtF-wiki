@@ -1,8 +1,8 @@
-baseURL = "http://mtf.wiki"
+baseURL = "http://mtf-wiki.github.io"
 title = "MtF Wiki"
 theme = "zdoc"
 
-defaultContentLanguage = "zh-CN"
+defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
