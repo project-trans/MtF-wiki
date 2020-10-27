@@ -25,7 +25,7 @@ jobs:
           githubToken: ${{ secrets.SITE_TOKEN }}
           # Remember to set this as a secret (i.e. secrets.PERSONAL_TOKEN).
           # Don't forget to set the secret value in the project settings.
-          #cname: mysite.com # Or anything else
+          cname: mtf.wiki # Or anything else
           # Use if you have a custom domain for your site.
           branch: master # Or anything else
           # Use if your site is not hosted on the gh-pages branch.
