@@ -4,7 +4,7 @@
   "short_name": "MtF Wiki",
   "version": "1.0.0",
   "description": "MtF Wiki",
-  "start_url": "https://mtf-wiki.github.io",
+  "start_url": "https://mtf.wiki",
   "icons": [
     {
       "src": "favicon/android-icon-36x36.png",
