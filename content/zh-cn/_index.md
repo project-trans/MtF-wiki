@@ -9,7 +9,7 @@ landing:
   title:
     - MtF Wiki
   text:
-    - 欢迎大家来到MTF Wiki。这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
+    - 欢迎大家来到 MtF Wiki。这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -17,9 +17,9 @@ landing:
     - link: docs
       text: Docs
       color: primary
-  # backgroundImage: 
-  #   src: images/landscape.jpg
-  #   height: 600
+  #backgroundImage: 
+  #  src: images/Transgender_Pride_Flag.webp
+  #  height: 600
 footer:
   sections:
     - title: General
