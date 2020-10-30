@@ -2,10 +2,8 @@ name: Publish Site
 
 on:
   push:
-    paths-ignore:
-      - 'README.md'
-      - 'LICENSE'
-  pull_request:
+    branches:
+      - master
     paths-ignore:
       - 'README.md'
       - 'LICENSE'
