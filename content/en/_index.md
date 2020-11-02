@@ -9,7 +9,7 @@ landing:
   title:
     - MtF Wiki
   text:
-    - Welcome to the MtF Wiki. This is a place that may help some transgender women.
+    - Welcome to the MtF Wiki. We are trying to organize the relevant information of transgender women to provide you with better help~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
