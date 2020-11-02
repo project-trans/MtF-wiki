@@ -55,7 +55,7 @@ MTF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整�
 }
 ```
 
-[logo-long]: ./img/logo-long.png
+[logo-long]: ./static/logo-long.png
 [wiki-url]: https://mtf.wiki
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
