@@ -2,9 +2,6 @@
 
 # 欢迎来到 **MtF Wiki**!
 
-[![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
-[![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://qm.qq.com/cgi-bin/qm/qr?k=IfgWUGKj8VOExwMTo60pkFbbW6WrlZsx&jump_from=webapi)
-
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
@@ -54,6 +51,15 @@ MTF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整�
   howpublished = {\url{https://github.com/mtf-wiki/MtF-Wiki}},
 }
 ```
+
+----
+
+## 联系方式
+点击下方图片即可加群：
+
+[![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
+[![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
+
 
 [logo-long]: ./static/logo-long.png
 [wiki-url]: https://mtf.wiki
