@@ -18,7 +18,7 @@ jobs:
         with:
           submodules: true
       - name: Publish Site
-        uses: chabad360/hugo-gh-pages@master
+        uses: mtf-wiki/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.SITE_TOKEN }}
           # Remember to set this as a secret (i.e. secrets.PERSONAL_TOKEN).
@@ -38,3 +38,4 @@ jobs:
           #siteDir: /github/workspace/site
           # Use this if your site isn't in the root of your repo.
           # The root of your repo can be found at /github/workspace
+          actor: mtfwikibot
