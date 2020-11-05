@@ -1,6 +1,6 @@
 [![MtF-Wiki][logo-long]][wiki-url]
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # 欢迎来到 **MtF Wiki**!
@@ -81,6 +81,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://masnn.ml/"><img src="https://avatars3.githubusercontent.com/u/29992205?v=4" width="100px;" alt=""/><br /><sub><b>undefined</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=undefined-moe" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://blog.coelacanthus.moe"><img src="https://avatars1.githubusercontent.com/u/43064781?v=4" width="100px;" alt=""/><br /><sub><b>Coelacanthus</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=ayalhw" title="Documentation">📖</a> <a href="#infra-ayalhw" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#translation-ayalhw" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=ayalhw" title="Code">💻</a></td>
   </tr>
 </table>
 
