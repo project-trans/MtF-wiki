@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "欢迎"
 description: "MtF Wiki Welcome"
 date: 2020-10-26T14:09:21+08:00
 draft: false

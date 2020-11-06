@@ -32,6 +32,10 @@ footer:
       links:
         - title: GitHub
           link: https://github.com/mtf-wiki/
+        - title: Telegram
+          link: https://t.me/MtFwiki
+        - title: QQ Group
+          link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
   contents: 
     align: left
     applySinglePageCss: false
