@@ -7,7 +7,7 @@ draft: false
 
 # 可橙，我们等你回来！
 
-![](../images/report.png)
+![可橙案件](../../images/report.png)
 
 欢迎来到 MtF Wiki。这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
 
