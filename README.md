@@ -43,7 +43,7 @@ MtF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整�
 而如果你想要引用这个 GitHub 仓库，可以使用如下的 bibtex：
 
 ```
-@misc{oiwiki,
+@misc{mtfwiki,
   author = {MtF Wiki Team},
   title = {MtF Wiki},
   year = {2020},
