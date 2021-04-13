@@ -16,7 +16,7 @@ weight: 1
 
 ## 基本信息
 
-![土色包装](/images/Androcur.png)
+![土色包装](/images/Androcur.jpg)
 
 - 药品名称：Androcur®（安德卡®）
 - 药品成分：【土】Siproteron【英】CPA【中】醋酸环丙孕酮
