@@ -9,7 +9,7 @@ landing:
   title:
     - MtF Wiki
   text:
-    - 欢迎大家来到 <span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span>。我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
+    - 欢迎来到MtF Wiki。我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
