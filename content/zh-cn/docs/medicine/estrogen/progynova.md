@@ -3,6 +3,7 @@ title: "补佳乐®（Progynova®）"
 description: "Progynova"
 date: 2020-11-6T19:43:21+08:00
 weight: 2
+libraries: [katex, mhchem]
 draft: false
 ---
 # 补佳乐®（Progynova®）
@@ -33,5 +34,5 @@ draft: false
 
 ## 成分信息：
 - 有效成分：戊酸雌二醇
-- 分子式：C~23~H~32~O~3~
+- 分子式：$\ce{C23H32O3}$
 - 分子量：356.50 g/mol
