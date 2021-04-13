@@ -20,9 +20,13 @@ draft: false
 
 ## 基本信息
 
-|![](/images/Progynova.jpg)|![](/images/Progynova-th.png)|
-|:-:|:-:|
-|中国包装|泰国包装2mg|
+<table><tr>
+<td><img src="/images/Progynova.jpg"/></td>
+<td><img src="/images/Progynova-th.png"/></td>
+</tr><tr>
+<td align="center">中国包装</td>
+<td align="center">泰国包装2mg</td>
+</tr></table>
 
 - 药品名称：Progynova®（补佳乐®）
 - 药品成分：戊酸雌二醇（Estradiol valerate）
