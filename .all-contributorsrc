@@ -15,7 +15,7 @@
       ]
     },
     {
-      "login": "ayalhw",
+      "login": "CoelacanthusHex",
       "name": "Coelacanthus",
       "avatar_url": "https://avatars1.githubusercontent.com/u/43064781?v=4",
       "profile": "https://blog.coelacanthus.moe",
@@ -36,6 +36,26 @@
         "translation",
         "review"
       ]
+    },
+    {
+      "login": "llh721113",
+      "name": "llh721113",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44055214?v=4",
+      "profile": "https://github.com/llh721113",
+      "contributions": [
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "saeziae",
+      "name": "山前",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26759054?v=4",
+      "profile": "https://github.com/saeziae",
+      "contributions": [
+        "doc",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -43,5 +63,6 @@
   "projectOwner": "mtf-wiki",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none"
 }
