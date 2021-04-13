@@ -3,6 +3,7 @@ title: "补佳乐®（Progynova®）"
 description: "Progynova"
 date: 2020-11-6T19:43:21+08:00
 weight: 2
+libraries: [katex, mhchem]
 draft: false
 ---
 # 补佳乐®（Progynova®）
@@ -57,6 +58,6 @@ draft: false
 - 有效成分：戊酸雌二醇（Estradiol valerate）
 - 生物利用率：3~5%（经口）
 - 半衰期：12~20小时（经口）
-- 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
+- 分子式：$\ce{C23H32O3}$
 - 分子量：356.50 g/mol
-- ![化学式](/images/ev2.png)
+- ![化学式](/images/Estradiol_valerate.svg)
