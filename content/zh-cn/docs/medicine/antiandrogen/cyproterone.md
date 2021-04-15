@@ -17,7 +17,7 @@ weight: 1
 
 ## 基本信息
 
-### Androcur® （安德卡）
+### Androcur®（安德卡）
 
 <table><tr>
 <td><img src="/images/Androcur50.jpg"/></td>
