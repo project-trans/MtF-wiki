@@ -59,4 +59,4 @@ weight: 2
 - 半衰期：37小时（经皮）
 - 分子式：$\ce{C18H24O2}$
 - 分子量：272.38 g/mol
-- ![化学式](/images/Estradiol.png)
+- ![化学式](/images/Estradiol.svg)

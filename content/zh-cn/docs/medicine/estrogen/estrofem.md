@@ -43,4 +43,4 @@ weight: 2
 - 半衰期：8–18 小时（舌下含服）
 - 分子式：$\ce{C18H24O2}$
 - 分子量：272.38 g/mol
-- ![化学式](/images/Estradiol.png)
+- ![化学式](/images/Estradiol.svg)
