@@ -62,10 +62,17 @@ weight: 1
 
 ## 使用方式与用量
 - 服用方式：口服
-- 使用剂量：12.5mg~50mg，不建议使用超过50mg。
+- 使用剂量：12.5mg~50mg，不建议使用超过50mg。 [^1] 
 
 ## 副作用
-
+### 抑郁
+色普龙会导致抑郁风险升高。 [^2] 主要原因是对于生理男性的糖皮质激素和抗雄激素，以及维生素B12缺乏。 [^3] 
+### 肝毒性
+色普龙最严重的副作用，如果每日服用量超过50mg应当经常进行肝功能测试。 [^4] 
 ## 成分信息
-
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
+
+[^1]: https://transfemscience.org/articles/cpa-dosage/
+[^2]: https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359
+[^3]: https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040
+[^1]: https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf
