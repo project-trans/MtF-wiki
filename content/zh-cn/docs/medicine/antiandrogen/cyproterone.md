@@ -72,7 +72,9 @@ weight: 1
 ## 成分信息
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
 
+---
+
 [^1]: https://transfemscience.org/articles/cpa-dosage/
 [^2]: https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359
 [^3]: https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040
-[^1]: https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf
+[^4]: https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf
