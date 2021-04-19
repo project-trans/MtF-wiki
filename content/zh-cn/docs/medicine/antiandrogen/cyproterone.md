@@ -72,6 +72,7 @@ weight: 1
 
 - **肝毒性**：色普龙最严重的副作用，使用前应当检查肝功能并定期检查，服用量不应当超过50mg。 [^4] 
 
+- **血糖**：色普龙会引起血糖偏高，糖尿病患者应谨慎使用。 [^5] 
 ## 成分信息
 
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
@@ -80,3 +81,4 @@ weight: 1
 [^2]: https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359
 [^3]: https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040
 [^4]: https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf
+[^5]: http://yao.dxy.com/drug/132923.htm
