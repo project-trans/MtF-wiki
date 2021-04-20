@@ -77,6 +77,10 @@ weight: 1
 ## 成分信息
 
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
+- 化学名称：6-氯-1α,2α-亚甲基-3,20-二孕酮-4,6-二烯-17α-醋酸酯
+- 分子式：$\ce{C24H29ClO4}$
+- 分子量：416.9
+- ![CPA](/images/CPA.png)
 
 [^1]: https://transfemscience.org/articles/cpa-dosage/
 [^2]: https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359
