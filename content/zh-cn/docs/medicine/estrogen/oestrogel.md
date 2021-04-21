@@ -4,7 +4,7 @@ description: "Oestrogel"
 date: 2021-04-15T16:27:24+08:00
 draft: false
 libraries: [katex, mhchem]
-weight: 2
+weight: 1
 ---
 
 # 雌二醇凝胶

@@ -1,5 +1,6 @@
 ---
 title: "螺内酯片"
+description: "Spironolactone"
 date: 2021-04-16T16:19:22+08:00
 draft: false
 libraries: [katex, mhchem]

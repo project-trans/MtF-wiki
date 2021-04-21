@@ -8,7 +8,7 @@ draft: false
 ---
 # 补佳乐®（Progynova®）
 
-{{< notice warning "用药安全提示" >}}
+{{< notice warning "注意事项" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
