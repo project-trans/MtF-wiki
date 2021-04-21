@@ -6,6 +6,6 @@ draft: false
 weight: 1
 ---
 
-# 激素替代疗法(HRT)总述
+# 激素替代治疗(HRT)总述
 
  {{< baidu >}}
