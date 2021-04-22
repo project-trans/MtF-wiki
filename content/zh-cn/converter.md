@@ -12,32 +12,29 @@ draft: false
 <style>
 input {
   color: #495057;
-  background-color: #fff;
-  background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
-  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  position: relative;
-  z-index: 2;
+  /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
+  padding: 1px;
+  height: 1.5em;
 }
 select{
   color: #495057;
-  background-color: #fff;
-  background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
-  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
+  padding: 1px;
+  height: 1.5em;
 }
 input:focus {
   color: #495057;
-  background-color: #fff;
   outline: 0;
   border-image: url(/images/shadow-i.png) 30 30 stretch;
   border-image-width: 3px;
   border-image-outset: 0px;
 }
 </style>
-  <div class="inputo" style="margin:auto;">
+  <div style="margin:auto;align-items:baseline">
     <span>原数据：</span>
     <input type="text" id="val1" onkeyup="changed()" style="width: 10ex" />
     <select id="in1" oninput="changed()">
@@ -53,7 +50,7 @@ input:focus {
       <option value="100">dL</option>
       <option value="1000">L</option>
     </select>
-    <select id="in3" oninput="changed()" style="visibility: hidden">
+    <select id="in3" oninput="changed()" style="visibility: hidden;">
       <option value="272.38">雌二醇</option>
       <option value="288.43">睾酮</option>
       <option value="23000">泌乳素</option>
