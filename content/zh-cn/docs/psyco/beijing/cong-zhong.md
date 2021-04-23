@@ -10,7 +10,8 @@ weight: 1
 
 ![假装有丛中照片](images/doctor/cong-zhong.jpg)
 
-{{% tag-pos 便宜 %}} {{% tag-pos 无需家长党 %}} {{% tag-pos 初诊开假条（带问号） %}} {{% tag-pos 难度：简单 %}}
+{{% tag-pos 便宜 %}} {{% tag-pos 无需家长党 %}}
+{{% tag-pos "初诊开假条（带问号）" %}} {{% tag-pos 难度：简单 %}}
 
 医生姓名：丛中
 
