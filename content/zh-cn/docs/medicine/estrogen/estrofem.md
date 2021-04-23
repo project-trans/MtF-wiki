@@ -4,12 +4,12 @@ description: "Estrofem"
 date: 2021-04-13T17:12:17+08:00
 draft: false
 libraries: [katex, mhchem]
-weight: 2
+weight: 3
 ---
 
 # 诺坤复®（Estrofem®）
 
-{{< notice warning "注意事项" >}}
+{{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 

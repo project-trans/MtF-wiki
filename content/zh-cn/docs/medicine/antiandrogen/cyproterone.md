@@ -9,7 +9,7 @@ weight: 1
 
 # 色普龙（醋酸环丙孕酮）
 
-{{< notice warning "注意事项" >}}
+{{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
@@ -74,13 +74,16 @@ weight: 1
 - **肝毒性**：色普龙最严重的副作用，使用前应当检查肝功能并定期检查，服用量不应当超过50mg。 [^4] 
 
 - **血糖**：色普龙会引起血糖偏高，糖尿病患者应谨慎使用。 [^5] 
+
+- {{% tag-neg 暂未明确 %}} 色普龙是强效的孕激素，早期导入可能造成乳房发育不良。
+
 ## 成分信息
 
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
 - 化学名称：6-氯-1α,2α-亚甲基-3,20-二孕酮-4,6-二烯-17α-醋酸酯
 - 分子式：$\ce{C24H29ClO4}$
 - 分子量：416.9
-- ![CPA](/images/CPA.png)
+- ![CPA](/images/CPA.svg)
 
 [^1]: https://transfemscience.org/articles/cpa-dosage/
 [^2]: https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359

@@ -4,12 +4,12 @@ description: "Oestrogel"
 date: 2021-04-15T16:27:24+08:00
 draft: false
 libraries: [katex, mhchem]
-weight: 2
+weight: 1
 ---
 
 # 雌二醇凝胶
 
-{{< notice warning "注意事项" >}}
+{{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
@@ -42,7 +42,7 @@ weight: 2
 
 ## 使用方式与用量
 
-{{< notice warning "注意事项" >}}
+{{< notice warning "用药安全提示" >}}
 请勿将凝胶涂抹于乳房处。
 {{< /notice >}}
 

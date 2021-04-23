@@ -1,5 +1,6 @@
 ---
 title: "螺内酯片"
+description: "Spironolactone"
 date: 2021-04-16T16:19:22+08:00
 draft: false
 libraries: [katex, mhchem]
@@ -8,7 +9,7 @@ weight: 1
 
 # 螺内酯片
 
-{{< notice warning "注意事项" >}}
+{{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
