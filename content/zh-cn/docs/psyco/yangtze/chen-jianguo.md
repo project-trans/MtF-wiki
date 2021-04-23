@@ -17,6 +17,10 @@ weight: 11
 
 所在医院：南京脑科医院
 
+## 证明样式
+
+![](images/doctor/chen-jianguo-zm.jpg)
+
 ## 出诊时刻表
 
 已停诊

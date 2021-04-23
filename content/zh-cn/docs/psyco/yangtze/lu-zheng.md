@@ -35,6 +35,10 @@ weight: 4
 
 - 见过陆峥后，第二次可找<a href="../wang-biao/">王飚</a>开证。
 
+## 证明样式
+
+![](images/doctor/lu-zheng-zm.jpg)
+
 ## 出诊时刻表
 
 | 周次 | 时间 | 科室 | 价格 |
