@@ -8,7 +8,7 @@ weight: 1
 
 {{% alert theme=info %}}害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
-（假装有丛中照片）
+![假装有丛中照片](images/doctor/cong-zhong.jpg)
 
 {{% tag-pos 便宜 %}} {{% tag-pos 无需家长党 %}} {{% tag-pos 初诊开假条(带问号) %}} {{% tag-pos 难度：简单 %}}
 
@@ -36,6 +36,8 @@ weight: 1
 攻略：希望找到能改变自己第二性征的方法，来缓解自己的GD，诸如此类~
 
 未知部分：如果中间讲述GD发作过程，丛中会询问有无抑郁症史，因editor无抑郁症史，故并不清楚此分支走向
+
+![是第一次的假条哦](images/doctor/jiatiao1.jpg)
 
 ## 注意事项
 
