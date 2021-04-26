@@ -38,10 +38,10 @@ footer:
           link: https://t.me/MtFwiki
   contents: 
     align: left
-    applySinglePageCss: false
+    applySinglePageCss: true
     markdown:
       |
-      ## MtF Wiki
-      Copyright © 2020-2021. All rights reserved.
-
+      <h2><span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span></h2>
+      <p>Copyright © 2020-2021. All rights reserved.</p>
+      <blockquote>如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。</blockquote>
 ---
