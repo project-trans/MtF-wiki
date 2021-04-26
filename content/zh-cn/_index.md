@@ -42,6 +42,6 @@ footer:
     markdown:
       |
       ## MtF Wiki
-      Copyright © 2020. All rights reserved.
+      Copyright © 2020-2021. All rights reserved.
 
 ---
