@@ -8,7 +8,7 @@ weight: 2
 
 {{% alert theme=info %}}害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
-![假装有潘柏林照片](images/doctor/cong-zhong.jpg)
+![假装有潘柏林照片](images/doctor/pan-bai-lin.jpg)
 
 {{% tag-pos 便宜 %}} {{% tag-pos 无需家长党 %}}
 {{% tag-pos 超级帅 %}} {{% tag-pos 小哥哥 %}}
