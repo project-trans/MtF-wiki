@@ -6,9 +6,9 @@ draft: false
 weight: 5
 ---
 
-{{% alert theme=info %}}侬准备到600号报到是伐？{{% /alert %}}
+{{% alert theme=info %}}侬准备到 600 号报到是伐？{{% /alert %}}
 
-![假装有王飚照片](images/doctor/wang-biao.jpg)
+![王飚照片](images/doctor/wang-biao.jpg)
 
 {{% tag-neg 昂贵 %}} {{% tag-neg 家长党 %}} {{% tag-neg 初诊不开证 %}}
 
@@ -22,12 +22,12 @@ weight: 5
 
 ## 证明样式
 
-![](images/doctor/wang-biao-zm.jpg)
+![证明](images/doctor/wang-biao-zm.jpg)
 
 ## 出诊时刻表
 
 | 周次 | 时间 | 科室 | 价格 |
 | :---: | :---: | :---: | :---: |
-| 周一 | 上午 | 心理咨询（特需） | 300 |
+| 周一 | 上午 | 心理咨询（特需） | 300 元 |
 
-[^1]:宛平南路600号
+[^1]:宛平南路 600 号
