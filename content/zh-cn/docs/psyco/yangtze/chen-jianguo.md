@@ -8,7 +8,7 @@ weight: 11
 
 {{% alert theme=warning %}}已停诊{{% /alert %}}
 
-![假装有照片](images/doctor/chen-jianguo.jpg)
+![陈建国照片](images/doctor/chen-jianguo.jpg)
 
 {{% tag-pos 一次过 %}} {{% tag-pos 无需家长 %}}
 {{% tag-neg "介绍信（或在读证明）" %}}
@@ -19,7 +19,7 @@ weight: 11
 
 ## 证明样式
 
-![](images/doctor/chen-jianguo-zm.jpg)
+![证明](images/doctor/chen-jianguo-zm.jpg)
 
 ## 出诊时刻表
 
