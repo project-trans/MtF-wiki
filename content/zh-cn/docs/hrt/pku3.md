@@ -9,11 +9,10 @@ weight: 1
 
 # <ruby>潘<rt></rt>柏<rt>bǎi</rt>林<rt></rt></ruby>
 
-
 ![假装有潘柏林照片](images/doctor/pan-bai-lin.jpg)
 
 {{% tag-pos 无需家长 %}}
-{{% tag-pos 超级帅 %}} 
+{{% tag-pos 超级帅 %}}
 {{% tag-neg 拍果照 %}}
 
 医生姓名：潘柏林

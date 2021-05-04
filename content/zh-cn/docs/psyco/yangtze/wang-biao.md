@@ -20,7 +20,6 @@ weight: 5
 
 王彪开证需去过<a href="../lu-zheng/">陆峥</a>处，需家长陪同诊疗过。
 
-
 ## 证明样式
 
 ![](images/doctor/wang-biao-zm.jpg)
