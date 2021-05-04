@@ -6,14 +6,12 @@ draft: false
 weight: 4
 ---
 
-
 {{% alert theme=info %}}侬准备到600号报到是伐？{{% /alert %}}
 
 ![假装有陆峥照片](images/doctor/lu-zheng.jpg)
 
 {{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}}
 {{% tag-neg 家长党 %}} {{% tag-neg 恐同 %}} {{% tag-neg 颜控 %}}
-
 
 医生姓名：陆峥
 
