@@ -85,8 +85,8 @@ weight: 1
 - 分子量：416.9
 - ![化学式](/images/CPA.svg)
 
-[^1]: https://transfemscience.org/articles/cpa-dosage/
-[^2]: https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359
-[^3]: https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040
-[^4]: https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf
-[^5]: http://yao.dxy.com/drug/132923.htm
+[^1]: [Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People](https://transfemscience.org/articles/cpa-dosage/)
+[^2]: [The journal of clinical endocrinology & metabolism](https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359)
+[^3]: [Clinical and experimental dermatology. Supplement ... : CED.](https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040)
+[^4]: [PRODUCT MONOGRAPH](https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf)
+[^5]: [醋酸环丙孕酮片](http://yao.dxy.com/drug/132923.htm)
