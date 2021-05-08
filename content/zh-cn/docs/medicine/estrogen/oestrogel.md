@@ -1,5 +1,5 @@
 ---
-title: "凝胶／爱思妥Oestrogel®"
+title: "凝胶／爱思妥（Oestrogel®）"
 description: "Oestrogel"
 date: 2021-04-15T16:27:24+08:00
 draft: false
