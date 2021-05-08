@@ -1,6 +1,6 @@
 ---
 title: MtF Wiki
-description: MtF Wiki, a place that may help some transgender women.
+description: MtF Wiki, un lugar que podría echar una mano a mujeres trans.
 date: 2020-10-29T04:15:05+08:00
 draft: false
 landing:
@@ -9,7 +9,7 @@ landing:
   title:
     - MtF Wiki
   text:
-    - Welcome to the MtF Wiki. We are trying to organize the relevant information of transgender women to provide you with better help~
+    - Bienvenida a MtF Wiki. Tratamos de organizar la información relevante de mujeres trans para daros mejor ayuda~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -22,20 +22,18 @@ landing:
   #  height: 600
 footer:
   sections:
-    - title: Project
+    - title: Proyecto
       links:
         - title: Homepage
           link: https://mtf.wiki
-        - title: Project Homepage
+        - title: Homepage de proyecto
           link: https://github.com/mtf-wiki/MtF-Wiki
-    - title: Contact
+    - title: Contacto
       links:
         - title: GitHub
           link: https://github.com/mtf-wiki/
         - title: Telegram
           link: https://t.me/MtFwiki
-        - title: QQ Group
-          link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
   contents: 
     align: left
     applySinglePageCss: true
@@ -43,5 +41,5 @@ footer:
       |
       <h2><span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span></h2>
       <p>Copyright © 2020-2021. All rights reserved.</p>
-      <blockquote>If you can remember my name, if you can all remember my name, maybe I, or "we", will be able to live freely one day.</blockquote>
+      <blockquote>Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
 ---

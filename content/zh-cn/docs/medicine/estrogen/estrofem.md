@@ -1,5 +1,5 @@
 ---
-title: "诺坤复®（Estrofem®）"
+title: "诺坤复（Estrofem）"
 description: "Estrofem"
 date: 2021-04-13T17:12:17+08:00
 draft: false
@@ -15,7 +15,7 @@ weight: 3
 
 ![土诺包装](/images/Estrofem.png)
 
-- 药品名称：诺坤复®（Estrofem®）
+- 药品名称：诺坤复<sup>&reg;</sup>（Estrofem<sup>&reg;</sup>）
 - 药品成分：雌二醇（Estradiol）
 - 简称：诺
 - 厂商：诺和诺德 (Novo Nordisk)（丹麦）
