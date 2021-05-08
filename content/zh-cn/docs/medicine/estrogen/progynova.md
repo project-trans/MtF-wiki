@@ -1,5 +1,5 @@
 ---
-title: "补佳乐®（Progynova®）"
+title: "补佳乐（Progynova）"
 description: "Progynova"
 date: 2020-11-6T19:43:21+08:00
 weight: 2
@@ -23,7 +23,7 @@ draft: false
 <td align="center">泰国包装2mg</td>
 </tr></table>
 
-- 药品名称：Progynova®（补佳乐®）
+- 药品名称：Progynova<sup>&reg;</sup>（补佳乐<sup>&reg;</sup>）
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：补
 - 批准文号（中国版）: 国药准字J20171038

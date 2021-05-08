@@ -11,11 +11,11 @@ weight: 1
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur®（安德卡），Siterone®等。
+醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur<sup>&reg;</sup>（安德卡），Siterone<sup>&reg;</sup>等。
 
 ## 基本信息
 
-### Androcur®（安德卡）
+### Androcur<sup>&reg;</sup>（安德卡）
 
 <table><tr>
 <td><img src="/images/Androcur50.jpg"/></td>
@@ -25,13 +25,13 @@ weight: 1
 <td align="center">100mg</td>
 </tr></table>
 
-- 商品名：Androcur®
+- 商品名：Androcur<sup>&reg;</sup>
 - 简称：土色
 - 厂商：拜耳
 - 产地：土耳其
 - 规格：50mg\*50片，100mg\*30片
 
-### Siterone®
+### Siterone<sup>&reg;</sup>
 
 <table><tr>
 <td><img src="/images/Siterone50.jpg"/></td>
@@ -41,17 +41,17 @@ weight: 1
 <td align="center">100mg</td>
 </tr></table>
 
-- 商品名：Siterone®
+- 商品名：Siterone<sup>&reg;</sup>
 - 简称：新色
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg\*50片，100mg\*50片
 
-### 华典®醋酸环丙孕酮片
+### 华典<sup>&reg;</sup>醋酸环丙孕酮片
 
 <img src="/images/Huadian.jpg"/>
 
-- 商品名：华典®
+- 商品名：华典<sup>&reg;</sup>
 - 简称：国色
 - 厂商：武汉九珑人福药业有限责任公司
 - 批准文号：国药准字H20056637
