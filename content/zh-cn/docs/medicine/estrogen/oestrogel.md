@@ -1,13 +1,11 @@
 ---
-title: "凝胶／爱思妥（Oestrogel®）"
+title: "雌二醇凝胶"
 description: "Oestrogel"
 date: 2021-04-15T16:27:24+08:00
 draft: false
 libraries: [katex, mhchem]
 weight: 1
 ---
-
-# 雌二醇凝胶
 
 {{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。

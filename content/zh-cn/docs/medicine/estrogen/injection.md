@@ -7,8 +7,6 @@ libraries: [katex, mhchem]
 draft: false
 ---
 
-# 针剂
-
 {{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
