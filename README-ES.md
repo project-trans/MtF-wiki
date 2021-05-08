@@ -16,7 +16,7 @@ Aunque este sitio fue fundado inicialmente para las trans chinas, proporcionamos
 
 ----
 
-## Content
+## Contenido
 
 Bienvenida a MtF Wiki. Hay aquí un lugar que podría echar una mano a la comunidad de mujeres trans.
 

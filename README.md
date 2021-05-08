@@ -5,7 +5,7 @@
 
 # Welcome to **MtF Wiki**!
 
-[English](README-EN.md) [Español](README-ES.md)
+[中文](README.md) [English](README-EN.md) [Español](README-ES.md)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
