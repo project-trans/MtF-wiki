@@ -5,44 +5,50 @@
 
 # Welcome to **MtF Wiki**!
 
-[English](README-EN.md) [Español](README-ES.md)
+
+[中文](README.md) [English](README-EN.md) [Español](README-ES.md)
+
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
-----
-
-## 内容
-欢迎大家来到MtF Wiki。这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
-
-MtF(Male-to-Female)，跨性别女性，是指出生时指定性别是男性的女性。  
-(ps：在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”）
-
-MtF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整合站点，大家可以在这里了解到各种药物知识，女性常识，以及其他等等。  
-现在的 MtF Wiki 正处于起步阶段，各种资料或许并不齐全，甚至可能还有部分错误，欢迎各位热心的姐妹加入我们，为 MtF Wiki 的发展做出贡献。  
-至于建设本网站的初衷，除了为广大MtF群体提供一个知识平台外，也是渴望他人对转换性别的设定的肯定。
-
-> 不向焦虑与抑郁投降，这个世界终会有我们存在的地方
+Aunque este sitio fue fundado inicialmente para las trans chinas, proporcionamos esta página en español para nuestra visibilidad. Pero también, si quieres contribuir información para trans en tu región, sigue por favor.
 
 ----
 
-## 致谢
-本项目目前采用 [Hugo][hugo-url] 部署在 [github pages][wiki-url]。主题使用[zdoc][zdoc-url]，对此表示感谢！
+## Content
 
-本项目在编写过程中参考了诸多资料，在此一并致谢。
+Bienvenida a MtF Wiki. Hay aquí un lugar que podría echar una mano a la comunidad de mujeres trans.
+
+MtF(Male-to-Female), mujer trans, se refiere a las personas que, a pesar de haber sido asignados al género masculino al nacer, sitúan su identidad dentro de lo femenino. 
+
+Nos comprometemos a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado, donde se puede aprender sobre todo tipo de conocimientos medicamentos, médicos, sexuales y mucho más.
+
+La MtF Wiki está en sus inicios, y la información puede no estar completa, e incluso puede haber algunos errores, por lo que damos la bienvenida a todas las hermanas entusiastas para que os unáis a nosotras y contribuyáis al desarrollo de la MtF Wiki.
+
+En cuanto al propósito original de construir este sitio, además de proporcionar una plataforma de conocimiento para la comunidad más amplia de MtF, es también un deseo de que otros afirmen el transexualismo.
+
+> No te rindas a la ansiedad y la depresión, el mundo acabará teniendo un lugar para nosotros.
 
 ----
 
-## 版权声明
-[![知识共享许可协议][cc-img]][cc-url]
+## Agradecimiento
+Ejecutamos [Hugo][hugo-url] en [github pages][wiki-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
-除特别注明外，项目中除了代码部分均采用 [(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议][cc-url] 及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
+En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
 
-换言之，使用过程中您可以自由地共享、演绎，但是必须署名、以相同方式共享、分享时没有附加限制，
+----
 
-而且需要为 GitHub 仓库点赞（Star）。
+## Propriedad
+[![CC][cc-img]][cc-url]
 
-而如果你想要引用这个 GitHub 仓库，可以使用如下的 bibtex：
+Aparte de especial declaración, el contenido (menos el cógido) del sitio es publicado bajo [Reconocimiento-CompartirIgual BY-SA 4.0][cc-url] y [The Star And Thank Author License](https://github.com/zTrix/sata-license).
+
+Usted es libre de compartir y adaptar, Usted debe dar crédito de manera adecuada y compartir bajo la lamisma licencia sin restricciones adicionales.
+
+Y star el GitHub repo por favor.
+
+Si quieres citar este GitHub repo, puedes usar el bibtex：
 
 ```
 @misc{mtfwiki,
@@ -57,12 +63,13 @@ MtF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整�
 
 ----
 
-## 联系方式
-点击下方图片即可加群：
+## Contacto
 
 [![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
-[![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
 
+email: mtfwiki@estela.cn
+
+Y GitHub issues.
 
 [logo-long]: ./static/logo-long.png
 [wiki-url]: https://mtf.wiki
