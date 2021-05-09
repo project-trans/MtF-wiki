@@ -12,7 +12,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
-This site was founded initially for Chinese trans. However, if you would like to contribute information for trans in your region, just do it please.
+This site was founded initially for Chinese trans. However, if you would like to contribute information for the trans in your region, welcome to do it.
 
 ----
 
@@ -22,9 +22,9 @@ Welcome to the MtF Wiki, a place that may help some transgender women.
 
 MtF (Male-to-Female), transgender female, refers to a female whose assigned sex is male when she was born.
 
-MtF Wiki is committed to becoming a free, open and continuously updated transgender knowledge integration site, where you can learn about all kinds of medicine and medical knowledge, female common sense, and other things.
+MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site, where you can learn about all kinds of medicine and medical knowledge, female common sense, and other things.
 
-The current MtF Wiki is in its infancy. Various materials may not be complete, and there may even be some errors. Welcome all enthusiastic sisters to join us and contribute to the development of MtF Wiki.
+The current MtF Wiki is in its infancy. Various materials may not be completed, and there may even be some errors. Welcome all enthusiastic sisters to join us and contribute to the MtF Wiki.
 
 As for the original intention of building this website, in addition to providing a knowledge platform for the majority of MtF groups, it is also eager for others to affirm the setting of gender conversion.
 
@@ -33,18 +33,20 @@ As for the original intention of building this website, in addition to providing
 ----
 
 ## Acknowledgement
-We run a [Hugo][hugo-url] on [github pages][wiki-url]. Theme [zdoc][zdoc-url]. Thanks.
 
-Many materials were referred to in the process of writing this project, we would like to thank you.
+We run a [Hugo][hugo-url] on [github pages][wiki-url]. Theme [zdoc][zdoc-url]. Thanks for them.
+
+Many materials were referred to during the process of writing this project, we would like to say thank you here.
 
 ----
 
 ## Copyrights
+
 [![CC][cc-img]][cc-url]
 
 Apart from special statement, the content (expect the code) of this site was published under [Creative Commons BY-SA 4.0][cc-url] and [The Star And Thank Author License](https://github.com/zTrix/sata-license).
 
-In a nutshell, you are free to share and adapt, but you must give appropriate credit and share under same license without additional restrictions.
+In a nutshell, you are free to share and adapt, but you must give the appropriate credit and share under the same license without additional restrictions.
 
 And star GitHub repo.
 
@@ -66,9 +68,7 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
-
 [![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
-
 
 email: mtfwiki@estela.cn
 

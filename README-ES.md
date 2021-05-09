@@ -33,6 +33,7 @@ En cuanto al propósito original de construir este sitio, además de proporciona
 ----
 
 ## Agradecimiento
+
 Ejecutamos [Hugo][hugo-url] en [github pages][wiki-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
 En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
@@ -40,6 +41,7 @@ En la elaboración de este proyecto se han hecho numerosas referencias, que se a
 ----
 
 ## Propriedad
+
 [![CC][cc-img]][cc-url]
 
 Aparte de especial declaración, el contenido (menos el cógido) del sitio es publicado bajo [Reconocimiento-CompartirIgual BY-SA 4.0][cc-url] y [The Star And Thank Author License](https://github.com/zTrix/sata-license).
