@@ -17,7 +17,7 @@ MtF (Male-to-Female), transgender female, refers to a female whose sex[^1] is ma
 
 {{< mtf-wiki >}} is committed to becoming a free, open and continuously updated transgender knowledge integration site, where you can learn about all kinds of medicine and medical knowledge, female common sense, and other things.
 
-The current {{< mtf-wiki >}} is in its infancy. Various materials may not be completed, and there may even be some errors. Welcome all enthusiastic sisters to join us [^2] and contribute to the {{< mtf-wiki >}}.
+The current {{< mtf-wiki >}} is in its infancy. Various materials may have not been completed, and there may even be some errors. Welcome all enthusiastic sisters to join us [^2] and contribute to the {{< mtf-wiki >}}.
 
 As for the original intention of building this website, in addition to providing a knowledge platform for the majority of MtF groups, it is also eager for others to affirm the setting of gender conversion.
 
