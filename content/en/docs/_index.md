@@ -27,7 +27,7 @@ Many materials were referred to in the process of writing this project, and I wo
 
 **Kenchiu[^k], we are waiting for your return**
 
-> If you can remember my name, if you can all remember my name, maybe I, or "we", will be able to live freely one day.
+> If you can remember my name, if you can all remember my name, maybe I or "we", will be able to live freely one day.
 
 [^1]: The definition of assigned sex on Wikipedia is "Assigned sex, which is determined by checking gender characteristics at birth."
 
