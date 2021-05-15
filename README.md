@@ -5,7 +5,7 @@
 
 # Welcome to **MtF Wiki**!
 
-[中文](README.md) [English](README-EN.md) [Español](README-ES.md)
+**中文** | [English](README-EN.md) | [Español](README-ES.md)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
@@ -13,9 +13,10 @@
 ----
 
 ## 内容
+
 欢迎大家来到MtF Wiki。这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
 
-MtF(Male-to-Female)，跨性别女性，是指出生时指定性别是男性的女性。  
+MtF (Male-to-Female)，跨性别女性，是指出生时指定性别是男性的女性。  
 (ps：在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”）
 
 MtF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整合站点，大家可以在这里了解到各种药物知识，女性常识，以及其他等等。  
@@ -27,13 +28,15 @@ MtF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整�
 ----
 
 ## 致谢
-本项目目前采用 [Hugo][hugo-url] 部署在 [github pages][wiki-url]。主题使用[zdoc][zdoc-url]，对此表示感谢！
+
+本项目目前采用 [Hugo][hugo-url] 部署在 [github pages][wiki-url]。主题使用 [zdoc][zdoc-url]，对此表示感谢！
 
 本项目在编写过程中参考了诸多资料，在此一并致谢。
 
 ----
 
 ## 版权声明
+
 [![知识共享许可协议][cc-img]][cc-url]
 
 除特别注明外，项目中除了代码部分均采用 [(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议][cc-url] 及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
@@ -58,11 +61,13 @@ MtF Wiki 致力于成为一个免费开放且持续更新的 跨性别知识整�
 ----
 
 ## 联系方式
+
 点击下方图片即可加群：
 
 [![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
 [![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
 
+email: mtfwiki@estela.cn
 
 [logo-long]: ./static/logo-long.png
 [wiki-url]: https://mtf.wiki
@@ -93,4 +98,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Any kind of contribution is welcomed!

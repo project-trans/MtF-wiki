@@ -22,6 +22,8 @@ enableNavbar = true
 enableFooter = true
 showPoweredBy = true
 
+fontsLink = "https://fonts.googleapis.com/css2?family=Noto+Sans+SC&family=Noto+Sans&display=swap"
+
 tocLevels = ["h2", "h3", "h4"]
 paginateWindow = 1
 taxoPaginate = 13

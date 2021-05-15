@@ -6,7 +6,7 @@
 # Welcome to **MtF Wiki**!
 
 
-[中文](README.md) [English](README-EN.md) [Español](README-ES.md)
+[中文](README.md) | [English](README-EN.md) | **Español**
 
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
@@ -33,6 +33,7 @@ En cuanto al propósito original de construir este sitio, además de proporciona
 ----
 
 ## Agradecimiento
+
 Ejecutamos [Hugo][hugo-url] en [github pages][wiki-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
 En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
@@ -40,6 +41,7 @@ En la elaboración de este proyecto se han hecho numerosas referencias, que se a
 ----
 
 ## Propriedad
+
 [![CC][cc-img]][cc-url]
 
 Aparte de especial declaración, el contenido (menos el cógido) del sitio es publicado bajo [Reconocimiento-CompartirIgual BY-SA 4.0][cc-url] y [The Star And Thank Author License](https://github.com/zTrix/sata-license).
@@ -100,4 +102,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Any kind of contribution is welcomed!
