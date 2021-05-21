@@ -24,4 +24,7 @@ weight: 2
 
 ## 证明样式
 
+![](/images/doctor/di-xiaolan-zm.jpg)
+
 ## 出诊时刻表
+z

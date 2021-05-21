@@ -45,11 +45,12 @@ Pass 会更好一些哦
 
 ## 证明样式
 
-- 证明样例（16岁）：
+- 诊断证明：
+  ![证明](images/doctor/cao-qiuyun-zm.jpg)
+  
+- 病历样例（16岁）：
   ![证明](images/doctor/cao-qiuyun-zm2.jpg)
 
-- 证明样例2：
-  ![证明](images/doctor/cao-qiuyun-zm.jpg)
 
 ## 出诊时刻表
 
