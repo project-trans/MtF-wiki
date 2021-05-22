@@ -1,0 +1,24 @@
+[[main]]
+  identifier = "docs"
+  name = "文檔"
+  url = "docs"
+  weight = 1
+
+[[main]]
+  identifier = "conv"
+  name = "荷爾蒙轉換"
+  url = "converter"
+  weight = 1
+
+
+#[[main]]
+#  identifier = "updates"
+#  name = "Updates"
+#  url = "updates"
+#  weight = 2
+#
+#[[main]]
+#  identifier = "blog"
+#  name = "Blog"
+#  url = "blog"
+#  weight = 3

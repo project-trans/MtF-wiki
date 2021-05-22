@@ -5,52 +5,50 @@
 
 # Welcome to **MtF Wiki**!
 
-
-[简中](README.md) | [繁中](README-T.md) | **English** | [Español](README-ES.md)
-
+[简中](README.md) | **繁體中文** | [English](README-EN.md) | [Español](README-ES.md)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
-This site was founded initially for Chinese trans. However, if you would like to contribute information for the trans in your region, welcome to do it.
+
+本項目原由中國大陸跨性別者建設，試圖爲中國大陸地區跨性別者提供資源與幫助。當然，如果您有意向爲您的地區的跨性別者提供訊息，我們也非常期待您向本項目提供貢獻。
 
 ----
 
-## Content
+## 內容
 
-Welcome to the MtF Wiki, a place that may help some transgender women.
+歡迎大家來到MtF Wiki。這裡是一個或許可以給部分跨性別女性群體提供幫助的地方。
 
-MtF (Male-to-Female), transgender female, refers to a female whose assigned sex is male when she was born.
+MtF (Male-to-Female)，跨性別女性，是指出生時指定性別是男性的女性。  
+(ps：在維基百科中關於指定性別的定義是“指定性別（Assigned sex），是根據出生時檢查性別特徵以確定的性別。”）
 
-MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site, where you can learn about all kinds of medicine and medical knowledge, female common sense, and other things.
+MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整合站點，大家可以在這裡瞭解到各種藥物知識、醫療資源、女性常識，以及其他等等。  
+現在的 MtF Wiki 正處於起步階段，各種資料或許並不齊全，甚至可能還有部分錯誤，歡迎各位熱心的姐妹加入我們，為 MtF Wiki 的發展做出貢獻。  
+至於建設本網站的初衷，除了為廣大MtF群體提供一個知識平臺外，也是渴望他人對轉換性別的設定的肯定。
 
-The current MtF Wiki is in its infancy. Various materials may have not been completed, and there may even be some errors. Welcome all enthusiastic sisters to join us and contribute to the MtF Wiki.
-
-As for the original intention of building this website, in addition to providing a knowledge platform for the majority of MtF groups, it is also eager for others to affirm the setting of gender conversion.
-
-> Never surrender to anxiety and depression, we will eventually have our place in this world.
-
-----
-
-## Acknowledgement
-
-We run a [Hugo][hugo-url] on [github pages][wiki-url] with theme [zdoc][zdoc-url]. Thanks for them.
-
-Many materials were referred to during the process of writing this project, we would like to say thank you here.
+> 不向焦慮與抑鬱投降，這個世界終會有我們存在的地方
 
 ----
 
-## Copyrights
+## 致謝
 
-[![CC][cc-img]][cc-url]
+本專案目前採用 [Hugo][hugo-url] 部署在 [github pages][wiki-url]。主題使用 [zdoc][zdoc-url]，對此表示感謝！
 
-Apart from special statement, the content (expect the code) of this site was published under [Creative Commons BY-SA 4.0][cc-url] and [The Star And Thank Author License](https://github.com/zTrix/sata-license).
+本專案在編寫過程中參考了諸多資料，在此一併致謝。
 
-In a nutshell, you are free to share and adapt, but you must give the appropriate credit and share under the same license without additional restrictions.
+----
 
-And star GitHub repo.
+## 版權宣告
 
-If you would like to cite this GitHub repo, you can use the bibtex below：
+[![知識共享許可協議][cc-img]][cc-url]
+
+除特別註明外，專案中除了程式碼部分均採用 [(Creative Commons BY-SA 4.0) 知識共享署名 - 相同方式共享 4.0 國際許可協議][cc-url] 及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 進行許可。
+
+換言之，使用過程中您可以自由地共享、演繹，但是必須署名、以相同方式共享、分享時沒有附加限制，
+
+而且需要為 GitHub 倉庫點贊（Star）。
+
+而如果你想要引用這個 GitHub 倉庫，可以使用如下的 bibtex：
 
 ```
 @misc{mtfwiki,
@@ -65,14 +63,14 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ----
 
-## Contact
+## 聯絡方式
+
+點選下方圖片即可加群：
 
 [![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
 [![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
 
 email: mtfwiki@estela.cn
-
-And through GitHub issues.
 
 [logo-long]: ./static/logo-long.png
 [wiki-url]: https://mtf.wiki
