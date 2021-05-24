@@ -40,15 +40,15 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 ## 版權宣告
 
-[![知識共享許可協議][cc-img]][cc-url]
+[![創用CC許可協議][cc-img]][cc-url]
 
-除特別註明外，專案中除了程式碼部分均採用 [(Creative Commons BY-SA 4.0) 知識共享署名 - 相同方式共享 4.0 國際許可協議][cc-url] 及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 進行許可。
+除特別註明外，專案中除了程式碼部分均採用 [(Creative Commons BY-SA 4.0) 創用CC 姓名標示-相同方式分享 4.0 國際許可協議][cc-url] 及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 進行許可。
 
-換言之，使用過程中您可以自由地共享、演繹，但是必須署名、以相同方式共享、分享時沒有附加限制，
+換言之，使用過程中您可以自由地共享、演繹，但是必須署名、以相同方式分享、分享時沒有附加限制，
 
-而且需要為 GitHub 倉庫點贊（Star）。
+而且需要為此 GitHub Repo 標星（Star）。
 
-而如果你想要引用這個 GitHub 倉庫，可以使用如下的 bibtex：
+而如果你想要引用這個 GitHub Repo，可以使用如下的 bibtex：
 
 ```
 @misc{mtfwiki,
