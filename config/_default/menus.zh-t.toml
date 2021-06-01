@@ -8,13 +8,13 @@
   identifier = "conv"
   name = "荷爾蒙轉換"
   url = "converter"
-  weight = 1
+  weight = 2
 
 [[main]]
-  identifier = "conv"
+  identifier = "about"
   name = "關於我們"
   url = "about"
-  weight = 1
+  weight = 3
 
 #[[main]]
 #  identifier = "updates"
