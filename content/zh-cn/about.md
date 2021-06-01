@@ -30,7 +30,7 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别女生知�
 <img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=64" style="display: inline; height:2em;vertical-align: middle;"/> **山前** <a style="color: unset;" href="http://github.com/saeziae"><i class="bi bi-github" aria-label="GitHub"></i></a> <a style="color: unset;" href="http://twitter.com/saeziae"><i class="bi bi-twitter" style="color:#1DA1F2" aria-label="Twitter"></i></a> <a href="mailto:i@estela.cn"><img style="display:inline;" src="https://img.shields.io/static/v1?label=email&message=i@estela.cn&color=blue&style=flat-square"></a>
 药物板块、长三角地区编辑维护，镜像维护，外文翻译
 
-<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle;"/> **珺妍** <a style="color: unset;" href="http://github.com/saeziae" class="bi bi-github" aria-label="GitHub"></i></a><a href=" mailto:llh721113@outlook.com"><img style="display:inline;" src="https://img.shields.io/static/v1?label=email&message=llh721113@outlook.com&color=blue&style=flat-square"></a>
+<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle;"/> **珺妍** <a style="color: unset;" href="http://github.com/saeziae" class="bi bi-github" aria-label="GitHub"></i></a> <a href=" mailto:llh721113@outlook.com"><img style="display:inline;" src="https://img.shields.io/static/v1?label=email&message=llh721113@outlook.com&color=blue&style=flat-square"></a>
 北京地区编辑维护
 
 
