@@ -6,7 +6,7 @@ draft: false
 weight: 5
 ---
 
-{{% alert theme=info %}}侬准备到 600 号报到是伐？{{% /alert %}}
+{{% alert theme=info %}}<img src="/images/wpnl.jpg" style="display: inline; height:6em;vertical-align: middle;" /> 侬准备到 600 号报到是伐？{{% /alert %}}
 
 ![王飚照片](images/doctor/wang-biao.jpg)
 
