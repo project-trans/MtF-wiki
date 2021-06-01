@@ -5,16 +5,12 @@
 
 # Welcome to **MtF Wiki**!
 
-
 [简中](README.md) | [繁中](README-T.md) | [English](README-EN.md) | **Español**
-
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
 Aunque este sitio fue fundado inicialmente para las trans chinas, proporcionamos esta página en español para nuestra visibilidad. Pero también, si quieres contribuir información para trans en tu región, sigue por favor.
-
-----
 
 ## Contenido
 
@@ -30,15 +26,11 @@ En cuanto al propósito original de construir este sitio, además de proporciona
 
 > No te rindas a la ansiedad y la depresión, el mundo acabará teniendo un lugar para nosotros.
 
-----
-
 ## Agradecimiento
 
 Ejecutamos [Hugo][hugo-url] en [github pages][wiki-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
 En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
-
-----
 
 ## Propriedad
 
@@ -63,8 +55,6 @@ Si quieres citar este GitHub repo, puedes usar el bibtex：
 }
 ```
 
-----
-
 ## Contacto
 
 [![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
@@ -87,15 +77,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://masnn.ml/"><img src="https://avatars3.githubusercontent.com/u/29992205?v=4?s=100" width="100px;" alt=""/><br /><sub><b>undefined</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=undefined-moe" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://blog.coelacanthus.moe"><img src="https://avatars1.githubusercontent.com/u/43064781?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Coelacanthus</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Documentation">📖</a> <a href="#infra-CoelacanthusHex" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#translation-CoelacanthusHex" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Code">💻</a></td>
-    <td align="center"><a href="http://kenchiu.net"><img src="https://avatars0.githubusercontent.com/u/27522149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>可橙</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=kenchiu233" title="Documentation">📖</a> <a href="#translation-kenchiu233" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Akenchiu233" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/llh721113"><img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>llh721113</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=llh721113" title="Documentation">📖</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Allh721113" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/saeziae"><img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>山前</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=saeziae" title="Documentation">📖</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Asaeziae" title="Reviewed Pull Requests">👀</a></td>
-  </tr>
+<table> <tr>
+ <td align="center"> <a href="https://blog.coelacanthus.moe" ><img src="https://avatars1.githubusercontent.com/u/43064781?v=4?s=100" width="100px" alt="" /><br /><sub><b>Coelacanthus</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Documentation" >📖</a > <a href="#infra-CoelacanthusHex" title="Infrastructure (Hosting, Build-Tools, etc)" >🚇</a > <a href="#translation-CoelacanthusHex" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Code" >💻</a >  </td>
+ <td align="center"> <a href="http://kenchiu.net" ><img src="https://avatars0.githubusercontent.com/u/27522149?v=4?s=100" width="100px" alt="" /><br /><sub><b>可橙</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=kenchiu233" title="Documentation" >📖</a > <a href="#translation-kenchiu233" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Akenchiu233" title="Reviewed Pull Requests" >👀</a >  </td>
+ <td align="center"> <a href="https://github.com/saeziae" ><img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=100" width="100px" alt="" /><br /><sub><b>山前</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=saeziae" title="Documentation" >📖</a > <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Asaeziae" title="Reviewed Pull Requests" >👀</a > <a href="https://mtfwiki.cn/" title="Infrastructure (Mirror-hosting)" >🚇</a > <a href="#translation-Saeziae" title="Translation">🌍</a>  </td>
+ <td align="center"> <a href="https://github.com/llh721113" ><img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=100" width="100px" alt="" /><br /><sub><b>llh721113</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=llh721113" title="Documentation" >📖</a > <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Allh721113" title="Reviewed Pull Requests" >👀</a >  </td>
+ <td align="center"> <a href="https://masnn.ml/" ><img src="https://avatars3.githubusercontent.com/u/29992205?v=4?s=100" width="100px" alt="" /><br /><sub><b>undefined</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=undefined-moe" title="Documentation" >📖</a >  </td>
+ </tr>
 </table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
