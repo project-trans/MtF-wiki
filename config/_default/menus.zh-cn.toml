@@ -10,6 +10,12 @@
   url = "converter"
   weight = 1
 
+[[main]]
+  identifier = "conv"
+  name = "关于我们"
+  url = "about"
+  weight = 1
+
 
 #[[main]]
 #  identifier = "updates"
