@@ -1,6 +1,6 @@
 ---
 title: "色普龙（醋酸环丙孕酮）"
-description: "醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur（安德卡），Siterone等。"
+description: "醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur（安得卡），Siterone等。"
 date: 2021-04-13T19:52:17+08:00
 draft: false
 libraries: [katex, mhchem]
@@ -11,11 +11,11 @@ weight: 1
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur<sup>&reg;</sup>（安德卡），Siterone<sup>&reg;</sup>等。
+醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup>等。
 
 ## 基本信息
 
-### Androcur<sup>&reg;</sup>（安德卡）
+### Androcur<sup>&reg;</sup>（安得卡）
 
 <table><tr>
 <td><img src="/images/Androcur50.jpg"/></td>
@@ -30,6 +30,8 @@ weight: 1
 - 厂商：拜耳
 - 产地：土耳其
 - 规格：50mg\*50片，100mg\*30片
+- [说明书（繁体中文）](/instr/androcur-zh.pdf)
+
 
 ### Siterone<sup>&reg;</sup>
 
