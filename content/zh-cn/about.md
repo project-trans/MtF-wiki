@@ -31,7 +31,7 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别女生知�
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="20" role="img" aria-label="email: i@estela.cn"><title>email: i@estela.cn</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="73" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="745" y="140" transform="scale(.1)" fill="#fff" textLength="630">i@estela.cn</text></g></svg></a>
 药物板块、长三角地区编辑维护，镜像维护，外文翻译
 
-<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle;"/> **珺妍** <a style="color: unset;" href="http://github.com/saeziae" class="bi bi-github" aria-label="GitHub"></i></a>
+<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle;"/> **珺妍** <a style="color: unset;" href="http://github.com/saeziae" class="bi bi-github" aria-label="GitHub"></i></a> <a href=" mailto:llh721113@outlook.com"><img style="display:inline;" src="https://img.shields.io/static/v1?label=email&message=llh721113@outlook.com&color=blue&style=flat-square"></a>
 北京地区编辑维护
 
 
