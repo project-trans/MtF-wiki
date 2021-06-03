@@ -8,7 +8,7 @@ weight: 2
 
 ![](/images/doctor/zheng-tiansheng.jpg)
 
-{{% tag-neg 多次就诊 %}} {{% tag-neg 无需家长 %}} {{% tag-pos 可劝家长 %}}
+{{% tag-neg 多次就诊 %}} {{% tag-pos 无需家长 %}} {{% tag-pos 可劝家长 %}}
 
 医生姓名：郑天生
 所在医院：温州市康宁医院
