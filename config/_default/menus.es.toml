@@ -6,7 +6,7 @@
 
 [[main]]
   identifier = "about"
-  name = "About Us"
+  name = "Acerca de nos."
   url = "about"
   weight = 3
 

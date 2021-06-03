@@ -1,6 +1,6 @@
 ---
 title: "關於我們"
-description: ""
+description: "MtF Wiki 致力於成為一個免費開放且持續更新的跨性別女生知識整合站點"
 date: 2021-06-01T22:27:01+08:00
 draft: false
 weight: 0
@@ -9,7 +9,7 @@ weight: 0
 # 關於
 ![MtF-Wiki](./logo-long.png)
 
-MtF Wiki 致力於成為一個免費開放且持續更新的跨性別女生知識整合站點
+{{<mtf-wiki>}} 致力於成為一個免費開放且持續更新的跨性別女生知識整合站點
 
 本專案 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki/)
 本專案 <i class="bi bi-link-45deg" aria-label="Website"></i> 網址：[MtF.Wiki](https://mtf.wiki/)
