@@ -36,11 +36,9 @@ Many materials were referred to during the process of writing this project, we w
 
 [![CC][cc-img]][cc-url]
 
-Apart from special statement, the content (expect the code) of this site was published under [Creative Commons BY-SA 4.0][cc-url] and [The Star And Thank Author License](https://github.com/zTrix/sata-license).
+Apart from special statement, the content (expect the code) of this site was published under [Creative Commons BY-SA 4.0][cc-url].
 
 In a nutshell, you are free to share and adapt, but you must give the appropriate credit and share under the same license without additional restrictions.
-
-And star GitHub repo.
 
 If you would like to cite this GitHub repo, you can use the bibtex below：
 
