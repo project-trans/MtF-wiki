@@ -36,11 +36,9 @@ En la elaboración de este proyecto se han hecho numerosas referencias, que se a
 
 [![CC][cc-img]][cc-url]
 
-Aparte de especial declaración, el contenido (menos el cógido) del sitio es publicado bajo [Reconocimiento-CompartirIgual BY-SA 4.0][cc-url] y [The Star And Thank Author License](https://github.com/zTrix/sata-license).
+Aparte de especial declaración, el contenido (menos el cógido) del sitio es publicado bajo [Reconocimiento-CompartirIgual BY-SA 4.0][cc-url].
 
 Usted es libre de compartir y adaptar, Usted debe dar crédito de manera adecuada y compartir bajo la lamisma licencia sin restricciones adicionales.
-
-Y star el GitHub repo por favor.
 
 Si quieres citar este GitHub repo, puedes usar el bibtex：
 
