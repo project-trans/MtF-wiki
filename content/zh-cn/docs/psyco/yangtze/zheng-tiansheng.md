@@ -15,7 +15,6 @@ weight: 2
 
 ![](/images/doctor/zheng-tiansheng-qr.jpg)
 
-
 ## 出诊时刻表
 
 ### 康宁医院：

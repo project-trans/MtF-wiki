@@ -32,7 +32,6 @@ weight: 1
 - 规格：50mg\*50 片，100mg\*30 片
 - [说明书（繁体中文）](/instr/androcur-zh.pdf)
 
-
 ### Siterone<sup>&reg;</sup>
 
 <table><tr>

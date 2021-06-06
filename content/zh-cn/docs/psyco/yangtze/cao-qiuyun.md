@@ -55,7 +55,6 @@ Pass 会更好一些哦
 - 病历样例（16 岁）：
   ![证明](images/doctor/cao-qiuyun-zm2.jpg)
 
-
 ## 出诊时刻表
 
 | 周次 | 时间 | 科室 | 价格 |

@@ -45,7 +45,6 @@ draft: false
 - 外观：微黄色澄清油性注射液
 - [说明书（日语）](/instr/pelanin.pdf)
 
-
 ## 使用方式与用量
 
 {{< notice warning "用药安全提示" >}}
