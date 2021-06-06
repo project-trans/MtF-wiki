@@ -1,6 +1,6 @@
 ---
 title: "色普龙（醋酸环丙孕酮）"
-description: "醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur（安得卡），Siterone等。"
+description: "醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur（安得卡），Siterone 等。"
 date: 2021-04-13T19:52:17+08:00
 draft: false
 libraries: [katex, mhchem]
@@ -11,7 +11,7 @@ weight: 1
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup>等。
+醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup>等。
 
 ## 基本信息
 
@@ -29,7 +29,7 @@ weight: 1
 - 简称：土色
 - 厂商：拜耳
 - 产地：土耳其
-- 规格：50mg\*50片，100mg\*30片
+- 规格：50mg\*50 片，100mg\*30 片
 - [说明书（繁体中文）](/instr/androcur-zh.pdf)
 
 
@@ -47,7 +47,7 @@ weight: 1
 - 简称：新色
 - 厂商：REX
 - 产地：新西兰
-- 规格：50mg\*50片，100mg\*50片
+- 规格：50mg\*50 片，100mg\*50 片
 
 ### 华典<sup>&reg;</sup>醋酸环丙孕酮片
 
@@ -56,8 +56,8 @@ weight: 1
 - 商品名：华典<sup>&reg;</sup>
 - 简称：国色
 - 厂商：武汉九珑人福药业有限责任公司
-- 批准文号：国药准字H20056637
-- 规格：50mg\*24片
+- 批准文号：国药准字 H20056637
+- 规格：50mg\*24 片
 - 参考售价：人民币 348 元
 
 ## 使用方式与用量

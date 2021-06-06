@@ -9,8 +9,8 @@ weight: 2
 ![假装有邸奶奶照片](images/doctor/di-xiaolan.jpg)
 
 {{% tag-pos 无需家长 %}}
-{{% tag-pos 病历可用于北三HRT %}}
-{{% tag-neg 观察期1年 %}}
+{{% tag-pos 病历可用于北三 HRT %}}
+{{% tag-neg 观察期 1 年 %}}
 
 医生姓名：邸晓兰
 

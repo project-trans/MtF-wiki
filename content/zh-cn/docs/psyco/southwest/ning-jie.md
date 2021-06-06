@@ -9,7 +9,7 @@ weight: 1
 ![宁洁](images/doctor/ning-jie.jpg)
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
-{{% tag-neg 观察期1年 %}}
+{{% tag-neg 观察期 1 年 %}}
 
 医生姓名：宁洁
 

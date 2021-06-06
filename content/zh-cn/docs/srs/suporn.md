@@ -1,5 +1,5 @@
 ---
-title: "泰国|Suporn诊所"
+title: "泰国|Suporn 诊所"
 description: ""
 date: 2021-06-06T15:46:34+08:00
 draft: false

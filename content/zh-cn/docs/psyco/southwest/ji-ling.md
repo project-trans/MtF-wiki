@@ -8,8 +8,8 @@ weight: 1
 
 ![姬凌--图片缺失](images/doctor/ji-ling-lost.png)
 图片缺失
-{{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}{{% tag-pos 挂号费15 %}}
-{{% tag-neg 观察期1年 %}}
+{{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}{{% tag-pos 挂号费 15 %}}
+{{% tag-neg 观察期 1 年 %}}
 
 医生姓名：姬凌
 
@@ -31,7 +31,7 @@ weight: 1
 
 SCL90 MMPI
 
-如果带了家长会帮忙向家长科普劝导，甚至帮忙联系SRS
+如果带了家长会帮忙向家长科普劝导，甚至帮忙联系 SRS
 
 复诊主要是询问是否有想法的改变，询问近况
 
