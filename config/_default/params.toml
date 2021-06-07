@@ -1,4 +1,5 @@
 logo = true
+logoImage = "/new/mtf-wiki-square.svg"
 logoText = "MtF Wiki"
 logoType = "short" # long, short
 description = "MtF Wiki."
