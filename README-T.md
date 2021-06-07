@@ -63,7 +63,7 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 email: mtfwiki@estela.cn
 
-[logo-long]: ./static/logo-long.png
+[logo-long]: ./static/new/mtf-wiki-long.svg
 [wiki-url]: https://mtf.wiki
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

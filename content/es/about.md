@@ -6,7 +6,7 @@ draft: false
 weight: 0
 ---
 
-![MtF-Wiki](./logo-long.png)
+![MtF-Wiki](/new/mtf-wiki-long.svg)
 
 La {{<mtf-wiki>}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,
 

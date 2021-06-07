@@ -5,7 +5,7 @@ date: 2020-10-26T04:15:05+08:00
 draft: false
 landing:
   height: 500
-  image: favicon/android-icon-192x192.png
+  image: new/mtf-wiki-square.svg
   title:
     - MtF Wiki
   text:

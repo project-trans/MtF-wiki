@@ -7,7 +7,7 @@ weight: 0
 ---
 
 # About
-![MtF-Wiki](./logo-long.png)
+![MtF-Wiki](./new/mtf-wiki-long.svg)
 
 {{<mtf-wiki>}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site.
 
