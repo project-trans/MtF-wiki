@@ -7,7 +7,7 @@ weight: 0
 ---
 
 # 關於
-![MtF-Wiki](./logo-long.png)
+![MtF-Wiki](./new/mtf-wiki-long.svg)
 
 {{<mtf-wiki>}} 致力於成為一個免費開放且持續更新的跨性別女生知識整合站點
 

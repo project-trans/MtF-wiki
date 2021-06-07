@@ -63,7 +63,7 @@ email: mtfwiki@estela.cn
 
 Y GitHub issues.
 
-[logo-long]: ./static/logo-long.png
+[logo-long]: ./static/new/mtf-wiki-long.svg
 [wiki-url]: https://mtf.wiki
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
