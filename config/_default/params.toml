@@ -2,7 +2,7 @@ logo = true
 logoImage = "/new/mtf-wiki-square.svg"
 logoText = "MtF Wiki"
 logoType = "short" # long, short
-description = "MtF Wiki."
+description = "MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
 
 themeOptions = ["light", "dark"]
 
