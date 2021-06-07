@@ -1,82 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="140"
-   height="32"
-   viewBox="0 0 37.041697 8.4666706"
-   version="1.1"
-   id="svg5"
-   sodipodi:docname="mtf-wiki-inline.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview13"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="3.1757687"
-     inkscape:cx="51.955925"
-     inkscape:cy="15.586777"
-     inkscape:window-width="1494"
-     inkscape:window-height="837"
-     inkscape:window-x="243"
-     inkscape:window-y="90"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg5" />
-  <defs
-     id="defs2">
-    <linearGradient
-       id="linearGradient1101"
-       inkscape:swatch="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1099" />
-    </linearGradient>
-  </defs>
-  <g
-     id="layer1"
-     style="stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt">
-    <g
-       aria-label="MtF Wiki"
-       id="text1574"
-       style="font-size:9.52501px;line-height:1.25;direction:rtl;stroke-width:0.2645835;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt">
-      <path
-         d="M 0.79008045,7.6242394 H 1.7521065 V 4.2619109 c 0,-0.3524254 -0.0381,-0.904876 -0.0381,-0.923926 0.028575,0.0381 0.3333754,0.4953005 0.5715006,0.7715258 L 3.9142838,6.0716628 H 4.0285839 L 5.6573606,4.1095107 C 5.9145359,3.8237604 6.2193362,3.3570349 6.2383862,3.3379849 c 0,0.01905 -0.0381,0.5715006 -0.0381,0.923926 v 3.3623285 h 0.962026 V 1.0805575 H 7.0575371 L 3.9904838,4.7000613 0.89485556,1.0805575 H 0.79008045 Z"
-         style="font-family:'Neutraface 2 Text';-inkscape-font-specification:'Neutraface 2 Text';direction:ltr;fill:#5bcefa;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
-         id="path29808" />
-      <path
-         d="m 10.086474,7.7194895 c 0.542926,0 0.838201,-0.2000252 1.038226,-0.3810004 L 10.72465,6.6812634 c -0.104775,0.085725 -0.247651,0.2095503 -0.504826,0.2095503 -0.2476501,0 -0.4000503,-0.1333502 -0.4000503,-0.6000757 V 4.4333611 H 10.886575 V 3.6237352 H 9.8197737 V 2.0806836 H 8.8577477 V 3.6237352 H 8.2576721 V 4.4333611 H 8.8577477 V 6.271688 c 0,1.0668011 0.5238756,1.4478015 1.2287263,1.4478015 z"
-         style="font-family:'Neutraface 2 Text';-inkscape-font-specification:'Neutraface 2 Text';direction:ltr;fill:#f5a9b8;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
-         id="path29810" />
-      <path
-         d="M 12.134349,7.6242394 H 13.144 V 5.0143867 h 2.743203 V 4.1190357 H 13.144 V 2.0330585 h 3.028954 V 1.1472326 h -4.038605 z"
-         style="font-family:'Neutraface 2 Text';-inkscape-font-specification:'Neutraface 2 Text';direction:ltr;fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
-         id="path29812" />
-      <path
-         d="m 21.364065,7.6909145 h 0.123825 l 1.647827,-3.8576291 c 0.123825,-0.3048003 0.276225,-0.7620008 0.28575,-0.7810508 0.0095,0.028575 0.13335,0.4762505 0.2667,0.7810508 l 1.609727,3.8576291 h 0.123825 L 27.660097,1.1472326 H 26.67902 l -1.143001,3.4480536 c -0.123825,0.3524254 -0.257175,0.895351 -0.257175,0.923926 -0.01905,-0.05715 -0.161925,-0.5810256 -0.3048,-0.923926 L 23.478617,1.0805575 H 23.354792 L 21.86889,4.5952862 c -0.1524,0.3619504 -0.3048,0.895351 -0.314325,0.923926 -0.0095,-0.0381 -0.13335,-0.5715006 -0.24765,-0.923926 L 20.163914,1.1472326 h -1.057277 z"
-         style="font-family:'Neutraface 2 Text';-inkscape-font-specification:'Neutraface 2 Text';direction:ltr;fill:#f5a9b8;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
-         id="path29814" />
-      <path
-         d="m 28.812607,2.7093342 c 0.342901,0 0.638176,-0.2571752 0.638176,-0.6381756 0,-0.3619504 -0.295275,-0.6286507 -0.638176,-0.6286507 -0.3429,0 -0.638175,0.2667003 -0.638175,0.6286507 0,0.3810004 0.295275,0.6381756 0.638175,0.6381756 z m -0.485775,4.9149052 h 0.971551 V 3.6237352 h -0.971551 z"
-         style="font-family:'Neutraface 2 Text';-inkscape-font-specification:'Neutraface 2 Text';direction:ltr;fill:#f5a9b8;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
-         id="path29816" />
-      <path
-         d="m 31.508168,6.4431382 0.504825,-0.5238756 1.209676,1.7049768 h 1.133477 L 32.679744,5.290612 34.15612,3.6237352 h -1.095376 l -1.600202,1.8002269 c 0.01905,-0.2095502 0.04763,-0.4572005 0.04763,-0.7048507 V 0.74718215 H 30.546141 V 7.6242394 h 0.962027 z"
-         style="font-family:'Neutraface 2 Text';-inkscape-font-specification:'Neutraface 2 Text';direction:ltr;fill:#5bcefa;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
-         id="path29818" />
-      <path
-         d="m 35.613434,2.7093342 c 0.342901,0 0.638176,-0.2571752 0.638176,-0.6381756 0,-0.3619504 -0.295275,-0.6286507 -0.638176,-0.6286507 -0.3429,0 -0.638175,0.2667003 -0.638175,0.6286507 0,0.3810004 0.295275,0.6381756 0.638175,0.6381756 z M 35.127659,7.6242394 H 36.09921 V 3.6237352 h -0.971551 z"
-         style="font-family:'Neutraface 2 Text';-inkscape-font-specification:'Neutraface 2 Text';direction:ltr;fill:#5bcefa;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.2645835;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
-         id="path29820" />
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140" height="32" version="1.1" viewBox="0 0 37.042 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <g style="paint-order:stroke fill markers">
+  <g direction="ltr" style="paint-order:stroke fill markers" aria-label="MtF Wiki">
+   <path d="m.79008 7.6242h.96203v-3.3623c0-.35243-.0381-.90488-.0381-.92393.028575.0381.33338.4953.5715.77153l1.6288 1.9622h.1143l1.6288-1.9622c.25718-.28575.56198-.75248.58103-.77153 0 .01905-.0381.5715-.0381.92393v3.3623h.96203v-6.5437h-.10478l-3.0671 3.6195-3.0956-3.6195h-.10478z" direction="ltr" fill="#5bcefa" style="paint-order:stroke fill markers"/>
+   <path d="m10.086 7.7195c.54293 0 .8382-.20003 1.0382-.381l-.40005-.65723c-.10478.085725-.24765.20955-.50483.20955-.24765 0-.40005-.13335-.40005-.60008v-1.8574h1.0668v-.80963h-1.0668v-1.5431h-.96203v1.5431h-.60008v.80963h.60008v1.8383c0 1.0668.52388 1.4478 1.2287 1.4478z" direction="ltr" fill="#f5a9b8" style="paint-order:stroke fill markers"/>
+   <path d="m12.134 7.6242h1.0097v-2.6099h2.7432v-.89535h-2.7432v-2.086h3.029v-.88583h-4.0386z" direction="ltr" style="paint-order:stroke fill markers"/>
+   <path d="m21.364 7.6909h.12382l1.6478-3.8576c.12382-.3048.27622-.762.28575-.78105.0095.028575.13335.47625.2667.78105l1.6097 3.8576h.12382l2.2384-6.5437h-.98108l-1.143 3.4481c-.12382.35243-.25718.89535-.25718.92393-.01905-.05715-.16192-.58103-.3048-.92393l-1.4954-3.5147h-.12382l-1.4859 3.5147c-.1524.36195-.3048.89535-.31432.92393-.0095-.0381-.13335-.5715-.24765-.92393l-1.143-3.4481h-1.0573z" direction="ltr" fill="#f5a9b8" style="paint-order:stroke fill markers"/>
+   <path d="m28.813 2.7093c.3429 0 .63818-.25718.63818-.63818 0-.36195-.29528-.62865-.63818-.62865-.3429 0-.63818.2667-.63818.62865 0 .381.29528.63818.63818.63818zm-.48578 4.9149h.97155v-4.0005h-.97155z" direction="ltr" fill="#f5a9b8" style="paint-order:stroke fill markers"/>
+   <path d="m31.508 6.4431.50482-.52388 1.2097 1.705h1.1335l-1.6764-2.3336 1.4764-1.6669h-1.0954l-1.6002 1.8002c.01905-.20955.04763-.4572.04763-.70485v-3.9719h-.96203v6.8771h.96203z" direction="ltr" fill="#5bcefa" style="paint-order:stroke fill markers"/>
+   <path d="m35.613 2.7093c.3429 0 .63818-.25718.63818-.63818 0-.36195-.29528-.62865-.63818-.62865-.3429 0-.63818.2667-.63818.62865 0 .381.29528.63818.63818.63818zm-.48578 4.9149h.97155v-4.0005h-.97155z" direction="ltr" fill="#5bcefa" style="paint-order:stroke fill markers"/>
   </g>
+ </g>
 </svg>
