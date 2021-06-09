@@ -13,6 +13,10 @@ weight: 1
 
 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup>等。
 
+{{< notice warning "注意" >}}
+醋酸环丙孕酮有很强的孕激素作用！1 mg/24h 的剂量已具有女性排卵抑制作用，而子宫内膜转化剂量为1–3 mg/24h (Wiki-Table; Endrikat et al., 2011)
+{{< /notice >}}
+
 ## 基本信息
 
 ### Androcur<sup>&reg;</sup>（安得卡）
