@@ -8,7 +8,7 @@ weight: 2
 
 ![张敬悬照片](images/doctor/zhang-jingxuan.jpg)
 
-{{% tag-pos 可劝导家长 %}} {{% tag-neg 家长需在场 %}}
+{{% tag-pos 可劝导家长 %}} {{% tag-neg 开证时家长需在场 %}}
 
 医生姓名：张敬悬
 
