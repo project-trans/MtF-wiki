@@ -1,6 +1,6 @@
 ---
 title: "补佳乐（Progynova）"
-description: "Progynova"
+description: "补佳乐，即戊酸雌二醇片，是长效雌二醇的衍生物，即雌二醇的戊酸酯。经过肝脏脱酸后具有雌二醇活性，是一种人工合成的天然雌激素。"
 date: 2020-11-6T19:43:21+08:00
 weight: 2
 libraries: [katex, mhchem]
@@ -20,19 +20,19 @@ draft: false
 <td><img src="/images/Progynova-th.png"/></td>
 </tr><tr>
 <td align="center">中国包装</td>
-<td align="center">泰国包装2mg</td>
+<td align="center">泰国包装 2mg</td>
 </tr></table>
 
 - 药品名称：Progynova<sup>&reg;</sup>（补佳乐<sup>&reg;</sup>）
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：补
-- 批准文号（中国版）: 国药准字J20171038
+- 批准文号（中国版）: 国药准字 J20171038
 - 厂商：拜耳
 - 常见规格：
 | **版本** | **规格** | **外观** |
 | :----: | :----: | :----: |
-| 中国包装（国补） | 1mg\*21片/盒 | 黄色糖衣片 |
-| 泰国包装（泰补） | 2mg\*28片\*3板/盒 | 蓝色糖衣片 |
+| 中国包装（国补）| 1mg\*21 片/盒 | 黄色糖衣片 |
+| 泰国包装（泰补）| 2mg\*28 片\*3 板/盒 | 蓝色糖衣片 |
 
 ## 使用方式与用量
 

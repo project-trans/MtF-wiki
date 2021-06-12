@@ -5,16 +5,12 @@
 
 # Welcome to **MtF Wiki**!
 
-
-[中文](README.md) | **English** | [Español](README-ES.md)
-
+[简中](README.md) | [繁中](README-T.md) | **English** | [Español](README-ES.md)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
 This site was founded initially for Chinese trans. However, if you would like to contribute information for the trans in your region, welcome to do it.
-
-----
 
 ## Content
 
@@ -30,25 +26,19 @@ As for the original intention of building this website, in addition to providing
 
 > Never surrender to anxiety and depression, we will eventually have our place in this world.
 
-----
-
 ## Acknowledgement
 
 We run a [Hugo][hugo-url] on [github pages][wiki-url] with theme [zdoc][zdoc-url]. Thanks for them.
 
 Many materials were referred to during the process of writing this project, we would like to say thank you here.
 
-----
-
 ## Copyrights
 
 [![CC][cc-img]][cc-url]
 
-Apart from special statement, the content (expect the code) of this site was published under [Creative Commons BY-SA 4.0][cc-url] and [The Star And Thank Author License](https://github.com/zTrix/sata-license).
+Apart from special statement, the content (expect the code) of this site was published under [Creative Commons BY-SA 4.0][cc-url].
 
 In a nutshell, you are free to share and adapt, but you must give the appropriate credit and share under the same license without additional restrictions.
-
-And star GitHub repo.
 
 If you would like to cite this GitHub repo, you can use the bibtex below：
 
@@ -63,8 +53,6 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 }
 ```
 
-----
-
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
@@ -74,7 +62,7 @@ email: mtfwiki@estela.cn
 
 And through GitHub issues.
 
-[logo-long]: ./static/logo-long.png
+[logo-long]: ./static/new/mtf-wiki-long.svg
 [wiki-url]: https://mtf.wiki
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
@@ -88,15 +76,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://masnn.ml/"><img src="https://avatars3.githubusercontent.com/u/29992205?v=4?s=100" width="100px;" alt=""/><br /><sub><b>undefined</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=undefined-moe" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://blog.coelacanthus.moe"><img src="https://avatars1.githubusercontent.com/u/43064781?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Coelacanthus</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Documentation">📖</a> <a href="#infra-CoelacanthusHex" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#translation-CoelacanthusHex" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Code">💻</a></td>
-    <td align="center"><a href="http://kenchiu.net"><img src="https://avatars0.githubusercontent.com/u/27522149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>可橙</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=kenchiu233" title="Documentation">📖</a> <a href="#translation-kenchiu233" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Akenchiu233" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/llh721113"><img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>llh721113</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=llh721113" title="Documentation">📖</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Allh721113" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/saeziae"><img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>山前</b></sub></a><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=saeziae" title="Documentation">📖</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Asaeziae" title="Reviewed Pull Requests">👀</a></td>
-  </tr>
+<table> <tr>
+ <td align="center"> <a href="https://blog.coelacanthus.moe" ><img src="https://avatars1.githubusercontent.com/u/43064781?v=4?s=100" width="100px" alt="" /><br /><sub><b>Coelacanthus</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Documentation" >📖</a > <a href="#infra-CoelacanthusHex" title="Infrastructure (Hosting, Build-Tools, etc)" >🚇</a > <a href="#translation-CoelacanthusHex" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Code" >💻</a >  </td>
+ <td align="center"> <a href="http://kenchiu.net" ><img src="https://avatars0.githubusercontent.com/u/27522149?v=4?s=100" width="100px" alt="" /><br /><sub><b>可橙</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=kenchiu233" title="Documentation" >📖</a > <a href="#translation-kenchiu233" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Akenchiu233" title="Reviewed Pull Requests" >👀</a >  </td>
+ <td align="center"> <a href="https://github.com/saeziae" ><img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=100" width="100px" alt="" /><br /><sub><b>山前</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=saeziae" title="Documentation" >📖</a > <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Asaeziae" title="Reviewed Pull Requests" >👀</a > <a href="https://mtfwiki.cn/" title="Infrastructure (Mirror-hosting)" >🚇</a > <a href="#translation-Saeziae" title="Translation">🌍</a>  </td>
+ <td align="center"> <a href="https://github.com/llh721113" ><img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=100" width="100px" alt="" /><br /><sub><b>llh721113</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=llh721113" title="Documentation" >📖</a > <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Allh721113" title="Reviewed Pull Requests" >👀</a >  </td>
+ <td align="center"> <a href="https://masnn.ml/" ><img src="https://avatars3.githubusercontent.com/u/29992205?v=4?s=100" width="100px" alt="" /><br /><sub><b>undefined</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=undefined-moe" title="Documentation" >📖</a >  </td>
+ </tr>
 </table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

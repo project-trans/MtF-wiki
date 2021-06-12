@@ -15,3 +15,9 @@
   languageName = "Español"
   weight = 3
   contentdir = "content/es"
+
+[zh-t]
+  title = "MtF Wiki"
+  languageName = "繁體中文"
+  weight = 1
+  contentdir = "content/zh-t"

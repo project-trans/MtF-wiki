@@ -6,13 +6,13 @@ draft: false
 weight: 1
 ---
 
-{{% alert theme=info %}}害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
+{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)]</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
-![丛中照片](images/doctor/cong-zhong.jpg)
+ ![丛中照片](images/doctor/cong-zhong.jpg)
 
 {{% tag-pos 便宜 %}} {{% tag-pos 无需家长 %}}
-{{% tag-pos 初诊开假条 %}} {{% tag-pos 病历可用于北三HRT %}}
-{{% tag-neg 观察期2年 %}}
+{{% tag-pos 初诊开假条 %}} {{% tag-pos 病历可用于北三 HRT %}}
+{{% tag-neg 观察期 2 年 %}}
 
 医生姓名：丛中
 
@@ -20,10 +20,14 @@ weight: 1
 
 ## 挂号
 
-微信公众号“北京114预约挂号”-就医服务-预约挂号-北京大学第六医院-特需门诊
+微信公众号“北京 114 预约挂号”-就医服务-预约挂号-北京大学第六医院-特需门诊
 周三上午 8:00 准时放号，无需反复刷新页面
 号特别少，一次 2 个左右
 挂号费 100 元，到付
+
+## 路线
+
+地铁 10 号线西土城站，B 东北口，往北走 600m 到北航旧校区门口，直行过马路右转，直行 300m
 
 ## 问诊细节
 
@@ -47,7 +51,7 @@ weight: 1
 
 ## 注意事项
 
-是北大六院不是北京市六院！！！（你站editor之一曾经因为搞混这两个地方而被迫翘掉下午第二节课
+是北大六院不是北京市六院！！！（你站 editor 之一曾经因为搞混这两个地方而被迫翘掉下午第二节课
 
 初诊额外 35 元服务费。
 
@@ -66,6 +70,6 @@ weight: 1
 
 | 周次 | 时间 | 科室 | 价格 |
 | :---: | :---: | :---: | :---: |
-| 周三 | 下午 12:30~15:00 | 精神科（特需门诊） | 100 元 |
+| 周三 | 下午 12:30~15:00 | 精神科（特需门诊）| 100 元 |
 
 [^1]:花园北路 51 号
