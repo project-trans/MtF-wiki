@@ -15,14 +15,11 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki
 <i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project：[MtF.Wiki](https://mtf.wiki/)
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror：[mtfwiki.cn](https://mtfwiki.cn/) (sync per 30 mins)
 
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-
 
 ## Core maintainer
 
 Founder: <img src="https://avatars.githubusercontent.com/u/27522149?s=64?v=4" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **Kenchiu** <a style="color: unset;" href="https://github.com/kenchiu233"><i class="bi bi-github" aria-label="GitHub"></i></a> 
-
 
 <img src="https://avatars.githubusercontent.com/u/43064781?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **Coelacanthus(Celeste)** <a style="color: unset;" href="https://github.com/CoelacanthusHex"><i class="bi bi-github" aria-label="GitHub"></i></a>&nbsp;<a href=" mailto:coelacanthus@outlook.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="20" role="img" aria-label="email: coelacanthus@outlook.com"><title>email: coelacanthus@outlook.com</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="161" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="1185" y="140" transform="scale(.1)" fill="#fff" textLength="1510">coelacanthus@outlook.com</text></g></svg></a>
 Maintainance of code and site
@@ -51,7 +48,6 @@ Through <a style="color:#1DA1F2" href="https://jq.qq.com/?_wv=1027&k=O9hgBAFz"><
 Through <a style="color: unset;" href="https://github.com/mtf-wiki/MtF-Wiki/issues/"><i class="bi bi-github" aria-label="GitHub"></i> GitHub Issues</a>
 
 Via e-mail <a href=" mailto:mtfwiki@estela.cn"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="20" role="img" aria-label="email: mtfwiki@estela.cn"><title>email: mtfwiki@estela.cn</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="111" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="935" y="140" transform="scale(.1)" fill="#fff" textLength="1010">mtfwiki@estela.cn</text></g></svg></a>
-
 
 ## Acknowledgement
 

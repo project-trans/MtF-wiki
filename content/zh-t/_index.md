@@ -9,7 +9,7 @@ landing:
   title:
     - MtF Wiki
   text:
-    - 歡迎來到 MtF Wiki。我們試圖整理彙總跨女的相關資料，為大家提供更好的幫助~
+    - 歡迎來到 MtF Wiki．我們試圖整理彙總跨女的相關資料，為大家提供更好的幫助~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -32,7 +32,7 @@ footer:
       links:
         - title: GitHub
           link: https://github.com/mtf-wiki/
-        - title: QQ群
+        - title: QQ 群
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
         - title: Telegram
           link: https://t.me/MtFwiki

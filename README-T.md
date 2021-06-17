@@ -14,14 +14,14 @@
 
 ## 內容
 
-歡迎大家來到MtF Wiki。這裡是一個或許可以給部分跨性別女性群體提供幫助的地方。
+歡迎大家來到 MtF Wiki．這裡是一個或許可以給部分跨性別女性群體提供幫助的地方。
 
-MtF (Male-to-Female)，跨性別女性，是指出生時指定性別是男性的女性。  
+MtF (Male-to-Female)，跨性別女性，是指出生時指定性別是男性的女性。
 (ps：在維基百科中關於指定性別的定義是“指定性別（Assigned sex），是根據出生時檢查性別特徵以確定的性別。”）
 
-MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整合站點，大家可以在這裡瞭解到各種藥物知識、醫療資源、女性常識，以及其他等等。  
-現在的 MtF Wiki 正處於起步階段，各種資料或許並不齊全，甚至可能還有部分錯誤，歡迎各位熱心的姐妹加入我們，為 MtF Wiki 的發展做出貢獻。  
-至於建設本網站的初衷，除了為廣大MtF群體提供一個知識平臺外，也是渴望他人對轉換性別的設定的肯定。
+MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整合站點，大家可以在這裡瞭解到各種藥物知識、醫療資源、女性常識，以及其他等等。
+現在的 MtF Wiki 正處於起步階段，各種資料或許並不齊全，甚至可能還有部分錯誤，歡迎各位熱心的姐妹加入我們，為 MtF Wiki 的發展做出貢獻。
+至於建設本網站的初衷，除了為廣大 MtF 群體提供一個知識平臺外，也是渴望他人對轉換性別的設定的肯定。
 
 > 不向焦慮與抑鬱投降，這個世界終會有我們存在的地方
 
@@ -33,9 +33,9 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 ## 版權宣告
 
-[![創用CC許可協議][cc-img]][cc-url]
+[![創用 CC 許可協議][cc-img]][cc-url]
 
-除特別註明外，專案中除了程式碼部分均採用 [(Creative Commons BY-SA 4.0) 創用CC 姓名標示-相同方式分享 4.0 國際許可協議][cc-url] 進行許可。
+除特別註明外，專案中除了程式碼部分均採用 [(Creative Commons BY-SA 4.0) 創用 CC 姓名標示-相同方式分享 4.0 國際許可協議][cc-url] 進行許可。
 
 換言之，使用過程中您可以自由地共享、演繹，但是必須署名、以相同方式分享、分享時沒有附加限制，
 
@@ -83,7 +83,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
  <td align="center"> <a href="https://masnn.ml/" ><img src="https://avatars3.githubusercontent.com/u/29992205?v=4?s=100" width="100px" alt="" /><br /><sub><b>undefined</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=undefined-moe" title="Documentation" >📖</a >  </td>
  </tr>
 </table>
-
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

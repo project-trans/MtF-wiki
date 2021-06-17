@@ -27,7 +27,6 @@ En la elaboración de este proyecto se han hecho numerosas referencias, que se a
 
 > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.
 
-
 [^2]: https://github.com/mtf-wiki/
 
 [^k]: Kenchiu, fundadora del proyecto, fue detenida ilegalmente para llamada «corrección».

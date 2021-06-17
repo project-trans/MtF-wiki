@@ -84,7 +84,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
  </tr>
 </table>
 
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 

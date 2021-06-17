@@ -15,14 +15,11 @@ weight: 0
 本项目 <i class="bi bi-link-45deg" aria-label="Website"></i> 网址：[MtF.wiki](https://mtf.wiki/)
 <i class="bi bi-link-45deg" aria-label="Website"></i> 同步镜像：<img src="/new/mtf-wiki-cn.svg" style="display:inline;vertical-align:middle;height:4em" alt="mtfwiki.cn"/> [mtfwiki.cn](https://mtfwiki.cn/) （同步周期 30 分钟）
 
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-
 
 ## 主要人员
 
 创始人：<img src="https://avatars.githubusercontent.com/u/27522149?s=64?v=4" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **可橙** <a style="color: unset;" href="https://github.com/kenchiu233"><i class="bi bi-github" aria-label="GitHub"></i></a> 
-
 
 <img src="https://avatars.githubusercontent.com/u/43064781?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **Coelacanthus** <a style="color: unset;" href="https://github.com/CoelacanthusHex"><i class="bi bi-github" aria-label="GitHub"></i></a>&nbsp;<a href=" mailto:coelacanthus@outlook.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="20" role="img" aria-label="email: coelacanthus@outlook.com"><title>email: coelacanthus@outlook.com</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="161" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="1185" y="140" transform="scale(.1)" fill="#fff" textLength="1510">coelacanthus@outlook.com</text></g></svg></a>
 站点与代码维护
@@ -32,7 +29,6 @@ weight: 0
 
 <img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **珺妍** <a style="color: unset;" href="http://github.com/llh721113" class="bi bi-github" aria-label="GitHub"></i></a>&nbsp;<a href=" mailto:llh721113@outlook.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182" height="20" role="img" aria-label="email: llh721113@outlook.com"><title>email: llh721113@outlook.com</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="143" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="1095" y="140" transform="scale(.1)" fill="#fff" textLength="1330">llh721113@outlook.com</text></g></svg></a>
 北京地区编辑维护
-
 
 以及感谢所有 GitHub 贡献者：
 
@@ -53,10 +49,9 @@ weight: 0
 
 通过邮件<a href=" mailto:mtfwiki@estela.cn"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="20" role="img" aria-label="email: mtfwiki@estela.cn"><title>email: mtfwiki@estela.cn</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="111" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="935" y="140" transform="scale(.1)" fill="#fff" textLength="1010">mtfwiki@estela.cn</text></g></svg></a>
 
-
 ## 致谢
 
-本项目目前采用 [Hugo][hugo-url] 部署在 Github Pages。主题使用 [zdoc][zdoc-url]，对此表示感谢！
+本项目目前采用 [Hugo][hugo-url] 部署在 Github Pages．主题使用 [zdoc][zdoc-url]，对此表示感谢！
 
 本项目在编写过程中参考了诸多资料，在此一并致谢。
 
