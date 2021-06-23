@@ -440,6 +440,8 @@ _感谢<u>Circlecircle</u>的投稿_
 
 -   外国语学院 **友好** 可开具介绍信
 
+_由<img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/><u>山前</u>编辑_
+
 # T
 
 ## 同济大学
@@ -558,7 +560,7 @@ _感谢<u>YJ Wang</u>的投稿_
 有一名友跨心理老师(无评测)
 舍友平均比较开明，学生群内存在微量不友好现象
 
-_感谢<u>珺妍</u>的投稿_
+_由<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/><u>珺妍</u>编辑_
 
 ## 中南大学
 
