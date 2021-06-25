@@ -36,6 +36,8 @@ footer:
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
         - title: Telegram
           link: https://t.me/MtFwiki
+        - title: e-mail
+          link: mailto:mtfwiki@estela.cn
   contents: 
     align: left
     applySinglePageCss: true

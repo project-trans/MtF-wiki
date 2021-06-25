@@ -36,6 +36,8 @@ footer:
           link: https://t.me/MtFwiki
         - title: QQ Group
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
+        - title: e-mail
+          link: mailto:mtfwiki@estela.cn
   contents: 
     align: left
     applySinglePageCss: true
