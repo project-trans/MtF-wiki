@@ -1,9 +1,10 @@
 ---
 title: 本科院校
 description: ''
-date: 2021-06-17T10:31:11.000Z
+date: 2021-06-17T10:31:11
 draft: false
 weight: 3
+tocLevels: [h1, h2]
 ---
 
 _排序按汉语拼音_
