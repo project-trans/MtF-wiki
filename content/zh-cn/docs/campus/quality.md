@@ -605,7 +605,7 @@ _感谢<u>蛋挞</u>的投稿_
 
 同学间比较包容 
 
-_感谢<u>YJ Wang</u>的投稿_
+_感谢<u>AlbacoreMeow</u>的投稿_
 
 ## 中国科学院大学
 
@@ -666,4 +666,4 @@ _由<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="
 
 辅导员不行，同学包容度似乎还行
 
-_感谢<u>YJ Wang</u>的投稿_
+_感谢<u>AlbacoreMeow</u>的投稿_
