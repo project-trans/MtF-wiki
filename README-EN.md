@@ -28,7 +28,7 @@ As for the original intention of building this website, in addition to providing
 
 ## Acknowledgement
 
-We run a [Hugo][hugo-url] on [github pages][wiki-url] with theme [zdoc][zdoc-url]. Thanks for them.
+We run a [Hugo][hugo-url] on [GitHub Pages][wiki-url] with theme [zdoc][zdoc-url]. Thanks for them.
 
 Many materials were referred to during the process of writing this project, we would like to say thank you here.
 

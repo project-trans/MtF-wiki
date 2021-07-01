@@ -51,7 +51,7 @@ weight: 0
 
 ## 致謝
 
-本專案目前採用 [Hugo][hugo-url] 部署在 Github Pages．主題使用 [zdoc][zdoc-url]，對此表示感謝！
+本專案目前採用 [Hugo][hugo-url] 部署在 GitHub Pages．主題使用 [zdoc][zdoc-url]，對此表示感謝！
 
 本專案在編寫過程中參考了諸多資料，在此一併致謝。
 
