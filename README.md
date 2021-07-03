@@ -28,7 +28,7 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 ## 致谢
 
-本项目目前采用 [Hugo][hugo-url] 部署在 [github pages][wiki-url]。主题使用 [zdoc][zdoc-url]，对此表示感谢！
+本项目目前采用 [Hugo][hugo-url] 部署在 [GitHub Pages][wiki-url]。主题使用 [zdoc][zdoc-url]，对此表示感谢！
 
 本项目在编写过程中参考了诸多资料，在此一并致谢。
 

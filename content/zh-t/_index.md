@@ -44,6 +44,6 @@ footer:
     markdown:
       |
       <h2><span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span></h2>
-      <p>Copyright © 2020-2021. All rights reserved.</p>
+      <p>Copyright © 2020-2021 MtF Wiki. All rights reserved.</p>
       <blockquote>如果你能記住我的名字，如果你們都能記住我的名字，也許我或者“我們”，終有一天能自由地生存著。</blockquote>
 ---
