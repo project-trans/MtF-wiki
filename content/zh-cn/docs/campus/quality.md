@@ -140,7 +140,7 @@ MtF 很少，但是 gay 特别多，les 也不少，有 gay 和 les 的交友群
 
 军训劝退，时长一个月，男生要板寸，而且特别热。
 
-_感谢<u>白川則正</u>的投稿_
+{{< sign-name 白川則正 >}}
 
 # D
 
@@ -176,7 +176,7 @@ _感谢<u>白川則正</u>的投稿_
 
 咱目前在文理学院，辅导员人挺好的，其他学院未知。
 
-_感谢<u>蓝芪</u>的投稿_
+{{< sign-name 蓝芪 >}}
 
 # G
 
@@ -249,7 +249,7 @@ _感谢<u>蓝芪</u>的投稿_
 海口工作站无歧视
 三亚所 hrt 和 srs 可以使用单位医疗福利津贴
 
-_感谢<u>泥鳅</u>的投稿_
+{{< sign-name 泥鳅 >}}
 
 ## 合肥工业大学
 
@@ -284,7 +284,7 @@ _感谢<u>泥鳅</u>的投稿_
 
 经过扩充改造，食堂能够满足需求，食堂水平能够达到较好水平。
 
-_感谢<u>Windancer</u>的投稿_
+{{< sign-name Windancer >}}
 
 ## 湖南大学
 
@@ -339,7 +339,7 @@ _感谢<u>Windancer</u>的投稿_
 -   设计艺术学院：长发+中性/女性着装，半 pass，半出柜，友好
 -   建筑学院：反正留长发肯定是没问题的，这两个搞艺术的学院就没有几个铁直男样子的学生
 
-_感谢<u>喵死你，或者挠死你</u>的投稿_
+{{< sign-name 喵死你，或者挠死你 >}}
 
 ## 华中~~药娘~~科技大学
 
@@ -443,7 +443,7 @@ MtF 分部情况：
 
 -   生科院：20 级辅导员友好
 
-_感谢<u>Circlecircle</u>的投稿_
+{{< sign-name Circlecircle >}}
 
 # J
 
@@ -564,8 +564,7 @@ PS:学校原则上禁止使用路由器和网络共享，但是可以偷偷用�
 
 [这里](https://github.com/YanWQ-monad/university-information/blob/master/questionnaires/universities/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6.md)有一些常见问题可以参考。
 
-_由<img src="https://cdn.lwqwq.com/pic/avatar-transflag" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/><u>凌莞</u>投稿_
-
+{{< sign-name name="凌莞" imgsrc="https://cdn.lwqwq.com/pic/avatar-transflag" >}}
 
 # Q
 
@@ -724,7 +723,7 @@ _由<img src="https://cdn.lwqwq.com/pic/avatar-transflag" style="display: inline
 
 -   外国语学院 **友好** 可开具介绍信
 
-_由<img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/><u>山前</u>编辑_
+{{< sign-name 山前 saeziae >}}
 
 # T
 
@@ -789,7 +788,7 @@ _由<img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=64" style="
 
 总之，在同济**没人关心你是谁**是什么性取向是什么性别认同还是高是矮是胖是瘦，也没人在意你(包括辅导员)，**做自己就好**。（当然目前也很难获得额外的照顾性资源）。
 
-_感谢<u>蛋挞</u>的投稿_
+{{< sign-name 蛋挞 >}}
 
 # Z
 
@@ -808,7 +807,7 @@ _感谢<u>蛋挞</u>的投稿_
 
 同学间比较包容 
 
-_感谢<u>AlbacoreMeow</u>的投稿_
+{{< sign-name AlbacoreMeow >}}
 
 ## 中国科学院大学
 
@@ -845,7 +844,7 @@ editor 所上的足球课，只要传球动作标准，分数即可 90+
 有一名友跨心理老师(无评测)
 舍友平均比较开明，学生群内存在微量不友好现象
 
-_由<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/><u>珺妍</u>编辑_
+{{< sign-name 珺妍 llh721113 >}}
 
 ## 中南大学
 
@@ -869,7 +868,7 @@ _由<img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="
 
 辅导员不行，同学包容度似乎还行
 
-_感谢<u>AlbacoreMeow</u>的投稿_
+{{< sign-name AlbacoreMeow >}}
 
 ## 中山大学
 
