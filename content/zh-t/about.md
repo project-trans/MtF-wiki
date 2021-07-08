@@ -47,7 +47,7 @@ weight: 0
 
 透過 <a style="color: unset;" href="https://github.com/mtf-wiki/MtF-Wiki/issues/"><i class="bi bi-github" aria-label="GitHub"></i> GitHub Issues</a>
 
-透過郵件<a href=" mailto:mtfwiki@estela.cn"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="20" role="img" aria-label="email: mtfwiki@estela.cn"><title>email: mtfwiki@estela.cn</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="111" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="935" y="140" transform="scale(.1)" fill="#fff" textLength="1010">mtfwiki@estela.cn</text></g></svg></a>
+透過郵件 <a href=" mailto:mtfwiki@estela.cn"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="20" role="img" aria-label="email: mtfwiki@estela.cn"><title>email: mtfwiki@estela.cn</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="111" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="935" y="140" transform="scale(.1)" fill="#fff" textLength="1010">mtfwiki@estela.cn</text></g></svg></a>
 
 ## 致謝
 
