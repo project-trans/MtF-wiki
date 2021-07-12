@@ -811,7 +811,7 @@ PS:学校原则上禁止使用路由器和网络共享，但是可以偷偷用�
 
 ## 中国科学院大学
 
-<a href="https://bkjy.ucas.ac.cn/"><img src="images/campus/ucas.bmp"></img></a>
+<a href="https://bkjy.ucas.ac.cn/"><img src="/images/campus/ucas.bmp"></img></a>
 
 ### 军训与体育
 
