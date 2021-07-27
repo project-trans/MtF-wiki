@@ -79,7 +79,7 @@ weight: 1
 - 受体拮抗
 
   - <a href="../antiandrogen/spironolactone">螺内酯片</a>
-  - 比卡鲁胺
+  - <a href="../antiandrogen/bicalutamide">比卡鲁胺</a>
 
 ### 用药注意事项
 
