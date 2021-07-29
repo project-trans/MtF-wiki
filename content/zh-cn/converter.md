@@ -127,3 +127,11 @@ draft: false
     return;
   }
 </script>
+
+#### 常用缩写一览
+
+- LGBTQIA：lesbian(les), gay, bisexual, transgender(trans), queer, intersex(is), asexual 的缩写
+
+- cisM, cisF: cis 意指顺性别
+
+- MtX, FtX: tX 意指成为另一种性别的意愿并不强烈
