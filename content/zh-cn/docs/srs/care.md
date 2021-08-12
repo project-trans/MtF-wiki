@@ -60,7 +60,7 @@ tocLevels: [h2, h3, h4]
 
 ### 娱乐产品
 
-1.  娱乐（笔记本电脑、swtich、kindle 等）建议买个支架因为你不能起身
+1.  娱乐（笔记本电脑、Nintendo Switch、Kindle 等）建议买个支架因为你不能起身
 
 ### 饮食
 
