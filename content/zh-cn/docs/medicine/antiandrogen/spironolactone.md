@@ -1,6 +1,6 @@
 ---
 title: "螺内酯片"
-description: "Spironolactone"
+description: "螺内酯有抗雄激素特性，螺内酯主要通过阻断雄激素受体起作用。"
 date: 2021-04-16T16:19:22+08:00
 draft: false
 libraries: [katex, mhchem]
@@ -34,7 +34,7 @@ weight: 1
 
 ## 使用方式与用量
 
-口服。每天 100-200mg。
+口服。每天 100-200mg．**一次用药，不分多次。**
 
 ## 副作用
 

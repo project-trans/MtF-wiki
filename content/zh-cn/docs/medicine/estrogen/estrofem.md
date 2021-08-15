@@ -1,6 +1,6 @@
 ---
 title: "诺坤复（Estrofem）"
-description: "Estrofem"
+description: "Estrofem 是一种口服的雌二醇片"
 date: 2021-04-13T17:12:17+08:00
 draft: false
 libraries: [katex, mhchem]
@@ -10,6 +10,8 @@ weight: 3
 {{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
+
+Estrofem 是一种口服的雌二醇片。
 
 ## 基本信息
 
@@ -23,8 +25,9 @@ weight: 3
 - 规格：
 | **规格** | **外观** |
 | :----: | :----: |
-| 2mg*28片/盒 | 蓝色薄膜包衣片 一面写有 NOVO 280 字样 |
-| 1mg*28片/盒 | 红色薄膜包衣片 一面写有 NOVO 282 字样 |
+| 2mg*28 片/盒 | 蓝色薄膜包衣片 一面写有 NOVO 280 字样 |
+| 1mg*28 片/盒 | 红色薄膜包衣片 一面写有 NOVO 282 字样 |
+- [说明书（英语）](/instr/estrofem.pdf)
 
 ## 使用方式与用量
 

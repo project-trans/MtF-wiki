@@ -4,6 +4,12 @@
   url = "docs"
   weight = 1
 
+[[main]]
+  identifier = "about"
+  name = "About Us"
+  url = "about"
+  weight = 3
+
 #[[main]]
 #  identifier = "updates"
 #  name = "Updates"

@@ -1,6 +1,6 @@
 ---
 title: "针剂"
-description: "Injection"
+description: "打针的意思"
 date: 2021-04-21T18:28:00+08:00
 weight: 4
 libraries: [katex, mhchem]
@@ -24,6 +24,7 @@ draft: false
 - 厂商：富士制药
 - 规格：一盒 10 瓶，每瓶 1mL，含有 10mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
+- [说明书（日语）](/instr/progynon.pdf)
 
 ### 持田 Pelanin Depot
 
@@ -42,6 +43,7 @@ draft: false
 - 厂商：持田制药
 - 规格：一盒 10 瓶，每瓶 1mL，含有 5mg 或 10mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
+- [说明书（日语）](/instr/pelanin.pdf)
 
 ## 使用方式与用量
 

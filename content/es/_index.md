@@ -5,7 +5,7 @@ date: 2020-10-29T04:15:05+08:00
 draft: false
 landing:
   height: 500
-  image: favicon/android-icon-192x192.png
+  image:  new/mtf-wiki-square.svg
   title:
     - MtF Wiki
   text:
@@ -40,6 +40,6 @@ footer:
     markdown:
       |
       <h2><span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span></h2>
-      <p>Copyright © 2020-2021. All rights reserved.</p>
+      <p>Copyright © 2020-2021 MtF Wiki. All rights reserved.</p>
       <blockquote>Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
 ---
