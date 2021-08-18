@@ -1,5 +1,5 @@
 ---
-title: "南昌|郭明"
+title: "南昌｜郭明"
 description: ""
 date: 2021-08-02T10:23:15+08:00
 draft: false

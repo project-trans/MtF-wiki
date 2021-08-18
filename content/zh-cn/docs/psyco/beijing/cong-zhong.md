@@ -1,5 +1,5 @@
 ---
-title: "北京|丛中"
+title: "北京｜丛中"
 description: ""
 date: 2021-04-23T10:23:15+08:00
 draft: false
