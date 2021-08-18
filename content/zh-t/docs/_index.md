@@ -30,6 +30,6 @@ MtF(Male-to-Female)，跨性別女性，是指出生時指定性別[^1]是男性
 
 [^1]: 在維基百科中關於指定性別的定義是“指定性別（Assigned sex），是根據出生時檢查性別特徵以確定的性別。”
 
-[^2]: https://github.com/mtf-wiki/
+[^2]: https://github.com/mtf-wiki
 
 [^k]: 可橙（Kenchiu）系本站創立者, 遭受非法監禁以進行所謂的“矯正治療”，這種事件在中國屢見不鮮。
