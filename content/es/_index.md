@@ -31,7 +31,7 @@ footer:
     - title: Contacto
       links:
         - title: GitHub
-          link: https://github.com/mtf-wiki/
+          link: https://github.com/mtf-wiki
         - title: Telegram
           link: https://t.me/MtFwiki
   contents: 

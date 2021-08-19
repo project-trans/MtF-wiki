@@ -31,7 +31,7 @@ footer:
     - title: 聯絡
       links:
         - title: GitHub
-          link: https://github.com/mtf-wiki/
+          link: https://github.com/mtf-wiki
         - title: QQ 群
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
         - title: Telegram
