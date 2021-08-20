@@ -1,8 +1,6 @@
 ---
 title: "金融账户变更指引"
-description: ""
 date: 2021-08-15T09:54:52+08:00
-draft: false
 weight: 0
 enableToc: true
 tocLevels: ["h2", "h3", "h4"]
