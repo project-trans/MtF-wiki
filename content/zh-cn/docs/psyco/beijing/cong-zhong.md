@@ -8,7 +8,7 @@ weight: 1
 
 {{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
- ![丛中照片](images/doctor/cong-zhong.jpg)
+![丛中照片](images/doctor/cong-zhong.jpg)
 
 {{% tag-pos 便宜 %}} {{% tag-pos 无需家长 %}}
 {{% tag-pos 初诊开假条 %}} {{% tag-pos 病历可用于北三 HRT %}}
@@ -68,8 +68,8 @@ weight: 1
 
 ## 出诊时刻表
 
-| 周次 | 时间 | 科室 | 价格 |
-| :---: | :---: | :---: | :---: |
-| 周三 | 下午 12:30~15:00 | 精神科（特需门诊）| 100 元 |
+| 周次 |       时间       |        科室        |  价格  |
+| :--: | :--------------: | :----------------: | :----: |
+| 周三 | 下午 12:30~15:00 | 精神科（特需门诊） | 100 元 |
 
-[^1]:花园北路 51 号
+[^1]: 花园北路 51 号
