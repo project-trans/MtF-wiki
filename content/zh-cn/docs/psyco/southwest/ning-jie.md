@@ -1,8 +1,6 @@
 ---
-title: "重庆｜宁洁"
-description: ""
+title: 重庆｜宁洁
 date: 2021-05-08T22:42:22+08:00
-draft: false
 weight: 1
 ---
 

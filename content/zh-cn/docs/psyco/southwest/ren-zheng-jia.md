@@ -1,8 +1,6 @@
 ---
-title: "重庆｜任正伽"
-description: ""
+title: 重庆｜任正伽
 date: 2021-06-03T22:16:22+08:00
-draft: false
 weight: 1
 ---
 

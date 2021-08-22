@@ -1,8 +1,7 @@
 ---
-title: "Acerca de nosotras"
+title: Acerca de nosotras
 description: "La MtF Wiki se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,"
 date: 2021-06-01T22:27:01+08:00
-draft: false
 weight: 0
 ---
 
@@ -18,7 +17,7 @@ La {{<mtf-wiki>}} se compromete a ser un sitio de integración de conocimientos 
 
 ## Mantenedores
 
-Fundadora: <img src="https://avatars.githubusercontent.com/u/27522149?s=64?v=4" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **Kenchiu** <a style="color: unset;" href="https://github.com/kenchiu233"><i class="bi bi-github" aria-label="GitHub"></i></a> 
+Fundadora: <img src="https://avatars.githubusercontent.com/u/27522149?s=64?v=4" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **Kenchiu** <a style="color: unset;" href="https://github.com/kenchiu233"><i class="bi bi-github" aria-label="GitHub"></i></a>
 
 <img src="https://avatars.githubusercontent.com/u/43064781?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **Coelacanthus(Celeste)** <a style="color: unset;" href="https://github.com/CoelacanthusHex"><i class="bi bi-github" aria-label="GitHub"></i></a>&nbsp;<a href=" mailto:coelacanthus@outlook.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="20" role="img" aria-label="email: coelacanthus@outlook.com"><title>email: coelacanthus@outlook.com</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="161" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="1185" y="140" transform="scale(.1)" fill="#fff" textLength="1510">coelacanthus@outlook.com</text></g></svg></a>
 Maintainance of code and site

@@ -1,8 +1,6 @@
 ---
 title: 长沙｜程明
-description: ""
 date: 2021-06-23T10:15:00+08:00
-draft: false
 weight: 2
 ---
 

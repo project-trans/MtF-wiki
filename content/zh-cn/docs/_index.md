@@ -1,8 +1,7 @@
 ---
-title: "欢迎"
+title: 欢迎
 description: "MtF Wiki Welcome"
 date: 2020-10-26T14:09:21+08:00
-draft: false
 ---
 
 # 可橙，我们等你回来！
@@ -27,5 +26,4 @@ MtF(Male-to-Female)，跨性别女性，是指出生时指定性别[^1]是男性
 > 如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。
 
 [^1]: 在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”
-
 [^2]: https://github.com/mtf-wiki

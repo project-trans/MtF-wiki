@@ -1,5 +1,5 @@
 ---
-title: "泰国｜Chettawut 医生"
+title: 泰国｜Chettawut 医生
 date: 2021-06-06T15:47:07+08:00
 weight: 14
 enableToc: true

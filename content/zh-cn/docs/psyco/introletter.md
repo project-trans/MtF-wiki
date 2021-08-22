@@ -1,7 +1,6 @@
 ---
-title: "介绍信"
+title: 介绍信
 date: 2021-06-15T16:52:35+08:00
-draft: false
 weight: 20
 ---
 

@@ -1,14 +1,12 @@
 ---
-title: "北京｜胡佩诚"
-description: ""
+title: 北京｜胡佩诚
 date: 2021-07-07T20:51:55+08:00
-draft: false
 weight: 2
 ---
 
 {{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
- ![胡佩诚照片](images/doctor/hu-pei-cheng.jpg)
+![胡佩诚照片](images/doctor/hu-pei-cheng.jpg)
 
 {{% tag-pos 和蔼老爷爷 %}} {{% tag-pos 性教育创始人 %}}
 {{% tag-pos 初诊开证 %}} {{% tag-pos 病历可用于北三 HRT %}}
@@ -34,8 +32,8 @@ weight: 2
 
 ## 出诊时刻表
 
-| 周次 | 时间 | 科室 | 价格 |
-| :---: | :---: | :---: | :---: |
+| 周次 | 时间 |        科室        |  价格  |
+| :--: | :--: | :----------------: | :----: |
 | 周四 | 下午 | 心理咨询门诊(特需) | 300 元 |
 
-[^1]:花园北路 49 号
+[^1]: 花园北路 49 号

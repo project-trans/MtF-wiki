@@ -1,8 +1,6 @@
 ---
 title: 上海｜陈臻
-description: ""
 date: 2021-06-06T07:36:24.000Z
-draft: false
 weight: 0
 ---
 

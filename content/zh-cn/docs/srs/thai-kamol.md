@@ -1,5 +1,5 @@
 ---
-title: "泰国｜Kamol"
+title: 泰国｜Kamol
 date: 2021-06-06T15:46:52+08:00
 draft: true
 weight: 11
