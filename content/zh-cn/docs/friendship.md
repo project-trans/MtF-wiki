@@ -6,13 +6,13 @@ weight: 9
 
 ### 交流群
 
-- <img src="/new/mtf-wiki-square.svg" alt="" style="display: inline; height:4em;vertical-align: middle;">**MtF-Wiki** 533450894
+- <img src="/new/mtf-wiki-square.svg" alt="" style="display: inline; height:4em;vertical-align: middle;">**MtF-Wiki** [533450894](https://jq.qq.com/?_wv=1027&k=Dhbm0jsr)
   本站官方交流群
 
-- <img src="/images/arch_trans.png" alt="" style="display: inline; height:4em;vertical-align: middle;">**Arch木桶饭** 782820926
+- <img src="/images/arch_trans.png" alt="" style="display: inline; height:4em;vertical-align: middle;">**Arch木桶饭** [782820926](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
 
-- <img src="/images/maimai-trans.png" alt="" style="display: inline; height:4em;vertical-align: middle;">**跨性别音游同好群** 717099350
+- <img src="/images/maimai-trans.png" alt="" style="display: inline; height:4em;vertical-align: middle;">**跨性别音游同好群** [717099350](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
 
 ### 跨性别相关bot
