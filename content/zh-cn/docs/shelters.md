@@ -12,12 +12,10 @@ weight: 7
 
 状态：试运营
 
-章程：
-
-提交申请：
+章程：<http://trans-shelter.github.io>
 
 ## 南京跨性别避难所
 
-状态：未知
+状态：已终止运营
 
 申请入住规范：<https://zhuanlan.zhihu.com/p/31846884>
