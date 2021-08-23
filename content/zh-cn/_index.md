@@ -38,6 +38,12 @@ footer:
           link: https://t.me/MtFwiki
         - title: e-mail
           link: mailto:mtfwiki@estela.cn
+    - title: 友情合作
+      links:
+        - title: 跨性别相关bot
+          link: /zh-cn/docs/friendship/#跨性别相关bot
+        - title: 厌世私贩淘宝店
+          link: https://asada-yuki.taobao.com/
   contents: 
     align: left
     applySinglePageCss: true
