@@ -12,7 +12,7 @@ weight: 7
 
 状态：试运营
 
-章程：<http://trans-shelter.github.io>
+章程及申请表单：<https://trans-shelter.github.io>
 
 ## 南京跨性别避难所
 
