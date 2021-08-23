@@ -1,10 +1,7 @@
 ---
-title: "深圳大学总医院"
+title: 深圳大学总医院
 date: 2021-08-20T16:36:04+08:00
-draft: false
 weight: 0
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
 ---
 
 ## 嗓音功能训练略解
