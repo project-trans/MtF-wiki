@@ -11,7 +11,7 @@ weight: 8
 地区：北京
 微信公众号：「北同文化」（`bjlgbtcenter`）
 北同跨儿小助手 微信：`transbjlgbt`
-联系电话：`010-64466970`
+联系电话：`010-6446-6970`
 
 ## 跨儿说
 
@@ -51,7 +51,9 @@ LESGO 是由志愿者自发组成以女性为主体的 LGBT 公益社团。成�
 地区：昆明
 地址：云南省昆明市西山区鱼课司街东寺巷 53 号 1 栋 2 单元 302 室
 地址 POI：<https://surl.amap.com/2ujFRa91jaaI>
-微博：[云南平行](https://weibo.com/ynpx)
+微博：<https://weibo.com/ynpx>
+Twitter：<https://twitter.com/YNParallel>
+Facebook：<https://facebook.com/ynparallel>
 微信公众号：云南平行
-电话：`0871-63379065`、`18064824919`
+电话：`0871-6337-9065`、`180-6482-4919`
 QQ 群：`170530694`
