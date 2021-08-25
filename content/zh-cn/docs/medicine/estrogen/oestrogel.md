@@ -2,7 +2,6 @@
 title: "雌二醇凝胶"
 description: "雌二醇凝胶就是有雌二醇的凝胶"
 date: 2021-04-15T16:27:24+08:00
-draft: false
 libraries: [katex, mhchem]
 weight: 1
 ---

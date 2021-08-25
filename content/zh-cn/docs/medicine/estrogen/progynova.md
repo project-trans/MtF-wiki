@@ -4,7 +4,6 @@ description: "补佳乐，即戊酸雌二醇片，是长效雌二醇的衍生物
 date: 2020-11-6T19:43:21+08:00
 weight: 2
 libraries: [katex, mhchem]
-draft: false
 ---
 
 {{< notice warning "注意事项" >}}
