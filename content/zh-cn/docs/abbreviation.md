@@ -17,7 +17,7 @@ weight: 0
 
 - MtX, FtX: tX 意指成为另一种性别的意愿并不强烈
 
-- RLE: Real Life Experience, [实际生活体验](https://zh.wikipedia.org/zh-cn/实际生活体验)
+- RLE: Real life experience, [实际生活体验](https://zh.wikipedia.org/zh-cn/实际生活体验)
 
 - SRT: Sex reassignment therapy, 性别重置疗法
 
@@ -25,4 +25,6 @@ weight: 0
 
 - SRS: Sex reassignment surgery, 性别重置手术
 
-- FFS: Facial Feminization Surgery, 面部女性化手术
+- FFS: Facial feminization surgery, 面部女性化手术
+
+- VFS: Voice feminization surgery, 声音女性化手术
