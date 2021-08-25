@@ -4,14 +4,14 @@ date: 2021-08-25T15:29:54+08:00
 weight: 0
 ---
 
-- [LGBT+](https://en.wikipedia.org/wiki/LGBT) 是以下性少数单词首字母的合称
-  - [Lesbian](https://en.wikipedia.org/wiki/Lesbian) (les)
-  - [Gay man](https://en.wikipedia.org/wiki/Gay_man)
-  - [Bisexual](https://en.wikipedia.org/wiki/Bisexuality)
-  - [Transgender](https://en.wikipedia.org/wiki/Transgender) (trans)
-  - [Queer](https://en.wikipedia.org/wiki/Queer)
-  - [Intersex](https://en.wikipedia.org/wiki/Intersex) (is)
-  - [Asexuality](https://en.wikipedia.org/wiki/Asexuality)
+- [LGBT+](https://en.wikipedia.org/wiki/LGBT) 是下列性少数单词首字母的合称
+  - [Lesbian](https://en.wikipedia.org/wiki/Lesbian) - 女同性恋
+  - [Gay man](https://en.wikipedia.org/wiki/Gay_man) - 男同性恋
+  - [Bisexual](https://en.wikipedia.org/wiki/Bisexuality) - 双性恋
+  - [Transgender](https://en.wikipedia.org/wiki/Transgender) - 跨性别
+  - [Queer](https://en.wikipedia.org/wiki/Queer) - 酷儿
+  - [Intersex](https://en.wikipedia.org/wiki/Intersex) - 双性人
+  - [Asexuality](https://en.wikipedia.org/wiki/Asexuality) - 无性恋
 
 - cisM, cisF: cis 意指顺性别
 
