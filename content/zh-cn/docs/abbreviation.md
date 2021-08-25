@@ -20,8 +20,8 @@ weight: 0
   trans: 跨性别
   transF: 跨性别女性（MtF）
   transM: 跨性别男性（FtM）
-  transles: 跨性别女同性恋（即一方为 transF 另一方为 transF 或 cisF）
-  transgay: 跨性别男同性恋（即一方为 transM 另一方为 transM 或 cisM）
+  transles: 跨性别女同性恋（即其中一方为 transF）
+  transgay: 跨性别男同性恋（即其中一方为 transM）
   MtX, FtX: 认为自己不属于指派性别，同时也不完全属于另一个性别（X 为 non-binary 非二元）
   TS: 缩写自 Trans Sexual 而非 Transgender
 
