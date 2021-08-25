@@ -23,7 +23,7 @@ weight: 0
   transles: 跨性别女同性恋（即一方为 transF 另一方为 transF 或 cisF）
   transgay: 跨性别男同性恋（即一方为 transM 另一方为 transM 或 cisM）
   MtX, FtX: 认为自己不属于指派性别，同时也不完全属于另一个性别（X 为 non-binary 非二元）
-  TS: TransSexual 有时会被缩写为 TS 而不是 trans
+  TS: 缩写自 Trans Sexual 而非 Transgender
 
 - RLE: Real-life experience
   [实际生活体验](https://zh.wikipedia.org/zh-cn/实际生活体验)
