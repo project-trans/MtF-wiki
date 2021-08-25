@@ -15,7 +15,7 @@ weight: 0
 
 - cisM, cisF: cis 意指顺性别
 
-- MtX, FtX: tX 意指成为另一种性别的意愿并不强烈
+- MtX, FtX: 认为自己不属于指派性别，同时也不完全属于另一个性别
 
 - RLE: Real life experience, [实际生活体验](https://zh.wikipedia.org/zh-cn/实际生活体验)
 
