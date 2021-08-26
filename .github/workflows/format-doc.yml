@@ -1,0 +1,22 @@
+name: Format Document
+
+on:
+  push:
+    paths: ['*.md']
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths: ['*.md']
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v2
+      - name: Format
+        run:  python3 .github/format.py content
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: mtfwikibot
+          author_email: bot@mtf.wiki
+          message: 'ci: format docs'
