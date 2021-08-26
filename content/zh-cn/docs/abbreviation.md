@@ -25,27 +25,26 @@ weight: 0
   MtX, FtX: 认为自己不属于指派性别，同时也不完全属于另一个性别（X 为 non-binary 非二元）
   TS: 缩写自 Trans Sexual 而非 Transgender
 
-- RLE: Real-life experience
-  [实际生活体验](https://zh.wikipedia.org/zh-cn/实际生活体验)
+- RLE: Real-life experience 实际生活体验
+  [维基百科](https://zh.wikipedia.org/zh-cn/实际生活体验)
 
-- SRT: Sex reassignment therapy
-  [性别重置疗法](https://zh.wikipedia.org/zh-cn/性别重置疗法)
+- HRT: Hormone replacement therapy 激素替代疗法
+  [本站板块](/zh-cn/docs/medicine/hrt/)｜[维基百科](https://zh.wikipedia.org/zh-cn/激素替代疗法)
 
-- HRT: Hormone replacement therapy
-  [激素替代疗法](https://zh.wikipedia.org/zh-cn/激素替代疗法)
-
-- SRS: Sex reassignment surgery
-  [性别重置手术](https://zh.wikipedia.org/zh-cn/性别重置手术)
+- SRS: Sex reassignment surgery 性别重置手术
+  [本站板块](/zh-cn/docs/srs/faq/)｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
   有时也会被称之为：GRS (gender reassignment surgery)
 
-- FFS: Facial feminization surgery
-  [面部女性化手术](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他療法)
+- SRT: Sex reassignment therapy 性别重置疗法
+  [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法)
 
-- AG: Autogynephilia
-  幻想变性性兴奋理论
+- FFS: Facial feminization surgery 面部女性化手术
+  [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他療法)
 
-- VFS: Voice feminization surgery
-  声音女性化手术
+- VFS: Voice feminization surgery 声音女性化手术
+  [本站板块](/zh-cn/docs/vocal/medical/)
+  
+- AG: Autogynephilia 幻想变性性兴奋理论
 
-- CD: Cross-dressing
-  [异性装扮](https://zh.wikipedia.org/zh-cn/异性装扮)
+- CD: Cross-dressing 异装
+  [维基百科](https://zh.wikipedia.org/zh-cn/异性装扮)
