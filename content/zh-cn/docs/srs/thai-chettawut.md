@@ -12,7 +12,7 @@ tocLevels: ["h2", "h3", "h4"]
 
 医生姓名：Chettawut[^1]，蔡达武
 
-所在医院：Chettawut Plastic Surgery Center, Bangkok Thailand （Chettawut 泰国曼谷整形中心）
+所在医院：Chettawut Plastic Surgery Center, Bangkok Thailand（Chettawut 泰国曼谷整形中心）
 
 价格：
 手术费用：330,000 泰铢（2021 上半年，中介金子处获得价格）
@@ -100,8 +100,8 @@ Chettawut 医生尤其擅长在手术中选择和保留重要的感觉神经，�
 
 - 全血细胞计数(红细胞、白细胞和血小板计数)
 - 抗艾滋病毒
-- 血尿素氮和血液肌酐 （需要此两项的检测结果）
-- 凝血酶原时间和凝血激活酶时间 （需要此两项的检测结果）
+- 血尿素氮和血液肌酐（需要此两项的检测结果）
+- 凝血酶原时间和凝血激活酶时间（需要此两项的检测结果）
 - 胸部 X 光片(仅需 X 射线前视图电子版)
 - 空腹血糖
 

@@ -13,7 +13,7 @@ weight: 0
 
 本项目 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki/)
 本项目 <i class="bi bi-link-45deg" aria-label="Website"></i> 网址：[MtF.wiki](https://mtf.wiki/)
-<i class="bi bi-link-45deg" aria-label="Website"></i> 同步镜像：<img src="/new/mtf-wiki-cn.svg" style="display:inline;vertical-align:middle;height:4em" alt="mtfwiki.cn"/> [mtfwiki.cn](https://mtfwiki.cn/) （同步周期 30 分钟）
+<i class="bi bi-link-45deg" aria-label="Website"></i> 同步镜像：<img src="/new/mtf-wiki-cn.svg" style="display:inline;vertical-align:middle;height:4em" alt="mtfwiki.cn"/> [mtfwiki.cn](https://mtfwiki.cn/)（同步周期 30 分钟）
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
