@@ -38,7 +38,7 @@ weight: 1
 
 ## 使用方式与用量
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1eq4y1U71L&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1eq4y1U71L&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="640" height="480"> </iframe>
 
 {{< notice warning "用药安全提示" >}}
 请勿将凝胶涂抹于乳房处。
