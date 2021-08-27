@@ -43,7 +43,7 @@ weight: 0
 
 - VFS: Voice feminization surgery 声音女性化手术
   [本站板块](/zh-cn/docs/vocal/medical/)
-  
+
 - AG: Autogynephilia 幻想变性性兴奋理论
 
 - CD: Cross-dressing 异装
