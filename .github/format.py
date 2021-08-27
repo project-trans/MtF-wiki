@@ -4,25 +4,22 @@ import re
 import sys
 
 
-def add_space(x):
-  print(repr(x), end=" -> ")
-  x = x[0] + " " + x[1]
-  print(repr(x))
-  return x
+def add_space(origin: str):
+  modified = "{} {}".format(origin[0], origin[1])
+  print(repr(origin), "->", modified)
+  return modified
 
 
-def change_dot(x):
-  print(repr(x), end=" -> ")
-  x = x[0] + "．"
-  print(repr(x))
-  return x
+def change_dot(origin: str):
+  modified = "{}．".format(origin)
+  print(repr(origin), "->", modified)
+  return modified
 
 
-def kill_space(x):
-  print(repr(x), end=" -> ")
-  x = x.replace(" ", "")
-  print(repr(x))
-  return x
+def remove_space(origin: str):
+  modified = origin.replace(" ", "")
+  print(repr(origin), "->", modified)
+  return modified
 
 
 def handle(full_path: str):
@@ -35,10 +32,10 @@ def handle(full_path: str):
                    lambda x: add_space(x.group(0)), content)
   content = re.sub("[0-9a-zA-Z%][。]",
                    lambda x: change_dot(x.group(0)), content)
-  content = re.sub("[，。；：？！”）] ",
-                   lambda x: kill_space(x.group(0)), content)
-  content = re.sub(" [，。；：？！“（]",
-                   lambda x: kill_space(x.group(0)), content)
+  content = re.sub("([，。；：？！”）])\s+",
+                   lambda x: x.group(1), content)
+  content = re.sub("([-.>]?)\s+([，。；：？！“（])",
+                   lambda x: x.group(2) if x.group(1) else x.group(0), content)
   content = re.sub("^[ ]+$", "", content)
   content = re.sub(" MtF ", " MtF ", content, flags=re.IGNORECASE)
   content = re.sub(" LGBT ", " LGBT ", content, flags=re.IGNORECASE)
