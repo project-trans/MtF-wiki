@@ -40,9 +40,9 @@ def handle(full_path: str):
   content = re.sub(" [，。；：？！“（]",
                    lambda x: kill_space(x.group(0)), content)
   content = re.sub("^[ ]+$", "", content)
-  content = re.sub(" [Mm][Tt][Ff] ", " MtF ", content)
-  content = re.sub(" [Ll][Gg][Bb][Tt] ", " LGBT ", content)
-  content = re.sub(" [Qq][Qq] ", " QQ ", content)
+  content = re.sub(" MtF ", " MtF ", content, flags=re.IGNORECASE)
+  content = re.sub(" LGBT ", " LGBT ", content, flags=re.IGNORECASE)
+  content = re.sub(" QQ ", " QQ ", content, flags=re.IGNORECASE)
   content = re.sub("\n\n\n", "\n\n", content)
   with open(full_path, "w", encoding="utf-8") as fp:
     fp.write(content)
