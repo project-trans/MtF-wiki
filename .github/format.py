@@ -1,61 +1,65 @@
-#!/usr/bin/python3
-
-import re
+#!/usr/bin/env python3
 import os
+import re
 import sys
-dire = ""
 
 
-def addSpace(x):
-    print(x, end=" -> ")
-    y = x[0]+" "+x[1]
-    print(y)
-    return(y)
+def add_space(origin: str):
+    modified = "{} {}".format(origin[0], origin[1])
+    print(repr(origin), "->", modified)
+    return modified
 
 
-def changeDot(x):
-    print(x, end=" -> ")
-    y = x[0]+"．"
-    print(y)
-    return(y)
+def change_dot(origin: str):
+    modified = "{}．".format(origin)
+    print(repr(origin), "->", modified)
+    return modified
 
 
-def killSpace(x):
-    print(x, end=" -> ")
-    y = x.replace(" ", "")
-    print(y)
-    return(y)
+def remove_space(origin: str):
+    modified = origin.replace(" ", "")
+    print(repr(origin), "->", modified)
+    return modified
 
 
-pass
-if len(sys.argv) < 2:
-    dire = os.getcwd()
-    print(dire)
-else:
-    dire = sys.argv[1]
-    print(dire)
-for root, dirs, files in os.walk(dire):
-    for file in files:
-        print(os.path.join(root, file))
-        if file.split(".")[-1] == "md":
-            f = open(os.path.join(root, file), "r", encoding="utf-8")
-            content = f.read()
-            f.close()
-            content = re.sub("[0-9a-zA-Z][\|\u4e00-\u9fa5]",
-                             lambda x: addSpace(x.group(0)), content)
-            content = re.sub("[\|\u4e00-\u9fa5][0-9a-zA-Z]",
-                             lambda x: addSpace(x.group(0)), content)
-            content = re.sub("[0-9a-zA-Z%][。]",
-                             lambda x: changeDot(x.group(0)), content)
-            content = re.sub("[，。；：？！”）] ",
-                             lambda x: killSpace(x.group(0)), content)
-            content = re.sub(" [，。；：？！“（]",
-                             lambda x: killSpace(x.group(0)), content)
-            content = re.sub("^[ ]+$", "", content)
-            content = re.sub(" [Mm][Tt][Ff] ", " MtF ", content)
-            content = re.sub(" [Ll][Gg][Bb][Tt] ", " LGBT ", content)
-            content = re.sub(" [Qq][Qq] ", " QQ ", content)                     
-            content = re.sub("\n\n\n", "\n\n", content)
-            f = open(os.path.join(root, file), "w", encoding="utf-8")
-            f.write(content)
-            f.close()
+def handle(full_path: str):
+    print(full_path)
+    with open(full_path, "r", encoding="utf-8") as fp:
+        content = fp.read()
+    content = re.sub(
+        "[0-9a-zA-Z][|\u4e00-\u9fa5]", lambda x: add_space(x.group(0)), content
+    )
+    content = re.sub(
+        "[|\u4e00-\u9fa5][0-9a-zA-Z]", lambda x: add_space(x.group(0)), content
+    )
+    content = re.sub("[0-9a-zA-Z%][。]", lambda x: change_dot(x.group(0)), content)
+    content = re.sub("[，。；：？！”）] ", lambda x: remove_space(x.group(0)), content)
+    content = re.sub("  [，。；：？！“（]", lambda x: remove_space(x.group(0)), content)
+    content = re.sub("^[ ]+$", "", content)
+    content = re.sub(" MtF ", " MtF ", content, flags=re.IGNORECASE)
+    content = re.sub(" LGBT ", " LGBT ", content, flags=re.IGNORECASE)
+    content = re.sub(" QQ ", " QQ ", content, flags=re.IGNORECASE)
+    content = re.sub("\n\n\n", "\n\n", content)
+    with open(full_path, "w", encoding="utf-8") as fp:
+        fp.write(content)
+
+
+def walk_all_files(base: str):
+    print(base)
+    for root, dirs, files in os.walk(base):
+        for file in files:
+            full_path = os.path.join(root, file)
+            full_path: str
+            if full_path.endswith(".md"):
+                handle(full_path)
+
+
+def main():
+    if len(sys.argv) < 2:
+        walk_all_files(os.getcwd())
+    else:
+        walk_all_files(sys.argv[1])
+
+
+if __name__ == "__main__":
+    main()

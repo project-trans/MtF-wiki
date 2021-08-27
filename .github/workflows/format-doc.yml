@@ -9,12 +9,12 @@ on:
 
 jobs:
   format:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
       - uses: actions/checkout@v2
       - name: Format
-        run:  python3 .github/format.py content/zh-cn
+        run: .github/format.py content/zh-cn
       - uses: EndBug/add-and-commit@v7
         with:
           author_name: mtfwikibot

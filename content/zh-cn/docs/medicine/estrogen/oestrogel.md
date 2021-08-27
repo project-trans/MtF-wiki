@@ -12,11 +12,11 @@ weight: 1
 
 ## 基本信息
 
-### Oestrogel<sup>&reg;</sup> （爱斯妥）
+### Oestrogel<sup>&reg;</sup>（爱斯妥）
 
 ![Oestrogel](/images/Oestrogel.jpg)
 
-- 产品名称：Oestrogel<sup>&reg;</sup> （爱斯妥）
+- 产品名称：Oestrogel<sup>&reg;</sup>（爱斯妥）
 - 有效成分：雌二醇
 - 进口药品注册证号：H20120488
 - 生产企业：比利时法杏制药厂
