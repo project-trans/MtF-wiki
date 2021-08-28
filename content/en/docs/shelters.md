@@ -12,7 +12,7 @@ The availability of the shelters below is to be confirmed on your own ,and we do
 
 Status: In trial operation
 
-Bylaws and application form: <https://trans-shelter.github.io> (In Chinese)
+Bylaws and application form: <https://trans-shelter.github.io> (in Chinese)
 
 ## The Nanjing Transgender Sanctuary
 
