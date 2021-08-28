@@ -18,4 +18,4 @@ Bylaws and application form: <https://trans-shelter.github.io> (In Chinese)
 
 Status: Discontinued operation
 
-Rules of request for the admission: <https://zhuanlan.zhihu.com/p/31846884> (In Chinese)
+Rules of request for the admission: <https://zhuanlan.zhihu.com/p/31846884> (in Chinese)
