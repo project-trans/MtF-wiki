@@ -10,7 +10,7 @@ weight: 0
 - MMPI - Minnesota Multiphasic Per-sonality Inventory
 - PDQ-4+ - Personality Diagnostic Questionnaire
 - SAS - Self-Rating Anxiety Scale 
-- SCL-90 - Symptom Check List90
+- SCL-90 - Symptom Checklist 90
 - SDS - Self-Rating Depression Scale
 - WCST - Wsiconsin Card Sorting Test
 - YALE-BROWN - Yale-Brown Obsessive-Compulsive Scale
