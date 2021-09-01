@@ -6,8 +6,21 @@ weight: 0
 
 ## 南京同仁医院 - 嗓音中心
 
-官方介绍：<http://www.njtrh.com/tesezhuanke/sangyinzhongxin/keshijieshao/2021-07-26/5777.html>
+官方介绍：<http://www.njtrh.org/tesezhuanke/sangyinzhongxin/keshijieshao/2021-07-26/5777.html>
 
 > 南京同仁医院嗓音中心成立于 2014 年 10 月 8 日，在引进亚洲专业嗓音机构 —— 韩国艺颂的全套医疗服务体系及理念的基础上，结合南京同仁耳鼻喉头颈外科国家临床重点专科、江苏省重点专科的优势，成为国内为数不多的集嗓音检测、治疗、手术和康复管理于一体的专业化嗓音中心。
 
-![guidance](/images/nanjing-tongren-guidance.jpg)
+## 在线预约
+
+微信客服：`njtryeson2016`
+QQ：`3040055353`
+电话：`025-6698-8209`
+
+## 接诊时间
+
+周一至周日 8:00 至 17:00
+
+## 医院地址
+
+[南京市 江宁区 吉印大道 2007 号](https://surl.amap.com/Kvzr7vwgcN)
+南京同仁医院门诊大厅 4 楼 B 区
