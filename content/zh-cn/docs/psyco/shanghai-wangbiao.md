@@ -14,14 +14,9 @@ title: 上海｜王飚
 
 ## 注意事项
 
-[王飚][wangbiao] 开证需去过 [陆峥][luzheng] 处，需家长陪同诊疗过。
+王飚开证需去过<a href="../lu-zheng/">陆峥</a>处，需家长陪同诊疗过。
 
-{{% alert theme=warning %}}
-去看 [王飚][wangbiao] 需要年满 20 岁，不满 20 岁无法开具任何证明，会劝你 20 岁之后再来以及进行任何操作。
-{{% /alert %}}
-
-[luzheng]: {{< ref "shanghai-luzheng" >}}
-[wangbiao]: {{< ref "shanghai-wangbiao" >}}
+{{% alert theme=warning %}}去看王飚需要年满 20 岁，不满 20 岁无法开具任何证明，会劝你 20 岁之后再来以及进行任何操作。{{% /alert %}}
 
 ## 证明样式
 

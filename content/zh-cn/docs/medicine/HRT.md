@@ -64,12 +64,12 @@ weight: 1
 
 - 抑制睾酮的分泌
 
-  - [色普龙（醋酸环丙孕酮）]({{< ref "antiandrogen/cyproterone" >}})
+  - <a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>
 
 - 受体拮抗
 
-  - [螺内酯片]({{< ref "antiandrogen/spironolactone" >}})
-  - [比卡鲁胺]({{< ref "antiandrogen/bicalutamide" >}})
+  - <a href="../antiandrogen/spironolactone">螺内酯片</a>
+  - <a href="../antiandrogen/bicalutamide">比卡鲁胺</a>
 
 ### 用药注意事项
 

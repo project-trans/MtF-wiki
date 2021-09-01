@@ -34,7 +34,7 @@ weight: 2
 
 - 雌二醇不仅对生殖和性功能有重要作用，也影响例如骨骼的其它器官。
 
-- 更详细的作用描述请左转本站[HRT 总述]({{< ref "HRT#hrt-效果参考" >}})。
+- 更详细的作用描述请左转本站[HRT 总述](/zh-cn/docs/medicine/hrt/#hrt-效果参考)。
 
 #### 何时检测
 
@@ -59,9 +59,9 @@ weight: 2
 
 #### MtF 参考值
 
-使用 [螺内酯片][spironolactone] 并不会明显降低睾酮水平，故此项的参考价值不大。
+使用<a href="../antiandrogen/spironolactone">螺内酯片</a>并不会明显降低睾酮水平，故此项的参考价值不大。
 
-使用 [色普龙（醋酸环丙孕酮）][cyproterone] 会降低睾酮水平，没有必要将睾酮降得过低，达到 1ng/mL 以下即可，如睾酮过低可考虑减少用量。
+使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会降低睾酮水平，没有必要将睾酮降得过低，达到 1ng/mL 以下即可，如睾酮过低可考虑减少用量。
 
 {{% alert theme=info %}}
 
@@ -70,7 +70,6 @@ weight: 2
 - 成年男性睾酮水平的范围：1.75 - 7.81 ng/mL
 
 （仅供参考，不同医院的测定会有不同的结果与不同的参考范围）
-
 {{% /alert %}}
 
 ### 促卵泡激素（FSH）
@@ -79,14 +78,14 @@ weight: 2
 
 在睾丸中，促卵泡激素提高塞尔托利氏细胞合成男性激素结合蛋白的水平，诱发塞尔托利细胞的紧密结合，同时分泌抑制素，在成精子过程中起到至关重要的作用。
 
-- 使用 [色普龙（醋酸环丙孕酮）][cyproterone] 会使得该项水平降低，甚至低于检出值。
+- 使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会使得该项水平降低，甚至低于检出值。
 
 ### 黄体生成素（LH）
 
 **黄体生成素**（LH），是一种在脑下垂体前叶合成的激素。它的形成是受到促性腺激素释放激素（GnRH）的控制。
 黄体化激素刺激睾丸中睾丸间质细胞合成睾丸素。
 
-- 使用 [色普龙（醋酸环丙孕酮）][cyproterone] 会使得该项水平降低，甚至低于检出值。
+- 使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会使得该项水平降低，甚至低于检出值。
 
 ### 孕酮（P）
 
@@ -98,7 +97,7 @@ weight: 2
 
 **催乳素**（PRL）是一种由垂体前叶腺嗜酸细胞分泌蛋白质激素。主要作用为促进乳腺发育生长，刺激并维持泌乳。催乳素能刺激哺乳动物的乳腺发育或泌乳。在发育期，催乳素能与雌激素、孕激素及其他激素共同作用，促使乳腺发育。
 
-使用 [色普龙（醋酸环丙孕酮）][spironolactone] 会使该项水平偏高，可考虑减少用量。
+使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会使该项水平偏高，可考虑减少用量。
 
 ## 参考阅读
 
@@ -108,6 +107,3 @@ weight: 2
 1. <https://zh.wikipedia.org/wiki/孕酮>
 1. <https://zh.wikipedia.org/wiki/雌二醇>
 1. <https://zh.wikipedia.org/wiki/黄体生成素>
-
-[spironolactone]: {{< ref "antiandrogen/spironolactone" >}}
-[cyproterone]: {{< ref "antiandrogen/cyproterone" >}}

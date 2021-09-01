@@ -99,9 +99,9 @@ weight: 2
 
 ## 身份变更
 
-- [公证指引]({{< ref "guide-notarization" >}})
-- [证件变更指引]({{< ref "guide-id-card" >}})
-- [金融账户变更指引]({{< ref "guide-financial-account" >}})
+- <a href="../notarization">公证指引</a>
+- <a href="../update-id-card">证件变更指引</a>
+- <a href="../update-financial-account">金融账户变更指引</a>
 
 ## 其他可供参考的文章
 
