@@ -53,13 +53,14 @@ weight: 1
 
 ## 证明样式
 
-![](images/doctor/li-hui-bl.jpg)
-![](images/doctor/li-hui-zm.jpg)
+![!](images/doctor/li-hui-bl.jpg)
+![!](images/doctor/li-hui-zm.jpg)
 
 ## 出诊时刻表
 
 四川省精神医学中心心身医学门诊
 
-每周一稳定出诊  周二不定期出诊
+每周一 稳定 出诊
+每周二 不定期 出诊
 
-(建议提前一周以上在微信公众号挂号)
+（建议提前一周以上在微信公众号挂号）
