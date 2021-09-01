@@ -10,4 +10,4 @@ weight: 0
 
 > 南京同仁医院嗓音中心成立于 2014 年 10 月 8 日，在引进亚洲专业嗓音机构 —— 韩国艺颂的全套医疗服务体系及理念的基础上，结合南京同仁耳鼻喉头颈外科国家临床重点专科、江苏省重点专科的优势，成为国内为数不多的集嗓音检测、治疗、手术和康复管理于一体的专业化嗓音中心。
 
-![guideline](http://www.njtrh.org/ueditor/php/upload/image/20210728/1627442228398342.jpg)
+![guidance](/images/nanjing-tongren-guidance.jpg)
