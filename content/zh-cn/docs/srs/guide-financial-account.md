@@ -1,5 +1,9 @@
 ---
-title: 金融账户变更指引
+title: "金融账户变更指引"
+date: 2021-08-15T09:54:52+08:00
+weight: 0
+enableToc: true
+tocLevels: ["h2", "h3", "h4"]
 ---
 
 本文基于 <https://zhuanlan.zhihu.com/p/351340130> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。

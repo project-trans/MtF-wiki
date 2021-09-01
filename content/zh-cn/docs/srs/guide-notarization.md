@@ -1,5 +1,9 @@
 ---
-title: 公证指引
+title: "公证指引"
+date: 2021-08-15T11:00:04+08:00
+weight: 0
+enableToc: true
+tocLevels: ["h2", "h3", "h4"]
 ---
 
 本文基于 <https://zhuanlan.zhihu.com/p/182625365> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。

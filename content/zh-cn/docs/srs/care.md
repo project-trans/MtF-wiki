@@ -1,6 +1,9 @@
 ---
 title: 术后护理
+date: 2021-06-06T07:52:34.000Z
 weight: 2
+enableToc: true
+tocLevels: [h2, h3, h4]
 ---
 
 ## 需要购置的护理所需物料
