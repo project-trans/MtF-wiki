@@ -1,9 +1,6 @@
 ---
-title: "泰国｜Chettawut 医生"
-date: 2021-06-06T15:47:07+08:00
+title: 泰国｜Chettawut 医生
 weight: 14
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
 ---
 
 ![Chettawut 照片](images/doctor/Chettawut.jpg)
@@ -138,5 +135,5 @@ Chettawut 医生尤其擅长在手术中选择和保留重要的感觉神经，�
 - Chettawut 医生术后是住酒店，医院可以提供三家合作酒店。
 - 可以自己联系翻译或者中介（以上提到是步骤是医院官方步骤）
 
-[^1]: http://www.chet-plasticsurgery.com/zh-hans/变性手术领域中顶尖的手术中心/
-[^2]: http://www.chet-plasticsurgery.com/zh-hans/性别重置手术/
+[^1]: <http://www.chet-plasticsurgery.com/zh-hans/变性手术领域中顶尖的手术中心/>
+[^2]: <http://www.chet-plasticsurgery.com/zh-hans/性别重置手术/>
