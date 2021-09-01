@@ -29,10 +29,10 @@ weight: 0
   [维基百科](https://zh.wikipedia.org/zh-cn/实际生活体验)
 
 - HRT: Hormone replacement therapy 激素替代疗法
-  [本站板块](/zh-cn/docs/medicine/hrt/)｜[维基百科](https://zh.wikipedia.org/zh-cn/激素替代疗法)
+  [本站板块]({{< ref "hrt" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/激素替代疗法)
 
 - SRS: Sex reassignment surgery 性别重置手术
-  [本站板块](/zh-cn/docs/srs/faq/)｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
+  [本站板块]({{< ref "srs/faq" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
   有时也会被称之为：GRS (gender reassignment surgery)
 
 - SRT: Sex reassignment therapy 性别重置疗法
@@ -42,7 +42,7 @@ weight: 0
   [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他療法)
 
 - VFS: Voice feminization surgery 声音女性化手术
-  [本站板块](/zh-cn/docs/vocal/medical/)
+  [本站板块]({{< ref "vocal/medical" >}})
 
 - AG: Autogynephilia 幻想变性性兴奋理论
 

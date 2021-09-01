@@ -20,11 +20,11 @@ weight: 3
 
 友好医生：
 
-- 胡蕾
+- [胡蕾]({{< ref "hu-lei" >}})
 
-- 张敬悬
+- [张敬悬]({{< ref "zhang-jingxuan" >}})
 
-- 曹秉玉
+- [曹秉玉]({{< ref "cao-bingyu" >}})
 
 - 陈忠
 
