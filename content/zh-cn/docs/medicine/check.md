@@ -17,7 +17,7 @@ weight: 2
 {{< /notice >}}
 
 {{< notice info "提示" >}}
-不同医院的测定结果的所用的计量单位存在差异，本站提供[激素单位换算器]({{< ref "converter" >}})
+不同医院的测定结果的所用的计量单位存在差异，本站提供[激素单位换算器](/zh-cn/converter/)
 {{< /notice >}}
 
 ## 相关指标简介
@@ -109,5 +109,5 @@ weight: 2
 1. <https://zh.wikipedia.org/wiki/雌二醇>
 1. <https://zh.wikipedia.org/wiki/黄体生成素>
 
-[spironolactone]: {{< ref "spironolactone" >}}
-[cyproterone]: {{< ref "cyproterone" >}}
+[spironolactone]: {{< ref "antiandrogen/spironolactone" >}}
+[cyproterone]: {{< ref "antiandrogen/cyproterone" >}}

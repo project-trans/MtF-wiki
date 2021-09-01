@@ -5,6 +5,6 @@ weight: 1
 collapsible: true
 ---
 
-- [HRT 总述]({{< ref "HRT" >}})
+- [HRT 总述]({{< ref "hrt" >}})
 
 - [进行激素检查]({{< ref "check" >}})

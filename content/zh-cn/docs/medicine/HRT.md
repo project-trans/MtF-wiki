@@ -64,12 +64,12 @@ weight: 1
 
 - 抑制睾酮的分泌
 
-  - [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})
+  - [色普龙（醋酸环丙孕酮）]({{< ref "antiandrogen/cyproterone" >}})
 
 - 受体拮抗
 
-  - [螺内酯片]({{< ref "spironolactone" >}})
-  - [比卡鲁胺]({{< ref "bicalutamide" >}})
+  - [螺内酯片]({{< ref "antiandrogen/spironolactone" >}})
+  - [比卡鲁胺]({{< ref "antiandrogen/bicalutamide" >}})
 
 ### 用药注意事项
 
@@ -104,7 +104,7 @@ _来源：北医三院_
 
 - 如果您是未成年跨儿，请要求家长陪同前往专业的医院进行就诊。
 - 如果你是跨儿的家长，请尽早陪同您的小孩前往专业医院就诊。
-  可以找上海地区[邱文娟]({{< ref "shanghai-qiuwenjuan" >}})医生
+  可以找上海地区[邱文娟](/zh-cn/docs/hrt/yangtze/#邱文娟)医生
 
 {{</ alert >}}
 
