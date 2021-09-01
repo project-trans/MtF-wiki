@@ -22,5 +22,5 @@ QQ：`3040055353`
 
 ## 医院地址
 
-[南京市 江宁区 吉印大道 2007 号](https://surl.amap.com/Kvzr7vwgcN)
+[南京市 江宁区 吉印大道 2007 号](https://www.amap.com/place/B00190AGM3)
 南京同仁医院门诊大厅 4 楼 B 区
