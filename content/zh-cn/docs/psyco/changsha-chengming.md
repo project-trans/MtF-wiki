@@ -1,7 +1,5 @@
 ---
 title: 长沙｜程明
-aliases:
-  - /zh-cn/docs/psyco/midsouth/cheng-ming/
 ---
 
 医生姓名：程明

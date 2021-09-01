@@ -1,7 +1,5 @@
 ---
 title: 深圳｜毕波
-aliases:
-  - /zh-cn/docs/psyco/pearl/bi-bo/
 ---
 
 医生：毕波

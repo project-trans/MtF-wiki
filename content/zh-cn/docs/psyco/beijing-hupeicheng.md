@@ -1,7 +1,5 @@
 ---
 title: 北京｜胡佩诚
-aliases:
-  - /zh-cn/docs/psyco/beijing/hu-pei-cheng/
 ---
 
 {{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}

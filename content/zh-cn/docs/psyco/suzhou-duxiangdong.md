@@ -1,7 +1,5 @@
 ---
 title: 苏州｜杜向东
-aliases:
-  - /zh-cn/docs/psyco/yangtze/du-xiangdong/
 ---
 
 ![杜向东照片](images/doctor/du-xiangdong.jpg)

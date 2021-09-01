@@ -1,7 +1,5 @@
 ---
 title: 重庆｜宁洁
-aliases:
-  - /zh-cn/docs/psyco/southwest/ning-jie/
 ---
 
 ![宁洁](images/doctor/ning-jie.jpg)

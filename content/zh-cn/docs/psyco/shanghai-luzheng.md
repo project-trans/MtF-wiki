@@ -1,7 +1,5 @@
 ---
 title: 上海｜陆峥
-aliases:
-  - /zh-cn/docs/psyco/yangtze/lu-zheng/
 ---
 
 {{% alert theme=info %}}<img src="/images/wpnl.jpg" style="display:inline;height:6em;vertical-align: middle" /> 侬准备到 600 号报到是伐？{{% /alert %}}

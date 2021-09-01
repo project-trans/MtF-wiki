@@ -1,7 +1,5 @@
 ---
 title: 南昌｜郭明
-aliases:
-  - /zh-cn/docs/psyco/midsouth/guo-ming/
 ---
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 初诊开假条 %}}

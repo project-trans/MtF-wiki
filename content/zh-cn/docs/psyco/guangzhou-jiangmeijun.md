@@ -1,7 +1,5 @@
 ---
 title: 广州｜姜美俊
-aliases:
-  - /zh-cn/docs/psyco/pearl/jiang-meijun/
 ---
 
 ![假装有姜美俊照片](images/doctor/jiang-meijun.jpg)

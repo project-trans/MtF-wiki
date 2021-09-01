@@ -1,7 +1,5 @@
 ---
 title: 济南｜胡蕾
-aliases:
-  - /zh-cn/docs/psyco/shandong/hu-lei/
 ---
 
 ![胡蕾照片](images/doctor/hu-lei.jpg)

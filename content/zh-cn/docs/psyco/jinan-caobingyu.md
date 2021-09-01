@@ -1,7 +1,5 @@
 ---
 title: 济南｜曹秉玉
-aliases:
-  - /zh-cn/docs/psyco/pearl/cao-bingyu/
 ---
 
 ![曹秉玉照片](images/doctor/cao-bingyu.jpg)

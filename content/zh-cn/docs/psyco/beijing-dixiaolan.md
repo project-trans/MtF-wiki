@@ -1,7 +1,5 @@
 ---
 title: 北京｜邸晓兰
-aliases:
-  - /zh-cn/docs/psyco/beijing/di-xiaolan/
 ---
 
 ![邸奶奶照片](images/doctor/di-xiaolan.jpg)
