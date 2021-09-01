@@ -30,9 +30,9 @@ title: 苏州大学
 
 医保可直接用于市区所有三甲医院，报销额度约 60%．
 
-苏州市立医院[周建英](/zh-cn/docs/hrt/yangtze/#%E5%91%A8%E5%BB%BA%E8%8B%B1)可以开具 HRT 处方与药物。
+苏州市立医院[周建英]({{< ref "suzhou-zhoujianying" >}})可以开具 HRT 处方与药物。
 
-开证可尝试苏州广济医院[杜向东](/zh-cn/docs/psyco/yangtze/du-xiangdong/)，也可前往到南京。
+开证可尝试苏州广济医院[杜向东]({{< ref "suzhou-duxiangdong" >}})，也可前往到南京。
 
 ## 院系探路
 
