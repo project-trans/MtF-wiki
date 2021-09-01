@@ -1,5 +1,7 @@
 ---
 title: 云南｜刘瑞湘
+aliases:
+  - /zh-cn/docs/psyco/southwest/liu-ruixiang/
 ---
 
 {{% tag-pos "开病历无需家长" %}} {{% tag-neg "观察期 1 年" %}}

@@ -1,5 +1,7 @@
 ---
 title: 成都｜李慧
+aliases:
+  - /zh-cn/docs/psyco/southwest/li-hui/
 ---
 
 ![李慧](images/doctor/li-hui.jpg)

@@ -1,5 +1,7 @@
 ---
 title: 深圳｜王晓京
+aliases:
+  - /zh-cn/docs/psyco/pearl/wang-xiaojing/
 ---
 
 ![假装有王晓京照片](images/doctor/wang-xiaojing.jpg)

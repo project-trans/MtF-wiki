@@ -1,5 +1,7 @@
 ---
 title: 广州｜贾艳滨
+aliases:
+  - /zh-cn/docs/psyco/pearl/jia-yanbin/
 ---
 
 ![假装有贾艳滨照片](images/doctor/jia-yanbin.png)

@@ -1,5 +1,7 @@
 ---
 title: 重庆｜任正伽
+aliases:
+  - /zh-cn/docs/psyco/southwest/ren-zheng-jia/
 ---
 
 ![任正伽--图片缺失](images/doctor/ji-ling-lost.png)

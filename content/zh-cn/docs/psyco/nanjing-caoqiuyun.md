@@ -1,5 +1,7 @@
 ---
 title: 南京｜曹秋云
+aliases:
+  - /zh-cn/docs/psyco/yangtze/cao-qiuyun/
 ---
 
 ![曹秋云照片](images/doctor/cao-qiuyun.jpg)

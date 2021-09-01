@@ -1,5 +1,7 @@
 ---
 title: 济南｜张敬悬
+aliases:
+  - /zh-cn/docs/psyco/shandong/zhang-jingxuan/
 ---
 
 ![张敬悬照片](images/doctor/zhang-jingxuan.jpg)

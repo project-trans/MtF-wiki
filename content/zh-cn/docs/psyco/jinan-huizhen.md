@@ -1,5 +1,7 @@
 ---
 title: 济南｜山东精卫会诊
+aliases:
+  - /zh-cn/docs/psyco/shandong/huizhen/
 ---
 
 {{< tag-pos 一次出 >}}

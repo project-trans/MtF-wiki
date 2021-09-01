@@ -1,5 +1,7 @@
 ---
 title: 南京｜陈建国（已停诊）
+aliases:
+  - /zh-cn/docs/psyco/yangtze/chen-jianguo/
 ---
 
 {{% alert theme=warning %}}已停诊{{% /alert %}}

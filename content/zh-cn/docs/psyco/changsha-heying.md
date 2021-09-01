@@ -1,5 +1,7 @@
 ---
 title: 长沙｜贺莹
+aliases:
+  - /zh-cn/docs/psyco/midsouth/he-ying/
 ---
 
 {{< tag-pos "无需家长" >}} {{< tag-pos "花钱很少" >}} {{< tag-pos "无需抢挂号" >}}

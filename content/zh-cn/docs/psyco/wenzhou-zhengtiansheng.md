@@ -1,5 +1,7 @@
 ---
 title: 温州｜郑天生
+aliases:
+  - /zh-cn/docs/psyco/yangtze/zheng-tiansheng/
 ---
 
 ![.](/images/doctor/zheng-tiansheng.jpg)

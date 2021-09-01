@@ -1,5 +1,7 @@
 ---
 title: 深圳市康宁医院
+aliases:
+  - /zh-cn/docs/psyco/pearl/shenzhen-kangning/
 ---
 
 ![假装有位照国照片](images/doctor/wei-zhaoguo.png)

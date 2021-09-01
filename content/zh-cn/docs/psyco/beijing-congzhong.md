@@ -1,5 +1,7 @@
 ---
 title: 北京｜丛中
+aliases:
+  - /zh-cn/docs/psyco/beijing/cong-zhong/
 ---
 
 {{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
