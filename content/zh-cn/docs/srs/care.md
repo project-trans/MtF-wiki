@@ -102,13 +102,11 @@ tocLevels: [h2, h3, h4]
 
 ## 身份变更
 
-- [公证指引]({{< ref "guide-notarization" >}})
-- [性別鉴定指引]({{< ref "guide-identification" >}})
-- [司法鉴定指引]({{< ref "guide-forensics" >}})
-- [证件变更指引国内手术]({{< ref "guide-id-card-domestic" >}})
-- [证件变更指引国外手术]({{< ref "guide-id-card-foreign" >}})
-- [金融账户变更指引]({{< ref "guide-financial-account" >}})
-- [电信号码实名变更指引]({{< ref "guide-carrier" >}})
+请依次阅读处理
+
+1. [证件变更指引]({{< ref "guide-id-card" >}})
+1. [金融账户变更指引]({{< ref "guide-financial-account" >}})
+1. [电信号码实名变更指引]({{< ref "guide-carrier" >}})
 
 ## 其他可供参考的文章
 
