@@ -1,8 +1,5 @@
 ---
-title: "南京｜曹秋云"
-description: ""
-date: 2021-04-23T16:17:15+08:00
-draft: false
+title: 南京｜曹秋云
 weight: 1
 ---
 
@@ -13,10 +10,14 @@ weight: 1
 医生姓名：曹秋云
 
 所在医院：
-- 南京鼓楼医院
-- 南京鼓楼医院 江北院区
 
-总费用：约 250 元（著名专家门诊）
+[南京大学医学院附属鼓楼医院](https://amap.com/place/B00190B48R)
+[南京鼓楼医院江北国际医院](https://amap.com/place/B0FFH0UTCD)
+
+## 费用构成
+
+挂号费：35 元（普通门诊）/ 150 元 （著名专家门诊）
+量表部分不超过 400 元（必开：MMPI、SCL-90，可能包含：HCL-32、SLERS、PSQI
 
 ## 挂号
 
@@ -45,13 +46,15 @@ weight: 1
 
 - 如携带在其他医院所做的 MMPI 结果（如果有的话），有概率免除重做之苦
 
+- 她的诊断仅基于 MMPI
+
 Pass 会更好一些哦
 
 ## 证明样式
 
 - 诊断证明：
   ![证明](images/doctor/cao-qiuyun-zm.jpg)
-  
+
 - 病历样例（16 岁）：
   ![证明](images/doctor/cao-qiuyun-zm2.jpg)
 
