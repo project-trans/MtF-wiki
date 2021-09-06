@@ -4,6 +4,7 @@
     "source.fixAll": true
   },
   "markdownlint.config": {
-    "no-inline-html": false
+    "no-inline-html": false,
+    "fenced-code-language": false
   }
 }
