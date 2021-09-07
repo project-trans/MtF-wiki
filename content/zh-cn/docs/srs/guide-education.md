@@ -2,8 +2,8 @@
 title: 学历变更指引
 ---
 
-{{< notice error "注意事项" >}}
-前置建议：建议在大学本科教育前完成 SRS 并完成证件变更以便于减少麻烦
+{{< notice warning "注意事项" >}}
+前置建议：建议在 大学本科教育 前完成 SRS 并 完成[证件变更]({{< ref "guide-id-card" >}}) 以便于减少不必要的麻烦
 {{< /notice >}}
 
 本文基于 <https://zhuanlan.zhihu.com/p/279194334> 和 <https://zhuanlan.zhihu.com/p/272585669> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。
