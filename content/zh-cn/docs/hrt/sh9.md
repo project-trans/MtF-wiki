@@ -18,11 +18,9 @@ weight: 2
 
 ## 交通
 
-上海第九人民医院
+[上海第九人民医院（南部）](https://amap.com/place/B0FFHGMHTC)
 
-程辰医生门诊是在位于瞿溪路 500 号的新门诊楼。
-
-4 号线或 8 号线西藏南路站 5 号口出来向前到第一个路口左转再走一两分钟就到了
+程辰医生门诊 是在位于 瞿溪路 500 号 的 新门诊楼。
 
 ## 门诊时刻
 
@@ -58,9 +56,10 @@ weight: 2
 </figcaption>
 </figure>
 
-开检查。把检查全部做完拿到报告之后再去复诊：
+开检查，把检查全部做完拿到报告之后再去复诊：
+
 {{< expand "展开查看" >}}
-![6](/images/doctor/sh9-6.webp)
+![precheck](/images/doctor/sh9-precheck.jpg)
 {{< /expand >}}
 
 由于需要的是空腹抽血，所以需要第二天一大早就往九院赶。直接拿着就诊卡去机器上取号，然后就等着叫号抽血。
@@ -86,4 +85,4 @@ B 超（~~照奶子~~）当场有结果。
 
 ---
 
-本页内容参考了[<img src="/images/transtalk.webp" alt="" style="display: inline; height:2em;vertical-align: middle;">上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw)和[上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw)，在此表示感谢。
+本页内容参考了[<img src="/images/transtalk.webp" style="display:inline;height:2em;vertical-align:middle">上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw)和[上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw)，在此表示感谢。
