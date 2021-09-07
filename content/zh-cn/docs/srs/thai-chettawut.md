@@ -1,9 +1,8 @@
 ---
-title: "泰国｜Chettawut 医生"
-date: 2021-06-06T15:47:07+08:00
+title: 泰国｜Chettawut 医生
 weight: 14
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
+aliases:
+  - chettawut
 ---
 
 ![Chettawut 照片](images/doctor/Chettawut.jpg)
