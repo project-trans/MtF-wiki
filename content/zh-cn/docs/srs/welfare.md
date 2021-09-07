@@ -19,3 +19,10 @@ weight: 0
   - [美国LGBT权益](https://zh.wikipedia.org/zh-cn/美国LGBT权益)
   - [欧洲LGBT权益](https://zh.wikipedia.org/zh-cn/欧洲LGBT权益)
   - [台湾LGBT权益](https://zh.wikipedia.org/zh-cn/台湾LGBT权益)
+
+## 其他福利
+
+### HPV（人乳头瘤病毒）疫苗
+
+由于 [HPV](https://zh.wikipedia.org/zh-cn/HPV) 疫苗在中国大陆地区的特殊性（仅限于女性接种）
+但是身份变更完成后法律身份为女性因此可以接种 HPV 疫苗
