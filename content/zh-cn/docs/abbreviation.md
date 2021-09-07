@@ -1,7 +1,5 @@
 ---
 title: 缩写词语表
-date: 2021-08-25T15:29:54+08:00
-weight: 0
 ---
 
 - [LGBT+](https://en.wikipedia.org/wiki/LGBT) 是下列性少数单词首字母的合称
