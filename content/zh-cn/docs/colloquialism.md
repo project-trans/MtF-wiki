@@ -21,7 +21,7 @@ title: 通俗用语表
 {{< /expand >}}
 
 {{< expand "手术党" >}}
-指已完成 SRS 手术的。
+指已完成 [SRS]({{< ref "srs/tech" >}}) 手术的。
 {{< /expand >}}
 
 {{< expand "中奖党" >}}
