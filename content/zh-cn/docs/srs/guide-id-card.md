@@ -2,7 +2,7 @@
 title: 证件变更指引
 ---
 
-本文基于 <https://twitter.com/Asada_Yuki_art/status/1433754058209173509> 及其互动撰写
+本文部分内容来自 <https://twitter.com/Asada_Yuki_art>
 
 ## 关于更新身份证
 

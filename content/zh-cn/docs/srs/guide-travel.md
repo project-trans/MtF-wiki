@@ -2,9 +2,8 @@
 title: 旅行指引
 ---
 
-1. 本文基于 <https://zhuanlan.zhihu.com/p/178769522> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。
-
-1. 另有部分内容来自 <https://twitter.com/Asada_Yuki_art>
+本文基于 <https://zhuanlan.zhihu.com/p/178769522> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。
+本文部分内容来自 <https://twitter.com/Asada_Yuki_art>
 
 旧身份证被更改，新身份证未出（领取）之前，可能有搭乘火车、飞机的需求；
 

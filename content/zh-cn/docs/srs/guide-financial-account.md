@@ -2,9 +2,8 @@
 title: 金融账户变更指引
 ---
 
-1. 本文基于 <https://zhuanlan.zhihu.com/p/351340130> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。
-
-2. 另有部分内容来自 <https://twitter.com/Asada_Yuki_art/status/1433754058209173509> 及其互动
+本文基于 <https://zhuanlan.zhihu.com/p/351340130> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。
+本文部分内容来自 <https://twitter.com/Asada_Yuki_art>
 
 ## 借记卡（储蓄卡）证件变更
 
