@@ -15,6 +15,10 @@ weight: 0
 费用：7900 CNY（需要一次性支付）
 费用相对 _北京友谊医院_ 来说较高
 
+{{< expand "前置调查问卷" >}}
+![Trans Woman Voice Questionnaire](/documents/TVQMtF-2021.jpg)
+{{< /expand >}}
+
 ## 注意事项
 
 1. 不需要提供 易性症证明。
