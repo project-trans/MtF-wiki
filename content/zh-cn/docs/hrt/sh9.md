@@ -1,8 +1,6 @@
 ---
-title: "上海九院"
-description: "上海九院提供跨性别序列治疗"
-date: 2021-05-08T14:07:00+08:00
-draft: false
+title: 上海九院｜程辰
+description: 上海九院提供跨性别序列治疗
 weight: 2
 ---
 
@@ -14,43 +12,39 @@ weight: 2
 
 {{% /notice %}}
 
-（虽然这里是九院，但是上海六院用男证可以挂妇科）
+本文大部分内容基于 [上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw) 和 [上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw) 撰写。
 
-## 交通
+（虽然这里是 上海九院，但是 上海六院 用男证可以挂妇科）
 
-[上海第九人民医院（南部）](https://amap.com/place/B0FFHGMHTC)
+医生姓名：[程辰](https://www.haodf.com/doctor/3308881283.html)
 
-程辰医生门诊 是在位于 瞿溪路 500 号 的 新门诊楼。
-
-## 门诊时刻
-
-### 程辰医生
-
-![1](/images/doctor/cheng-chen.jpg)
-
-| 周次 | 时间 |   科室   | 价格 |
-| :--: | :--: | :------: | :--: |
-| 周二 | 下午 | 整复外科 | 25.00 |
+所在医院：[上海第九人民医院（南部）- 新门诊楼](https://amap.com/place/B0FFHGMHTC)
 
 ## 就诊
 
-进入 1 楼大厅后，直接去挂号窗口排队挂号。第一次去的的话，需要带好医保卡或者身份证，以便可以给你开通九院就诊卡。挂好号记得要在窗口边上拿一本九院的病历本~
+进入 1 楼大厅后，直接去挂号窗口排队挂号。
+
+第一次去的的话，需要带好 医保卡 或者 身份证，以便可以给你开通九院 就诊卡。
+
+挂好号记得要在窗口边上拿一本九院的病历本~
 
 然后直接上 9 楼整复外科，到程医生的诊室门口排队。
 
 出示“易性症”证明证明后，给予激素治疗的知情同意书：
 
 {{< expand "知情同意书" >}}
-![1](/images/doctor/sh9/1.webp)
-![2](/images/doctor/sh9/2.webp)
-![3](/images/doctor/sh9/3.webp)
-![4](/images/doctor/sh9/4.webp)
+![ICF (1/4)](/images/doctor/sh9/icf-1.webp)
+![ICF (2/4)](/images/doctor/sh9/icf-2.webp)
+![ICF (3/4)](/images/doctor/sh9/icf-3.webp)
+![ICF (4/4)](/images/doctor/sh9/icf-4.webp)
 {{< /expand >}}
 
 回去后一定要仔细地看完这份文件，如果还是决定要开展 HRT 的话，下次复诊时需要签好字带过来。
 
+（提供已公证的“手术同意书”可跳过本步骤）
+
 {{< expand "病历" >}}
-![record](/images/doctor/sh9/5.webp)
+![Record](/images/doctor/sh9/record.webp)
 {{< /expand >}}
 
 开检查，把检查全部做完拿到报告之后再去复诊：
@@ -74,16 +68,12 @@ B 超（~~照奶子~~）当场有结果。
 
 如果检查报告看完一切都没问题的话，程医生会问你对于那份知情同意书还有什么问题。记住，这个时候，一定要向他提一些问题，切记切记~
 
-{{< expand "处方" >}}
-![prescription](/images/doctor/sh9/7.webp)
+{{< expand "处方笺" >}}
+![Prescription](/images/doctor/sh9/prescription.webp)
 {{< /expand >}}
 
 约定 3 周后复诊，如果有突然的不适一定提前回去复诊。还有提供一张情况记录表。
 
-{{< expand "MtF HRT 随访表" >}}
-![follow-up form](/images/doctor/sh9/8.webp)
+{{< expand "随访表" >}}
+![Follow-up form](/images/doctor/sh9/follow-up-form.webp)
 {{< /expand >}}
-
----
-
-本页内容参考了[<img src="/images/transtalk.webp" style="display:inline;height:2em;vertical-align:middle">上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw)和[上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw)，在此表示感谢。

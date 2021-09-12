@@ -10,22 +10,21 @@ tocLevels: [h2, h3, h4]
 
 团队：
 
-- 刘阳（主任医师）
-- 程辰（主治医师）
-- 张盈帆（副主任医师）
-- 麻荪香（副主任医师）
-- 周怡雯（住院医师）
+- [刘阳](https://www.haodf.com/doctor/74805.html)（主任医师）
+- [程辰]({{< ref "../hrt/sh9" >}})（主治医师）
+- [张盈帆](https://www.haodf.com/doctor/275463.html)（副主任医师）
+- [麻荪香](https://www.haodf.com/doctor/599858232.html)（副主任医师）
+- [周怡雯](https://www.haodf.com/doctor/9032015682.html)（住院医师）
 
 特别顾问：
 
-- 程开祥（主任医师）
+- [程开祥](https://www.haodf.com/doctor/12887.html)（主任医师）
 
 其中 MtF SRS：
 
-- 刘阳（主任医师）
-- 麻荪香（副主任医师）
-- 陈烨（医师团队）
-- 程开祥（据悉也参与手术）
+- [刘阳](https://www.haodf.com/doctor/74805.html)（主任医师）
+- [麻荪香](https://www.haodf.com/doctor/599858232.html)（副主任医师）
+- [程开祥](https://www.haodf.com/doctor/12887.html)（副主任医师）
 
 ### 前置条件
 
