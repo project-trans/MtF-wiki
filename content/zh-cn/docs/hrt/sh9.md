@@ -33,10 +33,8 @@ weight: 2
 出示“易性症”证明证明后，给予激素治疗的知情同意书：
 
 {{< expand "知情同意书" >}}
-![ICF (1/4)](/images/doctor/sh9/icf-1.webp)
-![ICF (2/4)](/images/doctor/sh9/icf-2.webp)
-![ICF (3/4)](/images/doctor/sh9/icf-3.webp)
-![ICF (4/4)](/images/doctor/sh9/icf-4.webp)
+![ICF (1/2)](/images/doctor/sh9/icf-p1.jpg)
+![ICF (2/2)](/images/doctor/sh9/icf-p2.jpg)
 {{< /expand >}}
 
 回去后一定要仔细地看完这份文件，如果还是决定要开展 HRT 的话，下次复诊时需要签好字带过来。
