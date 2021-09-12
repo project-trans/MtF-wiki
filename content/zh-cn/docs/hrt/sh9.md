@@ -30,7 +30,7 @@ weight: 2
 
 | 周次 | 时间 |   科室   | 价格 |
 | :--: | :--: | :------: | :--: |
-| 周二 | 下午 | 整复外科 |      |
+| 周二 | 下午 | 整复外科 | 25.00 |
 
 ## 就诊
 
@@ -55,8 +55,8 @@ weight: 2
 
 开检查，把检查全部做完拿到报告之后再去复诊：
 
-{{< expand "展开查看" >}}
-血液检查项目：CPR + 血常规、凝血、肝功能、电化学、乙肝三对半、性激素六项、HIV + TRUST
+{{< expand "收费明细" >}}
+血液检查项目：CRP + 血常规、凝血、肝功能、电化学、乙肝三对半、性激素六项、HIV + TRUST
 超声检查项目：乳腺、甲状腺、双下肢静脉
 ![Precheck (1/2)](/images/doctor/sh9/precheck-1.png)
 ![Precheck (2/2)](/images/doctor/sh9/precheck-2.png)
@@ -81,7 +81,7 @@ B 超（~~照奶子~~）当场有结果。
 约定 3 周后复诊，如果有突然的不适一定提前回去复诊。还有提供一张情况记录表。
 
 {{< expand "MtF HRT 随访表" >}}
-![Follow-up form](/images/doctor/sh9/8.webp)
+![follow-up form](/images/doctor/sh9/8.webp)
 {{< /expand >}}
 
 ---
