@@ -10,7 +10,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
-This site was founded initially for Chinese trans. However, if you would like to contribute information for the trans in your region, welcome to do it.
+This site was founded initially for China mainland's transgenders. However, if you would like to contribute information for the transgenders in your region, welcome to do it.
 
 ## Content
 
