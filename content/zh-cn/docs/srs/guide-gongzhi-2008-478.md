@@ -23,3 +23,11 @@ title: 公治〔2008〕478 号
 - [司法鉴定部门出具的证明]({{< ref "guide-forensics" >}})
 
 其中可选择使用 **医院证明** 与 **公证书** 或者 **司法鉴定**。
+
+## 其他法律依据
+
+- [居民身份证法（2003）](http://www.gov.cn/flfg/2005-06/27/content_9920.htm)
+- [居民身份证条例实施细则](http://www.gov.cn/gongbao/content/2005/content_60208.htm)
+- [临时居民身份证管理办法](http://www.gov.cn/gongbao/content/2006/content_303589.htm)
+- [关于修改《居民身份证法》的决定（2011）](http://www.gov.cn/jrzg/2011-10/29/content_1981401.htm)
+- [公安部有关部门负责人就人民警察查验居民身份证等问题答记者问](http://www.gov.cn/xinwen/2016-06/15/content_5082591.htm)
