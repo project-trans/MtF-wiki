@@ -29,8 +29,6 @@ title: 通俗用语表
 {{< /expand >}}
 
 {{< expand "中奖党" >}}
-名词。患有包括但不限于下列先天疾病的
-[克氏综合征](https://zh.wikipedia.org/zh-cn/克氏综合征)
-[男性假两性畸形](https://zh.wikipedia.org/zh-cn/双性人)
-[特纳氏综合征](https://zh.wikipedia.org/zh-cn/特纳氏综合征)
+名词。指通过医院诊断等方法发现自己天生具有某些稀有异性生理特质的跨儿。
+“抽奖”即指在医院进行相关诊断，如外周血染色体、腹部平扫等。
 {{< /expand >}}
