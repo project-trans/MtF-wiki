@@ -25,7 +25,7 @@ title: 通俗用语表
 {{< /expand >}}
 
 {{< expand "手术党" >}}
-名词。指已完成 [SRS]({{< ref "srs/tech" >}}) 手术的跨儿。
+名词。指已完成 [SRS]({{< ref "srs/tech" >}}) 的跨儿。
 {{< /expand >}}
 
 {{< expand "中奖党" >}}
