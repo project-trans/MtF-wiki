@@ -41,8 +41,6 @@ weight: 2
 
 回去后一定要仔细地看完这份文件，如果还是决定要开展 HRT 的话，下次复诊时需要签好字带过来。
 
-（提供已公证的“手术同意书”可跳过本步骤）
-
 {{< expand "病历" >}}
 ![Record](/images/doctor/sh9/record.webp)
 {{< /expand >}}
@@ -68,8 +66,8 @@ B 超（~~照奶子~~）当场有结果。
 
 如果检查报告看完一切都没问题的话，程医生会问你对于那份知情同意书还有什么问题。记住，这个时候，一定要向他提一些问题，切记切记~
 
-{{< expand "处方笺" >}}
-![Prescription](/images/doctor/sh9/prescription.webp)
+{{< expand "配药清单" >}}
+![Dispensing list](/images/doctor/sh9/dispensing-list.jpg)
 {{< /expand >}}
 
 约定 3 周后复诊，如果有突然的不适一定提前回去复诊。还有提供一张情况记录表。
