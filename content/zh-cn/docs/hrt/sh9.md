@@ -62,12 +62,18 @@ B 超（~~照奶子~~）当场有结果。
 
 ## 复诊
 
+需要事先告知“程辰”进行预约
+
+{{< expand "随访单（微信）" >}}
+![Follow-up sheet](/images/doctor/sh9/follow-up-sheet.jpg)
+{{< /expand >}}
+
 报告都拿到手之后，就带着所有报告以及自己签字的知情同意书“三刷”程医生。
 
 如果检查报告看完一切都没问题的话，程医生会问你对于那份知情同意书还有什么问题。记住，这个时候，一定要向他提一些问题，切记切记~
 
 {{< expand "配药清单" >}}
-![Dispensing list](/images/doctor/sh9/dispensing-list.jpg)
+![Dispensing list](/images/doctor/sh9/dispensing-list.png)
 {{< /expand >}}
 
 约定 3 周后复诊，如果有突然的不适一定提前回去复诊。还有提供一张情况记录表。
