@@ -20,6 +20,8 @@ weight: 2
 
 所在医院：[上海第九人民医院（南部）- 新门诊楼](https://amap.com/place/B0FFHGMHTC)
 
+出诊时刻：<https://www.haodf.com/doctor/scheduletips/3308881283.html>
+
 ## 就诊
 
 进入 1 楼大厅后，直接去挂号窗口排队挂号。
