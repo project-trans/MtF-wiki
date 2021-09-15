@@ -1,9 +1,5 @@
 ---
 title: 伪声训练相关软件
-date: 2021-09-01T09:35:33+08:00
-weight: 0
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
 ---
 
 ## Android 平台

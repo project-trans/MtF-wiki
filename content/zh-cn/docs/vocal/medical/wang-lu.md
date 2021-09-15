@@ -1,0 +1,39 @@
+---
+title: 深圳大学总医院｜王路
+aliases:
+  - shenzhen-daxue
+---
+
+医生姓名：[王路](https://sugh.szu.edu.cn/Html/Doctors/Main/Index_648.html)
+
+所属医院：[深圳大学总医院](https://amap.com/place/B0FFGS2QMD)
+
+出诊时刻：<https://www.haodf.com/doctor/scheduletips/684298348.html>
+
+## 费用构成
+
+- 嗓音评估（合计：360 元/次）
+  计算机嗓音疾病评估（100 元）
+  喉声图（含声门图）（20 元）
+  电子喉镜检查（含活检、刷检）（195 元）
+  言语能力评定（45 元）
+- 行为矫正治疗（35 元/日）
+- 每疗程（合计：185 元/次）
+  松弛治疗（15 元）
+  计算机言语疾病矫治（120 元）
+  言语训练（50 元 / 30 分钟）
+
+## 注意事项
+
+1. 不需要提供 易性症证明。
+1. 初诊请正常挂号，开始训练之后会提供一个微信的联系方式。
+1. 王路 本人一般情况下 周二/周四 才能预约训练，
+   其余情况一般为 王路老师 的 徒弟接待。
+
+## 嗓音功能训练略解
+
+文档：[嗓音功能训练略解](/documents/shenzhen-daxue-voice-training.pdf)
+
+来源：<https://twitter.com/youzibutaitian>
+
+备份：<https://aka.pw/voice-training>
