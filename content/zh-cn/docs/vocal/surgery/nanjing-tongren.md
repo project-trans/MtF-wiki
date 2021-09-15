@@ -1,6 +1,8 @@
 ---
 title: 南京同仁医院
 weight: 0
+aliases:
+  - ../medical/nanjing-tongren
 ---
 
 ## 南京同仁医院 - 嗓音中心

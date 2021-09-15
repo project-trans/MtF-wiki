@@ -1,6 +1,5 @@
 ---
 title: 深圳大学总医院｜王路
-weight: 0
 aliases:
   - shenzhen-daxue
 ---

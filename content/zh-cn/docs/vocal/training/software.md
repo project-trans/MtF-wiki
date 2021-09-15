@@ -1,5 +1,5 @@
 ---
-title: 伪声训练相关软件
+title: 相关软件
 ---
 
 ## Android 平台

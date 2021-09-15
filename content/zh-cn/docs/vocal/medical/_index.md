@@ -1,5 +1,5 @@
 ---
-title: 医疗资源
+title: 嗓音女性化训练
 weight: 2
 collapsible: true
 ---
