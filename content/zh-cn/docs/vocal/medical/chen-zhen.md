@@ -1,5 +1,6 @@
 ---
 title: 上海同仁医院｜陈臻
+weight: 0
 ---
 
 医生姓名：[陈臻](https://www.haodf.com/doctor/6070455513.html)
