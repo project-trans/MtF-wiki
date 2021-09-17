@@ -6,9 +6,11 @@ aliases:
 
 医生姓名：[王路](https://sugh.szu.edu.cn/Html/Doctors/Main/Index_648.html)
 
-所属医院：[深圳大学总医院](https://amap.com/place/B0FFGS2QMD)
+所属医院：[深圳大学总医院](https://amap.com/place/B0FFGS2QMD)（一般简称为：深大总医院）
 
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/684298348.html>
+
+（深大总医院 目前尚未提供 [嗓音女性化手术]({{< ref "../surgery" >}})）
 
 ## 费用构成
 
@@ -17,7 +19,7 @@ aliases:
   喉声图（含声门图）（20 元）
   电子喉镜检查（含活检、刷检）（195 元）
   言语能力评定（45 元）
-- 每疗程（合计：220 元 / 次）
+- 每个疗程（合计：220 元 / 次）
   行为矫正治疗（35 元 / 日）
   松弛治疗（15 元）
   计算机言语疾病矫治（120 元）
