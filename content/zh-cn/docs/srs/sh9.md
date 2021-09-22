@@ -1,9 +1,6 @@
 ---
 title: 上海九院｜刘阳
-date: 2021-06-06T07:38:42.000Z
 weight: 8
-enableToc: true
-tocLevels: [h2, h3, h4]
 ---
 
 ### 九院跨性别序列治疗团队

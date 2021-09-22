@@ -12,7 +12,7 @@ aliases:
 
 因此公证处所在的城市，必须是 **开具证明的医院的所在城市** 或 **户口所在的城市**
 
-[12345]: https://baike.baidu.com/item/12345 政务服务便民热线
+[12345]: https://baike.baidu.com/item/12345
 
 ## 国内手术
 
