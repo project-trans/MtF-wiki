@@ -34,4 +34,4 @@ weight: 2
 ## 证明样式
 
 诊断证明
-![证明](/images/doctor/cheng-ming-zm.jpg)
+![证明](/images/doctor/cheng-ming-zm.png)
