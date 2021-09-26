@@ -1,12 +1,9 @@
 ---
-title: "重庆｜宁洁"
-description: ""
-date: 2021-05-08T22:42:22+08:00
-draft: false
+title: 重庆｜宁洁
 weight: 1
 ---
 
-![宁洁](images/doctor/ning-jie.jpg)
+{{< doctor-avatar "ning-jie.jpg" >}}
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
 {{% tag-neg 观察期 1 年 %}}

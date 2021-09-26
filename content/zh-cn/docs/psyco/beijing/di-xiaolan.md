@@ -4,7 +4,7 @@ date: 2021-04-23T10:23:15+08:00
 weight: 2
 ---
 
-![邸奶奶照片](images/doctor/di-xiaolan.jpg)
+{{< doctor-avatar "di-xiaolan.jpg" >}}
 
 {{% tag-pos 开病历无需家长 %}}
 {{% tag-pos 病历可用于北三 HRT %}}

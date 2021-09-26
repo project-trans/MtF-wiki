@@ -1,8 +1,5 @@
 ---
-title: "济南｜山东精卫会诊"
-description: ""
-date: 2021-07-20T23:57:00+08:00
-draft: false
+title: 济南｜山东精卫会诊
 weight: 3
 ---
 

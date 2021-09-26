@@ -1,12 +1,9 @@
 ---
-title: "成都｜李慧"
-description: ""
-date: 2021-08-20T15:42:22+08:00
-draft: false
+title: 成都｜李慧
 weight: 1
 ---
 
-![李慧](images/doctor/li-hui.jpg)
+{{< doctor-avatar "li-hui.jpg" >}}
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
 {{% tag-neg 观察期 1 年 %}}

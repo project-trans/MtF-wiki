@@ -1,14 +1,11 @@
 ---
-title: "北京｜胡佩诚"
-description: ""
-date: 2021-07-07T20:51:55+08:00
-draft: false
+title: 北京｜胡佩诚
 weight: 2
 ---
 
 {{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
- ![胡佩诚照片](images/doctor/hu-pei-cheng.jpg)
+{{< doctor-avatar "hu-pei-cheng.jpg" >}}
 
 {{% tag-pos 和蔼老爷爷 %}} {{% tag-pos 性教育创始人 %}}
 {{% tag-pos 初诊开证 %}} {{% tag-pos 病历可用于北三 HRT %}}

@@ -1,12 +1,9 @@
 ---
 title: 苏州｜杜向东
-description: ''
-date: 2021-06-22T08:09:37.000Z
-draft: false
 weight: 3
 ---
 
-![杜向东照片](images/doctor/du-xiangdong.jpg)
+{{< doctor-avatar "du-xiangdong.jpg" >}}
 
 {{% tag-pos "跨性别友好" %}} {{% tag-neg "家长陪诊" %}} {{% tag-neg "一年随诊" %}}
 医生姓名：杜向东

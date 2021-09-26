@@ -3,7 +3,7 @@ title: 南京｜曹秋云
 weight: 1
 ---
 
-![曹秋云照片](images/doctor/cao-qiuyun.jpg)
+{{< doctor-avatar "cao-qiuyun.jpg" >}}
 
 {{% tag-pos 和蔼 %}} {{% tag-pos 一次过 %}} {{% tag-neg 需家长同意 %}}
 

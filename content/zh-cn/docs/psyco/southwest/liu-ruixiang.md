@@ -1,8 +1,5 @@
 ---
 title: 云南｜刘瑞湘
-description: ''
-date: 2021-08-14T21:23:15.000Z
-draft: false
 weight: 3
 ---
 

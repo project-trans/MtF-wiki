@@ -1,13 +1,10 @@
 ---
-title: "重庆｜任正伽"
-description: ""
-date: 2021-06-03T22:16:22+08:00
-draft: false
+title: 重庆｜任正伽
 weight: 1
 ---
 
-![任正伽--图片缺失](images/doctor/ji-ling-lost.png)
-图片缺失
+{{< doctor-avatar "ji-ling-lost.png" >}}
+
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}{{% tag-pos 挂号费 15 %}}
 {{% tag-neg 观察期 1 年 %}}
 
