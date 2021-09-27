@@ -10,7 +10,7 @@ weight: 1
 
 医生姓名：[李慧](http://www.scsjsyxzx.com/physician/2021/4oeEva0B.html)
 
-所在医院：[四川省人民医院（四川省精神医学中心院区）](https://www.amap.com/place/B0FFJAYKFH)
+所在医院：[四川省人民医院（四川省精神医学中心院区）](https://amap.com/place/B0FFJAYKFH)
 
 出诊时刻：<http://www.scsjsyxzx.com/patient_scheduling/>
 
@@ -40,7 +40,7 @@ weight: 1
 
 ## 不开证触发条件
 
-- 明显能感觉到情绪异常的不开证
+- 明显能感觉到情绪或行为异常的不开证
 - 和家里冲突极大的不开证要求带家长去医院劝解或者自行沟通后才开
 
 ## 问诊细节
