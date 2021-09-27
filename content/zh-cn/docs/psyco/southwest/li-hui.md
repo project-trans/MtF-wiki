@@ -8,11 +8,11 @@ weight: 1
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
 {{% tag-neg 观察期 1 年 %}}
 
-医生姓名：[李慧](https://www.haodf.com/doctor/4108336965.html)
+医生姓名：[李慧](http://www.scsjsyxzx.com/physician/2021/4oeEva0B.html)
 
-所在医院：[四川省人民医院](https://amap.com/place/B001C7WOHZ)（四川省精神医学中心院区）
+所在医院：[四川省人民医院（四川省精神医学中心院区）](https://www.amap.com/place/B0FFJAYKFH)
 
-出诊时刻：<https://www.haodf.com/doctor/scheduletips/4108336965.html>
+出诊时刻：<http://www.scsjsyxzx.com/patient_scheduling/>
 
 ## 总述
 
