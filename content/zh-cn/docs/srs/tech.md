@@ -1,9 +1,6 @@
 ---
-title: "手术技术"
-date: 2021-06-06T15:52:30+08:00
+title: 手术技术
 weight: 3
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
 ---
 
 #### SRS 手术方式

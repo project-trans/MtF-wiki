@@ -6,7 +6,7 @@ title: 公治〔2008〕478 号
 
 该文件的全称为 [「关于公民手术变性后变更户口登记性别项目有关问题的批复」][approval] 由 公安部治安管理局 于 2008 年发布
 
-[approval]: https://zh.wikisource.org/wiki/公安部治安管理局关于公民手术变性后变更户口登记性别项目有关问题的批复
+[approval]: http://www.ahlx.gov.cn/OpennessContent/show/1974834.html
 
 ## 批复内容
 

@@ -1,12 +1,9 @@
 ---
-title: "温州｜郑天生"
-description: ""
-date: 2021-06-01T17:07:00+08:00
-draft: false
+title: 温州｜郑天生
 weight: 2
 ---
 
-![](/images/doctor/zheng-tiansheng.jpg)
+{{< doctor-avatar "zheng-tiansheng.jpg" >}}
 
 {{% tag-neg 多次就诊 %}} {{% tag-pos 无需家长 %}} {{% tag-pos 可劝家长 %}}
 {{% tag-pos 平诊不限号 %}} {{% tag-pos 便宜 %}}
@@ -14,7 +11,7 @@ weight: 2
 医生姓名：郑天生
 所在医院：温州市康宁医院
 
-![](/images/doctor/zheng-tiansheng-qr.jpg)
+![QR](/images/doctor/zheng-tiansheng-qr.jpg)
 
 ## 挂号
 
@@ -26,7 +23,7 @@ weight: 2
 
 不会因为其他问题拒绝开证
 
-建议不要背量表，一眼假，还有可能被开更多检查单 
+建议不要背量表，一眼假，还有可能被开更多检查单
 
 三次就诊（每次至少间隔一个月）可开证
 
@@ -41,7 +38,7 @@ weight: 2
 
 ## 出诊时刻表
 
-### 康宁医院：
+### 康宁医院
 
 | 周次 | 时间 | 科室 | 价格 |
 | :---: | :---: | :---: | :---: |
@@ -49,6 +46,6 @@ weight: 2
 | 周四 | 全天 | 睡眠障碍科 平诊 | 17 元 |
 | 周五 | 上午 | 儿少心理科 特需 | 100 元 |
 
-### 网上咨询：
+### 网上咨询
 
 周二 周三 周四 周五 周日 18:00 ~ 22:00

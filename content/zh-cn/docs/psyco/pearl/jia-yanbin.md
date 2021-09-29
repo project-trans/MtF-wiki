@@ -1,12 +1,9 @@
 ---
-title: "广州｜贾艳滨"
-description: ""
-date: 2021-06-04T16:47:05+08:00
-draft: false
+title: 广州｜贾艳滨
 weight: 1
 ---
 
-![假装有贾艳滨照片](images/doctor/jia-yanbin.png)
+{{< doctor-avatar "jia-yanbin.png" >}}
 
 {{% tag-neg 昂贵 %}}
 

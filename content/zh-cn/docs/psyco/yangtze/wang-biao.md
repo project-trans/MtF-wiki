@@ -5,7 +5,7 @@ weight: 5
 
 {{% alert theme=info %}}<img src="/images/wpnl.jpg" style="display: inline; height:6em;vertical-align: middle;" /> 侬准备到 600 号报到是伐？{{% /alert %}}
 
-![王飚照片](images/doctor/wang-biao.jpg)
+{{< doctor-avatar "wang-biao.jpg" >}}
 
 {{% tag-neg 昂贵 %}} {{% tag-neg 家长党 %}} {{% tag-neg 初诊不开证 %}} {{% tag-pos 可劝家长 %}}
 

@@ -1,12 +1,9 @@
 ---
-title: "深圳｜王晓京"
-description: ""
-date: 2021-06-04T16:47:05+08:00
-draft: false
+title: 深圳｜王晓京
 weight: 3
 ---
 
-![假装有王晓京照片](images/doctor/wang-xiaojing.jpg)
+{{< doctor-avatar "wang-xiaojing.jpg" >}}
 
 医生姓名：王晓京
 

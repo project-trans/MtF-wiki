@@ -1,19 +1,18 @@
 ---
-title: "成都｜李慧"
-description: ""
-date: 2021-08-20T15:42:22+08:00
-draft: false
+title: 成都｜李慧
 weight: 1
 ---
 
-![李慧](images/doctor/li-hui.jpg)
+{{< doctor-avatar "li-hui.jpg" >}}
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
 {{% tag-neg 观察期 1 年 %}}
 
-医生姓名：李慧
+医生姓名：[李慧](http://www.scsjsyxzx.com/physician/2021/4oeEva0B.html)
 
-所在医院：四川省人民医院（四川省精神医学中心院区）
+所在医院：[四川省人民医院（四川省精神医学中心院区）](https://amap.com/place/B0FFJAYKFH)
+
+出诊时刻：<http://www.scsjsyxzx.com/patient_scheduling/>
 
 ## 总述
 
@@ -27,11 +26,11 @@ weight: 1
 
 挂号费：15 元
 
-其他费用：SAS MMPI SCL-90 SDS 量表总和 248 元（非必须）
+其他费用：SAS、MMPI、SCL-90、SDS 量表总和 248 元（非必须）
 
 ## 挂号
 
-[四川省精神医学中心]官方公众号，心身医学门诊
+四川省精神医学中心 官方公众号，心身医学门诊
 
 16 岁以下需每个月复诊一次
 
@@ -39,13 +38,18 @@ weight: 1
 
 网上挂号
 
+## 不开证触发条件
+
+- 明显能感觉到情绪或行为异常的不开证
+- 和家里冲突极大的不开证要求带家长去医院劝解或者自行沟通后才开
+
 ## 问诊细节
 
 进去后会先进行简单的聊天消除就诊人的紧张感
 
 询问感受与打算及首次发现想法的年限
 
-正常情况下会让就诊人进行 SAS MMPI SCL-90 SDS 测试，但如果诊人主动向李慧医生说明不想进行量表测试并说明原因，李慧医生将会对就诊人口头询问问题代替量表
+正常情况下会让就诊人进行 SAS、MMPI、SCL-90、SDS 测试，但如果诊人主动向李慧医生说明不想进行量表测试并说明原因，李慧医生将会对就诊人口头询问问题代替量表
 
 如果带了家长会帮忙向家长科普劝导
 
@@ -53,14 +57,5 @@ weight: 1
 
 ## 证明样式
 
-![!](images/doctor/li-hui-bl.jpg)
-![!](images/doctor/li-hui-zm.jpg)
-
-## 出诊时刻表
-
-四川省精神医学中心心身医学门诊
-
-每周一 稳定 出诊
-每周二 不定期 出诊
-
-（建议提前一周以上在微信公众号挂号）
+![!](/images/doctor/li-hui-bl.jpg)
+![!](/images/doctor/li-hui-zm.jpg)
