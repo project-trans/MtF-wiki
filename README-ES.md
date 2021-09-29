@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Welcome to **MtF Wiki**!
+# Welcome to **MtF Wiki**
 
 [简中](README.md) | [繁中](README-T.md) | [English](README-EN.md) | **Español**
 
@@ -16,7 +16,7 @@ Aunque este sitio fue fundado inicialmente para las trans chinas, proporcionamos
 
 Bienvenida a MtF Wiki. Hay aquí un lugar que podría echar una mano a la comunidad de mujeres trans.
 
-MtF(Male-to-Female), mujer trans, se refiere a las personas que, a pesar de haber sido asignados al género masculino al nacer, sitúan su identidad dentro de lo femenino. 
+MtF(Male-to-Female), mujer trans, se refiere a las personas que, a pesar de haber sido asignados al género masculino al nacer, sitúan su identidad dentro de lo femenino.
 
 Nos comprometemos a ser un sitio de integración de conocimientos transgénero gratuito, abierto y continuamente actualizado, donde se puede aprender sobre todo tipo de conocimientos medicamentos, médicos, sexuales y mucho más.
 
@@ -55,7 +55,7 @@ Si quieres citar este GitHub repo, puedes usar el bibtex：
 
 ## Contacto
 
-[![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
+[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://discord.gg/UtCungsT7V)
 
 email: mtfwiki@estela.cn
 
