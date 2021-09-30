@@ -1,12 +1,9 @@
 ---
-title: "济南｜胡蕾"
-description: ""
-date: 2021-06-04T20:48:21+08:00
-draft: false
+title: 济南｜胡蕾
 weight: 1
 ---
 
-![胡蕾照片](images/doctor/hu-lei.jpg)
+{{< doctor-avatar "hu-lei.jpg" >}}
 
 {{% tag-pos 和蔼 %}} {{% tag-pos 可劝导家长 %}} {{% tag-neg 开证时家长需在场 %}}
 

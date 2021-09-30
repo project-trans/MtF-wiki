@@ -1,12 +1,9 @@
 ---
-title: "广州｜贾艳滨"
-description: ""
-date: 2021-06-04T16:47:05+08:00
-draft: false
+title: 广州｜贾艳滨
 weight: 1
 ---
 
-![假装有贾艳滨照片](images/doctor/jia-yanbin.png)
+{{< doctor-avatar "jia-yanbin.png" >}}
 
 {{% tag-neg 昂贵 %}}
 
@@ -17,7 +14,8 @@ weight: 1
 最低消费：30（周五挂号费为 30 元，周二、三的挂号费为 300 元）+185（首诊挂贾医生需要额外做题检查）
 
 ## 挂号方式
-微信公众号：暨南大学附属第一医院
+
+微信公众号：「暨南大学附属第一医院」
 
 院区：暨大总院
 
@@ -34,7 +32,7 @@ weight: 1
 
 ## 证明样式
 
-![](images/doctor/jia-yanbin-zm.jpg)
+![certifed](images/doctor/jia-yanbin-zm.jpg)
 
 ## 出诊时刻表
 
@@ -43,4 +41,3 @@ weight: 1
 | 周二 | 见医院官网/公众号 | 精神医学科门诊（特需）| 300 元 |
 | 周三 | 见医院官网/公众号 | 精神医学科门诊（特需）| 300 元 |
 | 周五 | 见医院官网/公众号 | 精神医学科门诊 | 30 元 |
-

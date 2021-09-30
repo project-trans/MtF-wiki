@@ -4,6 +4,9 @@
     "source.fixAll": true
   },
   "markdownlint.config": {
-    "no-inline-html": false
+    "single-h1": false,
+    "no-inline-html": false,
+    "no-duplicate-header": false,
+    "fenced-code-language": false
   }
 }

@@ -5,6 +5,6 @@ weight: 3
 collapsible: true
 ---
 
-<a href="../hrt">HRT 总述</a>
+[HRT 总述]({{< ref "../HRT" >}})
 
-<a href="../check">进行激素检查</a>
+[进行激素检查]({{< ref "../check" >}})

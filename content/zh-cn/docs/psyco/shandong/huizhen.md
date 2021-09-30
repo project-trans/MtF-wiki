@@ -1,8 +1,5 @@
 ---
-title: "济南｜山东精卫会诊"
-description: ""
-date: 2021-07-20T23:57:00+08:00
-draft: false
+title: 济南｜山东精卫会诊
 weight: 3
 ---
 
@@ -20,11 +17,11 @@ weight: 3
 
 友好医生：
 
-- 胡蕾
+- [胡蕾]({{< ref "hu-lei" >}})
 
-- 张敬悬
+- [张敬悬]({{< ref "zhang-jingxuan" >}})
 
-- 曹秉玉
+- [曹秉玉]({{< ref "cao-bingyu" >}})
 
 - 陈忠
 

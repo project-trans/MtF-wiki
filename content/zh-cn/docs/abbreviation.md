@@ -1,7 +1,5 @@
 ---
 title: 缩写词语表
-date: 2021-08-25T15:29:54+08:00
-weight: 0
 ---
 
 - [LGBT+](https://en.wikipedia.org/wiki/LGBT) 是下列性少数单词首字母的合称
@@ -22,17 +20,17 @@ weight: 0
   transM: 跨性别男性（FtM）
   transles: 跨性别女同性恋（即其中一方为 transF）
   transgay: 跨性别男同性恋（即其中一方为 transM）
-  MtX, FtX: 认为自己不属于指派性别，同时也不完全属于另一个性别（X 为 non-binary 非二元）
-  TS: 缩写自 Trans Sexual 而非 Transgender
+  FtX, MtX: 认为自己不属于指派性别，同时也不完全属于另一个性别（借自日语，X 为 Xジェンダー X-gender，即 non-binary 非二元）
+  TS: 缩写自 transsexual 而非 transgender
 
 - RLE: Real-life experience 实际生活体验
   [维基百科](https://zh.wikipedia.org/zh-cn/实际生活体验)
 
 - HRT: Hormone replacement therapy 激素替代疗法
-  [本站板块](/zh-cn/docs/medicine/hrt/)｜[维基百科](https://zh.wikipedia.org/zh-cn/激素替代疗法)
+  [本站板块]({{< ref "hrt" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/激素替代疗法)
 
 - SRS: Sex reassignment surgery 性别重置手术
-  [本站板块](/zh-cn/docs/srs/faq/)｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
+  [本站板块]({{< ref "srs/faq" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
   有时也会被称之为：GRS (gender reassignment surgery)
 
 - SRT: Sex reassignment therapy 性别重置疗法
@@ -42,7 +40,7 @@ weight: 0
   [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他療法)
 
 - VFS: Voice feminization surgery 声音女性化手术
-  [本站板块](/zh-cn/docs/vocal/medical/)
+  [本站板块]({{< ref "vocal/medical" >}})
 
 - AG: Autogynephilia 幻想变性性兴奋理论
 
