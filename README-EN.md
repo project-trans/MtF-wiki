@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Welcome to **MtF Wiki**!
+# Welcome to **MtF Wiki**
 
 [简中](README.md) | [繁中](README-T.md) | **English** | [Español](README-ES.md)
 
@@ -55,7 +55,7 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
+[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://discord.gg/UtCungsT7V)
 [![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
 
 email: mtfwiki@estela.cn
