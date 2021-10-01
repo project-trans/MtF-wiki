@@ -17,7 +17,7 @@ landing:
     - link: docs
       text: 查看文档
       color: primary
-  #backgroundImage: 
+  #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
@@ -34,8 +34,8 @@ footer:
           link: https://github.com/mtf-wiki
         - title: QQ 群
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
-        - title: Telegram
-          link: https://t.me/MtFwiki
+        - title: Discord
+          link: https://discord.gg/UtCungsT7V
         - title: e-mail
           link: mailto:mtfwiki@estela.cn
     - title: 友情合作
@@ -44,7 +44,7 @@ footer:
           link: /zh-cn/docs/friendship/#%E8%B7%A8%E6%80%A7%E5%88%AB%E7%9B%B8%E5%85%B3-botqq
         - title: 厌世私贩淘宝店
           link: https://asada-yuki.taobao.com/
-  contents: 
+  contents:
     align: left
     applySinglePageCss: true
     markdown:

@@ -6,7 +6,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Welcome to **MtF Wiki**!
+# Welcome to **MtF Wiki**
 
 **简体中文** | [繁中](README-T.md) | [English](README-EN.md) | [Español](README-ES.md)
 
@@ -57,7 +57,7 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 点击下方图片即可加群：
 
-[![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
+[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://discord.gg/UtCungsT7V)
 [![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
 
 email: mtfwiki@estela.cn

@@ -17,7 +17,7 @@ landing:
     - link: docs
       text: 檢視文檔
       color: primary
-  #backgroundImage: 
+  #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
@@ -34,11 +34,11 @@ footer:
           link: https://github.com/mtf-wiki
         - title: QQ 群
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
-        - title: Telegram
-          link: https://t.me/MtFwiki
+        - title: Discord
+          link: https://discord.gg/UtCungsT7V
         - title: e-mail
           link: mailto:mtfwiki@estela.cn
-  contents: 
+  contents:
     align: left
     applySinglePageCss: true
     markdown:
