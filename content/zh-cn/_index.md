@@ -42,8 +42,6 @@ footer:
       links:
         - title: 跨性别相关 bot
           link: /zh-cn/docs/friendship/#%E8%B7%A8%E6%80%A7%E5%88%AB%E7%9B%B8%E5%85%B3-botqq
-        - title: 厌世私贩淘宝店
-          link: https://asada-yuki.taobao.com/
   contents:
     align: left
     applySinglePageCss: true
