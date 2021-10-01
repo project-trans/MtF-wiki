@@ -31,14 +31,14 @@ weight: 0
 <img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/> **珺妍** <a style="color: unset;" href="http://github.com/llh721113" class="bi bi-github" aria-label="GitHub"></i></a>&nbsp;<a href="mailto:llh721113@outlook.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182" height="20" role="img" aria-label="email: llh721113@outlook.com"><title>email: llh721113@outlook.com</title><g shape-rendering="crispEdges"><rect width="39" height="20" fill="#555"/><rect x="39" width="143" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="205" y="140" transform="scale(.1)" fill="#fff" textLength="290">email</text><text x="1095" y="140" transform="scale(.1)" fill="#fff" textLength="1330">llh721113@outlook.com</text></g></svg></a>
 北京地区编辑维护
 
-以及感谢[所有 GitHub 贡献者](https://github.com/mtf-wiki/MtF-Wiki/graphs/contributors)（此处仅显示部分贡献者）：
+以及感谢所有GitHub贡献者：
 
 <div style="padding: 0 1rem;margin: 0 0 1rem;margin-block-start: 1em;margin-block-end: 1em"><ul id="cons" style="list-style: none;"></ul><br></div>
 <p style="float:none;clear:both;"></p>
 
 与其它对我们提供帮助和资讯的小可爱们。
 
-<script>var getJSON = function(url, callback) {var xhr = new XMLHttpRequest();xhr.open('GET', url, true);xhr.responseType = 'json';xhr.onload = function() {var status = xhr.status;if (status === 200) {callback(null, xhr.response);} else {callback(status, xhr.response);}};xhr.send();};getJSON('https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors',function(err, data) {if (err === null) {for(i in data){var para = document.createElement("li");var node = document.createElement("a");var node2 = document.createElement("img");para.style="margin: 4px;float: left;";node2.style="width: 32px;height: 32px;border-radius: 50%;";node.href=data[i].html_url;node2.src=data[i].avatar_url;node.appendChild(node2);para.appendChild(node);var element = document.getElementById("cons");element.appendChild(para);}}});</script>
+<script>var getJSON = function(url, callback) {var xhr = new XMLHttpRequest();xhr.open('GET', url, true);xhr.responseType = 'json';xhr.onload = function() {var status = xhr.status;if (status === 200) {callback(null, xhr.response);} else {callback(status, xhr.response);}};xhr.send();};getJSON('https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors&per_page=100',function(err, data) {if (err === null) {for(i in data){var para = document.createElement("li");var node = document.createElement("a");var node2 = document.createElement("img");para.style="margin: 4px;float: left;";node2.style="width: 32px;height: 32px;border-radius: 50%;";node.href=data[i].html_url;node2.src=data[i].avatar_url;node.appendChild(node2);para.appendChild(node);var element = document.getElementById("cons");element.appendChild(para);}}});</script>
 
 ## 联络
 
