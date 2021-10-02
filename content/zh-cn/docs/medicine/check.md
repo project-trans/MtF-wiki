@@ -99,6 +99,10 @@ weight: 2
 
 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使该项水平偏高，可考虑减少用量。
 
+{{< notice warning "注意事项" >}}
+如果泌乳素高于正常值三倍，请换药或复查mri
+{{< /notice >}}
+
 ## 参考阅读
 
 1. <https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686>
