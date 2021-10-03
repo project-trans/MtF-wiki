@@ -17,7 +17,7 @@ landing:
     - link: docs
       text: Docs
       color: primary
-  #backgroundImage: 
+  #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
@@ -32,13 +32,13 @@ footer:
       links:
         - title: GitHub
           link: https://github.com/mtf-wiki
-        - title: Telegram
-          link: https://t.me/MtFwiki
+        - title: Discord
+          link: https://discord.gg/UtCungsT7V
         - title: QQ Group
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
         - title: e-mail
           link: mailto:mtfwiki@estela.cn
-  contents: 
+  contents:
     align: left
     applySinglePageCss: true
     markdown:
