@@ -6,4 +6,8 @@ aliases:
   - thiti
 ---
 
-## Under Construction
+## 医疗水平
+
+### 术后模具的选择
+
+Thiti医生提供三种宽度的模具供选择：25mm（small）、28mm（mid）、31mm（large）
