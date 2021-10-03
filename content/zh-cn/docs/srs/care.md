@@ -99,7 +99,7 @@ weight: 2
 1. 便携式沐浴盆
 
 ### 手术后模具选择与使用
-{{< alert theme="warning" dir="ltr" >}}
+{{< alert theme=warning >}}
 此部分信息仍待确认及补充
 {{< /alert >}}
 模具的使用周期和方法见[上](#refer-template)。
