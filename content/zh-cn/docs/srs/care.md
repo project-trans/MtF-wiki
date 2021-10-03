@@ -102,7 +102,7 @@ weight: 2
 {{< alert theme=warning >}}
 此部分信息仍待确认及补充
 {{< /alert >}}
-模具的使用周期和方法见[上](#refer-template)。
+模具的使用周期和方法[见上](#refer-template)。
 下面提供了一些模具的标准和尺寸：
 
 - 泰国thiti诊所：small宽度为25mm，mid宽度为28mm，large宽度为31mm。
