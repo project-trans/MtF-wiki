@@ -13,7 +13,23 @@ weight: 1
 
 ## 挂号
 
-周二去初诊 (7元)，周五可以检查，之后周一拿证 (7元)
+请如实填写实名信息
+
+![.](images/doctor/ren-zheng-jia/000.jpg)
+
+![.](images/doctor/ren-zheng-jia/001.jpg)
+
+![.](images/doctor/ren-zheng-jia/002.jpg)
+
+![.](images/doctor/ren-zheng-jia/003.jpg)
+
+![.](images/doctor/ren-zheng-jia/004.jpg)
+
+![.](images/doctor/ren-zheng-jia/005.jpg)
+
+![.](images/doctor/ren-zheng-jia/006.jpg)
+
+周二去初诊 (7 元)，周五可以检查 (499 元)，之后周一拿证 (7 元)
 
 ## 问诊细节
 
@@ -41,6 +57,4 @@ SCL90 MMPI
 
 ## 出诊时刻表
 
-
-
-排班时间不定，以挂号界面为准
+以挂号界面为准
