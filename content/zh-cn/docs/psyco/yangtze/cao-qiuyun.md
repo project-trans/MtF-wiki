@@ -53,10 +53,10 @@ Pass 会更好一些哦
 ## 证明样式
 
 - 诊断证明：
-  ![证明](images/doctor/cao-qiuyun-zm.jpg)
+  ![证明](images/doctor/proof/cao-qiuyun-p1.jpg)
 
 - 病历样例（16 岁）：
-  ![证明](images/doctor/cao-qiuyun-zm2.jpg)
+  ![证明](images/doctor/proof/cao-qiuyun-p2.jpg)
 
 ## 出诊时刻表
 

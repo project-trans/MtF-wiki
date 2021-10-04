@@ -32,7 +32,7 @@ SCL90 MMPI
 
 搬医院前同宁洁
 
-![](images/doctor/ning-jie-zm.jpg)
+![.](images/doctor/proof/ning-jie.jpg)
 
 ## 出诊时刻表
 

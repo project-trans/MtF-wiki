@@ -31,7 +31,7 @@ weight: 1
 
 ## 证明样式
 
-![证明](images/doctor/guo-ming-zm.jpg)
+![证明](images/doctor/proof/guo-ming.jpg)
 
 ## 出诊时刻表
 

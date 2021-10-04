@@ -27,8 +27,8 @@ weight: 4
 
 ## 证明样式
 
-![假装有诊断证明照片](images/doctor/shenzhen-kangning-zm.jpg)
-![假装有诊断证明照片](images/doctor/zhang-qian-zm.jpg)
+![假装有诊断证明照片](images/doctor/proof/shenzhen-kangning.jpg)
+![假装有诊断证明照片](images/doctor/proof/zhang-qian.jpg)
 
 ## 出诊时刻表
 

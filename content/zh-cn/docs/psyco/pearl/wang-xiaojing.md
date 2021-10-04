@@ -19,7 +19,7 @@ weight: 3
 
 ## 证明样式
 
-![假装有诊断证明照片](images/doctor/wang-xiaojing-zm.jpg)
+![假装有诊断证明照片](images/doctor/proof/wang-xiaojing.jpg)
 
 ## 出诊时刻表
 

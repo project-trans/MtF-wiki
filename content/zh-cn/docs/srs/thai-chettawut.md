@@ -5,7 +5,7 @@ aliases:
   - chettawut
 ---
 
-![Chettawut 照片](images/doctor/Chettawut.jpg)
+![Chettawut 照片](images/doctor/chettawut.jpg)
 
 {{% tag-pos WPATH 成员 %}}
 

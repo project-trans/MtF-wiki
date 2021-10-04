@@ -45,7 +45,7 @@ weight: 4
 
 ## 证明样式
 
-![证明](images/doctor/lu-zheng-zm.jpg)
+![证明](images/doctor/proof/lu-zheng.jpg)
 
 ## 出诊时刻表
 

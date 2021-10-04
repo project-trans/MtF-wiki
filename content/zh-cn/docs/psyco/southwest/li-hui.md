@@ -58,4 +58,4 @@ weight: 1
 ## 证明样式
 
 ![!](/images/doctor/li-hui-bl.jpg)
-![!](/images/doctor/li-hui-zm.jpg)
+![!](/images/doctor/proof/li-hui.jpg)

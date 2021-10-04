@@ -20,7 +20,7 @@ weight: 2
 
 ## 证明样式
 
-![假装有诊断证明照片](images/doctor/jiang-meijun-zm.jpg)
+![假装有诊断证明照片](images/doctor/proof/jiang-meijun.jpg)
 
 ## 出诊时刻表
 

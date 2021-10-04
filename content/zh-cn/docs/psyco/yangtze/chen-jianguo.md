@@ -16,7 +16,7 @@ weight: 11
 
 ## 证明样式
 
-![证明](images/doctor/chen-jianguo-zm.jpg)
+![证明](images/doctor/proof/chen-jianguo.jpg)
 
 ## 出诊时刻表
 

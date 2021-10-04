@@ -32,7 +32,7 @@ weight: 1
 
 ## 证明样式
 
-![certifed](images/doctor/jia-yanbin-zm.jpg)
+![certifed](images/doctor/proof/jia-yanbin.jpg)
 
 ## 出诊时刻表
 
