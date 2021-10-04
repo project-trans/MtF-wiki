@@ -40,7 +40,6 @@ weight: 1
 <div style="position: relative; padding: 30% 45%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="https://player.bilibili.com/player.html?bvid=BV1eq4y1U71L&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
 </div>
-
 {{< notice warning "用药安全提示" >}}
 请勿将凝胶涂抹于乳房处。
 {{< /notice >}}
@@ -49,7 +48,9 @@ weight: 1
 
 如发现药物效果太强或太弱，请向医生咨询，以调整剂量。
 
-每日使用 1 计量尺，雌二醇的血浆浓度平均为 80pg/mL．
+**若采血区域涂抹过凝胶，会导致雌二醇检测结果反常偏大**
+
+每日使用 1 计量尺，雌二醇的血浆浓度**平均**为 80pg/mL．
 
 {{< notice info "关于雌二醇贴片" >}}
 雌二醇贴片（透皮治疗系统，transdermal therapeutic system）与凝胶类似，有效成分为（半水合）雌二醇，二者均非类固醇酯类药物。与口服药物相比，贴片与凝胶可避免首过效应，或可降低肝脏负担。
