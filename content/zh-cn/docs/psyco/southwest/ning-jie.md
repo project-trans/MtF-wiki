@@ -30,7 +30,7 @@ SCL90 MMPI
 
 ## 证明样式
 
-![.](images/doctor/proof/ning-jie.jpg)
+![proof](/images/doctor/proof/ning-jie.jpg)
 
 ## 出诊时刻表
 

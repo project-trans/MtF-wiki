@@ -9,27 +9,21 @@ weight: 1
 
 医生姓名：任正伽
 
-所在医院：重庆医科大附三院
+所在医院：[重庆医科大学附属第三医院](https://amap.com/place/B0FFGPSPQC)
 
 ## 挂号
 
 请如实填写实名信息
 
-![.](images/doctor/ren-zheng-jia/000.jpg)
+![QRCode List](/images/doctor/ren-zheng-jia.jpg)
 
-![.](images/doctor/ren-zheng-jia/001.jpg)
-
-![.](images/doctor/ren-zheng-jia/002.jpg)
-
-![.](images/doctor/ren-zheng-jia/003.jpg)
-
-![.](images/doctor/ren-zheng-jia/004.jpg)
-
-![.](images/doctor/ren-zheng-jia/005.jpg)
-
-![.](images/doctor/ren-zheng-jia/006.jpg)
+关注「重庆医科大学附属第三医院」公众号 - 选择“医疗服务”菜单 - 预约挂号 - 搜索“任正伽” - 选择“出诊信息” 进行预约
 
 周二去初诊 (7 元)，周五可以检查 (499 元)，之后周一拿证 (7 元)
+
+## 出诊时刻表
+
+以挂号界面为准
 
 ## 问诊细节
 
@@ -37,7 +31,7 @@ weight: 1
 
 询问感受与打算
 
-SCL90 MMPI
+量表：SCL90、MMPI
 
 检查费用 499 元
 
@@ -45,16 +39,12 @@ SCL90 MMPI
 
 复诊主要是询问是否有想法的改变，询问近况
 
-（问诊时间2021年8月1号）
+（问诊时间 2021 年 8 月 1 号）
 
 ## 证明样式
 
 搬医院前同宁洁
 
-![.](images/doctor/proof/ning-jie.jpg)
+![proof](/images/doctor/proof/ning-jie.jpg)
 
-开出的证明是“性别烦躁”，与新标准 icd11 看齐，之后可以去西南医院泌尿科开HRT处方
-
-## 出诊时刻表
-
-以挂号界面为准
+开出的证明是“性别烦躁”，与新标准 ICD 11 看齐，之后可以去西南医院泌尿科开 HRT 处方
