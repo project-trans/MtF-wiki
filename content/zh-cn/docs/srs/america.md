@@ -1,8 +1,6 @@
 ---
 title: 北美地区
 draft: true
-aliases:
-  - america
 ---
 
 ##  医疗水平
