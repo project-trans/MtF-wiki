@@ -34,9 +34,7 @@ footer:
           link: https://github.com/mtf-wiki
         - title: Discord
           link: https://discord.gg/UtCungsT7V
-        - title: QQ Group
-          link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
-        - title: e-mail
+        - title: Email
           link: mailto:mtfwiki@estela.cn
   contents:
     align: left

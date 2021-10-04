@@ -32,11 +32,9 @@ footer:
       links:
         - title: GitHub
           link: https://github.com/mtf-wiki
-        - title: QQ 群
-          link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
         - title: Discord
           link: https://discord.gg/UtCungsT7V
-        - title: e-mail
+        - title: Email
           link: mailto:mtfwiki@estela.cn
     - title: 友情合作
       links:
