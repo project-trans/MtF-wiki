@@ -1,7 +1,6 @@
 ---
-title: "雌二醇凝胶"
-description: "雌二醇凝胶就是有雌二醇的凝胶"
-date: 2021-04-15T16:27:24+08:00
+title: 雌二醇凝胶
+description: 雌二醇凝胶就是有雌二醇的凝胶
 libraries: [katex, mhchem]
 weight: 1
 ---
@@ -37,6 +36,7 @@ weight: 1
 - 参考价格：人民币 96 元（40g）
 
 ## 使用方式与用量
+
 <div style="position: relative; padding: 30% 45%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="https://player.bilibili.com/player.html?bvid=BV1eq4y1U71L&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
 </div>
