@@ -25,4 +25,4 @@ weight: 3
 
 ## 证明样式
 
-![!](images/doctor/liu-ruixiang-zm.jpg)
+![!](images/doctor/proof/liu-ruixiang.jpg)

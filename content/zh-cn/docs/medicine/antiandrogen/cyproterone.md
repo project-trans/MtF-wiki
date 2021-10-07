@@ -1,7 +1,6 @@
 ---
 title: 色普龙（醋酸环丙孕酮）
 description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur（安得卡），Siterone 等。
-date: 2021-04-13T19:52:17+08:00
 draft: false
 libraries: [katex, mhchem]
 weight: 1
@@ -73,6 +72,7 @@ weight: 1
 
 - 服用方式：口服
 - 使用剂量：6mg ~ 50mg，不建议使用超过 50mg[^1]．
+- 建议剂量 12.5mg 及以下，但是存在 12.5mg 不够的情况
 - 达到效果的情况下尽量减少用量
 - 建议适量补充维生素 B<sub>12</sub>
 - 停药时应逐步减药。

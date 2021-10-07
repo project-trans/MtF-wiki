@@ -1,10 +1,8 @@
 ---
-title: "针剂"
-description: "打针的意思"
-date: 2021-04-21T18:28:00+08:00
+title: 针剂
+description: 打针的意思
 weight: 4
 libraries: [katex, mhchem]
-draft: false
 ---
 
 {{< notice warning "用药安全提示" >}}

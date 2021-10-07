@@ -1,6 +1,5 @@
 ---
-title: "雌激素药物"
-date: 2020-11-5T21:43:21+08:00
+title: 雌激素药物
 weight: 3
 collapsible: true
 ---

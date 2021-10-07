@@ -1,7 +1,6 @@
 ---
 title: 比卡鲁胺片
 description: 比卡鲁胺片是主要成份为比卡鲁胺的强效的抗雄激素药物。
-date: 2021-07-27T12:09:10+08:00
 libraries: [katex, mhchem]
 weight: 1
 ---

@@ -57,7 +57,7 @@ weight: 2
 
 ## 证明样式
 
-![病历封面后第一页右下角“易性症”诊断](/images/doctor/di-xiaolan-zm.jpg)
+![病历封面后第一页右下角“易性症”诊断](/images/doctor/proof/di-xiaolan.jpg)
 
 希望笔者半年后能开到大证明从而放在这里（或者等一个有大证明的 contributor）
 
