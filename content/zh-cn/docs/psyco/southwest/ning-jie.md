@@ -1,12 +1,9 @@
 ---
-title: "重庆|宁洁"
-description: ""
-date: 2021-05-08T22:42:22+08:00
-draft: false
+title: 重庆｜宁洁
 weight: 1
 ---
 
-![宁洁](images/doctor/ning-jie.jpg)
+{{< doctor-avatar "ning-jie.jpg" >}}
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
 {{% tag-neg 观察期 1 年 %}}
@@ -17,11 +14,7 @@ weight: 1
 
 ## 挂号
 
-官方公众号，15:00 提前 14 天放号，临床心理专家门诊
-
-需几个月复诊一次
-
-网上挂号，医院大厅买病历本
+宁洁已经退休
 
 ## 问诊细节
 
@@ -37,7 +30,7 @@ SCL90 MMPI
 
 ## 证明样式
 
-![](images/doctor/ning-jie-zm.jpg)
+![proof](/images/doctor/proof/ning-jie.jpg)
 
 ## 出诊时刻表
 

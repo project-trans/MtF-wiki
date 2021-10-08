@@ -1,14 +1,11 @@
 ---
-title: "*南京|陈建国"
-description: ""
-date: 2021-04-20T16:47:05+08:00
-draft: false
+title: "*南京｜陈建国"
 weight: 11
 ---
 
 {{% alert theme=warning %}}已停诊{{% /alert %}}
 
-![陈建国照片](images/doctor/chen-jianguo.jpg)
+{{< doctor-avatar "chen-jianguo.jpg" >}}
 
 {{% tag-pos 一次过 %}} {{% tag-pos 无需家长 %}}
 {{% tag-neg "介绍信（或在读证明）" %}}
@@ -19,7 +16,7 @@ weight: 11
 
 ## 证明样式
 
-![证明](images/doctor/chen-jianguo-zm.jpg)
+![证明](images/doctor/proof/chen-jianguo.jpg)
 
 ## 出诊时刻表
 

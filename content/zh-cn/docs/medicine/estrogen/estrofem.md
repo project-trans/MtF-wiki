@@ -1,8 +1,7 @@
 ---
-title: "诺坤复（Estrofem）"
-description: "Estrofem 是一种口服的雌二醇片"
+title: 诺坤复（Estrofem）
+description: Estrofem 是一种口服的雌二醇片
 date: 2021-04-13T17:12:17+08:00
-draft: false
 libraries: [katex, mhchem]
 weight: 3
 ---

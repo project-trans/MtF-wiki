@@ -1,10 +1,6 @@
 ---
-title: "北医三院|潘柏林"
-description: ""
-date: 2021-06-06T15:38:55+08:00
-draft: false
+title: 北医三院｜潘柏林
 weight: 7
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
 ---
-# Under Construction
+
+[SRS 术前提交材料](/documents/srs-pku3-pre-commit.pdf)

@@ -17,7 +17,7 @@ landing:
     - link: docs
       text: Docs
       color: primary
-  #backgroundImage: 
+  #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
@@ -31,17 +31,19 @@ footer:
     - title: Contact
       links:
         - title: GitHub
-          link: https://github.com/mtf-wiki/
-        - title: Telegram
-          link: https://t.me/MtFwiki
+          link: https://github.com/mtf-wiki
+        - title: Discord
+          link: https://discord.gg/UtCungsT7V
         - title: QQ Group
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
-  contents: 
+        - title: e-mail
+          link: mailto:mtfwiki@estela.cn
+  contents:
     align: left
     applySinglePageCss: true
     markdown:
       |
       <h2><span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span></h2>
-      <p>Copyright © 2020-2021. All rights reserved.</p>
+      <p>Copyright © 2020-2021 MtF Wiki. All rights reserved.</p>
       <blockquote>If you can remember my name, if you can all remember my name, maybe I or "we", will be able to live freely one day.</blockquote>
 ---

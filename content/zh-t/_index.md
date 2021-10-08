@@ -17,7 +17,7 @@ landing:
     - link: docs
       text: 檢視文檔
       color: primary
-  #backgroundImage: 
+  #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
@@ -31,17 +31,19 @@ footer:
     - title: 聯絡
       links:
         - title: GitHub
-          link: https://github.com/mtf-wiki/
+          link: https://github.com/mtf-wiki
         - title: QQ 群
           link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
-        - title: Telegram
-          link: https://t.me/MtFwiki
-  contents: 
+        - title: Discord
+          link: https://discord.gg/UtCungsT7V
+        - title: e-mail
+          link: mailto:mtfwiki@estela.cn
+  contents:
     align: left
     applySinglePageCss: true
     markdown:
       |
       <h2><span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span></h2>
-      <p>Copyright © 2020-2021. All rights reserved.</p>
+      <p>Copyright © 2020-2021 MtF Wiki. All rights reserved.</p>
       <blockquote>如果你能記住我的名字，如果你們都能記住我的名字，也許我或者“我們”，終有一天能自由地生存著。</blockquote>
 ---

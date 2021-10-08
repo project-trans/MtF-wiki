@@ -1,8 +1,6 @@
 ---
-title: "雌二醇凝胶"
-description: "雌二醇凝胶就是有雌二醇的凝胶"
-date: 2021-04-15T16:27:24+08:00
-draft: false
+title: 雌二醇凝胶
+description: 雌二醇凝胶就是有雌二醇的凝胶
 libraries: [katex, mhchem]
 weight: 1
 ---
@@ -13,11 +11,11 @@ weight: 1
 
 ## 基本信息
 
-### Oestrogel<sup>&reg;</sup> （爱斯妥）
+### Oestrogel<sup>&reg;</sup>（爱斯妥）
 
 ![Oestrogel](/images/Oestrogel.jpg)
 
-- 产品名称：Oestrogel<sup>&reg;</sup> （爱斯妥）
+- 产品名称：Oestrogel<sup>&reg;</sup>（爱斯妥）
 - 有效成分：雌二醇
 - 进口药品注册证号：H20120488
 - 生产企业：比利时法杏制药厂
@@ -39,6 +37,9 @@ weight: 1
 
 ## 使用方式与用量
 
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="https://player.bilibili.com/player.html?bvid=BV1eq4y1U71L&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+</div>
 {{< notice warning "用药安全提示" >}}
 请勿将凝胶涂抹于乳房处。
 {{< /notice >}}
@@ -47,9 +48,15 @@ weight: 1
 
 如发现药物效果太强或太弱，请向医生咨询，以调整剂量。
 
-每日使用 1 计量尺，雌二醇的血浆浓度平均为 80pg/mL．
+**若采血区域涂抹过凝胶，会导致雌二醇检测结果反常偏大**
 
-"亲测雌二醇贴片相比于补佳乐可以显著降低转氨酶水平，大约与凝胶类似？"  --@ArtsEpiphany
+每日使用 1 计量尺，雌二醇的血浆浓度**平均**为 80pg/mL．
+
+{{< notice info "关于雌二醇贴片" >}}
+雌二醇贴片（透皮治疗系统，transdermal therapeutic system）与凝胶类似，有效成分为（半水合）雌二醇，二者均非类固醇酯类药物。与口服药物相比，贴片与凝胶可避免首过效应，或可降低肝脏负担。
+
+以下内容为个人理解：对于类固醇酯类雌激素，均需经过肝脏分解为雌激素后方有生物活性，而肝脏代谢必然导致雌酮与雌二醇比例问题。因此，即使注射给药，仍然需要远高于透皮给药的雌二醇剂量方能起到同等效果，其肝脏负担未必显著低于口服给药。
+{{< /notice >}}
 
 ## 成分信息
 

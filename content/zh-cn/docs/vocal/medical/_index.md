@@ -1,8 +1,5 @@
 ---
-title: "医疗资源"
-description: ""
-date: 2021-06-06T15:28:20+08:00
-draft: false
+title: 嗓音女性化训练
 weight: 2
 collapsible: true
 ---

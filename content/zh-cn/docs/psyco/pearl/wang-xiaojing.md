@@ -1,19 +1,17 @@
 ---
-title: "深圳|王晓京"
-description: ""
-date: 2021-06-04T16:47:05+08:00
-draft: false
+title: 深圳｜王晓京
 weight: 3
 ---
 
-![假装有王晓京照片](images/doctor/wang-xiaojing.jpg)
+{{< doctor-avatar "wang-xiaojing.jpg" >}}
 
 医生姓名：王晓京
 
 所在医院：北京大学深圳医院
 
 ## 挂号方式
-微信公众号：北京大学深圳医院
+
+微信公众号：「北京大学深圳医院」
 
 ## 注意事项
 
@@ -21,7 +19,7 @@ weight: 3
 
 ## 证明样式
 
-![假装有诊断证明照片](images/doctor/wang-xiaojing-zm.jpg)
+![假装有诊断证明照片](images/doctor/proof/wang-xiaojing.jpg)
 
 ## 出诊时刻表
 
@@ -31,4 +29,3 @@ weight: 3
 | 见医院官网/公众号 | 见医院官网/公众号 | 特诊心理科 | 见医院官网/公众号 |
 
 见医院官网/公众号 |
-

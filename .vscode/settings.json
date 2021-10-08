@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "markdownlint.config": {
+    "single-h1": false,
+    "no-inline-html": false,
+    "no-duplicate-header": false,
+    "fenced-code-language": false
+  }
+}

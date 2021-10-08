@@ -3,14 +3,14 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# Welcome to **MtF Wiki**!
+# Welcome to **MtF Wiki**
 
 [简中](README.md) | [繁中](README-T.md) | **English** | [Español](README-ES.md)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
 [![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
 
-This site was founded initially for Chinese trans. However, if you would like to contribute information for the trans in your region, welcome to do it.
+This site was founded initially for China mainland's transgenders. However, if you would like to contribute information for the transgenders in your region, welcome to do it.
 
 ## Content
 
@@ -28,7 +28,7 @@ As for the original intention of building this website, in addition to providing
 
 ## Acknowledgement
 
-We run a [Hugo][hugo-url] on [github pages][wiki-url] with theme [zdoc][zdoc-url]. Thanks for them.
+We run a [Hugo][hugo-url] on [GitHub Pages][wiki-url] with theme [zdoc][zdoc-url]. Thanks for them.
 
 Many materials were referred to during the process of writing this project, we would like to say thank you here.
 
@@ -55,7 +55,7 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-MtF%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/MtFwiki)
+[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://discord.gg/UtCungsT7V)
 [![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
 
 email: mtfwiki@estela.cn

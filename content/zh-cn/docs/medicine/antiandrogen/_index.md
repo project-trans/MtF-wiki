@@ -1,12 +1,9 @@
 ---
-title: "抗雄激素药物"
-description: ""
-date: 2021-4-13T18:09:17+08:00
-draft: false
+title: 抗雄激素药物
 weight: 4
 collapsible: true
 ---
 
-<a href="../hrt">HRT 总述</a>
+[HRT 总述]({{< ref "../HRT" >}})
 
-<a href="../check">进行激素检查</a>
+[进行激素检查]({{< ref "../check" >}})

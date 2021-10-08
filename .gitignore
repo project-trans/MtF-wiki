@@ -1,3 +1,4 @@
 public/
 resources/
-themes/
+
+*.DS_Store

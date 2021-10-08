@@ -1,8 +1,6 @@
 ---
-title: "进行激素检查"
-description: ""
+title: 进行激素检查
 date: 2021-04-20T12:49:27+08:00
-draft: false
 weight: 2
 ---
 
@@ -19,12 +17,12 @@ weight: 2
 {{< /notice >}}
 
 {{< notice info "提示" >}}
-不同医院的测定结果的所用的计量单位存在差异，本站提供[激素单位换算器](/zh-cn/converter/)
+不同医院的测定结果的所用的计量单位存在差异，本站提供[激素单位换算器]({{< ref "converter" >}})
 {{< /notice >}}
 
 ## 相关指标简介
 
-***以下指标的简介仅作科普，解读检查报告请寻求专业人士的帮助。***
+**_以下指标的简介仅作科普，解读检查报告请寻求专业人士的帮助。_**
 
 ### 雌二醇（E2）
 
@@ -34,9 +32,9 @@ weight: 2
 
 雌二醇在男性体内作为睾酮的代谢产物同样存在，其血清浓度相当于绝经后的妇女。雌二醇与雌酮可相互转化。
 
-  - 雌二醇不仅对生殖和性功能有重要作用，也影响例如骨骼的其它器官。
+- 雌二醇不仅对生殖和性功能有重要作用，也影响例如骨骼的其它器官。
 
-  - 更详细的作用描述请左转本站[HRT 总述](/zh-cn/docs/medicine/hrt/#hrt-效果参考)。
+- 更详细的作用描述请左转本站[HRT 总述]({{< ref "HRT" >}})。
 
 #### 何时检测
 
@@ -55,14 +53,15 @@ weight: 2
 **睾酮**(T)，是类固醇激素，由睾丸分泌，肾上腺亦分泌少量睾酮。睾酮是主要的雌雄激素及蛋白同化甾类。不论是男性或女性，对健康都有重要影响，包括性欲、力量、免疫功能、对抗骨质疏松症等功效。据统计，成年男性分泌睾酮的分量是成年女性的分泌量的约 20 倍，体内含量是成年女性的 7~8 倍。
 
 睾酮通过两个方式来产生效用：
-  1. 直接或以血清双氢睾酮（DHT）形式使雄激素受体活跃化。
-  2. 转化为雌二醇使某些雌激素受体活跃化。
+
+1. 直接或以血清双氢睾酮（DHT）形式使雄激素受体活跃化。
+2. 转化为雌二醇使某些雌激素受体活跃化。
 
 #### MtF 参考值
 
-使用<a href="../antiandrogen/spironolactone">螺内酯片</a>并不会明显降低睾酮水平，故此项的参考价值不大。
+使用[螺内酯片]({{< ref "spironolactone" >}})并不会明显降低睾酮水平，故此项的参考价值不大。
 
-使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会降低睾酮水平，没有必要将睾酮降得过低，达到 1ng/mL 以下即可，如睾酮过低可考虑减少用量。
+使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会降低睾酮水平，没有必要将睾酮降得过低，达到 1ng/mL 以下即可，如睾酮过低可考虑减少用量。
 
 {{% alert theme=info %}}
 
@@ -79,14 +78,14 @@ weight: 2
 
 在睾丸中，促卵泡激素提高塞尔托利氏细胞合成男性激素结合蛋白的水平，诱发塞尔托利细胞的紧密结合，同时分泌抑制素，在成精子过程中起到至关重要的作用。
 
-- 使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会使得该项水平降低，甚至低于检出值。
+- 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使得该项水平降低，甚至低于检出值。
 
 ### 黄体生成素（LH）
 
 **黄体生成素**（LH），是一种在脑下垂体前叶合成的激素。它的形成是受到促性腺激素释放激素（GnRH）的控制。
 黄体化激素刺激睾丸中睾丸间质细胞合成睾丸素。
 
-- 使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会使得该项水平降低，甚至低于检出值。
+- 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使得该项水平降低，甚至低于检出值。
 
 ### 孕酮（P）
 
@@ -98,18 +97,17 @@ weight: 2
 
 **催乳素**（PRL）是一种由垂体前叶腺嗜酸细胞分泌蛋白质激素。主要作用为促进乳腺发育生长，刺激并维持泌乳。催乳素能刺激哺乳动物的乳腺发育或泌乳。在发育期，催乳素能与雌激素、孕激素及其他激素共同作用，促使乳腺发育。
 
-使用<a href="../antiandrogen/cyproterone">色普龙（醋酸环丙孕酮）</a>会使该项水平偏高，可考虑减少用量。
+使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使该项水平偏高，可考虑减少用量。
+
+{{< notice warning "注意事项" >}}
+如果泌乳素高于正常值三倍，请换药或复查mri
+{{< /notice >}}
 
 ## 参考阅读
 
-1. [促卵泡激素 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/促卵泡激素)
-
-1. [黄体生成素 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/黄体生成素)
-
-1. [雌二醇 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/雌二醇)
-
-1. [孕酮 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/孕酮)
-
-1. [TTFB - Clinical: Testosterone, Total, Bioavailable, and Free, Serum (mayocliniclabs.com)](https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686)
-
-1. [催乳素 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/%E5%82%AC%E4%B9%B3%E7%B4%A0)
+1. <https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686>
+1. <https://zh.wikipedia.org/wiki/促卵泡激素>
+1. <https://zh.wikipedia.org/wiki/催乳素>
+1. <https://zh.wikipedia.org/wiki/孕酮>
+1. <https://zh.wikipedia.org/wiki/雌二醇>
+1. <https://zh.wikipedia.org/wiki/黄体生成素>

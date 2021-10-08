@@ -1,14 +1,11 @@
 ---
-title: "北京|丛中"
-description: ""
-date: 2021-04-23T10:23:15+08:00
-draft: false
+title: 北京｜丛中
 weight: 1
 ---
 
-{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)]</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
+{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
- ![丛中照片](images/doctor/cong-zhong.jpg)
+{{< doctor-avatar "cong-zhong.jpg" >}}
 
 {{% tag-pos 便宜 %}} {{% tag-pos 无需家长 %}}
 {{% tag-pos 初诊开假条 %}} {{% tag-pos 病历可用于北三 HRT %}}
@@ -20,7 +17,7 @@ weight: 1
 
 ## 挂号
 
-微信公众号“北京 114 预约挂号”-就医服务-预约挂号-北京大学第六医院-特需门诊
+微信公众号「北京 114 预约挂号」-「就医服务」-「预约挂号」-「北京大学第六医院」-「特需门诊」
 周三上午 8:00 准时放号，无需反复刷新页面
 号特别少，一次 2 个左右
 挂号费 100 元，到付
@@ -57,7 +54,7 @@ weight: 1
 
 第一次的假条会有“易性症？”字样，请放心使用。抑郁不影响开假条。
 
-这里是北京跨性别一条龙服务的起点，开到假条后可去[北医三院](/zh-cn/docs/hrt/pku3/)进行正式的 HRT 流程。
+这里是北京跨性别一条龙服务的起点，开到假条后可去[北医三院]({{< ref "../../hrt/pku3" >}})进行正式的 HRT 流程。
 
 {{% alert theme=danger %}}可用于手术的正式证明需两年观察期，凭介绍信开具。须没有严重精神问题。{{% /alert %}}
 
@@ -68,8 +65,8 @@ weight: 1
 
 ## 出诊时刻表
 
-| 周次 | 时间 | 科室 | 价格 |
-| :---: | :---: | :---: | :---: |
+| 周次 |       时间       |        科室        |  价格  |
+| :--: | :--------------: | :----------------: | :----: |
 | 周三 | 下午 12:30~15:00 | 精神科（特需门诊）| 100 元 |
 
-[^1]:花园北路 51 号
+[^1]: 花园北路 51 号
