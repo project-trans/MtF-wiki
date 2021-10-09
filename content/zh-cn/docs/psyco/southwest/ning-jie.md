@@ -1,6 +1,6 @@
 ---
 title: '*重庆｜宁洁'
-weight: 1
+weight: 1000
 ---
 
 {{< doctor-avatar "ning-jie.jpg" >}}
