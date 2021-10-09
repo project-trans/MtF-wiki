@@ -22,7 +22,7 @@ aliases:
 
 {{< /notice >}}
 
-如果是在下列医院完成的 SRS 手术请前往 [上海东方公证处](https://www.amap.com/place/B0FFGY5EOR) 办理
+如果是在下列医院完成的 SRS 手术请前往 [上海东方公证处](https://amap.com/place/B0FFGY5EOR) 办理
 
 1. [上海长海医院虹口分院]({{< ref "sh411" >}})
 1. [上海第九人民医院]({{< ref "sh9" >}})

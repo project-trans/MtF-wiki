@@ -4,7 +4,7 @@ title: 上海同仁医院｜陈臻
 
 医生姓名：[陈臻](https://www.haodf.com/doctor/6070455513.html)
 
-所属医院：[上海 交通大学 医学院 附属 同仁医院](https://www.amap.com/place/B00156YKF5)
+所属医院：[上海 交通大学 医学院 附属 同仁医院](https://amap.com/place/B00156YKF5)
 
 疗程：一个疗程为五周时间，共十节课
 课程内容包括 _五节陈臻本人课程_ 以及 _五节陈臻徒弟_ 的 _巩固课程_
