@@ -1,6 +1,6 @@
 ---
 title: 济南｜胡蕾
-weight: 1
+weight: 10
 ---
 
 {{< doctor-avatar "hu-lei.jpg" >}}
@@ -9,7 +9,7 @@ weight: 1
 
 医生姓名：胡蕾
 
-所在医院：山东省精神卫生中心
+所在医院：[山东省精神卫生中心](https://amap.com/place/B0FFM4NU1Y)
 
 ## 路线
 

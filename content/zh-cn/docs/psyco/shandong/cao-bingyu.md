@@ -1,6 +1,6 @@
 ---
 title: 济南｜曹秉玉
-weight: 3
+weight: 12
 ---
 
 {{< doctor-avatar "cao-bingyu.jpg" >}}
@@ -9,7 +9,7 @@ weight: 3
 
 医生姓名：曹秉玉
 
-所在医院：山东省精神卫生中心
+所在医院：[山东省精神卫生中心](https://amap.com/place/B0FFM4NU1Y)
 
 ## 路线
 

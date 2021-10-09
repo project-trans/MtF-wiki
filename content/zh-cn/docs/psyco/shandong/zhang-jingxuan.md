@@ -1,6 +1,6 @@
 ---
 title: 济南｜张敬悬
-weight: 2
+weight: 11
 ---
 
 {{< doctor-avatar "zhang-jingxuan.jpg" >}}
@@ -9,7 +9,7 @@ weight: 2
 
 医生姓名：张敬悬
 
-所在医院：山东省精神卫生中心
+所在医院：[山东省精神卫生中心](https://amap.com/place/B0FFM4NU1Y)
 
 ## 路线
 
