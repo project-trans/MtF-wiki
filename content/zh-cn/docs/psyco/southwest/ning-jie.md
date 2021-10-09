@@ -1,5 +1,5 @@
 ---
-title: 重庆｜宁洁
+title: '*重庆｜宁洁'
 weight: 1
 ---
 
@@ -8,9 +8,9 @@ weight: 1
 {{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
 {{% tag-neg 观察期 1 年 %}}
 
-医生姓名：宁洁
+医生姓名：[宁洁](https://www.haodf.com/doctor/1129160221.html)
 
-所在医院：西南医院
+所在医院：[重庆西南医院（陆军军医大学第一附属医院）](https://amap.com/place/B00170914B)
 
 ## 挂号
 
@@ -22,7 +22,7 @@ weight: 1
 
 询问感受与打算
 
-SCL90 MMPI
+量表：SCL90、MMPI
 
 如果带了家长会帮忙向家长科普劝导
 
@@ -30,10 +30,4 @@ SCL90 MMPI
 
 ## 证明样式
 
-![proof](/images/doctor/proof/ning-jie.jpg)
-
-## 出诊时刻表
-
-临床心理专家门诊
-
-排班变动，以挂号界面为准
+![Proof](/images/doctor/proof/ning-jie.jpg)
