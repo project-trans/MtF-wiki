@@ -39,6 +39,8 @@ weight: 9
 
 **不出售任何药物** 请不要再问客服了
 
-### Limelight：『性/别多元+』交流论坛（日常 & 轻理论）
+### Limelight
+
+『性/别多元+』交流论坛（日常 & 轻理论）
 
 <https://limelight.moe>
