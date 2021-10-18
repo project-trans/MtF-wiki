@@ -6,7 +6,7 @@ title: 苏州市立医院｜周建英
 
 医生姓名：[周建英](https://www.haodf.com/doctor/13154.html)
 
-所在医院：[复旦大学附属中山医院（东院区）](https://amap.com/place/B0FFF5RB0L)
+所在医院：[苏州市立医院（东区）](https://www.amap.com/place/B020003GXC)
 
 ## 挂号
 
