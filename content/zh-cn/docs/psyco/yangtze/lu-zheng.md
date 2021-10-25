@@ -9,8 +9,12 @@ weight: 4
 
 {{< doctor-avatar "lu-zheng.jpg" >}}
 
-{{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}}
+{{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}} {{% tag-neg 没收其他医生证明 %}}
 {{% tag-neg 家长党 %}} {{% tag-neg 恐同 %}} {{% tag-neg 颜控 %}}
+
+{{< notice warning "警告" >}}
+陆峥可能会没收与陆峥本人标准不符的医生开具的易性症证明！（如刘娜）
+{{< /notice >}}
 
 医生姓名：[陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)
 
@@ -28,6 +32,7 @@ weight: 4
 
 ## 注意事项
 
+- 携带公证完成的手术知情同意书可光速开证
 - 年龄要求年满 20 周岁。
 - 建议挂号顺序为先 [王飚][wangbiao] 后 陆峥。（不建议约 陆峥 初诊）
 - 只要家长同意即可最速通关。（家长不在场则需要电话联络）
