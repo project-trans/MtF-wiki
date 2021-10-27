@@ -1,7 +1,7 @@
 ---
 title: 泰国｜Kamol
 draft: true
-weight: 11
+weight: 42
 aliases:
   - kamol
 ---

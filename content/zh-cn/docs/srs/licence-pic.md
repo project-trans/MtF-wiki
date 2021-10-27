@@ -1,6 +1,7 @@
 ---
 title: 手术图片使用协议
 weight: 20
+draft: true
 ---
 
 1. 协议说明

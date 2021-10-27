@@ -1,7 +1,7 @@
 ---
 title: 泰国｜Thiti 医生
 draft: true
-weight: 13
+weight: 44
 aliases:
   - thiti
 ---

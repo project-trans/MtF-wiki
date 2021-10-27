@@ -1,6 +1,6 @@
 ---
 title: 泰国｜Chettawut 医生
-weight: 14
+weight: 41
 aliases:
   - chettawut
 ---

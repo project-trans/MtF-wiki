@@ -1,5 +1,6 @@
 ---
 title: 学历变更指引
+weight: 11
 ---
 
 {{< notice warning "注意事项" >}}

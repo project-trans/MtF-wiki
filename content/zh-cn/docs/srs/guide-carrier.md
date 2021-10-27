@@ -1,5 +1,6 @@
 ---
 title: 电信号码实名变更指引
+weight: 12
 ---
 
 本文部分内容来自 <https://twitter.com/Asada_Yuki_art>
