@@ -1,5 +1,6 @@
 ---
 title: 公证指引
+weight: 5
 aliases:
   - notarization
 ---
