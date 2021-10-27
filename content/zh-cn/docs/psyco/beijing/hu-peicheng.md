@@ -7,9 +7,8 @@ weight: 2
 
 {{< doctor-avatar "hu-pei-cheng.jpg" >}}
 
-{{% tag-pos 和蔼老爷爷 %}} {{% tag-pos 性教育创始人 %}}
+{{% tag-pos 和蔼 %}} {{% tag-pos 性教育创始人 %}}
 {{% tag-pos 初诊开证 %}} {{% tag-pos 病历可用于北三 HRT %}}
-
 {{% tag-neg 必须年满20岁 %}}
 
 医生姓名：[胡佩诚](https://www.haodf.com/doctor/12034.html)

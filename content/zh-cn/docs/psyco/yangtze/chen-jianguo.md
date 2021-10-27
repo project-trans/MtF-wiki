@@ -8,7 +8,6 @@ weight: 1000
 {{< doctor-avatar "chen-jianguo.jpg" >}}
 
 {{% tag-pos 一次过 %}} {{% tag-pos 无需家长 %}}
-{{% tag-neg "介绍信（或在读证明）" %}}
 
 医生姓名：陈建国
 

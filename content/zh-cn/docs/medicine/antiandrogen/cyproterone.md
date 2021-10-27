@@ -20,6 +20,10 @@ weight: 1
 
 ### Androcur<sup>&reg;</sup>（安得卡）
 
+{{< notice info "好消息" >}}
+拜耳醋酸环丙孕酮片现京东国际有售
+{{< /notice >}}
+
 <table><tr>
 <td><img src="/images/Androcur50.jpg"/></td>
 <td><img src="/images/Androcur100.jpg"/></td>
@@ -33,6 +37,7 @@ weight: 1
 - 厂商：拜耳
 - 产地：土耳其
 - 规格：50mg\*50 片，100mg\*30 片
+- 参考售价：（京东国际）50mg\*50 片 人民币 380 元
 - [说明书（繁体中文）](/instr/androcur-zh.pdf)
 
 ### Siterone<sup>&reg;</sup>

@@ -5,7 +5,7 @@ weight: 1
 
 {{< doctor-avatar "ji-ling-lost.png" >}}
 
-{{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}{{% tag-pos 挂号费 7 元 %}}
+{{% tag-pos 可与家长沟通 %}}
 
 医生姓名：任正伽
 

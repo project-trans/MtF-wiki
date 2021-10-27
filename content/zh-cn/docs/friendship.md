@@ -28,7 +28,7 @@ weight: 9
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上 @ 我们。
 
 - Twitter：[@awesometrans_zh](https://twitter.com/awesometrans_zh)
-- Telegram：<http://t.me/awesome_trans>
+- Telegram：<http://t.me/awesometrans_zh>
 - 邮箱 [awesome-trans@outlook.com](mailto:awesome-trans@outlook.com)
 
 ### 厌世私贩淘宝店

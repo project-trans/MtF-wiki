@@ -6,10 +6,7 @@ weight: 2
 
 {{< doctor-avatar "di-xiaolan.jpg" >}}
 
-{{% tag-pos 开病历无需家长 %}}
-{{% tag-pos 病历可用于北三 HRT %}}
-{{% tag-neg 观察期 1 年 %}}
-{{% tag-neg 昂贵 %}}
+{{% tag-pos 病历可用于北三 HRT %}} {{% tag-neg 观察期 1 年 %}} {{% tag-neg 昂贵 %}}
 
 医生姓名：邸晓兰
 

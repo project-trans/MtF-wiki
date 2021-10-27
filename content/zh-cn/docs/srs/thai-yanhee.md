@@ -1,7 +1,7 @@
 ---
 title: 泰国｜Yanhee 医院
 draft: true
-weight: 15
+weight: 45
 aliases:
   - yanhee
 ---

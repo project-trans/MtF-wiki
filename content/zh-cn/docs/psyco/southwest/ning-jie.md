@@ -5,8 +5,7 @@ weight: 1000
 
 {{< doctor-avatar "ning-jie.jpg" >}}
 
-{{% tag-pos 无需家长 %}} {{% tag-pos 可劝导家长 %}}
-{{% tag-neg 观察期 1 年 %}}
+{{% tag-pos 可与家长沟通 %}} {{% tag-neg 观察期 1 年 %}}
 
 医生姓名：[宁洁](https://www.haodf.com/doctor/1129160221.html)
 

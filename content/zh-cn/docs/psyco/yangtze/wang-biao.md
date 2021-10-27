@@ -7,7 +7,7 @@ weight: 5
 
 {{< doctor-avatar "wang-biao.jpg" >}}
 
-{{% tag-neg 昂贵 %}} {{% tag-neg 家长党 %}} {{% tag-neg 初诊不开证 %}} {{% tag-pos 可劝家长 %}}
+{{% tag-neg 昂贵 %}} {{% tag-neg 需家属介入 %}} {{% tag-neg 初诊不开证 %}} {{% tag-pos 可劝家长 %}}
 
 医生姓名：[王飚](http://www.smhc.org.cn/MedicalGuide/contents/49/56.html)
 
