@@ -5,7 +5,7 @@ weight: 11
 
 {{< doctor-avatar "zhang-jingxuan.jpg" >}}
 
-{{% tag-pos 可劝导家长 %}} {{% tag-neg 开证时家长需在场 %}}
+{{% tag-pos 可与家长沟通 %}} {{% tag-neg 需家属介入 %}}
 
 医生姓名：张敬悬
 

@@ -5,7 +5,7 @@ weight: 12
 
 {{< doctor-avatar "cao-bingyu.jpg" >}}
 
-{{% tag-neg 开证时家长需在场 %}}
+ {{% tag-neg 需家属介入 %}}
 
 医生姓名：曹秉玉
 
