@@ -81,9 +81,9 @@ weight: 1
   - [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})
 - 受体拮抗
 
-  - [螺内酯片]({{< ref "spironolactone" >}})
+  - [螺内酯片]({{< ref "spironolactone" >}})（略不推荐）
   - [比卡鲁胺]({{< ref "bicalutamide" >}})
-- 高浓度雌二醇抗雄
+- 高浓度雌二醇抗雄（建议结合前二者）
 
 ### 用药注意事项
 
