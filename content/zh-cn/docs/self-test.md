@@ -5,8 +5,8 @@ weight: 0
 
 ## 必开
 
-- MMPI - 明尼苏达多项人格问卷
-- SCL-90 - 症状自评量表
+- MMPI - 明尼苏达多项人格问卷 - [MMPI自测](http://www.apesk.com/mmpi/)（仅供参考，请以医院量表为准！）
+- SCL-90 - 症状自评量表 - [SCL-90自测](http://www.ntneuro.org/scale/scl90.asp)（仅供参考，请以医院量表为准！）
 
 ## 选开
 
