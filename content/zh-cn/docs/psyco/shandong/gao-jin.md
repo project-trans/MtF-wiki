@@ -5,7 +5,7 @@ weight: 12
 
 {{< doctor-avatar "gao-jin.jpg" >}}
 
- {{% tag-pos 和蔼介入 %}} {{% tag-pos 可与家属沟通 %}} {{% tag-pos 不需要家属介入 %}}
+ {{% tag-pos 和蔼介入 %}} {{% tag-pos 可与家属沟通 %}}
 
 医生姓名：高进
 
