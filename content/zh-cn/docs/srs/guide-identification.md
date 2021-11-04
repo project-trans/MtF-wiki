@@ -5,6 +5,10 @@ aliases:
   - identification
 ---
 
+{{< notice warning "注意事项" >}}
+国外返回国内的 **0深度** 外阴成型手术，基本不提供医学司法鉴定
+{{< /notice >}}
+
 ## 广东
 
 - 南方医科大学（医学司法鉴定）
