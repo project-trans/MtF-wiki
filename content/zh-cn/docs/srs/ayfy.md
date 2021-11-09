@@ -33,4 +33,5 @@ weight: 35
 
 ## 入院通知
 ![ayfy-medical-record](/images/srs/ayfy-medical-record.jpg)
+
 ~~医生也吐槽了医院病症更新不及时没有易性症相关诊断，所以诊断为两畸的 性别不清~~
