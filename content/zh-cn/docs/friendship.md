@@ -5,9 +5,6 @@ weight: 9
 
 ### QQ 交流群
 
-- <img src="/new/mtf-wiki-square.svg" style="display:inline;height:4em;vertical-align:middle">**MtF-Wiki** [533450894](https://jq.qq.com/?_wv=1027&k=Dhbm0jsr)
-  本站官方交流群
-
 - <img src="/images/arch_trans.png" style="display:inline;height:4em;vertical-align:middle">**Arch 木桶饭** [782820926](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
 
