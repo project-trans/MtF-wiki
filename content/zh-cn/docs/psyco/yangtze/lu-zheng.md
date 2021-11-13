@@ -7,6 +7,10 @@ weight: 4
 <img src="/images/wpnl.jpg" style="display:inline;height:6em;vertical-align:middle" /> 侬准备到 600 号报到是伐？
 {{% /alert %}}
 
+{{% notice info "注意" %}}
+陆峥价格昂贵且开证成功率低，建议挂同院的[张毅](({{< ref "../zhang-yi.md" >}}))及[王飚](({{< ref "../wang-biao.md" >}}))进行开证操作。
+{{% /notice %}}
+
 {{< doctor-avatar "lu-zheng.jpg" >}}
 
 {{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}} {{% tag-neg 需要亲属介入 %}} 
