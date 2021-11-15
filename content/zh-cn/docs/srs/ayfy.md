@@ -32,6 +32,13 @@ weight: 35
 1. 棉棒(手术当天禁食水，患者可能大约20小时不能喝水，嘴巴很干，需要用棉棒沾水润嘴唇)
 
 ## 入院通知
+{{< expand "展开查看" >}}
 ![ayfy-medical-record](/images/srs/ayfy-medical-record.jpg)
+{{< /expand >}}
 
 ~~医生也吐槽了医院病症更新不及时没有易性症相关诊断，所以诊断为两畸的 性别不清~~
+
+## 费用清单
+{{< expand "展开查看" >}}
+![ayfy-medical-record](/images/srs/ayfy-bill.jpg)
+{{< /expand >}}
