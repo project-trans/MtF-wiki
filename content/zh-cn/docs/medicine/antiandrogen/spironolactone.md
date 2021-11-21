@@ -1,6 +1,6 @@
 ---
 title: 螺内酯片
-description: 螺内酯有抗雄激素特性，螺内酯主要通过阻断雄激素受体起作用。
+description: 螺内酯（Spironolactone）是雄激素受体拮抗剂，一种甾体抗雄激素。
 libraries: [katex, mhchem]
 weight: 1
 ---

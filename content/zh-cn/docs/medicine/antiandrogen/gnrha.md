@@ -1,6 +1,6 @@
 ---
 title: '*GnRH 类似物'
-description: GnRH 类似物用于青春期阻断治疗
+description: GnRH 类似物仅用于青春期阻断治疗。
 weight: 4
 ---
 

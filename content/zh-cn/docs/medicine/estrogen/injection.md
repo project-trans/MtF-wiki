@@ -1,6 +1,6 @@
 ---
 title: 针剂
-description: 打针的意思
+description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为日本进口。
 weight: 4
 libraries: [katex, mhchem]
 ---
@@ -56,9 +56,14 @@ libraries: [katex, mhchem]
 
 - 使用方式：[肌肉注射](https://zh.wikihow.com/%E8%BF%9B%E8%A1%8C%E8%82%8C%E8%82%89%E6%B3%A8%E5%B0%84)、[皮下注射](https://zh.wikihow.com/%E8%BF%9B%E8%A1%8C%E7%9A%AE%E4%B8%8B%E6%B3%A8%E5%B0%84)  {{< tag-neg "不会打针就不要瞎打！" >}}
 - 使用剂量：每 5-7 天 5mg 或 每 1-2 周 10mg
+- 注意事项：
   - 请勿重复注入同一位置。
   - 小心避免神经。
-  - 如果您在插入注射针头时感到剧烈疼痛或看到血液回流，请立即拔出针头并更换注射部位。
+  - 由于药品为油性，建议使用 12 号针头（粉）抽取药品，6 号针头（蓝）注射。
+  - 快速进针和抽药完毕后使用新的针头注射有助于缓解疼痛。
+  - 自行注射建议使用股外侧肌（大腿三分之一中段斜外上方）。
+  - 如果您在插入注射针头时感到剧烈疼痛或看到大量血液回流，请立即拔出针头并更换注射部位。
+  - 如果在某次注射结束后有较以往更多出血（但可以止住），属于正常现象，请不要惊慌。
 
 ## 成分信息
 
@@ -68,3 +73,6 @@ libraries: [katex, mhchem]
 - 分子式：$\ce{C23H32O3}$
 - 分子量：356.50 g/mol
 - ![化学式](/images/Estradiol_valerate.svg)
+
+## 参考阅读
+1. <https://fenwayhealth.org/wp-content/uploads/2015/07/COM-1880-trans-health_injection-guide_small_v2.pdf>
