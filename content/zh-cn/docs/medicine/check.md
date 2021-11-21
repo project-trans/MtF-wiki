@@ -12,6 +12,8 @@ weight: 2
 
 进行检查的理由可以如实坦白，如果是相对保守的地区，可以尝试用激素相关的疾病复查作为理由。
 
+请不要在服用药物之后立即进行激素检查，建议在两次服用间隔中间进行。是否空腹抽血请遵医嘱。
+
 {{< notice warning "注意事项" >}}
 国内尚无完整的、统一的妇产科内分泌性激素测定值，且由于各种试剂的来源，测定的方法，数据的计算，采用的单位不同，即使同一激素标本，各实验室所得结果也不完全相同。因此下文所提到的相关指标数据仅供参考。
 {{< /notice >}}
@@ -59,7 +61,9 @@ weight: 2
 
 #### MtF 参考值
 
-使用[螺内酯片]({{< ref "spironolactone" >}})并不会明显降低睾酮水平，故此项的参考价值不大。
+使用[螺内酯片]({{< ref "spironolactone" >}})并不会显著降低睾酮水平，故此项的参考价值不大。
+
+使用[比卡鲁胺片]({{< ref "bicalutamide" >}})并不会显著降低睾酮水平，部分使用者甚至会出现血清睾酮升高现象，故此项参考价值不大。
 
 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会降低睾酮水平，没有必要将睾酮降得过低，达到 1ng/mL 以下即可，如睾酮过低可考虑减少用量。
 
@@ -79,6 +83,7 @@ weight: 2
 在睾丸中，促卵泡激素提高塞尔托利氏细胞合成男性激素结合蛋白的水平，诱发塞尔托利细胞的紧密结合，同时分泌抑制素，在成精子过程中起到至关重要的作用。
 
 - 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使得该项水平降低，甚至低于检出值。
+- 使用高浓度雌二醇降雄会使得该项水平降低，甚至低于检出值。
 
 ### 黄体生成素（LH）
 
@@ -86,6 +91,7 @@ weight: 2
 黄体化激素刺激睾丸中睾丸间质细胞合成睾丸素。
 
 - 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使得该项水平降低，甚至低于检出值。
+- 使用高浓度雌二醇降雄会使得该项水平降低，甚至低于检出值。
 
 ### 孕酮（P）
 
@@ -100,14 +106,16 @@ weight: 2
 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使该项水平偏高，可考虑减少用量。
 
 {{< notice warning "注意事项" >}}
-如果泌乳素高于正常值三倍，请换药或复查mri
+如果泌乳素高于正常值三倍，请换药或复查[脑部MRI](https://zh.wikipedia.org/zh-cn/磁共振成像)
 {{< /notice >}}
 
 ## 参考阅读
 
 1. <https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686>
+1. <https://www.uptodate.com/contents/transgender-women-evaluation-and-management>
 1. <https://zh.wikipedia.org/wiki/促卵泡激素>
 1. <https://zh.wikipedia.org/wiki/催乳素>
 1. <https://zh.wikipedia.org/wiki/孕酮>
 1. <https://zh.wikipedia.org/wiki/雌二醇>
 1. <https://zh.wikipedia.org/wiki/黄体生成素>
+
