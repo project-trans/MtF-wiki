@@ -61,9 +61,9 @@ weight: 2
 
 #### MtF 参考值
 
-使用[螺内酯片]({{< ref "spironolactone" >}})并不会明显降低睾酮水平，故此项的参考价值不大。
+使用[螺内酯片]({{< ref "spironolactone" >}})并不会显著降低睾酮水平，故此项的参考价值不大。
 
-使用[比卡鲁胺片]({{< ref "bicalutamide" >}})并不会明显降低睾酮水平，部分使用者甚至会出现血清睾酮升高现象，故此项参考价值不大。
+使用[比卡鲁胺片]({{< ref "bicalutamide" >}})并不会显著降低睾酮水平，部分使用者甚至会出现血清睾酮升高现象，故此项参考价值不大。
 
 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会降低睾酮水平，没有必要将睾酮降得过低，达到 1ng/mL 以下即可，如睾酮过低可考虑减少用量。
 
@@ -106,16 +106,16 @@ weight: 2
 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使该项水平偏高，可考虑减少用量。
 
 {{< notice warning "注意事项" >}}
-如果泌乳素高于正常值三倍，请换药或复查脑部mri
+如果泌乳素高于正常值三倍，请换药或复查[脑部MRI](https://zh.wikipedia.org/zh-cn/磁共振成像)
 {{< /notice >}}
 
 ## 参考阅读
 
 1. <https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686>
-2. <https://www.uptodate.com/contents/transgender-women-evaluation-and-management>
-3. <https://zh.wikipedia.org/wiki/促卵泡激素>
-4. <https://zh.wikipedia.org/wiki/催乳素>
-5. <https://zh.wikipedia.org/wiki/孕酮>
-6. <https://zh.wikipedia.org/wiki/雌二醇>
-7. <https://zh.wikipedia.org/wiki/黄体生成素>
+1. <https://www.uptodate.com/contents/transgender-women-evaluation-and-management>
+1. <https://zh.wikipedia.org/wiki/促卵泡激素>
+1. <https://zh.wikipedia.org/wiki/催乳素>
+1. <https://zh.wikipedia.org/wiki/孕酮>
+1. <https://zh.wikipedia.org/wiki/雌二醇>
+1. <https://zh.wikipedia.org/wiki/黄体生成素>
 
