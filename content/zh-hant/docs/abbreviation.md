@@ -35,7 +35,6 @@ title: 縮寫詞語表
 - FFS: Facial feminization surgery 面部女性化手術
   [維基百科](https://zh.wikipedia.org/zh-cn/性別重置療法#其他療法)
 - VFS: Voice feminization surgery 聲音女性化手術
-  [本站板塊]({{< ref "vocal/medical" >}})
 - AG: Autogynephilia 幻想變性性興奮理論
 - CD: Cross-dressing 異裝
   [維基百科](https://zh.wikipedia.org/zh-cn/異性裝扮)
