@@ -47,4 +47,4 @@ weight: 10
 
 态度和蔼能站在患者角度思考，可以在一定程度上反驳家长的意见，病例书写工整能看懂
 
-![Proof](/images/doctor/proof/qi-su-fang.jpg)
+![Proof](/images/doctor/proof/qi-sufang.jpg)
