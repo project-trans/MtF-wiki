@@ -8,7 +8,7 @@ weight: 9
 - <img src="/images/arch_trans.png" style="display:inline;height:4em;vertical-align:middle">**Arch 木桶饭** [782820926](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
 
-- <img src="/images/maimai-trans.png" style="display:inline;height:4em;vertical-align:middle">**跨性别音游同好群** [717099350](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
+- <img src="/images/otoge-trans.png" style="display:inline;height:4em;vertical-align:middle" alt="跨儿音游组"> [717099350](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
 
 ### 跨性别相关 bot（QQ）
