@@ -1,6 +1,6 @@
 ---
-title: "*南京｜陈建国"
-weight: 11
+title: '*南京｜陈建国'
+weight: 1000
 ---
 
 {{% alert theme=warning %}}已停诊{{% /alert %}}
@@ -8,7 +8,6 @@ weight: 11
 {{< doctor-avatar "chen-jianguo.jpg" >}}
 
 {{% tag-pos 一次过 %}} {{% tag-pos 无需家长 %}}
-{{% tag-neg "介绍信（或在读证明）" %}}
 
 医生姓名：陈建国
 

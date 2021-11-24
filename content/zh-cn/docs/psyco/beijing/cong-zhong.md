@@ -3,7 +3,7 @@ title: 北京｜丛中
 weight: 1
 ---
 
-{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: baseline;" /><span style="color:grey;font-size:70%">&copy;TruceCracy(CC-BY-NC-SA)</span><br>害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
+{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: middle;" />害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
 {{< doctor-avatar "cong-zhong.jpg" >}}
 
@@ -18,7 +18,7 @@ weight: 1
 ## 挂号
 
 微信公众号「北京 114 预约挂号」-「就医服务」-「预约挂号」-「北京大学第六医院」-「特需门诊」
-周三上午 8:00 准时放号，无需反复刷新页面
+周三上午 8:00 准时放下周三号，无需反复刷新页面
 号特别少，一次 2 个左右
 挂号费 100 元，到付
 
@@ -54,7 +54,7 @@ weight: 1
 
 第一次的假条会有“易性症？”字样，请放心使用。抑郁不影响开假条。
 
-这里是北京跨性别一条龙服务的起点，开到假条后可去[北医三院]({{< ref "pku3" >}})进行正式的 HRT 流程。
+这里是北京跨性别一条龙服务的起点，开到假条后可去[北医三院]({{< ref "../../hrt/pku3" >}})进行正式的 HRT 流程。
 
 {{% alert theme=danger %}}可用于手术的正式证明需两年观察期，凭介绍信开具。须没有严重精神问题。{{% /alert %}}
 

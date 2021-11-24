@@ -48,7 +48,7 @@ LESGO 是由志愿者自发组成以女性为主体的 LGBT 公益社团。成�
 ## 云南平行健康咨询发展中心
 
 地区：昆明
-地址：[云南省 昆明市 西山区 鱼课司街 东寺巷 53 号 1 栋 2 单元 302 室](https://www.amap.com/place/B0FFJKX03E)
+地址：[云南省 昆明市 西山区 鱼课司街 东寺巷 53 号 1 栋 2 单元 302 室](https://amap.com/place/B0FFJKX03E)
 微博：<https://weibo.com/ynpx>
 Twitter：<https://twitter.com/YNParallel>
 Facebook：<https://facebook.com/ynparallel>

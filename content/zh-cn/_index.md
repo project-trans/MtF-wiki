@@ -4,7 +4,7 @@ description: MtF Wiki
 date: 2020-10-26T04:15:05+08:00
 draft: false
 landing:
-  height: 500
+  height: 700
   image: new/mtf-wiki-square.svg
   title:
     - MtF Wiki
@@ -32,8 +32,6 @@ footer:
       links:
         - title: GitHub
           link: https://github.com/mtf-wiki
-        - title: QQ 群
-          link: https://jq.qq.com/?_wv=1027&k=O9hgBAFz
         - title: Discord
           link: https://discord.gg/UtCungsT7V
         - title: e-mail

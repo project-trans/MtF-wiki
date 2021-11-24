@@ -1,5 +1,6 @@
 ---
 title: 司法鉴定指引
+weight: 7
 ---
 
 本文基于 <https://zhuanlan.zhihu.com/p/380214370> 和 <https://zhuanlan.zhihu.com/p/248605258> 进行完善修订，原作者 ID-ID 未声明版权及其授权方式，因此版权原则上仍归原作者所有。

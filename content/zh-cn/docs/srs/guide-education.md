@@ -1,5 +1,6 @@
 ---
 title: 学历变更指引
+weight: 11
 ---
 
 {{< notice warning "注意事项" >}}
@@ -63,3 +64,4 @@ title: 学历变更指引
 ## 变更成功记录
 
 - [跨性别者手术后：历时半年终于修改学历 就业遭歧视](https://www.sohu.com/a/362100660_120146415)
+- [经验分享 | 跨儿术后学历和学位的修改攻略](https://mp.weixin.qq.com/s/MP3ib9IAj99XpkZJ5U1ckA)

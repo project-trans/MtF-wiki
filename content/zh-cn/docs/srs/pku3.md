@@ -1,7 +1,6 @@
 ---
 title: 北医三院｜潘柏林
-draft: true
-weight: 7
+weight: 33
 ---
 
-## Under Construction
+[SRS 术前提交材料](/documents/srs-pku3-pre-commit.pdf)

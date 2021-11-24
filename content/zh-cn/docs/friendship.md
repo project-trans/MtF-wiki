@@ -5,13 +5,10 @@ weight: 9
 
 ### QQ 交流群
 
-- <img src="/new/mtf-wiki-square.svg" style="display:inline;height:4em;vertical-align:middle">**MtF-Wiki** [533450894](https://jq.qq.com/?_wv=1027&k=Dhbm0jsr)
-  本站官方交流群
-
 - <img src="/images/arch_trans.png" style="display:inline;height:4em;vertical-align:middle">**Arch 木桶饭** [782820926](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
 
-- <img src="/images/maimai-trans.png" style="display:inline;height:4em;vertical-align:middle">**跨性别音游同好群** [717099350](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
+- <img src="/images/otoge-trans.png" style="display:inline;height:4em;vertical-align:middle" alt="跨儿音游组"> [717099350](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
 
 ### 跨性别相关 bot（QQ）
@@ -28,17 +25,11 @@ weight: 9
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上 @ 我们。
 
 - Twitter：[@awesometrans_zh](https://twitter.com/awesometrans_zh)
-- Telegram：<http://t.me/awesome_trans>
+- Telegram：<http://t.me/awesometrans_zh>
 - 邮箱 [awesome-trans@outlook.com](mailto:awesome-trans@outlook.com)
 
-### 厌世私贩淘宝店
+### Limelight
 
-<https://asada-yuki.taobao.com>
-
-厌世私贩淘宝店专注跨性别与 LGBT 周边产品和个性 DIY 产品
-
-**不出售任何药物** 请不要再问客服了
-
-### Limelight：『性/别多元+』交流论坛（日常 & 轻理论）
+『性/别多元+』交流论坛（日常 & 轻理论）
 
 <https://limelight.moe>

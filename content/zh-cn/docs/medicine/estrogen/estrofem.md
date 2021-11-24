@@ -1,6 +1,6 @@
 ---
 title: 诺坤复（Estrofem）
-description: Estrofem 是一种口服的雌二醇片
+description: Estrofem 是雌二醇片，不同于补佳乐（戊酸雌二醇）。
 date: 2021-04-13T17:12:17+08:00
 libraries: [katex, mhchem]
 weight: 3
@@ -10,7 +10,7 @@ weight: 3
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-Estrofem 是一种口服的雌二醇片。
+Estrofem 是雌二醇片，不同于[补佳乐（戊酸雌二醇）]({{< ref "progynova" >}})。
 
 ## 基本信息
 
@@ -30,8 +30,9 @@ Estrofem 是一种口服的雌二醇片。
 
 ## 使用方式与用量
 
-- 服用方式：舌下含服
-- 使用剂量：2mg
+- 服用方式：舌下含服（微干涩，无明显味道）
+- 使用剂量：2mg~
+- 如舌下含服服用剂量多于 1 片/天，请分次服用，每次 1 片
 
 ## 副作用
 
