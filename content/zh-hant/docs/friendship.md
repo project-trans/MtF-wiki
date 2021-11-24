@@ -20,12 +20,6 @@ weight: 9
 - Telegram：<http://t.me/awesometrans_zh>
 - 郵箱 [awesome-trans@outlook.com](mailto:awesome-trans@outlook.com)
 
-### 厭世私販淘寶店
-
-<https://asada-yuki.taobao.com>
-
-厭世私販淘寶店專注跨性別與 LGBT 周邊產品和個性 DIY 產品
-
 ### Limelight
 
 『性/別多元+』交流論壇（日常 & 輕理論）
