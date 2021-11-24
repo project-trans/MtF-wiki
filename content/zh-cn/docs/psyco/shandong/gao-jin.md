@@ -49,4 +49,4 @@ weight: 12
 
 ## 证明样式
 
-![Proof](/images/doctor/proof/gao-jin.jpg)
+应医生要求，暂不提供
