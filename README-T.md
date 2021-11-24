@@ -57,7 +57,6 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 點選下方圖片即可加群：
 
 [![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://discord.gg/UtCungsT7V)
-[![QQ](https://img.shields.io/badge/QQ%20group-MtF%20Wiki-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=O9hgBAFz)
 
 email: mtfwiki@estela.cn
 

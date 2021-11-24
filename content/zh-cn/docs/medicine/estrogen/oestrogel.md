@@ -1,6 +1,6 @@
 ---
 title: 雌二醇凝胶
-description: 雌二醇凝胶就是有雌二醇的凝胶
+description: 外用雌二醇凝胶，经皮吸收。
 libraries: [katex, mhchem]
 weight: 1
 ---
