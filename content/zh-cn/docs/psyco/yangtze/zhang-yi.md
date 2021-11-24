@@ -11,7 +11,7 @@ weight: 4
 
 医生姓名：[张毅](http://www.smhc.org.cn/MedicalGuide/contents/49/58.html)
 
-所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1)
+所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1) - 五号楼（心理咨询楼）- 三楼 307 诊室
 
 预约方法：微信公众号/支付宝搜索「上海市精神卫生中心」进入后选择「预约」搜索「张毅」进行预约。
 ## 注意事项
@@ -22,9 +22,9 @@ weight: 4
 
 （换句话说你看过本院任意两个医生才能开证）
 
-{{% alert theme=warning %}}
-去看张毅可能需要年满 20 周岁。
-{{% /alert %}}
+## 证明样式
+
+![证明](images/doctor/proof/zhang-yi.jpg)
 
 ## 出诊时刻表
 
