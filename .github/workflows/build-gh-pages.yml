@@ -40,6 +40,8 @@ jobs:
           cname: mtf.wiki
           external_repository: mtf-wiki/mtf-wiki.github.io
           force_orphan: true
+      - name: Change `baseURL`
+        run: sed -i 's#baseURL = .*#baseURL = "https://mtfwiki.com"#g' config/_default/config.toml
       - name: Deploy `mtfwiki.com`
         uses: reggionick/s3-deploy@v3
         if: github.ref == 'refs/heads/master'
