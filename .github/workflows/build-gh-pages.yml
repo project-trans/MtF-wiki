@@ -11,34 +11,32 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-latest
-    
+    runs-on: ubuntu-20.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
-
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
           submodules: true
-      - name: Publish Site
-        uses: mtf-wiki/hugo-gh-pages@master
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          githubToken: ${{ secrets.SITE_TOKEN }}
-          # Remember to set this as a secret (i.e. secrets.PERSONAL_TOKEN).
-          # Don't forget to set the secret value in the project settings.
-          cname: mtf.wiki # Or anything else
-          # Use if you have a custom domain for your site.
-          branch: master # Or anything else
-          # Use if your site is not hosted on the gh-pages branch.
-          repo: mtf-wiki/mtf-wiki.github.io
-          # Use if you're pushing to a different repo.
-          # Dont add ".git" to the end of the URL (youl'll get 404s).
-          #hugoVersion: extended_0.76.5
-          # Use if your site requires a specific version of Hugo.
-          # Append "extended_" to the begining to use Hugo Extended.
-          #args: --gc --minify --cleanDestinationDir
-          # Use if you want to pass some custom arguments to Hugo.
-          #siteDir: /github/workspace/site
-          # Use this if your site isn't in the root of your repo.
-          # The root of your repo can be found at /github/workspace
-          actor: mtfwikibot
+          hugo-version: latest
+      - name: Hugo Cache
+        uses: actions/cache@v2
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: ${{ runner.os }}-hugomod-
+      - name: Build
+        run: hugo --minify
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          github_token: ${{ secrets.SITE_TOKEN }}
+          publish_branch: master
+          publish_dir: ./public
+          cname: mtf.wiki
+          external_repository: mtf-wiki/mtf-wiki.github.io
+          force_orphan: true
