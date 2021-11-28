@@ -16,6 +16,9 @@ googleAnalytics = ""
 
 disableKinds = ["taxonomyTerm"]
 
+[params]
+hostName = "https://mtf.wiki"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
