@@ -27,7 +27,6 @@ Chet 的技术与 Suporn 类似，使用阴囊皮瓣作为阴道内壁和大阴�
 
 基于同样的技术，Chet 同样有更高的并发症风险，时有肉芽组织增生和阴道狭窄的状况，而且有类似的每日 3 次 60 分钟的通模具要求。同样的，Chet 也会有对会阴处脱毛的需求。Chet 在曼谷自家诊所手术。总体来说，Chet 的技术在外观上与 Suporn 近似，且相对 Suporn 在阴道成形等方面更加保守，出现严重问题的情况较少，因此也是不错的选择。
 
-
 ## 预约事项
 
 为了保证手术质量，正常情况下 Chettawut 医生作为唯一的主刀医师每天只会安排一个手术，因此确认手术日期时间会稍长。
@@ -63,5 +62,6 @@ BMI <= 33
 - 可以自己联系翻译或者中介
 
 [^mail]:邮箱地址：
+
 - [chettawut@gmail.com](mailto:chettawut@gmail.com)
 - [cset@truemail.co.th](mailto:cset@truemail.co.th)

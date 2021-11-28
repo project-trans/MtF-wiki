@@ -15,15 +15,16 @@ weight: 2
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/3308881283.html>
 
 ## 挂号
+
 1. 参考出诊时刻，可以直接挂整复外科周二下午的普通号。
-2. 九院新增了整复外科跨性别专科，为整外周六上午。可以直接预约挂号(目前不确定坐诊医生是否为程医生，有待进一步确认)。
+1. 九院新增了整复外科跨性别专科，为整外周六上午。可以直接预约挂号(目前不确定坐诊医生是否为程医生，有待进一步确认)。
 
 {{< expand "微信公众号在线挂号" >}}
 ![register](/images/doctor/sh9/register-sh9.jpg)
 {{< /expand >}}
 
-
 ## 就诊
+
 - 如非周六就诊，建议早点去、空腹去，这样血液检查可以和其他所有检查一起当天就做掉，不用多跑一次了。如果在别的医院有做过检查，建议都带上，这样可以节约不少开支。
 
 就诊地点位于新门诊大楼，不是 10 号楼急诊。 [AMap](https://surl.amap.com/lFB8mBri3X3) [Apple Map](https://maps.apple.com/?address=Quxi%20Road%20No.500,%20Huangpu,%20Shanghai%20China&auid=1118368604912837&ll=31.201690,121.487349&lsp=57879&q=Shanghai%20Ninth%20People's%20Hospital,%20Shanghai%20Jiaotong%20University%20School%20of%20Medicine%20South%20Hospital%20Out-patients%20Building&_ext=CjEKBAgEEAQKBAgFEAMKBAgGEAoKBAgbEAMKBAhSEAkKBAhVEA4KBAhZEAEKBQikARABEiQpTfaKM0sxP0AxBslBqWleXkA5xOs/pvA1P0BBPapbnfBfXkA%3D&t=r)
@@ -60,9 +61,9 @@ weight: 2
 
 {{< expand "收费明细" >}}
 以下项目可能不准确，仅供参考。
-血液检查项目：CRP + 血常规、凝血、肝功能、电化学、乙肝三对半、性激素六项、HIV + TRUST  
+血液检查项目：CRP + 血常规、凝血、肝功能、电化学、乙肝三对半、性激素六项、HIV + TRUST
 超声检查项目：乳腺及掖窝淋巴结、甲状腺、双下肢动脉、双下肢静脉
-骨科项目：骨密度  
+骨科项目：骨密度
 ![Precheck (1/2)](/images/doctor/sh9/precheck-1.png)
 ![Precheck (2/2)](/images/doctor/sh9/precheck-2.png)
 {{< /expand >}}

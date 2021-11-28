@@ -57,7 +57,7 @@ weight: 2
 睾酮通过两个方式来产生效用：
 
 1. 直接或以血清双氢睾酮（DHT）形式使雄激素受体活跃化。
-2. 转化为雌二醇使某些雌激素受体活跃化。
+1. 转化为雌二醇使某些雌激素受体活跃化。
 
 #### MtF 参考值
 
@@ -118,4 +118,3 @@ weight: 2
 1. <https://zh.wikipedia.org/wiki/孕酮>
 1. <https://zh.wikipedia.org/wiki/雌二醇>
 1. <https://zh.wikipedia.org/wiki/黄体生成素>
-
