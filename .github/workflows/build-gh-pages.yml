@@ -30,7 +30,7 @@ jobs:
           restore-keys: ${{ runner.os }}-hugomod-
       - name: Build
         run: hugo --minify
-      - name: Deploy
+      - name: Deploy `mtf.wiki`
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
         with:
@@ -40,3 +40,13 @@ jobs:
           cname: mtf.wiki
           external_repository: mtf-wiki/mtf-wiki.github.io
           force_orphan: true
+      - name: Deploy `mtfwiki.com`
+        uses: reggionick/s3-deploy@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          folder: ./public
+          bucket: ${{ secrets.S3_BUCKET }}
+          bucket-region: ${{ secrets.S3_BUCKET_REGION }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
