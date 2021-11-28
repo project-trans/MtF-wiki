@@ -12,25 +12,22 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-20.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
-    
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
           submodules: true
+          fetch-depth: 0
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
-          extended: true
-      - uses: actions/cache@v2
+          hugo-version: latest
+      - name: Hugo Cache
+        uses: actions/cache@v2
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
+          restore-keys: ${{ runner.os }}-hugomod-
       - name: Build
-        run: hugo --gc --minify --cleanDestinationDir
+        run: hugo --minify

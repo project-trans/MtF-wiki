@@ -7,7 +7,6 @@ on:
     paths-ignore:
       - 'README.md'
       - 'LICENSE'
-  workflow_dispatch:
 
 jobs:
   build-deploy:
