@@ -45,8 +45,10 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           folder: ./public
-          bucket: ${{ secrets.S3_BUCKET }}
+          bucket: mtfwiki
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
+          delete-removed: true
+          private: true
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
