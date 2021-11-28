@@ -1,6 +1,6 @@
 [![MtF-Wiki][logo-long]][wiki-url]
 
-镜像站：[mtfwiki.cn](https://mtfwiki.cn/)
+镜像站：[mtfwiki.cn](https://mtfwiki.cn/)、[mtfwiki.com](https://mtfwiki.com)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
