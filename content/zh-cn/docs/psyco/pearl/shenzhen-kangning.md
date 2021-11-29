@@ -5,17 +5,17 @@ weight: 4
 
 {{< doctor-avatar "wei-zhaoguo.png" >}}
 
-医生姓名：位照国
+医生姓名：[位照国](https://www.haodf.com/doctor/697566086.html)
 
 {{< doctor-avatar "yang-huini.jpg" >}}
 
-医生姓名：杨惠妮
+医生姓名：[杨惠妮](https://www.haodf.com/doctor/6964354469.html)
 
 {{< doctor-avatar "zhang-qian.png" >}}
 
 医生姓名：张倩
 
-所在医院：深圳市康宁医院
+所在医院：[深圳市康宁医院](https://amap.com/place/B02F37VEIG)
 
 ## 挂号
 
@@ -38,4 +38,3 @@ weight: 4
 
 ![假装有诊断证明照片](/images/doctor/proof/shenzhen-kangning.jpg)
 ![假装有诊断证明照片](/images/doctor/proof/zhang-qian.jpg)
-

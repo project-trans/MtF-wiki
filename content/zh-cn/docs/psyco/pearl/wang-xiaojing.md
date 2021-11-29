@@ -5,9 +5,9 @@ weight: 3
 
 {{< doctor-avatar "wang-xiaojing.jpg" >}}
 
-医生姓名：王晓京
+医生姓名：[王晓京](https://www.haodf.com/doctor/245893.html)
 
-所在医院：北京大学深圳医院
+所在医院：[北京大学深圳医院](https://amap.com/place/B02F3006F9)
 
 ## 挂号方式
 

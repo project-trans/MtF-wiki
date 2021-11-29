@@ -7,7 +7,7 @@ weight: 1
 
 {{% tag-pos 可与家长沟通 %}}
 
-医生姓名：任正伽
+医生姓名：[任正伽](https://www.haodf.com/doctor/5630749638.html)
 
 所在医院：[重庆医科大学附属第三医院](https://amap.com/place/B0FFGPSPQC)
 
@@ -45,6 +45,6 @@ weight: 1
 
 搬医院前同宁洁
 
-![proof](/images/doctor/proof/ning-jie.jpg)
+![证明](/images/doctor/proof/ning-jie.jpg)
 
 开出的证明是“性别烦躁”，与新标准 ICD 11 看齐，之后可以去西南医院泌尿科开 HRT 处方

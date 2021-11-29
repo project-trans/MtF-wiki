@@ -29,4 +29,4 @@ weight: 1000
 
 ## 证明样式
 
-![Proof](/images/doctor/proof/ning-jie.jpg)
+![证明](/images/doctor/proof/ning-jie.jpg)

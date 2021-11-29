@@ -5,9 +5,9 @@ weight: 1
 
 {{% tag-pos 初诊开假条 %}}
 
-医生姓名：郭明
+医生姓名：[郭明](https://www.haodf.com/doctor/281543.html)
 
-所在医院：南昌大学第二附属医院
+所在医院：[南昌大学第二附属医院（东湖院区）](https://amap.com/place/B031702VZZ)
 
 ## 挂号
 

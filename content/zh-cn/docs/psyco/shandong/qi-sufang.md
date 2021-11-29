@@ -3,17 +3,13 @@ title: 济南｜齐素芳
 weight: 10
 ---
 
-{{< doctor-avatar "qi-su-fang.jpg" >}}
+{{< doctor-avatar "qi-sufang.jpg" >}}
 
 {{% tag-pos 可与家长沟通 %}} {{% tag-pos 和蔼 %}}
 
-医生姓名：齐素芳（副主任专家职称）
+医生姓名：[齐素芳](https://www.haodf.com/doctor/6964430522.html)
 
 所在医院：[山东省精神卫生中心](https://amap.com/place/B0FFM4NU1Y)
-
-## 路线
-
-济南市公交 K18、K59、K64、K75、K96、K107、K110、K123 可直达。
 
 ## 挂号
 

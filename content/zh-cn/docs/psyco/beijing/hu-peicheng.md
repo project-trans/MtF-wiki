@@ -5,7 +5,6 @@ weight: 2
 
 {{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: middle;" />害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
 
-
 {{< doctor-avatar "hu-pei-cheng.jpg" >}}
 
 {{% tag-pos 和蔼 %}} {{% tag-pos 性教育创始人 %}}

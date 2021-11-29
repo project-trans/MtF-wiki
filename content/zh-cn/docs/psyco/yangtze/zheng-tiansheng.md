@@ -9,7 +9,8 @@ weight: 2
 {{% tag-pos 平诊不限号 %}} {{% tag-pos 便宜 %}}
 
 医生姓名：郑天生
-所在医院：温州市康宁医院
+
+所在医院：[温州医科大学附属康宁医院](https://amap.com/place/B024103ZQK)
 
 ![QR](/images/doctor/zheng-tiansheng-qr.jpg)
 
