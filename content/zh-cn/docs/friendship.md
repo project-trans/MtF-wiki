@@ -22,11 +22,15 @@ weight: 9
 
 ### awesome trans {{< transflag >}} (Twitter)
 
-跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上 @ 我们。
+跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
 
-- Twitter：[@awesometrans_zh](https://twitter.com/awesometrans_zh)
-- Telegram：<http://t.me/awesometrans_zh>
-- 邮箱 [awesome-trans@outlook.com](mailto:awesome-trans@outlook.com)
+- Twitter: <https://twitter.com/awesometrans_zh>
+- Telegram: <http://t.me/awesometrans_zh>
+- 邮箱: [awesome-trans@outlook.com](mailto:awesome-trans@outlook.com)
+
+### FtM (Female to Male) Wiki
+
+<https://ftm.wiki>
 
 ### Limelight
 
