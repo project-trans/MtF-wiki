@@ -45,4 +45,4 @@ weight: 1
 
 ## 证明样式
 
-![Proof](images/doctor/proof/jia-yanbin.jpg)
+![Proof](/images/doctor/proof/jia-yanbin.jpg)

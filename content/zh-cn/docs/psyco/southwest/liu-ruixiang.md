@@ -24,4 +24,4 @@ weight: 3
 
 ## 证明样式
 
-![!](images/doctor/proof/liu-ruixiang.jpg)
+![!](/images/doctor/proof/liu-ruixiang.jpg)

@@ -9,7 +9,7 @@ weight: 4
 
 {{< doctor-avatar "lu-zheng.jpg" >}}
 
-{{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}} {{% tag-neg 需要亲属介入 %}} 
+{{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}} {{% tag-neg 需要亲属介入 %}}
 
 医生姓名：[陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)
 
@@ -54,7 +54,7 @@ weight: 4
 
 ## 证明样式
 
-![证明](images/doctor/proof/lu-zheng.jpg)
+![证明](/images/doctor/proof/lu-zheng.jpg)
 
 ## 出诊时刻表
 

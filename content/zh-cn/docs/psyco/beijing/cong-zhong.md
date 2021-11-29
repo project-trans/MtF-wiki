@@ -61,7 +61,7 @@ weight: 1
 ## 证明样式
 
 第一次的假条：
-![第一次的假条](images/doctor/jiatiao1.jpg)
+![第一次的假条](/images/doctor/jiatiao1.jpg)
 
 ## 出诊时刻表
 

@@ -74,7 +74,7 @@ weight: 1
 
 # 潘<ruby>柏<rt>bǎi</rt></ruby>林
 
-![潘柏林照片](images/doctor/pan-bai-lin.jpg)
+![潘柏林照片](/images/doctor/pan-bai-lin.jpg)
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 超级帅 %}} {{% tag-neg 拍裸照 %}}
 
@@ -133,7 +133,7 @@ weight: 1
 
 ## 检测项目
 
-![巨量检测](images/doctor/jiaofei.jpg)
+![巨量检测](/images/doctor/jiaofei.jpg)
 
 ## 出诊时刻表
 
@@ -144,7 +144,7 @@ weight: 1
 
 # 刘烨
 
-![刘烨照片](images/doctor/liu-ye.png)
+![刘烨照片](/images/doctor/liu-ye.png)
 
 {{% tag-pos 无需家长 %}} {{% tag-pos 漂亮大姐姐 %}} {{% tag-pos 温馨体贴 %}}
 
@@ -182,9 +182,9 @@ weight: 1
 
 ## 处方与用药建议
 
-![处方](images/doctor/liuyechufang.jpg)
+![处方](/images/doctor/liuyechufang.jpg)
 
-![用药建议](images/doctor/jianyi.jpg)
+![用药建议](/images/doctor/jianyi.jpg)
 
 ## 出诊时刻表
 

@@ -34,7 +34,7 @@ weight: 2
 ## 证明样式
 
 - 观察期病例样本：
-  ![证明](images/doctor/proof/zheng-tiansheng.jpg)
+  ![证明](/images/doctor/proof/zheng-tiansheng.jpg)
 
 ## 出诊时刻表
 

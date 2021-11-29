@@ -12,7 +12,7 @@ weight: 6
 
 ## 证明样式
 
-![证明](images/doctor/proof/huang-ying.jpg)
+![证明](/images/doctor/proof/huang-ying.jpg)
 
 ## 注意事项
 - 相关资料较少

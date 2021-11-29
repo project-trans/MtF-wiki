@@ -25,7 +25,7 @@ weight: 4
 
 ## 证明样式
 
-![证明](images/doctor/proof/zhang-yi.jpg)
+![证明](/images/doctor/proof/zhang-yi.jpg)
 
 ## 出诊时刻表
 

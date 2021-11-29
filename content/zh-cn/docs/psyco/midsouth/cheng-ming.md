@@ -60,4 +60,3 @@ weight: 2
 ## 诊断证明
 
 ![诊断证明](/images/doctor/proof/cheng-ming.jpg)
-

@@ -27,7 +27,7 @@ weight: 5
 
 ## 证明样式
 
-![证明](images/doctor/proof/wang-biao.jpg)
+![证明](/images/doctor/proof/wang-biao.jpg)
 
 ## 出诊时刻表
 
