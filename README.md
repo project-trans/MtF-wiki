@@ -2,10 +2,6 @@
 
 镜像站：[mtfwiki.cn](https://mtfwiki.cn/)、[mtfwiki.com](https://mtfwiki.com)
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 # Welcome to **MtF Wiki**
 
 **简体中文** | [繁中](README-T.md) | [English](README-EN.md) | [Español](README-ES.md)
