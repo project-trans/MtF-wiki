@@ -67,26 +67,3 @@ And through GitHub issues.
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0/
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table> <tr>
- <td align="center"> <a href="https://blog.coelacanthus.moe" ><img src="https://avatars1.githubusercontent.com/u/43064781?v=4?s=100" width="100px" alt="" /><br /><sub><b>Coelacanthus</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Documentation" >📖</a > <a href="#infra-CoelacanthusHex" title="Infrastructure (Hosting, Build-Tools, etc)" >🚇</a > <a href="#translation-CoelacanthusHex" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=CoelacanthusHex" title="Code" >💻</a >  </td>
- <td align="center"> <a href="http://kenchiu.net" ><img src="https://avatars0.githubusercontent.com/u/27522149?v=4?s=100" width="100px" alt="" /><br /><sub><b>可橙</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=kenchiu233" title="Documentation" >📖</a > <a href="#translation-kenchiu233" title="Translation">🌍</a> <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Akenchiu233" title="Reviewed Pull Requests" >👀</a >  </td>
- <td align="center"> <a href="https://github.com/saeziae" ><img src="https://avatars.githubusercontent.com/u/26759054?v=4?s=100" width="100px" alt="" /><br /><sub><b>山前</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=saeziae" title="Documentation" >📖</a > <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Asaeziae" title="Reviewed Pull Requests" >👀</a > <a href="https://mtfwiki.cn/" title="Infrastructure (Mirror-hosting)" >🚇</a > <a href="#translation-Saeziae" title="Translation">🌍</a>  </td>
- <td align="center"> <a href="https://github.com/llh721113" ><img src="https://avatars.githubusercontent.com/u/44055214?v=4?s=100" width="100px" alt="" /><br /><sub><b>llh721113</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=llh721113" title="Documentation" >📖</a > <a href="https://github.com/mtf-wiki/MtF-Wiki/pulls?q=is%3Apr+reviewed-by%3Allh721113" title="Reviewed Pull Requests" >👀</a >  </td>
- <td align="center"> <a href="https://masnn.ml/" ><img src="https://avatars3.githubusercontent.com/u/29992205?v=4?s=100" width="100px" alt="" /><br /><sub><b>undefined</b></sub></a ><br /><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author=undefined-moe" title="Documentation" >📖</a >  </td>
- </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Any kind of contribution is welcomed!
