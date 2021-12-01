@@ -5,7 +5,7 @@ weight: 11
 
 {{< doctor-avatar "huang-yuanyuan.jpg" >}}
 
-{{% tag-pos LGBTQIA+友善 %}} {{% tag-pos 提供心理咨询 %}} {{% tag-neg 仅提供心理咨询 %}}
+{{% tag-pos LGBTQIA友善 %}} {{% tag-pos 提供心理咨询 %}} {{% tag-neg 仅提供心理咨询 %}}
 
 医生姓名：黄圆媛
 
