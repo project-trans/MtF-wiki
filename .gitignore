@@ -4,3 +4,4 @@ resources/
 *.DS_Store
 
 .hugo_build.lock
+/.vs
