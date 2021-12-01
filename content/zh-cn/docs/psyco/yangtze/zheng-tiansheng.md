@@ -16,7 +16,9 @@ weight: 2
 
 ## 挂号
 
-![Registered](/images/doctor/zheng-tiansheng-registered.jpg)
+1. 关注「温州康宁云医院」公众号，自助预约就诊时段
+
+2. 线上无号或不方便预约，可直接在出诊时间到医院一号楼收费处加号（加号在排队顺序最后，可能会被预约患者插队）
 
 ## 问诊流程
 
