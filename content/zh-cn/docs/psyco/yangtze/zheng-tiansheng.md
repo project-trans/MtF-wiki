@@ -16,7 +16,7 @@ weight: 2
 
 ## 挂号
 
-直接去医院一楼服务台说要挂号就行 平诊不限号
+![Registered](/images/doctor/zheng-tiansheng-registered.jpg)
 
 ## 问诊流程
 
@@ -29,13 +29,15 @@ weight: 2
 三次就诊（每次至少间隔一个月）可开证，半年可以获得证明
 
 备注：
-1.两性关系门诊因为医院正在复评三甲可能会延后
-2.可以让她开六项的检查（医院模板是五项，请提醒加上睾酮）但她不看
+
+1. 两性关系门诊因为医院正在复评三甲可能会延后
+2. 可以让她开六项的检查（医院模板是五项，请提醒加上睾酮）但她不看
 
 ## 证明样式
 
-- 观察期病例样本：
-  ![证明](/images/doctor/proof/zheng-tiansheng.jpg)
+观察期病例样本：
+
+![证明](/images/doctor/proof/zheng-tiansheng.jpg)
 
 ## 出诊时刻表
 
