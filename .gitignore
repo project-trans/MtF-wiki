@@ -4,5 +4,3 @@ resources/
 *.DS_Store
 
 .hugo_build.lock
-/.vs/MtF-Wiki/v17
-/.vs
