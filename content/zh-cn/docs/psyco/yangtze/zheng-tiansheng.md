@@ -39,8 +39,12 @@ weight: 2
 
 观察期病例样本：
 
-![证明](/images/doctor/proof/zheng-tiansheng.jpg)
+![病历](/images/doctor/proof/zheng-tiansheng.jpg)
 
+观察期后诊断证明样本：
+
+![证明](images/doctor/proof/zheng-tiansheng-zm.jpg)
+)
 ## 出诊时刻表
 
 ### 康宁医院
