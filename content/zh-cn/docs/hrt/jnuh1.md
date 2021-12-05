@@ -1,5 +1,5 @@
 ---
-title: "暨南一院 | 高绿芬"
+title: "暨南一院｜高绿芬"
 description: ""
 weight: 3
 ---
