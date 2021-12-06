@@ -186,7 +186,7 @@ weight: 1
 
 ![用药建议](/images/doctor/jianyi.jpg)
 
-爱斯妥 80g 价格 113.91 元
+[爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}}) 80g 价格 113.91 元
 
 ## 出诊时刻表
 
