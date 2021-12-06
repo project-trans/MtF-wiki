@@ -1,5 +1,5 @@
 ---
-title: 相关软件
+title: 嗓音训练软件
 ---
 
 ## Android 平台

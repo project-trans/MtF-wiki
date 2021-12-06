@@ -9,7 +9,7 @@ weight: 0
 
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/297218.html>
 
-[嗓音女性化训练]({{< ref "../vocal-medical/beijing-friendship" >}})
+[嗓音女性化训练]({{< ref "../vocal-training/beijing-friendship" >}})
 
 ## 前置条件
 
