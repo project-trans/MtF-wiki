@@ -1,6 +1,6 @@
 ---
 title: 兰州交通大学
----（铁道学院）
+---
 
 可以有选择的话，MtF 还是不要来的好。
 
@@ -65,10 +65,5 @@ title: 兰州交通大学
 pu 学分用来记录学生活动。必须达到要求才可毕业。也就是强制参加活动或考证。
 
 学校情况不好极容易引起 gd．我也不知道怎么挺到现在的。
-
-宣传一下咱的 Telegram Channel <https://t.me/kjklukpublic>
-还有 Discord 服务器 <https://discord.gg/u26GpJtBmU>
-也欢迎 limelight 上面 PM 我（昵称 kjkluk）
-各位 MtF 如果有的选，最好不要选甘肃的学校。
 
 {{< sign-name "kjkluk" >}}
