@@ -24,7 +24,7 @@ libraries: [katex, mhchem]
 - 外观：微黄色澄清油性注射液
 - [说明书（日语）](/instr/progynon.pdf)
 
-### 持田 Pelanin Depot
+### 【停产】持田 Pelanin Depot
 
 <table><tr>
 <td><img src="/images/Mochida-5.jpg"/></td>
