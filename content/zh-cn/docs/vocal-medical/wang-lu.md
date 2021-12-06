@@ -10,7 +10,7 @@ aliases:
 
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/684298348.html>
 
-（深大总医院 目前尚未提供 [嗓音女性化手术]({{< ref "../surgery" >}})）
+（深大总医院 目前尚未提供 [嗓音女性化手术]({{< ref "../vocal-surgery" >}})）
 
 ## 费用构成
 
