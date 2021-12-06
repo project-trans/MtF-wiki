@@ -11,6 +11,8 @@ weight: 1
 
 ## 基本信息
 
+{{< hashtag "ai-si-tuo" >}}
+
 ### Oestrogel<sup>&reg;</sup>（爱斯妥）
 
 ![Oestrogel](/images/Oestrogel.jpg)
@@ -23,6 +25,8 @@ weight: 1
   - 0.06%\*80g（含雌二醇 48mg）
   - 0.06%\*30g（含雌二醇 18mg）
 - 参考价格：人民币 112 元（80g）、52 元（30g）
+
+{{< hashtag "jian-min" >}}
 
 ### 健民 雌二醇凝胶
 
