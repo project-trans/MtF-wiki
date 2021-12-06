@@ -13,4 +13,3 @@ MtF 很少，但是 gay 特别多，les 也不少，有 gay 和 les 的交友群
 
 {{< sign-name 白川則正 >}}
 
-

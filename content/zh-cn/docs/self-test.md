@@ -10,8 +10,8 @@ weight: 0
 但是如 [陆峥]({{< ref "lu-zheng" >}}) 医生，当前一定会被要求填写，尚无无需填写的报告。
 {{< /notice >}}
 
-- MMPI - 明尼苏达多项人格问卷 - [MMPI自测](http://www.apesk.com/mmpi/)（仅供参考，请以医院量表为准！）
-- SCL-90 - 症状自评量表 - [SCL-90自测](http://www.ntneuro.org/scale/scl90.asp)（仅供参考，请以医院量表为准！）
+- MMPI - 明尼苏达多项人格问卷 - [MMPI 自测](http://www.apesk.com/mmpi/)（仅供参考，请以医院量表为准！）
+- SCL-90 - 症状自评量表 - [SCL-90 自测](http://www.ntneuro.org/scale/scl90.asp)（仅供参考，请以医院量表为准！）
 
 ## 有概率会被要求填写的人格量表与问卷
 

@@ -106,7 +106,7 @@ weight: 2
 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会使该项水平偏高，可考虑减少用量。
 
 {{< notice warning "注意事项" >}}
-如果泌乳素高于正常值三倍，请换药或复查[脑部MRI](https://zh.wikipedia.org/zh-cn/磁共振成像)
+如果泌乳素高于正常值三倍，请换药或复查[脑部 MRI](https://zh.wikipedia.org/zh-cn/磁共振成像)
 {{< /notice >}}
 
 ## 参考阅读

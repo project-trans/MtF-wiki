@@ -13,11 +13,11 @@ title: 福利与权益指引
 
 ## 各地区权益参考
 
-- [各地 LGBT 权利](https://zh.wikipedia.org/zh-cn/各地LGBT权利)
-  - [中国 LGBT 权益](https://zh.wikipedia.org/zh-cn/中国LGBT权益)
-  - [美国 LGBT 权益](https://zh.wikipedia.org/zh-cn/美国LGBT权益)
-  - [欧洲 LGBT 权益](https://zh.wikipedia.org/zh-cn/欧洲LGBT权益)
-  - [台湾 LGBT 权益](https://zh.wikipedia.org/zh-cn/台湾LGBT权益)
+- [各地 LGBT 权利](https://zh.wikipedia.org/zh-cn/各地 LGBT 权利)
+  - [中国 LGBT 权益](https://zh.wikipedia.org/zh-cn/中国 LGBT 权益)
+  - [美国 LGBT 权益](https://zh.wikipedia.org/zh-cn/美国 LGBT 权益)
+  - [欧洲 LGBT 权益](https://zh.wikipedia.org/zh-cn/欧洲 LGBT 权益)
+  - [台湾 LGBT 权益](https://zh.wikipedia.org/zh-cn/台湾 LGBT 权益)
 
 ## 其他福利
 

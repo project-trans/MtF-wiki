@@ -27,7 +27,7 @@ weight: 2
 
 - 如非周六就诊，建议早点去、空腹去，这样血液检查可以和其他所有检查一起当天就做掉，不用多跑一次了。如果在别的医院有做过检查，建议都带上，这样可以节约不少开支。
 
-就诊地点位于新门诊大楼，不是 10 号楼急诊。 [AMap](https://surl.amap.com/lFB8mBri3X3) [Apple Map](https://maps.apple.com/?address=Quxi%20Road%20No.500,%20Huangpu,%20Shanghai%20China&auid=1118368604912837&ll=31.201690,121.487349&lsp=57879&q=Shanghai%20Ninth%20People's%20Hospital,%20Shanghai%20Jiaotong%20University%20School%20of%20Medicine%20South%20Hospital%20Out-patients%20Building&_ext=CjEKBAgEEAQKBAgFEAMKBAgGEAoKBAgbEAMKBAhSEAkKBAhVEA4KBAhZEAEKBQikARABEiQpTfaKM0sxP0AxBslBqWleXkA5xOs/pvA1P0BBPapbnfBfXkA%3D&t=r)
+就诊地点位于新门诊大楼，不是 10 号楼急诊。[AMap](https://surl.amap.com/lFB8mBri3X3) [Apple Map](https://maps.apple.com/?address=Quxi%20Road%20No.500,%20Huangpu,%20Shanghai%20China&auid=1118368604912837&ll=31.201690,121.487349&lsp=57879&q=Shanghai%20Ninth%20People's%20Hospital,%20Shanghai%20Jiaotong%20University%20School%20of%20Medicine%20South%20Hospital%20Out-patients%20Building&_ext=CjEKBAgEEAQKBAgFEAMKBAgGEAoKBAgbEAMKBAhSEAkKBAhVEA4KBAhZEAEKBQikARABEiQpTfaKM0sxP0AxBslBqWleXkA5xOs/pvA1P0BBPapbnfBfXkA%3D&t=r)
 
 进入 1 楼大厅后，直接去挂号窗口/挂号机器排队挂号。如果你持有医保卡或仅有身份证，你需要在窗口/机器办一张就诊卡。
 
@@ -52,11 +52,11 @@ weight: 2
 
 开检查，把检查全部做完拿到报告之后再去复诊。
 
-### 检查项目及地点 （更新于 2021 年 11 月 18 日）
+### 检查项目及地点（更新于 2021 年 11 月 18 日）
 
 - 首次检查费用可能不超过 2000，检查费贵是因为首次就诊希望查得全面一点，后续的检查每 3 个月一次，每次 100 - 200 元。最贵的彩超如果没有问题的话可以一年做一次。如果经济有困难记得和九院医生说，可以酌情删减检查项。
 - 不能刷医保卡是因为九院整形科整个科室都是自费，且“易性症”没有纳入医保。如果需要刷医保卡，可以告诉九院医生，九院医生在病历本上注明需要的检查，然后去挂普外科/内分泌等科室的号，或者去外院做检查。
-- 九院默认的激素六项可能不是wiki所说的激素六项，请说明是性激素六项。
+- 九院默认的激素六项可能不是 wiki 所说的激素六项，请说明是性激素六项。
 - 血液检查需要空腹。
 
 {{< expand "收费明细" >}}

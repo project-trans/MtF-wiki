@@ -30,7 +30,7 @@ weight: 3
 - [补佳乐]({{< ref "progynova" >}})
 - [色普龙]({{< ref "cyproterone" >}})
 - [螺内酯]({{< ref "spironolactone" >}})
-- [GnRH类似物]({{< ref "gnrha" >}})
+- [GnRH 类似物]({{< ref "gnrha" >}})
 
 ## 注意事项
 
