@@ -11,6 +11,8 @@ weight: 1
 
 ## 基本信息
 
+{{< hashtag "ai-si-tuo" >}}
+
 ### Oestrogel<sup>&reg;</sup>（爱斯妥）
 
 ![Oestrogel](/images/Oestrogel.jpg)
@@ -20,9 +22,10 @@ weight: 1
 - 进口药品注册证号：H20120488
 - 生产企业：比利时法杏制药厂
 - 药品规格：
-  - 0.06%\*80g（含雌二醇 48mg）
-  - 0.06%\*30g（含雌二醇 18mg）
-- 参考价格：人民币 112 元（80g）、52 元（30g）
+  - 0.06% &times; 80g（含雌二醇 48mg）
+  - 0.06% &times; 30g（含雌二醇 18mg）
+
+{{< hashtag "jian-min" >}}
 
 ### 健民 雌二醇凝胶
 
@@ -32,14 +35,12 @@ weight: 1
 - 有效成分：雌二醇
 - 批准文号：国药准字 H20051153
 - 生产企业：健民集团叶开泰国药（随州）有限公司
-- 药品规格：0.06%\*40g（含雌二醇 24mg）
-- 参考价格：人民币 96 元（40g）
+- 药品规格：0.06% &times; 40g（含雌二醇 24mg）
 
 ## 使用方式与用量
 
-<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="https://player.bilibili.com/player.html?bvid=BV1eq4y1U71L&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
-</div>
+视频：[爱思妥雌二醇凝胶使用指南](https://www.bilibili.com/video/BV1eq4y1U71L)
+
 {{< notice warning "用药安全提示" >}}
 请勿将凝胶涂抹于乳房处。
 {{< /notice >}}
@@ -67,4 +68,3 @@ weight: 1
 - 半衰期：37 小时（经皮）
 - 分子式：$\ce{C18H24O2}$
 - 分子量：272.38 g/mol
-- ![化学式](/images/Estradiol.svg)

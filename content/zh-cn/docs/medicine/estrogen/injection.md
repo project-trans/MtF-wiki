@@ -24,7 +24,7 @@ libraries: [katex, mhchem]
 - 外观：微黄色澄清油性注射液
 - [说明书（日语）](/instr/progynon.pdf)
 
-### 持田 Pelanin Depot
+### 【停产】持田 Pelanin Depot
 
 <table><tr>
 <td><img src="/images/Mochida-5.jpg"/></td>
@@ -54,7 +54,7 @@ libraries: [katex, mhchem]
 重度肝障碍患者请勿使用
 {{< /notice >}}
 
-- 使用方式：[肌肉注射](https://zh.wikihow.com/%E8%BF%9B%E8%A1%8C%E8%82%8C%E8%82%89%E6%B3%A8%E5%B0%84)、[皮下注射](https://zh.wikihow.com/%E8%BF%9B%E8%A1%8C%E7%9A%AE%E4%B8%8B%E6%B3%A8%E5%B0%84)  {{< tag-neg "不会打针就不要瞎打！" >}}
+- 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag-neg "不会打针就不要瞎打！" >}}
 - 使用剂量：每 5-7 天 5mg 或 每 1-2 周 10mg
 - 注意事项：
   - 请勿重复注入同一位置。
@@ -72,8 +72,7 @@ libraries: [katex, mhchem]
 - 半衰期：4-5 天（注射）
 - 分子式：$\ce{C23H32O3}$
 - 分子量：356.50 g/mol
-- ![化学式](/images/Estradiol_valerate.svg)
 
 ## 参考阅读
-1. <https://fenwayhealth.org/wp-content/uploads/2015/07/COM-1880-trans-health_injection-guide_small_v2.pdf>
 
+1. <https://fenwayhealth.org/wp-content/uploads/2015/07/COM-1880-trans-health_injection-guide_small_v2.pdf>

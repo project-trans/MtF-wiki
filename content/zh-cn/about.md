@@ -41,7 +41,7 @@ weight: 0
 
 与其它对我们提供帮助和资讯的小可爱们。
 
-<script>var getJSON = function(url, callback) {var xhr = new XMLHttpRequest();xhr.open('GET', url, true);xhr.responseType = 'json';xhr.onload = function() {var status = xhr.status;if (status === 200) {callback(null, xhr.response);} else {callback(status, xhr.response);}};xhr.send();};getJSON('https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors?per_page=100',function(err, data) {if (err === null) {for(i in data){var para = document.createElement("li");var node = document.createElement("a");var node2 = document.createElement("img");para.style="margin: 4px;float: left;";node2.style="width: 32px;height: 32px;border-radius: 50%;";node.href=data[i].html_url;node2.src=data[i].avatar_url;node.appendChild(node2);para.appendChild(node);var element = document.getElementById("cons");element.appendChild(para);}}});</script>
+<script>var getJSON = function(url, callback) {var xhr = new XMLHttpRequest();xhr.open('GET', url, true);xhr.responseType = 'json';xhr.onload = function() {var status = xhr.status;if (status === 200) {callback(null, xhr.response);} else {callback(status, xhr.response);}};xhr.send();};getJSON('https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors?per_page=100',function(err, data) {if (err === null) {for(i in data){var para = document.createElement("li");var node = document.createElement("a");var node2 = document.createElement("img");para.style="margin: 4px;float: left;";node2.style="width: 32px;height: 32px;border-radius: 50%;";node.href=data[i].html_url;node.title=data[i].login;node2.src=data[i].avatar_url;node.appendChild(node2);para.appendChild(node);var element = document.getElementById("cons");element.appendChild(para);}}});</script>
 
 ## 联络
 

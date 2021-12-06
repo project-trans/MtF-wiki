@@ -14,6 +14,11 @@ MtF：跨性别女性。
 动词。指性别表达取得第三者视角认同。
 {{< /expand >}}
 
+{{< expand "gd" >}}
+gd 即为 gender dysphoria 的缩写
+意为 [性别焦虑](https://zh.wikipedia.org/zh-cn/性别不安)
+{{< /expand >}}
+
 {{< expand "家长党" >}}
 名词。取得家长充分理解并予以支持的跨儿。
 {{< /expand >}}

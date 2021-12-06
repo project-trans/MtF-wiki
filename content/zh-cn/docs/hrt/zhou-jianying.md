@@ -2,7 +2,7 @@
 title: 苏州市立医院｜周建英
 ---
 
-{{< doctor-avatar "zhou-jian-ying.jpg" >}}
+{{< doctor-avatar "zhou-jianying.jpg" >}}
 
 医生姓名：[周建英](https://www.haodf.com/doctor/13154.html)
 

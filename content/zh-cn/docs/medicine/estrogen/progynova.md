@@ -13,29 +13,25 @@ libraries: [katex, mhchem]
 
 ## 基本信息
 
-<table><tr>
-<td><img src="/images/Progynova.jpg"/></td>
-<td><img src="/images/Progynova-th.png"/></td>
-</tr><tr>
-<td align="center">中国包装</td>
-<td align="center">泰国包装 2mg</td>
-</tr></table>
+| 中国包装 | 泰国包装 (2mg) |
+| :--: | :--:|
+| ![!](/images/Progynova.jpg) | ![!](/images/Progynova-th.png)|
 
 - 药品名称：Progynova<sup>&reg;</sup>（补佳乐<sup>&reg;</sup>）
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：补
-- 批准文号（中国版）: 国药准字 J20171038
+- 批准文号（中国版）: [国药准字 J20171038](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MjM4MCZpdGVtSWQ9ZmY4MDgwODE3YzgzMTJjNDAxN2M5YzU5MjI0ZTA0NWQ=)
 - 厂商：拜耳
 - 常见规格：
 | **版本** | **规格** | **外观** |
-| :----: | :----: | :----: |
-| 中国包装（国补）| 1mg\*21 片/盒 | 黄色糖衣片 |
-| 泰国包装（泰补）| 2mg\*28 片\*3 板/盒 | 蓝色糖衣片 |
+| :----: | :---- | :----: |
+| 中国包装（国补）| 1mg &times; 21 片/盒 | 黄色糖衣片 |
+| 泰国包装（泰补）| 2mg &times; 28 片 &times; 3 板/盒 | 蓝色糖衣片 |
 
 ## 使用方式与用量
 
 - 服用方式：口服（味甜）
-（亦有含服，含服较口服的效果是否更优未得到验证）
+  （亦有含服，含服较口服的效果是否更优未得到验证）
 - 使用剂量：2mg 至 6mg
 - 说明书：单次1mg补佳乐约能提供15pg/mL的**峰值**血清浓度（持续服用可维持），远低于100pg/mL
   生物利用率随个体差异。
@@ -53,4 +49,3 @@ libraries: [katex, mhchem]
 - 半衰期：12~20 小时（经口）
 - 分子式：$\ce{C23H32O3}$
 - 分子量：356.50 g/mol
-- ![化学式](/images/Estradiol_valerate.svg)

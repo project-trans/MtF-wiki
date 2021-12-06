@@ -14,5 +14,9 @@ weight: 5
 所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1)
 
 {{% alert theme=warning %}}
-该医师信息来自公众号“跨儿说TransTalks”的[文章](https://mp.weixin.qq.com/s/ErLNin2MNaiBZ01Pnul3fQ)，目前尚无实际就诊反馈，欢迎尝试并补充。
+该医师信息来自公众号 “跨儿说TransTalks” 的 [文章](https://mp.weixin.qq.com/s/ErLNin2MNaiBZ01Pnul3fQ)。
 {{% /alert %}}
+
+## 就诊反馈
+
+任何情况下无家长支持不予开证

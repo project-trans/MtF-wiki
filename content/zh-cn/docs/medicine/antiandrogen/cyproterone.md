@@ -36,8 +36,8 @@ weight: 1
 - 简称：土色
 - 厂商：拜耳
 - 产地：土耳其
-- 规格：50mg\*50 片，100mg\*30 片
-- 参考售价：（京东国际）50mg\*50 片 人民币 380 元
+- 规格：50mg &times; 50 片，100mg &times; 30 片
+- 参考售价：（京东国际）50mg &times; 50 片 人民币 380 元
 - [说明书（繁体中文）](/instr/androcur-zh.pdf)
 
 ### Siterone<sup>&reg;</sup>
@@ -54,7 +54,7 @@ weight: 1
 - 简称：新色
 - 厂商：REX
 - 产地：新西兰
-- 规格：50mg\*50 片，100mg\*50 片
+- 规格：50mg &times; 50 片，100mg &times; 50 片
 
 ### 华典<sup>&reg;</sup>醋酸环丙孕酮片
 
@@ -64,7 +64,7 @@ weight: 1
 - 简称：国色
 - 厂商：武汉九珑人福药业有限责任公司
 - 批准文号：国药准字 H20056637
-- 规格：50mg\*24 片
+- 规格：50mg &times; 24 片
 - 参考售价：人民币 270 元
 
 ## 说明
@@ -100,7 +100,6 @@ weight: 1
 - 化学名称：6-氯-1α,2α-亚甲基-3,20-二孕酮-4,6-二烯-17α-醋酸酯
 - 分子式：$\ce{C24H29ClO4}$
 - 分子量：416.94 g/mol
-- ![化学式](/images/CPA.svg)
 
 [^1]: [Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People](https://transfemscience.org/articles/cpa-dosage/)
 [^2]: [The journal of clinical endocrinology & metabolism](https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359)
