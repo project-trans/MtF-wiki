@@ -32,7 +32,7 @@ title: 南京信息工程大学
 
 体育课在某一天中午会开放选课，大家选修自己比较感兴趣的课。几乎全部课程是生理男性女性分开的，极少有混合上课的。体育课的严格程度根据课程不同而不同。如果能选到相对比较轻松的课，比如说「安塞腰鼓」什么的就比较舒适，基本闭着眼睛过。~~（不过笔者选了安塞腰鼓都没过，因为一学期就去了三次体育课）~~
 
-凭写明不适宜参加体育运动的证明可以申请保健班（[失败案例](https://cdn.lwqwq.com/pic/PE-application-failed-with-medical-record.webp)；同时，此证明目前无法从[曹秋云](/zh-cn/docs/psyco/yangtze/cao-qiuyun/)处获得），保健班是男女性合班上课的。但貌似也不轻松到哪里去。另外重修也是男女合并的。
+凭写明不适宜参加体育运动的证明可以申请保健班（[失败案例](https://cdn.lwqwq.com/pic/PE-application-failed-with-medical-record.webp)；同时，此证明目前无法从[曹秋云]({{< ref "cao-qiuyun" >}})处获得），保健班是男女性合班上课的。但貌似也不轻松到哪里去。另外重修也是男女合并的。
 
 体育课还有跑步打卡任务，在学期体育成绩中占一定比例。每学期打卡 48 次，是围绕指定的路线跑一定路程，生理女性 1.0km，男性 1.2km．~~有办法作弊就是了。~~
 
@@ -42,9 +42,9 @@ title: 南京信息工程大学
 
 学校附近有一个[东南大学附属中大医院江北院区](https://www.njzdyy.com/yygk1/jbyq.htm)，坐公交车很快就可以到。可以去那里挂内分泌科检查六项以及进行 HRT 之前的检查之类，检查的费用也是可以报销的。
 
-{{% alert theme=warning %}}[东南大学附属中大医院江北院区](https://www.njzdyy.com/yygk1/jbyq.htm)周末内分泌科不开，而中医科开不出六项。所以测六项请不要在周末的时候去{{% /alert %}}
+{{% alert theme=warning %}}[东南大学附属中大医院江北院区](https://www.njzdyy.com/yygk1/jbyq.htm)周末内分泌科不开，**激素六项检测下午不做**，中医科开不出六项。所以测六项请不要在周末的上午（检验中心六项工作时间 7:30 ~ 12:00）去,尽量空腹，可以少喝点水。可以在手机上[公众号](https://www.njzdyy.com/images/erweima.png)预约，去了之后直接前往科室，这样排队会快一点。{{% /alert %}}
 
-[如何在南信大报销你测六项的费用](https://nyac.at/posts/nuist-medicare)
+[如何在南信大报销你测六项的费用](https://0w.al/~nxbx)
 
 ### 其他概况
 
@@ -54,6 +54,6 @@ title: 南京信息工程大学
 
 > 你们小药娘人均 CS
 
-<https://colleges.chat/universities/nan-jing-xin-xi-gong-cheng-da-xue/> 有一些常见问题可以参考。
+[大学生活质量指北](https://colleges.chat/universities/nan-jing-xin-xi-gong-cheng-da-xue/)中有一些常见问题可以参考。
 
 {{< sign-name name="凌莞" imgsrc="https://cdn.lwqwq.com/pic/avatar-transflag" >}}
