@@ -2,7 +2,6 @@
 title: 喉结切除（北医三院潘柏林）
 description: 本页描述的是在北医三院潘柏林处进行的喉结切除手术。
 weight: 1
-draft: false
 ---
 北医三院喉结手术流程
 

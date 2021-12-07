@@ -1,6 +1,5 @@
 ---
 title: 庇护所
-weight: 7
 ---
 
 {{< notice warning "注意事项" >}}

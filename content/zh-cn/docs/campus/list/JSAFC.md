@@ -1,10 +1,5 @@
 ---
 title: 江苏农林职业技术学院
-description: ''
-date: 2021-06-17T10:31:02
-draft: false
-weight: 4
-tocLevels: [h1, h2]
 ---
 
 # 地理位置

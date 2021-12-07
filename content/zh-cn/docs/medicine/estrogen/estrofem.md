@@ -1,7 +1,6 @@
 ---
 title: 诺坤复（Estrofem）
 description: Estrofem 是雌二醇片，不同于补佳乐（戊酸雌二醇）。
-date: 2021-04-13T17:12:17+08:00
 libraries: [katex, mhchem]
 weight: 3
 ---

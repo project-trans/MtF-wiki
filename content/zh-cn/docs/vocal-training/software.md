@@ -1,5 +1,6 @@
 ---
 title: 嗓音训练软件
+weight: 1000
 ---
 
 ## Android 平台
