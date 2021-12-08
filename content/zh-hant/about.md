@@ -14,7 +14,7 @@ weight: 0
 
 本專案 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki/)
 本專案 <i class="bi bi-link-45deg" aria-label="Website"></i> 網址：[MtF.Wiki](https://mtf.wiki/)
-<i class="bi bi-link-45deg" aria-label="Website"></i> 同步映象網址：[mtfwiki.cn](https://mtfwiki.cn/) （同步週期 30 分鐘）
+<i class="bi bi-link-45deg" aria-label="Website"></i> 同步映象網址：[mtfwiki.cn](https://mtfwiki.cn/) （同步週期 30 分鐘），[mtfwiki.com](https://mtfwiki.com/)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
