@@ -33,7 +33,7 @@ footer:
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: Discord
-          link: https://discord.gg/UtCungsT7V
+          link: https://233.plus/discord
         - title: e-mail
           link: mailto:mtfwiki@estela.cn
   contents:

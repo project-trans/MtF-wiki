@@ -54,7 +54,7 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://discord.gg/UtCungsT7V)
+[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://233.plus/discord)
 
 email: mtfwiki@estela.cn
 

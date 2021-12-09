@@ -44,7 +44,7 @@ and other lovely guys who give us help and information.
 
 ## Contact
 
-Through <a style="color:#1DA1F2" href="https://discord.gg/UtCungsT7V"><i style="color:#1DA1F2" class="bi bi-discord"></i> Discord</a>
+Through <a style="color:#1DA1F2" href="https://233.plus/discord"><i style="color:#1DA1F2" class="bi bi-discord"></i> Discord</a>
 
 Through <a style="color: unset;" href="https://github.com/mtf-wiki/MtF-Wiki/issues/"><i class="bi bi-github" aria-label="GitHub"></i> GitHub Issues</a>
 
