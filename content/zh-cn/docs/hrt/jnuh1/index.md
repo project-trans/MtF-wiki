@@ -1,10 +1,9 @@
 ---
-title: "暨南一院｜高绿芬"
-description: ""
-weight: 3
+title: 广州暨南一院｜高绿芬
+weight: 200
 ---
 
-{{< doctor-avatar "gao-lvfen.jpg" >}}
+![doctor](gao-lvfen.jpg)
 
 医生姓名：[高绿芬](https://h.jd120.com/Reserve/Doctor/21056)
 
