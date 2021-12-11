@@ -65,4 +65,4 @@ weight: 1
 
 ![record](record.jpg)
 
-![proof](proof.jpg)
+![证明](proof.jpg)

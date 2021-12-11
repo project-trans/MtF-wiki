@@ -37,4 +37,4 @@ Ps：据潘柏林说尚无稳定的开证标准
 
 ## 证明样式
 
-![Proof](/images/doctor/proof/proof.jpg)
+![证明](proof.jpg)

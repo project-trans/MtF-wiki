@@ -44,4 +44,4 @@ weight: 2
 
 ## 诊断证明
 
-![诊断证明](proof.jpg)
+![证明](proof.jpg)

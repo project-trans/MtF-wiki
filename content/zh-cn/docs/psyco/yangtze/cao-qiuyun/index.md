@@ -54,7 +54,7 @@ Pass 会更好一些哦
 ## 证明样式
 
 诊断证明：
-![proof](proof.jpg)
+![证明](proof.jpg)
 
 病历样例（16 岁）：
 ![record](record.jpg)

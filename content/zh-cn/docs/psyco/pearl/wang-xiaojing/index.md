@@ -21,4 +21,4 @@ weight: 3
 
 ## 证明样式
 
-![proof](proof.jpg)
+![证明](proof.jpg)
