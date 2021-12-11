@@ -42,7 +42,7 @@ title: 南京信息工程大学
 
 学校附近有一个[东南大学附属中大医院江北院区](https://www.njzdyy.com/yygk1/jbyq.htm)，坐公交车很快就可以到。可以去那里挂内分泌科检查六项以及进行 HRT 之前的检查之类，检查的费用也是可以报销的。
 
-{{% alert theme=warning %}}[东南大学附属中大医院江北院区](https://www.njzdyy.com/yygk1/jbyq.htm)周末内分泌科不开，**激素六项检测下午不做**，中医科开不出六项。所以测六项请不要在周末的上午（检验中心六项工作时间 7:30 ~ 12:00）去,尽量空腹，可以少喝点水。可以在手机上[公众号](https://www.njzdyy.com/images/erweima.png)预约，去了之后直接前往科室，这样排队会快一点。{{% /alert %}}
+{{< alert theme=warning >}}[东南大学附属中大医院江北院区](https://www.njzdyy.com/yygk1/jbyq.htm)周末内分泌科不开，**激素六项检测下午不做**，中医科开不出六项。所以测六项请不要在周末的上午（检验中心六项工作时间 7:30 ~ 12:00）去,尽量空腹，可以少喝点水。可以在手机上[公众号](https://www.njzdyy.com/images/erweima.png)预约，去了之后直接前往科室，这样排队会快一点。{{< /alert >}}
 
 [如何在南信大报销你测六项的费用](https://0w.al/~nxbx)
 

@@ -5,7 +5,7 @@ weight: 11
 
 ![doctor](doctor.jpg)
 
-{{% tag-pos LGBT 友善 %}} {{% tag-pos 提供心理咨询 %}} {{% tag-neg 仅提供心理咨询 %}}
+{{< tag-pos LGBT 友善 >}} {{< tag-pos 提供心理咨询 >}} {{< tag-neg 仅提供心理咨询 >}}
 
 医生姓名：黄圆媛
 

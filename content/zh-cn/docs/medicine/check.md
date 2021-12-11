@@ -43,9 +43,9 @@ weight: 2
 
 #### MtF 参考值
 
-{{% alert theme=info %}}
+{{< alert theme=info >}}
 100 - 200 pg/mL (360 - 730 pmol/L)
-{{% /alert %}}
+{{< /alert >}}
 
 ### **睾酮（T）**
 
@@ -66,14 +66,14 @@ weight: 2
 
 使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})会降低睾酮水平，没有必要将睾酮降得过低，达到 1ng/mL 以下即可，如睾酮过低可考虑减少用量。
 
-{{% alert theme=info %}}
+{{< alert theme=info >}}
 
 - 成年女性睾酮水平的范围：0.1 - 0.75 ng/mL
 
 - 成年男性睾酮水平的范围：1.75 - 7.81 ng/mL
 
 （仅供参考，不同医院的测定会有不同的结果与不同的参考范围）
-{{% /alert %}}
+{{< /alert >}}
 
 ### 促卵泡激素（FSH）
 

@@ -7,7 +7,7 @@ weight: 5
 
 ![doctor](doctor.jpg)
 
-{{% tag-neg 昂贵 %}} {{% tag-neg 需家属介入 %}} {{% tag-neg 初诊不开证 %}} {{% tag-pos 可劝家长 %}}
+{{< tag-neg 昂贵 >}} {{< tag-neg 需家属介入 >}} {{< tag-neg 初诊不开证 >}} {{< tag-pos 可劝家长 >}}
 
 医生姓名：[王飚](http://www.smhc.org.cn/MedicalGuide/contents/49/56.html)
 
@@ -21,9 +21,9 @@ weight: 5
 
 （换句话说你看过本院任意两个医生才能开证）
 
-{{% alert theme=warning %}}
+{{< alert theme=warning >}}
 去看王飚需要年满 20 周岁，不满 20 周岁无法开具任何证明，会劝你 20 周岁之后再来以及进行任何操作。
-{{% /alert %}}
+{{< /alert >}}
 
 ## 证明样式
 

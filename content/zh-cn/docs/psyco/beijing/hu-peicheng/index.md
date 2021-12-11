@@ -3,13 +3,13 @@ title: 北京｜胡佩诚
 weight: 2
 ---
 
-{{% alert theme=info %}}{{< hybl >}}{{% /alert %}}
+{{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
 
 ![doctor](doctor.jpg)
 
-{{% tag-pos 和蔼 %}} {{% tag-pos 性教育创始人 %}}
-{{% tag-pos 初诊开证 %}} {{% tag-pos 病历可用于北三 HRT %}}
-{{% tag-neg 必须年满 20 岁 %}}
+{{< tag-pos 和蔼 >}} {{< tag-pos 性教育创始人 >}}
+{{< tag-pos 初诊开证 >}} {{< tag-pos 病历可用于北三 HRT >}}
+{{< tag-neg 必须年满 20 岁 >}}
 
 医生姓名：[胡佩诚](https://www.haodf.com/doctor/12034.html)
 

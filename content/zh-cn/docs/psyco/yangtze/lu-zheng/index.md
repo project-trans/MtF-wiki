@@ -7,7 +7,7 @@ weight: 4
 
 ![doctor](doctor.jpg)
 
-{{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}} {{% tag-neg 需要亲属介入 %}}
+{{< tag-neg 昂贵 >}} {{< tag-neg 初诊不开证 >}} {{< tag-neg 需要亲属介入 >}}
 
 医生姓名：[陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)
 
@@ -31,11 +31,11 @@ weight: 4
 1. 已经工作且独立生活、长得还算 pass.
 1. 直接出示「手术同意书」。
 
-{{% notice info "注意" %}}
+{{< notice info "注意" >}}
 陆峥价格昂贵且开证成功率低，建议挂同院的 [张毅]({{< ref "zhang-yi" >}}) 及 [王飚]({{< ref "wang-biao" >}}) 进行开证操作。
 
 一般来说有两个医生的诊断就可以开证。
-{{% /notice %}}
+{{< /notice >}}
 
 ## 注意事项
 

@@ -3,13 +3,13 @@ title: 北京｜丛中
 weight: 1
 ---
 
-{{% alert theme=info %}}{{< hybl >}}{{% /alert %}}
+{{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
 
 ![doctor](cong-zhong.jpg)
 
-{{% tag-pos 便宜 %}} {{% tag-pos 无需家长 %}}
-{{% tag-pos 初诊开假条 %}} {{% tag-pos 病历可用于北三 HRT %}}
-{{% tag-neg 观察期 2 年 %}}
+{{< tag-pos 便宜 >}} {{< tag-pos 无需家长 >}}
+{{< tag-pos 初诊开假条 >}} {{< tag-pos 病历可用于北三 HRT >}}
+{{< tag-neg 观察期 2 年 >}}
 
 医生姓名：[丛中](https://m.haodf.com/doctor/3990.html)
 
@@ -56,7 +56,7 @@ weight: 1
 
 这里是北京跨性别一条龙服务的起点，开到假条后可去[北医三院]({{< ref "../../../hrt/pku3" >}})进行正式的 HRT 流程。
 
-{{% alert theme=danger %}}可用于手术的正式证明需两年观察期，凭介绍信开具。须没有严重精神问题。{{% /alert %}}
+{{< alert theme=danger >}}可用于手术的正式证明需两年观察期，凭介绍信开具。须没有严重精神问题。{{< /alert >}}
 
 ## 证明样式
 

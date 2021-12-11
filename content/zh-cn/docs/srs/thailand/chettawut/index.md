@@ -7,7 +7,7 @@ aliases:
 
 ![doctor](doctor.jpg)
 
-{{% tag-pos WPATH 成员 %}}
+{{< tag-pos WPATH 成员 >}}
 
 医生姓名：Chettawut，蔡达武
 

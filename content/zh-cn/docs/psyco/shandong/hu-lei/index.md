@@ -5,7 +5,7 @@ weight: 10
 
 ![doctor](doctor.jpg)
 
-{{% tag-pos 和蔼 %}} {{% tag-pos 可与家长沟通 %}}  {{% tag-neg 需家属介入 %}}
+{{< tag-pos 和蔼 >}} {{< tag-pos 可与家长沟通 >}}  {{< tag-neg 需家属介入 >}}
 
 医生姓名：[胡蕾](https://www.haodf.com/doctor/293557.html)
 
