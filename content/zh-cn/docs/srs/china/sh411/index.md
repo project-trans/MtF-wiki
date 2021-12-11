@@ -5,7 +5,7 @@ weight: 31
 
 {{< notice info >}} 医生叫赵烨德，不叫赵博，对，他说自己是赵博也不行，医院名叫长海医院虹口分院，不叫 411． {{< /notice >}}
 
-![赵博照片](/images/doctor/zhao-yede.jpg)
+![Doctor](doctor.jpg)
 
 医生姓名：[赵烨德](https://www.haodf.com/doctor/6964528056.html)
 
@@ -21,7 +21,7 @@ weight: 31
 
 1. 年龄满 20 周岁
 1. 易性症证明（任何三甲开具的诊断证明都可以，承认复印件）
-1. [父母同意书](/documents/srs-411/icf.pdf)（模版，可能需要公证）
+1. [父母同意书](icf.pdf)（模版，建议公证）
 1. [BMI](https://zh.wikipedia.org/zh-cn/身体质量指数) 需要控制在正常范围以内（推荐小于 24，如意愿强烈最大允许 BMI 28）
 1. 术前一个月需要停止 HRT 程序，防止血栓风险
 1. 无 [HIV](https://zh.wikipedia.org/zh-cn/HIV)
@@ -37,6 +37,7 @@ weight: 31
 费用具备时效性，建议面诊咨询
 
 必要支出
+
 1. 预交 6.3k 止血棉费用
 1. 预交 50k 手术及住院费用（不支持信用卡支付）
    住院费会根据实际情况多退少补（一般在 43k 附近浮动）
@@ -46,10 +47,11 @@ weight: 31
 1. 护工费用 100 元 / 天（一般 21 天出院，出院时结算）
 
 可选支出
-1. 气垫床 150 元（可选，需提前告知护工）
-1. 公证费 500 元（具体参见 [公证指引]({{< ref "notarization#国内手术上海" >}})，建议制作多份副本）
 
-住院期间费用构成请参见：[费用清单](/documents/srs-411/fee-list.pdf)
+1. 气垫床 150 元（可选，需提前告知护工）
+1. 公证费 500 元（具体参见 [公证指引]({{< ref "notarization#shanghai" >}})，建议制作多份副本）
+
+住院期间费用构成请参见：[费用清单](fee-list.pdf)
 
 **若只切除性腺，约需要费用 8k**
 
@@ -157,5 +159,5 @@ weight: 31
 
 - 2021 年 6 月手术，术后一个月拍摄：
   {{< expand "展开查看" >}}
-  ![srs-photo](/images/srs/srs-411.jpg)
+  ![srs-photo](postoperative-1.jpg)
   {{< /expand >}}

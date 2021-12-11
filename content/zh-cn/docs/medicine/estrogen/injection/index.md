@@ -13,25 +13,25 @@ libraries: [katex, mhchem]
 
 ### 富士 Progynon®-Depot
 
-![fuji](/images/Progynon-Depot.jpg)
+![fuji](progynon-depot.jpg)
 
 - 英文名称：Progynon®-Depot
 - 日文名称：プロギノン®・デポー
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：富士日雌
 - 厂商：富士制药
-- 规格：一盒 10 瓶，每瓶 1mL，含有 10mg 戊酸雌二醇
+- 规格：一盒 10 瓶，每瓶 1 mL，含有 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](/instr/progynon.pdf)
+- [说明书（日语）](progynon.pdf)
 
 ### 【停产】持田 Pelanin Depot
 
 <table><tr>
-<td><img src="/images/Mochida-5.jpg"/></td>
-<td><img src="/images/Mochida-10.jpg"/></td>
+<td>![5 mg](mochida-5.jpg)</td>
+<td>![10 mg](mochida-10.jpg)</td>
 </tr><tr>
-<td align="center">5mg</td>
-<td align="center">10mg</td>
+<td align="center">5 mg</td>
+<td align="center">10 mg</td>
 </tr></table>
 
 - 英文名称：Pelanin Depot
@@ -39,9 +39,9 @@ libraries: [katex, mhchem]
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：持田日雌
 - 厂商：持田制药
-- 规格：一盒 10 瓶，每瓶 1mL，含有 5mg 或 10mg 戊酸雌二醇
+- 规格：一盒 10 瓶，每瓶 1 mL，含有 5mg 或 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](/instr/pelanin.pdf)
+- [说明书（日语）](pelanin.pdf)
 
 ## 说明
 
@@ -55,7 +55,7 @@ libraries: [katex, mhchem]
 {{< /notice >}}
 
 - 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag-neg "不会打针就不要瞎打！" >}}
-- 使用剂量：每 5-7 天 5mg 或 每 1-2 周 10mg
+- 使用剂量：每 5-7 天 5 mg / 每 1 - 2 周 10 mg
 - 注意事项：
   - 请勿重复注入同一位置。
   - 小心避免神经。

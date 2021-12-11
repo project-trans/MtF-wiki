@@ -20,7 +20,7 @@ weight: 2
 1. 九院新增了整复外科跨性别专科，为整外周六上午。可以直接预约挂号(目前不确定坐诊医生是否为程医生，有待进一步确认)。
 
 {{< expand "微信公众号在线挂号" >}}
-![register](/images/doctor/sh9/register-sh9.jpg)
+![register](register-sh9.jpg)
 {{< /expand >}}
 
 ## 就诊
@@ -40,14 +40,14 @@ weight: 2
 （建议）携带“易性症”证明。未自行服药者可能需要出示证明后给予激素治疗的知情同意书。(目前，九院的 HRT 认可所有三甲医院给出的诊断证明。)
 
 {{< expand "知情同意书" >}}
-![ICF (1/2)](/images/doctor/sh9/icf-p1.jpg)
-![ICF (2/2)](/images/doctor/sh9/icf-p2.jpg)
+![ICF (1/2)](icf-p1.jpg)
+![ICF (2/2)](icf-p2.jpg)
 {{< /expand >}}
 
 对于未自行服药者，回去后一定要仔细地看完这份文件，如果还是决定要开展 HRT 的话，下次复诊时需要签好字带过来。
 
 {{< expand "病历" >}}
-![Record](/images/doctor/sh9/record.webp)
+![Record](record.webp)
 {{< /expand >}}
 
 开检查，把检查全部做完拿到报告之后再去复诊。
@@ -64,8 +64,8 @@ weight: 2
 血液检查项目：CRP + 血常规、凝血、肝功能、电化学、乙肝三对半、性激素六项、HIV + TRUST
 超声检查项目：乳腺及掖窝淋巴结、甲状腺、双下肢动脉、双下肢静脉
 骨科项目：骨密度
-![Precheck (1/2)](/images/doctor/sh9/precheck-1.png)
-![Precheck (2/2)](/images/doctor/sh9/precheck-2.png)
+![Precheck (1/2)](precheck-1.png)
+![Precheck (2/2)](precheck-2.png)
 {{< /expand >}}
 
 周六没有超声检查、骨科检查。超声可能需要预约。
@@ -83,7 +83,7 @@ B 超（~~照奶子~~）当场有结果。
 需要事先告知“程辰”进行预约
 
 {{< expand "随访单（微信）" >}}
-![Follow-up sheet](/images/doctor/sh9/follow-up-sheet.jpg)
+![Follow-up sheet](follow-up-sheet.jpg)
 {{< /expand >}}
 
 报告都拿到手之后，就带着所有报告以及自己签字的知情同意书“三刷”程医生。
@@ -91,11 +91,11 @@ B 超（~~照奶子~~）当场有结果。
 如果检查报告看完一切都没问题的话，程医生会问你对于那份知情同意书还有什么问题。记住，这个时候，一定要向他提一些问题，切记切记~
 
 {{< expand "配药清单" >}}
-![Dispensing list](/images/doctor/sh9/dispensing-list.png)
+![Dispensing list](dispensing-list.png)
 {{< /expand >}}
 
 约定 3 周后复诊，如果有突然的不适一定提前回去复诊。还有提供一张情况记录表。
 
 {{< expand "随访表" >}}
-![Follow-up form](/images/doctor/sh9/follow-up-form.webp)
+![Follow-up form](follow-up-form.webp)
 {{< /expand >}}

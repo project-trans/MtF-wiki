@@ -15,7 +15,7 @@ libraries: [katex, mhchem]
 
 | 中国包装 | 泰国包装 (2mg) |
 | :--: | :--:|
-| ![!](/images/Progynova.jpg) | ![!](/images/Progynova-th.png)|
+| ![!](progynova.jpg) | ![!](progynova-th.png)|
 
 - 药品名称：Progynova<sup>&reg;</sup>（补佳乐<sup>&reg;</sup>）
 - 药品成分：戊酸雌二醇（Estradiol valerate）

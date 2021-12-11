@@ -24,11 +24,11 @@ weight: 1
 {{< /notice >}}
 
 <table><tr>
-<td><img src="/images/Androcur50.jpg"/></td>
-<td><img src="/images/Androcur100.jpg"/></td>
+<td>![50 mg](androcur-50.jpg)</td>
+<td>![100 mg](androcur-100.jpg)</td>
 </tr><tr>
-<td align="center">50mg</td>
-<td align="center">100mg</td>
+<td align="center">50 mg</td>
+<td align="center">100 mg</td>
 </tr></table>
 
 - 商品名：Androcur<sup>&reg;</sup>
@@ -37,16 +37,16 @@ weight: 1
 - 产地：土耳其
 - 规格：50mg &times; 50 片，100mg &times; 30 片
 - 参考售价：（京东国际）50mg &times; 50 片 人民币 380 元
-- [说明书（繁体中文）](/instr/androcur-zh.pdf)
+- [说明书（繁体中文）](androcur-zh.pdf)
 
 ### Siterone<sup>&reg;</sup>
 
 <table><tr>
-<td><img src="/images/Siterone50.jpg"/></td>
-<td><img src="/images/Siterone100.jpg"/></td>
+<td>![50 mg](siterone-50.jpg)</td>
+<td>![100 mg](siterone-100.jpg)</td>
 </tr><tr>
-<td align="center">50mg</td>
-<td align="center">100mg</td>
+<td align="center">50 mg</td>
+<td align="center">100 mg</td>
 </tr></table>
 
 - 商品名：Siterone<sup>&reg;</sup>
@@ -57,7 +57,7 @@ weight: 1
 
 ### 华典<sup>&reg;</sup>醋酸环丙孕酮片
 
-<img src="/images/Huadian.jpg"/>
+![Huadian](huadian.jpg)
 
 - 商品名：华典<sup>&reg;</sup>
 - 简称：国色

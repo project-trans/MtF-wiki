@@ -14,7 +14,7 @@ title: 上海同仁医院｜陈臻
 费用相对 _北京友谊医院_ 来说较高
 
 {{< expand "前置调查问卷" >}}
-![Trans Woman Voice Questionnaire](/documents/TVQMtF-2021.jpg)
+![Trans Woman Voice Questionnaire](TVQMtF-2021.jpg)
 {{< /expand >}}
 
 ## 注意事项

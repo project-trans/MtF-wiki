@@ -15,7 +15,7 @@ weight: 1
 
 ### Oestrogel<sup>&reg;</sup>（爱斯妥）
 
-![Oestrogel](/images/Oestrogel.jpg)
+![Oestrogel](oestrogel.jpg)
 
 - 产品名称：Oestrogel<sup>&reg;</sup>（爱斯妥）
 - 有效成分：雌二醇
@@ -29,7 +29,7 @@ weight: 1
 
 ### 健民 雌二醇凝胶
 
-![国产](/images/Ningjiao.jpg)
+![国产](ningjiao.jpg)
 
 - 品牌：健民
 - 有效成分：雌二醇

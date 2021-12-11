@@ -15,6 +15,8 @@ aliases:
 
 [12345]: https://baike.baidu.com/item/12345
 
+{{< hashtag "shanghai" >}}
+
 ## 国内手术（上海）
 
 {{< notice warning "注意事项" >}}
