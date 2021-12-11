@@ -3,7 +3,7 @@ title: 温州｜郑天生
 weight: 2
 ---
 
-{{< doctor-avatar "zheng-tiansheng.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-neg 多次就诊 %}} {{% tag-pos 可与家长沟通 %}}
 {{% tag-pos 平诊不限号 %}} {{% tag-pos 便宜 %}}
