@@ -3,7 +3,7 @@ title: 北京｜郝树伟
 weight: 2
 ---
 
-{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: middle;" />害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
+{{% alert theme=info %}}{{< hybl >}}{{% /alert %}}
 
 {{% tag-pos 初诊开证 %}} {{% tag-pos 病历可用于北三 HRT %}}
 

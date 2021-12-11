@@ -3,7 +3,7 @@ title: 北京｜唐宏宇
 weight: 2
 ---
 
-{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: middle;" />害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
+{{% alert theme=info %}}{{< hybl >}}{{% /alert %}}
 
 医生姓名：唐宏宇
 
@@ -24,4 +24,3 @@ weight: 2
 | 周一 | 上午 | 精神科（特需门诊）| 100 元 |
 | 周四 | 全天 | 精神科（特需门诊）| 100 元 |
 | 周六 | 下午 | 专家门诊 | 14 元 |
-
