@@ -12,7 +12,7 @@ weight: 9
 - 逆光小鎮
 - at 中文互助群 <http://t.me/awesometrans_zh_group>
 
-### awesome trans {{< transflag >}} (Twitter)
+### awesome trans (Twitter)
 
 跨性別文件整理，資訊轉發。歡迎私信、郵件，或者在 Twitter 上 @ 我們。
 
