@@ -3,7 +3,7 @@ title: 安徽｜黄英
 weight: 6
 ---
 
-{{< doctor-avatar "huang-ying.png" >}}
+![doctor](doctor.png)
 
 {{% tag-pos 一次过 %}} {{% tag-pos 无需家长 %}} {{% tag-pos 低龄给证 %}}
 

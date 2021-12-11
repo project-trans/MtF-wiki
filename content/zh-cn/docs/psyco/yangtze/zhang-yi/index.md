@@ -5,7 +5,7 @@ weight: 4
 
 {{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
-{{< doctor-avatar "zhang-yi.jpg" >}}
+![doctor](doctor.jpg)
 
 医生姓名：[张毅](http://www.smhc.org.cn/MedicalGuide/contents/49/58.html)
 
@@ -23,7 +23,7 @@ weight: 4
 
 ## 证明样式
 
-![证明](/images/doctor/proof/zhang-yi.jpg)
+![证明](proof.jpg)
 
 ## 出诊时刻表
 
