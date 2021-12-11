@@ -3,7 +3,7 @@ title: 北京｜邸晓兰
 weight: 2
 ---
 
-{{< doctor-avatar "di-xiaolan.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-pos 病历可用于北三 HRT %}} {{% tag-neg 观察期 1 年 %}} {{% tag-neg 比较昂贵 %}}
 
@@ -62,7 +62,7 @@ weight: 2
 
 ## 证明样式
 
-![病历封面后第一页右下角“易性症”诊断](/images/doctor/proof/di-xiaolan.jpg)
+![病历封面后第一页右下角“易性症”诊断](proof.jpg)
 
 希望笔者半年后能开到大证明从而放在这里（或者等一个有大证明的 contributor）
 

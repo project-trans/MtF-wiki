@@ -3,9 +3,7 @@ title: 上海｜张毅
 weight: 4
 ---
 
-{{% alert theme=info %}}
-<img src="/images/wpnl.jpg" style="display:inline;height:6em;vertical-align:middle" /> 侬准备到 600 号报到是伐？
-{{% /alert %}}
+{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
 {{< doctor-avatar "zhang-yi.jpg" >}}
 

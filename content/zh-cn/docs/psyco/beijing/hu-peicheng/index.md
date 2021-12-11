@@ -3,9 +3,9 @@ title: 北京｜胡佩诚
 weight: 2
 ---
 
-{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: middle;" />害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
+{{% alert theme=info %}}{{< hybl >}}{{% /alert %}}
 
-{{< doctor-avatar "hu-pei-cheng.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-pos 和蔼 %}} {{% tag-pos 性教育创始人 %}}
 {{% tag-pos 初诊开证 %}} {{% tag-pos 病历可用于北三 HRT %}}
@@ -37,4 +37,4 @@ Ps：据潘柏林说尚无稳定的开证标准
 
 ## 证明样式
 
-![Proof](/images/doctor/proof/hu-pei-cheng.jpg)
+![Proof](/images/doctor/proof/proof.jpg)

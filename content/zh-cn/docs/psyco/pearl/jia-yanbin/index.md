@@ -3,7 +3,7 @@ title: 广州｜贾艳滨
 weight: 1
 ---
 
-{{< doctor-avatar "jia-yanbin.png" >}}
+![doctor](doctor.png)
 
 {{% tag-neg 昂贵 %}}
 
@@ -29,8 +29,8 @@ weight: 1
 
 - 微信公众号：「暨南大学附属第一医院」
 - 支付宝小程序：「广州华侨医院」
-  + 院区：暨大总院
-  + 科室：其他科室 - 精神医学科 - 精神医学科门诊
+  - 院区：暨大总院
+  - 科室：其他科室 - 精神医学科 - 精神医学科门诊
 
 复诊现场可加号，首诊能否加号不详。
 
@@ -44,4 +44,4 @@ weight: 1
 
 ## 证明样式
 
-![Proof](/images/doctor/proof/jia-yanbin.jpg)
+![proof](proof.jpg)

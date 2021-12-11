@@ -3,13 +3,9 @@ title: 广州｜姜美俊
 weight: 2
 ---
 
-{{< alert theme="warning" >}}
+{{< alert theme="warning" >}}建议在 [贾艳滨]({{< ref "jiang-meijun" >}}) 开具证明。{{< /alert >}}
 
-建议在 [贾艳滨]({{< ref "jiang-meijun" >}}) 开具证明。
-
-{{< /alert >}}
-
-{{< doctor-avatar "jiang-meijun.jpg" >}}
+![doctor](doctor.jpg)
 
 医生姓名：[姜美俊](https://www.haodf.com/doctor/401852304.html)
 

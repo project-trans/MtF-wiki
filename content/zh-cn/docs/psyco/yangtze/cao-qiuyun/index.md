@@ -3,16 +3,14 @@ title: 南京｜曹秋云
 weight: 1
 ---
 
-{{< doctor-avatar "cao-qiuyun.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-pos 和蔼 %}} {{% tag-pos 一次过 %}} {{% tag-neg 需家属介入 %}}
 
 医生姓名：曹秋云
 
-所在医院：
-
-[南京大学医学院附属鼓楼医院](https://amap.com/place/B00190B48R)
-[南京鼓楼医院江北国际医院](https://amap.com/place/B0FFH0UTCD)
+所在医院：[南京大学医学院附属鼓楼医院](https://amap.com/place/B00190B48R)
+所在医院：[南京鼓楼医院江北国际医院](https://amap.com/place/B0FFH0UTCD)
 
 ## 费用构成
 
@@ -22,7 +20,7 @@ weight: 1
 
 心理咨询费用 300 元
 
-量表部分不超过 400 元（必开：MMPI、SCL-90，可能包含：HCL-32、SLERS、PSQI）
+[量表]({{< ref "self-test" >}}) 部分不超过 400 元（必开：MMPI、SCL-90，可能包含：HCL-32、SLERS、PSQI）
 
 ## 挂号
 
@@ -55,11 +53,11 @@ Pass 会更好一些哦
 
 ## 证明样式
 
-- 诊断证明：
-  ![证明](/images/doctor/proof/cao-qiuyun-p1.jpg)
+诊断证明：
+![proof](proof.jpg)
 
-- 病历样例（16 岁）：
-  ![证明](/images/doctor/proof/cao-qiuyun-p2.jpg)
+病历样例（16 岁）：
+![record](record.jpg)
 
 ## 出诊时刻表
 

@@ -3,11 +3,9 @@ title: 上海｜陆峥
 weight: 4
 ---
 
-{{% alert theme=info %}}
-<img src="/images/wpnl.jpg" style="display:inline;height:6em;vertical-align:middle" /> 侬准备到 600 号报到是伐？
-{{% /alert %}}
+{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
-{{< doctor-avatar "lu-zheng.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-neg 昂贵 %}} {{% tag-neg 初诊不开证 %}} {{% tag-neg 需要亲属介入 %}}
 
@@ -19,8 +17,8 @@ weight: 4
 
 ## 费用构成
 
-1.（初诊）30 元「首诊精神疾病检查」
-1.（初诊）25 元「普通门诊诊查费」 &times; 2
+1. （初诊）30 元「首诊精神疾病检查」
+1. （初诊）25 元「普通门诊诊查费」 &times; 2
 1. 300 元 王飚 挂号费
 1. 500 元 陆峥 挂号费
 1. 至少 120 元 [量表]({{< ref "self-test" >}})
@@ -34,7 +32,7 @@ weight: 4
 1. 直接出示「手术同意书」。
 
 {{% notice info "注意" %}}
-陆峥价格昂贵且开证成功率低，建议挂同院的[张毅]({{< ref "zhang-yi" >}})及[王飚]({{< ref "wang-biao" >}})进行开证操作。
+陆峥价格昂贵且开证成功率低，建议挂同院的 [张毅]({{< ref "zhang-yi" >}}) 及 [王飚]({{< ref "wang-biao" >}}) 进行开证操作。
 
 一般来说有两个医生的诊断就可以开证。
 {{% /notice %}}
@@ -51,7 +49,7 @@ weight: 4
 
 ## 证明样式
 
-![证明](/images/doctor/proof/lu-zheng.jpg)
+![证明](proof.jpg)
 
 ## 出诊时刻表
 

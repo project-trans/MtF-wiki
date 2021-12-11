@@ -27,11 +27,11 @@ weight: 1
 
 第一次就诊会开性激素六项（310 元）、颅脑 CT 平扫（266 元）、明尼苏达多项个性测验（100 元）、症状自评量表（70 元）等检查。后续复诊只需挂号费。
 
-![病历](/images/doctor/guo-ming-bl.jpg)
+![病历](record.jpg)
 
 ## 证明样式
 
-![证明](/images/doctor/proof/guo-ming.jpg)
+![证明](proof.jpg)
 
 ## 出诊时刻表
 

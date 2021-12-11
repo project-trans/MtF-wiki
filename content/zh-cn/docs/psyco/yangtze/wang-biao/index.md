@@ -3,7 +3,7 @@ title: 上海｜王飚
 weight: 5
 ---
 
-{{% alert theme=info %}}<img src="/images/wpnl.jpg" style="display: inline; height:6em;vertical-align: middle;" /> 侬准备到 600 号报到是伐？{{% /alert %}}
+{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
 {{< doctor-avatar "wang-biao.jpg" >}}
 
@@ -27,7 +27,7 @@ weight: 5
 
 ## 证明样式
 
-![证明](/images/doctor/proof/wang-biao.jpg)
+![证明](proof.jpg)
 
 ## 出诊时刻表
 

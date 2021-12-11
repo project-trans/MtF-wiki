@@ -3,15 +3,15 @@ title: 深圳市康宁医院
 weight: 4
 ---
 
-{{< doctor-avatar "wei-zhaoguo.png" >}}
+![doctor](wei-zhaoguo.png)
 
 医生姓名：[位照国](https://www.haodf.com/doctor/697566086.html)
 
-{{< doctor-avatar "yang-huini.jpg" >}}
+![doctor](yang-huini.jpg)
 
 医生姓名：[杨惠妮](https://www.haodf.com/doctor/6964354469.html)
 
-{{< doctor-avatar "zhang-qian.png" >}}
+![doctor](zhang-qian.png)
 
 医生姓名：张倩
 
@@ -25,7 +25,7 @@ weight: 4
 
 ## 就诊过程（张倩例）
 
-1. 提前取得**染色体核型分析报告**（**染色体报告为必须**）
+1. 提前取得 **染色体核型分析报告**（**染色体报告为必须**）
 1. 通过微信公众号「深圳市康宁医院」挂号，可提前 7 天挂号。（罗湖精神心理科 -> 精神科综合门诊 找到张倩医生）
 1. 提前至少半小时到医院
 1. 首次就诊 80 元建档
@@ -36,5 +36,5 @@ weight: 4
 
 ## 证明样式
 
-![假装有诊断证明照片](/images/doctor/proof/shenzhen-kangning.jpg)
-![假装有诊断证明照片](/images/doctor/proof/zhang-qian.jpg)
+![proof (1/1)](proof-1.jpg)
+![proof (1/1)](proof-2.jpg)

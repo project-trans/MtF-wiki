@@ -12,7 +12,7 @@ weight: 2
 
 所在医院：[温州医科大学附属康宁医院](https://amap.com/place/B024103ZQK)
 
-![QR](/images/doctor/zheng-tiansheng-qr.jpg)
+![QR](contact.jpg)
 
 ## 挂号
 
@@ -39,11 +39,11 @@ weight: 2
 
 观察期病例样本：
 
-![病历](/images/doctor/proof/zheng-tiansheng.jpg)
+![病历](record.jpg)
 
 观察期后诊断证明样本：
 
-![证明](images/doctor/proof/zheng-tiansheng-zm.jpg)
+![证明](proof.jpg)
 
 ## 出诊时刻表
 

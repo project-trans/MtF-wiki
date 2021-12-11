@@ -23,13 +23,8 @@ weight: 1
 拜耳醋酸环丙孕酮片现京东国际有售
 {{< /notice >}}
 
-<table><tr>
-<td>![50 mg](androcur-50.jpg)</td>
-<td>![100 mg](androcur-100.jpg)</td>
-</tr><tr>
-<td align="center">50 mg</td>
-<td align="center">100 mg</td>
-</tr></table>
+{{< figure src="androcur-50.jpg" width="50%" >}}
+{{< figure src="androcur-100.jpg" width="50%" >}}
 
 - 商品名：Androcur<sup>&reg;</sup>
 - 简称：土色
@@ -41,13 +36,8 @@ weight: 1
 
 ### Siterone<sup>&reg;</sup>
 
-<table><tr>
-<td>![50 mg](siterone-50.jpg)</td>
-<td>![100 mg](siterone-100.jpg)</td>
-</tr><tr>
-<td align="center">50 mg</td>
-<td align="center">100 mg</td>
-</tr></table>
+{{< figure src="siterone-50.jpg" width="50%" >}}
+{{< figure src="siterone-100.jpg" width="50%" >}}
 
 - 商品名：Siterone<sup>&reg;</sup>
 - 简称：新色
@@ -69,8 +59,7 @@ weight: 1
 ## 说明
 
 - 所谓“日色”不是色普龙，请不要误用。
-
--“台色”即在台湾出售的 Androcur（“土色”）
+- “台色”即在台湾出售的 Androcur（“土色”）
 
 ## 使用方式与用量
 

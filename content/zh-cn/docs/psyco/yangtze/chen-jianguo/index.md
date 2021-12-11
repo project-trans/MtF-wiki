@@ -15,7 +15,7 @@ weight: 1000
 
 ## 证明样式
 
-![证明](/images/doctor/proof/chen-jianguo.jpg)
+![证明](proof.jpg)
 
 ## 出诊时刻表
 

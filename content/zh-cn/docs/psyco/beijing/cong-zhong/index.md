@@ -3,7 +3,7 @@ title: 北京｜丛中
 weight: 1
 ---
 
-{{% alert theme=info %}}<img src="/images/hybl.jpg" style="display: inline; height:6em;vertical-align: middle;" />害，您瞧瞧，这儿不花园北路吗？{{% /alert %}}
+{{% alert theme=info %}}{{< hybl >}}{{% /alert %}}
 
 ![doctor](cong-zhong.jpg)
 

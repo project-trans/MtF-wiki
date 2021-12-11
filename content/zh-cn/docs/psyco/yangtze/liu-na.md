@@ -3,7 +3,7 @@ title: 上海｜刘娜
 weight: 5
 ---
 
-{{% alert theme=info %}}<img src="/images/wpnl.jpg" style="display: inline; height:6em;vertical-align: middle;" /> 侬准备到 600 号报到是伐？{{% /alert %}}
+{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
 {{< doctor-avatar "liu-na.jpg" >}}
 

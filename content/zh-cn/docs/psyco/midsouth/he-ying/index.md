@@ -53,10 +53,10 @@ weight: 1
 ## 证明样式
 
 诊断证明
-![证明](/images/doctor/proof/he-ying.jpg)
+![证明](proof.jpg)
 
 病历部分
-![病例](/images/doctor/he-ying-bl.jpg)
+![病例](record.jpg)
 
 ## 出诊时刻
 
