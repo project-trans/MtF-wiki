@@ -120,7 +120,7 @@ weight: 100
 
 ## 检测项目
 
-![巨量检测](jiaofei.jpg)
+![巨量检测](fee-list.jpg)
 
 ## 出诊时刻表
 

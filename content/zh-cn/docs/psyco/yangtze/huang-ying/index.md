@@ -13,7 +13,7 @@ weight: 6
 
 ## 证明样式
 
-![证明](/images/doctor/proof/proof.jpg)
+![证明](proof.jpg)
 
 ## 注意事项
 

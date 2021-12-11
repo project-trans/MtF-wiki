@@ -3,8 +3,6 @@ title: 重庆｜任正伽
 weight: 1
 ---
 
-{{< doctor-avatar "ji-ling-lost.png" >}}
-
 {{% tag-pos 可与家长沟通 %}}
 
 医生姓名：[任正伽](https://www.haodf.com/doctor/5630749638.html)
@@ -15,7 +13,7 @@ weight: 1
 
 请如实填写实名信息
 
-![QRCode List](/images/doctor/ren-zheng-jia.jpg)
+![QRCode List](contact.jpg)
 
 关注「重庆医科大学附属第三医院」公众号 - 选择“医疗服务”菜单 - 预约挂号 - 搜索“任正伽”- 选择“出诊信息”进行预约
 
@@ -43,8 +41,6 @@ weight: 1
 
 ## 证明样式
 
-搬医院前同宁洁
-
-![证明](/images/doctor/proof/ning-jie.jpg)
+搬医院前同 [宁洁]({{ ref "ning-jie" }})
 
 开出的证明是“性别烦躁”，与新标准 ICD 11 看齐，之后可以去西南医院泌尿科开 HRT 处方

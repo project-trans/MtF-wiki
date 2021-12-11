@@ -26,4 +26,4 @@ weight: 1
 
 ## 证明样式
 
-![Proof](/images/doctor/proof/sdmhc-com.jpg)
+![Proof](proof.jpg)

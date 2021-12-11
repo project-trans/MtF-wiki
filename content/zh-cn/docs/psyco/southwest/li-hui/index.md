@@ -3,7 +3,7 @@ title: 成都｜李慧
 weight: 1
 ---
 
-{{< doctor-avatar "li-hui.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-pos 可与家长沟通 %}} {{% tag-neg 观察期 1 年 %}}
 
@@ -63,5 +63,6 @@ weight: 1
 
 ## 证明样式
 
-![!](/images/doctor/li-hui-bl.jpg)
-![!](/images/doctor/proof/li-hui.jpg)
+![record](record.jpg)
+
+![proof](proof.jpg)

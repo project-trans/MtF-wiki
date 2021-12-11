@@ -5,7 +5,7 @@ weight: 5
 
 {{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
-{{< doctor-avatar "liu-na.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-neg 无实际就诊反馈 %}}
 

@@ -3,7 +3,7 @@ title: '*重庆｜宁洁'
 weight: 1000
 ---
 
-{{< doctor-avatar "ning-jie.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-pos 可与家长沟通 %}} {{% tag-neg 观察期 1 年 %}}
 
@@ -29,4 +29,4 @@ weight: 1000
 
 ## 证明样式
 
-![证明](/images/doctor/proof/ning-jie.jpg)
+![证明](proof.jpg)

@@ -3,7 +3,7 @@ title: 济南｜齐素芳
 weight: 10
 ---
 
-{{< doctor-avatar "qi-sufang.jpg" >}}
+![doctor](doctor.jpg)
 
 {{% tag-pos 可与家长沟通 %}} {{% tag-pos 和蔼 %}}
 
@@ -39,8 +39,10 @@ weight: 10
 | 周三 | 下午 | 心理咨询与治疗门诊 | 18 元 |
 | 周四 | 下午 |      专家门诊      | 18 元 |
 
-###### 花絮
+## 花絮
 
 态度和蔼能站在患者角度思考，可以在一定程度上反驳家长的意见，病例书写工整能看懂
 
-![Proof](/images/doctor/proof/qi-sufang.jpg)
+## 证明样式
+
+![proof](proof.jpg)

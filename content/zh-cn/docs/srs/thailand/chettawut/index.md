@@ -5,7 +5,7 @@ aliases:
   - chettawut
 ---
 
-![Chettawut 照片](/images/doctor/chettawut.jpg)
+![doctor](doctor.jpg)
 
 {{% tag-pos WPATH 成员 %}}
 
@@ -61,7 +61,7 @@ BMI <= 33
 - Chettawut 医生术后是住酒店，医院可以提供三家合作酒店。
 - 可以自己联系翻译或者中介
 
-[^mail]:邮箱地址：
+[^mail]: 邮箱地址：
 
 - [chettawut@gmail.com](mailto:chettawut@gmail.com)
 - [cset@truemail.co.th](mailto:cset@truemail.co.th)
