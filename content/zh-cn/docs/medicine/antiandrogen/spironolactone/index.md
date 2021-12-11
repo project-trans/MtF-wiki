@@ -14,7 +14,7 @@ weight: 1
 ## 基本信息
 
 <table><tr>
-<td><img src="/images/Spironolactone.jpg"/></td>
+<td>![20 mg](spironolactone.jpg)</td>
 </tr><tr>
 <td align="center">一种常见的国产螺内酯片</td>
 </tr></table>

@@ -10,7 +10,7 @@ aliases:
 
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/684298348.html>
 
-（深大总医院 目前尚未提供 [嗓音女性化手术]({{< ref "../vocal-surgery" >}})）
+（深大总医院 目前尚未提供 [嗓音女性化手术]({{< ref "../../vocal-surgery" >}})）
 
 ## 费用构成
 
@@ -36,7 +36,7 @@ aliases:
 
 ## 嗓音功能训练略解
 
-文档：[嗓音功能训练略解](/documents/shenzhen-daxue-voice-training.pdf)
+文档：[嗓音功能训练略解](voice-training.pdf)
 
 来源：<https://twitter.com/youzibutaitian>
 
