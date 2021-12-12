@@ -72,4 +72,4 @@ MtF 分部情况：
 
 - 物院：17,19 级辅导员友好，其他未知- 计院：20 级辅导员友好，学院领导友好- 生科院：20 级辅导员友好
 
-{{< sign-name Circlecircle >}}
+{{< sign-name "Circlecircle" >}}

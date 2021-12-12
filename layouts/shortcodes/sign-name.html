@@ -1,5 +1,1 @@
-{{ if .IsNamedParams }}
-  <p style="text-align: right;">由<img src="{{ if .Get "imgsrc" }}{{ .Get "imgsrc" }}{{ else }}https://avatars.githubusercontent.com/{{ if .Get "githubname" }}{{ .Get "githubname" }}{{ else }}{{ .Get "name" }}{{ end }}?v=4?s=64{{ end }}" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/><u>{{ .Get "name" }}</u>投稿</p>
-{{ else }}
-  <p style="text-align: right;">由{{ if len .Params | eq 2 }}<img src="https://avatars.githubusercontent.com/{{ .Get 1 }}?v=4?s=64" style="display: inline; height:2em;vertical-align: middle; border-radius: 50%;"/>{{ else }}{{ end }}<u>{{ .Get 0 }}</u>投稿</p>
-{{ end }}
+<p style="text-align:right">由 <u>{{ .Get 0 }}</u> 投稿</p>

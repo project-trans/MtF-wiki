@@ -60,4 +60,4 @@ title: 中国地质大学（武汉）
 材料与化学学院：19 级辅导员态度明朗，应用化学专业的某位老师愿意提供部分帮助。
 其他学院待补充
 
-{{< sign-name AlbacoreMeow >}}
+{{< sign-name "AlbacoreMeow" >}}
