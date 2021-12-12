@@ -23,10 +23,11 @@ libraries: [katex, mhchem]
 - 批准文号（中国版）: [国药准字 J20171038](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MjM4MCZpdGVtSWQ9ZmY4MDgwODE3YzgzMTJjNDAxN2M5YzU5MjI0ZTA0NWQ=)
 - 厂商：拜耳
 - 常见规格：
-| **版本** | **规格** | **外观** |
-| :----: | :---- | :----: |
-| 中国包装（国补）| 1mg &times; 21 片/盒 | 黄色糖衣片 |
-| 泰国包装（泰补）| 2mg &times; 28 片 &times; 3 板/盒 | 蓝色糖衣片 |
+{{< csv-table header >}}
+版本,规格,外观
+中国包装（国补）,1mg × 21 片/盒,黄色糖衣片
+泰国包装（泰补）,2mg × 28 片 × 3 板/盒,蓝色糖衣片
+{{< /csv-table >}}
 
 ## 使用方式与用量
 
