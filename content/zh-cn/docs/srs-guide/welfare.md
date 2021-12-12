@@ -11,14 +11,6 @@ title: 福利与权益指引
 
 - [VMware](https://benefits.vmware.com/zh-CN/health-plans/medical/)
 
-## 各地区权益参考
-
-- [各地 LGBT 权利](https://zh.wikipedia.org/zh-cn/各地 LGBT 权利)
-  - [中国 LGBT 权益](https://zh.wikipedia.org/zh-cn/中国 LGBT 权益)
-  - [美国 LGBT 权益](https://zh.wikipedia.org/zh-cn/美国 LGBT 权益)
-  - [欧洲 LGBT 权益](https://zh.wikipedia.org/zh-cn/欧洲 LGBT 权益)
-  - [台湾 LGBT 权益](https://zh.wikipedia.org/zh-cn/台湾 LGBT 权益)
-
 ## 其他福利
 
 ### HPV（人乳头瘤病毒）疫苗
