@@ -23,7 +23,7 @@
 <div class="gh-contribuors">
   <ul>
     {{- range $contributors }}
-    <li><a href="{{ .html_url }}" title="{{ .login }}"><img src="{{ .avatar_url }}"/></a></li>
+    <li><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author={{ .login }}" title="{{ .login }}"><img src="{{ .avatar_url }}"/></a></li>
     {{- end }}
   </ul>
 </div>
