@@ -1,5 +1,5 @@
 ---
-title: 未探索的医生列表
+title: 未探索的列表
 ---
 
 如果您有探索请发送邮件至 [mtf@kuaer.club](mailto:mtf@kuaer.club)
