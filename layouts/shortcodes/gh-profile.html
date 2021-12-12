@@ -1,0 +1,8 @@
+{{- $name := .Get 1 -}}
+{{- with getJSON (printf "https://api.github.com/users/%s" (.Get 0)) -}}
+<a style="color:unset;text-decoration:none" href="{{ .html_url }}" title="{{ .login }}">
+<img src="{{ .avatar_url }}" style="display:inline;height:2em;vertical-align:middle;border-radius:50%">
+<b>{{ $name | default .login }}</b>
+<i class="bi bi-github"></i>
+</a>
+{{- end -}}
