@@ -20,16 +20,16 @@ weight: 0
 
 ## 主要人员
 
-{{< gh-profile "kenchiu233" "可橙" >}}
+{{< gh-profile "kenchiu233" >}}
 创始人
 
-{{< gh-profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;{{< email "coelacanthus@outlook.com" >}}
+{{< gh-profile "CoelacanthusHex" >}}&nbsp;{{< email "coelacanthus@outlook.com" >}}
 站点与代码维护
 
-{{< gh-profile "saeziae" "山前" >}}&nbsp;{{< email "i@estela.cn" >}}
+{{< gh-profile "saeziae" >}}&nbsp;{{< email "i@estela.cn" >}}
 药物板块、长三角地区编辑维护，镜像维护，外文翻译
 
-{{< gh-profile "llh721113" "珺妍" >}}&nbsp;{{< email "llh721113@outlook.com" >}}
+{{< gh-profile "llh721113" >}}&nbsp;{{< email "llh721113@outlook.com" >}}
 北京地区编辑维护
 
 {{< gh-profile "septs" >}}&nbsp;{{< email "mtfwiki@septs.email" >}}
