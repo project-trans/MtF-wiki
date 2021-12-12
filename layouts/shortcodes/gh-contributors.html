@@ -1,29 +1,17 @@
 <style>
   .gh-contribuors {
-    display: table;
+    display: grid;
     padding: 0 1rem;
     margin: 0 0 1rem;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+    grid-gap: 0.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(2rem, 1fr));
   }
-  .gh-contribuors ul {
-    list-style: none;
-  }
-  .gh-contribuors li {
-    margin: 4px !important;
-    float: left;
-  }
-  .gh-contribuors img {
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-  }
+  .gh-contribuors img { width: 2rem; height: 2rem; border-radius: 50%; }
 </style>
-{{- $contributors := getJSON "https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors?per_page=100" }}
+{{- $contributors := getJSON
+"https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors?per_page=100" }}
 <section class="gh-contribuors">
-  <ul>
-    {{- range $contributors }}
-    <li><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author={{ .login }}" title="{{ .login }}"><img src="{{ .avatar_url }}"/></a></li>
-    {{- end }}
-  </ul>
+  {{- range where $contributors "type" "User" }}
+  <a href="{{ .html_url }}" title="{{ .login }}"><img src="{{ .avatar_url }}"></a>
+  {{- end }}
 </section>
