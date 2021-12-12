@@ -29,7 +29,7 @@ weight: 200
 
 ## 出诊时刻
 
-{{< csv-table header=true >}}
+{{< csv-table >}}
 周次,时间,科室,价格
 周五,整天,内分泌专家,22 元
 {{< /csv-table >}}

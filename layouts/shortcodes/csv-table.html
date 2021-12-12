@@ -1,16 +1,15 @@
 {{ $caption := .Get "caption" }}
-{{ $useHeaderRow := .Get "header" }}
+{{ $useHeaderRow := .Get "header" | default true }}
 {{ $rows := .Inner | transform.Unmarshal }}
 <table style="margin:0;white-space:nowrap">
-{{ with $caption }}<caption>{{ . }}</caption>{{ end }}
-{{- if $useHeaderRow -}}
-{{ $headerRow := index $rows 0 -}}
+{{ with $caption }}<caption>{{- . -}}</caption>{{ end }}
+{{ if $useHeaderRow -}}
 {{- $rows = after 1 $rows -}}
-<thead><tr>{{ range $headerRow }}<th>{{ . }}</th>{{ end }}</tr></thead>
+<thead><tr>{{ range (index $rows 0) }}<th>{{- . -}}</th>{{ end }}</tr></thead>
 {{ end -}}
 <tbody>
 {{ range $rows -}}
-<tr>{{ range . }}<td>{{ . }}</td>{{ end }}</tr>
+<tr>{{ range . }}<td>{{- . -}}</td>{{ end }}</tr>
 {{ end -}}
 </tbody>
 </table>

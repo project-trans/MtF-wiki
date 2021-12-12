@@ -22,7 +22,7 @@ weight: 0
 
 按字母表排序
 
-{{< csv-table header=true >}}
+{{< csv-table >}}
 缩写代码,名称
 ASLEC,青少年生活事件量表
 DSQ,防御方式问卷

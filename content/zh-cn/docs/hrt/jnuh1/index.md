@@ -11,7 +11,7 @@ weight: 200
 
 ## 出诊时刻
 
-{{< csv-table header=true >}}
+{{< csv-table >}}
 周次,时间,科室,价格
 星期三,全天,妇科门诊,20 元
 {{< /csv-table >}}

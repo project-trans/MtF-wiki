@@ -22,7 +22,7 @@ weight: 6
 
 ## 出诊时刻表
 
-{{< csv-table header=true >}}
+{{< csv-table >}}
 周次,时间,科室
 周二,下午,早期干预科
 周三,上午,早期干预科

@@ -66,7 +66,7 @@ weight: 1
 
 ## 出诊时刻表
 
-{{< csv-table header=true >}}
+{{< csv-table >}}
 周次,时间,科室,价格
 周三,下午 12:30~15:00,精神科（特需门诊）,100 元
 {{< /csv-table >}}
