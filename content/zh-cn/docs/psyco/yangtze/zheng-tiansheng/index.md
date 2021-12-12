@@ -49,7 +49,7 @@ weight: 2
 
 ### 康宁医院
 
-{{< csv-table header >}}
+{{< csv-table header=true >}}
 周次,时间,科室,价格
 周二,上午,睡眠障碍科 平诊,17 元
 周四,全天,睡眠障碍科 平诊,17 元

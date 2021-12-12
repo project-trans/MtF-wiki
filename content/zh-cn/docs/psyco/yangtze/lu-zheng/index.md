@@ -53,7 +53,7 @@ weight: 4
 
 ## 出诊时刻表
 
-{{< csv-table header >}}
+{{< csv-table header=true >}}
 周次,时间,科室,价格
 周一,整日,心理咨询（特需 3）,500 元
 周四,上午,心理咨询（特需 3）,500 元
@@ -61,7 +61,7 @@ weight: 4
 
 [^1]: 类此此格式的表格
 
-{{< csv-table header >}}
+{{< csv-table header=true >}}
 ,维持性别,改变性别
 有利点,...,...
 不利点,...,...

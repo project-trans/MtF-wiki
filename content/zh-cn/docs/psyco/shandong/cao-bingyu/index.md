@@ -34,7 +34,7 @@ weight: 12
 
 ## 出诊时间表
 
-{{< csv-table header >}}
+{{< csv-table header=true >}}
 周次,时间,科室,价格
 周四,上午,专家门诊,28 元
 周五,下午,专家门诊,28 元

@@ -36,7 +36,7 @@ weight: 11
 
 ## 出诊时间表
 
-{{< csv-table header >}}
+{{< csv-table header=true >}}
 周次,时间,科室,价格
 周日,上午,心理咨询与治疗门诊,6+300 元
 {{< /csv-table >}}

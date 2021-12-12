@@ -35,7 +35,7 @@ weight: 12
 
 ## 出诊时间表
 
-{{< csv-table header >}}
+{{< csv-table header=true >}}
 周次,时间,科室,价格
 周一,上午,心理科专家门诊,19 元
 周二,上午,心理科专家门诊,19 元
