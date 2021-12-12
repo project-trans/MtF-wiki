@@ -4,8 +4,8 @@
 <table style="margin:0;white-space:nowrap">
 {{ with $caption }}<caption>{{- . -}}</caption>{{ end }}
 {{ if $useHeaderRow -}}
-{{- $rows = after 1 $rows -}}
 <thead><tr>{{ range (index $rows 0) }}<th>{{- . -}}</th>{{ end }}</tr></thead>
+{{- $rows = after 1 $rows -}}
 {{ end -}}
 <tbody>
 {{ range $rows -}}
