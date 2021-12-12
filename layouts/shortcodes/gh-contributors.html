@@ -20,10 +20,10 @@
   }
 </style>
 {{- $contributors := getJSON "https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors?per_page=100" }}
-<div class="gh-contribuors">
+<section class="gh-contribuors">
   <ul>
     {{- range $contributors }}
     <li><a href="https://github.com/mtf-wiki/MtF-Wiki/commits?author={{ .login }}" title="{{ .login }}"><img src="{{ .avatar_url }}"/></a></li>
     {{- end }}
   </ul>
-</div>
+</section>

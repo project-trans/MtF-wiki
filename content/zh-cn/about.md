@@ -35,6 +35,9 @@ weight: 0
 {{< gh-profile "septs" >}}&nbsp;{{< email "mtfwiki@septs.email" >}}
 手术医疗相关板块维护
 
+{{< gh-profile "Clansty" >}}&nbsp;{{< email "i@gao4.pw" >}}
+手术医疗相关板块维护
+
 以及感谢所有 GitHub 贡献者：
 
 {{< gh-contributors >}}
