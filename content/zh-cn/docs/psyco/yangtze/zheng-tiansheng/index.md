@@ -12,7 +12,9 @@ weight: 2
 
 所在医院：[温州医科大学附属康宁医院](https://amap.com/place/B024103ZQK)
 
+{{< expand "联系方式" >}}
 ![QR](contact.jpg)
+{{< /expand >}}
 
 ## 挂号
 
@@ -37,13 +39,13 @@ weight: 2
 
 ## 证明样式
 
-观察期病例样本：
-
+{{< expand "观察期病例样本" >}}
 ![病历](record.jpg)
+{{< /expand >}}
 
-观察期后诊断证明样本：
-
+{{< expand "观察期后诊断证明样本" >}}
 ![证明](proof.jpg)
+{{< /expand >}}
 
 ## 出诊时刻表
 
