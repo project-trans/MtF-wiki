@@ -17,7 +17,7 @@ aliases:
 手术费用：330,000 泰铢（2021 上半年，中介金子处获得价格）
 酒店费用：2200 泰铢一天，大概需要 30 天，共计 66000 泰铢
 
-预约：可以找中介金子，也可以官网邮箱[^mail]联系
+预约：可以找中介金子，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系
 
 [官网介绍](http://www.chet-plasticsurgery.com/zh-hans/性别重置手术/)
 
@@ -60,8 +60,3 @@ BMI <= 33
 
 - Chettawut 医生术后是住酒店，医院可以提供三家合作酒店。
 - 可以自己联系翻译或者中介
-
-[^mail]: 邮箱地址：
-
-- [chettawut@gmail.com](mailto:chettawut@gmail.com)
-- [cset@truemail.co.th](mailto:cset@truemail.co.th)

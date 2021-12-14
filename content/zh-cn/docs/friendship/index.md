@@ -50,7 +50,7 @@ weight: 9
 
 - Twitter: <https://twitter.com/awesometrans_zh>
 - Telegram: <http://t.me/awesometrans_zh>
-- 邮箱: [awesome-trans@outlook.com](mailto:awesome-trans@outlook.com)
+- 邮箱: <awesome-trans@outlook.com>
 
 ### FtM (Female to Male) Wiki
 
