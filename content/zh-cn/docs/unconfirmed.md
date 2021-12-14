@@ -1,5 +1,7 @@
 ---
-title: 未探索的列表
+title: 未确认列表
+aliases:
+  - unexplored
 ---
 
 如果您有探索请发送邮件至 <mtfwiki@estela.cn>
