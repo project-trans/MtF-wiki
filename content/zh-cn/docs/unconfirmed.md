@@ -91,8 +91,6 @@ aliases:
 国家,机构名称,备注
 日本,"ISK Bangkok CO.,LTD.",有待核实
 日本,广芝耳鼻喉科诊所,
-泰国,Chettawut,有待核实
-泰国,Kamol,有待核实
 泰国,PAI,有待核实
 泰国,Yanhee,有待核实
 泰国,Yoskarn,有待核实
