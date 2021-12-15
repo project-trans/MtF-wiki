@@ -66,3 +66,7 @@ weight: 1
 ![record](record.jpg)
 
 ![证明](proof.jpg)
+
+## HRT
+
+该院的 [王小红]({{< ref "wang-xiaohong" >}}) 提供 HRT 治疗
