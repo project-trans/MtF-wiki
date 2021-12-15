@@ -3,7 +3,7 @@ title: 苏州市立医院｜周建英
 weight: 200
 ---
 
-![doctor](zhou-jianying.jpg)
+![doctor](doctor.jpg)
 
 医生姓名：[周建英](https://www.haodf.com/doctor/13154.html)
 

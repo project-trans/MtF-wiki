@@ -3,7 +3,7 @@ title: 长沙湘雅三院｜龙智
 weight: 300
 ---
 
-![doctor](long-zhi.jpg)
+![doctor](doctor.jpg)
 
 医生姓名：[龙智](https://www.xy3yy.com/zjfc/mnwk2019/15765.html)
 

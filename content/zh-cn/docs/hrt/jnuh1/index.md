@@ -3,7 +3,7 @@ title: 广州暨南一院｜高绿芬
 weight: 200
 ---
 
-![doctor](gao-lvfen.jpg)
+![doctor](doctor.jpg)
 
 医生姓名：[高绿芬](https://h.jd120.com/Reserve/Doctor/21056)
 
