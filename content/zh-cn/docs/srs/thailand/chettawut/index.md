@@ -5,7 +5,7 @@ aliases:
   - chettawut
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos WPATH 成员 >}}
 

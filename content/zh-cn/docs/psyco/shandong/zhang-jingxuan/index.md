@@ -3,7 +3,7 @@ title: 济南｜张敬悬
 weight: 11
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 可与家长沟通 >}} {{< tag-neg 需家属介入 >}}
 

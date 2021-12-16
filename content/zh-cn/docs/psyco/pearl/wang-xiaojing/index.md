@@ -3,7 +3,7 @@ title: 深圳｜王晓京
 weight: 3
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[王晓京](https://www.haodf.com/doctor/245893.html)
 

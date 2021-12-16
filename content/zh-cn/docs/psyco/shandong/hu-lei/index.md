@@ -3,7 +3,7 @@ title: 济南｜胡蕾
 weight: 10
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 和蔼 >}} {{< tag-pos 可与家长沟通 >}}  {{< tag-neg 需家属介入 >}}
 

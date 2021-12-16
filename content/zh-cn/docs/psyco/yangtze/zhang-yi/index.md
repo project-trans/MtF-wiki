@@ -5,7 +5,7 @@ weight: 4
 
 {{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[张毅](http://www.smhc.org.cn/MedicalGuide/contents/49/58.html)
 

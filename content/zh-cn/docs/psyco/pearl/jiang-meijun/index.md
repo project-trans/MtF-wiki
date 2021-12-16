@@ -5,7 +5,7 @@ weight: 2
 
 {{< alert theme="warning" >}}建议在 [贾艳滨]({{< ref "jiang-meijun" >}}) 开具证明。{{< /alert >}}
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[姜美俊](https://www.haodf.com/doctor/401852304.html)
 

@@ -3,15 +3,15 @@ title: 深圳市康宁医院
 weight: 4
 ---
 
-![doctor](wei-zhaoguo.png)
+{{< doctor-image src="wei-zhaoguo.png" >}}
 
 医生姓名：[位照国](https://www.haodf.com/doctor/697566086.html)
 
-![doctor](yang-huini.jpg)
+{{< doctor-image src="yang-huini.jpg" >}}
 
 医生姓名：[杨惠妮](https://www.haodf.com/doctor/6964354469.html)
 
-![doctor](zhang-qian.png)
+{{< doctor-image src="zhang-qian.png" >}}
 
 医生姓名：张倩
 

@@ -3,7 +3,7 @@ title: 青岛｜高进
 weight: 12
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 复诊不需要身份证 >}} {{< tag-pos 和蔼介入 >}} {{< tag-pos 可与家属沟通 >}}
 

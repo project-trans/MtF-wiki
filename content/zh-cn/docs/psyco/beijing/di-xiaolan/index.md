@@ -3,7 +3,7 @@ title: 北京｜邸晓兰
 weight: 2
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 病历可用于北三 HRT >}} {{< tag-neg 观察期 1 年 >}} {{< tag-neg 比较昂贵 >}}
 

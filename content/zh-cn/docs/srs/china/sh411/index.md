@@ -5,7 +5,7 @@ weight: 31
 
 {{< notice info >}} 医生叫赵烨德，不叫赵博，对，他说自己是赵博也不行，医院名叫长海医院虹口分院，不叫 411． {{< /notice >}}
 
-![Doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[赵烨德](https://www.haodf.com/doctor/6964528056.html)
 

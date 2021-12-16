@@ -3,7 +3,7 @@ title: 成都｜李慧
 weight: 1
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 可与家长沟通 >}} {{< tag-neg 观察期 1 年 >}}
 

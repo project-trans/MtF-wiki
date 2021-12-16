@@ -3,7 +3,7 @@ title: '*重庆｜宁洁'
 weight: 1000
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 可与家长沟通 >}} {{< tag-neg 观察期 1 年 >}}
 

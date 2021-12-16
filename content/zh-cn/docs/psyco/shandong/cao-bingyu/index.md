@@ -3,7 +3,7 @@ title: 济南｜曹秉玉
 weight: 12
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-neg 需家属介入 >}}
 

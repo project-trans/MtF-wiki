@@ -3,7 +3,7 @@ title: 苏州｜杜向东
 weight: 3
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-neg "家长陪诊" >}} {{< tag-neg "一年随诊" >}}
 

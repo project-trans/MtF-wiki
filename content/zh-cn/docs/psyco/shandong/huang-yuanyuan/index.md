@@ -3,7 +3,7 @@ title: 济南｜黄圆媛
 weight: 11
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos LGBT 友善 >}} {{< tag-pos 提供心理咨询 >}} {{< tag-neg 仅提供心理咨询 >}}
 

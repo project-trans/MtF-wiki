@@ -5,8 +5,6 @@ weight: 2
 
 {{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
 
-![doctor](doctor.jpg)
-
 {{< tag-pos 和蔼 >}} {{< tag-pos 性教育创始人 >}}
 {{< tag-pos 初诊开证 >}} {{< tag-pos 病历可用于北三 HRT >}}
 {{< tag-neg 必须年满 20 岁 >}}

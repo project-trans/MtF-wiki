@@ -5,7 +5,7 @@ weight: 1
 
 {{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 便宜 >}} {{< tag-pos 无需家长 >}}
 {{< tag-pos 初诊开假条 >}} {{< tag-pos 病历可用于北三 HRT >}}

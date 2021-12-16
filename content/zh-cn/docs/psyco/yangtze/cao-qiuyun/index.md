@@ -3,7 +3,7 @@ title: 南京｜曹秋云
 weight: 1
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 和蔼 >}} {{< tag-pos 一次过 >}} {{< tag-neg 需家属介入 >}}
 

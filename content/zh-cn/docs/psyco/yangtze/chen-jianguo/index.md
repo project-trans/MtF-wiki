@@ -5,7 +5,7 @@ weight: 1000
 
 {{< alert theme=warning >}}已停诊{{< /alert >}}
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 一次过 >}} {{< tag-pos 无需家长 >}}
 

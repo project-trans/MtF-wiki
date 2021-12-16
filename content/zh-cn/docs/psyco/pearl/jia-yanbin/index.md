@@ -3,7 +3,7 @@ title: 广州｜贾艳滨
 weight: 1
 ---
 
-![doctor](doctor.png)
+{{< doctor-image src="doctor.png" >}}
 
 {{< tag-neg 昂贵 >}}
 

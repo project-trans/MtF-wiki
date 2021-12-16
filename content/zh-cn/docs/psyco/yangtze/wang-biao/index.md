@@ -5,7 +5,7 @@ weight: 5
 
 {{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-neg 昂贵 >}} {{< tag-neg 需家属介入 >}} {{< tag-neg 初诊不开证 >}} {{< tag-pos 可劝家长 >}}
 

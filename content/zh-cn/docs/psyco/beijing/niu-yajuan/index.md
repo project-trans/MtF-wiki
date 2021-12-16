@@ -3,7 +3,7 @@ title: 北京｜牛雅娟
 weight: 2
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 便宜 >}}
 {{< tag-pos 病历可用于北三 HRT >}}{{< tag-pos 支持好大夫在线问诊 >}}

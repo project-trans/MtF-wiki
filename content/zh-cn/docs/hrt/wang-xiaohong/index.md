@@ -3,7 +3,7 @@ title: 四川省人民医院｜王小红
 weight: 200
 ---
 
-![doctor](doctor.png)
+{{< doctor-image src="doctor.png" >}}
 
 医生姓名：[王小红](http://www.wj120.com.cn/kssz/NFMDXK.html)
 

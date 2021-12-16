@@ -3,7 +3,7 @@ title: 济南｜齐素芳
 weight: 10
 ---
 
-![doctor](doctor.jpg)
+{{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 可与家长沟通 >}} {{< tag-pos 和蔼 >}}
 
