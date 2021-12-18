@@ -1,19 +1,19 @@
 [![MtF-Wiki][logo-long]][wiki-url]
 
-镜像站：[mtfwiki.cn](https://mtfwiki.cn/)、[mtfwiki.com](https://mtfwiki.com)
+镜像站：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
 
 # Welcome to **MtF Wiki**
 
 **简体中文** | [繁中](README-T.md) | [English](README-EN.md) | [Español](README-ES.md)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
-[![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
+[![GitHub Watchers][badge-watch]][repo]
+[![GitHub Stars][badge-stars]][repo]
 
 ## 内容
 
 欢迎大家来到 MtF Wiki．这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
 
-MtF (Male-to-Female)，跨性别女性，是指出生时指定性别是男性的女性。
+MtF (Male to Female)，跨性别女性，是指出生时指定性别是男性的女性。
 (ps：在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”）
 
 MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整合站点，大家可以在这里了解到各种药物知识、医疗资源、女性常识，以及其他等等。
@@ -36,9 +36,9 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 换言之，使用过程中您可以自由地共享、演绎，但是必须署名、以相同方式共享、分享时没有附加限制，
 
-而如果你想要引用这个 GitHub 仓库，可以使用如下的 bibtex：
+而如果你想要引用这个 GitHub 仓库，可以使用如下的 BibTeX：
 
-```
+```tex
 @misc{mtfwiki,
   author = {MtF Wiki Team},
   title = {MtF Wiki},
@@ -53,13 +53,17 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 点击下方图片即可加群：
 
-[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://233.plus/discord)
+Discord: [![Discord][badge-discord]](https://233.plus/discord)
 
-email: mtfwiki@estela.cn
+Email: <mtfwiki@estela.cn>
 
-[logo-long]: ./static/new/mtf-wiki-long.svg
-[wiki-url]: https://mtf.wiki
-[hugo-url]: https://github.com/gohugoio/hugo
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[cc-url]: https://creativecommons.org/licenses/by-sa/4.0/
+[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[badge-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars
+[badge-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[cc-url]: https://creativecommons.org/licenses/by-sa/4.0
+[hugo-url]: https://github.com/gohugoio/hugo
+[logo-long]: ./static/new/mtf-wiki-long.svg
+[repo]: https://github.com/mtf-wiki/MtF-Wiki
+[wiki-url]: https://mtf.wiki
+[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
