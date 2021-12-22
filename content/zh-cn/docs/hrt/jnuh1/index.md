@@ -28,9 +28,14 @@ weight: 200
 可以开具的 HRT 药物处方，需自费
 
 - [补佳乐]({{< ref "progynova" >}})
-- [色普龙]({{< ref "cyproterone" >}})
-- [螺内酯]({{< ref "spironolactone" >}})
+   + 因医院限制，单次最多开出一盒。
+- [雌二醇凝胶]({{< ref "oestrogel" >}})（爱斯妥）
+- 含有CPA（即[色普龙]({{< ref "cyproterone" >}})成分）与*炔雌醇⚠* 的“达英-35”
+   + 其理由是医院方面无法开出其它含CPA的药品，并且其作为避孕药“总体安全”。但如若患者自备CPA（如安得卡），将不再开出。[为什么不推荐达英-35？]({{< ref "docs/medicine/HRT#dosing-warnings" >}})
+- [螺内酯]({{< ref "spironolactone" >}})——不常用
 - [GnRH 类似物]({{< ref "gnrha" >}})
+
+此外亦可能要求检查乳腺等。
 
 ## 注意事项
 
