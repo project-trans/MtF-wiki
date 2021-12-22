@@ -2,6 +2,8 @@
 
 镜像站：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
 
+兄弟站：[ftm.wiki](https://ftm.wiki)
+
 # Welcome to **MtF Wiki**
 
 **简体中文** | [繁中](README-T.md) | [English](README-EN.md) | [Español](README-ES.md)
