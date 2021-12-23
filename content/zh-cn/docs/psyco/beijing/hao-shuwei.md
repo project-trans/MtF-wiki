@@ -5,8 +5,7 @@ weight: 2
 
 {{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
 
-{{< tag-pos 初诊开证 >}} {{< tag-pos 病历可用于北三 HRT >}}
-
+{{< tag-pos 初诊开证 >}} {{< tag-pos "病历可用于北三 HRT" >}}
 {{< tag-neg 具体标准未知 >}}
 
 医生姓名：郝树伟

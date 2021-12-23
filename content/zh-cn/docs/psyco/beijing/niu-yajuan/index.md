@@ -6,8 +6,8 @@ weight: 2
 {{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 便宜 >}}
-{{< tag-pos 病历可用于北三 HRT >}}{{< tag-pos 支持好大夫在线问诊 >}}
-{{< tag-neg 观察期 1 年 >}}
+{{< tag-pos "病历可用于北三 HRT" >}}{{< tag-pos 支持好大夫在线问诊 >}}
+{{< tag-neg "观察期 1 年" >}}
 {{< tag-neg 并非跨性别专科>}}
 
 医生姓名：[牛雅娟](https://www.haodf.com/doctor/7541.html)
