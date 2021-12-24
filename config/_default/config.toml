@@ -22,6 +22,9 @@ hostName = "https://mtf.wiki"
 custom_css = [
   "customize.scss"
 ]
+custom_js = [
+  "customize.js"
+]
 
 [markup]
   [markup.goldmark]

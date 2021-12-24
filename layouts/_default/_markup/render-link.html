@@ -1,6 +1,6 @@
 {{- if hasPrefix .Destination "mailto:" -}}
 {{- $badge := replace (replace .Text "-" "--") "_" "__" -}}
-<a href="{{ .Destination }}"><img class="shields-icon" src="https://img.shields.io/badge/email-{{ $badge }}-blue?style=flat-square" /></a>
+<a class="email" data-href="{{ .Destination | base64Encode }}"><img class="shields-icon" src="https://img.shields.io/badge/email-{{ $badge }}-blue?style=flat-square" /></a>
 {{- else -}}
 <a href="{{ .Destination }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if hasPrefix .Destination "http" }} target="_blank"{{ end }}>
   {{- .Text | safeHTML -}}
