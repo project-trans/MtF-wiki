@@ -1,4 +1,0 @@
-{{- $email := .Get 0 -}}
-{{- $badge := replace $email "-" "--" -}}
-{{- $badge = replace $badge "_" "__" -}}
-<a href="mailto:{{ $email }}"><img style="display:inline-block;vertical-align:text-bottom" src="https://img.shields.io/badge/email-{{ $badge }}-blue?style=flat-square" /></a>

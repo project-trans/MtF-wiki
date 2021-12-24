@@ -23,19 +23,19 @@ weight: 0
 {{< gh-profile "kenchiu233" >}}
 创始人
 
-{{< gh-profile "CoelacanthusHex" >}}&nbsp;{{< email "coelacanthus@outlook.com" >}}
+{{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 站点与代码维护
 
-{{< gh-profile "saeziae" >}}&nbsp;{{< email "i@estela.cn" >}}
+{{< gh-profile "saeziae" >}}&nbsp;<i@estela.cn>
 药物板块、长三角地区编辑维护，镜像维护，外文翻译
 
-{{< gh-profile "llh721113" >}}&nbsp;{{< email "llh721113@outlook.com" >}}
+{{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
 北京地区编辑维护
 
-{{< gh-profile "septs" >}}&nbsp;{{< email "mtfwiki@septs.email" >}}
+{{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 手术医疗相关板块维护
 
-{{< gh-profile "Clansty" >}}&nbsp;{{< email "i@gao4.pw" >}}
+{{< gh-profile "Clansty" >}}&nbsp;<i@gao4.pw>
 手术医疗相关板块维护
 
 以及感谢所有 GitHub 贡献者：
@@ -46,11 +46,14 @@ weight: 0
 
 ## 联络
 
-通过 Discord <a href="https://233.plus/discord"><img style="display:inline-block;vertical-align:text-bottom" src="https://img.shields.io/discord/883004164760801320?style=flat-square" /></a>
+通过 Discord [![Discord][shields-discord]](https://233.plus/discord)
 
-通过 GitHub <a href="https://github.com/mtf-wiki/MtF-Wiki/issues/new"><img style="display:inline-block;vertical-align:text-bottom" src="https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square" /></a>
+通过 GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-通过 邮件 {{< email "mtfwiki@estela.cn" >}}
+通过 邮件 <mtfwiki@estela.cn>
+
+[shields-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[shields-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## 致谢
 

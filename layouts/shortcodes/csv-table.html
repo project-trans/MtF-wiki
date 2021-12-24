@@ -1,10 +1,10 @@
 {{ $caption := .Get "caption" }}
 {{ $useHeaderRow := .Get "header" | default true }}
 {{ $rows := .Inner | transform.Unmarshal }}
-<table style="margin:0;white-space:nowrap">
+<table class="csv-table">
 {{ with $caption }}<caption>{{- . -}}</caption>{{ end }}
 {{ if $useHeaderRow -}}
-<thead><tr>{{ range (index $rows 0) }}<th style="text-align:center">{{- . -}}</th>{{ end }}</tr></thead>
+<thead><tr>{{ range (index $rows 0) }}<th>{{- . -}}</th>{{ end }}</tr></thead>
 {{- $rows = after 1 $rows -}}
 {{ end -}}
 <tbody>

@@ -1,0 +1,86 @@
+img.shields-icon {
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+
+a.github-profile {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  img {
+    display: inline-block;
+    height: 2em;
+    vertical-align: middle;
+    border-radius: 50%;
+  }
+}
+
+.gh-contribuors {
+  display: grid;
+  padding: 0 1rem;
+  margin: 0 0 1rem;
+  grid-gap: 0.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(2rem, 1fr));
+}
+
+.gh-contribuors img {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+}
+
+.csv-table {
+  margin: 0;
+  white-space: nowrap;
+  th {
+    text-align: center;
+  }
+}
+
+.mtf-wiki {
+  span:nth-child(1),
+  span:nth-child(4) {
+    color: #5bcefa;
+  }
+  span:nth-child(2),
+  span:nth-child(3) {
+    color: #f6a8b8;
+  }
+}
+
+.doctor-story {
+  display: inline !important;
+  height: 6em;
+  vertical-align: middle;
+}
+
+.user-tag {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+  &.positive {
+    color: #fff;
+    background-color: #28a745;
+  }
+
+  &.negative {
+    color: #212529;
+    background-color: #ffc107;
+  }
+}
+
+.sign-off-by {
+  text-align: right;
+}

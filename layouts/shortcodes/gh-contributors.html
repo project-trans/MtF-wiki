@@ -1,13 +1,3 @@
-<style>
-  .gh-contribuors {
-    display: grid;
-    padding: 0 1rem;
-    margin: 0 0 1rem;
-    grid-gap: 0.5rem;
-    grid-template-columns: repeat(auto-fit, minmax(2rem, 1fr));
-  }
-  .gh-contribuors img { width: 2rem; height: 2rem; border-radius: 50%; }
-</style>
 {{- $contributors := getJSON
 "https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors?per_page=100" }}
 <section class="gh-contribuors">

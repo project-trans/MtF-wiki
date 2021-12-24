@@ -37,7 +37,7 @@ weight: 9
 
 该 [411]({{< ref "sh411" >}}) MtF SRS 术后交流群采取纯邀请制
 
-请发送邮件至 {{< email "411-mtf-srs@kuaer.club" >}} 经过交叉验证后会邀请加入
+请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
 
 {{< hashtag "trans-related-bot" >}}
 
