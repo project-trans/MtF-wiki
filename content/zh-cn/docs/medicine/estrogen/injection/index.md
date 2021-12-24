@@ -26,13 +26,9 @@ libraries: [katex, mhchem]
 
 ### 【停产】持田 Pelanin Depot
 
-<table><tr>
-<td>![5 mg](mochida-5.jpg)</td>
-<td>![10 mg](mochida-10.jpg)</td>
-</tr><tr>
-<td align="center">5 mg</td>
-<td align="center">10 mg</td>
-</tr></table>
+| 5 mg | 10 mg |
+| :--: | :--:|
+| ![5 mg](mochida-5.jpg) | ![10 mg](mochida-10.jpg) |
 
 - 英文名称：Pelanin Depot
 - 日文名称：ペラニンデポー

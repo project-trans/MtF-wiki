@@ -1,6 +1,8 @@
 ---
 title: 进行激素检查
 weight: 2
+aliases:
+  - check
 ---
 
 ## 关于激素检查

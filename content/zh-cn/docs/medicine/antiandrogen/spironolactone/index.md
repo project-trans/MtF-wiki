@@ -13,11 +13,9 @@ weight: 1
 
 ## 基本信息
 
-<table><tr>
-<td>![20 mg](spironolactone.jpg)</td>
-</tr><tr>
-<td align="center">一种常见的国产螺内酯片</td>
-</tr></table>
+| 一种常见的国产螺内酯片 |
+| :--: |
+| ![20 mg](spironolactone.jpg) |
 
 - 药品名称：螺内酯片
 - 英文名称：Spironolactone Tablets

@@ -1,6 +1,8 @@
 ---
 title: HRT 总述
 weight: 1
+aliases:
+  - hrt
 ---
 
 ## 常规激素替代治疗
