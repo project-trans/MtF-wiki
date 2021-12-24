@@ -9,7 +9,7 @@
 {{ end -}}
 <tbody>
 {{ range $rows -}}
-<tr>{{ range . }}<td>{{- . -}}</td>{{ end }}</tr>
+<tr>{{ range . }}<td>{{- . | markdownify -}}</td>{{ end }}</tr>
 {{ end -}}
 </tbody>
 </table>
