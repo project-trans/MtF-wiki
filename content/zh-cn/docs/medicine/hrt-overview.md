@@ -53,9 +53,7 @@ aliases:
 - 脂肪分布女性化
 - 保持骨骼强度
 
-### 用药注意事项
-
-{{< hashtag "dosing-warnings" >}}
+### 用药注意事项 {#dosing-warnings}
 
 {{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。

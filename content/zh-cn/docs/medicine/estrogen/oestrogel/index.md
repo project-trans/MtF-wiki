@@ -11,9 +11,7 @@ weight: 1
 
 ## 基本信息
 
-{{< hashtag "ai-si-tuo" >}}
-
-### Oestrogel<sup>&reg;</sup>（爱斯妥）
+### Oestrogel<sup>&reg;</sup>（爱斯妥）{#ai-si-tuo}
 
 ![Oestrogel](oestrogel.jpg)
 
@@ -25,9 +23,7 @@ weight: 1
   - 0.06% &times; 80g（含雌二醇 48mg）
   - 0.06% &times; 30g（含雌二醇 18mg）
 
-{{< hashtag "jian-min" >}}
-
-### 健民 雌二醇凝胶
+### 健民 雌二醇凝胶 {#jian-min}
 
 ![国产](ningjiao.jpg)
 

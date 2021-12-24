@@ -21,9 +21,7 @@ weight: 9
 }
 </style>
 
-{{< hashtag "qq-group" >}}
-
-### QQ 交流群
+### QQ 交流群 {#qq-group}
 
 <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [782820926](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
@@ -31,17 +29,13 @@ weight: 9
 <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [717099350](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
 
-{{< hashtag "411-mtf-srs" >}}
-
-### 411 MtF SRS 术后交流群
+### 411 MtF SRS 术后交流群 {#411-mtf-srs}
 
 该 [411]({{< ref "sh411" >}}) MtF SRS 术后交流群采取纯邀请制
 
 请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
 
-{{< hashtag "trans-related-bot" >}}
-
-### 跨性别相关 bot（QQ）
+### 跨性别相关 bot（QQ） {#trans-related-bot}
 
 已于 2021/12/13 停止服务，恢复时间待定。
 
