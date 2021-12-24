@@ -3,6 +3,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
+  "editor.wordWrap": "on",
   "markdownlint.config": {
     "single-h1": false,
     "no-inline-html": false,
