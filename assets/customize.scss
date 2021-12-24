@@ -22,12 +22,11 @@ a.github-profile {
   margin: 0 0 1rem;
   grid-gap: 0.5rem;
   grid-template-columns: repeat(auto-fit, minmax(2rem, 1fr));
-}
-
-.gh-contribuors img {
-  width: 2rem;
-  height: 2rem;
-  border-radius: 50%;
+  img {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+  }
 }
 
 .csv-table {
@@ -57,23 +56,16 @@ a.github-profile {
 
 .user-tag {
   display: inline-block;
-  padding: 0.25em 0.4em;
-  padding-right: 0.6em;
-  padding-left: 0.6em;
-  border-radius: 10rem;
+  padding: 0.25em 0.6em 0.4em;
+  border-radius: 10em;
   font-weight: 700;
   line-height: 1;
   text-align: center;
   white-space: nowrap;
-  vertical-align: baseline;
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
-    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-
   &.positive {
     color: #fff;
     background-color: #28a745;
   }
-
   &.negative {
     color: #212529;
     background-color: #ffc107;
