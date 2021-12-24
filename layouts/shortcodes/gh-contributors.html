@@ -2,6 +2,7 @@
 "https://api.github.com/repos/mtf-wiki/MtF-Wiki/contributors?per_page=100" }}
 <section class="gh-contribuors">
   {{- range where $contributors "type" "User" }}
-  <a href="{{ .html_url }}" title="{{ .login }}"><img src="{{ .avatar_url }}"></a>
+  {{- $avatar := resources.GetRemote .avatar_url -}}
+  <a href="{{ .html_url }}" title="{{ .login }}"><img src="{{ $avatar.Permalink }}"></a>
   {{- end }}
 </section>
