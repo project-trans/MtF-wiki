@@ -34,7 +34,7 @@ body:
     id: general
     attributes:
       label: 现状梗概
-      description: 您在面诊时遭遇的问题
+      description: 您在学校就读时遭遇的问题
     validations:
       required: false
   - type: checkboxes
