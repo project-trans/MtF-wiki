@@ -1,0 +1,8 @@
+User-agent: *
+{{- if eq hugo.Environment "production" }}
+{{- range $.Site.Home.AllTranslations }}
+Sitemap: {{ .RelPermalink }}sitemap.xml
+{{- end }}
+{{- else }}
+Disallow: /
+{{- end }}
