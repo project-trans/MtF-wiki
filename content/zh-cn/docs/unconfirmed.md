@@ -4,7 +4,7 @@ aliases:
   - unexplored
 ---
 
-如果您有探索请发送邮件至 <mtfwiki@estela.cn>
+如果您有探索请发送邮件至 <mtf@kuaer.club>
 
 ### 精神科
 

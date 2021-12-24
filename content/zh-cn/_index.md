@@ -35,7 +35,7 @@ footer:
         - title: Discord
           link: https://233.plus/discord
         - title: Email
-          link: mailto:mtfwiki@estela.cn
+          link: mailto:mtf@kuaer.club
   contents:
     align: left
     applySinglePageCss: true

@@ -50,7 +50,7 @@ weight: 0
 
 通过 GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-通过 邮件 <mtfwiki@estela.cn>
+通过 邮件 <mtf@kuaer.club>
 
 [shields-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [shields-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
