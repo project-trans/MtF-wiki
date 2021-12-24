@@ -1,6 +1,6 @@
-{{- $img := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) -}}
-{{- if gt $img.Width 200 }}{{ $img = $img.Resize "200x q90" }}{{ end -}}
-{{- if gt $img.Height 270 }}{{ $img = $img.Resize "x270 q90" }}{{ end -}}
-{{- with $img -}}
-  <img src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Doctor">
+{{- $src := .Get "src" -}}
+{{- $img := .Page.Resources.GetMatch (printf "*%s*" $src) -}}
+{{- if eq $img nil -}}{{ $img = resources.GetRemote $src }}{{- end -}}
+{{- with $img.Fit "300x300 q95" -}}
+<img src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}">
 {{- end -}}
