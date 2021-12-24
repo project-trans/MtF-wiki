@@ -45,3 +45,8 @@ gd 即为 gender dysphoria 的缩写
 
 科普视频：[人类有多少种生理性别？你的性别是什么决定的？](https://www.bilibili.com/video/BV1bZ4y1c7eh/)
 {{< /expand >}}
+
+{{< expand "药娘头" >}}
+形容词，指发型由男性长发像女性短发转变的过渡过程的一种发型，是RLE的必要步骤
+PS:有经济能力或者家长支持的也可以考虑通过理发店美容接发的过程缩短这一阶段。
+{{< /expand >}}
