@@ -3,6 +3,7 @@ name: Test Site
 on:
   pull_request:
     paths-ignore:
+      - '.github'
       - 'README.md'
       - 'LICENSE'
 

@@ -48,7 +48,7 @@ weight: 0
 
 通过 Discord <a href="https://233.plus/discord"><img style="display:inline-block;vertical-align:text-bottom" src="https://img.shields.io/discord/883004164760801320?style=flat-square" /></a>
 
-通过 GitHub <a href="https://github.com/mtf-wiki/MtF-Wiki/issues"><img style="display:inline-block;vertical-align:text-bottom" src="https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square" /></a>
+通过 GitHub <a href="https://github.com/mtf-wiki/MtF-Wiki/issues/new"><img style="display:inline-block;vertical-align:text-bottom" src="https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square" /></a>
 
 通过 邮件 {{< email "mtfwiki@estela.cn" >}}
 
