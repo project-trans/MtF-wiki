@@ -20,17 +20,16 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: tags
+    id: labels
     attributes:
       label: 标签
       options:
-        - label: 便宜
+        - label: LGBT+ 友善
         - label: 有观察期/随访
         - label: 初诊开证/开假条
         - label: 需家长介入
         - label: 可与家长沟通
-        - label: LGBT+ 友善
-        - label: 必须年满 20 周岁
+        - label: 须年满 20 周岁
   - type: textarea
     id: caveats
     attributes:
