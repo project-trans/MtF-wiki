@@ -73,4 +73,4 @@ title: 新疆大学
 
 这边建议直接加入动漫社，对 LGBT 极度友善，且学姐都很好，rle 的话还可以帮忙化妆或者教你~
 
-{{< sign-name "璃沫莫 Momo" >}}
+{{< sign-off-by "璃沫莫 Momo" >}}

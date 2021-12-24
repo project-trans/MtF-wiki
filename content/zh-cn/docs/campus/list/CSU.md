@@ -22,4 +22,4 @@ title: 中南大学
 
 辅导员不行，同学包容度似乎还行
 
-{{< sign-name "AlbacoreMeow" >}}
+{{< sign-off-by "AlbacoreMeow" >}}

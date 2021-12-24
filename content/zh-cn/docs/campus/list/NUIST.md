@@ -56,4 +56,4 @@ title: 南京信息工程大学
 
 [大学生活质量指北](https://colleges.chat/universities/nan-jing-xin-xi-gong-cheng-da-xue/)中有一些常见问题可以参考。
 
-{{< sign-name "凌莞" >}}
+{{< sign-off-by "凌莞" >}}

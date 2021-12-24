@@ -40,4 +40,4 @@ title: 苏州大学
 
 - 外国语学院 **友好** 可开具介绍信
 
-{{< sign-name "山前 saeziae" >}}
+{{< sign-off-by "山前 saeziae" >}}

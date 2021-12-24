@@ -33,4 +33,4 @@ title: 合肥工业大学
 
 经过扩充改造，食堂能够满足需求，食堂水平能够达到较好水平。
 
-{{< sign-name "Windancer" >}}
+{{< sign-off-by "Windancer" >}}
