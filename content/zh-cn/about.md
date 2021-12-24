@@ -6,6 +6,8 @@ draft: false
 weight: 0
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
 # 关于
 
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
@@ -15,8 +17,6 @@ weight: 0
 本项目 <i class="bi bi-github"></i> GitHub Repo: [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
 本项目 <i class="bi bi-link-45deg"></i> 网址：[MtF.wiki](https://mtf.wiki)
 <i class="bi bi-link-45deg"></i> 同步镜像：[mtfwiki.cn](https://mtfwiki.cn)（同步周期 30 分钟）、[mtfwiki.com](https://mtfwiki.com)
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
 ## 主要人员
 
