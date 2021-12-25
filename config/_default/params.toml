@@ -31,7 +31,7 @@ taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 enableContactUs = true
-email = "mtfwiki@estela.cn"
+email = "mtf@kuaer.club"
 
 github = "https://github.com/mtf-wiki/MtF-Wiki"
 
@@ -65,7 +65,7 @@ commento = false
   appKey = '你的appKey'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
-  avatar = 'mm' 
+  avatar = 'mm'
   placeholder = '说点什么吧...'
   visitor = false
 

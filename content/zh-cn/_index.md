@@ -1,8 +1,6 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
-date: 2020-10-26T04:15:05+08:00
-draft: false
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
@@ -41,6 +39,6 @@ footer:
     applySinglePageCss: true
     markdown: >
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2021 MtF Wiki. All rights reserved.</p>
+      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
       <blockquote>如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。</blockquote>
 ---

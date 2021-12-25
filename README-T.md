@@ -1,6 +1,6 @@
 [![MtF-Wiki][logo-long]][wiki-url]
 
-镜像站：[mtfwiki.cn](https://mtfwiki.cn/)、[mtfwiki.com](https://mtfwiki.com)
+镜像站：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
 
 # Welcome to **MtF Wiki**
 
@@ -57,7 +57,7 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 [![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://233.plus/discord)
 
-email: mtfwiki@estela.cn
+Email: mtf@kuaer.club
 
 [logo-long]: ./static/new/mtf-wiki-long.svg
 [wiki-url]: https://mtf.wiki

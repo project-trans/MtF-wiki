@@ -1,8 +1,6 @@
 ---
 title: "关于我们"
 description: "MtF Wiki 致力于成为一个免费开放且持续更新的跨性别女生知识整合站点"
-date: 2021-06-01T22:27:01+08:00
-draft: false
 weight: 0
 ---
 
@@ -20,8 +18,7 @@ weight: 0
 
 ## 主要人员
 
-{{< gh-profile "kenchiu233" >}}
-创始人
+创始人：{{< gh-profile "kenchiu233" >}}
 
 {{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 站点与代码维护

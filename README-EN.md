@@ -1,6 +1,6 @@
 [![MtF-Wiki][logo-long]][wiki-url]
 
-Mirror：[mtfwiki.cn](https://mtfwiki.cn/)、[mtfwiki.com](https://mtfwiki.com)
+Mirror：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
 
 # Welcome to **MtF Wiki**
 
@@ -56,7 +56,7 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 [![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://233.plus/discord)
 
-email: mtfwiki@estela.cn
+Email: mtf@kuaer.club
 
 And through GitHub issues.
 

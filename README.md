@@ -57,7 +57,7 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 Discord: [![Discord][badge-discord]](https://233.plus/discord)
 
-Email: <mtfwiki@estela.cn>
+Email: <mtf@kuaer.club>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars

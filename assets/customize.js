@@ -1,10 +1,7 @@
-document.addEventListener('click', (event) => {
-  const link = event.target.closest('a');
-  if (link === null || link.tagName !== 'A') return;
+document.querySelectorAll('a[href]').forEach((link) => {
+  if (!/^https?:$/.test(link.protocol)) return;
   if (link.hostname === location.hostname) return;
-  event.preventDefault();
-  event.stopPropagation();
-  open(link.href);
+  link.target = '_blank';
 });
 
 document.querySelectorAll('a[data-email]').forEach((element) => {

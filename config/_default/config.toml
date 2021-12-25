@@ -6,7 +6,7 @@ defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
-copyright = "&copy; {year} MtF Wiki. All Rights Reserved"
+copyright = "&copy; 2020-{year} MtF Wiki. All Rights Reserved"
 timeout = 10000
 enableEmoji = true
 enableRobotsTXT = true

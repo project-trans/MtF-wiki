@@ -1,8 +1,6 @@
 ---
 title: MtF Wiki
 description: MtF Wiki, un lugar que podría echar una mano a mujeres trans.
-date: 2020-10-29T04:15:05+08:00
-draft: false
 landing:
   height: 500
   image:  new/mtf-wiki-square.svg
@@ -34,12 +32,13 @@ footer:
           link: https://github.com/mtf-wiki
         - title: Discord
           link: https://233.plus/discord
+        - title: Email
+          link: mailto:mtf@kuaer.club
   contents:
     align: left
     applySinglePageCss: true
-    markdown:
-      |
-      <h2><span style="color:#5bcefa">M</span><span style="color:#f6a8b8">t</span>F <span style="color:#f6a8b8">Wi</span><span style="color:#5bcefa">ki</span></h2>
-      <p>Copyright © 2020-2021 MtF Wiki. All rights reserved.</p>
+    markdown: >
+      <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
+      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
       <blockquote>Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
 ---
