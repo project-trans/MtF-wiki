@@ -31,18 +31,21 @@ body:
         - 需家长介入
         - 可与家长沟通
         - 须年满 20 周岁
+        - 无需抢挂号
+        - 挂号及有关检查较便宜（请在注意事项中补全有关定价）
+        - 需要介绍信（格式见wiki）
   - type: textarea
     id: caveats
     attributes:
       label: 注意事项
-      description: 您在面诊时遭遇的问题
+      description: 您在面诊时遭遇的问题以及一些问诊细节
     validations:
       required: true
   - type: textarea
     id: proof
     attributes:
       label: 证明样式
-      description: 您已获得的证明扫描件
+      description: 您已获得的证明扫描件（请直接将文件拖动到文本框进行上传）
   - type: checkboxes
     id: license
     attributes:
