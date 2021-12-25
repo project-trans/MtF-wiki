@@ -19,17 +19,18 @@ body:
       description: 该学校的地理位置
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: labels
     attributes:
       label: 标签
+      multiple: true
       options:
-        - label: LGBT+ 友善
-        - label: 能使用“易性证”免除体育测试
-        - label: 教务协助“变更学历”
-        - label: 校医提供”性激素六项“服务
-        - label: 无性别厕所
-        - label: 存在其他跨性别
+        - LGBT+ 友善
+        - 能使用“易性证”免除体育测试
+        - 教务协助“变更学历”
+        - 校医提供”性激素六项“服务
+        - 无性别厕所
+        - 存在其他跨性别
   - type: textarea
     id: general
     attributes:

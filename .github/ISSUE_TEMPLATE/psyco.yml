@@ -19,17 +19,18 @@ body:
       description: 该医生的名字
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: labels
     attributes:
       label: 标签
+      multiple: true
       options:
-        - label: LGBT+ 友善
-        - label: 有观察期/随访
-        - label: 初诊开证/开假条
-        - label: 需家长介入
-        - label: 可与家长沟通
-        - label: 须年满 20 周岁
+        - LGBT+ 友善
+        - 有观察期/随访
+        - 初诊开证/开假条
+        - 需家长介入
+        - 可与家长沟通
+        - 须年满 20 周岁
   - type: textarea
     id: caveats
     attributes:
