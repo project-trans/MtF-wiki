@@ -5,7 +5,7 @@ weight: 1000
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-pos 可与家长沟通 >}} {{< tag-neg 观察期 1 年 >}}
+{{< tag-pos 可与家长沟通 >}} {{< tag-neg "观察期 1 年" >}}
 
 医生姓名：[宁洁](https://www.haodf.com/doctor/1129160221.html)
 
