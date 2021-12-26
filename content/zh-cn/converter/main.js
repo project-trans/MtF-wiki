@@ -7,7 +7,7 @@ function changed() {
   var $val1 = form.elements.val1;
   var $result = form.elements.result;
   var val = Number.parseInt($val1.value, 10);
-  var in1 = Number.parseInt(form.elements.in1.value, 10);
+  var in1 = form.elements.in1.value;
   var in2 = Number.parseInt(form.elements.in2.value, 10);
   var in3 = Number.parseInt($in3.value, 10);
   var out1 = $out1.value;
@@ -23,7 +23,7 @@ function changed() {
       val *= 1000 * in3;
       break;
     default:
-      val *= in1;
+      val *= Number.parseInt(in1, 10);
   }
   switch (out1) {
     case "mol":
