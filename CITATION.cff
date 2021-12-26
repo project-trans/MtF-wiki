@@ -1,19 +1,16 @@
-authors: 
-  -
-    family-names: 
-    given-names: "MtF Wiki Team"
-cff-version: "1.1.0"
+title: MtF Wiki
+url: https://mtf.wiki
+cff-version: 1.1.0
 date-released: 2020-10-27
-keywords: 
+repository-code: https://github.com/mtf-wiki/MtF-Wiki
+journal: GitHub Repository
+message: If you use this software, please cite it using these metadata.
+license: CC-BY-SA-4.0
+authors:
+  - given-names: MtF Wiki Team
+keywords:
   - MtF
   - Wiki
   - LGBT
-license: "CC-BY-SA-4.0"
-journal: "GitHub Repository"
 publisher:
-  - 
-    name: "GitHub"
-message: "If you use this software, please cite it using these metadata."
-repository-code: "https://github.com/mtf-wiki/MtF-Wiki"
-title: "MtF Wiki"
-url: "https://mtf.wiki/"
+  - name: GitHub
