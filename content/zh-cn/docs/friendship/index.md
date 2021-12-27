@@ -35,7 +35,7 @@ weight: 9
 
 请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
 
-### 跨性别相关 bot（QQ） {#trans-related-bot}
+### 跨性别相关 bot（QQ）{#trans-related-bot}
 
 已于 2021/12/13 停止服务，恢复时间待定。
 

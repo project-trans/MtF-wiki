@@ -15,7 +15,7 @@ aliases:
 
 [12345]: https://baike.baidu.com/item/12345
 
-## 国内手术（上海） {#shanghai}
+## 国内手术（上海）{#shanghai}
 
 {{< notice warning "注意事项" >}}
 请务必在执行 [证件变更]({{< ref "id-card" >}}) 前完成此公证程序
