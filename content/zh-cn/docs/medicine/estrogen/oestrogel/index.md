@@ -70,8 +70,8 @@ weight: 1
 - 分子量：272.38 g/mol
 
 ## 产品说明书
--[Oestrogel雌二醇凝胶的说明书扫描件
--(estradiol-gel.jpg)
+-![Oestrogel]雌二醇凝胶的说明书扫描件(estradiol-gel.jpg)
+-
 
 
 
