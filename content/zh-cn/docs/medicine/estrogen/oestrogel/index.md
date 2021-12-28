@@ -71,7 +71,7 @@ weight: 1
 
 ## 产品说明书
 -Oestrogel<sup>&reg;</sup>（爱斯妥）雌二醇凝胶的说明书扫描件(estradiol-gel.jpg)
--!(estradiol-gel.jpg)
+![Oestrogel](estradiol-gel.jpg)
 
 
 
