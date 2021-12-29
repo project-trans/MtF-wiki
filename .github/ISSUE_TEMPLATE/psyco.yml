@@ -1,6 +1,7 @@
 name: 报告新的精神科医生
 description: 报告新的精神科医生
-title: "精神科："
+title: "精神科: "
+labels: psyco
 body:
   - type: markdown
     attributes:
@@ -30,7 +31,7 @@ body:
         - 初诊开证/开假条
         - 需家长介入
         - 可与家长沟通
-        - 须年满 20 周岁
+        - 须年满一定岁数（请在下面说明）
         - 无需抢挂号
         - 挂号及有关检查较便宜（请在注意事项中补全有关定价）
         - 需要介绍信（格式见wiki）
@@ -45,7 +46,7 @@ body:
     id: proof
     attributes:
       label: 证明样式
-      description: 您已获得的证明扫描件（请直接将文件拖动到文本框进行上传）
+      description: 您已获得的证明或假条/病历扫描件（请直接将文件拖动到文本框进行上传）
   - type: checkboxes
     id: license
     attributes:
