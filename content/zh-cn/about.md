@@ -45,11 +45,14 @@ weight: 0
 
 通过 Discord [![Discord][shields-discord]](https://233.plus/discord)
 
+通过 Twitter [![Twitter][shields-twitter]](https://twitter.com/mtfwiki)
+
 通过 GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 通过 邮件 <mtf@kuaer.club>
 
 [shields-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[shields-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
 [shields-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## 致谢
