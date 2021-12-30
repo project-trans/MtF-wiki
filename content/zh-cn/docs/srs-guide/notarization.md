@@ -50,4 +50,4 @@ aliases:
    具体参见 [司法鉴定指引]({{< ref "forensics" >}}) 进行性别鉴定
 
 1. 医院证明
-   具体参见 [性別鉴定指引]({{< ref "identification#关于医院证明" >}}) 进行性别鉴定
+   具体参见 [性別鉴定指引]({{< ref "identification#hospital-proof" >}}) 进行性别鉴定
