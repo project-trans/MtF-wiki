@@ -19,9 +19,10 @@ weight: 1
 - 有效成分：雌二醇
 - 进口药品注册证号：H20120488
 - 生产企业：比利时法杏制药厂
+- [说明书](estradiol-gel.jpg)
 - 药品规格：
-  - 0.06% &times; 80g（含雌二醇 48mg）
-  - 0.06% &times; 30g（含雌二醇 18mg）
+  0.06% &times; 80g（含雌二醇 48mg）
+  0.06% &times; 30g（含雌二醇 18mg）
 
 ### 健民 雌二醇凝胶 {#jian-min}
 
@@ -64,9 +65,3 @@ weight: 1
 - 半衰期：37 小时（经皮）
 - 分子式：$\ce{C18H24O2}$
 - 分子量：272.38 g/mol
-
-## 产品说明书
-### Oestrogel<sup>&reg;</sup>（爱斯妥）雌二醇凝胶的说明书扫描件
-{{< expand "展开查看" >}}
-![Oestrogel](estradiol-gel.jpg)
-{{< /expand >}}
