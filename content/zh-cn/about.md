@@ -41,15 +41,15 @@ weight: 0
 
 与其它对我们提供帮助和资讯的小可爱们。
 
-## 联络
+## 联系方式
 
-通过 Discord [![Discord][badge-discord]](https://233.plus/discord)
+Discord [![Discord][badge-discord]](https://233.plus/discord)
 
-通过 Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
+Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-通过 GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-通过 邮件 <mtf@kuaer.club>
+邮件 <mtf@kuaer.club>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square

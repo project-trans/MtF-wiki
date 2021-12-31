@@ -40,7 +40,7 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 而如果你想要引用这个 GitHub 仓库，可以使用如下的 BibTeX：
 
-```tex
+```plain
 @misc{mtfwiki,
   author = {MtF Wiki Team},
   title = {MtF Wiki},
@@ -53,14 +53,18 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 ## 联系方式
 
-点击下方图片即可加群：
+Discord [![Discord][badge-discord]](https://233.plus/discord)
 
-Discord: [![Discord][badge-discord]](https://233.plus/discord)
+Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-Email: <mtf@kuaer.club>
+GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+
+邮件 <mtf@kuaer.club>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 [badge-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars
+[badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
 [badge-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
