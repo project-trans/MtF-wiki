@@ -8,8 +8,8 @@
 
 **简体中文** | [繁中](README-T.md) | [English](README-EN.md) | [Español](README-ES.md)
 
-[![GitHub Watchers][badge-watch]][repo]
-[![GitHub Stars][badge-stars]][repo]
+[![GitHub Watchers][badge-gh-watch]][repo]
+[![GitHub Stars][badge-gh-stars]][repo]
 
 ## 内容
 
@@ -57,15 +57,15 @@ Discord [![Discord][badge-discord]](https://233.plus/discord)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 邮件 <mtf@kuaer.club>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
-[badge-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars
+[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Watch
 [badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
-[badge-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo
