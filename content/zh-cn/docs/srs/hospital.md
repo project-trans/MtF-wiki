@@ -22,7 +22,7 @@ weight: 5
 
 {{< csv-table >}}
 国家,机构名称,年龄限制,建议 BMI,最大 BMI,手术方式
-泰国,Chettawut,,<= 24,33,非 PI、结肠
+泰国,Chettawut,,<= 24,33,非 PI、结肠、0 深度
 泰国,Greechart,,,,
 泰国,Kamol,20,<= 26,,改进的 PI、结肠、腹膜、0 深度
 泰国,Suporn,,,,非 PI
