@@ -23,7 +23,7 @@ weight: 0
 {{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 站点与代码维护
 
-{{< gh-profile "saeziae" >}}&nbsp;<i@estela.cn>
+{{< gh-profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 药物板块、长三角地区编辑维护，镜像维护，外文翻译
 
 {{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
@@ -32,7 +32,7 @@ weight: 0
 {{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 手术医疗相关板块维护
 
-{{< gh-profile "Clansty" >}}&nbsp;<i@gao4.pw>
+{{< gh-profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 手术医疗相关板块维护
 
 以及感谢所有 GitHub 贡献者：
