@@ -157,7 +157,7 @@ weight: 31
 
 ## 术后评价
 
-- 2021 年 6 月手术，术后一个月拍摄：
+- 2021 年 6 月手术，术后 7 个月拍摄：
   {{< expand "展开查看" >}}
   ![srs-photo](postoperative-1.jpg)
   {{< /expand >}}
