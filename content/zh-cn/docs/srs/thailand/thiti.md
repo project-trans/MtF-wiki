@@ -1,5 +1,5 @@
 ---
-title: 泰国｜Thiti 医生
+title: Thiti 医生
 weight: 44
 aliases:
   - thiti

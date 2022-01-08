@@ -1,5 +1,5 @@
 ---
-title: 泰国｜Suporn 诊所
+title: Suporn 诊所
 weight: 43
 aliases:
   - suporn

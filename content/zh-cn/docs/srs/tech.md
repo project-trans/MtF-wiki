@@ -1,6 +1,6 @@
 ---
 title: 手术技术
-weight: 3
+weight: 2
 ---
 
 #### SRS 手术方式
