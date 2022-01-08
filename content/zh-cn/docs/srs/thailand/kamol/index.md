@@ -1,5 +1,5 @@
 ---
-title: 泰国｜Kamol
+title: Kamol
 weight: 42
 aliases:
   - kamol
