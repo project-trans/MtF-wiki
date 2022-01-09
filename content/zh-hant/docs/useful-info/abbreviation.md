@@ -26,7 +26,7 @@ title: 縮寫詞語表
 - RLE: Real-life experience 實際生活體驗
   [維基百科](https://zh.wikipedia.org/zh-cn/實際生活體驗)
 - HRT: Hormone replacement therapy 激素替代療法
-  [本站板塊]({{< ref "hrt" >}})｜[維基百科](https://zh.wikipedia.org/zh-cn/激素替代療法)
+  [本站板塊]({{< ref "hrt-overview" >}})｜[維基百科](https://zh.wikipedia.org/zh-cn/激素替代療法)
 - SRS: Sex reassignment surgery 性別重置手術
   [本站板塊]({{< ref "srs/faq" >}})｜[維基百科](https://zh.wikipedia.org/zh-cn/性別重置手術)
   有時也會被稱之為：GRS (gender reassignment surgery)
@@ -35,6 +35,7 @@ title: 縮寫詞語表
 - FFS: Facial feminization surgery 面部女性化手術
   [維基百科](https://zh.wikipedia.org/zh-cn/性別重置療法#其他療法)
 - VFS: Voice feminization surgery 聲音女性化手術
+  [本站板塊]({{< ref "vocal-training" >}})
 - AG: Autogynephilia 幻想變性性興奮理論
 - CD: Cross-dressing 異裝
   [維基百科](https://zh.wikipedia.org/zh-cn/異性裝扮)
