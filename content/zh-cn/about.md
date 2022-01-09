@@ -1,6 +1,6 @@
 ---
 title: "关于我们"
-description: "MtF Wiki 致力于成为一个免费开放且持续更新的跨性别女生知识整合站点"
+description: "MtF Wiki 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点"
 weight: 0
 ---
 
@@ -10,7 +10,7 @@ weight: 0
 
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
-{{<mtf-wiki>}} 致力于成为一个免费开放且持续更新的跨性别女生知识整合站点
+{{<mtf-wiki>}} 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
 
 本项目 <i class="bi bi-github"></i> GitHub Repo: [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
 本项目 <i class="bi bi-link-45deg"></i> 网址：[MtF.wiki](https://mtf.wiki)
@@ -23,7 +23,7 @@ weight: 0
 {{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 站点与代码维护
 
-{{< gh-profile "saeziae" >}}&nbsp;<i@estela.cn>
+{{< gh-profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 药物板块、长三角地区编辑维护，镜像维护，外文翻译
 
 {{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
@@ -32,7 +32,7 @@ weight: 0
 {{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 手术医疗相关板块维护
 
-{{< gh-profile "Clansty" >}}&nbsp;<i@gao4.pw>
+{{< gh-profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 手术医疗相关板块维护
 
 以及感谢所有 GitHub 贡献者：
@@ -41,16 +41,19 @@ weight: 0
 
 与其它对我们提供帮助和资讯的小可爱们。
 
-## 联络
+## 联系方式
 
-通过 Discord [![Discord][shields-discord]](https://233.plus/discord)
+Discord [![Discord][badge-discord]](https://233.plus/discord)
 
-通过 GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-通过 邮件 <mtf@kuaer.club>
+GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-[shields-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+邮件 <mtf@kuaer.club>
+
+[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
+[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## 致谢
 

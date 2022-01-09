@@ -3,23 +3,7 @@ title: 友情合作
 weight: 9
 ---
 
-<style>
-.inline-img {
-  display: inline-block !important;
-  height: 4em;
-  vertical-align: middle;
-  border: none !important;
-}
-
-.trans-flag {
-    display: inline-block !important;
-    height: 1em;
-    width: 1em;
-    margin: 0 0.05em 0 0.1em !important;
-    vertical-align: middle;
-    border: none !important;
-}
-</style>
+<link rel="stylesheet" href="main.css">
 
 ### QQ 交流群 {#qq-group}
 
@@ -37,18 +21,12 @@ weight: 9
 
 ### 跨性别相关 bot（QQ）{#trans-related-bot}
 
-已于 2021/12/13 停止服务，恢复时间待定。
-
-{{< expand "展开查看" >}}
-
 前身为 Trans 药品公益科普 bot．本 bot 是社群伙伴自发建立的民间公益平台，由专门成立的多人运营组共同运营，以纯公益、不谋利为基本原则，以广大跨性别群体的立场为基本立场，主营跨性别相关的科普/辟谣/投稿/公益推广/消息推送等业务。为避免反跨恐跨人士围攻举报，本 bot 内容请在合理范围内扩散，谨慎考虑后转发。
 
 - QQ 空间主机：`2776456754`
 - QQ 空间备用机：`970611264`（平时停用，紧急事态下启用。）
 - 正在建设中的 Telegram 同步机以频道形式推送内容，获取邀请链接请在任一其他平台联系我们
 - Limelight 主机请前往 Limelight 搜索关键词「跨性别相关 bot」
-
-{{< / expand >}}
 
 ### awesome trans <img src="trans-flag.svg" class="trans-flag" /> (Twitter)
 

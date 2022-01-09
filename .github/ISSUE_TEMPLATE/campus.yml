@@ -1,6 +1,5 @@
 name: 报告新的学校
 description: 报告新的学校
-title: "学校："
 body:
   - type: markdown
     attributes:
@@ -29,8 +28,7 @@ body:
         - 能使用“易性症”诊断证明/假条/病历免除体育测试
         - 教务协助“变更学历”
         - 校医提供“性激素六项”检查服务
-        - 无性别厕所
-        - 存在其他跨性别（已确认）
+        - 存在其他跨性别
   - type: textarea
     id: general
     attributes:

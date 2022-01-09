@@ -1,9 +1,8 @@
 ---
-title: 泰国｜Yanhee 医院
-draft: true
+title: Yanhee 医院
 weight: 45
 aliases:
   - yanhee
 ---
 
-## Under Construction
+## 等待您的信息贡献
