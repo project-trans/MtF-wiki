@@ -7,7 +7,8 @@ collapsible: true
 
 ## 有关icd-11
 https://zhuanlan.zhihu.com/p/53190964
-2022年中国大陆各个医院将陆续推行icd-11系统
+
+-2022年中国大陆各个医院将陆续推行icd-11系统
 ## 主要影响
 
 {{< expand "精神科" >}}
