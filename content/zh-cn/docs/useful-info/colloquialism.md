@@ -36,7 +36,7 @@ gd 即为 gender dysphoria 的缩写
 {{< /expand >}}
 
 {{< expand "手术党" >}}
-名词。指已完成 [SRS]({{< ref "srs/tech" >}}) 的跨儿。
+名词。指已完成 [SRS]({{< ref "/zh-cn/docs/srs/" >}}) 的跨儿。
 {{< /expand >}}
 
 {{< expand "中奖党" >}}

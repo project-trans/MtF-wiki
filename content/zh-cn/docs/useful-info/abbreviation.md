@@ -28,7 +28,7 @@ title: 缩写词语表
 - HRT: Hormone replacement therapy 激素替代疗法
   [本站板块]({{< ref "hrt-overview" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/激素替代疗法)
 - SRS: Sex reassignment surgery 性别重置手术
-  [本站板块]({{< ref "srs/faq" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
+  [本站板块](/zh-cn/docs/srs/faq)｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
   有时也会被称之为：GRS (gender reassignment surgery)
 - SRT: Sex reassignment therapy 性别重置疗法
   [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法)
