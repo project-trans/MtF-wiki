@@ -8,7 +8,7 @@ weight: 32
 團隊：
 
 - [劉陽](https://www.haodf.com/doctor/74805.html)（主任醫師）
-- [程辰]({{< ref"../../../hrt/sh9" >}})（主治醫師）
+- 程辰（主治醫師）
 - [張盈帆](https://www.haodf.com/doctor/275463.html)（副主任醫師）
 - [麻蓀香](https://www.haodf.com/doctor/599858232.html)（副主任醫師）
 - [周怡雯](https://www.haodf.com/doctor/9032015682.html)（住院醫師）
