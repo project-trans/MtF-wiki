@@ -2,7 +2,7 @@
 title: 梁金（金子） 中介
 weight: 60
 aliases:
-  - thiti
+  - liangjin
 ---
 价格：按照需求收取服务费
 ## 联系方式
