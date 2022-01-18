@@ -5,7 +5,7 @@ weight: 31
 
 {{< notice info >}} 许学文医生作为华西医院整形外科一把刀，积累了大量会阴修复/成型经验 {{< /notice >}}
 
-{{< doctor-image src="you-xiaobo.jpg" >}}
+{{< doctor-image src="xu-xuewen.jpg" >}}
 
 医生姓名：[许学文](https://www.haodf.com/doctor/25624.html)
 
