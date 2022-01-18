@@ -70,3 +70,7 @@ weight: 1
 ## HRT
 
 该院的 [王小红]({{< ref "wang-xiaohong" >}}) 提供 HRT 治疗
+
+## SRS
+
+该院的 [游晓波]({{< ref "you-xiaobo" >}}) 提供 SRS 治疗
