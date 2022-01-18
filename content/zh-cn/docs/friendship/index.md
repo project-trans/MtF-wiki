@@ -1,6 +1,6 @@
 ---
 title: 友情合作
-weight: 9
+weight: 10
 ---
 
 <link rel="stylesheet" href="main.css">
