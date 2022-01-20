@@ -15,7 +15,6 @@ MtF：跨性别女性。
 ## GD
 GD 即为 gender dysphoria 的缩写
 意为 [性别焦虑](https://zh.wikipedia.org/zh-cn/性别不安)
-{{< /expand >}}
 
 ## 糖
 指代[激素治疗]{{< ref hrt-overview >}}所使用的药物。
