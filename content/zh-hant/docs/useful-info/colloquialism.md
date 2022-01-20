@@ -17,7 +17,7 @@ GD 即為 gender dysphoria 的縮寫
 意為 [性別焦慮](https://zh.wikipedia.org/zh-tw/性別不安)
 
 ## 糖
-指代[激素治療]{{< ref hrt-overview >}}所使用的藥物。
+指代[激素治療]({{< ref hrt-overview >}})所使用的藥物。
 ## 家長黨
 名詞。取得家長充分理解並予以支援的跨兒。
 
