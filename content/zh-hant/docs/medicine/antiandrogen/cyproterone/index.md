@@ -1,7 +1,6 @@
 ---
-title: 安得卡（醋酸環丙孕酮）
+title: 色普龍（醋酸環丙孕酮）
 description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗雄藥物，常見的商品名有 Androcur（安得卡），Siterone 等。
-draft: false
 libraries: [katex, mhchem]
 weight: 1
 ---
@@ -16,54 +15,35 @@ weight: 1
 醋酸環丙孕酮有很強的孕激素作用！1 mg/24h 的劑量已具有女性排卵抑制作用，而子宮內膜轉化劑量為 1–3 mg/24h (Wiki-Table; Endrikat et al., 2011)
 {{< /notice >}}
 
-## 基本資訊
+## 基本信息
 
 ### Androcur<sup>&reg;</sup>（安得卡）
 
-<table><tr>
-<td><img src="/images/Androcur50.jpg"/></td>
-<td><img src="/images/Androcur100.jpg"/></td>
-</tr><tr>
-<td align="center">50mg</td>
-<td align="center">100mg</td>
-</tr></table>
+{{< figure src="androcur-50.jpg" width="50%" >}}
+{{< figure src="androcur-100.jpg" width="50%" >}}
 
 - 商品名：Androcur<sup>&reg;</sup>
-- 簡稱：土色
+- 簡稱：土色，臺色
 - 廠商：拜耳
 - 產地：土耳其
 - 規格：50mg &times; 50 片，100mg &times; 30 片
+- [說明書（繁體中文）](androcur-zh.pdf)
+- 臺灣有上市，品名安得卡。
 
 ### Siterone<sup>&reg;</sup>
 
-<table><tr>
-<td><img src="/images/Siterone50.jpg"/></td>
-<td><img src="/images/Siterone100.jpg"/></td>
-</tr><tr>
-<td align="center">50mg</td>
-<td align="center">100mg</td>
-</tr></table>
+{{< figure src="siterone-50.jpg" width="50%" >}}
+{{< figure src="siterone-100.jpg" width="50%" >}}
 
 - 商品名：Siterone<sup>&reg;</sup>
 - 簡稱：新色
 - 廠商：REX
-- 產地：紐西蘭
+- 產地：新西蘭
 - 規格：50mg &times; 50 片，100mg &times; 50 片
-
-### 華典<sup>&reg;</sup>醋酸環丙孕酮片
-
-<img src="/images/Huadian.jpg"/>
-
-- 商品名：華典<sup>&reg;</sup>
-- 簡稱：國色
-- 廠商：武漢九瓏人福藥業有限責任公司
-- 批准文號：國藥準字 H20056637
-- 規格：50mg &times; 24 片
-- 參考售價：人民幣 270 元
 
 ## 說明
 
-- 所謂“日色”不是安得卡，請不要誤用。
+- 所謂“日色”不是色普龍，請不要誤用。
 
 ## 使用方式與用量
 
@@ -76,23 +56,22 @@ weight: 1
 
 ## 副作用
 
-- **腦膜瘤風險**：安得卡可能誘發腦膜瘤，風險與劑量和使用時長正相關，建議謹慎使用。[^6]
+- **腦膜瘤風險**：色譜龍可能誘發腦膜瘤，風險與劑量和使用時長正相關，建議謹慎使用。[^6]
 
-- **抑鬱**：安得卡會導致抑鬱風險升高[^2]。主要原因是安得卡對於生理男性起到了抗雄激素和潛在的糖皮質激素作用，並可能誘發維生素 B<sub>12</sub> 缺乏[^3]。有必要適量補充維生素  B<sub>12</sub> ．
+- **抑鬱**：色普龍會導致抑鬱風險升高[^2]。主要原因是色普龍對於生理男性起到了抗雄激素和潛在的糖皮質激素作用，並可能誘發維生素 B<sub>12</sub> 缺乏[^3]。有必要適量補充維生素  B<sub>12</sub> ．
 
-- **肝毒性**：安得卡最嚴重的副作用，使用前應當檢查肝功能並定期檢查，服用量不應當超過 50mg[^4]．
+- **肝毒性**：色普龍最嚴重的副作用，使用前應當檢查肝功能並定期檢查，服用量不應當超過 50mg[^4]．
 
-- **血糖**：安得卡會引起血糖偏高，糖尿病患者應謹慎使用[^5]。
+- **血糖**：色普龍會引起血糖偏高，糖尿病患者應謹慎使用[^5]。
 
-- {{% tag-neg 暫未明確 %}} 安得卡是強效的孕激素，早期匯入可能造成乳房發育不良。
+- {{< tag-neg 暫未明確 >}} 色普龍是強效的孕激素，早期導入可能造成乳房發育不良。
 
-## 成分資訊
+## 成分信息
 
 - 有效成分：醋酸環丙孕酮（Cyproterone Acetate）
 - 化學名稱：6-氯-1α,2α-亞甲基-3,20-二孕酮-4,6-二烯-17α-醋酸酯
 - 分子式：$\ce{C24H29ClO4}$
 - 分子量：416.94 g/mol
-- ![化學式](/images/CPA.svg)
 
 [^1]: [Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People](https://transfemscience.org/articles/cpa-dosage/)
 [^2]: [The journal of clinical endocrinology & metabolism](https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359)

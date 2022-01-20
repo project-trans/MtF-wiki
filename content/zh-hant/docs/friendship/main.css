@@ -1,0 +1,15 @@
+.inline-img {
+  display: inline-block !important;
+  height: 4em;
+  vertical-align: middle;
+  border: none !important;
+}
+
+.trans-flag {
+  display: inline-block !important;
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em 0 0.1em !important;
+  vertical-align: middle;
+  border: none !important;
+}
