@@ -11,7 +11,7 @@ weight: 3
 
 Estrofem 是雌二醇片，不同於[Progynova（戊酸雌二醇）]({{< ref "progynova" >}})。
 
-## 基本信息
+## 基本資訊
 
 ![土諾包裝](estrofem.png)
 
@@ -35,7 +35,7 @@ Estrofem 是雌二醇片，不同於[Progynova（戊酸雌二醇）]({{< ref "pr
 - 使用劑量：2mg~
 - 如舌下含服服用劑量多於 1 片/天，請分次服用，每次 1 片
 
-## 成分信息
+## 成分資訊
 
 - 有效成分：雌二醇（Estradiol）
 - 半衰期：8–18 小時（舌下含服）
