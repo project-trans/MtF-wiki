@@ -24,17 +24,17 @@ title: 縮寫詞語表
   FtX, MtX: 認為自己不屬於指派性別，同時也不完全屬於另一個性別（借自日語，X 為 Xジェンダー X-gender，即 non-binary 非二元）
   TS: 變性者（Transsexual）
 - RLE: Real-life experience 實際生活體驗
-  [維基百科](https://zh.wikipedia.org/zh-cn/實際生活體驗)
+  [維基百科](https://zh.wikipedia.org/zh-tw/實際生活體驗)
 - HRT: Hormone replacement therapy 激素替代療法
-  [本站板塊][維基百科](https://zh.wikipedia.org/zh-cn/激素替代療法)
+  [本站板塊](/zh-hant/docs/medicine/hrt-overview/)[維基百科](https://zh.wikipedia.org/zh-tw/激素替代療法)
 - SRS: Sex reassignment surgery 性別重置手術
-  [本站板塊](/zh-hant/docs/srs/)｜[維基百科](https://zh.wikipedia.org/zh-cn/性別重置手術)
+  [本站板塊](/zh-hant/docs/srs/)｜[維基百科](https://zh.wikipedia.org/zh-tw/性別重置手術)
   有時也會被稱之為：GRS (gender reassignment surgery)
 - SRT: Sex reassignment therapy 性別重置療法
-  [維基百科](https://zh.wikipedia.org/zh-cn/性別重置療法)
+  [維基百科](https://zh.wikipedia.org/zh-tw/性別重置療法)
 - FFS: Facial feminization surgery 面部女性化手術
-  [維基百科](https://zh.wikipedia.org/zh-cn/性別重置療法#其他療法)
+  [維基百科](https://zh.wikipedia.org/zh-tw/性別重置療法#其他療法)
 - VFS: Voice feminization surgery 聲音女性化手術
 - AG: Autogynephilia 幻想變性性興奮理論
 - CD: Cross-dressing 異裝
-  [維基百科](https://zh.wikipedia.org/zh-cn/異性裝扮)
+  [維基百科](https://zh.wikipedia.org/zh-tw/異性裝扮)

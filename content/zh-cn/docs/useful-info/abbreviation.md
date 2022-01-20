@@ -33,7 +33,7 @@ title: 缩写词语表
 - SRT: Sex reassignment therapy 性别重置疗法
   [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法)
 - FFS: Facial feminization surgery 面部女性化手术
-  [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他療法)
+  [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他疗法)
 - VFS: Voice feminization surgery 声音女性化手术
   [本站板块]({{< ref "vocal-training" >}})
 - AG: Autogynephilia 幻想变性性兴奋理论
