@@ -28,12 +28,16 @@ weight: 10
 - 正在建设中的 Telegram 同步机以频道形式推送内容，获取邀请链接请在任一其他平台联系我们
 - Limelight 主机请前往 Limelight 搜索关键词「跨性别相关 bot」
 
+### Telegram 交流群 {#tg-group}
+
+- 跨儿音游组电报分部 [@otoge_trans](https://t.me/otoge_trans)
+
 ### awesome trans <img src="trans-flag.svg" class="trans-flag" /> (Twitter)
 
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
 
 - Twitter: <https://twitter.com/awesometrans_zh>
-- Telegram: <http://t.me/awesometrans_zh>
+- Telegram: <https://t.me/awesometrans_zh>
 - 邮箱: <awesome-trans@outlook.com>
 
 ### FtM (Female to Male) Wiki

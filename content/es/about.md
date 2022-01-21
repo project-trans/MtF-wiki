@@ -19,15 +19,14 @@ La {{<mtf-wiki>}} se compromete a ser un sitio de integración de conocimientos 
 Fundadora: {{< gh-profile "kenchiu233" >}}
 
 {{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
-Maintainance of code and site
 
-{{< gh-profile "saeziae" >}}&nbsp;<i@estela.cn>
-Editora china en Shanghái, traductora
+{{< gh-profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 
 {{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
-Editora china en Pekín
 
 {{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
+
+{{< gh-profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 
 Gracias a los contribuyentes de GitHub:
 

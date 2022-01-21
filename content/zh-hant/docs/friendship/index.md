@@ -5,11 +5,10 @@ weight: 10
 
 <link rel="stylesheet" href="main.css">
 
-### QQ 交流群 {#qq-group}
+### Telegram 交流群 {#tg-group}
 
-<img src="trans-arch.png" class="inline-img">**Arch 木桶飯** [782820926](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
-
-<img src="trans-otoge.png" class="inline-img" alt="跨兒音遊組"> [717099350](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
+- 逆光小鎮  聯繫[@rikablossom](https://t.me/rikablossom)加入
+- 跨兒音遊組 [@otoge_trans](https://t.me/otoge_trans)
 
 ### awesome trans <img src="trans-flag.svg" class="trans-flag" /> (Twitter)
 

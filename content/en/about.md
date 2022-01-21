@@ -21,15 +21,14 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki
 Founder: {{< gh-profile "kenchiu233" >}}
 
 {{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
-Maintainance of code and site
 
-{{< gh-profile "saeziae" >}}&nbsp;<i@estela.cn>
-Chinese editor of Shanghai. Translator
+{{< gh-profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 
 {{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
-Chinese editor of Beijing
 
 {{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
+
+{{< gh-profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 
 Thanks goes to these GitHub contributors:
 

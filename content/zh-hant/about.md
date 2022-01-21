@@ -21,16 +21,14 @@ weight: 0
 創始人：{{< gh-profile "kenchiu233" >}}
 
 {{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
-站點與程式碼維護
 
-{{< gh-profile "saeziae" >}}&nbsp;<i@estela.cn>
-藥物板塊、長三角地區編輯維護，映象維護，外文翻譯
+{{< gh-profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 
 {{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
-北京地區編輯維護
 
 {{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-手术医疗相关板块维护
+
+{{< gh-profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 
 以及感謝所有 GitHub 貢獻者：
 
