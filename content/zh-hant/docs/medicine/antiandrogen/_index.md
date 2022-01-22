@@ -4,6 +4,6 @@ weight: 4
 collapsible: true
 ---
 
-[HRT 總述]({{< ref "hrt-overview" >}})
+[GAHT 總述]({{< ref "hrt-overview" >}})
 
 [進行激素檢查]({{< ref "hormone-check" >}})
