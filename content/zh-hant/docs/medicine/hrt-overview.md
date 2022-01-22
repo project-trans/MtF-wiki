@@ -9,7 +9,8 @@ aliases:
 激素替代治療（HRT）指的是透過攝入性激素或相關藥物，讓跨性別者的第二性徵能更貼近他們的性別認同，體驗所認同性別的生理狀態，幫助接納自我。
 
 {{< notice info“提示”>}}
-對於跨性別人士的激素治療，已有新的表述管道：性別肯定激素治療（英文：Gender-Affirming Hormone Therapy，縮寫為GAHT）。 
+對於跨性別人士的激素治療，已有新的表述管道：
+性別肯定激素治療（英文：Gender-Affirming Hormone Therapy，縮寫為GAHT）。 
 {{< /notice >}}
 
 {{< notice warning "請根據自身情況進行" >}}
