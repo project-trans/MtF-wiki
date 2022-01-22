@@ -11,6 +11,11 @@ title: 贡献者指南
 1. 问诊细节
 1. 注意事项
 
+{{< notice info "提示" >}}
+对于跨性别人士的激素治疗，已有新的表述方式：
+性别肯定激素治疗（英文：Gender-Affirming Hormone Therapy，缩写为 GAHT）。
+{{< /notice >}}
+
 ## 关于图片资源
 
 如果该图片为对纸质材料的拍摄请使用 Microsoft Lens (fbk Office Lens) 进行扫描以便于提供更好的阅读体验
