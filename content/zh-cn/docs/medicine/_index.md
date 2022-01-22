@@ -1,5 +1,5 @@
 ---
-title: 药物／HRT
+title: 药物／GAHT
 weight: 1
 collapsible: true
 ---
