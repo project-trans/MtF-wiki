@@ -9,3 +9,5 @@ collapsible: true
 [进行激素检查]({{< ref "hormone-check" >}})
 
 [自购药防诈骗]({{< ref "anti-fraud" >}})
+
+[有关GAHT]({{< ref "gaht-about" >}})
