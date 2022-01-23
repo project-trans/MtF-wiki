@@ -19,4 +19,3 @@ weight: 35
 > 郭树忠教授做性别重置手术已经二十多年，手术经验非常丰富，但如何用最小的代价，获得最好的效果，把手术风险降到最低，一直是郭教授团队持续努力研究改进的方向。此次使用达芬奇机器人手术，视野更加清晰，操作更加精准，创伤更小，风险更低、效果更好。
 
 TODO 待补充更多信息
-diff --git a/content/zh-cn/docs/srs/china/xagj b/content/zh-cn/docs/srs/china/xagj
