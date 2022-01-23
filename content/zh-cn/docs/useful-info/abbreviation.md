@@ -27,6 +27,8 @@ title: 缩写词语表
   [维基百科](https://zh.wikipedia.org/zh-cn/实际生活体验)
 - HRT: Hormone replacement therapy 激素替代疗法
   [本站板块]({{< ref "hrt-overview" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/激素替代疗法)
+- GAHT: Gender-Affirming Hormone Therapy 性别肯定激素治疗
+  [维基百科](https://zh.wikipedia.org/zh-cn/性别肯定激素治疗)
 - SRS: Sex reassignment surgery 性别重置手术
   [本站板块](/zh-cn/docs/srs/faq)｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
   有时也会被称之为：GRS (gender reassignment surgery)
