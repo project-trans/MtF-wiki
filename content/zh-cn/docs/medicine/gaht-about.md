@@ -1,4 +1,4 @@
---
+---
 title: 有关GAHT
 weight: 1
 aliases:
