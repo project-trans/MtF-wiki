@@ -3,6 +3,8 @@ title: 成都｜李慧
 weight: 1
 ---
 
+{{< notice info >}} 李阿姨下乡了！大概4月回来。期间可以找同院周波开证，情况基本相同。 {{< /notice >}}
+
 {{< doctor-image src="doctor.jpg" >}}
 
 {{< tag-pos 可与家长沟通 >}} {{< tag-neg "观察期 1 年" >}}
