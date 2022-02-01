@@ -15,12 +15,12 @@ weight: 41
 
 电话：{{< telephone "+66 0-2078-8919" >}}
 
-[![LINE wihhospital](https://img.shields.io/static/v1?label=LINE&logo=LINE&message=wihhospital&color=00C300&style=flat-square)](https://page.line.me/wihhospital)
+[{{< shields-line "wihhospital" >}}](https://page.line.me/wihhospital)
 
 [官网介绍](https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==)
 
-
-医疗中介：梁金 ![微信 liangjin3039](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&logo=WeChat&message=liangjin3039&color=07C160&style=flat-square) ![LINE jin235](https://img.shields.io/static/v1?label=LINE&logo=LINE&message=jin235&color=00C300&style=flat-square) 微信公众号「破茧成碟BY梁金」<jinliang222@gmail.com>
+医疗中介：梁金 {{< shields-line "liangjin3039" >}}、{{< shields-wechat "jin235" >}}、<jinliang222@gmail.com>
+微信公众号「破茧成碟BY梁金」
 
 ### 价格
 

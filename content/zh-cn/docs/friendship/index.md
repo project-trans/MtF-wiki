@@ -16,8 +16,8 @@ weight: 10
 
 ### Telegram 交流群 {#tg-group}
 
-- 逆光小鎮  联系[@rikablossom](https://t.me/rikablossom)加入
-- 跨兒音遊組 [@otoge_trans](https://t.me/otoge_trans)
+- 逆光小镇：联系 <https://t.me/rikablossom> 加入
+- 跨儿音游组：<https://t.me/otoge_trans>
 
 ### 跨性别相关 bot（QQ）{#trans-related-bot}
 
@@ -32,15 +32,15 @@ weight: 10
 
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
 
-- Twitter: <https://twitter.com/awesometrans_zh>
-- Telegram: <https://t.me/awesometrans_zh>
-- 邮箱: <awesome-trans@outlook.com>
+- Twitter：<https://twitter.com/awesometrans_zh>
+- Telegram：<https://t.me/awesometrans_zh>
+- 邮箱：<awesome-trans@outlook.com>
 
 ### 猫猫大陆 Minecraft
 
-一个关注跨性别权益的 Minecraft 玩家群体与游戏服务器 <https://www.catland.top/> <img src="//pub.idqqimg.com/wpa/images/group.png" border="0">
+一个关注跨性别权益的 Minecraft 玩家群体与游戏服务器 <https://www.catland.top>
 
-### FtM (Female to Male) Wiki
+### FtM (Female-to-Male) Wiki
 
 <https://ftm.wiki>
 
