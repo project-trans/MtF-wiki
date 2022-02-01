@@ -18,7 +18,7 @@ weight: 10
 - Telegram: <http://t.me/awesometrans_zh>
 - 郵箱: <awesome-trans@outlook.com>
 
-### FtM (Female to Male) Wiki
+### FtM (Female-to-Male) Wiki
 
 <https://ftm.wiki>
 
