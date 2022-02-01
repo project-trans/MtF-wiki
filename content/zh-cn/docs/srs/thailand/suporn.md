@@ -1,8 +1,6 @@
 ---
 title: Suporn 诊所
 weight: 43
-aliases:
-  - suporn
 ---
 
 ## 价格
@@ -29,7 +27,7 @@ Suporn 诊所提供可通入的宽度为 26、32、35、37mm，长度为 20cm �
 
 ## 相关资料
 
-*2019 Suporn Watanyusakul: Vaginoplasty Modifications to Improve Vulvar Aesthetics*
+2019 Suporn Watanyusakul: Vaginoplasty Modifications to Improve Vulvar Aesthetics
 
 [若干 Suporn 手术对象写的 handbook，包含大量有用信息](https://s3.amazonaws.com/Joped/Suporn2015.pdf)
 

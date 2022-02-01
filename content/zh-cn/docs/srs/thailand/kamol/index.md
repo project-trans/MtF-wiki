@@ -1,8 +1,6 @@
 ---
 title: Kamol
 weight: 42
-aliases:
-  - kamol
 ---
 
 Kamol 提供包括 0 深度、改进 PI、结肠 和 腹膜 在内的 多种 SRS．

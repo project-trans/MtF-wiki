@@ -1,8 +1,6 @@
 ---
 title: Thiti 医生
 weight: 44
-aliases:
-  - thiti
 ---
 价格：6 万人民币（皮瓣）
 

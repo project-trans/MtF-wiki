@@ -13,4 +13,3 @@ weight: 0
 ## 证明样式
 
 ![证明](proof.jpg)
-

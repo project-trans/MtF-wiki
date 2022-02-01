@@ -80,7 +80,6 @@ B 超（~~照奶子~~）当场有结果。
 
 ## 复诊
 
-
 {{< expand "随访单（微信）" >}}
 ![Follow-up sheet](follow-up-sheet.jpg)
 {{< /expand >}}
