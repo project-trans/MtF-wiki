@@ -7,7 +7,7 @@ weight: 46
 
 医院：[米兰达整形医院（Milada Cosmetic Surgery Hospital）](https://g.page/milada_hospital)
 
-中文热线：[+66-89-794-0811](tel:+66897940811)
+中文热线：{{< telephone "+66 89-794-0811" >}}
 邮箱：<china_info@miladahospital.com>、<miladahospital@gmail.com>
 Line ID：`miladahospital`
 微信：`Milada0897940811`

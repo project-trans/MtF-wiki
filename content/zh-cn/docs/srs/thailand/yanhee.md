@@ -3,7 +3,7 @@ title: Yanhee 医院
 weight: 45
 ---
 
-联系电话：[+66-86-386-1299](tel:+66863861299)
+联系电话：{{< telephone "+66 86-386-1299" >}}
 
 联系邮箱：<china@yanhee.net>
 
