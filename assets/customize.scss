@@ -76,6 +76,15 @@ a.github-profile {
   text-align: right;
 }
 
-.single__contents blockquote {
-  padding: 0;
+.single__contents {
+  h2 {
+    margin-top: 1.5rem;
+  }
+  blockquote {
+    padding: 0;
+  }
+}
+
+.notices {
+  padding-left: 0.5em;
 }
