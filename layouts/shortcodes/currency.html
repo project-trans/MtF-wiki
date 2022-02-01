@@ -1,5 +1,5 @@
 {{- $from := .Get "from" -}}
-{{- $to := .Get "to" -}}
+{{- $to := default "CNY" (.Get "to") -}}
 {{- $value := float (.Get "value") -}}
 {{- with getJSON (printf "https://api.exchangerate-api.com/v4/latest/%s" $from) -}}
 <abbr class="currency">

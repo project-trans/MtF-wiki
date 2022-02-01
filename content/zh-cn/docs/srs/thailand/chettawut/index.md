@@ -17,9 +17,9 @@ weight: 41
 
 手术费用：
 
-- 皮瓣 {{< currency from="THB" to="CNY" value="330000" >}}
+- 皮瓣 {{< currency from="THB" value="330000" >}}
 
-酒店费用：{{< currency from="THB" to="CNY" value="1100" >}} 一天，大概需要 3 ~ 4 周。
+酒店费用：{{< currency from="THB" value="1100" >}} 一天，大概需要 3 ~ 4 周。
 
 **预约**：可以找中介梁金（微信：`liangjin3039`），也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系
 
@@ -55,7 +55,7 @@ Chet 的技术与 Suporn 类似，使用阴囊皮瓣作为阴道内壁和大阴�
 
     其中可以自行提供一份中国的医院证明（翻译成英文，注意：证明上必须写有<u>建议手术</u>的字样）
     {{< expand "样例">}}![diagnosis](diagnosis.png){{< /expand >}}
-    泰国心理医生价格 {{< currency from="THB" to="CNY" value="2500" >}} 每位
+    泰国心理医生价格 {{< currency from="THB" value="2500" >}} 每位
 
 1. 术前检查项目（建议在中国医院做好翻译成英文）：
 
