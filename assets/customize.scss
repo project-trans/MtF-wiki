@@ -85,6 +85,17 @@ a.github-profile {
   }
 }
 
+.single__contents[data-dir=ltr]  {
+  ol > li, ul > li {
+    ol > li, ul > li {
+      margin-left: 1.5rem;
+    }
+  }
+}
+
 .notices {
   padding-left: 0.5em;
+  ol, ul {
+    padding-left: 1rem;
+  }
 }
