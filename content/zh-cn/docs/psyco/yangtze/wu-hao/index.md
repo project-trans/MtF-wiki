@@ -7,7 +7,7 @@ weight: 1
 
 {{< tag-pos 可与家长沟通 >}} {{< tag-neg "多次就诊" >}} {{< tag-neg "昂贵" >}}
 
-医生姓名：吴皓
+医生姓名：[吴皓](http://www.srrsh.com/jiuzheng/professional/detail221.html)
 
 所在医院：[浙江大学附属医院邵逸夫医院](http://www.srrsh.com/)
 
