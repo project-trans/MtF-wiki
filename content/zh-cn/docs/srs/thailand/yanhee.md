@@ -20,5 +20,5 @@ weight: 45
 
 ## 价格
 
-皮瓣（PI）：345,000 泰铢 包含9晚住院
-结肠：430,000 泰铢 包含7晚住院
+皮瓣（PI）：{{< currency from="THB" to="CNY" value="345000" >}} 包含 9 晚住院
+结肠：{{< currency from="THB" to="CNY" value="430000" >}} 包含 7 晚住院

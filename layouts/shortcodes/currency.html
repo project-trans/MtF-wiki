@@ -1,0 +1,9 @@
+{{- $from := .Get "from" -}}
+{{- $to := .Get "to" -}}
+{{- $value := float (.Get "value") -}}
+{{- with getJSON (printf "https://api.exchangerate-api.com/v4/latest/%s" $from) -}}
+<abbr class="currency">
+  <span class="from">{{- lang.FormatCurrency 2 $from $value -}}</span>
+  <span class="to">（约折合 {{ lang.FormatCurrency 2 $to (mul $value (index .rates $to)) }}）</span>
+</abbr>
+{{- end -}}
