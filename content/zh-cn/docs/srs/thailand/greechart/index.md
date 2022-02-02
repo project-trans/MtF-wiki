@@ -9,8 +9,8 @@ weight: 46
 
 中文热线：{{< telephone "+66 89-794-0811" >}}
 邮箱：<china_info@miladahospital.com>、<miladahospital@gmail.com>
-Line ID：`miladahospital`
-微信：`Milada0897940811`
+LINE ID：{{< shields-line "miladahospital" >}}
+微信：{{< shields-wechat "Milada0897940811" >}}
 
 ## 术后效果
 

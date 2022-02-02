@@ -19,8 +19,8 @@ title: 縮寫詞語表
   transM: 跨性別男性
   transles: 跨性別女同性戀（即其中一方為 transF）
   transgay: 跨性別男同性戀（即其中一方為 transM）
-  Female to Male: 女跨男（FtM）
-  Male to Female: 男跨女（MtF）
+  Female-to-Male: 女跨男（FtM）
+  Male-to-Female: 男跨女（MtF）
   FtX, MtX: 認為自己不屬於指派性別，同時也不完全屬於另一個性別（借自日語，X 為 Xジェンダー X-gender，即 non-binary 非二元）
   TS: 變性者（Transsexual）
 - RLE: Real-life experience 實際生活體驗
