@@ -85,9 +85,11 @@ a.github-profile {
   }
 }
 
-.single__contents[data-dir=ltr]  {
-  ol > li, ul > li {
-    ol > li, ul > li {
+.single__contents[data-dir="ltr"] {
+  ol > li,
+  ul > li {
+    ol > li,
+    ul > li {
       margin-left: 1.5rem;
     }
   }
@@ -95,7 +97,23 @@ a.github-profile {
 
 .notices {
   padding-left: 0.5em;
-  ol, ul {
+  ol,
+  ul {
     padding-left: 1rem;
+  }
+}
+
+p.text-center {
+  text-align: center;
+}
+
+span.shadow-text {
+  color: #252525;
+  background-color: #252525;
+  text-shadow: none;
+  &:hover,
+  &:active {
+    transition: color 0.13s linear;
+    color: #fff;
   }
 }
