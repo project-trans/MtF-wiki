@@ -7,9 +7,9 @@ weight: 10
 
 ### QQ 交流群 {#qq-group}
 
-- <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{<shields-qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
+- <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields-qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
-- <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{<shields-qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
+- <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{< shields-qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
 - **411 MtF SRS 术后交流群**：该 [411]({{< ref "sh411" >}}) MtF SRS 术后交流群采取纯邀请制，请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
 - **泰国手术交流群**：已安排、正在、已经在泰国手术的姐妹，请联络上方「跨儿音游组」群主以加入
@@ -38,7 +38,7 @@ weight: 10
 
 ### 猫猫大陆 Minecraft
 
-一个关注跨性别权益的 Minecraft 玩家群体与游戏服务器 <https://www.catland.top> [{{<shields-qq 705754458 >}}](https://qm.qq.com/cgi-bin/qm/qr?k=q5ZCoXvb9xsy3AwxbEIox_vsUfgugBi_)
+一个关注跨性别权益的 Minecraft 玩家群体与游戏服务器 <https://www.catland.top> [{{< shields-qq 705754458 >}}](https://qm.qq.com/cgi-bin/qm/qr?k=q5ZCoXvb9xsy3AwxbEIox_vsUfgugBi_)
 
 ### FtM (Female-to-Male) Wiki
 

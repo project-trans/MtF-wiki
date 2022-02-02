@@ -52,5 +52,5 @@ LESGO 是由志愿者自发组成以女性为主体的 LGBT 公益社团。成�
 Twitter：<https://twitter.com/YNParallel>
 Facebook：<https://facebook.com/ynparallel>
 微信公众号：云南平行
-电话：`0871-6337-9065`、`180-6482-4919`
-QQ 群：`170530694`
+电话：{{< telephone "+86 0871-6337-9065" >}}、{{< telephone "+86 180-6482-4919" >}}
+QQ 群：{{< shields-qq 170530694 >}}
