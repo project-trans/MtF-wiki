@@ -3,7 +3,7 @@ title: 长沙｜张小崔
 weight: 1
 ---
 
-{{< doctor-image src="doctor.jpg" >}}
+{{< doctor-image src="doctor.jpeg" >}}
 
 医生姓名：[张小崔](https://www.haodf.com/doctor/4995462606.html)
 
