@@ -41,16 +41,19 @@ weight: 0
 
 Discord [![Discord][badge-discord]](https://233.plus/discord)
 
-Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
+Twitter {{< shields-twitter mtfwiki >}}
 
 GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 邮件 <mtf@kuaer.club>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
+## ~~办公地点~~
+{{< expand "谨慎展开">}}
+![](/images/33cll.png)
+{{< /expand >}}
 ## 致谢
 
 本项目目前采用 [Hugo][hugo-url] 部署在 [GitHub Pages][pages-url]．主题使用 [zdoc][zdoc-url]，对此表示感谢！

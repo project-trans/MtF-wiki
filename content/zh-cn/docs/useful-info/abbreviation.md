@@ -41,3 +41,4 @@ title: 缩写词语表
 - AG: Autogynephilia 幻想变性性兴奋理论
 - CD: Cross-dressing 异装
   [维基百科](https://zh.wikipedia.org/zh-cn/异性装扮)
+- [WPATH](https://www.wpath.org/) 世界跨性别人士健康专业协会
