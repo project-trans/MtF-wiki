@@ -19,7 +19,7 @@ weight: 41
 
 [官網介紹](https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==)
 
-醫療中介：梁金 {{< shields-line "liangjin3039" >}}、{{< shields-wechat "jin235" >}}、<jinliang222@gmail.com>
+醫療中介：梁金 {{< shields-wechat "liangjin3039" >}}、{{< shields-line "jin235" >}}、<jinliang222@gmail.com>
 微信公眾號「破繭成碟BY梁金」
 
 手術費用：
