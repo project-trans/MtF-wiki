@@ -3,7 +3,7 @@ title: 上海長海醫院｜趙燁德
 weight: 31
 ---
 
-{{< doctor-image src="doctor.jpg" >}}
+![趙燁德照片](/images/chhospital/zyd.jpg)
 
 醫生姓名：[趙燁德](https://www.haodf.com/doctor/6964528056.html)[^1]
 
@@ -15,7 +15,7 @@ weight: 31
 
 1. 年齡滿 20 週歲
 1. 易性症證明（任何三甲開具的診斷證明都可以，承認影印件）
-1. [父母同意書](icf.pdf)（模版，建議公證）
+1. [父母同意書](/files/chhospital/icf.pdf)（模版，建議公證）
 1. [BMI](https://zh.wikipedia.org/zh-cn/身體質量指數) 需要控制在正常範圍以內（推薦小於 24，如意願強烈最大允許 BMI 28）
 1. 術前一個月需要停止 HRT 程式，防止血栓風險
 1. 無 [HIV](https://zh.wikipedia.org/zh-cn/HIV)
@@ -45,7 +45,7 @@ weight: 31
 1. 氣墊床 150 元（可選，需提前告知護工）
 1. 公證費 500 元
 
-住院期間費用構成請參見：[費用清單](fee-list.pdf)
+住院期間費用構成請參見：[費用清單](/files/chhospital/fee-list.pdf)
 
 **若只切除性腺，約需要費用 8k**
 
@@ -153,7 +153,7 @@ weight: 31
 
 - 2021 年 6 月手術，術後 7 個月拍攝：
   {{< expand "展開檢視" >}}
-  ![srs-photo](postoperative-1.jpg)
+  ![術後照片](/images/chhospital/postoperative-1.jpg)
   {{< /expand >}}
 
 [^1]: 醫生叫趙燁德，不叫趙博。

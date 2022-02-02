@@ -11,7 +11,7 @@ weight: 10
   听说你们小药娘人均写代码
 - <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{<shields-qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
-- **411 MtF SRS 术后交流群**：该 [411]({{< ref "sh411" >}}) MtF SRS 术后交流群采取纯邀请制，请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
+- **411 MtF SRS 术后交流群**：该 [411]({{< ref "/docs/srs/china/chhospital" >}}) MtF SRS 术后交流群采取纯邀请制，请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
 - **泰国手术交流群**：已安排、正在、已经在泰国手术的姐妹，请联络上方「跨儿音游组」群主以加入
 
 ### Telegram 交流群 {#tg-group}

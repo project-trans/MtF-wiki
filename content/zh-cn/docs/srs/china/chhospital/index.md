@@ -3,7 +3,7 @@ title: 上海长海医院｜赵烨德
 weight: 31
 ---
 
-{{< doctor-image src="doctor.jpg" >}}
+![赵烨德照片](/images/chhospital/zyd.jpg)
 
 医生姓名：[赵烨德](https://www.haodf.com/doctor/6964528056.html)[^1]
 
@@ -19,7 +19,7 @@ weight: 31
 
 1. 年龄满 20 周岁
 1. 易性症证明（任何三甲开具的诊断证明都可以，承认复印件）
-1. [父母同意书](icf.pdf)（模版，建议公证）
+1. [父母同意书](/files/chhospital/icf.pdf)（模版，建议公证）
 1. [BMI](https://zh.wikipedia.org/zh-cn/身体质量指数) 需要控制在正常范围以内（推荐小于 24，如意愿强烈最大允许 BMI 28）
 1. 术前一个月需要停止 HRT 程序，防止血栓风险
 1. 无 [HIV](https://zh.wikipedia.org/zh-cn/HIV)
@@ -49,7 +49,7 @@ weight: 31
 1. 气垫床 150 元（可选，需提前告知护工）
 1. 公证费 500 元
 
-住院期间费用构成请参见：[费用清单](fee-list.pdf)
+住院期间费用构成请参见：[费用清单](/files/chhospital/fee-list.pdf)
 
 **若只切除性腺，约需要费用 8k**
 
@@ -157,7 +157,7 @@ weight: 31
 
 - 2021 年 6 月手术，术后 7 个月拍摄：
   {{< expand "展开查看" >}}
-  ![srs-photo](postoperative-1.jpg)
+  ![术后照片](/images/chhospital/postoperative-1.jpg)
   {{< /expand >}}
 
 ## 其他事项
