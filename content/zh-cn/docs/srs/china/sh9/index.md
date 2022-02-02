@@ -23,7 +23,7 @@ weight: 32
 - [麻荪香](https://www.haodf.com/doctor/599858232.html)（副主任医师）
 - [程开祥](https://www.haodf.com/doctor/12887.html)（副主任医师）
 
-## 前置条件
+## 前置条件 {#prerequisites}
 
 1. 达到 20 周岁以上
 1. 以心理认同的性别至少生活一年以上（RLE）

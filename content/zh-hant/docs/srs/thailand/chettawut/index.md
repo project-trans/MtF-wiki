@@ -15,12 +15,12 @@ weight: 41
 
 電話：{{< telephone "+66 0-2078-8919" >}}
 
-[![LINE wihhospital](https://img.shields.io/static/v1?label=LINE&logo=LINE&message=wihhospital&color=00C300&style=flat-square)](https://page.line.me/wihhospital)
+[{{< shields-line "wihhospital" >}}](https://page.line.me/wihhospital)
 
 [官網介紹](https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==)
 
-
-醫療中介：梁金 ![微信 liangjin3039](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&logo=WeChat&message=liangjin3039&color=07C160&style=flat-square) ![LINE jin235](https://img.shields.io/static/v1?label=LINE&logo=LINE&message=jin235&color=00C300&style=flat-square) 微信公眾號「破繭成碟BY梁金」<jinliang222@gmail.com>
+醫療中介：梁金 {{< shields-line "liangjin3039" >}}、{{< shields-wechat "jin235" >}}、<jinliang222@gmail.com>
+微信公眾號「破繭成碟BY梁金」
 
 ### 價格
 
@@ -61,7 +61,7 @@ Chet 的技術與 [Suporn]({{< ref "suporn" >}}) 類似，使用陰囊皮瓣作�
     - 肝臟疾病（包括乙型肝炎和丙型肝炎）
     - 艾滋病毒攜帶者（無論有症狀還是無症狀艾滋病毒攜帶者）
     - 深靜脈血栓
-    - 癌症患者和一切有可能引起併發症的慢性疾病}
+    - 癌症患者和一切有可能引起併發症的慢性疾病
 
 1. BMI <= 33， 結腸重塑陰道手術 BMI < 25
 

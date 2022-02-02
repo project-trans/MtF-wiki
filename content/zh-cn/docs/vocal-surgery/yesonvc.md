@@ -5,7 +5,7 @@ weight: 0
 
 ## 官网介绍
 
-[官网介绍](https://cn.yesonvc.com/page/2_4_1.php)
+<https://cn.yesonvc.com/page/2_4_1.php>
 
 ## 注意事项
 
@@ -15,9 +15,10 @@ weight: 0
 
 ## 费用
 
-8000 USD (注意时效性，仅供参考)
+（请注意时效性，仅供参考）
+{{< currency from="USD" value="8000" >}}
 
 ## 预约方式
 
-诊疗预约：+82-2-3444-0550
-在线诊疗咨询：china@yesonvc.com
+诊疗预约：{{< telephone "+82 2-3444-0550" >}}
+在线诊疗咨询：<china@yesonvc.com>

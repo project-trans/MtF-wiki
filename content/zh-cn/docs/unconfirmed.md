@@ -1,7 +1,5 @@
 ---
 title: 未确认列表
-aliases:
-  - unexplored
 ---
 
 如果您有探索请发送邮件至 <mtf@kuaer.club>

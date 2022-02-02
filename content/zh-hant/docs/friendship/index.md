@@ -20,7 +20,8 @@ weight: 10
 
 ### 猫猫大陆 Minecraft
 
-一個關注跨性別權益的 Minecraft 玩家群體與遊戲伺服器  <https://www.catland.top/> <img src="//pub.idqqimg.com/wpa/images/group.png" border="0">
+一個關注跨性別權益的 Minecraft 玩家群體與遊戲伺服器  <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=q5ZCoXvb9xsy3AwxbEIox_vsUfgugBi_&amp;jump_from=webapi"><img src="//pub.idqqimg.com/wpa/images/group.png"></a>
+
 
 ### FtM (Female to Male) Wiki
 
