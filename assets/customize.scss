@@ -86,6 +86,9 @@ a.github-profile {
 }
 
 .single__contents[data-dir="ltr"] {
+  a {
+    text-decoration: none;
+  }
   ol > li,
   ul > li {
     ol > li,
@@ -117,3 +120,4 @@ span.shadow-text {
     color: #fff;
   }
 }
+

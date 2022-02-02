@@ -20,6 +20,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
 hostName = "https://mtf.wiki"
 custom_css = [
+  "microtip.css",
   "customize.scss"
 ]
 custom_js = [
