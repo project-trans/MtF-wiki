@@ -1,10 +1,11 @@
 ---
-title: 有关ICD-11
-description: 有关ICD11实行以后的信息（2022年1月更新）
+title: 有关 ICD-11
+description: 有关 ICD-11 实行以后的信息（2022 年 1 月更新）
 weight: 21
 ---
 
 ## 有关 ICD-11
+
 <https://zhuanlan.zhihu.com/p/53190964>
 
 2022 年中国大陆各个医院将陆续推行 ICD-11 系统
