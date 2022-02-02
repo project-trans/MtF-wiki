@@ -4,6 +4,6 @@
 {{- with getJSON (printf "https://api.exchangerate-api.com/v4/latest/%s" $from) -}}
 <abbr class="currency">
   <span class="from">{{- lang.FormatCurrency 2 $from $value -}}</span>
-  <span class="to">（ ≈ {{ lang.FormatCurrency 2 $to (mul $value (index .rates $to)) }}）</span>
+  <span class="to">&asymp; {{ lang.FormatCurrency 2 $to (mul $value (index .rates $to)) }}</span>
 </abbr>
 {{- end -}}
