@@ -4,8 +4,6 @@ weight: 3
 collapsible: true
 ---
 
-[北医三院]({{< ref "pku3" >}})
-
 [上海中山医院｜李小英]({{< ref "li-xiaoying" >}})
 
 [上海九院｜程辰]({{< ref "sh9" >}})
