@@ -48,7 +48,7 @@ GD 即为 gender dysphoria 的缩写
 
 ## 魔法党
 
-指国产 GalGame [<del>破防</del>恋爱绮谭~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)中的 MtF 女主角[苏半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
+指国产 GalGame [~~破防~~恋爱绮谭~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)中的 MtF 女主角[苏半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
 
 <p class="text-center">
     我啊，希望自己能做一个普通的女孩子。
