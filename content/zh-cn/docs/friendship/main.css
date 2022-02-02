@@ -4,12 +4,14 @@
   vertical-align: middle;
   border: none !important;
 }
-
 .trans-flag {
-  display: inline-block !important;
-  height: 1em;
-  width: 1em;
-  margin: 0 0.05em 0 0.1em !important;
-  vertical-align: middle;
-  border: none !important;
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    margin: 0 0.05em 0 0.1em;
+    vertical-align: -0.1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1em 1em;
+    background-image: url('/images/trans-flag.svg');
 }

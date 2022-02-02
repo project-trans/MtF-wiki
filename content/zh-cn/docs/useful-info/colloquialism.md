@@ -1,6 +1,45 @@
 ---
 title: 通俗用语表
 ---
+<style>
+.heimu,
+.heimu rt {
+ background-color:#252525;
+}
+span.heimu a.external,
+span.heimu a.external:visited,
+span.heimu a.extiw,
+span.heimu a.extiw:visited {
+ color:#252525
+}
+.heimu,
+.heimu a,
+a .heimu,
+.heimu a.new {
+ color:#252525;
+ text-shadow:none;
+}
+body:not(.heimu_toggle_on) .heimu:hover,
+body:not(.heimu_toggle_on) .heimu:active,
+body:not(.heimu_toggle_on) .heimu.off {
+ transition:color .13s linear;
+ color:white
+}
+body:not(.heimu_toggle_on) .heimu:hover a,
+body:not(.heimu_toggle_on) a:hover .heimu,
+body:not(.heimu_toggle_on) .heimu.off a,
+body:not(.heimu_toggle_on) a:hover .heimu.off {
+ transition:color .13s linear;
+ color:lightblue
+}
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off,
+body:not(.heimu_toggle_on) .heimu:hover .new {
+ transition:color .13s linear;
+ color:#FCC
+}
+</style>
 
 以下解释均为一般化理解，仅供参考。
 
@@ -45,6 +84,15 @@ GD 即为 gender dysphoria 的缩写
 名词。指通过医院诊断等方法发现自己天生具有某些稀有异性生理特质的跨儿。
 “抽奖”即指在医院进行相关诊断，如外周血染色体、腹部平扫等。
 科普视频：[人类有多少种生理性别？你的性别是什么决定的？](https://www.bilibili.com/video/BV1bZ4y1c7eh/)
+
+## 魔法党
+
+指国产 GalGame [<del>破防</del>恋爱绮谭~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)中的 MtF 女主角[苏半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
+
+<center>我啊，希望自己能做一个普通的女孩子。<br><span title="你知道的太多了" class="heimu">「对我来说，做一个普通的女孩子，只是一种奢望。」</span></center>
+{{< expand "谨慎展开">}}
+![](/images/33cll.png)
+{{< /expand >}}
 
 ## 药娘头
 

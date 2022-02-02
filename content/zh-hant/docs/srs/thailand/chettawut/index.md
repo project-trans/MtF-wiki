@@ -26,9 +26,9 @@ weight: 41
 
 手術費用：
 
-- 皮瓣 {{< currency from="THB" value="330000" >}}
+- 皮瓣 {{< currency from="THB" to="TWD" value="330000" >}}
 
-酒店費用：{{< currency from="THB" value="1100" >}} 一天（大床房），大概需要 3 ~ 4 周。
+酒店費用：{{< currency from="THB" to="TWD" value="1100" >}} 一天（大床房），大概需要 3 ~ 4 周。
 
 <!-- 預約可以找中介，也可以透過 <chettawut@gmail.com> 或 <cset@truemail.co.th> 聯絡蔡醫生 -->
 <!-- 因改至WIH醫院，原聯絡方法存疑 -->
@@ -69,9 +69,9 @@ Chet 的技術與 [Suporn]({{< ref "suporn" >}}) 類似，使用陰囊皮瓣作�
 
 1. 手術需要兩位心理醫生的證明
 
-    其中可以自行提供一份中國的醫院證明（翻譯成英文，注意：證明上必須寫有<u>建議手術</u>的字樣）
+    其中可以自行提供一份您的國家地區的醫院證明（翻譯成英文，注意：證明上必須寫有<u>建議手術</u>的字樣）
     {{< expand "樣例">}}![diagnosis](diagnosis.png){{< /expand >}}
-    泰國心理醫生價格 {{< currency from="THB" value="2500" >}} 每位
+    泰國心理醫生價格 {{< currency from="THB" to="TWD" value="2500" >}} 每位
 
 1. 術前檢查專案（建議在中國醫院做好翻譯成英文）：
 

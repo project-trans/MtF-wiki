@@ -1,3 +1,3 @@
 {{- $message := .Get 0 -}}
-{{- $qs := querify "label" "微信" "logo" "WeChat" "message" $message "color" "07C160" "style" "flat-square" -}}
-<img class="shields-icon" alt="微信 {{ $message }}" src="https://img.shields.io/static/v1?{{ $qs | safeURL }}" />
+{{- $qs := querify "label" "WeChat" "logo" "WeChat" "message" $message "color" "07C160" "style" "flat-square" -}}
+<img class="shields-icon" alt="WeChat {{ $message }}" src="https://img.shields.io/static/v1?{{ $qs | safeURL }}" />
