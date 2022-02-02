@@ -4,10 +4,22 @@ draft: false
 ---
 
 <!--咕咕-->
+## 出行前物品准备
+
+- 先检查您的所有文件证件
+- 不用准备太多常服
+- 请准备两套以上睡裙
+- 不必携带 HRT 药物
+- 有长期用药的请计算好足够的量
+- 降噪耳机有助于改善您的旅程
+- 三脚插座请购买「美标」转换器
+- ~~记得带上你的鲨鲨Blåhaj~~
 
 ## 实用 APP
 
 显示国行 Android 手机的 Play Store [点这里](https://m.apkpure.com/google-play-store/com.android.vending/download) （需要手机本来内置谷歌服务）
+
+[谷歌翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) [百度翻译](https://fanyi-app.baidu.com/transapp/appdownloadpage)
 
 打车软件 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 

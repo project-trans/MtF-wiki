@@ -4,8 +4,19 @@ draft: false
 ---
 
 <!--咕咕-->
+## 出行前物品準備
+
+- 先檢查您的所有文件證件
+- 不用準備太多常服
+- 請準備兩套以上睡裙
+- 不必攜帶 HRT 藥物
+- 有長期用藥的請計算好足夠的量
+- 降噪耳機有助於改善您的旅程
+- 泰國使用 220V 電力，三腳插座標準兼容美國、臺灣樣式的插頭。
 
 ## 實用 APP
+
+[谷歌翻譯](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) 
 
 打車軟體 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 
@@ -30,7 +41,7 @@ draft: false
 
 ## 散裝泰語
 
-基本使用漢語拼音諧音表示，但是 e 表示 ye 的 e，用 ə 表示「額」的音。多一個聲調 â 發音比 ā 更高一點。
+基本使用漢語拼音諧音表示，用 e 表示 ㄝ，用 ə 表示 ㄜ 的音。多一個聲調 â 發音比 ā 更高一點。
 {{< csv-table >}}
 中文,散裝泰語
 好的、是的、對的,chài
