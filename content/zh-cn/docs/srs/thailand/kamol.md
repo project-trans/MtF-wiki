@@ -108,5 +108,5 @@ Kamol 提供包括 0 深度、改进 PI、结肠 和 腹膜 在内的 多种 SRS
 
 - 阴茎腹膜迷走神经成形术（SRS-PPV）
   {{< expand "展开查看" >}}
-  ![srs-photo](post1.jpg)
+  ![srs-photo](/images/srs/thailand/kamol/post1.jpg)
   {{< /expand >}}

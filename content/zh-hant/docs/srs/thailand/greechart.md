@@ -15,5 +15,5 @@ LINE ID：{{< shields-line "miladahospital" >}}
 ## 術後效果
 
 {{< expand "展開檢視" >}}
-![srs-photo](post-1.jpg)
+![srs-photo](/images/srs/thailand/greechart/post-1.jpg)
 {{< /expand >}}

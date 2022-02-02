@@ -1,0 +1,51 @@
+---
+title: 泰國旅行指南
+draft: false
+---
+
+<!--咕咕-->
+
+## 實用 APP
+
+打車軟體 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
+
+在泰國使用 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android) 點外賣，不需要本地手機號
+
+中餐外賣平臺 [悟空](https://play.google.com/store/apps/details?id=com.wukong.waimai)
+
+## 術前準備物品
+
+流食期間食物：
+- 椰汁推薦
+- 橙汁可能有果渣
+- 果凍沒有飽腹感
+- 蜂蜜推薦
+
+日用品準備：
+- Kleenex 軟抽紙
+- 嬰兒溼巾
+- 棉籤
+- Baby powder
+- 小鏡子（醫院出院可能提供）
+
+## 散裝泰語
+
+基本使用漢語拼音諧音表示，但是 e 表示 ye 的 e，用 ə 表示「額」的音。多一個聲調 â 發音比 ā 更高一點。
+{{< csv-table >}}
+中文,散裝泰語
+好的、是的、對的,chài
+不,mài
+謝謝,kǎob kūn kà
+行、可以,dài
+水,nâm
+廁所,hàong nâm
+去,bāi
+（很）疼,būad (màg)
+止痛藥,yā gè būad
+冷,yen
+調高溫度,pə̀m ūn hǎ pūm
+開/關空調,bəd/bid AC
+這/那個,ān nî/nàn
+在這/那兒, dōng nî/nàn
+等一下,ro sakrù
+{{< /csv-table >}}

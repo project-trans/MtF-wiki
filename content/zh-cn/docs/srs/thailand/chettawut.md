@@ -3,7 +3,7 @@ title: Chettawut 医生
 weight: 41
 ---
 
-{{< doctor-image src="doctor.jpg" >}}
+![](/images/srs/thailand/chettawut/doctor.jpg)
 
 {{< tag-pos "WPATH 成员" >}}
 
@@ -25,6 +25,8 @@ weight: 41
 手术费用：
 
 - 皮瓣 {{< currency from="THB" value="330000" >}}
+- 结肠 {{< currency from="THB" value="350000" >}}
+- 结肠（腹腔镜） {{< currency from="THB" value="450000" >}}
 
 酒店费用：{{< currency from="THB" value="1100" >}} 一天（大床房），大概需要 3 ~ 4 周。
 
@@ -68,7 +70,7 @@ Chet 的技术与 [Suporn]({{< ref "suporn" >}}) 类似，使用阴囊皮瓣作�
 1. 手术需要两位心理医生的证明
 
     其中可以自行提供一份中国的医院证明（翻译成英文，注意：证明上必须写有<u>建议手术</u>的字样）
-    {{< expand "样例">}}![diagnosis](diagnosis.png){{< /expand >}}
+    {{< expand "样例">}}![diagnosis](/images/srs/thailand/chettawut/diagnosis.png){{< /expand >}}
     泰国心理医生价格 {{< currency from="THB" value="2500" >}} 每位
 
 1. 术前检查项目（建议在中国医院做好翻译成英文）：
