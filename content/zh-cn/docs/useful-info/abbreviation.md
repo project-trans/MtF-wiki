@@ -30,7 +30,7 @@ title: 缩写词语表
 - GAHT: Gender-Affirming Hormone Therapy 性别肯定激素治疗
   [维基百科](https://zh.wikipedia.org/zh-cn/性别肯定激素治疗)
 - SRS: Sex reassignment surgery 性别重置手术
-  [本站板块](/zh-cn/docs/srs/faq)｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
+  [本站板块]({{< ref "../srs/faq" >}})｜[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
   有时也会被称之为：GRS (gender reassignment surgery)
 - SRT: Sex reassignment therapy 性别重置疗法
   [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法)

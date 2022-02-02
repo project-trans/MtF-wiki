@@ -1,8 +1,6 @@
 ---
 title: 进行激素检查
 weight: 2
-aliases:
-  - check
 ---
 
 ## 关于激素检查
@@ -110,8 +108,8 @@ aliases:
 
 ## 参考阅读
 
-1. <https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686>
-1. <https://www.uptodate.com/contents/transgender-women-evaluation-and-management>
+1. <https://www.MayoClinicLabs.com/test-catalog/overview/83686>
+1. <https://www.UpToDate.com/contents/transgender-women-evaluation-and-management>
 1. <https://zh.wikipedia.org/wiki/促卵泡激素>
 1. <https://zh.wikipedia.org/wiki/催乳素>
 1. <https://zh.wikipedia.org/wiki/孕酮>
