@@ -9,5 +9,8 @@
     "no-inline-html": false,
     "no-duplicate-header": false,
     "fenced-code-language": false
+  },
+  "files.associations": {
+    ".imgbotconfig": "jsonc"
   }
 }

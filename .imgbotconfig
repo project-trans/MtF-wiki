@@ -1,6 +1,4 @@
 {
-    "schedule": "weekly", // daily|weekly|monthly
-    "ignoredFiles": [
-        "*.svg"
-    ]
+  "schedule": "weekly", // daily|weekly|monthly
+  "ignoredFiles": ["*.svg"]
 }
