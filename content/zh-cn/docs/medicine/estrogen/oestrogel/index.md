@@ -13,6 +13,8 @@ weight: 1
 
 ### Oestrogel<sup>&reg;</sup>（爱斯妥）{#ai-si-tuo}
 
+用药方法：<https://www.bilibili.com/s/video/BV1eq4y1U71L>
+
 ![Oestrogel](oestrogel.jpg)
 
 - 产品名称：Oestrogel<sup>&reg;</sup>（爱斯妥）
