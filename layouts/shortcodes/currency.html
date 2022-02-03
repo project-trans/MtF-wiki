@@ -1,14 +1,11 @@
+{{- $units := slice "" "k" "M" -}}
 {{- $from := .Get "from" -}}
 {{- $to := default "CNY" (.Get "to") -}}
 {{- $value := float (.Get "value") -}}
-{{- with getJSON (printf "https://api.exchangerate-api.com/v4/latest/%s" $from) -}}
-<a
-  class="currency"
-  role="tooltip"
-  aria-label="&asymp; {{ lang.FormatCurrency 2 $to (mul $value (index .rates $to)) }}"
-  data-microtip-position="right"
-  href="https://google.com/search?q={{ $value }} {{ $from }} {{ $to }}"
->
-  {{- lang.FormatCurrency 2 $from $value -}}
+{{- $unit := math.Floor (div (math.Log $value) (math.Log 1000)) | int -}}
+{{- $base := math.Pow 1000 $unit -}}
+{{- $formatted := printf "%g%s" (div $value $base) (index $units $unit) -}}
+{{- $qs := querify "Amount" $value "From" $from "To" $to -}}
+<a class="currency" href="https://www.xe.com/currencyconverter/convert/?{{ $qs | safeURL }}">
+  {{- $formatted }} {{ $from -}}
 </a>
-{{- end -}}
