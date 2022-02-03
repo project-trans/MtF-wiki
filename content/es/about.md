@@ -38,6 +38,8 @@ y los otros queridos que nos dan ayuda y información.
 
 Por Discord [![Discord][shields-discord]](https://233.plus/discord)
 
+Twitter {{< shields-twitter mtfwiki >}}
+
 Por GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 Por correo electrónico <mtf@kuaer.club>

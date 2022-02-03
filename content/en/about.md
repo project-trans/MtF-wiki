@@ -40,6 +40,8 @@ and other lovely guys who give us help and information.
 
 Through Discord [![Discord][shields-discord]](https://233.plus/discord)
 
+Twitter {{< shields-twitter mtfwiki >}}
+
 Through GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 Via Email <mtf@kuaer.club>

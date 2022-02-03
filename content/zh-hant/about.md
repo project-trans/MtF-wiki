@@ -40,6 +40,8 @@ weight: 0
 
 透過 Discord [![Discord][shields-discord]](https://233.plus/discord)
 
+Twitter {{< shields-twitter mtfwiki >}}
+
 透過 GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 透過 郵件 <mtf@kuaer.club>

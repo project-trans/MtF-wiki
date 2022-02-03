@@ -30,10 +30,12 @@ footer:
           link: https://github.com/mtf-wiki/MtF-Wiki
     - title: Contact
       links:
-        - title: GitHub
-          link: https://github.com/mtf-wiki
         - title: Discord
           link: https://233.plus/discord
+        - title: Twitter
+          link: https://twitter.com/mtfwiki
+        - title: GitHub
+          link: https://github.com/mtf-wiki
         - title: Email
           link: mailto:mtf@kuaer.club
   contents:
