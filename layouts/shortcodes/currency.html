@@ -1,11 +1,10 @@
-{{- $units := slice "" "k" "M" -}}
 {{- $from := .Get "from" -}}
-{{- $to := default "CNY" (.Get "to") -}}
-{{- $value := float (.Get "value") -}}
-{{- $unit := math.Floor (div (math.Log $value) (math.Log 1000)) | int -}}
-{{- $base := math.Pow 1000 $unit -}}
-{{- $formatted := printf "%g%s" (div $value $base) (index $units $unit) -}}
+{{- $to := .Get "to" | default "CNY" -}}
+{{- $value := .Get "value" | float -}}
 {{- $qs := querify "Amount" $value "From" $from "To" $to -}}
 <a class="currency" href="https://www.xe.com/currencyconverter/convert/?{{ $qs | safeURL }}">
-  {{- $formatted }} {{ $from -}}
+  {{- $units := slice "" "k" "M" -}}
+  {{- $unit := div (math.Log $value) (math.Log 1000) | math.Floor | int -}}
+  {{- $base := math.Pow 1000 $unit -}}
+  {{- div $value $base }}{{ index $units $unit }} {{ $from -}}
 </a>
