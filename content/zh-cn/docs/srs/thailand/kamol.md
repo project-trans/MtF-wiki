@@ -17,7 +17,7 @@ Kamol 提供包括 0 深度、改进 PI、结肠 和 腹膜 在内的 多种 SRS
 1. 客户接受了心理测试，并经过精神病医生证明处于正常精神状态，适合进行性别转换手术。
 1. 客户必须身体健康。
 
-[官网介绍](https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/)
+<https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
 
 ## 术式与价格
 

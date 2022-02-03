@@ -3,7 +3,7 @@ title: Chettawut 医生
 weight: 41
 ---
 
-![](/images/srs/thailand/chettawut/doctor.jpg)
+![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
 
 {{< tag-pos "WPATH 成员" >}}
 
@@ -17,7 +17,7 @@ weight: 41
 
 [{{< shields-line "wihhospital" >}}](https://page.line.me/wihhospital)
 
-[官网介绍](https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==)
+<https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==>
 
 医疗中介：梁金 {{< shields-weixin "liangjin3039" >}}、{{< shields-line "jin235" >}}、<jinliang222@gmail.com>
 微信公众号「破茧成碟BY梁金」
