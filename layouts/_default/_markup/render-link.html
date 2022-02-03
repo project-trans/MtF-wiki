@@ -1,6 +1,4 @@
-{{- if hasPrefix .Destination "https://t.me/" -}}
-<a href="{{ .Destination }}">@{{ slicestr .Destination 13 }}</a>
-{{- else if hasPrefix .Destination "mailto:" -}}
+{{- if hasPrefix .Destination "mailto:" -}}
 {{- $text := replace (replace .Text "-" "--") "_" "__" -}}
 <a data-email="{{ .Destination | base64Encode }}">
   <img class="shields-icon" src="https://img.shields.io/badge/email-{{ $text }}-blue.svg?style=flat-square" />
