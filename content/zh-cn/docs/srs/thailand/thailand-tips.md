@@ -27,6 +27,8 @@ draft: false
 
 中餐外卖平台 [悟空](https://play.google.com/store/apps/details?id=com.wukong.waimai)
 
+都可以用国际信用卡或者现金支付，所以沒有国际信用卡也不用担心。
+
 ## 术前准备物品
 
 流食期间食物：
@@ -36,7 +38,7 @@ draft: false
 - 蜂蜜推荐
 
 日用品准备：
-- Kleenex 软抽纸
+- Kleenex 软抽纸，两三包以上
 - 婴儿湿巾
 - 棉签
 - Baby powder
@@ -44,7 +46,7 @@ draft: false
 
 ## 散装泰语
 
-基本使用汉语拼音谐音表示，但是 e 表示 ye 的 e，用 ə 表示「额」的音。多一个声调 â 发音比 ā 更高一点。
+基本使用汉语拼音谐音表示，但是 e 表示 ye 的 e，用 ə 表示「额」的音。多一个声调 â 发音比 ā 更高一点。b, d, g 结尾就是用 b, d, g 的口型收尾，讲粤语、客家话、闽南话的朋友对此应该比较熟悉。
 {{< csv-table >}}
 中文,散装泰语
 好的、是的、对的,chài
@@ -54,12 +56,21 @@ draft: false
 水,nâm
 厕所,hàong nâm
 去,bāi
-（很）疼,būad (màg)
+（很）疼,jěb (màg)
 止痛药,yā gè būad
 冷,yen
 调高温度,pə̀m ūn hǎ pūm
 开/关空调,bəd/bid AC
 这/那个,ān nî/nàn
-在这/那儿, dōng nî/nàn
+在这/那儿,dōng nî/nàn
 等一下,ro sakrù
+在哪里,「有替奶」
 {{< /csv-table >}}
+
+**通用散装英语口语**
+大便 poo-poo
+小便 pee-pee
+
+**外卖备注实用语**
+
+不要辣：ไม่เผ็ด

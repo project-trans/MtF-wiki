@@ -73,7 +73,7 @@ Chet 的技術與 [Suporn]({{< ref "suporn" >}}) 類似，使用陰囊皮瓣作�
     {{< expand "樣例">}}![diagnosis](/images/srs/thailand/chettawut/diagnosis.png){{< /expand >}}
     泰國心理醫生價格 {{< currency from="THB" to="TWD" value="2500" >}} 每位
 
-1. 術前檢查專案（建議在中國醫院做好翻譯成英文）：
+1. 術前檢查（建議在本地醫院做好翻譯成英文）：
 
     - CBC 全血檢測報告
     - HIV
