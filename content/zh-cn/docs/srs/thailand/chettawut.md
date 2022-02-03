@@ -28,6 +28,8 @@ weight: 41
 - 结肠 {{< currency from="THB" value="350000" >}}
 - 结肠（腹腔镜） {{< currency from="THB" value="450000" >}}
 
+可以使用中国银联
+
 酒店费用：{{< currency from="THB" value="1100" >}} 一天（大床房），大概需要 3 ~ 4 周。
 
 <!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
