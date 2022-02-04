@@ -3,7 +3,7 @@ title: 北京｜丛中
 weight: 1
 ---
 
-{{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
 {{< doctor-image src="doctor.jpg" >}}
 

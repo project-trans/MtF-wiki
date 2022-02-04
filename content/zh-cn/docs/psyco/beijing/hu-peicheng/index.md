@@ -3,7 +3,7 @@ title: 北京｜胡佩诚
 weight: 2
 ---
 
-{{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
 {{< tag/pos 和蔼 >}} {{< tag/pos 性教育创始人 >}}
 {{< tag/pos 初诊开证 >}} {{< tag/pos "病历可用于北三 HRT" >}}

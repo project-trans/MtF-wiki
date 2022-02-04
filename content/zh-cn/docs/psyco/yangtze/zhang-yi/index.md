@@ -3,7 +3,7 @@ title: 上海｜张毅
 weight: 4
 ---
 
-{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
 
 {{< doctor-image src="doctor.jpg" >}}
 

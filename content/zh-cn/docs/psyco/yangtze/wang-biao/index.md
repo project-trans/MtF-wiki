@@ -3,7 +3,7 @@ title: 上海｜王飚
 weight: 5
 ---
 
-{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
 
 {{< doctor-image src="doctor.jpg" >}}
 

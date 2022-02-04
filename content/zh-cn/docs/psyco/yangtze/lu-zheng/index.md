@@ -3,7 +3,7 @@ title: 上海｜陆峥
 weight: 4
 ---
 
-{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
 
 {{< doctor-image src="doctor.jpg" >}}
 
