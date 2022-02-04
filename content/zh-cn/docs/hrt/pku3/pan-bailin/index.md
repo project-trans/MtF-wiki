@@ -7,7 +7,7 @@ weight: 200
 
 ![潘柏林照片](pan-bai-lin.jpg)
 
-{{< tag-pos 超级帅 >}} {{< tag-neg 拍裸照 >}}
+{{< tag/pos 超级帅 >}} {{< tag/neg 拍裸照 >}}
 
 医生姓名：潘柏林
 

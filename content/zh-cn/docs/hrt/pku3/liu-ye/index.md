@@ -7,7 +7,7 @@ weight: 200
 
 ![刘烨照片](liu-ye.png)
 
-{{< tag-pos 无需家长 >}} {{< tag-pos 漂亮大姐姐 >}} {{< tag-pos 温馨体贴 >}}
+{{< tag/pos 无需家长 >}} {{< tag/pos 漂亮大姐姐 >}} {{< tag/pos 温馨体贴 >}}
 
 医生姓名：刘烨
 所在医院：[北京大学第三医院](https://amap.com/place/B000A7CGSS)

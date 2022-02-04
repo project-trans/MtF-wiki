@@ -3,7 +3,7 @@ title: 云南｜刘瑞湘
 weight: 3
 ---
 
-{{< tag-neg "观察期 1 年" >}}
+{{< tag/neg "观察期 1 年" >}}
 
 医生姓名：[刘瑞湘](https://www.haodf.com/doctor/9032033119.html)
 

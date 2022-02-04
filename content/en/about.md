@@ -18,36 +18,36 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki
 
 ## Core maintainer
 
-Founder: {{< gh-profile "kenchiu233" >}}
+Founder: {{< github/profile "kenchiu233" >}}
 
-{{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< gh-profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 
-{{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
 
-{{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
+{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 
-{{< gh-profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
+{{< github/profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 
 Thanks goes to these GitHub contributors:
 
-{{< gh-contributors >}}
+{{< github/contributors >}}
 
 and other lovely guys who give us help and information.
 
 ## Contact
 
-Through Discord [![Discord][shields-discord]](https://233.plus/discord)
+Through Discord [![Discord][shields/discord]](https://233.plus/discord)
 
-Twitter {{< shields-twitter mtfwiki >}}
+Twitter {{< shields/twitter mtfwiki >}}
 
-Through GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+Through GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 Via Email <mtf@kuaer.club>
 
-[shields-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## Acknowledgement
 

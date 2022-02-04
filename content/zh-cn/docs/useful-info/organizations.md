@@ -8,7 +8,7 @@ title: 公益组织
 
 地区：北京
 微信公众号：「北同文化」（`bjlgbtcenter`）
-北同跨儿小助手 微信：{{< shields-wechat "transbjlgbt" >}}
+北同跨儿小助手 微信：{{< shields/wechat "transbjlgbt" >}}
 联系电话：{{< telephone "+86 010-6446-6970" >}}
 
 ## 跨儿说
@@ -53,4 +53,4 @@ Twitter：<https://twitter.com/YNParallel>
 Facebook：<https://facebook.com/ynparallel>
 微信公众号：云南平行
 电话：{{< telephone "+86 0871-6337-9065" >}}、{{< telephone "+86 180-6482-4919" >}}
-QQ 群：{{< shields-qq 170530694 >}}
+QQ 群：{{< shields/qq 170530694 >}}

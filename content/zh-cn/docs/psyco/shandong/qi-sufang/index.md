@@ -5,7 +5,7 @@ weight: 10
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-pos 可与家长沟通 >}} {{< tag-pos 和蔼 >}}
+{{< tag/pos 可与家长沟通 >}} {{< tag/pos 和蔼 >}}
 
 医生姓名：[齐素芳](https://www.haodf.com/doctor/6964430522.html)
 

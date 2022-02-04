@@ -5,7 +5,7 @@ weight: 12
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-neg 需家属介入 >}}
+{{< tag/neg 需家属介入 >}}
 
 医生姓名：[曹秉玉](https://www.haodf.com/doctor/119528.html)
 

@@ -13,7 +13,7 @@ weight: 0
 
 ## 在线预约
 
-微信客服：{{< shields-wechat "njtryeson2016" >}}
+微信客服：{{< shields/wechat "njtryeson2016" >}}
 QQ：`3040055353`
 电话：{{< telephone "+86 025-6698-8209" >}}
 

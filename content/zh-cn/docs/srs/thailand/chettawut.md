@@ -5,7 +5,7 @@ weight: 41
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
 
-{{< tag-pos "WPATH 成员" >}}
+{{< tag/pos "WPATH 成员" >}}
 
 医生姓名：Chettawut，蔡达武
 
@@ -15,11 +15,11 @@ weight: 41
 
 电话：{{< telephone "+66 0-2078-8919" >}}
 
-[{{< shields-line "wihhospital" >}}](https://page.line.me/wihhospital)
+[{{< shields/line "wihhospital" >}}](https://page.line.me/wihhospital)
 
 <https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==>
 
-医疗中介：梁金 {{< shields-weixin "liangjin3039" >}}、{{< shields-line "jin235" >}}、<jinliang222@gmail.com>
+医疗中介：梁金 {{< shields/weixin "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
 微信公众号「破茧成碟BY梁金」
 
 手术费用：

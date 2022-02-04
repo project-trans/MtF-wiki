@@ -7,17 +7,17 @@ weight: 10
 
 ### QQ 交流群 {#qq-group}
 
-- <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields-qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
+- <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields/qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
-- <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{< shields-qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
+- <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{< shields/qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
 - **411 MtF SRS 术后交流群**：该 [411]({{< ref "sh411" >}}) MtF SRS 术后交流群采取纯邀请制，请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
 - **泰国手术交流群**：已安排、正在、已经在泰国手术的姐妹，请联络上方「跨儿音游组」群主以加入
 
 ### Telegram 交流群 {#tg-group}
 
-- 逆光小镇：联系 {{< shields-tg rikablossom >}} 加入
-- 跨儿音游组：{{< shields-tg otoge_trans >}}
+- 逆光小镇：联系 {{< shields/telegram rikablossom >}} 加入
+- 跨儿音游组：{{< shields/telegram otoge_trans >}}
 
 ### 跨性别相关 bot（QQ）{#trans-related-bot}
 
@@ -32,13 +32,13 @@ weight: 10
 
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
 
-- Twitter：{{< shields-twitter awesometrans_zh >}}
-- Telegram：{{< shields-tg awesometrans_zh >}}
+- Twitter：{{< shields/twitter awesometrans_zh >}}
+- Telegram：{{< shields/telegram awesometrans_zh >}}
 - 邮箱：<awesome-trans@outlook.com>
 
 ### 猫猫大陆 Minecraft
 
-一个关注跨性别权益的 Minecraft 玩家群体与游戏服务器 <https://www.catland.top> [{{< shields-qq 705754458 >}}](https://qm.qq.com/cgi-bin/qm/qr?k=q5ZCoXvb9xsy3AwxbEIox_vsUfgugBi_)
+一个关注跨性别权益的 Minecraft 玩家群体与游戏服务器 <https://www.catland.top> [{{< shields/qq 705754458 >}}](https://qm.qq.com/cgi-bin/qm/qr?k=q5ZCoXvb9xsy3AwxbEIox_vsUfgugBi_)
 
 ### FtM (Female-to-Male) Wiki
 

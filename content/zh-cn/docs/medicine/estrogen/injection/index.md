@@ -50,7 +50,7 @@ libraries: [katex, mhchem]
 重度肝障碍患者请勿使用
 {{< /notice >}}
 
-- 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag-neg "不会打针就不要瞎打！" >}}
+- 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag/neg "不会打针就不要瞎打！" >}}
 - 使用剂量：每 5-7 天 5 mg / 每 1 - 2 周 10 mg
 - 注意事项：
   - 请勿重复注入同一位置。

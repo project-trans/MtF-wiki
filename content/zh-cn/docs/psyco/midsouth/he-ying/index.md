@@ -3,8 +3,8 @@ title: 长沙｜贺莹
 weight: 1
 ---
 
-{{< tag-pos "花钱很少" >}} {{< tag-pos "无需抢挂号" >}}
-{{< tag-neg "观察期 1 年" >}} {{< tag-pos "不需要介绍信" >}}
+{{< tag/pos "花钱很少" >}} {{< tag/pos "无需抢挂号" >}}
+{{< tag/neg "观察期 1 年" >}} {{< tag/pos "不需要介绍信" >}}
 
 医生姓名：[贺莹](https://wy.guahao.com/expert/819738df-5ae6-4bc3-83df-aad260927d97000)
 

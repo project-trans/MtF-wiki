@@ -16,36 +16,36 @@ La {{<mtf-wiki>}} se compromete a ser un sitio de integración de conocimientos 
 
 ## Mantenedores
 
-Fundadora: {{< gh-profile "kenchiu233" >}}
+Fundadora: {{< github/profile "kenchiu233" >}}
 
-{{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< gh-profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 
-{{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
 
-{{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
+{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 
-{{< gh-profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
+{{< github/profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 
 Gracias a los contribuyentes de GitHub:
 
-{{< gh-contributors >}}
+{{< github/contributors >}}
 
 y los otros queridos que nos dan ayuda y información.
 
 ## Contacto
 
-Por Discord [![Discord][shields-discord]](https://233.plus/discord)
+Por Discord [![Discord][shields/discord]](https://233.plus/discord)
 
-Twitter {{< shields-twitter mtfwiki >}}
+Twitter {{< shields/twitter mtfwiki >}}
 
-Por GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+Por GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 Por correo electrónico <mtf@kuaer.club>
 
-[shields-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## Agradecimiento
 
