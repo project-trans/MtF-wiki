@@ -14,6 +14,7 @@ body:
   - type: textarea
     id: content
     attributes:
-      label: 该信息因什么原因过时，例如：该医生已退休
+      label: 内容
+      description: 该信息因什么原因过时，例如：该医生已退休
     validations:
       required: true
