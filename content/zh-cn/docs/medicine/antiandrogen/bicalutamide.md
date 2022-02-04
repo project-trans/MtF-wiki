@@ -11,12 +11,12 @@ weight: 1
 
 ## 基本信息
 
-- 药品通用名称: 比卡鲁胺片
-- 药品商品名称: 康士得/CASODEX
-- 药品英文名称： Bicalutamide Tablets
+- 药品通用名称：比卡鲁胺片
+- 药品商品名称：康士得 / CASODEX
+- 药品英文名称：Bicalutamide Tablets
 - 生产企业名称：CORDEN PHARMA GMBH
-- 性状: 白色薄膜衣片，除去包衣后显白色
-- 规格: 50mg 每片 *28 或 150mg 每片* 28
+- 性状：白色薄膜衣片，除去包衣后显白色
+- 规格：50mg &times; 28 片，150mg &times; 28 片
 
 ## 注意事项
 
