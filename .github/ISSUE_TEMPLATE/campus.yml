@@ -1,5 +1,6 @@
 name: 报告新的学校
 description: 报告新的学校
+labels: ["campus"]
 body:
   - type: markdown
     attributes:

@@ -1,5 +1,6 @@
 name: 报告新的精神科医生
 description: 报告新的精神科医生
+labels: ["psyco"]
 body:
   - type: markdown
     attributes:
