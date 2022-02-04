@@ -7,8 +7,8 @@ body:
   - type: input
     id: url
     attributes:
-      label: 过时信息的 MtF.wiki URL
-      description: 过时信息的 URL
+      label: MtF.wiki URL
+      description: 具有过时信息的 MtF.wiki URL
     validations:
       required: true
   - type: textarea
