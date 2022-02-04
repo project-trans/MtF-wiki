@@ -8,7 +8,7 @@ weight: 1
 由于该药在中国大陆地区未获得批准不具备合法性，因此不提供更多详细信息。
 {{< /notice >}}
 
-”雌二醇缓释贴片“在澳大利亚、新西兰的商品名称之为“estradot”
+“雌二醇缓释贴片” 在澳大利亚、新西兰的商品名称之为 “estradot”
 
 说明书：<https://www.medsafe.govt.nz/consumers/cmi/e/estradot.pdf>
 
