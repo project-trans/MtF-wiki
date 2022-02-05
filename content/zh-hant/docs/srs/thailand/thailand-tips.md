@@ -16,7 +16,7 @@ draft: false
 
 ## 實用 APP
 
-[谷歌翻譯](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) 
+[谷歌翻譯](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
 打車軟體 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 
@@ -27,19 +27,21 @@ draft: false
 ## 術前準備物品
 
 流食期間食物：
+
 - 椰汁推薦
 - 橙汁可能有果渣
 - 果凍沒有飽腹感
 - 蜂蜜推薦
 
 日用品準備：
+
 - Kleenex 軟抽紙，4 包以上
 - 嬰兒濕巾
 - 護理墊
 - 棉籤
 - 25 cm 衛生巾（日用）
 - Baby powder
-- 小鏡子（醫院出院可能提供） 
+- 小鏡子（醫院出院可能提供）
 
 ## 散裝泰語
 

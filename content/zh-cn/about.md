@@ -53,7 +53,7 @@ GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/iss
 ## ~~办公地点~~
 
 {{< expand "谨慎展开">}}
-![](/images/33cll.png)
+![33CLL](/images/33cll.png)
 {{< /expand >}}
 
 ## 致谢

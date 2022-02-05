@@ -26,7 +26,6 @@ weight: 1
 ![Oestrogel](estradiol-gel.jpg)
 {{< /expand >}}
 
-
 ## 使用方式與用量
 
 影片：[愛思妥雌二醇凝膠使用指南](https://www.bilibili.com/video/BV1eq4y1U71L)

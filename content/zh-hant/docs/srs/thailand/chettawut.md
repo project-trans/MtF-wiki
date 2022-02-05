@@ -3,7 +3,7 @@ title: Chettawut 醫生
 weight: 41
 ---
 
-![](/images/srs/thailand/chettawut/doctor.jpg)
+![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
 
 {{< tag/pos "WPATH 成員" >}}
 
