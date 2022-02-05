@@ -8,16 +8,23 @@ on:
       - 'LICENSE'
 
 jobs:
-  build-deploy:
+  markdownlint-cli:
     runs-on: ubuntu-20.04
-    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+      - run: npx markdownlint-cli .
+  editorconfig:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: mtf-wiki/editconfig-action@latest
+  build:
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
         with:
           submodules: true
-          fetch-depth: 0
-      - uses: actions/setup-node@v2
-      - run: npx markdownlint-cli .
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
