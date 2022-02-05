@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line -->
 [![MtF-Wiki][logo-long]][wiki-url]
 
 Mirror：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)

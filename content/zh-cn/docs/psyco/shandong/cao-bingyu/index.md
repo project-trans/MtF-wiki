@@ -5,7 +5,7 @@ weight: 12
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-neg 需家属介入 >}}
+{{< tag/neg 需家属介入 >}}
 
 医生姓名：[曹秉玉](https://www.haodf.com/doctor/119528.html)
 
@@ -39,3 +39,7 @@ weight: 12
 周四,上午,专家门诊,28 元
 周五,下午,专家门诊,28 元
 {{< /csv-table >}}
+
+## 证明样式
+
+![证明](proof.jpg)

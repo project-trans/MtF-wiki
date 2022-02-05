@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 copyright = "&copy; 2020-{year} MtF Wiki. All Rights Reserved"
-timeout = 10000
+timeout = "1M"
 enableEmoji = true
 enableRobotsTXT = true
 paginate = 13
@@ -20,6 +20,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
 hostName = "https://mtf.wiki"
 custom_css = [
+  "microtip.css",
   "customize.scss"
 ]
 custom_js = [

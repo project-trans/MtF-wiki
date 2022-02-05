@@ -11,6 +11,11 @@ title: 贡献者指南
 1. 问诊细节
 1. 注意事项
 
+{{< notice info "提示" >}}
+对于跨性别人士的激素治疗，已有新的表述方式：
+性别肯定激素治疗（英文：Gender-Affirming Hormone Therapy，缩写为 GAHT）。
+{{< /notice >}}
+
 ## 关于图片资源
 
 如果该图片为对纸质材料的拍摄请使用 Microsoft Lens (fbk Office Lens) 进行扫描以便于提供更好的阅读体验
@@ -19,3 +24,7 @@ title: 贡献者指南
 [Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)
 [Microsoft Lens (Windows)](https://www.microsoft.com/en-us/p/office-lens/9wzdncrfj3t8)
+
+## 关于校园指南
+
+对于编写校园指南时可能涉及到的同学和老师，不应该给出过于详细的信息，比如说姓名等。只需指出某个学院或者社团之类即可。

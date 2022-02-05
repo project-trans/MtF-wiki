@@ -3,7 +3,7 @@ title: 北京｜唐宏宇
 weight: 2
 ---
 
-{{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
 医生姓名：唐宏宇
 

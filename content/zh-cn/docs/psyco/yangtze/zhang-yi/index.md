@@ -3,7 +3,7 @@ title: 上海｜张毅
 weight: 4
 ---
 
-{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
 
 {{< doctor-image src="doctor.jpg" >}}
 
@@ -14,6 +14,10 @@ weight: 4
 预约方法：微信公众号/支付宝搜索「上海市精神卫生中心」进入后选择「预约」搜索「张毅」进行预约。
 
 ## 注意事项
+
+{{< alert theme=warning >}}
+张毅对跨性别的认知非常负面，可能单独对家长说出非常不利的说法，谨慎带家长前往。
+{{< /alert >}}
 
 大部分 注意事项 与 [陆峥的注意事项]({{< ref "lu-zheng#caveats" >}}) 相同
 

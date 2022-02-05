@@ -3,13 +3,13 @@ title: 北京｜丛中
 weight: 1
 ---
 
-{{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-pos 便宜 >}} {{< tag-pos 无需家长 >}}
-{{< tag-pos 初诊开假条 >}} {{< tag-pos "病历可用于北三 HRT" >}}
-{{< tag-neg "观察期 2 年" >}}
+{{< tag/pos 便宜 >}} {{< tag/pos 无需家长 >}}
+{{< tag/pos 初诊开假条 >}} {{< tag/pos "病历可用于北三 HRT" >}}
+{{< tag/neg "观察期 2 年" >}}
 
 医生姓名：[丛中](https://m.haodf.com/doctor/3990.html)
 

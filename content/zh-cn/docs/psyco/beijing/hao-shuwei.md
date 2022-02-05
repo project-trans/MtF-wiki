@@ -3,10 +3,10 @@ title: 北京｜郝树伟
 weight: 2
 ---
 
-{{< alert theme=info >}}{{< hybl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
-{{< tag-pos 初诊开证 >}} {{< tag-pos "病历可用于北三 HRT" >}}
-{{< tag-neg 具体标准未知 >}}
+{{< tag/pos 初诊开证 >}} {{< tag/pos "病历可用于北三 HRT" >}}
+{{< tag/neg 具体标准未知 >}}
 
 医生姓名：郝树伟
 

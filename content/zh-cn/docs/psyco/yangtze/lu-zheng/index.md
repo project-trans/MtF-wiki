@@ -3,11 +3,11 @@ title: 上海｜陆峥
 weight: 4
 ---
 
-{{< alert theme=info >}}{{< wpnl >}}{{< /alert >}}
+{{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-neg 昂贵 >}} {{< tag-neg 初诊不开证 >}} {{< tag-neg 需要亲属介入 >}}
+{{< tag/neg 昂贵 >}} {{< tag/neg 初诊不开证 >}} {{< tag/neg 需要亲属介入 >}}
 
 医生姓名：[陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)
 

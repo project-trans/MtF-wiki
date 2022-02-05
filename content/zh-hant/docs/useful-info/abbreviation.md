@@ -19,22 +19,25 @@ title: 縮寫詞語表
   transM: 跨性別男性
   transles: 跨性別女同性戀（即其中一方為 transF）
   transgay: 跨性別男同性戀（即其中一方為 transM）
-  Female to Male: 女跨男（FtM）
-  Male to Female: 男跨女（MtF）
+  Female-to-Male: 女跨男（FtM）
+  Male-to-Female: 男跨女（MtF）
   FtX, MtX: 認為自己不屬於指派性別，同時也不完全屬於另一個性別（借自日語，X 為 Xジェンダー X-gender，即 non-binary 非二元）
   TS: 變性者（Transsexual）
 - RLE: Real-life experience 實際生活體驗
-  [維基百科](https://zh.wikipedia.org/zh-cn/實際生活體驗)
+  [維基百科](https://zh.wikipedia.org/zh-tw/實際生活體驗)
 - HRT: Hormone replacement therapy 激素替代療法
-  [本站板塊][維基百科](https://zh.wikipedia.org/zh-cn/激素替代療法)
+  [本站板塊]({{< ref "hrt-overview" >}})｜[維基百科](https://zh.wikipedia.org/zh-tw/激素替代療法)
+- GAHT: Gender-Affirming Hormone Therapy 性別肯定激素治療
+  [維基百科](https://zh.wikipedia.org/zh-cn/性別肯定激素治療)
 - SRS: Sex reassignment surgery 性別重置手術
-  [本站板塊](/zh-hant/docs/srs/)｜[維基百科](https://zh.wikipedia.org/zh-cn/性別重置手術)
+  [本站板塊]({{< ref "../srs/faq" >}})｜[維基百科](https://zh.wikipedia.org/zh-tw/性別重置手術)
   有時也會被稱之為：GRS (gender reassignment surgery)
 - SRT: Sex reassignment therapy 性別重置療法
-  [維基百科](https://zh.wikipedia.org/zh-cn/性別重置療法)
+  [維基百科](https://zh.wikipedia.org/zh-tw/性別重置療法)
 - FFS: Facial feminization surgery 面部女性化手術
-  [維基百科](https://zh.wikipedia.org/zh-cn/性別重置療法#其他療法)
+  [維基百科](https://zh.wikipedia.org/zh-tw/性別重置療法#其他療法)
 - VFS: Voice feminization surgery 聲音女性化手術
 - AG: Autogynephilia 幻想變性性興奮理論
 - CD: Cross-dressing 異裝
-  [維基百科](https://zh.wikipedia.org/zh-cn/異性裝扮)
+  [維基百科](https://zh.wikipedia.org/zh-tw/異性裝扮)
+- [WPATH](https://www.wpath.org/) 世界跨性別人士健康專業協會

@@ -59,7 +59,7 @@ weight: 1
 ## 说明
 
 - 所谓“日色”不是色普龙，请不要误用。
--“台色”即在台湾出售的 Androcur（“土色”）
+- 所谓“台色”即在台湾出售的 Androcur（“土色”）
 
 ## 使用方式与用量
 
@@ -80,14 +80,14 @@ weight: 1
 
 - **血糖**：色普龙会引起血糖偏高，糖尿病患者应谨慎使用[^5]。
 
-- {{< tag-neg 暂未明确 >}} 色普龙是强效的孕激素，早期导入可能造成乳房发育不良。
+- {{< tag/neg 暂未明确 >}} 色普龙是强效的孕激素，早期导入可能造成乳房发育不良。
 
 ## 成分信息
 
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
 - 化学名称：6-氯-1α,2α-亚甲基-3,20-二孕酮-4,6-二烯-17α-醋酸酯
 - 分子式：$\ce{C24H29ClO4}$
-- 分子量：416.94 g/mol
+- 分子量：416.94
 
 [^1]: [Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People](https://transfemscience.org/articles/cpa-dosage/)
 [^2]: [The journal of clinical endocrinology & metabolism](https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359)

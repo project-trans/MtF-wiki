@@ -1,8 +1,6 @@
 ---
 title: 进行激素检查
 weight: 2
-aliases:
-  - check
 ---
 
 ## 关于激素检查
@@ -77,7 +75,7 @@ aliases:
 
 ### 促卵泡激素（FSH）
 
-**促卵泡激素**（FSH）是一种由脑垂体合成并分泌的激素，属于糖基化蛋白质激素，因最早发现其对女性卵泡成熟的刺激作用而得名。后来的研究表明，促卵泡激素在男女两性体内都是很重要的激素之一，调控着发育、生长、青春期性成熟、以及生殖相关的一系列生理过程。促卵泡激素 和 [黄体化激素]({{ ref "#lh" }}) 在生殖相关的生理过程中协同发挥着至关重要的作用。
+**促卵泡激素**（FSH）是一种由脑垂体合成并分泌的激素，属于糖基化蛋白质激素，因最早发现其对女性卵泡成熟的刺激作用而得名。后来的研究表明，促卵泡激素在男女两性体内都是很重要的激素之一，调控着发育、生长、青春期性成熟、以及生殖相关的一系列生理过程。促卵泡激素 和 [黄体化激素]({{< ref "#lh" >}}) 在生殖相关的生理过程中协同发挥着至关重要的作用。
 
 在睾丸中，促卵泡激素提高塞尔托利氏细胞合成男性激素结合蛋白的水平，诱发塞尔托利细胞的紧密结合，同时分泌抑制素，在成精子过程中起到至关重要的作用。
 
@@ -110,8 +108,8 @@ aliases:
 
 ## 参考阅读
 
-1. <https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686>
-1. <https://www.uptodate.com/contents/transgender-women-evaluation-and-management>
+1. <https://www.MayoClinicLabs.com/test-catalog/overview/83686>
+1. <https://www.UpToDate.com/contents/transgender-women-evaluation-and-management>
 1. <https://zh.wikipedia.org/wiki/促卵泡激素>
 1. <https://zh.wikipedia.org/wiki/催乳素>
 1. <https://zh.wikipedia.org/wiki/孕酮>

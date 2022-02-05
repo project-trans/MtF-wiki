@@ -75,3 +75,49 @@ a.github-profile {
 .sign-off-by {
   text-align: right;
 }
+
+.single__contents {
+  h2 {
+    margin-top: 1.5rem;
+  }
+  blockquote {
+    padding: 0;
+  }
+}
+
+.single__contents[data-dir="ltr"] {
+  a {
+    text-decoration: none;
+  }
+  ol > li,
+  ul > li {
+    ol > li,
+    ul > li {
+      margin-left: 1.5rem;
+    }
+  }
+}
+
+.notices {
+  padding-left: 0.5em;
+  ol,
+  ul {
+    padding-left: 1rem;
+  }
+}
+
+p.text-center {
+  text-align: center;
+}
+
+span.shadow-text {
+  color: #252525;
+  background-color: #252525;
+  text-shadow: none;
+  &:hover,
+  &:active {
+    transition: color 0.13s linear;
+    color: #fff;
+  }
+}
+

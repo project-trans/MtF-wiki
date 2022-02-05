@@ -18,36 +18,36 @@ weight: 0
 
 ## 主要人員
 
-創始人：{{< gh-profile "kenchiu233" >}}
+創始人：{{< github/profile "kenchiu233" >}}
 
-{{< gh-profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
-站點與程式碼維護
+{{< github/profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< gh-profile "saeziae" >}}&nbsp;<i@estela.cn>
-藥物板塊、長三角地區編輯維護，映象維護，外文翻譯
+{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
 
-{{< gh-profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
-北京地區編輯維護
+{{< github/profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
 
-{{< gh-profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-手术医疗相关板块维护
+{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
+
+{{< github/profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
 
 以及感謝所有 GitHub 貢獻者：
 
-{{< gh-contributors >}}
+{{< github/contributors >}}
 
 與其它對我們提供幫助和資訊的小可愛們。
 
 ## 聯絡
 
-透過 Discord [![Discord][shields-discord]](https://233.plus/discord)
+透過 Discord [![Discord][shields/discord]](https://233.plus/discord)
 
-透過 GitHub [![GitHub issues][shields-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+Twitter {{< shields/twitter mtfwiki >}}
+
+透過 GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
 透過 郵件 <mtf@kuaer.club>
 
-[shields-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## 致謝
 

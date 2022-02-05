@@ -1,52 +1,112 @@
 ---
 title: 通俗用語表
 ---
+<style>
+.heimu,
+.heimu rt {
+ background-color:#252525;
+}
+span.heimu a.external,
+span.heimu a.external:visited,
+span.heimu a.extiw,
+span.heimu a.extiw:visited {
+ color:#252525
+}
+.heimu,
+.heimu a,
+a .heimu,
+.heimu a.new {
+ color:#252525;
+ text-shadow:none;
+}
+body:not(.heimu_toggle_on) .heimu:hover,
+body:not(.heimu_toggle_on) .heimu:active,
+body:not(.heimu_toggle_on) .heimu.off {
+ transition:color .13s linear;
+ color:white
+}
+body:not(.heimu_toggle_on) .heimu:hover a,
+body:not(.heimu_toggle_on) a:hover .heimu,
+body:not(.heimu_toggle_on) .heimu.off a,
+body:not(.heimu_toggle_on) a:hover .heimu.off {
+ transition:color .13s linear;
+ color:lightblue
+}
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off,
+body:not(.heimu_toggle_on) .heimu:hover .new {
+ transition:color .13s linear;
+ color:#FCC
+}
+</style>
 
 以下解釋均為一般化理解，僅供參考。
 
-{{< expand "偽娘、藥娘、MtF？" >}}
+## 偽娘、藥娘、MtF？
+
 MtF：跨性別女性。
 偽娘/女裝大佬：指打扮、著裝、行為女性化的男性，一般指女裝男子；但也有自稱偽娘者，實為可以接納男兒身的跨性別女性（其可能不知道跨性別的概念，也沒有過於嚴重的性別焦慮）。
-藥娘：**該詞語在臺灣具有冒犯意味**。指通過激素治療(HRT)使自身女性化的人群。藥娘通常是跨性別女性，但也有非二元性別、偽娘等使用激素。**MtF 不都是藥娘，藥娘不一定是 MtF.**
-{{< /expand >}}
+藥娘：**該詞語在臺灣具有冒犯意味**。指透過激素治療(HRT)使自身女性化的人群。藥娘通常是跨性別女性，但也有非二元性別、偽娘等使用激素。**MtF 不都是藥娘，藥娘不一定是 MtF.**
 
-{{< expand "pass" >}}
-動詞。指性別表達取得第三者視角認同。
-{{< /expand >}}
+## Pass
 
-{{< expand "gd" >}}
-gd 即為 gender dysphoria 的縮寫
+形容詞。指性別表達取得第三者視角認同。
+
+## GD
+
+GD 即為 gender dysphoria 的縮寫
 意為 [性別焦慮](https://zh.wikipedia.org/zh-cn/性別不安)
-{{< /expand >}}
 
-{{< expand "家長黨" >}}
-名詞。取得家長充分理解並予以支持的跨兒。
-{{< /expand >}}
+## 糖
 
-{{< expand "年齡黨" >}}
+指代[激素治療]({{< ref hrt-overview >}})所使用的藥物。
+
+## 家長黨
+
+名詞。取得家長充分理解並予以支援的跨兒。
+
+## 年齡黨
+
 名詞。在 [青春期早期](https://zh.wikipedia.org/zh-cn/青春期#階段) 進行 HRT 治療的跨兒。
-{{< /expand >}}
 
-{{< expand "天賦黨" >}}
+## 天賦黨
+
 名詞。具有一定天賦的人，特指先天身體條件更靠近性別認同的跨兒。與“天殘黨”相對。
-{{< /expand >}}
+**天殘黨**：指先天身體條件與性別認同差距較大的跨兒。與“天賦黨”相對
 
-{{< expand "天殘黨" >}}
-名詞。指先天身體條件與性別認同差距較大的跨兒。與“天賦黨”相對
-{{< /expand >}}
+## 手術黨
 
-{{< expand "手術黨" >}}
-名詞。指已完成 [SRS](/zh-hant/docs/srs/) 的跨兒。
-{{< /expand >}}
+名詞。指已完成 [SRS]({{< ref "../srs/faq" >}}) 的跨兒。
 
-{{< expand "中獎黨" >}}
-名詞。指通過醫院診斷等方法發現自己天生具有某些稀有異性生理特質的跨兒。
+## 中獎黨
+
+名詞。指透過醫院診斷等方法發現自己天生具有某些稀有異性生理特質的跨兒。
 “抽獎”即指在醫院進行相關診斷，如外周血染色體、腹部平掃等。
+科普影片：[人類有多少種生理性別？你的性別是什麼決定的？](https://www.bilibili.com/video/BV1bZ4y1c7eh/)
 
-科普視頻：[人類有多少種生理性別？你的性別是什麼決定的？](https://www.bilibili.com/video/BV1bZ4y1c7eh/)
+## 魔法黨
+
+指國產 GalGame [<del>破防</del>戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
+
+<center>我啊，希望自己能做一個普通的女孩子。<br><span title="你知道的太多了" class="heimu">「對我來說，做一個普通的女孩子，只是一種奢望。」</span></center>
+{{< expand "謹慎展開">}}
+![](/images/33cll.png)
 {{< /expand >}}
 
-{{< expand "藥娘頭" >}}
-形容詞，指髮型由男性長髮像女性短髮轉變的過渡過程的一種髮型，是 RLE 的必要步驟
-PS:有經濟能力或者家長支持的也可以考慮通過理髮店美容接發的過程縮短這一階段。
-{{< /expand >}}
+## 藥娘頭
+
+名詞，指髮型由男性長髮像女性短髮轉變的過渡過程的一種髮型，是 RLE 的必要步驟
+備註：有經濟能力或者家長支援的也可以考慮透過理髮店美容接發的過程縮短這一階段。
+
+## 深櫃
+
+形容詞，指因為某些原因而不暴露自己是跨兒。
+
+## 出櫃
+
+動詞，指公開承認自己是跨兒。
+
+## 踹櫃門
+
+動詞，指透過一些行為使深櫃狀態的跨兒被迫出櫃。
