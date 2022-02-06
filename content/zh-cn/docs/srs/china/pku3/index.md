@@ -1,19 +1,15 @@
 ---
-title: 北医三院｜潘柏林
+title: 北医三院
 weight: 33
 ---
 
-{{< doctor-image src="doctor.jpg" >}}
+[北京大学第三医院](https://amap.com/place/B000A7CGSS)
 
 [潘柏林](https://www.haodf.com/doctor/227082.html)
 
 主刀： （手术较长，两位轮流主刀）
 - [杨欣](https://www.haodf.com/doctor/10835.html)
 - [常旭](https://www.haodf.com/doctor/6964387922.html)
-
-所在医院：[北京大学第三医院](https://amap.com/place/B000A7CGSS)
-
-官方媒体账号：<https://space.bilibili.com/2085711307>
 
 ## 前置条件
 
