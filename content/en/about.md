@@ -26,7 +26,7 @@ Founder: {{< github/profile "kenchiu233" >}}
 
 {{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}} {{< shields/telegram saeziae >}}
 
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email> {{< shields/telegram septs >}}
+{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 
 Contact if u would like to join!
 
