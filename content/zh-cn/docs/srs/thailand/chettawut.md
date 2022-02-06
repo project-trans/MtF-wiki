@@ -34,6 +34,7 @@ weight: 41
 
 <!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
 <!-- 因改至WIH医院，原联系方法存疑 -->
+如交定金时选择直接向医院汇款，可能在银行会因对公转账遇到麻烦，如果遇到麻烦，尽量备齐手术相关文件并要求医院开账单。[此页面](https://wihhospital.com/privacy-policy)说明了 THANADOL & KOJCHABOON CO., LTD.（收款账户） 与 WIH International Hospital 的关系。
 
 ## 手术介绍
 
