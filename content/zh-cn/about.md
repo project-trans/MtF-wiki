@@ -6,15 +6,16 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-# 关于
-
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
 {{< mtf-wiki >}} 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
 
-本项目 <i class="bi bi-github"></i> 代码：<https://github.com/mtf-wiki/MtF-Wiki>
+本项目 <i class="bi bi-github"></i> GitHub 仓库：<https://github.com/mtf-wiki/MtF-Wiki>
+
 本项目 <i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
+
 <i class="bi bi-link-45deg"></i> 同步镜像：<https://MtFwiki.cn>（同步周期 30 分钟）、<https://MtFwiki.com>
+
 兄弟站：<https://FtM.wiki>
 
 ## 主要人员

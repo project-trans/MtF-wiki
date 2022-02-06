@@ -4,15 +4,19 @@ description: "La MtF Wiki se compromete a ser un sitio de integración de conoci
 weight: 0
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
 La {{<mtf-wiki>}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,
 
 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
+
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sitio del proyecto：[MtF.Wiki](https://mtf.wiki)
+
 <i class="bi bi-link-45deg" aria-label="Website"></i>Espejo sinc.：[mtfwiki.cn](https://mtfwiki.cn) (sinc. cada 30 mins), [mtfwiki.com](https://mtfwiki.com)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+Sitio hermano: <https://FtM.wiki>
 
 ## Mantenedores
 
@@ -20,13 +24,8 @@ Fundadora: {{< github/profile "kenchiu233" >}}
 
 {{< github/profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
-
-{{< github/profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
-
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-
-{{< github/profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
+{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}} {{< shields/telegram saeziae >}}
+**¡Contáctame si quieres unirte!**
 
 Gracias a los contribuyentes de GitHub:
 
