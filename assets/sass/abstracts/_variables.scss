@@ -1,19 +1,22 @@
 @import "../themes/theme";
 
-$text-font-stack: 'Muli', 
+$text-font-stack: /*'Muli', 
               Georgia, 
-              -apple-system, 
-              'Noto Sans', 
-              'Noto Sans SC', 
-              'Noto Sans CJK SC', 
+              -apple-system, */
+              'Noto Sans',  
+              'Noto Sans CJK',
+              'Source Han Sans'
               'PingFang SC', 
               'Hiragino Sans GB', 
               'Microsoft Yahei', 
+              'Microsoft JhengHei',               
               'ST Heiti', 
+              'Noto Sans Thai',
               sans-serif !default;
 $code-font-stack: Consolas, 
               Monaco,
               Menlo,
+              'Noto Sans Mono',
               "DejaVu Sans Mono", 
               "Bitstream Vera Sans Mono", 
               "Courier New", 
