@@ -41,7 +41,7 @@ weight: 1
 
 - 口服（[补佳乐]({{< ref "progynova" >}})）
 - 舌下含服（[诺坤复]({{< ref "estrofem" >}})）
-- 透皮给药（[爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}})、[雌二醇贴片]({{< ref "patch" >}})）
+- 透皮给药（[爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}})、[雌二醇贴片]({{< ref "estradiol-patch" >}})）
 - [针剂肌肉注射]({{< ref "injection" >}})
 - 皮下埋入
 
