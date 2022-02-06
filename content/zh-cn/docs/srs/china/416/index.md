@@ -3,7 +3,7 @@ title: 四川核工业四一六医院｜余道江
 weight: 31
 ---
 
-{{< doctor-image src="yu-daojiang.jpg" >}}
+{{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[余道江](https://www.416h.com/main/teamread/3003.htmll)
 

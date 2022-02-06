@@ -7,7 +7,7 @@ weight: 31
 游晓波医生作为四川省人民医院整形外科一把刀，积累了大量会阴修复/成型经验
 {{< /notice >}}
 
-{{< doctor-image src="you-xiaobo.jpg" >}}
+{{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[游晓波](https://www.samsph.com/expert/2021/YqaQg5dn.html)
 

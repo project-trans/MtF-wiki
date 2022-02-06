@@ -3,7 +3,7 @@ title: 北医三院｜潘柏林
 weight: 33
 ---
 
-{{< doctor-image src="https://i1.hdslb.com/bfs/face/6af7bb2e35d8a6521041d552cd07d9e6a9eb3142.jpg" >}}
+{{< doctor-image src="doctor.jpg" >}}
 
 医生名字：[潘柏林](https://www.haodf.com/doctor/227082.html)
 
