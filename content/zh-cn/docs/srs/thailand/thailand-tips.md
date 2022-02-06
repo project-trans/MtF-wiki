@@ -42,7 +42,7 @@ draft: false
 
 - Kleenex 软抽纸，4 包以上
 - 婴儿湿巾
-- 护理垫
+- 护理垫（英文 incontinece pad）
 - 棉签
 - 25 cm 卫生巾（日用）
 - Baby powder
