@@ -1,6 +1,8 @@
 ---
 title: 潘柏林
 weight: 200
+aliases:
+    - /zh-cn/docs/hrt/pku3/pan-bailin/
 ---
 
 # 潘<ruby>柏<rt>bǎi</rt></ruby>林
