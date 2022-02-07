@@ -3,8 +3,6 @@ title: 友情合作
 weight: 10
 ---
 
-<link rel="stylesheet" href="main.css">
-
 ### Telegram 交流群 {#tg-group}
 
 - 逆光小鎮  聯繫 {{< shields/telegram rikablossom >}} 加入

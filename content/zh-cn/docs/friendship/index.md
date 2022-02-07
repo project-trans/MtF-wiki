@@ -3,8 +3,6 @@ title: 友情合作
 weight: 10
 ---
 
-<link rel="stylesheet" href="main.css">
-
 ### QQ 交流群 {#qq-group}
 
 - <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields/qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
