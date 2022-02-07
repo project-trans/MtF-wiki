@@ -1,5 +1,5 @@
 ---
-title: 北京｜牛雅娟
+title: 牛雅娟
 weight: 2
 ---
 

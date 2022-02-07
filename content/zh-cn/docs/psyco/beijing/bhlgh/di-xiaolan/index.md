@@ -1,5 +1,5 @@
 ---
-title: 北京｜邸晓兰
+title: 邸晓兰
 weight: 2
 ---
 
