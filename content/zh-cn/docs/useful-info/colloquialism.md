@@ -58,7 +58,7 @@ GD 即为 gender dysphoria 的缩写
 </p>
 
 {{< expand "谨慎展开">}}
-![33CLL](/images/33cll.png)
+![33CLL](/images/meme/33cll.png)
 {{< /expand >}}
 
 ## 药娘头
