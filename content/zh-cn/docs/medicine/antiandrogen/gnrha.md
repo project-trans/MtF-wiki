@@ -4,7 +4,11 @@ description: GnRH 类似物在跨性别 HRT 中用于青春期阻断治疗。
 weight: 4
 ---
 
-GnRH 类似物用于青春期阻断治疗
+{{< notice warning "提示" >}}
+GnRH 类似物作用机理不确定，请前往医院咨询并使用。
+{{< /notice >}}
+
+GnRH 类似物用于青春期阻断治疗。
 
 {{< alert theme="warning" >}}
 

@@ -69,7 +69,7 @@ Chet 的技術與 [Suporn]({{< ref "suporn" >}}) 類似，使用陰囊皮瓣作�
 
 1. 手術需要兩位心理醫生的證明
 
-    其中可以自行提供一份您的國家的醫院證明（翻譯成英文，注意：證明上必須寫有<u>建議手術</u>的字樣）
+    其中可以自行提供一份您的國家的醫院的**精神科**證明（翻譯成英文，注意：**心理科不行**，證明上必須寫有**建議手術**的字樣）
     {{< expand "樣例">}}![diagnosis](/images/srs/thailand/chettawut/diagnosis.png){{< /expand >}}
     泰國心理醫生價格 {{< currency from="THB" to="TWD" value="2500" >}} 每位
 

@@ -3,8 +3,6 @@ title: 友情合作
 weight: 10
 ---
 
-<link rel="stylesheet" href="main.css">
-
 ### QQ 交流群 {#qq-group}
 
 - <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields/qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
@@ -28,7 +26,7 @@ weight: 10
 - 正在建设中的 Telegram 同步机以频道形式推送内容，获取邀请链接请在任一其他平台联系我们
 - Limelight 主机请前往 Limelight 搜索关键词「跨性别相关 bot」
 
-### awesome trans <i class="trans-flag"></i> (Twitter)
+### awesome trans {{< transflag >}} (Twitter)
 
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
 

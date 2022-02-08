@@ -19,7 +19,8 @@ draft: false
 
 显示国行 Android 手机的 Play Store [点这里](https://m.apkpure.com/google-play-store/com.android.vending/download) （需要手机本来内置谷歌服务）
 
-[谷歌翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) [百度翻译](https://fanyi-app.baidu.com/transapp/appdownloadpage)
+[谷歌翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+[百度翻译](https://fanyi-app.baidu.com/transapp/appdownloadpage)
 
 打车软件 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 
@@ -53,10 +54,13 @@ draft: false
 基本使用汉语拼音谐音表示，但是 e 表示 ye 的 e，用 ə 表示「额」的音。多一个声调 â 发音比 ā 更高一点。b, d, g 结尾就是用 b, d, g 的口型收尾，讲粤语、客家话、闽南话的朋友对此应该比较熟悉。
 {{< csv-table >}}
 中文,散装泰语
-好的、是的、对的,chài
-不,mài
+好的、是的、对的,chài「菜」
+不,mài「卖」
 谢谢,kǎob kūn kà
-行、可以,dài
+行、可以,dài「带」
+在哪里,yiǔ tì nái「有替奶」
+这/那个,ān nî/nàn
+在这/那儿,dōng nî/nàn
 水,nâm
 厕所,hàong nâm
 去,bāi
@@ -65,10 +69,8 @@ draft: false
 冷,yen
 调高温度,pə̀m ūn hǎ pūm
 开/关空调,bəd/bid AC
-这/那个,ān nî/nàn
-在这/那儿,dōng nî/nàn
 等一下,ro sakrù
-在哪里,「有替奶」
+吹风机,tì bǎo póm
 {{< /csv-table >}}
 
 **通用散装英语口语**

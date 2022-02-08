@@ -13,7 +13,7 @@ weight: 0
 
 - MMPI - 明尼蘇達多項人格問卷
   [MMPI 自測](http://www.apesk.com/mmpi/)
-  
+
 - SCL-90 - 症狀自評量表
   [SCL-90 自測](http://www.ntneuro.org/scale/scl90.asp)
 
