@@ -4,7 +4,7 @@ description: 本页描述的是在北医三院医生（刘烨和潘柏林）的�
 weight: 100
 collapsible: true
 aliases:
-    - /zh-cn/docs/hrt/pku3/
+  - /zh-cn/docs/hrt/pku3/
 ---
 
 ## 概况
@@ -24,9 +24,11 @@ aliases:
 
 线上预约挂号可通过北医三院 APP，“北医三院服务号”微信公众号及[北京市预约挂号统一平台](https://www.114yygh.com)挂号。其中前二者号源共享，同有同无；最后一种方式的号源独立。
 
-| 北医三院 APP | 北医三院服务号 |
-| :--: | :--: |
-| ![北医三院 APP 二维码](app.jpg "北医三院 APP") | ![北医三院服务号二维码](erwm.jpg "北医三院服务号")|
+北医三院 APP
+{{< qrcode "https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp" >}}
+
+北医三院服务号
+{{< qrcode "http://weixin.qq.com/r/HkO7o7bE5OubrfLA9xYM" >}}
 
 所有挂号方式均可以预约接下来三天的号源。具体而言，对于前两种方式，每天早晨 7 点可以开始预约其后第三天的号源[^1]；对于第三种方式，每天中午 12 点可以开始预约其后第三天的号源。
 
@@ -160,7 +162,7 @@ aliases:
 
 如需线上问诊，可通过好大夫在线微信小程序或官网进入潘柏林医生主页，选择**多学科会诊**按钮。
 
-{{< alert theme="warning" >}} 
+{{< alert theme="warning" >}}
 请注意，目前直接向潘柏林申请服务是不支持咨询跨性别相关问题的，将会提示分诊审核不通过。
 {{< /alert >}}
 

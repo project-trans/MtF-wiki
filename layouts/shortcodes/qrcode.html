@@ -1,0 +1,14 @@
+{{ $id := delimit (shuffle (seq 1 9)) "" }}
+<script id="qrcode_{{ $id }}">
+  document.addEventListener("DOMContentLoaded", function () {
+    const container = document.createElement("div");
+    container.className = "qrcode";
+    new QRCode(container, {
+      text: "{{ .Get 0 }}",
+      width: 128,
+      height: 128,
+      correctLevel: QRCode.CorrectLevel.L,
+    });
+    document.querySelector("#qrcode_{{ $id }}").replaceWith(container);
+  });
+</script>

@@ -2,16 +2,16 @@
 title: 刘烨
 weight: 200
 aliases:
-    - /zh-cn/docs/hrt/pku3/liu-ye/
+  - /zh-cn/docs/hrt/pku3/liu-ye/
 ---
 
-# 刘烨 {#liu-ye}
+# 刘烨
 
-![刘烨照片](liu-ye.png)
+{{< doctor-image src="doctor.png" >}}
 
 {{< tag/pos 无需家长 >}} {{< tag/pos 漂亮大姐姐 >}} {{< tag/pos 温馨体贴 >}}
 
-医生姓名：刘烨
+医生姓名：[刘烨](https://www.haodf.com/doctor/2168666201.html)
 所在医院：[北京大学第三医院]({{< ref "puth" >}})
 
 ## 挂号
@@ -23,7 +23,7 @@ aliases:
 周三,下午,内分泌门诊（易性症激素治疗门诊）,60 元
 {{< /csv-table >}}
 
-如何挂号详见[北医三院：预约挂号]({{< ref "puth#register" >}})。
+如何挂号详见 [北医三院：预约挂号]({{< ref "puth#register" >}})。
 
 ## 青春期阻断剂相关事宜
 
