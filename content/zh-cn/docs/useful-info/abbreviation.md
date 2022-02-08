@@ -28,10 +28,10 @@ title: 缩写词语表
   [维基百科](https://zh.wikipedia.org/zh-cn/实际生活体验)
 - HRT（Hormone replacement therapy）激素替代疗法 aka. GAHT（Gender-Affirming Hormone Therapy）性别肯定激素治疗
   [本站板块]({{< ref "hrt-overview" >}})
-  [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB%E6%BF%80%E7%B4%A0%E6%B2%BB%E7%96%97/54212022)
+  [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
   [性别肯定激素治疗 - 维基百科](https://zh.wikipedia.org/zh-cn/性别肯定激素治疗)
 - SRS: Sex reassignment surgery 性别重置手术
-  [本站板块]({{< ref "../srs/faq" >}}) | [百度百科](https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%87%8D%E7%BD%AE%E6%89%8B%E6%9C%AF/1301503) | [维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
+  [本站板块]({{< ref "../srs/faq" >}}) | [百度百科](https://baike.baidu.com/item/性别重置手术) | [维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
   有时也会被称之为：GRS (gender reassignment surgery) 、性别确认手术（Gender Confirmation Surgery ）、性别还原手术
 - SRT: Sex reassignment therapy 性别重置疗法
   包含 HRT 和 SRS 等。
@@ -43,5 +43,5 @@ title: 缩写词语表
 - AG: Autogynephilia 幻想变性性兴奋理论 一般认为是过时的理论。
 - CD: Cross-dressing 异装<a id="cd"></a>
   我国的法律与政策中，虽未明确提及异装的概念，但有多个条款提到不同性别应享有同等权利、禁止基于性别的歧视。包括异装在内的性别平等是全面性教育和实现社会公平的重要内容之一。
-  [百度百科](https://baike.baidu.com/item/%E5%BC%82%E8%A3%85/2648254) | [维基百科](https://zh.wikipedia.org/zh-cn/异性装扮)
+  [百度百科](https://baike.baidu.com/item/异装) | [维基百科](https://zh.wikipedia.org/zh-cn/异性装扮)
 - [WPATH](https://www.wpath.org/) 世界跨性别人士健康专业协会

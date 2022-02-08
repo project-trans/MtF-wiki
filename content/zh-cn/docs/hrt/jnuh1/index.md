@@ -7,7 +7,7 @@ weight: 200
 
 医生姓名：[高绿芬](https://h.jd120.com/Reserve/Doctor/21056)
 
-所在医院：[暨南大学附属第一医院](https://j.map.baidu.com/28/zQu)
+所在医院：[暨南大学附属第一医院](https://amap.com/place/B00140US6O)
 
 ## 出诊时刻
 
