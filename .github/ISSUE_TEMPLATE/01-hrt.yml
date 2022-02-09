@@ -32,15 +32,18 @@ body:
     id: drugs
     attributes:
       label: 可开具的药品
+      description: 请在注意事项中特别指明药品的「商品名」
       multiple: true
       options:
-        - 补佳乐
-        - 克龄蒙
-        - 爱斯妥
-        - 雌二醇凝胶
-        - 色普龙
+        - 戊酸雌二醇
+        - 苯甲酸雌二醇
+        - 雌二醇水合物
+        - 醋酸环丙孕酮
         - 螺内酯
         - 比卡鲁胺
+        - 其他
+    validations:
+      required: true
   - type: textarea
     id: caveats
     attributes:
