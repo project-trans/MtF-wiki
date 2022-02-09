@@ -86,6 +86,10 @@ a.github-profile {
     color: #212529;
     background-color: #ffc107;
   }
+  &.dangerous {
+    color: #fff;
+    background-color: #da1a21;
+  }
 }
 
 .sign-off-by {
