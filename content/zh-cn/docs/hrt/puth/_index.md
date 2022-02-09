@@ -17,18 +17,16 @@ aliases:
 
 北京大学第三医院设有多个院区。
 
-- 北京大学第三医院（主院区）：位于[北京市海淀区花园北路 49 号](https://amap.com/place/B000A7CGSS)，刘烨、潘柏林等医生通常在此出诊。。
+- 北京大学第三医院（主院区）：位于[北京市海淀区花园北路 49 号](https://amap.com/place/B000A7CGSS)，刘烨、潘柏林等医生通常在此出诊。
 - 生殖医学中心：位于[北京市海淀区学院路甲 38 号](https://amap.com/place/B000A85I42)，主院区旁边。如果要检测染色体需要在这里预约、采血及领取结果。
 
 ### 预约挂号 {#register}
 
 线上预约挂号可通过北医三院 APP，“北医三院服务号”微信公众号及[北京市预约挂号统一平台](https://www.114yygh.com)挂号。其中前二者号源共享，同有同无；最后一种方式的号源独立。
 
-北医三院 APP
-{{< qrcode "https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp" >}}
-
-北医三院服务号
-{{< qrcode "http://weixin.qq.com/r/HkO7o7bE5OubrfLA9xYM" >}}
+| 北医三院 APP | 北医三院服务号 |
+| :--: | :--: |
+| {{< qrcode "https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp" >}} | {{< qrcode "http://weixin.qq.com/r/HkO7o7bE5OubrfLA9xYM" >}} |
 
 所有挂号方式均可以预约接下来三天的号源。具体而言，对于前两种方式，每天早晨 7 点可以开始预约其后第三天的号源[^1]；对于第三种方式，每天中午 12 点可以开始预约其后第三天的号源。
 
