@@ -21,7 +21,7 @@ title: 缩写词语表
   transgay: 跨性别男同性恋（即其中一方为 transM）
   Female-to-Male: 女跨男（FtM）
   Male-to-Female: 男跨女（MtF）
-  FtX, MtX: 认为自己不属于指派性别，同时也不完全属于另一个性别（借自日语，X 为 Xジェンダー X-gender，即 non-binary 非二元）
+  FtX, MtX: 认为自己不属于指派性别，同时也不完全属于另一个性别（借自日语，X 为 X ジェンダー X-gender，即 non-binary 非二元）
   TS: 变性者（Transsexual）
 - RLE: Real-life experience 实际生活体验<a id='rle'></a>
   指跨性别者全天候地按照其所认同的性别角色来生活。

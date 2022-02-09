@@ -16,7 +16,7 @@ libraries: [katex, mhchem]
 ![fuji](progynon-depot.jpg)
 
 - 英文名称：Progynon®-Depot
-- 日文名称：プロギノン®・デポー
+- 日文名称：プロギノン ®・デポー
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：富士日雌
 - 厂商：富士制药
@@ -26,8 +26,8 @@ libraries: [katex, mhchem]
 
 ### 【停产】持田 Pelanin Depot
 
-| 5 mg | 10 mg |
-| :--: | :--:|
+|          5 mg          |          10 mg           |
+| :--------------------: | :----------------------: |
 | ![5 mg](mochida-5.jpg) | ![10 mg](mochida-10.jpg) |
 
 - 英文名称：Pelanin Depot

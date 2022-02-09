@@ -1,5 +1,5 @@
 ---
-title: '*GnRH 类似物'
+title: "*GnRH 类似物"
 description: GnRH 类似物在跨性别 HRT 中用于青春期阻断治疗。
 weight: 4
 ---
