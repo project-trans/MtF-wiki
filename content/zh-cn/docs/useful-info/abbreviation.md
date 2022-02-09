@@ -36,7 +36,7 @@ Male-to-Female,男跨女（MtF）
 TS,变性者（Transsexual）
 {{< /csv-table >}}
 
-FtX, MtX 借自日语，X 为 X ジェンダー X-gender，即 non-binary 非二元
+FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary 非二元
 
 ## RLE
 
