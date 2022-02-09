@@ -7,7 +7,7 @@ weight: 1000
 
 {{< tag/pos 可与家长沟通 >}} {{< tag/neg "观察期 1 年" >}}
 
-医生姓名：[宁洁](http://www.3-hospital-cqmu.com/uploadfile/2021/1124/20211124032523170.jpg)
+医生姓名：[宁洁](https://www.haodf.com/doctor/1129160221.html)
 
 所在医院：[重庆医科大学附属第三医院](https://amap.com/place/B0FFGPSPQC)
 
