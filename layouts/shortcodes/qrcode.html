@@ -1,15 +1,15 @@
-<script>
-  (function () {
-    const container = document.createElement("div");
+<script data-text="{{ .Get 0 }}">
+  (function (text) {
+    var container = document.createElement("div");
     container.className = "qrcode";
     document.currentScript.replaceWith(container);
     document.addEventListener("DOMContentLoaded", function () {
       new QRCode(container, {
-        text: "{{ .Get 0 }}",
+        text: text,
         width: 128,
         height: 128,
         correctLevel: QRCode.CorrectLevel.L,
       });
     });
-  })();
+  })(document.currentScript.dataset.text);
 </script>
