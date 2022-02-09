@@ -4,6 +4,10 @@ description: 有关 ICD-11 实行以后的信息（2022 年 1 月更新）
 weight: 21
 ---
 
+ICD-11 是「国际疾病分类第十一次修订本」的简称
+
+官网：<https://icd.who.int/browse11/l-m/zh>
+
 ## 有关 ICD-11
 
 <https://zhuanlan.zhihu.com/p/53190964>
@@ -14,11 +18,14 @@ weight: 21
 
 ### 精神科
 
-部分实行了 ICD-11 的精神卫生中心将无法开出带有「易性证」的诊断证明，此时可以要求医生开具带有「性别不一致」的
+部分实行了 ICD-11 的精神卫生中心将无法开出带有 「[易性证][icd-10]」 的诊断证明，此时可以要求医生开具带有 「[性别不一致][icd-11]」 的
 
 诊断证明（后者不属于精神障碍，~~可以忽悠更多的精神科医生开证了~~）
 
-### HRT以及性别重置手术
+[icd-10]: https://icd.who.int/browse10/2019/en#/F64
+[icd-11]: https://icd.who.int/browse11/l-m/zh#/http://id.who.int/icd/entity/411470068
+
+### HRT 以及性别重置手术
 
 2022 年 1 月 8 日更新
 
