@@ -23,9 +23,6 @@ weight: 1
 - 药品规格：
   0.06% &times; 80g（含雌二醇 48mg）
   0.06% &times; 30g（含雌二醇 18mg）
-  {{< expand "爱斯妥雌二醇凝胶的说明书扫描件" >}}
-  ![Oestrogel](estradiol-gel.jpg)
-  {{< /expand >}}
 
 ### 健民 雌二醇凝胶 {#jian-min}
 
