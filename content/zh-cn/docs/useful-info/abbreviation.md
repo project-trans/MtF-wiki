@@ -22,7 +22,7 @@ title: 缩写词语表
 
 {{< csv-table >}}
 缩写,翻译
-cis,顺性别
+cis,顺性别（Cisgender）
 cisF,顺性别女性
 cisM,顺性别男性
 trans,跨性别（Transgender）
@@ -48,7 +48,7 @@ FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary �
 ## HRT
 
 激素替代疗法（Hormone replacement therapy）
-从 2022 年开始将会被 性别肯定激素治疗（Gender-Affirming Hormone Therapy） 逐步取代
+从 2022 年开始将会被 性别肯定激素治疗（Gender-affirming hormone therapy） 逐步取代
 
 [本站板块]({{< ref "hrt-overview" >}})
 [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
@@ -57,7 +57,7 @@ FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary �
 ## SRS
 
 性别重置手术（Sex reassignment surgery）
-有时也会被称之为：GRS (gender reassignment surgery) 、性别确认手术（Gender Confirmation Surgery ）、性别还原手术
+有时也会被称之为：GRS (Gender reassignment surgery) 、性别确认手术（Gender confirmation surgery ）、性别还原手术
 
 [本站板块]({{< ref "../srs/faq" >}})
 [百度百科](https://baike.baidu.com/item/性别重置手术)
