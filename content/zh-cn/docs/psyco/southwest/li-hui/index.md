@@ -73,4 +73,4 @@ weight: 1
 
 ## SRS
 
-该院的 [游晓波]({{< ref "you-xiaobo" >}}) 提供 SRS 治疗
+该院的 [游晓波]({{< ref "/docs/srs/china/you-xiaobo" >}}) 提供 SRS 治疗
