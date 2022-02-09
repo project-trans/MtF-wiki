@@ -5,7 +5,7 @@ weight: 200
 
 {{< doctor-image src="doctor.jpg" >}}
 
-医生姓名：[周建英](https://www.haodf.com/doctor/13154.html)
+医生姓名：[周建英](https://www.haodf.com/doctor/6964360738.html)
 
 所在医院：[苏州市立医院（东区）](https://www.amap.com/place/B020003GXC)
 
