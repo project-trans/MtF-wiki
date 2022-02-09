@@ -8,7 +8,7 @@ title: 通俗用語表
 
 MtF：跨性別女性。
 
-偽娘/女裝大佬：詳見[這裏](../abbreviation/#cd)。指打扮、著裝、行為女性化的男性，一般指女裝男子；但也有自稱偽娘者，實為可以接納男兒身的跨性別女性（其可能不知道跨性別的概念，也沒有過於嚴重的性別焦慮）。
+偽娘/女裝大佬：詳見[這裏]({{< ref "abbreviation" >}})。指打扮、著裝、行為女性化的男性，一般指女裝男子；但也有自稱偽娘者，實為可以接納男兒身的跨性別女性（其可能不知道跨性別的概念，也沒有過於嚴重的性別焦慮）。
 
 藥娘：**該詞語在臺灣具有冒犯意味**。指透過激素治療(HRT)使自身女性化的人群。藥娘通常是跨性別女性，但也有非二元性別、偽娘等使用激素。**MtF 不都是藥娘，藥娘不一定是 MtF.**
 
@@ -52,7 +52,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 
 ## 魔法黨
 
-指中文 GalGame [<del>破防</del>戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
+指中文 GalGame [<del>破防</del>戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/恋爱绮谭)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/苏半夏)。
 
 <p class="text-center">
     我啊，希望自己能做一個普通的女孩子。
@@ -66,7 +66,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 
 ## 藥娘頭
 
-名詞，指髮型由男性長髮向女性短髮轉變的過渡過程的一種髮型，是 [RLE](../abbreviation/#rle) 的必經步驟
+名詞，指髮型由男性長髮向女性短髮轉變的過渡過程的一種髮型，是 [RLE]({{< ref "abbreviation" >}}) 的必經步驟
 
 備註：有經濟能力或者家長支援的也可以考慮透過理髮店美容接發的過程縮短這一階段。
 

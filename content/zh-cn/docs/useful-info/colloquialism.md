@@ -8,7 +8,7 @@ title: 通俗用语表
 
 MtF：跨性别女性。
 
-伪娘/女装大佬：详见[这里](../abbreviation/#cd)。指打扮、着装、行为女性化的男性，一般指女装男子；但也有自称伪娘者，实为可以接纳男儿身的跨性别女性（其可能不知道跨性别的概念，也没有过于严重的性别焦虑）。
+伪娘/女装大佬：详见 [这里]({{< ref "abbreviation" >}})。指打扮、着装、行为女性化的男性，一般指女装男子；但也有自称伪娘者，实为可以接纳男儿身的跨性别女性（其可能不知道跨性别的概念，也没有过于严重的性别焦虑）。
 
 药娘：**该词语在台湾具有冒犯意味**。指通过激素治疗(HRT)使自身女性化的人群。药娘通常是跨性别女性，但也有非二元性别、伪娘等使用激素。**MtF 不都是药娘，药娘不一定是 MtF.**
 
@@ -18,13 +18,13 @@ MtF：跨性别女性。
 
 ## GD
 
-GD 即为 gender dysphoria 的缩写，意为性别不安、性别焦虑（[百度百科](https://baike.baidu.com/item/性别不安/54417305) | [维基百科](https://zh.wikipedia.org/zh-cn/性別不一致)）
+GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百度百科](https://baike.baidu.com/item/性别不安) | [维基百科](https://zh.wikipedia.org/zh-cn/性別不一致)）
 
 或可参见 [这就是性别烦躁，供参考](https://genderdysphoria.fyi/zh/)
 
 ## 糖
 
-指代 [激素治疗]({{< ref hrt-overview >}}) 所使用的药物。
+指代 [激素治疗]({{< ref "hrt-overview" >}}) 所使用的药物。
 
 ## 家长党
 
@@ -54,7 +54,7 @@ GD 即为 gender dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 魔法党
 
-指国产 GalGame [~~破防~~恋爱绮谭~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[苏半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
+指国产 GalGame [~~破防~~恋爱绮谭~不存在的夏天~](https://zh.moegirl.org.cn/恋爱绮谭)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角 [苏半夏](https://zh.moegirl.org.cn/苏半夏)。
 
 <p class="text-center">
     我啊，希望自己能做一个普通的女孩子。
