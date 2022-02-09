@@ -77,8 +77,6 @@ FtX, MtX 的 X 借自日語 Ｘジェンダー（X-gender），即 non-binary �
 
 聲音女性化手術（Voice feminization surgery）
 
-[本站板塊]({{< ref "vocal-training" >}})
-
 ## AG
 
 幻想變性性興奮理論（AutoGynephilia），一般認為是過時的理論
