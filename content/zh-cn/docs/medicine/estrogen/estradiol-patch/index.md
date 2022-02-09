@@ -26,4 +26,4 @@ weight: 1
 - 厂商：Bayer
 - 说明书：<https://www.medicines.org.uk/emc/files/pil.1617.pdf>
 
-[^1]: 因地区而异，有的地区商品名为Climara<sup>&reg;</sup>。
+[^1]: 因地区而异，有的地区商品名为 Climara<sup>&reg;</sup>。

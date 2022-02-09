@@ -6,4 +6,4 @@ collapsible: true
 
 [介绍信]({{< ref "introletter" >}})
 
-[有关ICD-11]({{< ref "icd11" >}})
+[有关 ICD-11]({{< ref "icd11" >}})

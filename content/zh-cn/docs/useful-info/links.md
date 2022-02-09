@@ -19,7 +19,7 @@ title: 友情链接
 - LGBTQIA in China
   <https://github.com/LGBT-CN/LGBTQIA-In-China>
 
-- Transfeminine Science （跨性别女性科学？）
+- Transfeminine Science（跨性别女性科学？）
   <https://github.com/tfsci-sc/articles>
 
 - 无性别卫生间分享计划

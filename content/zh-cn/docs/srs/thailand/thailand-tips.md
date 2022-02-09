@@ -18,7 +18,7 @@ draft: false
 
 ## 实用 APP
 
-显示国行 Android 手机的 Play Store [点这里](https://m.apkpure.com/google-play-store/com.android.vending/download) （需要手机本来内置谷歌服务）
+显示国行 Android 手机的 Play Store [点这里](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手机本来内置谷歌服务）
 
 [谷歌翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 [百度翻译](https://fanyi-app.baidu.com/transapp/appdownloadpage)
