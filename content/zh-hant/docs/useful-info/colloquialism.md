@@ -52,7 +52,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 
 ## 魔法黨
 
-指中文 GalGame [<del>破防</del>戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
+指中文 GalGame [<del>破防</del>戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
 
 <p class="text-center">
     我啊，希望自己能做一個普通的女孩子。
@@ -61,12 +61,12 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 </p>
 
 {{< expand "謹慎展開">}}
-![33CLL](/images/33cll.png)
+![33CLL](/images/meme/33cll.png)
 {{< /expand >}}
 
 ## 藥娘頭
 
-名詞，指髮型由男性長髮像女性短髮轉變的過渡過程的一種髮型，是 [RLE]((../abbreviation/#rle) 的必經步驟
+名詞，指髮型由男性長髮向女性短髮轉變的過渡過程的一種髮型，是 [RLE](../abbreviation/#rle) 的必經步驟
 
 備註：有經濟能力或者家長支援的也可以考慮透過理髮店美容接發的過程縮短這一階段。
 

@@ -54,7 +54,7 @@ GD 即为 gender dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 魔法党
 
-指国产 GalGame [~~破防~~恋爱绮谭~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)中的 MtF 女主角[苏半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
+指国产 GalGame [~~破防~~恋爱绮谭~不存在的夏天~](https://zh.moegirl.org.cn/%E6%81%8B%E7%88%B1%E7%BB%AE%E8%B0%AD)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[苏半夏](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)。
 
 <p class="text-center">
     我啊，希望自己能做一个普通的女孩子。
@@ -68,7 +68,7 @@ GD 即为 gender dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 药娘头
 
-名词，指发型由男性长发像女性短发转变的过渡过程的一种发型，是 [RLE](../abbreviation/#rle) 的必经步骤
+名词，指发型由男性长发向女性短发转变的过渡过程的一种发型，是 [RLE](../abbreviation/#rle) 的必经步骤
 
 备注：有经济能力或者家长支持的也可以考虑通过理发店美容接发的过程缩短这一阶段。
 
