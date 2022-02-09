@@ -148,10 +148,9 @@ span.shadow-text {
   border: none !important;
 }
 
-.qrcode {
-  > img {
-    margin: 0;
-  }
+.qrcode > img {
+  margin: 0;
+  border: 0;
 }
 
 .trans-flag {
