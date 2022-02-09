@@ -18,18 +18,7 @@ weight: 1000
 
 ## 挂号
 
-请如实填写实名信息
-
-微信订阅号：重医大附三院
-{{< qrcode "http://weixin.qq.com/r/hjs0LB3EBEB7rVlP926U" >}}
-
-微信服务号：重庆医科大学附属第三医院
-{{< qrcode "http://weixin.qq.com/r/hzt1bbDEBe16rfQO926V" >}}
-
-手机 App：重庆医科大学附属第三医院
-{{< qrcode "http://qrcenter.hsyuntai.com:7777/hs-med-qrcenter/r/60210/100?hosId=100039" >}}
-
-关注「重庆医科大学附属第三医院」公众号 - 选择「医疗服务」菜单 - 预约挂号 - 搜索「宁洁」- 选择「出诊信息」进行预约
+挂号方法参见 [本站板块-任正伽]({{< ref "ren-zhengjia" >}})
 
 ## 问诊细节
 
