@@ -7,7 +7,7 @@ weight: 46
 
 医院：[米兰达整形医院（Milada Cosmetic Surgery Hospital）](https://g.page/milada_hospital)
 
-<http://www.miladahospital.com/products/view.php?id=104/>
+官方网站：<http://www.miladahospital.com/products/view.php?id=104> （泰语）
 
 中文热线：{{< telephone "+66 89-794-0811" >}}
 邮箱：<china_info@miladahospital.com>、<miladahospital@gmail.com>
