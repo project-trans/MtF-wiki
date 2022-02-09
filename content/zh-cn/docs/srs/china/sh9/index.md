@@ -46,6 +46,6 @@ PI 皮瓣技术，但是需要脱毛。
 
 ## 手术评价
 
-  {{< expand "2021 年 11 月手术，术后约一个月拍摄" >}}
-  ![srs-photo](post-1.jpg)
-  {{< /expand >}}
+{{< expand "2021 年 11 月手术，术后约一个月拍摄" >}}
+![srs-photo](post-1.jpg)
+{{< /expand >}}
