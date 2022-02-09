@@ -1,8 +1,0 @@
-User-agent: *
-{{- if eq .Site.BaseURL "https://mtf.wiki" }}
-{{- range $.Site.Home.AllTranslations }}
-Sitemap: {{ .RelPermalink }}sitemap.xml
-{{- end }}
-{{- else }}
-Disallow: /
-{{- end }}
