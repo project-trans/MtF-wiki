@@ -29,6 +29,22 @@ SRS 根据阴道再造的方式常可分为以下几种，包括
 
 有的医生能做到接近完美难以与顺性别女性区分，也有的医生能做到的仅仅是切除原有器官并造腔，上述要求都难以达到，因此医生的选择非常重要。但同样需要注意的是，即使是最富经验的医生也无法做到完全完美的效果，而且由于医生本身的失误或手术对象体质差异的原因总有一定的风险手术效果不尽人意甚至发生更严重的后果。SRS 本身是一个非常复杂的手术，可能有非常严重的并发症，包括手术失败，导致大出血乃至死亡；术后发生阴道狭窄、萎缩或脱垂，阴道或外阴撕裂，肠道或尿道阴道瘘，尿道狭窄，阴唇或阴蒂坏死，神经受损导致敏感度丧失，及深静脉血栓，以及持续的出血、肉芽组织增生或其它红肿症状等炎症等。在搜集相关资料时，无论对哪一位医生都能找到许多正面和负面的报道，需要综合考虑。
 
+## 女性阴部参考
+
+![](/images/srs/tech/vulva_figure_zh.png)
+
+[来源](https://openstax.org/books/anatomy-and-physiology/pages/27-2-anatomy-and-physiology-of-the-female-reproductive-system)
+
+{{< expand "展开查看" >}}
+![](/images/srs/tech/1024px-Fremale_reproductive_organs_to_see_through.jpg)
+
+[来源](https://commons.wikimedia.org/wiki/File:Fremale_reproductive_organs_to_see_through.jpg) CC BY-SA 3.0
+
+![](/images/srs/tech/800px-Clitoris-Vivero-Becker.jpg)
+
+[来源](https://commons.wikimedia.org/wiki/File:Clitoris-Vivero-Becker.jpg) CC BY-SA 3.0
+
+{{< /expand >}}
 ## 参考资料
 
 [SRS FAQ · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/161673959)（链接失效）
