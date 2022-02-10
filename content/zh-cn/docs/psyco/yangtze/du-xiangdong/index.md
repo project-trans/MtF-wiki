@@ -5,7 +5,7 @@ weight: 3
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/neg "家长陪诊" >}} {{< tag/neg "一年随诊" >}}
+{{< tag/neg "需家属介入" >}} {{< tag/neg "观察期 1 年" >}}
 
 医生姓名：[杜向东](https://www.haodf.com/doctor/6964352508.html)
 
