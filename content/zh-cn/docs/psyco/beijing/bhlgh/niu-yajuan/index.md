@@ -11,8 +11,7 @@ weight: 2
 {{< tag/neg 并非跨性别专科 >}}
 
 医生姓名：[牛雅娟](https://www.haodf.com/doctor/7541.html)
-
-所在医院：[北京回龙观医院](https://amap.com/place/B000A0989A)
+所在医院：[北京回龙观医院]({{< ref "bhlgh" >}})
 
 ## 总述
 
