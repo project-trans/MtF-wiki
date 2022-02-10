@@ -31,21 +31,17 @@ SRS 根據陰道再造的方式常可分為以下幾種，包括
 
 ## 女性陰部參考
 
-![](/images/srs/tech/vulva_figure_zh.png)
-
+![Female Reproductive System](/images/srs/tech/vulva_figure_zh.png)
 [來源](https://openstax.org/books/anatomy-and-physiology/pages/27-2-anatomy-and-physiology-of-the-female-reproductive-system)
 
 {{< expand "展開檢視" >}}
-![](/images/srs/tech/1024px-Fremale_reproductive_organs_to_see_through.jpg)
-
+![Fremale reproductive organs to see through](/images/srs/tech/1024px-Fremale_reproductive_organs_to_see_through.jpg)
 [來源](https://commons.wikimedia.org/wiki/File:Fremale_reproductive_organs_to_see_through.jpg) CC BY-SA 3.0
 
-![](/images/srs/tech/800px-Clitoris-Vivero-Becker.jpg)
-
+![Clitoris-Vivero-Becker](/images/srs/tech/800px-Clitoris-Vivero-Becker.jpg)
 [來源](https://commons.wikimedia.org/wiki/File:Clitoris-Vivero-Becker.jpg) CC BY-SA 3.0
 
 {{< /expand >}}
-
 
 ## 參考資料
 

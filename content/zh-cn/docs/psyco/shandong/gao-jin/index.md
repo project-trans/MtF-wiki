@@ -5,7 +5,7 @@ weight: 12
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos 复诊不需要身份证 >}} {{< tag/pos 和蔼介入 >}} {{< tag/pos 可与家属沟通 >}}
+{{< tag/pos 复诊不需要身份证 >}} {{< tag/pos 和蔼 >}} {{< tag/pos 可与家长沟通 >}}
 
 医生姓名：[高进](https://www.haodf.com/doctor/1036033850.html)
 
