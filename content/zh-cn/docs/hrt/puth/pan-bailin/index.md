@@ -9,7 +9,7 @@ aliases:
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos 超级帅 >}} {{< tag/neg 拍照片做研究 >}}
+{{< tag/pos "超级帅" >}} {{< tag/neg "拍照片做研究" >}}
 
 医生姓名：[潘柏林](https://www.haodf.com/doctor/227082.html)
 所在医院：[北京大学第三医院]({{< ref "puth" >}})

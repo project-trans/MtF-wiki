@@ -5,7 +5,7 @@ weight: 1
 
 {{< doctor-image src="doctor.png" >}}
 
-{{< tag/neg 昂贵 >}}
+{{< tag/neg "昂贵" >}}
 
 医生姓名：[贾艳滨](https://www.haodf.com/doctor/240979.html)
 

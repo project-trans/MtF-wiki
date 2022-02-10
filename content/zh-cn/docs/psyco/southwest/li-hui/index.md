@@ -5,7 +5,7 @@ weight: 1
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos 可与家长沟通 >}} {{< tag/neg "观察期 1 年" >}}
+{{< tag/pos "可与家长沟通" >}} {{< tag/neg "观察期 1 年" >}}
 
 医生姓名：[李慧](http://www.scsjsyxzx.com/physician/2021/4oeEva0B.html)
 

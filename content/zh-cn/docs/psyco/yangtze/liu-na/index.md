@@ -7,7 +7,7 @@ weight: 5
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/neg 需家属介入 >}}
+{{< tag/neg "需家属介入" >}}
 
 医生姓名：[刘娜](http://www.smhc.org.cn/MedicalGuide/contents/51/183.html)
 

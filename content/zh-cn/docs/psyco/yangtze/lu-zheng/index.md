@@ -7,7 +7,7 @@ weight: 4
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/neg 昂贵 >}} {{< tag/neg 初诊不开证 >}} {{< tag/neg 需家属介入 >}}
+{{< tag/neg "昂贵" >}} {{< tag/neg "初诊不开证" >}} {{< tag/neg "需家属介入" >}}
 
 医生姓名：[陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)
 

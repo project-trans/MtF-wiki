@@ -3,7 +3,7 @@ title: 南京脑科医院
 weight: 0
 ---
 
-{{< tag/pos 一次过 >}} {{< tag/pos 无需家长 >}}
+{{< tag/pos "一次过" >}} {{< tag/pos "无需家长" >}}
 
 ## 医生列表
 

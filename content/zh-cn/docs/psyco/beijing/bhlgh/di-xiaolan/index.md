@@ -5,7 +5,7 @@ weight: 2
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "病历可用于北三 HRT" >}} {{< tag/neg "观察期 1 年" >}} {{< tag/neg 比较昂贵 >}}
+{{< tag/pos "病历可用于北三 HRT" >}} {{< tag/neg "观察期 1 年" >}} {{< tag/neg "比较昂贵" >}}
 
 医生姓名：[邸晓兰](https://www.haodf.com/doctor/11007.html)
 所在医院：[北京回龙观医院]({{< ref "bhlgh" >}})
