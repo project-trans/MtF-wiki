@@ -5,7 +5,7 @@ weight: 6
 
 {{< doctor-image src="doctor.png" >}}
 
-{{< tag/pos "一次过" >}} {{< tag/pos "无需家长" >}} {{< tag/pos "低龄给证" >}}
+<!-- 缺乏细节曝光，不宜标记 tag -->
 
 医生姓名：[黄英](https://www.haodf.com/doctor/112797.html)
 

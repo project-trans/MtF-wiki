@@ -5,8 +5,8 @@ weight: 2
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/neg "多次就诊" >}} {{< tag/pos "可与家长沟通" >}}
-{{< tag/pos "平诊不限号" >}} {{< tag/pos "便宜" >}}
+{{< tag/pos "需家属介入" >}}
+{{< tag/neg "观察期 0.5 年" >}}
 
 医生姓名：郑天生
 

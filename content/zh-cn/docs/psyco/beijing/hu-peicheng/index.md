@@ -5,10 +5,7 @@ weight: 2
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
-{{< doctor-image src="doctor.jpg" >}}
-
-{{< tag/pos "和蔼" >}} {{< tag/pos "性教育创始人" >}}
-{{< tag/pos "初诊开证" >}} {{< tag/pos "病历可用于北三 HRT" >}}
+{{< tag/pos "和蔼" >}} {{< tag/pos "初诊开证" >}}
 {{< tag/neg "必须年满 20 岁" >}}
 
 医生姓名：[胡佩诚](https://www.haodf.com/doctor/12034.html)

@@ -5,10 +5,7 @@ weight: 2
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
-{{< doctor-image src="doctor.jpg" >}}
-
-{{< tag/pos "初诊开证" >}} {{< tag/pos "病历可用于北三 HRT" >}}
-{{< tag/neg "具体标准未知" >}}
+<!-- 缺乏细节曝光，不宜标记 tag -->
 
 医生姓名：郝树伟
 所在医院：[北京大学第三医院](https://amap.com/place/B000A7CGSS)

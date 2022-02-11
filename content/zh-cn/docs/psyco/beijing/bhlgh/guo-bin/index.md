@@ -6,7 +6,7 @@ title: 过斌
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "病历可用于北三 HRT" >}} {{< tag/pos "挂号费低" >}} {{< tag/neg "观察期 1 年" >}}
+{{< tag/neg "观察期 1 年" >}}
 
 医生姓名：[过斌](https://www.haodf.com/doctor/238890.html)
 所在医院：[北京回龙观医院]({{< ref "bhlgh" >}})

@@ -5,8 +5,6 @@ weight: 1
 
 {{< doctor-image src="doctor.png" >}}
 
-{{< tag/neg "昂贵" >}}
-
 医生姓名：[贾艳滨](https://www.haodf.com/doctor/240979.html)
 
 所在医院：[暨南大学附属第一医院](https://amap.com/place/B00140382F)（广州华侨医院）

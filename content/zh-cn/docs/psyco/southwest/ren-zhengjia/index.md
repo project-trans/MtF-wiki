@@ -3,7 +3,7 @@ title: 重庆｜任正伽
 weight: 1
 ---
 
-{{< tag/pos "可与家长沟通" >}}
+{{< tag/pos "需家属介入" >}}
 
 医生姓名：[任正伽](https://www.haodf.com/doctor/5630749638.html)
 

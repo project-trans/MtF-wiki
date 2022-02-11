@@ -5,7 +5,7 @@ weight: 1
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "可与家长沟通" >}} {{< tag/neg "多次就诊" >}} {{< tag/neg "昂贵" >}}
+<!-- 缺乏细节曝光，不宜标记 tag -->
 
 医生姓名：[吴皓](http://www.srrsh.com/jiuzheng/professional/detail221.html)
 

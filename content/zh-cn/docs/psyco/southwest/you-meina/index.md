@@ -5,7 +5,7 @@ weight: 1
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "可与家长沟通" >}} {{< tag/neg "要求年满 18 岁" >}}
+<!-- 缺乏细节曝光，不宜标记 tag -->
 
 医生姓名：[尤美娜](https://www.gxmuyfy.cn/departQtlcks/xlwskyhtd/11495.html)
 
