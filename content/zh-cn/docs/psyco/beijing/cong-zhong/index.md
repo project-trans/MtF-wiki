@@ -7,7 +7,7 @@ weight: 1
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "无需家长" >}} {{< tag/pos "初诊开假条" >}}
+{{< tag/pos "无需家长" >}} {{< tag/pos "初诊获得假条" >}}
 {{< tag/neg "观察期 2 年" >}}
 
 医生姓名：[丛中](https://m.haodf.com/doctor/3990.html)

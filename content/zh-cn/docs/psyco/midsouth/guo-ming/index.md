@@ -3,7 +3,7 @@ title: 南昌｜郭明
 weight: 1
 ---
 
-{{< tag/pos "初诊开假条" >}}
+{{< tag/pos "初诊获得假条" >}}
 
 医生姓名：[郭明](https://www.haodf.com/doctor/281543.html)
 
