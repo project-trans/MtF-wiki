@@ -5,7 +5,7 @@ weight: 2
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "可与家长沟通" >}}
+{{< tag/pos "可与家长沟通" >}} {{< tag/pos "无需抢号" >}}
 {{< tag/neg "观察期 0.5 年" >}}
 
 医生姓名：郑天生
