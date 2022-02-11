@@ -58,7 +58,7 @@ weight: 1
 ![证明](proof.jpg)
 
 病历部分
-![病例](record.jpg)
+![病历](record.jpg)
 
 ## 出诊时刻
 
