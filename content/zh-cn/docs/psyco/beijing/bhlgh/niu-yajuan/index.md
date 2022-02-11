@@ -1,6 +1,5 @@
 ---
 title: 牛雅娟
-weight: 2
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

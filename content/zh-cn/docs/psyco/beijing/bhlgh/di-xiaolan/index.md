@@ -1,6 +1,5 @@
 ---
 title: 邸晓兰
-weight: 2
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
