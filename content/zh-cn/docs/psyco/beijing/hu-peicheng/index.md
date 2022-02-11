@@ -5,7 +5,7 @@ weight: 2
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
-{{< tag/pos "和蔼" >}} {{< tag/pos "一次过" >}}
+{{< tag/pos "和蔼" >}} {{< tag/pos "初诊获得证明" >}}
 {{< tag/neg "必须年满 20 岁" >}}
 
 医生姓名：[胡佩诚](https://www.haodf.com/doctor/12034.html)
