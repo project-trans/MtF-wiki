@@ -23,6 +23,14 @@ draft: false
 
 中餐外賣平臺 [悟空](https://play.google.com/store/apps/details?id=com.wukong.waimai)
 
+## 入境
+
+疫情下基本不能走醫療簽證，當前一般以旅遊簽證或落地簽證入境，下方是申請入口，落地簽證僅需要申請 Thailand Pass，請務必說自己是來旅遊的。
+
+[泰國電子簽證申請入口](https://www.thaievisa.go.th/)
+
+[Thailand Pass 入口](https://tp.consular.go.th/en/plan)
+
 ## 術前準備物品
 
 流食期間食物：
@@ -72,3 +80,27 @@ draft: false
 不要辣,ไม่เผ็ด
 不要花生,ไม่เอาถั่วลิสง
 {{< /csv-table >}}
+
+## 中華人民共和國駐泰王國大使館
+
+<http://th.china-embassy.org/chn/>
+
+地址：[57 Ratchadaphisek Road, Bangkok 10400 (57 ถ. รัชดาภิเษก แขวง ดินแดง เขตดินแดง กรุงเทพมหานคร)](https://goo.gl/maps/VraMb8dvM2uCq99f7)
+
+電話：{{< telephone "+66 2-2450088">}}
+
+電子郵件：<chinaemb_th@mfa.gov.cn>
+
+領事保護電話：{{< telephone "+66 2-2457010" >}}
+
+<https://www.taiwanembassy.org/th/>
+
+## 駐泰國台北經濟文化辦事處
+
+地址：40/64 Vibhavadi-Rangsit 66, Laksi, 10210 Bangkok, Thailand
+
+電話：{{< telephone "+66 2-1193555" >}}
+
+緊急聯絡電話：{{< telephone "+66 81-6664006" >}}
+
+Line 帳號：{{< shields/line "Taiwan119">}}
