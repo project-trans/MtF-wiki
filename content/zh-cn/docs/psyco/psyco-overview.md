@@ -12,7 +12,7 @@ weight: 1
 
 1. 未满 20 周岁时
    无需家属陪同，**但仍需家属同意**
-   可以进行 [HRT]({{< ref "hrt-overview" >}}) 治疗，但是根据《性别重置技术管理规范》要求无法进行 [SRS]({{< ref "srs-overview-china" >}})
+   可以进行 [HRT]({{< ref "hrt-res-overview" >}}) 治疗，但是根据《性别重置技术管理规范》要求无法进行 [SRS]({{< ref "srs-overview-china" >}})
 
 ## 问诊问题
 
