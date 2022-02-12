@@ -1,8 +1,7 @@
 ---
 title: HRT 總述
 weight: 1
-aliases:
-  - hrt
+slug: overview
 ---
 ## 常規激素替代治療
 

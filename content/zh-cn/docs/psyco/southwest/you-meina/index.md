@@ -8,9 +8,7 @@ weight: 1
 <!-- 缺乏细节曝光，不宜标记 tag -->
 
 医生姓名：[尤美娜](https://www.gxmuyfy.cn/departQtlcks/xlwskyhtd/11495.html)
-
 所在医院：[广西医科大学第一附属医院](https://www.gxmuyfy.cn/)
-
 出诊时刻：<https://www.gxmuyfy.cn/guide/guideczys.html>
 
 ## 费用
@@ -21,12 +19,12 @@ weight: 1
 
 ## 挂号
 
-广西医科大学第一附属医院官方微信
+官方微信号：「广西医科大学第一附属医院」
 
 ## 问诊细节
 
-暂缺
+缺乏进一步的报告
 
 ## 证明样式
 
-暂缺
+缺乏进一步的报告

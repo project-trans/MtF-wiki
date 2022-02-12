@@ -5,6 +5,8 @@ weight: 2
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
+{{< doctor-image src="doctor.jpg" >}}
+
 <!-- 缺乏细节曝光，不宜标记 tag -->
 
 医生姓名：郝树伟

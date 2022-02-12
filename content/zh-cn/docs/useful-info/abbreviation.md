@@ -87,6 +87,8 @@ FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary �
 
 幻想变性性兴奋理论（AutoGynephilia），一般认为是过时的理论
 
+驳 AG 论：<https://zhuanlan.zhihu.com/p/59510858>
+
 ## CD
 
 异装（Cross-dressing）
