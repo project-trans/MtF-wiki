@@ -3,6 +3,10 @@ title: SRS 综述（中国大陆）
 weight: 1
 ---
 
+## 术前科普
+
+具体参见：[术前科普]({{< ref "tech" >}})
+
 ## 法律依据 {#legal}
 
 依据 [《性别重置技术管理规范（2017 版）》](http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml)

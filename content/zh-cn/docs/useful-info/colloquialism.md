@@ -42,7 +42,7 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 手术党、术娘
 
-名词。指已完成 [SRS]({{< ref "../srs/faq" >}}) 的跨儿。
+名词。指已完成 [SRS]({{< ref "srs-overview-china" >}}) 的跨儿。
 
 ## 中奖党
 
