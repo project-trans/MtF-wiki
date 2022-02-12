@@ -31,8 +31,8 @@ transM,跨性别男性
 transles,跨性别女同性恋（即其中一方为 transF）
 transgay,跨性别男同性恋（即其中一方为 transM）
 "FtX, MtX",认为自己不属于指派性别，同时也不完全属于另一个性别
-Female-to-Male,女跨男（FtM）
-Male-to-Female,男跨女（MtF）
+FtM,女跨男（Female-to-Male）
+MtF,男跨女（Male-to-Female）
 TS,变性者（Transsexual）
 {{< /csv-table >}}
 
