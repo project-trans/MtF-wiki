@@ -35,10 +35,10 @@ weight: 0
   - 戊酸雌二醇
     [补佳乐]({{< ref "progynova" >}})
     [爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}})
+    [健民雌二醇凝胶]({{< ref "oestrogel#jian-min" >}})
 - 抗雄激素药品
   - 醋酸环丙孕酮
     [色普龙]({{< ref "cyproterone" >}})
   - [螺内酯]({{< ref "spironolactone" >}})
-  - [比卡鲁胺]({{< ref "bicalutamide" >}})
 
 但是需要自行 [进行激素检查]({{< ref "hormone-check" >}})
