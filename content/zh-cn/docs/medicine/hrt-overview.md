@@ -1,6 +1,7 @@
 ---
 title: HRT 总述
 weight: 1
+slug: overview
 ---
 
 ## 常规激素替代治疗

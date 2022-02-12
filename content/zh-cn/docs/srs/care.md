@@ -1,6 +1,6 @@
 ---
 title: 术后护理
-weight: 4
+weight: 400
 ---
 
 {{< notice info "提示" >}}
