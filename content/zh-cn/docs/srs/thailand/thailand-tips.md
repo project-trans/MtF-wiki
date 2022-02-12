@@ -3,20 +3,20 @@ title: 泰国旅行指南
 draft: false
 ---
 
-<!--咕咕-->
+<!-- 咕咕 -->
 
-## 出行前物品准备
+## 出行前物品准备 {#prepare-leave}
 
 - 先检查您的所有文件证件
 - 不用准备太多常服
 - 请准备两套以上睡裙
-- 不必携带 HRT 药物（可以带一支[爱斯妥凝胶]({{< ref oestrogel >}})）
+- 不必携带 HRT 药物（可以带一支 [爱斯妥凝胶]({{< ref "oestrogel" >}})）
 - 有长期用药的请计算好足够的量
 - 降噪耳机有助于改善您的旅程
 - 三脚插座请购买「美标」转换器
 - 记得带上你的鲨鲨 Blåhaj（睡觉的时候夹着比较舒适）
 
-## 实用 APP
+## 实用 APP {#app}
 
 显示国行 Android 手机的 Play Store [点这里](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手机本来内置谷歌服务）
 
@@ -31,7 +31,7 @@ draft: false
 
 都可以用国际信用卡或者现金支付，所以沒有国际信用卡也不用担心。
 
-## 术前准备物品
+## 术前准备物品 {#preoperative}
 
 流食期间食物：
 
@@ -50,7 +50,7 @@ draft: false
 - Baby powder
 - 小镜子（医院出院可能提供）
 
-## 散装泰语
+## 散装泰语 {#imitate}
 
 基本使用汉语拼音谐音表示，但是 e 表示 ye 的 e，用 ə 表示「额」的音。多一个声调 â 发音比 ā 更高一点。b, d, g 结尾就是用 b, d, g 的口型收尾，讲粤语、客家话、闽南话的朋友对此应该比较熟悉。
 {{< csv-table >}}
@@ -84,3 +84,15 @@ draft: false
 不要辣,ไม่เผ็ด
 不要花生,ไม่เอาถั่วลิสง
 {{< /csv-table >}}
+
+## 中华人民共和国驻泰王国大使馆 {#embassy}
+
+<http://th.china-embassy.org/chn/>
+
+地址：[57 Ratchadaphisek Road, Bangkok 10400 (57 ถ. รัชดาภิเษก แขวง ดินแดง เขตดินแดง กรุงเทพมหานคร)](https://goo.gl/maps/VraMb8dvM2uCq99f7)
+
+电话：{{< telephone "+66 2-2450088">}}
+
+电子邮件：<chinaemb_th@mfa.gov.cn>
+
+领事保护电话：{{< telephone "+66 2-2457010" >}}

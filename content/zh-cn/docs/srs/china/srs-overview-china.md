@@ -6,7 +6,7 @@ slug: overview
 
 ## 术前科普 {#popular}
 
-具体参见：[术前科普]({{< ref "faq" >}})
+具体参见：[术前科普]({{< ref "srs-faq" >}})
 
 ## 法律依据 {#legal}
 
@@ -39,7 +39,7 @@ slug: overview
 
 ## 手术术式 {#tech}
 
-具体参见：[手术技术]({{< ref "tech-srs" >}})
+具体参见：[手术技术]({{< ref "srs-tech" >}})
 
 ## 费用预期 {#fee}
 
