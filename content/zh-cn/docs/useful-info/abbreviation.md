@@ -75,6 +75,8 @@ FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary �
 
 [维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他疗法)
 
+北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/L-ViMDYNLycgIMc4SJQHvQ)
+
 ## VFS
 
 声音女性化手术（Voice feminization surgery）
