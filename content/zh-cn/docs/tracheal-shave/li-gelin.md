@@ -1,5 +1,7 @@
 ---
 title: 北京友谊医院｜李革临
+aliases:
+  - ../chondrolaryngoplasty/li-gelin
 ---
 
 主刀医师：[李革临](http://www.bfh.com.cn/Html/Doctors/Main/Index_272.html)

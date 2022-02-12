@@ -1,5 +1,7 @@
 ---
 title: 北医三院｜潘柏林
+aliases:
+  - ../chondrolaryngoplasty/pku3
 ---
 
 北医三院喉结手术流程

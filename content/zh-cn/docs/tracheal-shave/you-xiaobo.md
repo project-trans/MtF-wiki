@@ -1,5 +1,7 @@
 ---
 title: 四川省人民医院｜游晓波
+aliases:
+  - ../chondrolaryngoplasty/you-xiaobo
 ---
 
 医生姓名：[游晓波](https://www.samsph.com/expert/2021/YqaQg5dn.html)

@@ -1,5 +1,7 @@
 ---
 title: 四川大学华西医院｜许学文
+aliases:
+  - ../chondrolaryngoplasty/xu-xuewen
 ---
 
 医生姓名：[许学文](https://www.haodf.com/doctor/25624.html)
