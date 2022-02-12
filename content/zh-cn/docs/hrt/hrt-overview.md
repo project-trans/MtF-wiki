@@ -1,7 +1,7 @@
 ---
 title: HRT 医疗资源综述
 description: 本文着重形式化「HRT 指导」的一般行为模式的梳理
-weight: 0
+weight: 1
 ---
 
 ## 综述

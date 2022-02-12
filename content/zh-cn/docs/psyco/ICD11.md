@@ -25,7 +25,7 @@ ICD-11 是「国际疾病分类第十一次修订本」的简称
 [icd-10]: https://icd.who.int/browse10/2019/en#/F64
 [icd-11]: https://icd.who.int/browse11/l-m/zh#/http://id.who.int/icd/entity/411470068
 
-### HRT 以及性别重置手术
+### HRT 以及 SRS
 
 2022 年 1 月 8 日更新
 
