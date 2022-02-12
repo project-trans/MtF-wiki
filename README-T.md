@@ -41,7 +41,7 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 而如果你想要引用這個 GitHub Repo，可以使用如下的 bibtex：
 
-```
+```plain
 @misc{mtfwiki,
   author = {MtF Wiki Team},
   title = {MtF Wiki},

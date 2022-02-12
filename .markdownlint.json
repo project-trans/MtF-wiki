@@ -3,7 +3,6 @@
   "no-inline-html": false,
   "no-duplicate-header": false,
   "no-emphasis-as-header": false,
-  "fenced-code-language": false,
   "line-length": false,
   "frontmatter": false
 }
