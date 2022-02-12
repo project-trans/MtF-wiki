@@ -1,12 +1,12 @@
 ---
 title: SRS 综述（中国大陆）
-slug: overview-china
 weight: 1
+slug: overview
 ---
 
 ## 术前科普 {#popular}
 
-具体参见：[术前科普]({{< ref "tech" >}})
+具体参见：[术前科普]({{< ref "faq" >}})
 
 ## 法律依据 {#legal}
 
@@ -39,7 +39,7 @@ weight: 1
 
 ## 手术术式 {#tech}
 
-具体参见：[手术技术]({{< ref "tech" >}})
+具体参见：[手术技术]({{< ref "tech-srs" >}})
 
 ## 费用预期 {#fee}
 

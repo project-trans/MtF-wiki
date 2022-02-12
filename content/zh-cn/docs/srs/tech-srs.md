@@ -1,6 +1,7 @@
 ---
 title: 手术技术
 weight: 300
+slug: tech
 ---
 
 #### SRS 手术方式

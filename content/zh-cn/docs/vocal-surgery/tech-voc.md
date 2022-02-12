@@ -1,6 +1,7 @@
 ---
 title: 手术技术
 weight: 999
+slug: tech
 ---
 
 ### 手术方式 {#method}
