@@ -38,7 +38,7 @@ weight: 2
 
 ## 证明样式
 
-{{< expand "观察期病例样本" >}}
+{{< expand "观察期病历样本" >}}
 ![病历](record.jpg)
 {{< /expand >}}
 
