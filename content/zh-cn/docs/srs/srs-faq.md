@@ -1,5 +1,6 @@
 ---
 title: 术前科普
+slug: faq
 weight: 100
 ---
 

@@ -4,9 +4,9 @@ weight: 4
 collapsible: true
 ---
 
-[术前科普]({{< ref "faq" >}})
+[术前科普]({{< ref "srs-faq" >}})
 
-[手术技术]({{< ref "tech-srs" >}})
+[手术技术]({{< ref "srs-tech" >}})
 
 [术后护理]({{< ref "care" >}})
 
