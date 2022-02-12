@@ -1,5 +1,6 @@
 ---
 title: 北京友谊医院｜李革临
+slug: li-gelin
 weight: 0
 ---
 

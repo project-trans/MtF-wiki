@@ -6,7 +6,7 @@ collapsible: true
 
 [上海中山医院｜李小英]({{< ref "li-xiaoying" >}})
 
-[上海九院｜程辰]({{< ref "sh9" >}})
+[上海九院｜程辰]({{< ref "sh9-hrt" >}})
 
 [上海新华医院｜邱文娟]({{< ref "qiu-wenjuan" >}})
 
