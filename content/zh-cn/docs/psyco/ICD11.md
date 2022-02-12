@@ -25,7 +25,15 @@ ICD-11 是「国际疾病分类第十一次修订本」的简称
 [icd-10]: https://icd.who.int/browse10/2019/en#/F64
 [icd-11]: https://icd.who.int/browse11/l-m/zh#/http://id.who.int/icd/entity/411470068
 
-### HRT 以及性别重置手术
+### SRS
+
+由于 [《性别重置技术管理规范（2017 版）》][spec] 是依据 ICD-10 制定的
+
+因此 ICD-11 对 SRS 的 手术前置要求 的影响需要等待《性别重置技术管理规范》的更新
+
+[spec]: http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml
+
+## 进展
 
 2022 年 1 月 8 日更新
 
