@@ -3,8 +3,5 @@
 {{- $value := .Get "value" | float -}}
 {{- $qs := querify "Amount" $value "From" $from "To" $to -}}
 <a class="currency" href="https://www.xe.com/currencyconverter/convert/?{{ $qs | safeURL }}">
-  {{- $units := slice "" "k" "M" -}}
-  {{- $unit := div (math.Log $value) (math.Log 1000) | math.Floor | int -}}
-  {{- $base := math.Pow 1000 $unit -}}
-  {{- div $value $base }}{{ index $units $unit }} {{ $from -}}
+{{- lang.FormatNumber 0 $value -}}&nbsp;{{ $from }}
 </a>
