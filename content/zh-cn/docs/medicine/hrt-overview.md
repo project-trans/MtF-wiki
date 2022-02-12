@@ -125,6 +125,6 @@ weight: 1
 
 ## 青春期抑制治疗（GnRH 类似物）
 
-见[此处]({{< ref "gnrha" >}})
+见 [此处]({{< ref "gnrha" >}})
 
 [^1]: [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
