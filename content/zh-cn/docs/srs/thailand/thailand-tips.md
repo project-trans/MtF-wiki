@@ -84,3 +84,15 @@ draft: false
 不要辣,ไม่เผ็ด
 不要花生,ไม่เอาถั่วลิสง
 {{< /csv-table >}}
+
+## 中华人民共和国驻泰王国大使馆
+
+<http://th.china-embassy.org/chn/>
+
+地址：[57 Ratchadaphisek Road，Bangkok 10400 (57 ถ. รัชดาภิเษก แขวง ดินแดง เขตดินแดง กรุงเทพมหานคร)](https://www.google.com/maps/place/%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%B3%B0%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86/@13.7620505,100.5643496,17z/data=!4m8!1m2!3m1!2z5Lit5Zu96am75rOw5Zu95aSn5L2_6aaG!3m4!1s0x30e29e888ebc8af7:0x34a5d2c857e81d6!8m2!3d13.7620224!4d100.5666241)
+
+电话：0066-2-2450088
+
+电子邮件：<chinaemb_th@mfa.gov.cn>
+
+领事保护电话：0066-2-2457010
