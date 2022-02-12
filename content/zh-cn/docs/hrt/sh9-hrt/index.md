@@ -1,6 +1,7 @@
 ---
 title: 上海九院｜程辰
 description: 上海九院提供跨性别序列治疗
+slug: sh9
 weight: 200
 ---
 

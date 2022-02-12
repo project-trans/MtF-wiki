@@ -6,7 +6,7 @@ collapsible: true
 
 [术前科普]({{< ref "faq" >}})
 
-[手术技术]({{< ref "tech" >}})
+[手术技术]({{< ref "tech-srs" >}})
 
 [术后护理]({{< ref "care" >}})
 

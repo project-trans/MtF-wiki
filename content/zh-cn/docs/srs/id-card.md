@@ -1,6 +1,6 @@
 ---
 title: 证件变更指引
-weight: 6
+weight: 600
 ---
 
 {{< notice info "注意事项" >}}

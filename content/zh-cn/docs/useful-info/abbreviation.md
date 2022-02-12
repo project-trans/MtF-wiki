@@ -59,7 +59,7 @@ FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary �
 性别重置手术（Sex reassignment surgery）
 有时也会被称之为：GRS (Gender reassignment surgery) 、性别确认手术（Gender confirmation surgery）、性别还原手术
 
-[本站板块]({{< ref "../srs/faq" >}})
+[本站板块]({{< ref "srs-overview-china" >}})
 [百度百科](https://baike.baidu.com/item/性别重置手术)
 [维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
 
