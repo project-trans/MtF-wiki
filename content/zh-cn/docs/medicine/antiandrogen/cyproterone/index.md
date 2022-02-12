@@ -45,7 +45,7 @@ weight: 1
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
 
-### 华典<sup>&reg;</sup>醋酸环丙孕酮片
+### 华典<sup>&reg;</sup>醋酸环丙孕酮片 {#huadian}
 
 ![Huadian](huadian.jpg)
 

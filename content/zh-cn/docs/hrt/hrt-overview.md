@@ -1,6 +1,7 @@
 ---
 title: HRT 医疗资源综述
 description: 本文着重形式化「HRT 指导」的一般行为模式的梳理
+slug: overview
 weight: 1
 ---
 
@@ -38,7 +39,8 @@ weight: 1
     [健民雌二醇凝胶]({{< ref "oestrogel#jian-min" >}})
 - 抗雄激素药品
   - 醋酸环丙孕酮
-    [色普龙]({{< ref "cyproterone" >}})
+    [华典]({{< ref "cyproterone#huadian" >}})
   - [螺内酯]({{< ref "spironolactone" >}})
 
-但是需要自行 [进行激素检查]({{< ref "hormone-check" >}})
+但是需要自行 [进行激素检查]({{< ref "hormone-check" >}}) 来调节用药
+具体用药方法参见 [HRT 总述]({{< ref "hrt-med-overview" >}})

@@ -1,6 +1,7 @@
 ---
 title: 精神科医疗资源综述
 description: 本文着重形式化「易性症诊断证明」开具条件的一般行为模式的梳理
+slug: overview
 weight: 1
 ---
 
@@ -11,7 +12,7 @@ weight: 1
 
 1. 未满 20 周岁时
    无需家属陪同，**但仍需家属同意**
-   可以进行 HRT 治疗，但是根据《性别重置技术管理规范》要求无法进行 [SRS]({{< ref "srs-overview-china" >}})
+   可以进行 [HRT]({{< ref "hrt-med-overview" >}}) 治疗，但是根据《性别重置技术管理规范》要求无法进行 [SRS]({{< ref "srs-overview-china" >}})
 
 ## 问诊问题
 

@@ -50,7 +50,7 @@ FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary �
 激素替代疗法（Hormone replacement therapy）
 从 2022 年开始将会被 性别肯定激素治疗（Gender-affirming hormone therapy） 逐步取代
 
-[本站板块]({{< ref "../hrt/hrt-overview" >}})
+[本站板块]({{< ref "hrt-med-overview" >}})
 [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
 [性别肯定激素治疗 - 维基百科](https://zh.wikipedia.org/zh-cn/性别肯定激素治疗)
 

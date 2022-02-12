@@ -24,7 +24,7 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 糖
 
-指代 [激素治疗]({{< ref "../hrt/hrt-overview" >}}) 所使用的药物。
+指代 [激素治疗]({{< ref "hrt-med-overview" >}}) 所使用的药物。
 
 ## 家长党
 
