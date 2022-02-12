@@ -49,5 +49,5 @@ slug: overview
 
 ## 术后事项 {#post-matter}
 
-1. [证件变更指引]({{< ref "id-card" >}})
+1. [证件变更指引]({{< ref "id-card" >}})，一般凭出院材料走「A)三甲性别鉴定公证」即可。
 1. [学籍学历变更指引]({{< ref "education" >}})
