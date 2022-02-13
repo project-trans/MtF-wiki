@@ -1,6 +1,7 @@
 ---
 title: 術前科普
 weight: 1
+slug: faq
 ---
 
 ## Why SRS? SRS 能做到什麼? 我應當考慮 SRS 嗎?
