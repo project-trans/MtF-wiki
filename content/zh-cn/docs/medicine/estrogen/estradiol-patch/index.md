@@ -12,7 +12,7 @@ weight: 1
 
 ### Estradot<sup>&reg;</sup>
 
-{{< figure src="estradot.png" width="50%" >}}
+{{< figure src="/images/medicine/estradiol-patch/estradot.png" width="50%" >}}
 
 - 商品名：Estradot<sup>&reg;</sup>
 - 厂商：Novartis
@@ -20,7 +20,7 @@ weight: 1
 
 ### Progynova<sup>&reg;</sup> TS
 
-{{< figure src="progynova-ts.png" width="50%" >}}
+{{< figure src="/images/medicine/estradiol-patch/progynova-ts.png" width="50%" >}}
 
 - 商品名：Progynova<sup>&reg;</sup> TS[^1]
 - 厂商：Bayer

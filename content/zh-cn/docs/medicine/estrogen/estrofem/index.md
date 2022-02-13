@@ -13,7 +13,7 @@ Estrofem 是雌二醇片，不同于[补佳乐（戊酸雌二醇）]({{< ref "pr
 
 ## 基本信息
 
-![土诺包装](estrofem.png)
+![土诺包装](/images/medicine/estrofem/estrofem.png)
 
 - 药品名称：诺坤复<sup>&reg;</sup>（Estrofem<sup>&reg;</sup>）
 - 药品成分：雌二醇（Estradiol）
@@ -28,7 +28,7 @@ Estrofem 是雌二醇片，不同于[补佳乐（戊酸雌二醇）]({{< ref "pr
 1mg × 28 片/盒,红色薄膜包衣片 一面写有 NOVO 282 字样
 {{< /csv-table >}}
 
-- [说明书（英语）](estrofem.pdf)
+- [说明书（英语）](/documents/estrofem.pdf)
 
 ## 使用方式与用量
 

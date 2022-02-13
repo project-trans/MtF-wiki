@@ -12,8 +12,9 @@ weight: 1
 ## 基本信息
 
 ### Oestrogel<sup>&reg;</sup>（爱斯妥）{#ai-si-tuo}
-
-![Oestrogel](oestrogel.jpg)
+|      中国包装       |     国际包装     |
+| :-----------------: | :--------------------: |
+|![Oestrogel](oestrogel.jpg)|![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg)|
 
 - 产品名称：Oestrogel<sup>&reg;</sup>（爱斯妥）
 - 有效成分：雌二醇

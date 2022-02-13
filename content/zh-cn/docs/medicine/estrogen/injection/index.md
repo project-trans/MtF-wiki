@@ -13,7 +13,7 @@ libraries: [katex, mhchem]
 
 ### 富士 Progynon®-Depot
 
-![fuji](progynon-depot.jpg)
+![fuji](/images/medicine/injection/progynon-depot.jpg)
 
 - 英文名称：Progynon®-Depot
 - 日文名称：プロギノン ®・デポー
@@ -22,13 +22,13 @@ libraries: [katex, mhchem]
 - 厂商：富士制药
 - 规格：一盒 10 瓶，每瓶 1 mL，含有 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](progynon.pdf)
+- [说明书（日语）](/documents/progynon.pdf)
 
 ### 【停产】持田 Pelanin Depot
 
 |          5 mg          |          10 mg           |
 | :--------------------: | :----------------------: |
-| ![5 mg](mochida-5.jpg) | ![10 mg](mochida-10.jpg) |
+| ![5 mg](/images/medicine/injection/mochida-5.jpg) | ![10 mg](/images/medicine/injection/mochida-10.jpg) |
 
 - 英文名称：Pelanin Depot
 - 日文名称：ペラニンデポー
@@ -37,7 +37,7 @@ libraries: [katex, mhchem]
 - 厂商：持田制药
 - 规格：一盒 10 瓶，每瓶 1 mL，含有 5mg 或 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](pelanin.pdf)
+- [说明书（日语）](/documents/pelanin.pdf)
 
 ## 说明
 

@@ -13,18 +13,14 @@ weight: 1
 
 ### Oestrogel<sup>&reg;</sup>（愛斯妥）{#ai-si-tuo}
 
-![Oestrogel](oestrogel.jpg)
+![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg)
 
 - 產品名稱：Oestrogel<sup>&reg;</sup>（愛斯妥）
 - 有效成分：雌二醇
 - 生產企業：比利時法杏製藥廠
-- [說明書](estradiol-gel.jpg)
 - 藥品規格：
   0.06% &times; 80g（含雌二醇 48mg）
   0.06% &times; 30g（含雌二醇 18mg）
-{{< expand "愛斯妥雌二醇凝膠的說明書掃描件（簡體中文）" >}}
-![Oestrogel](estradiol-gel.jpg)
-{{< /expand >}}
 
 ## 使用方式與用量
 
@@ -43,12 +39,6 @@ weight: 1
 **若採血區域塗抹過凝膠，會導致雌二醇檢測結果反常偏大**
 
 每日使用 1 計量尺，雌二醇的血漿濃度**平均**為 80pg/mL．
-
-{{< notice info "關於雌二醇貼片" >}}
-雌二醇貼片（透皮治療系統，transdermal therapeutic system）與凝膠類似，有效成分為（半水合）雌二醇，二者均非類固醇酯類藥物。與口服藥物相比，貼片與凝膠可避免首過效應，或可降低肝臟負擔。
-
-以下內容為個人理解：對於類固醇酯類雌激素，均需經過肝臟分解為雌激素後方有生物活性，而肝臟代謝必然導致雌酮與雌二醇比例問題。因此，即使注射給藥，仍然需要遠高於透皮給藥的雌二醇劑量方能起到同等效果，其肝臟負擔未必顯著低於口服給藥。
-{{< /notice >}}
 
 ## 成分資訊
 

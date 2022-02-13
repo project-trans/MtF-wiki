@@ -1,6 +1,6 @@
 ---
 title: 針劑
-description: 戊酸雌二醇注射液，國內尚無相關產品，大多數為日本進口。
+description: 戊酸雌二醇注射液，大多數為日本進口。
 weight: 4
 libraries: [katex, mhchem]
 ---
@@ -13,22 +13,22 @@ libraries: [katex, mhchem]
 
 ### 富士 Progynon®-Depot
 
-![fuji](progynon-depot.jpg)
+![fuji](/images/medicine/injection/progynon-depot.jpg)
 
 - 英文名稱：Progynon®-Depot
-- 日文名稱：プロギノン®・デポー
+- 日文名稱：プロギノン ®・デポー
 - 藥品成分：戊酸雌二醇（Estradiol valerate）
 - 簡稱：富士日雌
 - 廠商：富士製藥
 - 規格：一盒 10 瓶，每瓶 1 mL，含有 10 mg 戊酸雌二醇
 - 外觀：微黃色澄清油性注射液
-- [說明書（日語）](progynon.pdf)
+- [說明書（日語）](/documents/progynon.pdf)
 
 ### 【停產】持田 Pelanin Depot
 
-| 5 mg | 10 mg |
-| :--: | :--:|
-| ![5 mg](mochida-5.jpg) | ![10 mg](mochida-10.jpg) |
+|          5 mg          |          10 mg           |
+| :--------------------: | :----------------------: |
+| ![5 mg](/images/medicine/injection/mochida-5.jpg) | ![10 mg](/images/medicine/injection/mochida-10.jpg) |
 
 - 英文名稱：Pelanin Depot
 - 日文名稱：ペラニンデポー
@@ -37,11 +37,7 @@ libraries: [katex, mhchem]
 - 廠商：持田製藥
 - 規格：一盒 10 瓶，每瓶 1 mL，含有 5mg 或 10 mg 戊酸雌二醇
 - 外觀：微黃色澄清油性注射液
-- [說明書（日語）](pelanin.pdf)
-
-## 說明
-
-**所謂「印度雌針」棕瓶早已停產，市面上該名義的均為假貨。現在只有日雌。**
+- [說明書（日語）](/documents/pelanin.pdf)
 
 ## 使用方式與用量
 
@@ -50,14 +46,14 @@ libraries: [katex, mhchem]
 重度肝障礙患者請勿使用
 {{< /notice >}}
 
-- 使用方式：[肌肉注射](https://zh.wikihow.com/進行肌肉注射)、[皮下注射](https://zh.wikihow.com/進行皮下注射)
+- 使用方式：[肌肉注射](https://zh.wikihow.com/進行肌肉注射)、[皮下注射](https://zh.wikihow.com/進行皮下注射) {{< tag/neg "不會打針就不要瞎打！" >}}
 - 使用劑量：每 5-7 天 5 mg / 每 1 - 2 周 10 mg
 - 注意事項：
   - 請勿重複注入同一位置。
   - 小心避免神經。
   - 由於藥品為油性，建議使用 12 號針頭（粉）抽取藥品，6 號針頭（藍）注射。
   - 快速進針和抽藥完畢後使用新的針頭注射有助於緩解疼痛。
-  - 自行注射建議使用股外側肌（大腿三分之一中段斜外上方），與三角肌（打疫苗的位置）。
+  - 自行注射建議使用股外側肌（大腿三分之一中段斜外上方）和三角肌（打疫苗的位置）。
   - 如果您在插入注射針頭時感到劇烈疼痛或看到大量血液迴流，請立即拔出針頭並更換注射部位。
   - 如果在某次注射結束後有較以往更多出血（但可以止住），屬於正常現象，請不要驚慌。
 
