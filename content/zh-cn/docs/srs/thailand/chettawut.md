@@ -31,7 +31,7 @@ weight: 41
 可以使用中国银联支付医院费用
 
 酒店费用：大概需要 3 ~ 4 周。
-- Bangkok Rama: {{< currency from="THB" value="1100" >}}（**不能使用中国银联支付**）
+- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" value="1100" >}}（**不能使用中国银联支付**）
 
 <!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
 <!-- 因改至 WIH 医院，原联系方法存疑 -->

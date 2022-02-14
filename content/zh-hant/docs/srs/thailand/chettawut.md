@@ -28,7 +28,8 @@ weight: 41
 - 結腸 {{< currency from="THB" to="TWD" value="350000" >}}
 - 結腸（腹腔鏡）{{< currency from="THB" to="TWD" value="450000" >}}
 
-酒店費用：{{< currency from="THB" to="TWD" value="1100" >}} 一天（大床房），大概需要 3 ~ 4 周。
+酒店費用：大概需要 3 ~ 4 週。
+- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" to="TWD" value="1100" >}}
 
 <!-- 預約可以找中介，也可以透過 <chettawut@gmail.com> 或 <cset@truemail.co.th> 聯絡蔡醫生 -->
 <!-- 因改至 WIH 醫院，原聯絡方法存疑 -->
