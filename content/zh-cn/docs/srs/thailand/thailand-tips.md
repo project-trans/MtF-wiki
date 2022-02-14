@@ -1,6 +1,6 @@
 ---
 title: 泰国旅行指南
-draft: false
+weight: 2
 ---
 
 ## 出行前物品准备 {#prepare-leave}

@@ -1,6 +1,5 @@
 ---
 title: Chettawut 醫生
-weight: 41
 ---
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)

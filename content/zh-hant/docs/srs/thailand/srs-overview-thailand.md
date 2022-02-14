@@ -34,6 +34,8 @@ slug: overview
 [Thiti]({{< ref "thiti" >}})         | &#9989; |         |         |         |
 [Kamol]({{< ref "kamol" >}})         | &#9989; |         | &#9989; | &#9989; |
 [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
+[Burin]({{< ref "burin" >}})         | &#9989; |         | &#9989; |         |
+[Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
 
 <!-- prettier-ignore-end -->
 
