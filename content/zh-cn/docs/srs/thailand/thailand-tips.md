@@ -43,9 +43,9 @@ weight: 2
 [谷歌翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 [百度翻译](https://fanyi-app.baidu.com/transapp/appdownloadpage)
 
-打车软件 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
+打车与外卖 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 
-在泰国使用 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android) 点外卖，不需要本地手机号
+外卖 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android)
 
 中餐外卖平台 [悟空](https://play.google.com/store/apps/details?id=com.wukong.waimai)
 
