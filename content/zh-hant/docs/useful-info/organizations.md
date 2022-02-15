@@ -4,9 +4,9 @@ title: 公益組織
 
 ## 跨性別資源中心
 
-<www.tgr.org.hk>
+<https://www.tgr.org.hk>
 
-[臉書專頁]https://www.facebook.com/tgrNews/)
+[臉書專頁](https://www.facebook.com/tgrNews/)
 
 跨性別資源中心（Transgender Resource Center）簡稱TGR，成立於2008年7月1日，致力於推動香港及中國內地的跨性別運動，以教育為基礎出發，為社會人士及跨性別社群提供資訊及資源，幫助社會了解及加深認識跨性別議題，及讓跨性別人士得到應有之協助及權益。
 
@@ -16,6 +16,6 @@ TGR早於註冊為社團以前，已一直積極參與香港各間大學院於�
 
 台灣性別不明關懷協會（Beyond Gender）於2013年立案，為台灣第一個同時關懷變性、跨性（Transgender）與陰陽人（Intersex）的團體。前身為「性別不明行動聯盟」。
 
-<www.istscare.org>
+<https://www.istscare.org>
 
-<trnt.lgbt>
+<https://trnt.lgbt>
