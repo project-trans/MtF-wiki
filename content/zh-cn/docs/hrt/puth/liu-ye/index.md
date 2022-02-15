@@ -46,5 +46,3 @@ aliases:
 ![处方](prescription.jpg)
 
 ![用药建议](medication.jpg)
-
-- [爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}})（80g）
