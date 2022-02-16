@@ -1,5 +1,6 @@
 ---
 title: 手术评价方法
+slug: compraise
 weight: 500
 ---
 

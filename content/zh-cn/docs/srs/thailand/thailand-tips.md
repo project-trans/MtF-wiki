@@ -38,6 +38,7 @@ weight: 2
 [Thailand Pass 入口](https://tp.consular.go.th/en/plan)
 
 隔离酒店预订（具体预订多少请参 Thailand Pass 要求）：
+
 - <https://agoda.com/quarantineth>
 - <https://asq.locanation.com>
 - <https://asq.ascendtravel.com>

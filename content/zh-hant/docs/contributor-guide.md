@@ -8,6 +8,7 @@ title: 貢獻者指南
 繁中部分頁面由簡中直接轉換而來，可能有的地方不夠本地化，希望提供優化意見。
 
 貢獻方式：
+
 1. 會 GitHub 操作，直接 PR 或者 透過 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 1. 不會 GitHub 操作，[GitHub 註冊並貢獻教程 - limelight](https://limelight.moe/t/topic/9639)
 1. 傳送郵件到 <mtf@kuaer.club>
@@ -51,7 +52,7 @@ title: 貢獻者指南
 
 ### 手術評價、術後效果
 
-見：[手術評價方法]({{< ref "compraise" >}})
+見：[手術評價方法]({{< ref "srs-compraise" >}})
 
 ## 關於圖片資源
 

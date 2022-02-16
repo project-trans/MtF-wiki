@@ -3,6 +3,7 @@ title: 贡献者指南
 ---
 
 贡献方式：
+
 1. 会 GitHub 操作，直接 PR 或者 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)
 1. 发送邮件到 <mtf@kuaer.club>
@@ -46,7 +47,7 @@ title: 贡献者指南
 
 ### 手术评价、术后效果
 
-见：[手术评价方法]({{< ref "compraise" >}})
+见：[手术评价方法]({{< ref "srs-compraise" >}})
 
 ## 校园指南撰写指南 {#campus}
 
