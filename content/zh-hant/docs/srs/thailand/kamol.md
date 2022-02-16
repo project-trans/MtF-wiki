@@ -42,7 +42,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 1. 檢查費用：
    價格：{{< currency from="THB" value="3300" >}} -~ {{< currency from="THB" value="6300" >}}
-   檢查專案：CBC，電解質，HIV，HBV，HCV，EKG，胸部 X 光片等
+   檢查專案：CBC、電解質、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 兩位泰國精神科醫生的證明：
    價格：{{< currency from="THB" value="4400" >}}
    
