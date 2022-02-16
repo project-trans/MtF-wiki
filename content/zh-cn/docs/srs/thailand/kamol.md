@@ -29,7 +29,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 可以使用支付宝进行付款（建议出国前将钱全部存入支付宝余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
 酒店费用：大概需要 3 ~ 4 周。
-- [K Garden Serviced Apartment](https://www.google.com/maps/place/K+Garden+Serviced+Apartment，+1135%2F9+Lat+Phrao+94+Alley,+Khwaeng+Phlabphla,+Wang+Thonglang,+Bangkok+10310,+Thailand/@13.7720003,100.6129383,17z/data=!4m5!1m2!2m1!1sK+Garden!3m1!1s0x30e29f013ed2159b:0x5c2d92c5be98a514?hl=en-US%20https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FKamol%20Cosmetic%20Hospital%2C%20Phlabphla%2C%20Wang%20Thonglang%2C%20Bangkok%2010310%2C%20Thailand%2F%4013.7731996%2C100.6119373%2C13z%2Fdata%3D!4m2!3m1!1s0x30e29e066694dc67%3A0xe2ebff50bb03b083%3Fhl%3Den-US): {{< currency from="THB" value="1800" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1800" >}} 每天
 
 手术费用包括：
 
