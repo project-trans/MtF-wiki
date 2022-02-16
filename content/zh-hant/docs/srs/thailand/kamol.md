@@ -15,7 +15,7 @@ title: Kamol
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
-## 手術費用：
+## 手術費用
 
 - PI 皮瓣 {{< currency from="THB" value="245000" >}} ~ {{< currency from="THB" value="257250" >}}
 - 非 PI 皮瓣 {{< currency from="THB" value="286000" >}} ~ {{< currency from="THB" value="300300" >}}
@@ -27,6 +27,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 可以使用支付寶進行付款（建議出國前將錢全部存入支付寶餘額，避免出現因銀行卡的每日限額導致錢存不進的情況）
 
 酒店費用：大概需要 3 ~ 4 周。
+
 - [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1800" >}} 每天
 
 手術費用包括：
@@ -45,7 +46,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
    檢查專案：CBC、電解質、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 兩位泰國精神科醫生的證明：
    價格：{{< currency from="THB" value="4400" >}}
-   
+
 ## 手術介紹
 
 Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
@@ -72,6 +73,7 @@ Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
 1. 結腸 SRS 要求 BMI < 25
 
 如有以下情況會產生額外收費：
+
 - 艾滋病：總費用的 50％
 - 丙型肝炎：總費用的 30％
 - 乙肝：總費用的 30％
@@ -89,7 +91,7 @@ Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
    價格：{{< currency from="THB" value="4400" >}}
 1. 檢查專案：CBC，電解質，HIV，HBV，HCV，EKG，胸部 X 光片等
    價格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
-   
+
 ## 手術日程
 
 非結腸：
@@ -120,6 +122,6 @@ Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
   ![srs-photo](/images/srs/thailand/kamol/post1.jpg)
   {{< /expand >}}
 
-  ## 內容參考
+## 內容參考
 
-[Gogo變成貓貓了——SRS日誌](https://blog.gogo.moe/Gogo%E5%8F%98%E6%88%90%E7%8C%AB%E7%8C%AB%E4%BA%86/)
+[Gogo變成貓貓了——SRS日誌](https://blog.gogo.moe/Gogo变成猫猫了/)

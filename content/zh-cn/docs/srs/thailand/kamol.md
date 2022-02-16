@@ -17,7 +17,7 @@ title: Kamol
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
-## 手术费用：
+## 手术费用
 
 - PI 皮瓣 {{< currency from="THB" value="245000" >}} ~ {{< currency from="THB" value="257250" >}}
 - 非 PI 皮瓣 {{< currency from="THB" value="286000" >}} ~ {{< currency from="THB" value="300300" >}}
@@ -29,6 +29,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 可以使用支付宝进行付款（建议出国前将钱全部存入支付宝余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
 酒店费用：大概需要 3 ~ 4 周。
+
 - [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1800" >}} 每天
 
 手术费用包括：
@@ -47,7 +48,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
    检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
    价格：{{< currency from="THB" value="4400" >}}
-   
+
 ## 手术介绍
 
 Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
@@ -74,6 +75,7 @@ Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
 1. 结肠 SRS 要求 BMI < 25
 
 如有以下情况会产生额外收费：
+
 - 艾滋病：总费用的 50％
 - 丙型肝炎：总费用的 30％
 - 乙肝：总费用的 30％
@@ -91,7 +93,7 @@ Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
    价格：{{< currency from="THB" value="4400" >}}
 1. 检查项目：CBC，电解质，HIV，HBV，HCV，EKG，胸部 X 光片等
    价格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
-   
+
 ## 手术日程
 
 非结肠：
@@ -122,6 +124,6 @@ Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
   ![srs-photo](/images/srs/thailand/kamol/post1.jpg)
   {{< /expand >}}
 
-  ## 内容参考
+## 内容参考
 
-[Gogo变成猫猫了——SRS日志](https://blog.gogo.moe/Gogo%E5%8F%98%E6%88%90%E7%8C%AB%E7%8C%AB%E4%BA%86/)
+[Gogo变成猫猫了——SRS日志](https://blog.gogo.moe/Gogo变成猫猫了/)
