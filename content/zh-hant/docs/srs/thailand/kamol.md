@@ -7,7 +7,7 @@ title: Kamol
 醫生姓名：Kamol Pansritum，伽蒙
 <!-- https://www.kamolhospital.com/zh/profile-doctor/dr-kamol-pansritum/ 這裡有照片 -->
 
-所在醫院：[Kamol Cosmetic Hospital](https://www.google.com/maps/place/Kamol+Cosmetic+Hospital,+Phlabphla,+Wang+Thonglang,+Bangkok+10310,+Thailand/@/data=!4m2!3m1!1s0x30e29e066694dc67:0xe2ebff50bb03b083?hl=en-US)
+所在醫院：[Kamol Cosmetic Hospital](https://goo.gl/maps/oMMRQotSXqQSmvC48)
 
 郵箱：<customercare@kamolhospital.com>
 
