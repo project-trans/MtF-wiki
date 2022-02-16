@@ -23,6 +23,7 @@ weight: 2
 [泰国电子签证申请入口](https://www.thaievisa.go.th/)
 {{< expand "使领馆选择" >}}
 在申请泰国电子签证时，请按照护照签发地到对应的使领馆进行申请。
+
 - 泰王国驻华大使馆（北京）：北京市、天津市、河北省、黑龙江省、吉林省、辽宁省、山西省、河南省、湖北省、青海省、内蒙古自治区、西藏自治区、新疆维吾尔自治区
 - 泰王国驻上海总领事馆：上海市、江苏省、浙江省、安徽省
 - 泰王国驻广州总领事馆：广东省、海南省
@@ -35,6 +36,12 @@ weight: 2
 {{< /expand >}}
 
 [Thailand Pass 入口](https://tp.consular.go.th/en/plan)
+
+隔离酒店预订（具体预订多少请参 Thailand Pass 要求）：
+
+- <https://agoda.com/quarantineth>
+- <https://asq.locanation.com>
+- <https://asq.ascendtravel.com>
 
 ## 实用 APP {#app}
 

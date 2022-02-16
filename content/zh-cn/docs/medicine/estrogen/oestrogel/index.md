@@ -12,6 +12,7 @@ weight: 1
 ## 基本信息
 
 ### Oestrogel<sup>&reg;</sup>（爱斯妥）{#ai-si-tuo}
+
 |      中国包装       |     国际包装     |
 | :-----------------: | :--------------------: |
 |![Oestrogel](oestrogel.jpg)|![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg)|
