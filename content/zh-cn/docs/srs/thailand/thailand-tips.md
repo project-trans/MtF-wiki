@@ -37,6 +37,11 @@ weight: 2
 
 [Thailand Pass 入口](https://tp.consular.go.th/en/plan)
 
+隔离酒店预订（具体预订多少请参 Thailand Pass 要求）：
+- <https://agoda.com/quarantineth>
+- <https://asq.locanation.com>
+- <https://asq.ascendtravel.com>
+
 ## 实用 APP {#app}
 
 显示国行 Android 手机的 Play Store [点这里](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手机本来内置谷歌服务）
