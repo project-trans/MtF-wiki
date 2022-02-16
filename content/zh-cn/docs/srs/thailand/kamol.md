@@ -44,7 +44,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 1. 检查费用：
    价格：{{< currency from="THB" value="3300" >}} -~ {{< currency from="THB" value="6300" >}}
-   检查项目：CBC，电解质，HIV，HBV，HCV，EKG，胸部 X 光片等
+   检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
    价格：{{< currency from="THB" value="4400" >}}
    
