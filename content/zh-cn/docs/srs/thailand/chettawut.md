@@ -30,6 +30,7 @@ title: Chettawut 医生
 可以使用中国银联支付医院费用
 
 酒店费用：大概需要 3 ~ 4 周。
+
 - [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" value="1100" >}}（**不能使用中国银联支付**）
 
 <!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
@@ -123,7 +124,7 @@ Chet 的技术与 [Suporn]({{< ref "suporn" >}}) 类似，使用阴囊皮瓣作�
 [Chettawut医生的通模具指导](http://www.chet-plasticsurgery.com/dr-chettawuts-vaginal-dilatation-instructions/)
 
 {{< expand "通模具日程" >}}
-![](/images/srs/thailand/chettawut/Vaginal-Dilation-skin-Graft-last-version.jpg)
+![通模具日程](/images/srs/thailand/chettawut/Vaginal-Dilation-skin-Graft-last-version.jpg)
 {{< /expand >}}
 
 ### 注意事项

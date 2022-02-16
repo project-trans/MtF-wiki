@@ -28,6 +28,7 @@ title: Chettawut 醫生
 - 結腸（腹腔鏡）{{< currency from="THB" to="TWD" value="450000" >}}
 
 酒店費用：大概需要 3 ~ 4 週。
+
 - [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" to="TWD" value="1100" >}}
 
 <!-- 預約可以找中介，也可以透過 <chettawut@gmail.com> 或 <cset@truemail.co.th> 聯絡蔡醫生 -->
@@ -119,8 +120,9 @@ Chet 的技術與 [Suporn]({{< ref "suporn" >}}) 類似，使用陰囊皮瓣作�
 [Chettawut醫生的通模具指導](http://www.chet-plasticsurgery.com/dr-chettawuts-vaginal-dilatation-instructions/)
 
 {{< expand "通模具日程" >}}
-![](/images/srs/thailand/chettawut/Vaginal-Dilation-skin-Graft-last-version.jpg)
+![通模具日程](/images/srs/thailand/chettawut/Vaginal-Dilation-skin-Graft-last-version.jpg)
 {{< /expand >}}
+
 ### 注意事項
 
 （來自官網）
