@@ -24,8 +24,6 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 - 結腸（腹腔鏡） {{< currency from="THB" value="550000" >}} ~ {{< currency from="THB" value="577500" >}}
 - 腹膜（腹腔鏡）{{< currency from="THB" value="592800" >}}
 
-可以使用支付寶進行付款（建議出國前將錢全部存入支付寶餘額，避免出現因銀行卡的每日限額導致錢存不進的情況）
-
 酒店費用：大概需要 3 ~ 4 周。
 
 - [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1800" >}} 每天

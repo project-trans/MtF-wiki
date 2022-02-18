@@ -29,17 +29,15 @@ slug: overview
 
 | 醫生/醫院 | PI | 非 PI | 結腸 | 腹膜 |
 | :--- | :---: | :---: | :---: | :---: |
-[Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
-[Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
-[Thiti]({{< ref "thiti" >}})         | &#9989; |         |         |         |
-[Kamol]({{< ref "kamol" >}})         | &#9989; |         | &#9989; | &#9989; |
-[Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 [Burin]({{< ref "burin" >}})         | &#9989; |         | &#9989; |         |
+[Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
 [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
+[Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
+[Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
+[Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
+[Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 
 <!-- prettier-ignore-end -->
-
-<!--不完全確定，需要更新-->
 
 ## 費用預期 {#fee}
 
