@@ -1,6 +1,5 @@
 ---
 title: 上海新华医院｜邱文娟
-weight: 200
 ---
 
 医生姓名：[邱文娟](https://www.haodf.com/doctor/12422.html)

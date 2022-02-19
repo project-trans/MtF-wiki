@@ -1,6 +1,5 @@
 ---
 title: 苏州市立医院｜周建英
-weight: 200
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
