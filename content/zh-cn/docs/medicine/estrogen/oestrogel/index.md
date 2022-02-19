@@ -2,7 +2,6 @@
 title: 雌二醇凝胶
 description: 外用雌二醇凝胶，经皮吸收。
 libraries: [katex, mhchem]
-weight: 1
 ---
 
 {{< notice warning "用药安全提示" >}}

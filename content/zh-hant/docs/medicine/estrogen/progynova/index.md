@@ -1,7 +1,6 @@
 ---
 title: Progynova
 description: Progynova，即戊酸雌二醇片，是長效雌二醇的衍生物，即雌二醇的戊酸酯。經過肝臟脫酸後具有雌二醇活性，是一種人工合成的經化學修飾的雌激素。
-weight: 2
 libraries: [katex, mhchem]
 ---
 

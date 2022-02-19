@@ -1,7 +1,6 @@
 ---
 title: 針劑
 description: 戊酸雌二醇注射液，大多數為日本進口。
-weight: 4
 libraries: [katex, mhchem]
 ---
 

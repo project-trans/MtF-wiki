@@ -1,7 +1,6 @@
 ---
 title: 雌二醇貼片
 description: 外用雌二醇貼片，經皮吸收。
-weight: 1
 ---
 
 {{< notice warning "用藥安全警示" >}}

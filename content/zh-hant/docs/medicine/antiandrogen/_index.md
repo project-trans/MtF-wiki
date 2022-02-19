@@ -1,6 +1,5 @@
 ---
 title: 抗雄激素藥物
-weight: 4
 collapsible: true
 ---
 
