@@ -1,6 +1,5 @@
 ---
 title: 长沙｜程明
-weight: 2
 ---
 
 医生姓名：[程明](https://www.haodf.com/doctor/190160.html)

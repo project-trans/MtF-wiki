@@ -1,7 +1,10 @@
 ---
 title: Yanhee 医院
-weight: 45
 ---
+
+医生：
+
+- Dr. Juta
 
 联系电话：{{< telephone "+66 86-386-1299" >}}
 

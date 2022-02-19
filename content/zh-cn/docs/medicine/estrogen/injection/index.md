@@ -1,7 +1,6 @@
 ---
 title: 针剂
 description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为日本进口。
-weight: 4
 libraries: [katex, mhchem]
 ---
 

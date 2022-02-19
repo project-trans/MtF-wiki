@@ -1,13 +1,22 @@
 ---
 title: Suporn 诊所
-weight: 43
 ---
+
+[手术排程](https://supornclinic.com/calendar/)
+
+邮箱：<admin@supornclinic.com> 仅接受英文
+
+地址：the Dr. Suporn Clinic 938 Sukhumvit Road Bangplasoi, Muang District Chonburi, 20000 Thailand
+
+电话：{{< telephone "+66 38273360" >}}
 
 ## 价格
 
 约为 13 万人民币，常会变化。
 
 ## 医疗水平
+
+Suporn 退休，目前基本是他徒弟 Bank 做。
 
 ### 手术特点
 

@@ -1,6 +1,5 @@
 ---
 title: Thiti 醫生
-weight: 44
 ---
 
 手術費用：

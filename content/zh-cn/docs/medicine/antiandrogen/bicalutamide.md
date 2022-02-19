@@ -2,7 +2,6 @@
 title: 比卡鲁胺片
 description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种非甾体类抗雄激素。
 libraries: [katex, mhchem]
-weight: 1
 ---
 
 {{< notice warning "用药安全提示" >}}

@@ -1,6 +1,6 @@
 ---
 title: 泰國旅行指南
-draft: false
+weight: 2
 ---
 
 ## 出行前物品準備
@@ -17,9 +17,9 @@ draft: false
 
 [谷歌翻譯](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
-打車軟體 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
+打車與外賣 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 
-在泰國使用 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android) 點外賣，不需要本地手機號
+外賣 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android)
 
 中餐外賣平臺 [悟空](https://play.google.com/store/apps/details?id=com.wukong.waimai)
 

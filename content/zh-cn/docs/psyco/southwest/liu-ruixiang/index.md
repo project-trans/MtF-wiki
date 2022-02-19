@@ -1,6 +1,5 @@
 ---
 title: 云南｜刘瑞湘
-weight: 3
 ---
 
 {{< tag/neg "观察期 1 年" >}}
@@ -8,6 +7,10 @@ weight: 3
 医生姓名：[刘瑞湘](https://www.haodf.com/doctor/9032033119.html)
 
 所在医院：[云南大学附属医院](https://amap.com/place/B036702BB0)
+
+{{< notice error "注意" >}}
+刘瑞湘医生声称她自 2022 年 2 月末开始将会外出学习约半年，期间无法接诊。
+{{< /notice >}}
 
 ## 总述
 

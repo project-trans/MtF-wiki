@@ -1,6 +1,5 @@
 ---
 title: 北医三院
-weight: 33
 ---
 
 [北京大学第三医院](https://amap.com/place/B000A7CGSS)

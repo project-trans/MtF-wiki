@@ -1,6 +1,5 @@
 ---
 title: 上海长海医院｜赵烨德
-weight: 31
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

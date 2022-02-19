@@ -1,6 +1,5 @@
 ---
 title: 济南｜胡蕾
-weight: 10
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

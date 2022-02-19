@@ -1,6 +1,5 @@
 ---
 title: 上海｜陆峥
-weight: 4
 ---
 
 {{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}

@@ -1,6 +1,5 @@
 ---
 title: 刘烨
-weight: 200
 aliases:
   - /zh-cn/docs/hrt/pku3/liu-ye/
 ---
@@ -46,5 +45,3 @@ aliases:
 ![处方](prescription.jpg)
 
 ![用药建议](medication.jpg)
-
-- [爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}})（80g）

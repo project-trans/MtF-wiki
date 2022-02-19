@@ -2,7 +2,6 @@
 title: 上海九院｜程辰
 description: 上海九院提供跨性别序列治疗
 slug: sh9
-weight: 200
 ---
 
 本文大部分内容基于 [上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw) 和 [上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw) 撰写。

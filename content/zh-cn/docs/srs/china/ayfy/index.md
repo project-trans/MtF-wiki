@@ -1,6 +1,5 @@
 ---
 title: 安徽医科大学第一附属医院｜张贤生
-weight: 36
 ---
 
 {{< notice warning "注意事项" >}}

@@ -1,6 +1,5 @@
 ---
 title: 济南｜齐素芳
-weight: 10
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

@@ -1,6 +1,6 @@
 ---
 title: 泰国旅行指南
-draft: false
+weight: 2
 ---
 
 ## 出行前物品准备 {#prepare-leave}
@@ -21,8 +21,27 @@ draft: false
 特别注意上海领馆卡签非常严重，如需尝试请准备好 6 个月账户余额不少于 50000 人民币的银行流水单、全程酒店订单、回程机票、出入境管理局**打印**的出入境记录。
 
 [泰国电子签证申请入口](https://www.thaievisa.go.th/)
+{{< expand "使领馆选择" >}}
+在申请泰国电子签证时，请按照护照签发地到对应的使领馆进行申请。
+
+- 泰王国驻华大使馆（北京）：北京市、天津市、河北省、黑龙江省、吉林省、辽宁省、山西省、河南省、湖北省、青海省、内蒙古自治区、西藏自治区、新疆维吾尔自治区
+- 泰王国驻上海总领事馆：上海市、江苏省、浙江省、安徽省
+- 泰王国驻广州总领事馆：广东省、海南省
+- 泰王国驻西安总领事馆：陕西省、甘肃省、宁夏回族自治区
+- 泰王国驻昆明总领事馆：云南省、贵州省、湖南省
+- 泰王国驻成都总领事馆：四川省、重庆市
+- 泰王国驻厦门总领事馆：福建省、江西省
+- 泰王国驻南宁总领事馆：广西壮族自治区
+- 泰王国驻青岛总领事馆：山东省
+{{< /expand >}}
 
 [Thailand Pass 入口](https://tp.consular.go.th/en/plan)
+
+隔离酒店预订（具体预订多少请参 Thailand Pass 要求）：
+
+- <https://agoda.com/quarantineth>
+- <https://asq.locanation.com>
+- <https://asq.ascendtravel.com>
 
 ## 实用 APP {#app}
 
@@ -31,9 +50,9 @@ draft: false
 [谷歌翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 [百度翻译](https://fanyi-app.baidu.com/transapp/appdownloadpage)
 
-打车软件 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
+打车与外卖 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 
-在泰国使用 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android) 点外卖，不需要本地手机号
+外卖 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android)
 
 中餐外卖平台 [悟空](https://play.google.com/store/apps/details?id=com.wukong.waimai)
 

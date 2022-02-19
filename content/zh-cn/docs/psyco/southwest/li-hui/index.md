@@ -1,6 +1,5 @@
 ---
 title: 成都｜李慧
-weight: 1
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

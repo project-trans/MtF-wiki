@@ -1,5 +1,6 @@
 ---
 title: 手術評價方法
+slug: compraise
 weight: 4
 ---
 

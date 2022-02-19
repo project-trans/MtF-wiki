@@ -1,6 +1,5 @@
 ---
 title: 苏州｜杜向东
-weight: 3
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

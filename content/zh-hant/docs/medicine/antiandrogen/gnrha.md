@@ -1,7 +1,6 @@
 ---
 title: '*GnRH 類似物'
 description: GnRH 類似物在跨性別 HRT 中用於青春期阻斷治療。
-weight: 4
 ---
 
 GnRH 類似物用於青春期阻斷治療

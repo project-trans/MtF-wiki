@@ -1,6 +1,5 @@
 ---
 title: 四川大学华西医院｜许学文
-weight: 31
 ---
 
 {{< notice info >}}

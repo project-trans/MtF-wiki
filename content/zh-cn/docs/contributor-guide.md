@@ -2,6 +2,14 @@
 title: 贡献者指南
 ---
 
+贡献方式：
+
+1. 会 GitHub 操作，直接 PR 或者 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)
+1. 发送邮件到 <mtf@kuaer.club>
+
+[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+
 {{< notice info "友情提醒" >}}
 绝对不要做出任何道德绑架的行为！！！
 {{< /notice >}}
@@ -25,6 +33,21 @@ title: 贡献者指南
 1. 问诊细节原则上需要清晰、明确的表述，如果对方愿意开具比较详细的病历请务必要求开具相关病历。并且可随医生信息一同上传其开具的病历（图片）以供参考。
 1. 由于科室不同，开具诊断证明的医生没有权利开具 HRT 处方，开具 HRT 处方的医生没有权利开具诊断证明，这是基本常识。望贡献者在撰写医生介绍的时候切记。
 1. 假如某位医生信息被编入 wiki 后表示自己不愿意被公开信息，我们将遵从其主观意愿将有关词条删除并列入过时名单。
+
+## SRS {#srs}
+
+## 报告新的 SRS 医生
+
+1. 医生姓名
+1. 所在医院
+1. 如何预约
+1. 手术前置要求
+1. 手术技术（医生描述，第三方介绍，发表论文）
+1. 有无实例（如医生提供近期案例，朋友、自己接受手术）
+
+### 手术评价、术后效果
+
+见：[手术评价方法]({{< ref "srs-compraise" >}})
 
 ## 校园指南撰写指南 {#campus}
 

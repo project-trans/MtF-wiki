@@ -1,7 +1,6 @@
 ---
 title: 北医三院
 description: 本页描述的是在北医三院医生（刘烨和潘柏林）的帮助下得到专业的剂量、控制不良反应评估等服务，同时获得 HRT 治疗方案和 SRS 所需要的病历。
-weight: 100
 collapsible: true
 aliases:
   - /zh-cn/docs/hrt/pku3/

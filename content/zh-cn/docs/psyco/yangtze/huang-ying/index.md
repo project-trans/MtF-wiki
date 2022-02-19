@@ -1,6 +1,5 @@
 ---
 title: 安徽｜黄英
-weight: 6
 ---
 
 {{< doctor-image src="doctor.png" >}}

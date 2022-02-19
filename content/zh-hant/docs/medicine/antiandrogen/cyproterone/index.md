@@ -2,7 +2,6 @@
 title: 色普龍（醋酸環丙孕酮）
 description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗雄藥物，常見的商品名有 Androcur（安得卡），Siterone 等。
 libraries: [katex, mhchem]
-weight: 1
 ---
 
 {{< notice warning "用藥安全提示" >}}

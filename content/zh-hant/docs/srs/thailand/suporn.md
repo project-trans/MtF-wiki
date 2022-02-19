@@ -1,13 +1,18 @@
 ---
 title: Suporn 診所
-weight: 43
 ---
 
-## 價格
+[手術排程](https://supornclinic.com/calendar/)
 
-約為 13 萬人民幣，常會變化。
+郵箱：<admin@supornclinic.com> 僅接受英文
+
+地址：the Dr. Suporn Clinic 938 Sukhumvit Road Bangplasoi, Muang District Chonburi, 20000 Thailand
+
+電話：{{< telephone "+66 38273360" >}}
 
 ## 醫療水平
+
+Suporn 退休，目前基本是他徒弟 Bank 做。
 
 ### 手術特點
 

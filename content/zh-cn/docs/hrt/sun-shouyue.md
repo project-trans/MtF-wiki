@@ -1,6 +1,5 @@
 ---
 title: 上海瑞金医院｜孙首悦
-weight: 200
 draft: true
 ---
 

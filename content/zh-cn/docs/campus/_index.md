@@ -1,7 +1,7 @@
 ---
 title: 校园指南
 weight: 8
-collapsible: true
+collapsible: false
 ---
 
 民间有对各个大学的生活质量的问卷结果可以在 <https://colleges.chat> 查阅
