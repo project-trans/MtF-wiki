@@ -1,6 +1,5 @@
 ---
 title: 济南｜曹秉玉
-weight: 12
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

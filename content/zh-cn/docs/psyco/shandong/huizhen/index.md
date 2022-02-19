@@ -1,6 +1,5 @@
 ---
 title: 济南｜山东精卫会诊
-weight: 1
 ---
 
 [山东省精神卫生中心](https://amap.com/place/B0FFM4NU1Y) 专家会诊

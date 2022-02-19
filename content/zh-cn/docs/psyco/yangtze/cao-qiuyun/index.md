@@ -1,6 +1,5 @@
 ---
 title: 南京｜曹秋云
-weight: 1
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

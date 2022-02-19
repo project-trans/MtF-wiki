@@ -1,6 +1,5 @@
 ---
 title: 上海｜王飚
-weight: 5
 ---
 
 {{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
