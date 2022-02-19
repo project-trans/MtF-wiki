@@ -1,6 +1,5 @@
 ---
 title: 四川省人民医院｜游晓波
-weight: 31
 ---
 
 {{< notice info >}}

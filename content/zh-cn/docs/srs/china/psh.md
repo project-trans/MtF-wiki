@@ -1,6 +1,5 @@
 ---
 title: 北京｜中国医学科学院整形外科医院
-weight: 34
 ---
 
 {{< notice error "提示" >}}

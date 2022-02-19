@@ -1,6 +1,5 @@
 ---
 title: 四川核工业四一六医院｜余道江
-weight: 31
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
