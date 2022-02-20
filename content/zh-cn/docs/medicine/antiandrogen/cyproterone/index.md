@@ -2,7 +2,6 @@
 title: 色普龙（醋酸环丙孕酮）
 description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur（安得卡），Siterone 等。
 libraries: [katex, mhchem]
-weight: 1
 ---
 
 {{< notice warning "用药安全提示" >}}
@@ -45,7 +44,7 @@ weight: 1
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
 
-### 华典<sup>&reg;</sup>醋酸环丙孕酮片
+### 华典<sup>&reg;</sup>醋酸环丙孕酮片 {#huadian}
 
 ![Huadian](huadian.jpg)
 
@@ -58,8 +57,8 @@ weight: 1
 
 ## 说明
 
-- 所谓“日色”不是色普龙，请不要误用。
--“台色”即在台湾出售的 Androcur（“土色”）
+- 所谓「日色」不是色普龙，请不要误用。
+- 所谓「台色」即在台湾出售的 Androcur（「土色」）
 
 ## 使用方式与用量
 
@@ -74,20 +73,20 @@ weight: 1
 
 - **脑膜瘤风险**：色谱龙可能诱发脑膜瘤，风险与剂量和使用时长正相关，建议谨慎使用。[^6]
 
-- **抑郁**：色普龙会导致抑郁风险升高[^2]。主要原因是色普龙对于生理男性起到了抗雄激素和潜在的糖皮质激素作用，并可能诱发维生素 B<sub>12</sub> 缺乏[^3]。有必要适量补充维生素  B<sub>12</sub> ．
+- **抑郁**：色普龙会导致抑郁风险升高[^2]。主要原因是色普龙对于生理男性起到了抗雄激素和潜在的糖皮质激素作用，并可能诱发维生素 B<sub>12</sub> 缺乏[^3]。有必要适量补充维生素 B<sub>12</sub> ．
 
 - **肝毒性**：色普龙最严重的副作用，使用前应当检查肝功能并定期检查，服用量不应当超过 50mg[^4]．
 
 - **血糖**：色普龙会引起血糖偏高，糖尿病患者应谨慎使用[^5]。
 
-- {{< tag-neg 暂未明确 >}} 色普龙是强效的孕激素，早期导入可能造成乳房发育不良。
+- {{< tag/neg "暂未明确" >}} 色普龙是强效的孕激素，早期导入可能造成乳房发育不良。
 
 ## 成分信息
 
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
 - 化学名称：6-氯-1α,2α-亚甲基-3,20-二孕酮-4,6-二烯-17α-醋酸酯
 - 分子式：$\ce{C24H29ClO4}$
-- 分子量：416.94 g/mol
+- 分子量：416.94
 
 [^1]: [Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People](https://transfemscience.org/articles/cpa-dosage/)
 [^2]: [The journal of clinical endocrinology & metabolism](https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359)

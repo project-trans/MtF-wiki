@@ -1,11 +1,10 @@
 ---
 title: 济南｜胡蕾
-weight: 10
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-pos 和蔼 >}} {{< tag-pos 可与家长沟通 >}}  {{< tag-neg 需家属介入 >}}
+{{< tag/pos "和蔼" >}} {{< tag/pos "可与家长沟通" >}} {{< tag/neg "需家属介入" >}}
 
 医生姓名：[胡蕾](https://www.haodf.com/doctor/293557.html)
 
@@ -39,3 +38,7 @@ weight: 10
 周三,上午,心理咨询与治疗门诊,28+500 元
 周五,全天,专家门诊,28 元
 {{< /csv-table >}}
+
+## 证明样式
+
+![证明](proof.jpg)

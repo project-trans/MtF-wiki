@@ -1,0 +1,4 @@
+---
+title: Thailand
+collapsible: true
+---

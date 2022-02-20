@@ -1,9 +1,10 @@
 {{- if hasPrefix .Destination "mailto:" -}}
 {{- $text := replace (replace .Text "-" "--") "_" "__" -}}
-{{- $icon := resources.GetRemote (printf "https://img.shields.io/badge/email-%s-blue.svg?style=flat-square" $text) -}}
-<a data-email="{{ .Destination | base64Encode }}"><img class="shields-icon" src="{{ $icon.Permalink }}" /></a>
+<a data-email="{{ .Destination | base64Encode }}">
+  <img class="shields-icon" src="https://img.shields.io/badge/email-{{ $text }}-blue.svg?style=flat-square" />
+</a>
 {{- else -}}
 <a href="{{ .Destination }}"{{ with .Title}} title="{{ . }}"{{ end }}>
-{{- .Text | safeHTML -}}
+{{- .Text | replaceRE "^https?://(www.?)?" "" | safeHTML -}}
 </a>
 {{- end -}}

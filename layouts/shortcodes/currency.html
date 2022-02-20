@@ -1,0 +1,7 @@
+{{- $from := .Get "from" -}}
+{{- $to := .Get "to" | default "CNY" -}}
+{{- $value := .Get "value" | float -}}
+{{- $qs := querify "Amount" $value "From" $from "To" $to -}}
+<a class="currency" href="https://www.xe.com/currencyconverter/convert/?{{ $qs | safeURL }}">
+{{- lang.FormatNumber 0 $value -}}&nbsp;{{ $from }}
+</a>

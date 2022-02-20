@@ -1,21 +1,22 @@
+<!-- markdownlint-disable-next-line -->
 [![MtF-Wiki][logo-long]][wiki-url]
 
 镜像站：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
+
+兄弟站：[ftm.wiki](https://ftm.wiki)
 
 # Welcome to **MtF Wiki**
 
 [简中](README.md) | **繁體中文** | [English](README-EN.md) | [Español](README-ES.md)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
-[![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
-
-本項目原由中國大陸跨性別者建設，試圖爲中國大陸地區跨性別者提供資源與幫助。當然，如果您有意向爲您的地區的跨性別者提供訊息，我們也非常期待您向本項目提供貢獻。
+[![GitHub Watchers][badge-gh-watch]][repo]
+[![GitHub Stars][badge-gh-stars]][repo]
 
 ## 內容
 
 歡迎大家來到 MtF Wiki．這裡是一個或許可以給部分跨性別女性群體提供幫助的地方。
 
-MtF (Male-to-Female)，跨性別女性，是指出生時指定性別是男性的女性。
+MtF （Male-to-Female），跨性別女性，是指出生時指定性別是男性的女性。
 (ps：在維基百科中關於指定性別的定義是“指定性別（Assigned sex），是根據出生時檢查性別特徵以確定的性別。”）
 
 MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整合站點，大家可以在這裡瞭解到各種藥物知識、醫療資源、女性常識，以及其他等等。
@@ -40,7 +41,7 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 而如果你想要引用這個 GitHub Repo，可以使用如下的 bibtex：
 
-```
+```plain
 @misc{mtfwiki,
   author = {MtF Wiki Team},
   title = {MtF Wiki},
@@ -53,15 +54,23 @@ MtF Wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 ## 聯絡方式
 
-點選下方圖片即可加群：
+Discord [![Discord][badge-discord]](https://233.plus/discord)
 
-[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://233.plus/discord)
+Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-Email: mtf@kuaer.club
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-[logo-long]: ./static/new/mtf-wiki-long.svg
-[wiki-url]: https://mtf.wiki
-[hugo-url]: https://github.com/gohugoio/hugo
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[cc-url]: https://creativecommons.org/licenses/by-sa/4.0/
+E-mail <mtf@kuaer.club>
+
+[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Watch
+[badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[cc-url]: https://creativecommons.org/licenses/by-sa/4.0
+[hugo-url]: https://github.com/gohugoio/hugo
+[logo-long]: ./static/new/mtf-wiki-long.svg
+[repo]: https://github.com/mtf-wiki/MtF-Wiki
+[wiki-url]: https://mtf.wiki
+[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

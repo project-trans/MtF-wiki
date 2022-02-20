@@ -18,17 +18,13 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+#      - uses: actions/setup-node@v2
+#      - run: npx markdownlint-cli .
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: latest
           extended: true
-      - name: Hugo Cache
-        uses: actions/cache@v2
-        with:
-          path: /tmp/hugo_cache
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: ${{ runner.os }}-hugomod-
       - name: Build `mtf.wiki`
         run: hugo --minify
       - name: Deploy `mtf.wiki`

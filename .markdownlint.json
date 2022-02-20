@@ -1,0 +1,8 @@
+{
+  "single-h1": false,
+  "no-inline-html": false,
+  "no-duplicate-header": false,
+  "no-emphasis-as-header": false,
+  "line-length": false,
+  "frontmatter": false
+}

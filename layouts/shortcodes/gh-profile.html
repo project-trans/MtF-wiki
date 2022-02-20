@@ -1,9 +1,0 @@
-{{- $name := .Get 1 -}}
-{{- with getJSON (printf "https://api.github.com/users/%s" (.Get 0)) -}}
-{{- $avatar := resources.GetRemote .avatar_url -}}
-<a class="github-profile" href="{{ .html_url }}" title="{{ $name | default .name }}">
-<img src="{{ $avatar.Permalink }}">
-<b>{{ $name | default .name }}</b>
-<i class="bi bi-github"></i>
-</a>
-{{- end -}}

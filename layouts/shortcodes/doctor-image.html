@@ -1,6 +1,5 @@
 {{- $src := .Get "src" -}}
 {{- $img := .Page.Resources.GetMatch (printf "*%s*" $src) -}}
-{{- if eq $img nil -}}{{ $img = resources.GetRemote $src }}{{- end -}}
 {{- with $img.Fit "300x300 q95" -}}
 <img src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}">
 {{- end -}}

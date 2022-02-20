@@ -1,13 +1,16 @@
+<!-- markdownlint-disable-next-line -->
 [![MtF-Wiki][logo-long]][wiki-url]
 
 Mirror：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
+
+Brother Site: [ftm.wiki](https://ftm.wiki)
 
 # Welcome to **MtF Wiki**
 
 [简中](README.md) | [繁中](README-T.md) | **English** | [Español](README-ES.md)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=social&label=Watch)](https://github.com/mtf-wiki/MtF-Wiki)
-[![GitHub stars](https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=social&label=Stars)](https://github.com/mtf-wiki/MtF-Wiki)
+[![GitHub Watchers][badge-gh-watch]][repo]
+[![GitHub Stars][badge-gh-stars]][repo]
 
 This site was founded initially for China mainland's transgenders. However, if you would like to contribute information for the transgenders in your region, welcome to do it.
 
@@ -41,7 +44,7 @@ In a nutshell, you are free to share and adapt, but you must give the appropriat
 
 If you would like to cite this GitHub repo, you can use the bibtex below：
 
-```
+```plain
 @misc{mtfwiki,
   author = {MtF Wiki Team},
   title = {MtF Wiki},
@@ -54,15 +57,23 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/MtF%20Wiki-%232CA5E0?style=flat-square&logo=discord)](https://233.plus/discord)
+Discord [![Discord][badge-discord]](https://233.plus/discord)
 
-Email: mtf@kuaer.club
+Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-And through GitHub issues.
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-[logo-long]: ./static/new/mtf-wiki-long.svg
-[wiki-url]: https://mtf.wiki
-[hugo-url]: https://github.com/gohugoio/hugo
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[cc-url]: https://creativecommons.org/licenses/by-sa/4.0/
+E-mail <mtf@kuaer.club>
+
+[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
+[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Watch
+[badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[cc-url]: https://creativecommons.org/licenses/by-sa/4.0
+[hugo-url]: https://github.com/gohugoio/hugo
+[logo-long]: ./static/new/mtf-wiki-long.svg
+[repo]: https://github.com/mtf-wiki/MtF-Wiki
+[wiki-url]: https://mtf.wiki
+[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

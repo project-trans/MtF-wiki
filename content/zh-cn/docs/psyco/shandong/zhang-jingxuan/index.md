@@ -1,11 +1,10 @@
 ---
 title: 济南｜张敬悬
-weight: 11
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag-pos 可与家长沟通 >}} {{< tag-neg 需家属介入 >}}
+{{< tag/pos "可与家长沟通" >}} {{< tag/neg "需家属介入" >}}
 
 医生姓名：[张敬悬](https://www.haodf.com/doctor/119561.html)
 

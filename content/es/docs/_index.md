@@ -11,7 +11,7 @@ Bienvenida a {{< mtf-wiki >}}. Hay aquí un lugar que podría echar una mano a l
 Aunque este sitio fue fundado inicialmente para las trans chinas, proporcionamos esta página en español para nuestra visibilidad. Pero también, si quieres contribuir información para trans en tu región, sigue por favor.
 {{< /notice >}}
 
-MtF(Male-to-Female), mujer trans, se refiere a las personas que, a pesar de haber sido asignados al género masculino al nacer, sitúan su identidad dentro de lo femenino. 
+MtF(Male-to-Female), mujer trans, se refiere a las personas que, a pesar de haber sido asignados al género masculino al nacer, sitúan su identidad dentro de lo femenino.
 
 Nos comprometemos a ser un sitio de integración de conocimientos transgénero gratuito, abierto y continuamente actualizado, donde se puede aprender sobre todo tipo de conocimientos medicamentos, médicos, sexuales y mucho más.
 

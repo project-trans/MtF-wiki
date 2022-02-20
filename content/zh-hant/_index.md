@@ -28,10 +28,12 @@ footer:
           link: https://github.com/mtf-wiki/MtF-Wiki
     - title: 聯絡
       links:
-        - title: GitHub
-          link: https://github.com/mtf-wiki
         - title: Discord
           link: https://233.plus/discord
+        - title: Twitter
+          link: https://twitter.com/mtfwiki
+        - title: GitHub
+          link: https://github.com/mtf-wiki
         - title: Email
           link: mailto:mtf@kuaer.club
   contents:
@@ -40,5 +42,5 @@ footer:
     markdown: >
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
       <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote>如果你能記住我的名字，如果你們都能記住我的名字，也許我或者“我們”，終有一天能自由地生存著。</blockquote>
+      <blockquote>如果你能記住我的名字，如果你們都能記住我的名字，也許我或者「我們」，終有一天能自由地生存著。</blockquote>
 ---
