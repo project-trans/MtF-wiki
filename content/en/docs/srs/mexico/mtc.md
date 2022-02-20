@@ -13,14 +13,13 @@ Mexico Transgender Center practices from [CHG Hospitales](http://chghospitales.c
 ## Doctors
 
 - Dr. Ivan Aguilar
-
 - Dr. Carlos Mendez
 
 Dr Aguilar traveled to the United States to conduct close observership of Dr. Marci Bowers and her advanced SRS techniques and approaches.
 
 ## Services
 
-- MTF SRS (GRS)
+- MtF SRS (GRS)
 - Body Feminization
 - Facial Feminization (FFS)
 - Orchiectomy

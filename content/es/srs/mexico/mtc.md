@@ -15,7 +15,6 @@ México Transgender Center trabaja desde [CHG Hospitales](http://chghospitales.c
 ## Médicos
 
 - Dr. Iván Aguilar
-
 - Dr. Carlos Mendez
 
 En marzo del 2014, el Dr. Aguilar tuvo la oportunidad de conocer y observar operaciones realizadas por la cirujano transgénero de fama mundial, la Dra. Marci Bowers.
