@@ -17,7 +17,7 @@ LINE ID：{{< shields/line "miladahospital" >}}
 
 ## 手术技术
 
-Greechart 可以进行结肠和改进PI方法进行的 SRS。其颜色、质地和大致的结构等都尚可，但小阴唇下方和 Kamol 一样相对不自然。
+Greechart 可以进行结肠和改进 PI 方法进行的 SRS．其颜色、质地和大致的结构等都尚可，但小阴唇下方和 Kamol 一样相对不自然。
 
 ## 术后效果
 

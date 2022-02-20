@@ -117,7 +117,7 @@ Chet 的技術與 [Suporn]({{< ref "suporn" >}}) 類似，使用陰囊皮瓣作�
 
 ### 通模具
 
-[Chettawut醫生的通模具指導](http://www.chet-plasticsurgery.com/dr-chettawuts-vaginal-dilatation-instructions/)
+[Chettawut 醫生的通模具指導](http://www.chet-plasticsurgery.com/dr-chettawuts-vaginal-dilatation-instructions/)
 
 {{< expand "通模具日程" >}}
 ![通模具日程](/images/srs/thailand/chettawut/Vaginal-Dilation-skin-Graft-last-version.jpg)

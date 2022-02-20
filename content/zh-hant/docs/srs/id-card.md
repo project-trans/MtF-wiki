@@ -13,7 +13,7 @@ weight: 5
 - 地點: 入境處
 - 帶備文件: 改名契、醫生信、舊身份證及[表格](http://www.immd.gov.hk/pdforms/rop73.pdf)
 - 程序如下:
-  1. 可郵寄，約見需時4-6星期
+  1. 可郵寄，約見需時 4-6 星期
   1. 約見後，會收到臨時身份證
   1. 再等兩星期左右，會收到新身份證
 
@@ -23,12 +23,12 @@ weight: 5
 > 提交醫學證明，證明已完成性別重置手術。有關醫學證明應包括以下事項：
 >
 > 1. 由男性重置為女性
->    切除陰莖及睾丸；及建造陰道；
+> 切除陰莖及睾丸；及建造陰道；
 > 1. 一般而言，所提交的醫學證明應由進行性別重置手術的醫生所簽發，並訂明有關手術已包括以上條件；
 > 1. 如性別重置手術於香港以外進行，則醫學證明需包括醫生的資歷，取得資歷的地點及其聯絡方法；
 > 1. 如於香港以外進行性別重置手術，而又在取得相關醫學證明方面有任何困難，可選擇尋求香港註冊醫生為已進行的性別重置手術作出評估；
 > 1. 醫學證明樣本可以在以下連結找到：
->    - [由香港註冊醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexI_Chi.pdf)
->    - [由非本地醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexII_Chi.pdf)
+> - [由香港註冊醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexI_Chi.pdf)
+> - [由非本地醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexII_Chi.pdf)
 
 ## 澳門
