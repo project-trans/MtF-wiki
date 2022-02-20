@@ -2,7 +2,7 @@
 title: MtF Wiki
 description: MtF Wiki, un lugar que podría echar una mano a mujeres trans.
 landing:
-  height: 500
+  height: 700
   image:  new/mtf-wiki-square.svg
   title:
     - MtF Wiki
