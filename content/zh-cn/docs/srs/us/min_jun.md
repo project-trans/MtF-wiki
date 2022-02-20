@@ -1,0 +1,95 @@
+---
+title: Min Jun（Crane Center）
+---
+
+网站: <https://cranects.com/min-jun-do/>
+
+电话: {{< telephone "+1 415-625-3230" >}}
+
+Email: <CAReception@CraneCTS.com>
+
+Min Jun隶属于旧金山的Crane Center for Transgender Surgery。他在纽约大学医学院与Dr. Rachel Bluebond-Langner进行了机器人辅助阴道成形术的进修。他提供SRS及SRS修复的手术服务。Min Jun现时（2022年2月）的手术地点位于San Francisco Memorial Hospital。
+
+## 特点
+
+Min Jun所使用的技术为Da Vinci机器人辅助的腹膜阴道成形术。该技术从下腹开出4-6个2cm左右的刀口，并将机器人放进去，从腹部开始游离腹膜。他使用阴囊皮肤作为外部阴道皮肤以及阴唇皮肤；阴茎皮肤及龟头作为阴蒂附近的皮肤和阴蒂。这样的好处是因为阴蒂周围的皮肤得以保留，阴蒂的完整性和美观性可以得到增强。机器人接下来从内部缝合腹膜和皮肤的衔接部位，并完成手术。
+
+## 要求
+
+1. Crane Center要求至少有两封精神科医生的信和一封HRT医生的信（推荐信内容的具体要求在页面底部）
+2. 必须在拿到推荐信之后才能开始预约手术
+3. BMI要求：强制要求低于35，但是在正常范围内为最佳（因为伤口缝合原因）
+
+## 流程
+
+1. 在官网Contact处预约Initial Consultation并预留保险信息（必须写清保险信息才能约上）
+2. 签署Initial Consultation的知情同意书
+3. 参加Initial Consultation，可以向Min Jun提问
+4. 拿到信之后发邮件预约手术
+5. 获得手术日期，可以选择加入Cancellation list（如果前面有人取消有机会提前手术时间）
+6. 在临近手术日期时处理好保险问题，并在术前一个月内完成所需要的血液检查（会提前通过邮件发过来所有所需的东西）
+7. 手术两日前在Crane Center进行术前咨询
+8. 术后大约2-3天后出院，在SF附近休养
+9. 术后7，14，21天在Crane Center进行术后检查
+10. 术后7天后拆包，并开始通模具。一开始通模具的频率为一天4次，每次15分钟。之后会随时间减少次数。
+
+### 流程视频（NSFW）
+
+[视频链接（海外版OneDrive）](https://1drv.ms/v/s!AjOi0t-X4eUpgaYh0-qEEQqiy29IPw?e=gG26aQ)
+
+## 保险
+
+现时（2022年2月），Crane Center旧金山接受的网络内保险有：
+
+- Cigna PPO
+- Blue Cross/Blue Shield PPO
+- Western Health Advantage
+- Shutter Select
+- San Francisco Health Plan/Healthy SF
+- EHN/WebTPA (Whole Foods)
+
+其他PPO保险需要提前和Crane Center进行沟通。
+
+现时无法接受的保险有：
+
+- Medicare
+- Medicaid
+- State Medi-Cal/Straight Medi-Cal/Fee-for-Service Medi-Cal
+- Tri-Care
+- Kaiser
+
+## 术后照片（NSFW）
+
+[（英文Reddit链接）](https://www.reddit.com/r/Transgender_Surgeries/search/?q=min%20jun&restrict_sr=1&sr_nsfw=)
+
+## 推荐信要求（英语）
+
+**Two Letters from 2 different licensed mental health specialists**
+
+- 1 letter can be from a provider who has only had an evaluative role
+- At least one of the letters must be from a provider with a doctorate level degree (Ph.D., Psy.D., etc.)
+- Texas patients: Blue Cross Blue Shield of Texas requires two letters from a Doctorate level provider (Ph.D., Psy.D. or Psychiatrist) 
+- The mental health provider letter(s) must include ALL of the following:
+  - Patient’s legal and preferred name
+  - Patient’s date of birth
+  - Date provider/patient relationship began and the frequency of contact
+  - A statement that the patient has been diagnosed with persistent, well-documented gender dysphoria/gender identity disorder and exhibits all of the following:
+  - The desire to live and be accepted as a member of the opposite sex, usually accompanied by the wish to make his or her body as congruent as possible with the preferred sex through surgery and hormone treatment; and
+  - The transgender identity has been present persistently for at least two years; and
+  - The disorder is not a symptom of another mental health disorder; and
+  - The disorder causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+  - Documentation that the patient has completed a minimum of 12 continuous months of living in a gender role that is congruent with their gender identity, across a wide range of life experience and events that may occur throughout the year.
+  - The patient has undergone a minimum of 12 continuous months of hormone therapy (recommended for bottom surgery and breast augmentation only).
+  - A statement that the patient has the capacity to make fully informed decisions and to consent for treatment.
+  - That the patient is able to comply with long term follow-up requirements and post- operative expectations have been addressed.
+  - If the patient has significant medical or mental health issues present, they must be reasonably well controlled.
+  - Any substance use (marijuana, alcohol, etc.) is well controlled for at least 6 months prior to the patient’s surgical date.
+  - The provider must state their experience with treating patients diagnosed with gender dysphoria.
+- The letter from your Hormone Provider must include:
+  - Patient’s legal and preferred name
+  - Patient’s date of birth
+  - Date provider/patient relationship began and the frequency of contact
+  - Date hormone therapy began and the frequency of treatment
+  - That the patient has undergone a minimum of 12 continuous months of hormone replacement therapy
+  - If the patient has a contraindication to hormone therapy, please note this
+
