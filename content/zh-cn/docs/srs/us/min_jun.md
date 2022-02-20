@@ -34,10 +34,6 @@ Min Jun所使用的技术为Da Vinci机器人辅助的腹膜阴道成形术。�
 9. 术后7，14，21天在Crane Center进行术后检查
 10. 术后7天后拆包，并开始通模具。一开始通模具的频率为一天4次，每次15分钟。之后会随时间减少次数。
 
-### 流程视频（NSFW）
-
-[视频链接（海外版OneDrive）](https://1drv.ms/v/s!AjOi0t-X4eUpgaYh0-qEEQqiy29IPw?e=gG26aQ)
-
 ## 保险
 
 现时（2022年2月），Crane Center旧金山接受的网络内保险有：
