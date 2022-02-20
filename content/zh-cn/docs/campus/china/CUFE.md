@@ -23,7 +23,7 @@ title: 中央财经大学
 
 ### 宿舍情况与基础设施
 
-请参考 [colleges.chat](https://colleges.chat/universities/zhong-yang-cai-jing-da-xue)。
+请参阅 <https://colleges.chat/universities/zhong-yang-cai-jing-da-xue>。
 
 ### 医疗资源
 
