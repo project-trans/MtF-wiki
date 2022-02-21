@@ -19,9 +19,8 @@ title: Chettawut 醫生
 [官網介紹](https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==)
 
 醫療中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
-微信公眾號「破繭成碟 BY 梁金」
 
-手術費用：
+手術費用：（注：此處費用為從上方中介梁金處獲得的報價，其他方式獲得的報價可能有所差異）
 
 - 皮瓣 {{< currency from="THB" to="TWD" value="330000" >}}
 - 結腸 {{< currency from="THB" to="TWD" value="350000" >}}
