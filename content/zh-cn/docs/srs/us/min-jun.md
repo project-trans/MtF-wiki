@@ -8,7 +8,7 @@ title: Min Jun（Crane Center）
 
 Email: <CAReception@CraneCTS.com>
 
-Min Jun 隶属于旧金山的 Crane Center for Transgender Surgery．他在纽约大学医学院与 Dr. Rachel Bluebond-Langner 进行了机器人辅助阴道成形术的进修。他提供 SRS 及 SRS 修复的手术服务。Min Jun 现时（2022 年 2 月）的手术地点位于 San Francisco Memorial Hospital．
+Min Jun 隶属于旧金山的 Crane Center for Transgender Surgery．他在纽约大学医学院从 Dr. Rachel Bluebond-Langner 学习了机器人辅助阴道成形术的技术。他提供 SRS 及 SRS 修复的手术服务。Min Jun 现时（2022 年 2 月）的手术地点位于 San Francis Memorial Hospital．
 
 ## 特点
 
