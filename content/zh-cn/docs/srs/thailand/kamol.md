@@ -19,18 +19,19 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 手术费用
 
-- PI 皮瓣 {{< currency from="THB" value="245000" >}} ~ {{< currency from="THB" value="257250" >}}
-- 非 PI 皮瓣 {{< currency from="THB" value="286000" >}} ~ {{< currency from="THB" value="300300" >}}
+- 0 深度 {{< currency from="THB" value="257250" >}}
+- PI 皮瓣 {{< currency from="THB" value="300300" >}}
+- 非 PI 皮瓣 {{< currency from="THB" value="321000" >}}
 - 非 PI + 腹股沟皮瓣 {{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-- 结肠 {{< currency from="THB" value="400000" >}} ~ {{< currency from="THB" value="420000" >}}
-- 结肠（腹腔镜） {{< currency from="THB" value="550000" >}} ~ {{< currency from="THB" value="577500" >}}
+- 结肠 {{< currency from="THB" value="472500" >}}
+- 结肠（腹腔镜） {{< currency from="THB" value="577500" >}}
 - 腹膜（腹腔镜）{{< currency from="THB" value="592800" >}}
 
 可以使用支付宝进行付款（建议出国前将钱全部存入支付宝余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
 酒店费用：大概需要 3 ~ 4 周。
 
-- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1800" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
 
 手术费用包括：
 
@@ -43,15 +44,15 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 手术费用不包括：
 
-1. 检查费用：
-   价格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
+1. 实验室检查费用：
+   价格：{{< currency from="THB" value="5600" >}}
    检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
-   价格：{{< currency from="THB" value="4400" >}}
+   价格：{{< currency from="THB" value="4000" >}}
 
 ## 手术介绍
 
-Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
+Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 全身麻醉后，沿 Denonvilliers 筋膜在直肠和泌尿道之间进行一次新阴道腔剥离术，深度约为 5 ~ 7 英寸。皮瓣 SRS 使用阴茎和阴囊皮肤作为阴道内壁和阴道口，材料不足时使用腹股沟皮片。腹膜 SRS 则使用腹腔镜取腹膜作为阴道内壁，使用阴茎皮肤作为阴道口。可实现相对充分的分泌，同时对通模具的要求更低。阴茎的核心和筋膜将被切除，感觉神经将被保留下来，用于制造阴蒂和阴蒂罩。切除睾丸，尿路将会变短、变形，海绵组织将会切除，以便尿液像女性一样流出。
 
@@ -65,6 +66,7 @@ Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
 
 ## 预约事项
 
+1. 确认手术日期后，顾客需提前支付 10% 手术费用作为定金。
 1. 必须至少 20 岁。18-20 岁则需要合法父母或监护人授权他们进行手术。
 1. 必须连续服用女性荷尔蒙至少一年。
 1. 必须长时间的认为自己是女性。
@@ -86,13 +88,6 @@ Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
 - 心脏病专家探访
   价格：{{< currency from="THB" value="1000" >}} ~ {{< currency from="THB" value="5000" >}}
   这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺 部检查，甲状腺检查等）
-
-## 术前事项
-
-1. 手术需要两位心理医生的证明
-   价格：{{< currency from="THB" value="4400" >}}
-1. 检查项目：CBC，电解质，HIV，HBV，HCV，EKG，胸部 X 光片等
-   价格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
 
 ## 手术日程
 
