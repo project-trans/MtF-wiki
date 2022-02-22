@@ -17,16 +17,17 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 手術費用
 
-- PI 皮瓣 {{< currency from="THB" value="245000" >}} ~ {{< currency from="THB" value="257250" >}}
-- 非 PI 皮瓣 {{< currency from="THB" value="286000" >}} ~ {{< currency from="THB" value="300300" >}}
+- 0 深度 {{< currency from="THB" value="257250" >}}
+- PI 皮瓣 {{< currency from="THB" value="300300" >}}
+- 非 PI 皮瓣 {{< currency from="THB" value="321000" >}}
 - 非 PI + 腹股溝皮瓣 {{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-- 結腸 {{< currency from="THB" value="400000" >}} ~ {{< currency from="THB" value="420000" >}}
-- 結腸（腹腔鏡） {{< currency from="THB" value="550000" >}} ~ {{< currency from="THB" value="577500" >}}
+- 結腸 {{< currency from="THB" value="472500" >}}
+- 結腸（腹腔鏡） {{< currency from="THB" value="577500" >}}
 - 腹膜（腹腔鏡）{{< currency from="THB" value="592800" >}}
 
 酒店費用：大概需要 3 ~ 4 周。
 
-- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1800" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
 
 手術費用包括：
 
@@ -39,15 +40,15 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 手術費用不包括：
 
-1. 檢查費用：
-   價格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
+1. 實驗室檢查費用：
+   價格：{{< currency from="THB" value="5600" >}}
    檢查專案：CBC、電解質、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 兩位泰國精神科醫生的證明：
-   價格：{{< currency from="THB" value="4400" >}}
+   價格：{{< currency from="THB" value="4000" >}}
 
 ## 手術介紹
 
-Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
+Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 
 全身麻醉後，沿 Denonvilliers 筋膜在直腸和泌尿道之間進行一次新陰道腔剝離術，深度約為 5 ~ 7 英寸。皮瓣 SRS 使用陰莖和陰囊皮膚作為陰道內壁和陰道口，材料不足時使用腹股溝皮片。腹膜 SRS 則使用腹腔鏡取腹膜作為陰道內壁，使用陰莖皮膚作為陰道口。可實現相對充分的分泌，同時對通模具的要求更低。陰莖的核心和筋膜將被切除，感覺神經將被保留下來，用於製造陰蒂和陰蒂罩。切除睪丸，尿路將會變短、變形，海綿組織將會切除，以便尿液像女性一樣流出。
 
@@ -61,6 +62,7 @@ Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
 
 ## 預約事項
 
+1. 確認手術日期後，需提前支付 10% 手術費用作為定金。
 1. 必須至少 20 歲。18-20 歲則需要合法父母或監護人授權他們進行手術。
 1. 必須連續服用女性荷爾蒙至少一年。
 1. 必須長時間的認為自己是女性。
@@ -82,13 +84,6 @@ Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
 - 心臟病專家探訪
   價格：{{< currency from="THB" value="1000" >}} ~ {{< currency from="THB" value="5000" >}}
   這些疾病所需的藥物或任何治療費用不包括在手術費用中（睡眠檢查，CTA 冠狀動脈檢查，肺 部檢查，甲狀腺檢查等）
-
-## 術前事項
-
-1. 手術需要兩位心理醫生的證明
-   價格：{{< currency from="THB" value="4400" >}}
-1. 檢查專案：CBC，電解質，HIV，HBV，HCV，EKG，胸部 X 光片等
-   價格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
 
 ## 手術日程
 
@@ -122,4 +117,4 @@ Kamol 提供 0 深度、PI 皮瓣 、結腸 和 腹膜 SRS．
 
 ## 內容參考
 
-[Gogo變成貓貓了——SRS日誌](https://blog.gogo.moe/Gogo变成猫猫了/)
+[Gogo變成貓貓了——SRS日誌](https://blog.gogo.moe/Gogo變成貓貓了/)

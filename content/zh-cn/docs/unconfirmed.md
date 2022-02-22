@@ -107,7 +107,6 @@ title: 未确认列表
 日本,广芝耳鼻喉科诊所,
 泰国,PAI,有待核实
 泰国,Yanhee,有待核实
-泰国,Yoskarn,有待核实
 美国,Mount Sinai,有待核实
 韩国,艺颂嗓音中心医院,
 {{< /csv-table >}}
