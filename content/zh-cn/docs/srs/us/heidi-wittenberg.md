@@ -24,7 +24,7 @@ Wittenberg 由于是妇产科出身，所以她对阴道及外阴的解剖结构
 ## 流程
 
 1. 在官网 Contact 处预约 Initial Consultation
-1. 参加 Initial Consultation（可以选择和 Wittenberg 或者和她的学生进行 Initial Consultation。和她的话需要等4-5个月；和她学生的话等大约2-3周即可）
+1. 参加 Initial Consultation（可以选择和 Wittenberg 或者和她的学生进行 Initial Consultation。和她的话需要等 4-5 个月；和她学生的话等大约 2-3 周即可）
 1. 预约手术（Wittenberg 预约手术并不需要已经拿到信）
 1. 获得手术日期，可以选择加入 Cancellation list（如果前面有人取消有机会提前手术时间）
 1. 在临近手术日期时处理好保险问题，并获得推荐信
