@@ -33,7 +33,7 @@ slug: overview
 
 ## 保险及费用
 
-一般来说，比较大的保险网络（例如 BCBS, Aetna 等）的 PPO 都会或多或少地报销手术费用，但是为了保险，请提前查阅自己保险的 Policy 或与保险公司联系来确认。有 [一些学校](https://github.com/KristallWang/Transgender-lost-years/blob/master/0001_Education/Oversea/In_US/%E5%8F%AF%E4%BB%A5%E6%8A%A5%E9%94%80HRT%26SRS%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%B8%85%E5%8D%95.md) 的保险是会报销 SRS 费用的。手术医生一般来说都会要求手术者在开始咨询/预约手术时有以及生效的保险。绝大多数医生不接受完全自费手术者。
+一般来说，比较大的保险网络（例如 BCBS, Aetna 等）的 PPO 都会或多或少地报销手术费用，但是为了保险，请提前查阅自己保险的 Policy 或与保险公司联系来确认。有 [一些学校](https://github.com/KristallWang/Transgender-lost-years/blob/master/0001_Education/Oversea/In_US/%E5%8F%AF%E4%BB%A5%E6%8A%A5%E9%94%80HRT%26SRS%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%B8%85%E5%8D%95.md) 的保险是会报销 SRS 费用的。手术医生一般来说都会要求手术者在开始咨询/预约手术时有已经生效的保险。绝大多数医生不接受完全自费手术者。
 
 由于美国医疗价格的高昂，SRS 的价格一般都会达到 Out of Pocket Max Limit (OOP-Max)。这个金额随保险的不同而有所不同，大致在 $3,000-$10,000 之间。值得注意的是，当 OOP-Max 金额被达到的时候，当保险期之内其他的所有保险报销的医疗服务均会由保险公司 100% 报销。
 
