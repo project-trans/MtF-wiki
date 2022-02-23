@@ -8,7 +8,7 @@ title: Heidi Wittenberg
 
 *注：笔者本人并未在 Wittenberg 处预约手术，本页资料为亲历者采访与官方网站资料汇编而成*
 
-Heidi Wittenberg 是一位在旧金山的妇产科出身的 SRS 医生。她是美国西海岸为数不多的可以进行腹膜手术的医生。现时（2022年2月），她进行手术的医院是 San Francis Memorial Hospital。
+Heidi Wittenberg 是一位在旧金山的妇产科出身的 SRS 医生。她是美国西海岸为数不多的可以进行腹膜手术的医生。现时（2022 年 2 月），她进行手术的医院是 San Francis Memorial Hospital。
 
 
 ## 特点
