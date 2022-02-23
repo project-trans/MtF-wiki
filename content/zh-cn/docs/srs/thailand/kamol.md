@@ -27,9 +27,9 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 - 结肠（腹腔镜） {{< currency from="THB" value="577500" >}}
 - 腹膜（腹腔镜）{{< currency from="THB" value="592800" >}}
 
-可以使用支付宝进行付款（建议出国前将钱全部存入支付宝余额，避免出现因银行卡的每日限额导致钱存不进的情况）
+支持 中国银联卡、VISA卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
-酒店费用：大概需要 3 ~ 4 周。
+酒店费用：出院后14天须在下方指定酒店进行恢复，之后可自行选择其他酒店。
 
 - [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
 
