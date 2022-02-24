@@ -29,7 +29,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 支持 中国银联卡、VISA卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
-酒店费用：出院后14天须在下方指定酒店进行恢复，之后可自行选择其他酒店。
+酒店费用：出院后，前 14 天须在下方指定酒店进行恢复，之后可自行选择其他酒店。需要 3 ~ 4 周左右。
 
 - [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
 
