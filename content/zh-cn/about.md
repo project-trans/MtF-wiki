@@ -30,7 +30,7 @@ weight: 0
 
 {{< github/profile "3842474" "septs" >}}&nbsp;<mtfwiki@septs.email>
 
-{{< github/profile "3842474" "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
+{{< github/profile "18461360" "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
 
 以及感谢所有 GitHub 贡献者：
 
