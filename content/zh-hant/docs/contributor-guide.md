@@ -11,7 +11,7 @@ title: 貢獻者指南
 
 1. 會 GitHub 操作，直接 PR 或者 透過 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 1. 不會 GitHub 操作，[GitHub 註冊並貢獻教程 - limelight](https://limelight.moe/t/topic/9639)
-1. 傳送郵件到 <mtf@kuaer.club>
+1. 傳送郵件到 <hi@mtf.wiki>
 
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki\?style\=flat-square
 
@@ -57,7 +57,7 @@ title: 貢獻者指南
 ## 關於圖片資源
 
 如果該圖片為對紙質材料的拍攝請使用 Microsoft Lens (fbk Office Lens) 進行掃描以便於提供更好的閱讀體驗
-當然如果有條件的話建議提供掃描件，如果您不會相關的後處理（可以將該圖片提交至 <mtf@kuaer.club> 由我們進行脫敏後進行上傳）
+當然如果有條件的話建議提供掃描件，如果您不會相關的後處理（可以將該圖片提交至 <hi@mtf.wiki> 由我們進行脫敏後進行上傳）
 
 [Microsoft Lens (Android)](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)

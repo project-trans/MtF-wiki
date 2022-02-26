@@ -58,5 +58,6 @@ _TODO_
 <hr>
 
 投稿人联系方式：
+
 - 邮箱：<815071581@qq.com>
-- 知乎：[吃糖的系统分析师](https://www.zhihu.com/people/0101010101-54)
+- 知乎：<https://www.zhihu.com/people/0101010101-54>

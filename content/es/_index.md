@@ -35,7 +35,7 @@ footer:
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: Email
-          link: mailto:mtf@kuaer.club
+          link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true

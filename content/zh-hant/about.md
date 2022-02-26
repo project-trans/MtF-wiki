@@ -46,7 +46,7 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 透過 GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-透過 郵件 <mtf@kuaer.club>
+透過 郵件 <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square

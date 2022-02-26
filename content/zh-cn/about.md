@@ -46,7 +46,7 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 
-邮件 <mtf@kuaer.club>
+邮件 <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square

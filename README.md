@@ -60,7 +60,7 @@ Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-邮件 <mtf@kuaer.club>
+邮件 <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
