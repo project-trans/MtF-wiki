@@ -8,6 +8,10 @@ title: 上海｜陆峥
 
 {{< tag/neg "昂贵" >}} {{< tag/neg "初诊不开证" >}} {{< tag/neg "需家属介入" >}}
 
+{{< alert theme=warning >}}
+陆峥：你看动漫吗？
+{{< /alert >}}
+
 医生姓名：[陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)
 
 所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1) - 五号楼（心理咨询楼）- 三楼 307 诊室

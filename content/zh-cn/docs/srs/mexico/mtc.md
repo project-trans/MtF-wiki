@@ -15,7 +15,7 @@ Email: <info@mexicotransgendercenter.us>
 - Dr. Ivan Aguilar
 - Dr. Carlos Mendez
 
-Aguilar医生曾前往美国学习 Marci Bowers 的SRS技术。
+Aguilar 医生曾前往美国学习 Marci Bowers 的 SRS 技术。
 
 ## 提供服务
 

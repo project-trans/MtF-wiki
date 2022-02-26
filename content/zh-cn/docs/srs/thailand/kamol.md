@@ -11,7 +11,7 @@ title: Kamol
 
 邮箱：<customercare@kamolhospital.com>
 
-微信：{{< shields/weixin "xiaofeitum" >}}
+微信：{{< shields/weixin "xiaofeitum2" >}}
 
 电话：{{< telephone "+66 2559-0155" >}}
 
@@ -19,18 +19,19 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 手术费用
 
-- PI 皮瓣 {{< currency from="THB" value="245000" >}} ~ {{< currency from="THB" value="257250" >}}
-- 非 PI 皮瓣 {{< currency from="THB" value="286000" >}} ~ {{< currency from="THB" value="300300" >}}
+- 0 深度 {{< currency from="THB" value="257250" >}}
+- PI 皮瓣 {{< currency from="THB" value="300300" >}}
+- 非 PI 皮瓣 {{< currency from="THB" value="321000" >}}
 - 非 PI + 腹股沟皮瓣 {{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-- 结肠 {{< currency from="THB" value="400000" >}} ~ {{< currency from="THB" value="420000" >}}
-- 结肠（腹腔镜） {{< currency from="THB" value="550000" >}} ~ {{< currency from="THB" value="577500" >}}
+- 结肠 {{< currency from="THB" value="472500" >}}
+- 结肠（腹腔镜） {{< currency from="THB" value="577500" >}}
 - 腹膜（腹腔镜）{{< currency from="THB" value="592800" >}}
 
-可以使用支付宝进行付款（建议出国前将钱全部存入支付宝余额，避免出现因银行卡的每日限额导致钱存不进的情况）
+支持 中国银联卡、VISA卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
-酒店费用：大概需要 3 ~ 4 周。
+酒店费用：出院后，前 14 天须在下方指定酒店进行恢复，之后可自行选择其他酒店。需要 3 ~ 4 周左右。
 
-- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1800" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
 
 手术费用包括：
 
@@ -43,28 +44,29 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 手术费用不包括：
 
-1. 检查费用：
-   价格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
+1. 实验室检查费用：
+   价格：{{< currency from="THB" value="5600" >}}
    检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
-   价格：{{< currency from="THB" value="4400" >}}
+   价格：{{< currency from="THB" value="4000" >}}
 
 ## 手术介绍
 
-Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
+Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
-全身麻醉后，沿 Denonvilliers 筋膜在直肠和泌尿道之间进行一次新阴道腔剥离术，深度约为 5 ~ 7 英寸。皮瓣 SRS 使用阴茎和阴囊皮肤作为阴道内壁和阴道口，材料不足时使用腹股沟皮片。腹膜 SRS 则使用腹腔镜取腹膜作为阴道内壁，使用阴茎皮肤作为阴道口。可实现相对充分的分泌，同时对通模具的要求更低。阴茎的核心和筋膜将被切除，感觉神经将被保留下来，用于制造阴蒂和阴蒂罩。切除睾丸，尿路将会变短、变形，海绵组织将会切除，以便尿液像女性一样流出。
+全身麻醉后，沿 Denonvilliers 筋膜在直肠和泌尿道之间进行一次新阴道腔剥离术，深度约为 5 ~ 7 英寸。皮瓣 SRS 使用阴茎和阴囊皮肤作为阴道内壁和阴道口，材料不足时使用腹股沟皮片。腹膜 SRS 则使用腹腔镜取腹膜作为阴道内壁，使用阴茎皮肤作为阴道口。可实现相对充分的分泌。阴茎的核心和筋膜将被切除，感觉神经将被保留下来，用于制造阴蒂和阴蒂罩。切除睾丸，尿路将会变短、变形，海绵组织将会切除，以便尿液像女性一样流出。
 
 对于使用了腹腔镜的结肠与腹膜 SRS，可以避免在手术部位留下显著的疤痕，但会在肚子上形成 4 个小拇指指甲盖大小的伤口。由于这一技术相对较新，存在更多并发症的风险。
 
 外观上，Kamol 技术中阴唇和阴蒂的形态相对欠自然，尤其是常出现阴道口完全处于小阴唇下方，阴道前庭与周围皮肤连成一片，甚至小阴唇在阴道口上方交汇的情况。
 
-腹膜技术只有两年比较新，有长息肉、萎縮或有其它后遗症的情况，而且腹膜的延展性没那么好，通模具要大力，会比较疼。
+腹膜技术只有近两年比较新，有长息肉、萎縮或有其它后遗症的情况，而且腹膜的延展性没那么好，通模具要大力，会比较疼。
 
 官方网站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
 
 ## 预约事项
 
+1. 确认手术日期后，需提前支付 10% 手术费用作为定金。
 1. 必须至少 20 岁。18-20 岁则需要合法父母或监护人授权他们进行手术。
 1. 必须连续服用女性荷尔蒙至少一年。
 1. 必须长时间的认为自己是女性。
@@ -86,13 +88,6 @@ Kamol 提供 0 深度、PI 皮瓣 、结肠 和 腹膜 SRS．
 - 心脏病专家探访
   价格：{{< currency from="THB" value="1000" >}} ~ {{< currency from="THB" value="5000" >}}
   这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺 部检查，甲状腺检查等）
-
-## 术前事项
-
-1. 手术需要两位心理医生的证明
-   价格：{{< currency from="THB" value="4400" >}}
-1. 检查项目：CBC，电解质，HIV，HBV，HCV，EKG，胸部 X 光片等
-   价格：{{< currency from="THB" value="3300" >}} ~ {{< currency from="THB" value="6300" >}}
 
 ## 手术日程
 

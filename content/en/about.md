@@ -20,13 +20,15 @@ Brother site: <https://FtM.wiki>
 
 ## Core maintainer
 
-Founder: {{< github/profile "kenchiu233" >}}
+Founder: {{< github/profile "27522149" "kenchiu233" "Kenchiu" >}}
 
-{{< github/profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "43064781" "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}} {{< shields/telegram saeziae >}}
+{{< github/profile "26759054" "saeziae" "Estela">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
 
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
+{{< github/profile "44055214" "llh721113" "Joanna" >}}&nbsp;<llh721113@outlook.com>
+
+{{< github/profile "3842474" "septs" >}}&nbsp;<mtfwiki@septs.email>
 
 Contact if u would like to join!
 

@@ -6,7 +6,7 @@ slug: overview
 
 ## Pre-SRS FAQ {#popular}
 
-[SRS FAQ]({{< ref "../srs-faq" >}})
+[SRS FAQ]({{< ref "srs-faq" >}})
 
 ## Legal basis {#legal}
 
