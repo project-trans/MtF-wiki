@@ -28,6 +28,7 @@ weight: 5
 > 1. 如性別重置手術於香港以外進行，則醫學證明需包括醫生的資歷，取得資歷的地點及其聯絡方法；
 > 1. 如於香港以外進行性別重置手術，而又在取得相關醫學證明方面有任何困難，可選擇尋求香港註冊醫生為已進行的性別重置手術作出評估；
 > 1. 醫學證明樣本可以在以下連結找到：
+>
 > - [由香港註冊醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexI_Chi.pdf)
 > - [由非本地醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexII_Chi.pdf)
 

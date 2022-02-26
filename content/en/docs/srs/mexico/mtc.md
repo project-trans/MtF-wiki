@@ -24,4 +24,3 @@ Dr Aguilar traveled to the United States to conduct close observership of Dr. Ma
 - Facial Feminization (FFS)
 - Orchiectomy
 - Nullification (Male-to-Nullo)
-
