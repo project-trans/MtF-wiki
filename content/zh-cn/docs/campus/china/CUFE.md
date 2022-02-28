@@ -47,5 +47,5 @@ title: 中央财经大学
 
 投稿人联系方式：
 
-- 邮箱：<2019310115@电子邮件.cufe.edu.cn>
+- 邮箱：<2019310115@email.cufe.edu.cn>
 - 知乎：<https://www.zhihu.com/people/ying-tao-girl-78>
