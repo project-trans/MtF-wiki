@@ -19,24 +19,46 @@ body:
       description: 该学校的地理位置
     validations:
       required: true
-  - type: dropdown
-    id: labels
+  - type: markdown
     attributes:
-      label: 标签
-      multiple: true
-      options:
-        - LGBT+ 友善
-        - 能使用“易性症”诊断证明/假条/病历免除体育测试
-        - 教务协助“变更学历”
-        - 校医提供“性激素六项”检查服务
-        - 存在其他跨性别
+      value: 下面是一些基本生活信息，你可以说有、没有、不了解、部分情况下有（如只有某校区有独立卫浴、医保限部分医院报销、医保转诊才能报销）
+  - type: input
+    id: 宿舍独立卫浴
+    attributes:
+      label: 宿舍独立卫浴
+      description: 宿舍独立卫生间或者独立浴室的情况，公共澡堂可以讲讲私密度情况
+  - type: input
+    id: 第三卫生间
+    attributes:
+      label: 教学区第三卫生间
+  - type: input
+    id: 军训减免
+    attributes:
+      label: 军训减免
+      description: 协商减免，凭医学材料减免
+  - type: input
+    id: 军训管不管头发
+    attributes:
+      label: 军训管不管头发
+  - type: input
+    id: 体育减免
+    attributes:
+      label: 体育减免
+      description: 协商减免，凭医学材料减免
+  - type: input
+    id: 医保使用
+    attributes:
+      label: 医保的可用情况
+  - type: input
+    id: 校医院可用度
+    attributes:
+      label: 校医院可用度
+      description: 能不能进行激素检查，能不能开到激素药
   - type: textarea
     id: general
     attributes:
       label: 现状梗概
-      description: 您在学校就读时遭遇的问题，或有补充的信息
-    validations:
-      required: true
+      description: 您在学校就读时遭遇的问题，或有补充的信息，对于 MtF 不方便的地方请指出
   - type: checkboxes
     id: license
     attributes:
