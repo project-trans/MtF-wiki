@@ -12,11 +12,11 @@ Youhao mektep rayoni: Ürümchi Saybagh rayoni Xibei yoli 448. Youhao soda rayon
 Honghu mektep rayoni: Ürümchi Tengritagh rayoni Ghalibiyet yoli 666, mëtro bar. Ijtimaiy penler.
 Boda mektep rayoni: Ürümchi Bulaqtagh rayoni, u 2021-yili 10-ayde emdila yolgha qoyulghan mektep rayoni, uninggha baridighan ammiwi qatnash yoq, u qumluqqa jaylashqan bolup, etrapida soda esliheliri yoq, hazir bir pen-tëxnika mektep rayoni.
 
-### 宿舍情况与基础设施
+### Yataq ehwali we ul eslihe
 
 Aptor peqet Honghu mektep rayonida yashighan bolghachqa, asasliqi bu yerdiki ehwalni teswirlep bergen.
 
-#### yataq ehwali we ul eslihe
+#### Yataq ehwali
 
 Honghu mektep rayoni toluq kurs yatiqi, aspirantlar yatiqi we xelq'araliq oqughuchilar yatiqigha ayrilidu. bu yataqlar biologiyilik jinsiy munasiwet we «'az sanliq milletler bilen xenzularning ortaq turalghusi» prinsipigha asasen teqsim qilinghan. yatiqini özgertishning ülgisi yoq. sharait yar berse, öy ijare alalaysiz. hazir, Kwashingbyë oqughuchiliri üchün ayrim yataq orunlashturushining ülgisi yoq. qandaqla bolmisun, yataqni özgertish yaki xamushluq kësilige giriptar bolghan bimarlarni yalghuz kishilik yataq bilen teminleshning ülgisi bar, teqsimat asasliqi xelq'araliq oqughuchilar yatiqida.
 
