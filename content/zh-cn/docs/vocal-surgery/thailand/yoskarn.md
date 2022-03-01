@@ -6,7 +6,7 @@ title: 泰国｜Yoskarn
 
 电话：{{< telephone "+66 2-253-8901" >}}
 
-Email: <info@yoskarn.com>
+电子邮件: <info@yoskarn.com>
 
 泰国宋育医生的声带手术技术在国际上来说是很不错的， 很多欧美日本姐妹都选择在这里做。
 
