@@ -1,5 +1,7 @@
 ---
-title: preecha美学研究所（PAI）
+名称：preecha美学研究所（PAI）
+alias: burin
+
 ---
 
 医院：[Preecha Aesthetic Institute (PAI)](https://pai.co.th/)
