@@ -236,7 +236,7 @@ weight: 400
 
 - 泰国 Thiti：S 25mm，M 28mm，L 31mm
 - 泰国 Suporn 诊所：印花玻璃棒（过去使用镂刻玻璃棒）并提供蓝色的绑带，26 32 35 37 mm，20cm
-- 泰国 Kamol 医院：0-5 号
+- 泰国 Kamol 医院：0-5 号 17.5mm-30mm
 - 泰国 WIH 医院：0-4 号 20mm 23mm 26mm 29mm 32mm，8.5inch
 - 北美部分诊所标准 Soul Source：有中间弯曲的刚性塑料棒，0.79in 1.0in 1.13in 1.25in 1.38in 1.5in
 - Crane 医院 ：1.125in 1.25in 1.375in 1.5in
