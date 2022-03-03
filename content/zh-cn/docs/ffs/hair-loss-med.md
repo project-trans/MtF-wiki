@@ -1,5 +1,5 @@
 ---
-title:hair-loss-medical-treatment
+title: hair-loss-medical-treatment
 ---
 
 # 概述
