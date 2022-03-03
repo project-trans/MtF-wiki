@@ -2,7 +2,6 @@
 title: Estrofem
 description: Estrofem 是雌二醇片，不同於 Progynova（戊酸雌二醇）。
 libraries: [katex, mhchem]
-weight: 3
 ---
 
 {{< notice warning "用藥安全提示" >}}

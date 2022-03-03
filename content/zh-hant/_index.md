@@ -2,7 +2,7 @@
 title: MtF Wiki
 description: MtF Wiki
 landing:
-  height: 500
+  height:  700
   image:  new/mtf-wiki-square.svg
   title:
     - MtF Wiki
@@ -34,8 +34,8 @@ footer:
           link: https://twitter.com/mtfwiki
         - title: GitHub
           link: https://github.com/mtf-wiki
-        - title: Email
-          link: mailto:mtf@kuaer.club
+        - title: 電郵
+          link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true

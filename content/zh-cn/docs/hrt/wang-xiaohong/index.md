@@ -1,6 +1,5 @@
 ---
 title: 四川省人民医院｜王小红
-weight: 200
 ---
 
 {{< doctor-image src="doctor.png" >}}

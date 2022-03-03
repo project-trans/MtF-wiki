@@ -1,0 +1,4 @@
+---
+title: México
+collapsible: true
+---

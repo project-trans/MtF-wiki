@@ -1,10 +1,10 @@
 @import "../themes/theme";
 
-$text-font-stack: /*'Muli', Georgia, -apple-system, */ "Noto Sans",
-  "Noto Sans CJK", "Source Han Sans" "PingFang SC", "Hiragino Sans GB",
-  "Microsoft Yahei", "Microsoft JhengHei", "ST Heiti", "Noto Sans Thai",
-  sans-serif !default;
-$code-font-stack: Consolas, Monaco, Menlo, "Noto Sans Mono", "DejaVu Sans Mono",
+$text-font-stack: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+  Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+  "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+$code-font-stack: Consolas, Monaco, Menlo, "DejaVu Sans Mono",
   "Bitstream Vera Sans Mono", "Courier New", "Lucida Console",
   "Lucida Sans Typewriter", "Liberation Mono", "Nimbus Mono L", Monaco, Courier,
   monospace !default;

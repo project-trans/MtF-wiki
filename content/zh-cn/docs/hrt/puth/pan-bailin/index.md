@@ -1,6 +1,5 @@
 ---
 title: 潘柏林
-weight: 200
 aliases:
   - /zh-cn/docs/hrt/pku3/pan-bailin/
 ---

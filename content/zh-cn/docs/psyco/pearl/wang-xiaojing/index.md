@@ -1,6 +1,5 @@
 ---
 title: 深圳｜王晓京
-weight: 3
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

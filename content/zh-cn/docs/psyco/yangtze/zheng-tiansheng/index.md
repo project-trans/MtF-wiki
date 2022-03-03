@@ -1,6 +1,5 @@
 ---
 title: 温州｜郑天生
-weight: 2
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

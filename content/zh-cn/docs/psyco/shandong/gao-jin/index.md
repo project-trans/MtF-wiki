@@ -1,6 +1,5 @@
 ---
 title: 青岛｜高进
-weight: 12
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

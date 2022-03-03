@@ -1,6 +1,5 @@
 ---
 title: 上海｜陆峥
-weight: 4
 ---
 
 {{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
@@ -8,6 +7,10 @@ weight: 4
 {{< doctor-image src="doctor.jpg" >}}
 
 {{< tag/neg "昂贵" >}} {{< tag/neg "初诊不开证" >}} {{< tag/neg "需家属介入" >}}
+
+{{< alert theme=warning >}}
+陆峥：你看动漫吗？
+{{< /alert >}}
 
 医生姓名：[陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)
 

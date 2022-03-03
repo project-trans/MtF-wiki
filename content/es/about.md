@@ -20,12 +20,14 @@ Sitio hermano: <https://FtM.wiki>
 
 ## Mantenedores
 
-Fundadora: {{< github/profile "kenchiu233" >}}
+Fundadora: {{< github/profile "27522149" "kenchiu233" "Kenchiu" >}}
 
-{{< github/profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "43064781" "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}} {{< shields/telegram saeziae >}}
+{{< github/profile "26759054" "saeziae" "Estela">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
 **¡Contáctame si quieres unirte!**
+
+{{< github/profile "44055214" "llh721113" "Joanna" >}}&nbsp;<llh721113@outlook.com>
 
 Gracias a los contribuyentes de GitHub:
 
@@ -41,7 +43,7 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 Por GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-Por correo electrónico <mtf@kuaer.club>
+Por correo electrónico <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square

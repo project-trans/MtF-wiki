@@ -6,10 +6,9 @@ title: Suporn 诊所
 
 邮箱：<admin@supornclinic.com> 仅接受英文
 
-地址：he Dr. Suporn Clinic 938 Sukhumvit Road Bangplasoi, Muang District Chonburi, 20000 Thailand
+地址：the Dr. Suporn Clinic 938 Sukhumvit Road Bangplasoi, Muang District Chonburi, 20000 Thailand
 
 电话：{{< telephone "+66 38273360" >}}
-
 
 ## 价格
 

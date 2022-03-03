@@ -2,7 +2,6 @@
 title: 雌二醇凝胶
 description: 外用雌二醇凝胶，经皮吸收。
 libraries: [katex, mhchem]
-weight: 1
 ---
 
 {{< notice warning "用药安全提示" >}}
@@ -12,6 +11,7 @@ weight: 1
 ## 基本信息
 
 ### Oestrogel<sup>&reg;</sup>（爱斯妥）{#ai-si-tuo}
+
 |      中国包装       |     国际包装     |
 | :-----------------: | :--------------------: |
 |![Oestrogel](oestrogel.jpg)|![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg)|

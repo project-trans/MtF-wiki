@@ -2,7 +2,7 @@
 title: MtF Wiki
 description: MtF Wiki, un lugar que podría echar una mano a mujeres trans.
 landing:
-  height: 500
+  height: 700
   image:  new/mtf-wiki-square.svg
   title:
     - MtF Wiki
@@ -35,7 +35,7 @@ footer:
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: Email
-          link: mailto:mtf@kuaer.club
+          link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true

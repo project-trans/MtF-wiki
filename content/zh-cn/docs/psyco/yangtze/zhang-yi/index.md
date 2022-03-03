@@ -1,6 +1,5 @@
 ---
 title: 上海｜张毅
-weight: 4
 ---
 
 {{< alert theme=info >}}{{< meme/wpnl >}}{{< /alert >}}
@@ -16,7 +15,7 @@ weight: 4
 ## 注意事项
 
 {{< alert theme=warning >}}
-张毅对跨性别的认知非常负面，可能单独对家长说出非常不利的说法，谨慎带家长前往。
+张毅可能单独对家长说出非常不利的说法，谨慎带家长前往。
 {{< /alert >}}
 
 大部分 注意事项 与 [陆峥的注意事项]({{< ref "lu-zheng#caveats" >}}) 相同

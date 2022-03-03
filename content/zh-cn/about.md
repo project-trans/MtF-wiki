@@ -20,17 +20,17 @@ weight: 0
 
 ## 主要人员
 
-创始人：{{< github/profile "kenchiu233" >}}
+创始人：{{< github/profile "27522149" "kenchiu233" "可橙" >}}
 
-{{< github/profile "CoelacanthusHex" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "43064781" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "saeziae" >}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "26759054" "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
 
-{{< github/profile "llh721113" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "44055214" "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
 
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
+{{< github/profile "3842474" "septs" >}}&nbsp;<mtfwiki@septs.email>
 
-{{< github/profile "Clansty" >}}&nbsp;<mtfwiki@gao4.pw>
+{{< github/profile "18461360" "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
 
 以及感谢所有 GitHub 贡献者：
 
@@ -46,7 +46,7 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 
-邮件 <mtf@kuaer.club>
+邮件 <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square

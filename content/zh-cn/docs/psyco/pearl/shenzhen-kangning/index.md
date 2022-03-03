@@ -1,6 +1,5 @@
 ---
 title: 深圳市康宁医院
-weight: 4
 ---
 
 {{< doctor-image src="wei-zhaoguo.png" >}}

@@ -1,6 +1,6 @@
 ---
 title: 用药风险
-weight: 0
+weight: 10
 ---
 
 ## 抗雄激素

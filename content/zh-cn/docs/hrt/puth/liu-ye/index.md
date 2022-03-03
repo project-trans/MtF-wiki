@@ -1,6 +1,5 @@
 ---
 title: 刘烨
-weight: 200
 aliases:
   - /zh-cn/docs/hrt/pku3/liu-ye/
 ---

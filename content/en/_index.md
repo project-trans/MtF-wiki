@@ -4,7 +4,7 @@ description: MtF Wiki, a place that may help some transgender women.
 date: 2020-10-29T04:15:05+08:00
 draft: false
 landing:
-  height: 500
+  height: 700
   image:  new/mtf-wiki-square.svg
   title:
     - MtF Wiki
@@ -37,7 +37,7 @@ footer:
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: Email
-          link: mailto:mtf@kuaer.club
+          link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true

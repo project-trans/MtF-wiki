@@ -1,6 +1,5 @@
 ---
 title: 北京｜胡佩诚
-weight: 2
 ---
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}

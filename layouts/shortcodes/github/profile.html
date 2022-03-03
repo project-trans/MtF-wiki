@@ -1,6 +1,4 @@
-{{- $name := .Get 1 -}}
-{{- with getJSON (printf "https://api.github.com/users/%s" (.Get 0)) -}}
-<a class="github-profile" href="{{ .html_url }}" title="{{ $name | default .name }}">
-<img src="{{ .avatar_url }}"><b>{{ $name | default .name }}</b><i class="bi bi-github"></i>
-</a>
-{{- end -}}
+{{- $uid := .Get 0 -}}
+{{- $id := .Get 1 -}}
+{{- $name := .Get 2 -}}
+<a class="github-profile"href="https://github.com/{{ $uid }}"><img src="https://avatars.githubusercontent.com/u/{{ $uid }}?v=4?s=64"> <b>{{ $name | default $id }}</b> <i class="bi bi-github"></i></a>

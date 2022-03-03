@@ -1,7 +1,6 @@
 ---
 title: 雌二醇贴片
 description: 外用雌二醇贴片，经皮吸收。
-weight: 1
 ---
 
 {{< notice warning "用药安全警示" >}}
