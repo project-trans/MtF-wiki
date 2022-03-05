@@ -25,19 +25,15 @@ slug: overview
 
 具体参见：[手术技术]({{< ref "srs-tech" >}})
 
-<!-- prettier-ignore-start -->
-
-| 医生/医院 | PI | 非 PI | 结肠 | 腹膜 |
-| :--- | :---: | :---: | :---: | :---: |
-[Burin]({{< ref "burin" >}})         | &#9989; |         | &#9989; |         |
-[Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
-[Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
-[Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
-[Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
-[Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
-[Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
-
-<!-- prettier-ignore-end -->
+| 医生/医院                            |   PI    |  非 PI  |  结肠   |  腹膜   |
+| :----------------------------------- | :-----: | :-----: | :-----: | :-----: |
+| [PAI/Burin]({{< ref "preecha" >}})   | &#9989; |         | &#9989; |         |
+| [Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
+| [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
+| [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
+| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; | &#9989; |         |
+| [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
+| [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 
 ## 费用预期 {#fee}
 
