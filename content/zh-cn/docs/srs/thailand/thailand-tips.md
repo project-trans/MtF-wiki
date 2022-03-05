@@ -39,7 +39,7 @@ weight: 2
 - 泰王国驻厦门总领事馆：福建省、江西省
 - 泰王国驻南宁总领事馆：广西壮族自治区
 - 泰王国驻青岛总领事馆：山东省
-  {{< /expand >}}
+{{< /expand >}}
 
 [Thailand Pass 入口](https://tp.consular.go.th/en/plan)
 
