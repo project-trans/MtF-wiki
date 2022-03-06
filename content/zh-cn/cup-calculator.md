@@ -53,7 +53,7 @@ description: "罩杯计算器"
     } else if (cup<=7.5){
       cup = "AA，买少女小背心去吧";
     } else if (cup<=10){
-      cup = "A，还行啦还行啦";
+      cup = "A";
     } else if (cup<=12.5){
       cup = "B";
     } else if (cup<=15){
@@ -69,19 +69,8 @@ description: "罩杯计算器"
     if (isNaN(xia)) {
       window.document.getElementById("result").innerHTML = "数值错误，再检查检查吧";
       return;
-    } else if (xia<=70){
-      xia = 70;
-    } else if (xia<=75){
-      xia = 75;
-    } else if (xia<=80){
-      xia = 80;
-    } else if (xia<=85){
-      xia = 85;
-    } else if (xia<=90){
-      xia = 90;
-    } else {
-      window.document.getElementById("result").innerHTML = "啊咧？大丈夫萌大奶？（这是地球人的胸围吗）";
-      return;
+    } else{
+      xia = Math.ceil(xia/5)*5;
     }
       window.document.getElementById("result").innerHTML = xia + cup;
     return;
