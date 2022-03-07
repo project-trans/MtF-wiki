@@ -43,6 +43,10 @@ SRS 根据阴道再造的方式常可分为以下几种，包括
 [来源](https://commons.wikimedia.org/wiki/File:Clitoris-Vivero-Becker.jpg) CC BY-SA 3.0
 {{< /expand >}}
 
+## 选择最适合自己身体的 SRS
+
+较长的阴茎也许更适合纯粹的阴茎皮肤倒置术式，而阴茎较短的情况可能需要阴囊皮肤移植或乙状结肠等辅助。
+
 ## 参考资料
 
 [SRS FAQ · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/161673959)（链接失效）

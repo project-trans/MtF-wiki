@@ -1,7 +1,7 @@
 logo = true
-logoImage = "/new/mtf-wiki-square.svg"
+logoImage = "/new/mtf-wiki-long.svg"
 logoText = "MtF Wiki"
-logoType = "short" # long, short
+logoType = "long" # long, short
 description = "MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
 
 themeOptions = ["light", "dark"]
@@ -23,8 +23,6 @@ enableNavbar = true
 enableFooter = true
 showPoweredBy = true
 
-fontsLink = "https://fonts.googleapis.com/css2?family=Noto+Sans+SC&family=Noto+Sans&display=swap"
-
 tocLevels = ["h2", "h3", "h4"]
 paginateWindow = 1
 taxoPaginate = 13
@@ -39,45 +37,3 @@ github = "https://github.com/mtf-wiki/MtF-Wiki"
 enableComment = false
 disqus_shortname = ""
 commento = false
-
-[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
-
-[utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-
-[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
-
-# Valine.
-# You can get your appid and appkey from https://leancloud.cn
-# more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm'
-  placeholder = '说点什么吧...'
-  visitor = false
-
-[changyan]
-  changyanAppid = ""        # Changyan app id             # 畅言
-  changyanAppkey = ""       # Changyan app key
-
-[livere]
-  livereUID = ""            # LiveRe UID                  # 来必力
-
-# Isso: https://posativ.org/isso/
-[isso]
-  enable = false
-  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
-  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
