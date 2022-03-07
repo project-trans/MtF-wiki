@@ -10,7 +10,7 @@ La CRS no es necesaria para todas las personas transgénero; su efecto directo e
 
 El impacto de la CRS es relativamente indirecto en términos de identidad social, por ejemplo. Además, sobre la base de una buena terapia hormonal, la CRS (o la gonadectomía por sí sola) tiene un impacto relativamente limitado en una mayor feminización en términos endocrinos, y los riesgos de la terapia hormonal a largo plazo (incluso con CPA) no son incontrolables.
 
-Las directrices de la [WPATH](https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Profesional_Mundial_para_la_Salud_Transg%C3%A9nero) tienen normas estrictas sobre la duración de la terapia hormonal preoperatoria y la RLE para la CRS, pero cada situación individual es diferente.
+Las directrices de la [WPATH](https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Profesional_Mundial_para_la_Salud_Transgénero) tienen normas estrictas sobre la duración de la terapia hormonal preoperatoria y la EVR para la CRS, pero cada situación individual es diferente.
 
 La disforia de género tiene diferentes orientaciones.
 
