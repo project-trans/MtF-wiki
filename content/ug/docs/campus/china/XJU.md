@@ -41,7 +41,3 @@ Mektep doxturxanisida azraq dawalash bar. zeherlik chëkimlikni peqet mektep dor
 Oqutquchilar we sawaqdashlar dostane. qiziqish yaki bashqa sewebler tüpeylidin bir mezgil binormal heriketler bolushi mumkin bolsimu, ular bek köp arilashmaydu.
 
 Animë kulubigha kirish tewsiye qilinidu, u LGBT bilen intayin dostane. yuqiri yilliqtiki acha-singillar bek yaxshi, ular sizge girim qilishqa yardem bëreleydu yaki sizge ögitidu~
-
-{{< sign-off-by "璃沫莫 Momo" >}}
-
-Terjiman: Shenchyen

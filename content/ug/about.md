@@ -24,7 +24,7 @@ Qurghuchi: {{< github/profile "27522149" "kenchiu233" "Kenchiu" >}}
 
 {{< github/profile "43064781" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "26759054" "saeziae" "Shenchyen" >}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "26759054" "saeziae" "Altagh" >}}&nbsp;<mtfwiki@estela.cn>
 
 {{< github/profile "44055214" "llh721113" "Jünyen" >}}&nbsp;<llh721113@outlook.com>
 

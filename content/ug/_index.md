@@ -1,13 +1,14 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
+updatesBanner: "<span class='ug-arab-font' dir='rtl'>بىزنىڭ ھايات بولۇشىمىز يامان غەرەزگە قارشى ئەڭ چوڭ كۈرەش!</span>"
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
   title:
     - MtF Wiki
   text:
-    - MtF Wiki gha qarshi alimiz．Dostlirimizgha tëximu yaxshi yardem qilish üchün MtF ning munasiwetlik uchurlirini retlewatimiz.
+    - MtF Wiki gha qarshi alimiz. Dostlirimizgha tëximu yaxshi yardem qilish üchün MtF ning munasiwetlik uchurlirini retlewatimiz.
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -42,5 +43,5 @@ footer:
     markdown:
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
       <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote>Eger siz ismimni ësingizde tutalisingiz, eger hemminglar ismimni ësingizde tutalisanglar, belkim men yaki «biz» belkim künlerning biride erkin halda yashaydu.</blockquote>
+      <blockquote align="left">Eger siz ismimni ësingizde tutalisingiz, eger hemminglar ismimni ësingizde tutalisanglar, belkim men yaki «biz» belkim künlerning biride erkin halda yashaydu.</blockquote>
 ---

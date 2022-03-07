@@ -3,7 +3,7 @@ title: Qarshi alimiz
 description: MtF Wiki Welcome
 ---
 
-{{< mtf-wiki >}} gha qarshi alimiz．Bu yerde bir qisim kwashingbyë-ayallar topigha yardem bëreleydighan bir yer bar.
+{{< mtf-wiki >}} gha qarshi alimiz. Bu yerde bir qisim kwashingbyë-ayallar topigha yardem bëreleydighan bir yer.
 
 MtF(Male-to-Female), kwashingbyë-ayallar, tughulghanda er qilip bëkitilgen ayal.
 
