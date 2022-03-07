@@ -44,5 +44,5 @@ footer:
     markdown: >
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
       <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote>If you can remember my name, if you can all remember my name, maybe I or "we", will be able to live freely one day.</blockquote>
+      <blockquote align="left">If you can remember my name, if you can all remember my name, maybe I or "we", will be able to live freely one day.</blockquote>
 ---

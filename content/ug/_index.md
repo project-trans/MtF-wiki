@@ -1,32 +1,33 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
+updatesBanner: "<span class='ug-arab-font' dir='rtl'>بىزنىڭ ھايات بولۇشىمىز يامان غەرەزگە قارشى ئەڭ چوڭ كۈرەش!</span>"
 landing:
-  height:  700
-  image:  new/mtf-wiki-square.svg
+  height: 700
+  image: new/mtf-wiki-square.svg
   title:
     - MtF Wiki
   text:
-    - 歡迎來到 MtF Wiki．我們試圖整理彙總跨女的相關資料，為大家提供更好的幫助~
+    - MtF Wiki gha qarshi alimiz. Dostlirimizgha tëximu yaxshi yardem qilish üchün MtF ning munasiwetlik uchurlirini retlewatimiz.
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: 檢視文檔
+      text: "Arxip"
       color: primary
   #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
   sections:
-    - title: 專案
+    - title: Tür
       links:
-        - title: 主頁
+        - title: Bash bet
           link: https://mtf.wiki
-        - title: 原始碼
+        - title: Kod
           link: https://github.com/mtf-wiki/MtF-Wiki
-    - title: 聯絡
+    - title: Alaqe
       links:
         - title: Discord
           link: https://233.plus/discord
@@ -34,13 +35,13 @@ footer:
           link: https://twitter.com/mtfwiki
         - title: GitHub
           link: https://github.com/mtf-wiki
-        - title: 電郵
+        - title: Email
           link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
-    markdown: >
+    markdown:
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
       <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote align="left">如果你能記住我的名字，如果你們都能記住我的名字，也許我或者「我們」，終有一天能自由地生存著。</blockquote>
+      <blockquote align="left">Eger siz ismimni ësingizde tutalisingiz, eger hemminglar ismimni ësingizde tutalisanglar, belkim men yaki «biz» belkim künlerning biride erkin halda yashaydu.</blockquote>
 ---
