@@ -2,8 +2,6 @@
 title: 广州｜徐丽敏
 ---
 
-{{< doctor-image src="doctor.png" >}}
-
 {{< tag/neg "初诊获得证明" >}} {{< tag/neg "不需家长" >}}
 
 医生姓名：徐丽敏
