@@ -14,7 +14,7 @@ weight: 0
 
 本專案 <i class="bi bi-link-45deg"></i> 網址：[MtF.Wiki](https://mtf.wiki)
 
-<i class="bi bi-link-45deg"></i> 同步映象網址：<https://mtfwiki.cn>（同步週期 30 分鐘），<https://mtfwiki.com>
+<i class="bi bi-link-45deg"></i> 同步映象網址：<https://mtfwiki.cn>，<https://mtfwiki.com>
 
 兄弟站：<https://FtM.wiki>
 

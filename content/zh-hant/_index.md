@@ -1,6 +1,7 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
+updatesBanner: "<font color='red'>熱烈慶祝國際婦女節</font>"
 landing:
   height:  700
   image:  new/mtf-wiki-square.svg
