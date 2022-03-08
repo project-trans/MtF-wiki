@@ -14,7 +14,7 @@ weight: 0
 
 本项目 <i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
 
-<i class="bi bi-link-45deg"></i> 同步镜像：<https://MtFwiki.cn>（同步周期 30 分钟）、<https://MtFwiki.com>
+<i class="bi bi-link-45deg"></i> 同步镜像：<https://MtFwiki.cn>、<https://MtFwiki.com>
 
 兄弟站：<https://FtM.wiki>
 

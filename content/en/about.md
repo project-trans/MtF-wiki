@@ -14,7 +14,7 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project：[MtF.Wiki](https://mtf.wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror：[mtfwiki.cn](https://mtfwiki.cn) (sync per 30 mins), [mtfwiki.com](https://mtfwiki.com)
+<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
 
 Brother site: <https://FtM.wiki>
 
