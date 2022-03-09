@@ -14,7 +14,7 @@ La {{<mtf-wiki>}} se compromete a ser un sitio de integración de conocimientos 
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sitio del proyecto：[MtF.Wiki](https://mtf.wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i>Espejo sinc.：[mtfwiki.cn](https://mtfwiki.cn) (sinc. cada 30 mins), [mtfwiki.com](https://mtfwiki.com)
+<i class="bi bi-link-45deg" aria-label="Website"></i>Espejo sinc.：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
 
 Sitio hermano: <https://FtM.wiki>
 
@@ -43,7 +43,7 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 Por GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-Por correo electrónico <mtf@kuaer.club>
+Por correo electrónico <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square

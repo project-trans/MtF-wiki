@@ -14,7 +14,7 @@ weight: 0
 
 本项目 <i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
 
-<i class="bi bi-link-45deg"></i> 同步镜像：<https://MtFwiki.cn>（同步周期 30 分钟）、<https://MtFwiki.com>
+<i class="bi bi-link-45deg"></i> 同步镜像：<https://MtFwiki.cn>、<https://MtFwiki.com>
 
 兄弟站：<https://FtM.wiki>
 
@@ -46,7 +46,7 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 
-邮件 <mtf@kuaer.club>
+邮件 <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square

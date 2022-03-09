@@ -11,11 +11,16 @@
   weight = 2
 
 [[main]]
+  identifier = "cupc"
+  name = "胸围计算"
+  url = "cup-calculator"
+  weight = 3
+
+[[main]]
   identifier = "about"
   name = "关于我们"
   url = "about"
-  weight = 3
-
+  weight = 4
 
 #[[main]]
 #  identifier = "updates"

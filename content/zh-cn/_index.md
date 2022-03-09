@@ -1,6 +1,7 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
+updatesBanner: "<font color='red'>热烈庆祝三·八国际妇女节！争取跨女权利，你我同行</font>"
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
@@ -34,13 +35,13 @@ footer:
           link: https://twitter.com/mtfwiki
         - title: GitHub
           link: https://github.com/mtf-wiki
-        - title: Email
-          link: mailto:mtf@kuaer.club
+        - title: 电子邮件
+          link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
       <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote>如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。</blockquote>
+      <blockquote align="left">如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。</blockquote>
 ---

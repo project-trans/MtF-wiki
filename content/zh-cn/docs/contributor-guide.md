@@ -6,7 +6,7 @@ title: 贡献者指南
 
 1. 会 GitHub 操作，直接 PR 或者 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)
-1. 发送邮件到 <mtf@kuaer.club>
+1. 发送邮件到 <hi@mtf.wiki>
 
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
@@ -64,21 +64,21 @@ title: 贡献者指南
 ### 撰稿原则
 
 1. 原则上不提及任何 **具体** 的 **教职工名字**
-1. 地理位置，原则上使用“地图 POI”表示
-   如果该校区远离市区/车站需要特别指出
-   对于附近的商圈原则上不需要说明
+1. 地理位置，原则上使用「地图 POI」表示
+   如果该校区远离市区、车站、医院需要特别指出，对于附近的商圈原则上不需要说明
 1. 居住环境，建议引用 <https://colleges.chat> 予以代替
-1. 军训与体育，原则上只谈及是否可以协商免除
-1. 校内医疗，如果提供「性激素六项」检测服务请特别指出
+   主要关注厕所情况（教学区有无第三卫生间，宿舍有无独卫）与 洗澡情况（独浴 or 公共澡堂，公共澡堂私密度情况）
+1. 军训与体育，原则上只谈及是否可以协商减免 或 用跨性别相关医疗证明减免
+1. 校内医疗，如果提供性激素六项检测服务与激素药物的开具请特别指出
 1. LGBT 梗概，如果不利于 MtF 生存请特别指出
    对于该校现存 MtF 数量不需要特别指出（考虑到时效性问题）
-1. 署名，如果您希望被“校友”联络请留下您的 Email
+1. 署名，如果您希望被「校友」联络请留下您的电子邮件
    对于其他的联络方式请考虑他的未来可用性
 
 ## 关于图片资源
 
 如果该图片为对纸质材料的拍摄请使用 Microsoft Lens (fbk Office Lens) 进行扫描以便于提供更好的阅读体验
-当然如果有条件的话建议提供扫描件，如果您不会相关的后处理（可以将该图片提交至 <mtf@kuaer.club> 由我们进行脱敏后进行上传）
+当然如果有条件的话建议提供扫描件，如果您不会相关的后处理（可以将该图片提交至 <hi@mtf.wiki> 由我们进行脱敏后进行上传）
 
 [Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)

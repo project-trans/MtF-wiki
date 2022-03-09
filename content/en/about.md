@@ -14,7 +14,7 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project：[MtF.Wiki](https://mtf.wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror：[mtfwiki.cn](https://mtfwiki.cn) (sync per 30 mins), [mtfwiki.com](https://mtfwiki.com)
+<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
 
 Brother site: <https://FtM.wiki>
 
@@ -46,7 +46,7 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 Through GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-Via Email <mtf@kuaer.club>
+Via Email <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square

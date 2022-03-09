@@ -6,7 +6,7 @@ title: Min Jun（Crane Center）
 
 电话: {{< telephone "+1 415-625-3230" >}}
 
-Email: <CAReception@CraneCTS.com>
+电子邮件: <CAReception@CraneCTS.com>
 
 Min Jun 隶属于旧金山的 Crane Center for Transgender Surgery．他在纽约大学医学院从 Dr. Rachel Bluebond-Langner 学习了机器人辅助阴道成形术的技术。他提供 SRS 及 SRS 修复的手术服务。Min Jun 现时（2022 年 2 月）的手术地点位于 San Francis Memorial Hospital．
 

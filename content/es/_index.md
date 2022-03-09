@@ -1,6 +1,7 @@
 ---
 title: MtF Wiki
 description: MtF Wiki, un lugar que podría echar una mano a mujeres trans.
+updatesBanner: "<font color='red'>Celebremos el Día Internacional de la Mujer 2022</font>"
 landing:
   height: 700
   image:  new/mtf-wiki-square.svg
@@ -35,12 +36,12 @@ footer:
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: Email
-          link: mailto:mtf@kuaer.club
+          link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
       <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote>Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
+      <blockquote align="left">Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
 ---

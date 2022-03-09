@@ -8,7 +8,7 @@ US TOLL FREE: {{< telephone "+1 888-808-0595" >}}
 
 Email: <info@mexicotransgendercenter.us>
 
-Mexico Transgender Center practices from [CHG Hospitales](http://chghospitales.com/Home/) private clinic in Guadalajara, Jalisco and at [Lityen](https://lityen.com.mx/)private clinic in Tijuana, Mexico.
+Mexico Transgender Center practices from [CHG Hospitales](http://chghospitales.com/Home/) private clinic in Guadalajara, Jalisco and at [Lityen](https://lityen.com.mx/) private clinic in Tijuana, Mexico.
 
 ## Doctors
 
@@ -24,4 +24,3 @@ Dr Aguilar traveled to the United States to conduct close observership of Dr. Ma
 - Facial Feminization (FFS)
 - Orchiectomy
 - Nullification (Male-to-Nullo)
-

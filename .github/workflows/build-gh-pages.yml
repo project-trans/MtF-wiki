@@ -37,6 +37,8 @@ jobs:
           cname: mtf.wiki
           external_repository: mtf-wiki/mtf-wiki.github.io
           force_orphan: true
+      - name: Deploy `mtfwiki.cn`
+        run: curl https://api.estela.moe/mtfwikideploy/?head=114514
       - name: Build `mtfwiki.com`
         run: hugo --minify --baseURL https://mtfwiki.com
       - name: Deploy `mtfwiki.com`

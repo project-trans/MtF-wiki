@@ -43,8 +43,8 @@ To ensure that the grafted skin is 100% hair free, the prepared skin pieces are 
 ## Appointment matters
 
 1. To ensure the quality of the procedure, it is normal that Dr Chettawut will only schedule one procedure per day as the sole lead surgeon, so it will take a little longer to confirm the date of the procedure.
-1. ** Once the surgery date has been confirmed by both parties, a deposit of 20% will be required within 10 days. ** If the deposit is not paid on time, the surgery date will be postponed.
-1. **Clients under the age of 18 or over 70 are not accepted. **Clients between the ages of 18-20 need to be accompanied to Thailand by a parent or legal guardian who will sign the consent on the day of the consultation interview. Parents or legal guardians will need to provide notarised proof of relationship.
+1. **Once the surgery date has been confirmed by both parties, a deposit of 20% will be required within 10 days.** If the deposit is not paid on time, the surgery date will be postponed.
+1. **Clients under the age of 18 or over 70 are not accepted.** Clients between the ages of 18-20 need to be accompanied to Thailand by a parent or legal guardian who will sign the consent on the day of the consultation interview. Parents or legal guardians will need to provide notarised proof of relationship.
 1. As the procedure requires general anaesthesia, clients will not be able to undergo the procedure if they have the following medical conditions.
    - Heart disease
    - Lung disease

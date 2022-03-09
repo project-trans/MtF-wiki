@@ -1,6 +1,6 @@
 ---
 title: 喉结整形术
-weight: 6
+weight: 5
 collapsible: true
 aliases:
   - chondrolaryngoplasty
