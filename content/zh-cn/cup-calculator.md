@@ -36,11 +36,11 @@ description: "罩杯计算器"
 
 <script type="text/javascript">
   function cup() {
-    var val1 = Number(window.document.getElementById("val1").value);
-    var val2 = Number(window.document.getElementById("val2").value);
-    var val3 = Number(window.document.getElementById("val3").value);
-    var val4 = Number(window.document.getElementById("val4").value);
-    var val5 = Number(window.document.getElementById("val5").value);
+    var val1 = Number(window.document.getElementById("val1").value) || NaN;
+    var val2 = Number(window.document.getElementById("val2").value) || NaN;
+    var val3 = Number(window.document.getElementById("val3").value) || NaN;
+    var val4 = Number(window.document.getElementById("val4").value) || NaN;
+    var val5 = Number(window.document.getElementById("val5").value) || NaN;
     var xia = (val1 + val2 )/2;
     var cup = (val3 + val4 + val5)/3 - xia;
 
