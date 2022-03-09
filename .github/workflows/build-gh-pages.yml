@@ -46,10 +46,8 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           folder: ./public
-          bucket: mtfwiki
+          bucket: mtfwiki.com
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
-          dist-id: E1TI1WW8VI3XF5
-          invalidation: /*
           delete-removed: true
           no-cache: true
           private: true
