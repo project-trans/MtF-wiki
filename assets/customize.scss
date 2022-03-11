@@ -1,55 +1,45 @@
 img.shields-icon {
   display: inline-block;
-
   vertical-align: text-bottom;
+  border: none;
+  border-radius: 0%;
 }
-
 a.github-profile {
   display: inline-block;
-
   vertical-align: middle;
   text-decoration: none !important;
-
   color: inherit;
   img {
     display: inline-block;
-
     height: 2em;
-
     vertical-align: middle;
-
     border-radius: 50%;
+    border: #aaa;
   }
   b {
     margin: 0 1ex;
   }
 }
-
 .gh-contribuors {
   display: grid;
-
   margin: 0 0 1rem;
   padding: 0 1rem;
-
   grid-gap: 0.5rem;
   grid-template-columns: repeat(auto-fit, minmax(2rem, 1fr));
   img {
     width: 2rem;
     height: 2rem;
-
     border-radius: 50%;
+    border: #aaa;
   }
 }
-
 .csv-table {
   margin: 0;
-
   white-space: nowrap;
   th {
     text-align: center;
   }
 }
-
 .mtf-wiki {
   span:nth-child(1),
   span:nth-child(4) {
@@ -60,26 +50,18 @@ a.github-profile {
     color: #f6a8b8;
   }
 }
-
 .doctor-story {
   display: inline !important;
-
   height: 6em;
-
   vertical-align: middle;
 }
-
 .user-tag {
   font-weight: 700;
   line-height: 1;
-
   display: inline-block;
-
   padding: 0.25em 0.6em 0.4em;
-
   text-align: center;
   white-space: nowrap;
-
   border-radius: 10em;
   &.positive {
     color: #fff;
@@ -90,11 +72,9 @@ a.github-profile {
     background-color: #ffc107;
   }
 }
-
 .sign-off-by {
   text-align: right;
 }
-
 .single__contents {
   h2 {
     margin-top: 1.5rem;
@@ -103,7 +83,6 @@ a.github-profile {
     padding: 0;
   }
 }
-
 .single__contents[data-dir="ltr"] {
   a {
     text-decoration: none;
@@ -116,7 +95,6 @@ a.github-profile {
     }
   }
 }
-
 .notices {
   padding-left: 0.5em;
   ol,
@@ -124,11 +102,9 @@ a.github-profile {
     padding-left: 1rem;
   }
 }
-
 p.text-center {
   text-align: center;
 }
-
 span.shadow-text {
   color: #252525;
   background-color: #252525;
@@ -136,48 +112,34 @@ span.shadow-text {
   &:hover,
   &:active {
     transition: color 0.13s linear;
-
     color: #fff;
   }
 }
-
 .inline-img {
   display: inline-block !important;
-
   height: 4em;
-
   vertical-align: middle;
-
   border: none !important;
 }
-
 .qrcode > img {
   margin: 0;
   border: 0;
 }
-
 .trans-flag {
   display: inline-block;
-
   width: 1em;
   height: 1em;
   margin: 0 0.05em 0 0.1em;
-
   vertical-align: -0.1em;
-
   background: url("/images/trans-flag.svg") no-repeat center / 1em 1em;
 }
-
 a.anchor {
   font-size: 0.6em;
-
   vertical-align: top;
-
   color: #0594cb;
   &:hover,
   &:focus {
     transition: color 0.15s ease-in;
-
     color: #96ccff;
   }
 }
