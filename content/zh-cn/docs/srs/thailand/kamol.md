@@ -11,7 +11,7 @@ title: Kamol
 
 邮箱：<customercare@kamolhospital.com>
 
-微信：{{< shields/weixin "xiaofeitum2" >}}
+微信：{{< shields/wechat "xiaofeitum2" >}}
 
 电话：{{< telephone "+66 2559-0155" >}}
 
