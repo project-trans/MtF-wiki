@@ -25,3 +25,4 @@ jobs:
           extended: true
       - name: Build
         run: hugo
+        #run: hugo --minify
