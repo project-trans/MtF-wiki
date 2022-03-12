@@ -22,8 +22,8 @@ title: 长沙湘雅三院｜龙智
 
 ## 可开处方药物清单
 
-- [爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}})
+- [爱斯妥]({{< ref "gel#oestrogel" >}})
 - 克龄蒙
 - [螺内酯]({{< ref "spironolactone" >}})
 - [色普龙]({{< ref "cyproterone" >}})
-- [补佳乐]({{< ref "progynova" >}})
+- [补佳乐]({{< ref estradiol-valerate >}})

@@ -1,7 +1,6 @@
 ---
 title: 比卡鲁胺片
 description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种非甾体类抗雄激素。
-libraries: [katex, mhchem]
 ---
 
 {{< notice warning "用药安全提示" >}}
@@ -40,5 +39,5 @@ libraries: [katex, mhchem]
 
 - 有效成分：比卡鲁胺
 - 化学名称：(±)–N-[4-氰基-3-(三氟甲基)苯基]-3-[(4-氟苯基)磺酰基]-2-羟基-2-甲基丙酰胺
-- 分子式：$\ce{C18H14N2O4F4S}$
+- 分子式：C<sub>18</sub>H<sub>14</sub>N<sub>2</sub>O<sub>4</sub>F<sub>4</sub>S
 - 分子量：430.37

@@ -1,14 +1,13 @@
 ---
 title: 色普龙（醋酸环丙孕酮）
 description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur（安得卡），Siterone 等。
-libraries: [katex, mhchem]
 ---
 
 {{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup>等。
+醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur&reg;（安得卡），Siterone&reg;等。
 
 {{< notice warning "注意" >}}
 醋酸环丙孕酮有很强的孕激素作用！1 mg/24h 的剂量已具有女性排卵抑制作用，而子宫内膜转化剂量为 1–3 mg/24h (Wiki-Table; Endrikat et al., 2011)
@@ -16,7 +15,7 @@ libraries: [katex, mhchem]
 
 ## 基本信息
 
-### Androcur<sup>&reg;</sup>（安得卡）
+### Androcur&reg;（安得卡）
 
 {{< notice info "好消息" >}}
 拜耳醋酸环丙孕酮片现京东国际有售
@@ -25,7 +24,7 @@ libraries: [katex, mhchem]
 {{< figure src="androcur-50.jpg" width="50%" >}}
 {{< figure src="androcur-100.jpg" width="50%" >}}
 
-- 商品名：Androcur<sup>&reg;</sup>
+- 商品名：Androcur&reg;
 - 简称：土色
 - 厂商：拜耳
 - 产地：土耳其
@@ -33,22 +32,22 @@ libraries: [katex, mhchem]
 - 参考售价：（京东国际）50mg &times; 50 片 人民币 380 元
 - [说明书（繁体中文）](androcur-zh.pdf)
 
-### Siterone<sup>&reg;</sup>
+### Siterone&reg;
 
 {{< figure src="siterone-50.jpg" width="50%" >}}
 {{< figure src="siterone-100.jpg" width="50%" >}}
 
-- 商品名：Siterone<sup>&reg;</sup>
+- 商品名：Siterone&reg;
 - 简称：新色
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
 
-### 华典<sup>&reg;</sup>醋酸环丙孕酮片 {#huadian}
+### 华典&reg;醋酸环丙孕酮片 {#huadian}
 
 ![Huadian](huadian.jpg)
 
-- 商品名：华典<sup>&reg;</sup>
+- 商品名：华典&reg;
 - 简称：国色
 - 厂商：武汉九珑人福药业有限责任公司
 - 批准文号：国药准字 H20056637
@@ -85,7 +84,7 @@ libraries: [katex, mhchem]
 
 - 有效成分：醋酸环丙孕酮（Cyproterone Acetate）
 - 化学名称：6-氯-1α,2α-亚甲基-3,20-二孕酮-4,6-二烯-17α-醋酸酯
-- 分子式：$\ce{C24H29ClO4}$
+- 分子式：C<sub>24</sub>H<sub>29</sub>ClO<sub>4</sub>
 - 分子量：416.94
 
 [^1]: [Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People](https://transfemscience.org/articles/cpa-dosage/)

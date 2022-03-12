@@ -1,20 +1,29 @@
 ---
-title: 诺坤复（Estrofem）
-description: Estrofem 是雌二醇片，不同于补佳乐（戊酸雌二醇）。
-libraries: [katex, mhchem]
+title: 雌二醇片（诺坤复）
+aliases: estrofem
+keywords: [雌二醇, 雌激素, 诺坤复, estrofem, estradiol]
+description: 商品名有：Estrofem（诺坤复）
 ---
 
 {{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-Estrofem 是雌二醇片，不同于[补佳乐（戊酸雌二醇）]({{< ref "progynova" >}})。
+雌二醇片一般是半水合雌二醇，不同于[补佳乐（戊酸雌二醇）]({{< ref estradiol >}})。
 
 ## 基本信息
 
+### Estrofem<sup>®</sup> 诺坤复
+
+| 地区     | 上架状态 |
+| -------- | -------- |
+| 中国内地 | 无       |
+| 香港     | 是       |
+| 新加坡   | 是       |
+
 ![土诺包装](/images/medicine/estrofem/estrofem.png)
 
-- 药品名称：诺坤复<sup>&reg;</sup>（Estrofem<sup>&reg;</sup>）
+- 药品名称：Estrofem<sup>®</sup> 诺坤复
 - 药品成分：雌二醇（Estradiol）
 - 简称：诺
 - 厂商：诺和诺德 (Novo Nordisk)（丹麦）
@@ -38,6 +47,6 @@ Estrofem 是雌二醇片，不同于[补佳乐（戊酸雌二醇）]({{< ref "pr
 ## 成分信息
 
 - 有效成分：雌二醇（Estradiol）
-- 半衰期：8–18 小时（舌下含服）
-- 分子式：$\ce{C18H24O2}$
+- 半衰期：8~18 小时（舌下含服）
+- 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38

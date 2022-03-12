@@ -1,7 +1,7 @@
 ---
 title: 雌二醇凝膠
 description: 外用雌二醇凝膠，經皮吸收。
-libraries: [katex, mhchem]
+keywords: [estradiol, 雌二醇, 雌激素, 凝膠, oestrogel, 愛斯妥]
 ---
 
 {{< notice warning "用藥安全提示" >}}
@@ -44,5 +44,5 @@ libraries: [katex, mhchem]
 - 有效成分：雌二醇（Estradiol）
 - 吸收率：10%
 - 半衰期：37 小時（經皮）
-- 分子式：$\ce{C18H24O2}$
+- 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38

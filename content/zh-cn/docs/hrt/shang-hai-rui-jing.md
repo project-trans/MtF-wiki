@@ -8,7 +8,7 @@ title: 上海瑞金医院
 
 ## 能开出的药品
 
-- [补佳乐]({{< ref "progynova" >}})
+- [补佳乐]({{< ref estradiol-valerate >}})
 
 ## 要求
 

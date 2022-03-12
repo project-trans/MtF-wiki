@@ -1,7 +1,8 @@
 ---
-title: 补佳乐（Progynova）
-description: 补佳乐，即戊酸雌二醇片，是长效雌二醇的衍生物，即雌二醇的戊酸酯。经过肝脏脱酸后具有雌二醇活性，是一种人工合成的经化学修饰的雌激素。
-libraries: [katex, mhchem]
+title: 戊酸雌二醇片（补佳乐）
+description: 商品名补佳乐。戊酸雌二醇，是长效雌二醇的衍生物，即雌二醇的戊酸酯。经过肝脏脱酸后具有雌二醇活性，是一种人工合成的经化学修饰的雌激素。
+keywords: [estradiol, 雌二醇, 雌激素, 戊酸雌二醇, 补佳乐, 糖, progynova]
+aliases: progynova
 ---
 
 {{< notice warning "注意事项" >}}
@@ -12,11 +13,11 @@ libraries: [katex, mhchem]
 
 ## 基本信息
 
-|      中国包装       |     泰国包装 (2mg)     |
-| :-----------------: | :--------------------: |
+|      中国包装       |                  泰国包装 (2mg)                   |
+| :-----------------: | :-----------------------------------------------: |
 | ![!](progynova.jpg) | ![!](/images/medicine/progynova/progynova-th.png) |
 
-- 药品名称：Progynova<sup>&reg;</sup>（补佳乐<sup>&reg;</sup>）
+- 药品名称：Progynova&reg;（补佳乐&reg;）
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：补
 - 批准文号（中国版）: [国药准字 J20171038](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MjM4MCZpdGVtSWQ9ZmY4MDgwODE3YzgzMTJjNDAxN2M5YzU5MjI0ZTA0NWQ=)
@@ -48,5 +49,5 @@ libraries: [katex, mhchem]
 - 有效成分：戊酸雌二醇（Estradiol valerate）
 - 生物利用率：3~5%（经口）
 - 半衰期：12~20 小时（经口）
-- 分子式：$\ce{C23H32O3}$
+- 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50

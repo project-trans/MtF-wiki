@@ -1,7 +1,8 @@
 ---
 title: 雌二醇凝胶
+aliases: oestrogel
 description: 外用雌二醇凝胶，经皮吸收。
-libraries: [katex, mhchem]
+keywords: [estradiol, 雌二醇, 雌激素, 凝胶, oestrogel]
 ---
 
 {{< notice warning "用药安全提示" >}}
@@ -10,13 +11,13 @@ libraries: [katex, mhchem]
 
 ## 基本信息
 
-### Oestrogel<sup>&reg;</sup>（爱斯妥）{#ai-si-tuo}
+### Oestrogel&reg;（爱斯妥）{#oestrogel}
 
-|      中国包装       |     国际包装     |
-| :-----------------: | :--------------------: |
-|![Oestrogel](oestrogel.jpg)|![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg)|
+|          中国包装           |                         国际包装                          |
+| :-------------------------: | :-------------------------------------------------------: |
+| ![Oestrogel](oestrogel.jpg) | ![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg) |
 
-- 产品名称：Oestrogel<sup>&reg;</sup>（爱斯妥）
+- 产品名称：Oestrogel&reg;（爱斯妥）
 - 有效成分：雌二醇
 - 进口药品注册证号：H20120488
 - 生产企业：比利时法杏制药厂
@@ -58,5 +59,5 @@ libraries: [katex, mhchem]
 - 有效成分：雌二醇（Estradiol）
 - 吸收率：10%
 - 半衰期：37 小时（经皮）
-- 分子式：$\ce{C18H24O2}$
+- 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38

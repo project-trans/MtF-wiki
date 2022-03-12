@@ -26,9 +26,9 @@ title: 广州暨南一院｜高绿芬
 
 可以开具的 HRT 药物处方，需自费
 
-- [补佳乐]({{< ref "progynova" >}})
+- [补佳乐]({{< ref estradiol-valerate >}})
   因医院限制，单次最多开出一盒。
-- [雌二醇凝胶]({{< ref "oestrogel#ai-si-tuo" >}})（爱斯妥）
+- [雌二醇凝胶]({{< ref "gel#oestrogel" >}})（爱斯妥）
 - 含有 CPA（即 [色普龙]({{< ref "cyproterone" >}}) 成分）与 **炔雌醇&#9888;** 的「达英-35」
   其理由是医院方面无法开出其它含 CPA 的药品，并且其作为避孕药「总体安全」。
   但如若患者自备 CPA（如安得卡），将不再开出。[为什么不推荐达英-35？]({{< ref "hrt-overview#dosing-warnings" >}})
