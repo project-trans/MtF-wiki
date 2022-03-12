@@ -26,7 +26,7 @@ jobs:
           hugo-version: latest
           extended: true
       - name: Build `mtf.wiki`
-        run: hugo --minify --enableGitInfo
+        run: hugo --enableGitInfo
       - name: Deploy `mtf.wiki`
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
