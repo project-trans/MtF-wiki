@@ -13,7 +13,7 @@ keywords:
     Estrade,
     益斯得錠,
     Estra,
-    F愛仕達錠,
+    愛仕達錠,
   ]
 libraries: katex
 ---
