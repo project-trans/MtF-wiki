@@ -1,10 +1,12 @@
 ---
 title: Kamol
+keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, Kamol, 咖蒙]
 ---
 
 {{< tag/pos "WPATH 成员" >}}
 
-医生姓名：Kamol Pansritum，伽蒙
+医生姓名：Kamol Pansritum，咖蒙
+
 <!-- https://www.kamolhospital.com/zh/profile-doctor/dr-kamol-pansritum/ 这里有照片 -->
 
 所在医院：[Kamol Cosmetic Hospital](https://goo.gl/maps/oMMRQotSXqQSmvC48)
@@ -27,7 +29,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 - 结肠（腹腔镜） {{< currency from="THB" value="577500" >}}
 - 腹膜（腹腔镜）{{< currency from="THB" value="592800" >}}
 
-支持 中国银联卡、VISA卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
+支持 中国银联卡、VISA 卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
 酒店费用：出院后，前 14 天须在下方指定酒店进行恢复，之后可自行选择其他酒店。需要 3 ~ 4 周左右。
 
@@ -121,4 +123,4 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 ## 内容参考
 
-[Gogo变成猫猫了——SRS日志](https://blog.gogo.moe/Gogo变成猫猫了/)
+[Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/Gogo变成猫猫了/)

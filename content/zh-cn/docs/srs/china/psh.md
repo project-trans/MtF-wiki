@@ -1,5 +1,8 @@
 ---
 title: 北京｜中国医学科学院整形外科医院
+keyworsds:
+  [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 八大处]
+---
 ---
 
 {{< notice error "提示" >}}
@@ -8,7 +11,7 @@ title: 北京｜中国医学科学院整形外科医院
 
 ## 概况
 
-[中国医学科学院整形外科医院](http://www.zhengxing.com.cn)（Plastic Surgery Hospital, Chinese Academy of Medical Sciences, PSH）即北京八大处整形美容外科医院是中国唯一一家集整形美容整容为一体的专科医院。
+[中国医学科学院整形外科医院](http://www.zhengxing.com.cn)（Plastic Surgery Hospital, Chinese Academy of Medical Sciences, PSH）即北京八大处整形美容外科医院，是中国唯一一家集整形美容整容为一体的专科医院。
 
 医院位于[北京市石景山区八大处路 33 号](https://amap.com/place/B000A8316D)。
 

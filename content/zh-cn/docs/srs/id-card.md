@@ -1,7 +1,7 @@
 ---
 title: 证件变更指引
 weight: 600
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, 性别鉴定, 改证]
+keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 性别鉴定, 改证]
 topToc: true
 ---
 

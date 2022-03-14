@@ -1,5 +1,7 @@
 ---
 title: Chettawut 医生
+keywords:
+  [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, Chettawut, 蔡达武]
 ---
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)

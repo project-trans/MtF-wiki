@@ -1,5 +1,7 @@
 ---
 title: 北医三院
+keyworsds:
+  [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 三院, 常旭, 潘柏林]
 ---
 
 [北京大学第三医院](https://amap.com/place/B000A7CGSS)
