@@ -50,3 +50,14 @@ jobs:
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
           delete-removed: true
           private: true
+      - name: Build `mtf-wiki.github.io`
+        run: hugo --minify --enableGitInfo --baseURL https://mtf-wiki.github.io
+      - name: Deploy `mtf-wiki.github.io`
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          publish_branch: master
+          publish_dir: ./public
+          external_repository: mtf-wiki/mtf-wiki.github.io
+          force_orphan: true
