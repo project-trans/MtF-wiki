@@ -13,6 +13,9 @@ jobs:
   build-deploy:
     runs-on: ubuntu-20.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     steps:
       - uses: actions/checkout@v2
         with:
@@ -28,15 +31,14 @@ jobs:
       - name: Build `mtf.wiki`
         run: hugo --minify --enableGitInfo
       - name: Deploy `mtf.wiki`
-        uses: peaceiris/actions-gh-pages@v3
+        uses: reggionick/s3-deploy@v3
         if: github.ref == 'refs/heads/master'
         with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
-          publish_branch: master
-          publish_dir: ./public
-          cname: mtf.wiki
-          external_repository: mtf-wiki/mtf-wiki.github.io
-          force_orphan: true
+          folder: ./public
+          bucket: mtf.wiki
+          bucket-region: ${{ secrets.S3_BUCKET_REGION }}
+          delete-removed: true
+          private: true
       - name: Build `mtfwiki.com`
         run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
       - name: Deploy `mtfwiki.com`
@@ -48,6 +50,3 @@ jobs:
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
           delete-removed: true
           private: true
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
