@@ -27,3 +27,9 @@
   languageName = "Uyghurche"
   weight = 4
   contentdir = "content/ug"
+
+[ja]
+  title = "MtF Wiki"
+  languageName = "日本語"
+  weight = 5
+  contentdir = "content/ja"
