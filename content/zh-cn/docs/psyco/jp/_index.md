@@ -1,4 +1,4 @@
 ---
-title: 福井県
+title: 日本
 collapsible: true
 ---

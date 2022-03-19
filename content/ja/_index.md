@@ -7,7 +7,7 @@ landing:
   title:
     - MtF Wiki
   text:
-    - MtF Wiki へようこそ。 吾輩は、トランスジェンダー女性に関する関連情報を整理して要約し、より良い支援を提供するよう努めています〜
+    - MtF Wiki へようこそ。 吾輩は、トランスジェンダー女性に関する情報を整理して要約し、より良い支援を提供するよう努めています〜
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
