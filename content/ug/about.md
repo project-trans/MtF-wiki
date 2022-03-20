@@ -1,6 +1,6 @@
 ---
-title: "Heqqide"
-description: "MtF Wiki heqsiz, ochuq we üzlüksiz yëngilanghan kwashingbyë-ayallar bilimlirini birleshtürüsh tor bëkiti bolushqa wede bëridu."
+title: "ھەققىدە"
+description: "MtF Wiki heqsiz, ochuq we üzlüksiz yéngilanghan kwashingbyé-ayallar bilimlirini birleshtürüsh tor békiti bolushqa wede béridu."
 weight: 0
 ---
 
@@ -8,33 +8,34 @@ weight: 0
 
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
-MtF Wiki heqsiz, ochuq we üzlüksiz yëngilanghan kwashingbyë-ayallar bilimlirini birleshtürüsh tor bëkiti bolushqa wede bëridu.
+{{<mtf-wiki>}} ھەقسىز، ئوچۇق ۋە ئۈزلۈكسىز يېڭىلانغان كۋاشىڭبيې-ئاياللار بىلىملىرىنى بىرلەشتۈرۈش تور بېكىتى بولۇشقا ۋەدە بېرىدۇ.
 
-Türning <i class="bi bi-github"></i> GitHub Repo: <https://github.com/mtf-wiki/MtF-Wiki>
 
-Türning <i class="bi bi-link-45deg"></i> tor adrës: <https://MtF.wiki>
+تۈرنىڭ <i class="bi bi-github"></i> GitHub Repo: <https://github.com/mtf-wiki/MtF-Wiki>
 
-<i class="bi bi-link-45deg"></i> Eynek tor bëkiti: <https://MtFwiki.cn>、<https://MtFwiki.com>
+تۈرنىڭ <i class="bi bi-link-45deg"></i> تور ئادرېس: <https://MtF.wiki>
 
-Qërindash tor bëkiti: <https://FtM.wiki>
+<i class="bi bi-link-45deg"></i> ئەينەك تور بېكىتى: <https://MtFwiki.cn> <https://MtFwiki.com>
 
-## Asasliq ezalar
+قېرىنداش تور بېكىتى: <https://FtM.wiki>
 
-Qurghuchi: {{< github/profile "27522149" "kenchiu233" "Kenchiu" >}}
+## ئاساسلىق ئەزالار
+
+قۇرغۇچى: {{< github/profile "27522149" "kenchiu233" "كېنچيۇ" >}}
 
 {{< github/profile "43064781" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "26759054" "saeziae" "Altagh" >}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "26759054" "saeziae" "التاغ" >}}&nbsp;<mtfwiki@estela.cn>
 
-{{< github/profile "44055214" "llh721113" "Jünyen" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "44055214" "llh721113" "جۈنيەن" >}}&nbsp;<llh721113@outlook.com>
 
-Barliq GitHub töhpikarlirigha rehmet:
+بارلىق GitHub تۆھپىكارلىرىغا رەھمەت:
 
 {{< github/contributors >}}
 
-we yardem bëridighan bashqa dostlar.
+ۋە ياردەم بېرىدىغان باشقا دوستلار.
 
-## Alaqe
+## ئالاقە
 
 Discord [![Discord][badge-discord]](https://233.plus/discord)
 
@@ -42,16 +43,16 @@ Twitter {{< shields/twitter mtfwiki >}}
 
 GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 
-Ëlëktronluq yollanma <hi@mtf.wiki>
+ئېلېكترونلۇق يوللانما <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
-## Rehmet
+## رەھمەت
 
-Bu tür hazir [Hugo][hugo-url] arqiliq [GitHub Pages][pages-url] da orunlashturulghan. bashtëmida [zdoc][zdoc-url] ishlitilidu, buning üchün rehmet!
+بۇ تۈر ھازىر [Hugo][hugo-url] ئارقىلىق [GitHub Pages][pages-url] دا ئورۇنلاشتۇرۇلغان. باشتېمىدا [zdoc][zdoc-url] ئىشلىتىلىدۇ، بۇنىڭ ئۈچۈن رەھمەت!
 
-Bu türni teyyarlashta nurghun matëriyallar ishlitilgen, minnetdarliqimni bildürimen.
+بۇ تۈرنى تەييارلاشتا نۇرغۇن ماتېرىياللار ئىشلىتىلگەن، مىننەتدارلىقىمنى بىلدۈرىمەن.
 
 ---
 

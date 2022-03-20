@@ -1,33 +1,32 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
-updatesBanner: "<span class='ug-arab-font' dir='rtl'>بىزنىڭ ھايات بولۇشىمىز يامان غەرەزگە قارشى ئەڭ چوڭ كۈرەش!</span>"
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
   title:
     - MtF Wiki
   text:
-    - MtF Wiki gha qarshi alimiz. Dostlirimizgha tëximu yaxshi yardem qilish üchün MtF ning munasiwetlik uchurlirini retlewatimiz.
+    - MtF Wiki غا قارشى ئالىمىز. دوستلىرىمىزغا تëخىمۇ ياخشى ياردەم قىلىش ئۈچۈن متف نىڭ مۇناسىۋەتلىك ئۇچۇرلىرىنى رەتلەۋاتىمىز.
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: "Arxip"
+      text: "ئارخىپ"
       color: primary
   #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
   sections:
-    - title: Tür
+    - title: تۈر
       links:
-        - title: Bash bet
+        - title: باش بەت
           link: https://mtf.wiki
-        - title: Kod
+        - title: كود
           link: https://github.com/mtf-wiki/MtF-Wiki
-    - title: Alaqe
+    - title: ئالاقە
       links:
         - title: Discord
           link: https://233.plus/discord
@@ -38,10 +37,9 @@ footer:
         - title: Email
           link: mailto:hi@mtf.wiki
   contents:
-    align: left
     applySinglePageCss: true
     markdown:
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote align="left">Eger siz ismimni ësingizde tutalisingiz, eger hemminglar ismimni ësingizde tutalisanglar, belkim men yaki «biz» belkim künlerning biride erkin halda yashaydu.</blockquote>
+      <p dir="ltr">Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
+      <p align="right">ئەگەر سىز ئىسمىمنى ëسىڭىزدە تۇتالىسىڭىز، ئەگەر ھەممىڭلار ئىسمىمنى ëسىڭىزدە تۇتالىساڭلار، بەلكىم مەن ياكى «بىز» بەلكىم كۈنلەرنىڭ بىرىدە ئەركىن ھالدا ياشايدۇ.</p>
 ---

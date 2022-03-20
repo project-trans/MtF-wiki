@@ -1,5 +1,5 @@
 ---
-title: Rohiy késellik bölümi
+title: روھىي كېسەللىك بۆلۈمى
 weight: 2
 collapsible: true
 ---
