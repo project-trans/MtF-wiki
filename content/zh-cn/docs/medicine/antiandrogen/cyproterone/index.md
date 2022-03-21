@@ -53,7 +53,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 批准文号：国药准字 H20056637
 - 规格：50mg &times; 24 片
 - 参考售价：人民币 270 元
-- [说明书](huadian-zh.pdf)
+- [说明书](./huadian-zh.pdf)
 
 ## 说明
 
