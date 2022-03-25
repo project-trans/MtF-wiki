@@ -21,13 +21,13 @@ weight: 0
 
 ## ئاساسلىق ئەزالار
 
-قۇرغۇچى: {{< github/profile "27522149" "kenchiu233" "كېنچيۇ" >}}
+قۇرغۇچى: {{< github/profile "kenchiu233" "kenchiu233" "كېنچيۇ" >}}
 
-{{< github/profile "43064781" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "CoelacanthusHex" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "26759054" "saeziae" "التاغ" >}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "saeziae" "saeziae" "التاغ" >}}&nbsp;<mtfwiki@estela.cn>
 
-{{< github/profile "44055214" "llh721113" "جۈنيەن" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "llh721113" "llh721113" "جۈنيەن" >}}&nbsp;<llh721113@outlook.com>
 
 بارلىق GitHub تۆھپىكارلىرىغا رەھمەت:
 
