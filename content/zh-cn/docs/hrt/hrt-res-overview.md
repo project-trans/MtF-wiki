@@ -27,10 +27,10 @@ weight: 1
 目前国内能合法开具的 HRT 处方有如下药品
 
 - 雌二醇药品
-  - [补佳乐<sup>&reg;</sup>戊酸雌二醇片]({{< ref "progynova" >}})
+  - [补佳乐&reg;戊酸雌二醇片]({{< ref estradiol-valerate >}})
   - 雌二醇凝胶
-    [爱斯妥]({{< ref "oestrogel#ai-si-tuo" >}})
-    [健民雌二醇凝胶]({{< ref "oestrogel#jian-min" >}})
+    [爱斯妥]({{< ref "gel#oestrogel" >}})
+    [健民雌二醇凝胶]({{< ref "gel#jian-min" >}})
 - 抗雄激素药品
   - 醋酸环丙孕酮
     [华典]({{< ref "cyproterone#huadian" >}})

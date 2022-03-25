@@ -1,12 +1,13 @@
 ---
 title: Thiti 医生
+keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, Thiti, 替迪]
 ---
 
 手术费用：
 
 - 皮瓣 {{< currency from="THB" value="260000" >}}
 
-医疗中介：梁金 {{< shields/weixin "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
+医疗中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
 微信公众号「破茧成碟 BY 梁金」
 
 因 Thiti 医生术后服务较少，比较建议找中介

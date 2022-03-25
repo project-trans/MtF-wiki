@@ -1,7 +1,7 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
-updatesBanner: "<font color='red'>热烈庆祝三·八国际妇女节！争取跨女权利，你我同行</font>"
+updatesBanner: "<a style='color:red;font-size:1.5em' href='blog/statement-2022-3/'>严厉谴责一小撮破坏社会主义和谐社会建设的敌对分子</a>"
 landing:
   height: 700
   image: new/mtf-wiki-square.svg

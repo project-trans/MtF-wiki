@@ -35,7 +35,7 @@ body {
     Arial, $text-font-stack;
 }
 
-.ug-arab-font {
+[lang="ug"] * {
   font-family: "IBM Plex Sans Arabic", "Noto Sans Arabic", $text-font-stack;
 }
 

@@ -2,6 +2,7 @@
 title: SRS 综述（中国大陆）
 weight: 1
 slug: overview
+keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 国内]
 ---
 
 ## 术前科普 {#popular}

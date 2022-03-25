@@ -1,3 +1,3 @@
 [submodule "themes/zdoc"]
 	path = themes/zdoc
-	url = git@github.com:mtf-wiki/hugo-theme-zdoc.git
+	url = https://github.com/mtf-wiki/hugo-theme-zdoc.git

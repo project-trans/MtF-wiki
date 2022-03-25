@@ -23,7 +23,7 @@ title: 上海中山医院｜李小英
 ## 问诊细节
 
 - 可以开具的 HRT 药物处方
-- [补佳乐]({{< ref "progynova" >}})
+- [补佳乐]({{< ref estradiol-valerate >}})
 - [色普龙]({{< ref "cyproterone" >}})
 
 ## 注意事项

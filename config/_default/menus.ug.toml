@@ -1,11 +1,11 @@
 [[main]]
   identifier = "docs"
-  name = "Arxip"
+  name = "ئارخىپ"
   url = "docs"
   weight = 1
 
 [[main]]
   identifier = "about"
-  name = "Heqqide"
+  name = "ھەققىدە"
   url = "about"
   weight = 3

@@ -5,8 +5,6 @@ date: 2020-10-29T17:09:21+08:00
 draft: false
 ---
 
-# Welcome
-
 Welcome to the {{< mtf-wiki >}}, a place that may help some transgender women.
 
 {{< notice info >}}

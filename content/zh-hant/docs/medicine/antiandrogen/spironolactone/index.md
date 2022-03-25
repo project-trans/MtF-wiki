@@ -1,7 +1,6 @@
 ---
 title: 螺內酯片
 description: 螺內酯（Spironolactone）是雄激素受體拮抗劑，一種甾體抗雄激素。
-libraries: [katex, mhchem]
 ---
 
 {{< notice warning "用藥安全提示" >}}
@@ -39,5 +38,5 @@ libraries: [katex, mhchem]
 
 - 有效成分：螺內酯（Spironolactone）
 - 化學名稱：17β-羥基-3-氧-7α-（乙醯硫基）-17α-孕甾-4-烯-21-羧基γ-內酯
-- 分子式：$\ce{C24H32O4S}$
+- 分子式：C<sub>24</sub>H<sub>32</sub>O<sub>4</sub>S
 - 分子量：416.57

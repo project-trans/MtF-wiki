@@ -23,10 +23,10 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: latest
+          hugo-version: 0.94.0
           extended: true
       - name: Build `mtf.wiki`
-        run: hugo --minify
+        run: hugo --minify --enableGitInfo
       - name: Deploy `mtf.wiki`
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
@@ -37,10 +37,8 @@ jobs:
           cname: mtf.wiki
           external_repository: mtf-wiki/mtf-wiki.github.io
           force_orphan: true
-      - name: Deploy `mtfwiki.cn`
-        run: curl https://api.estela.moe/mtfwikideploy/?head=114514
       - name: Build `mtfwiki.com`
-        run: hugo --minify --baseURL https://mtfwiki.com
+        run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
       - name: Deploy `mtfwiki.com`
         uses: reggionick/s3-deploy@v3
         if: github.ref == 'refs/heads/master'
@@ -49,7 +47,6 @@ jobs:
           bucket: mtfwiki.com
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
           delete-removed: true
-          no-cache: true
           private: true
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}

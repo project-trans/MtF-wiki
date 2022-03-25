@@ -9,20 +9,20 @@ description: 外用雌二醇贴片，经皮吸收。
 
 ## 基本信息
 
-### Estradot<sup>&reg;</sup>
+### Estradot&reg;
 
 {{< figure src="/images/medicine/estradiol-patch/estradot.png" width="50%" >}}
 
-- 商品名：Estradot<sup>&reg;</sup>
+- 商品名：Estradot&reg;
 - 厂商：Novartis
 - 说明书：<https://www.medsafe.govt.nz/consumers/cmi/e/estradot.pdf>
 
-### Progynova<sup>&reg;</sup> TS
+### Progynova&reg; TS
 
 {{< figure src="/images/medicine/estradiol-patch/progynova-ts.png" width="50%" >}}
 
-- 商品名：Progynova<sup>&reg;</sup> TS[^1]
+- 商品名：Progynova&reg; TS[^1]
 - 厂商：Bayer
 - 说明书：<https://www.medicines.org.uk/emc/files/pil.1617.pdf>
 
-[^1]: 因地区而异，有的地区商品名为 Climara<sup>&reg;</sup>。
+[^1]: 因地区而异，有的地区商品名为 Climara&reg;。

@@ -1,7 +1,6 @@
 ---
 title: 针剂
 description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为日本进口。
-libraries: [katex, mhchem]
 ---
 
 {{< notice warning "用药安全提示" >}}
@@ -78,7 +77,7 @@ libraries: [katex, mhchem]
 - 有效成分：戊酸雌二醇（Estradiol valerate）
 - 生物利用率：100%（注射）
 - 半衰期：4-5 天（注射）
-- 分子式：$\ce{C23H32O3}$
+- 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50
 
 ## 参考阅读

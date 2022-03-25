@@ -2,6 +2,7 @@
 title: 术前科普
 slug: faq
 weight: 100
+keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS]
 ---
 
 ## Why SRS? SRS 能做到什么? 我应当考虑 SRS 吗?

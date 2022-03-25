@@ -1,2 +1,3 @@
-{{- $id := .Get 0 -}}
-<a href="https://twitter.com/{{ $id }}"><img class="shields-icon" alt="Twitter @{{ $id }}" src="https://img.shields.io/twitter/follow/{{ $id }}?style=flat-square" /></a>
+{{- $message := .Get 0 -}}
+{{- $qs := querify "label" "Twitter" "logo" "Twitter" "message" $message "color" "blue" "style" "flat-square" -}}
+<a href="https://twitter.com/{{ $message }}"><img class="shields-icon" alt="Twitter {{ $message }}" src="https://img.shields.io/static/v1?{{ $qs | safeURL }}" /></a>

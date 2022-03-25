@@ -1,25 +1,25 @@
 ---
-title: Qarshi alimiz
+title:  قارشى ئالىمىز
 description: MtF Wiki Welcome
 ---
 
-{{< mtf-wiki >}} gha qarshi alimiz. Bu yerde bir qisim kwashingbyë-ayallar topigha yardem bëreleydighan bir yer.
+{{< mtf-wiki >}} غا قارشى ئالىمىز. بۇ يەردە بىر قىسىم كۋاشىڭبيې-ئاياللار توپىغا ياردەم بېرەلەيدىغان بىر يەر.
 
-MtF(Male-to-Female), kwashingbyë-ayallar, tughulghanda er qilip bëkitilgen ayal.
+MtF(Male-to-Female) - كۋاشىڭبيې-ئاياللار، تۇغۇلغاندا ئەر قىلىپ بېكىتىلگەن ئايال.
 
-{{< mtf-wiki >}} heqsiz, ochuq we üzlüksiz yëngilanghan kwashingbyë-ayallar bilimlirini birleshtürüsh tor bëkiti bolushqa wede bëridu, bu yerde her xil dawalash bilimliri we dawalash bayliqliri we bashqa ishlar bar.
+{{< mtf-wiki >}} ھەقسىز، ئوچۇق ۋە ئۈزلۈكسىز يېڭىلانغان كۋاشىڭبيې-ئاياللار بىلىملىرىنى بىرلەشتۈرۈش تور بېكىتى بولۇشقا ۋەدە بېرىدۇ، بۇ يەردە ھەر خىل داۋالاش بىلىملىرى ۋە داۋالاش بايلىقلىرى ۋە باشقا ئىشلار بار.
 
-Nöwettiki {{<mtf-wiki>}} deslepki basquchta. her xil matëriyallar tamamlanmighan bolushi mumkin, hetta bezi xataliqlarmu bolushi mumkin. barliq acha-singillarning bizge qoshulushini qarshi alimiz we {{<mtf-wiki>}} gha töhpe qoshung.
+نۆۋەتتىكى {{<mtf-wiki>}} دەسلەپكى باسقۇچتا. ھەر خىل ماتېرىياللار تاماملانمىغان بولۇشى مۇمكىن، ھەتتا بەزى خاتالىقلارمۇ بولۇشى مۇمكىن. بارلىق ئاچا-سىڭىللارنىڭ بىزگە قوشۇلۇشىنى قارشى ئالىمىز ۋە {{<mtf-wiki>}} غا تۆھپە قوشۇڭ.
 
-Bu tor bëketni qurushtiki esli meqsetke kelsek, köp qisim MtF guruppilirini bilim supisi bilen teminligendin bashqa, u yene bashqilarning jinsiy özgertishning mewjutluqini mueyyenleshtürüshige intizar. jinsiy yönilish, jins kimliki, jinsiy ipadilesh we kemsitish, kemsitish we zorawanliqtin xaliy bolushta hemme ademning barawer tallishi barliqini qobul qilish barawer hörmet qilish qimmitini tereqqiy qildurushqa we dostluq jem'iyiti berpa qilishqa paydiliq.
+بۇ تور بېكەتنى قۇرۇشتىكى ئەسلى مەقسەتكە كەلسەك، كۆپ قىسىم متف گۇرۇپپىلىرىنى بىلىم سۇپىسى بىلەن تەمىنلىگەندىن باشقا، ئۇ يەنە باشقىلارنىڭ جىنسىي ئۆزگەرتىشنىڭ مەۋجۇتلۇقىنى مۇئەييەنلەشتۈرۈشىگە ئىنتىزار. جىنسىي يۆنىلىش، جىنس كىملىكى، جىنسىي ئىپادىلەش ۋە كەمسىتىش، كەمسىتىش ۋە زوراۋانلىقتىن خالىي بولۇشتا ھەممە ئادەمنىڭ باراۋەر تاللىشى بارلىقىنى قوبۇل قىلىش باراۋەر ھۆرمەت قىلىش قىممىتىنى تەرەققىي قىلدۇرۇشقا ۋە دوستلۇق جەمئىيىتى بەرپا قىلىشقا پايدىلىق.
 
-Bu türni teyyarlashta nurghun matëriyallar ishlitilgen, minnetdarliqimni bildürimen.
+بۇ تۈرنى تەييارلاشتا نۇرغۇن ماتېرىياللار ئىشلىتىلگەن، مىننەتدارلىقىمنى بىلدۈرىمەن.
 
-> Teshwish we chüshkünlükke hergiz teslim bolmang, biz axirida bu dunyadiki ornimizgha ërishimiz.
+> تەشۋىش ۋە چۈشكۈنلۈككە ھەرگىز تەسلىم بولماڭ، بىز ئاخىرىدا بۇ دۇنيادىكى ئورنىمىزغا ېرىشىمىز.
 
-**Kenchiu[^3], biz qaytip këlishingizni saqlawatimiz.**
+**كېنچيۇ[^3]، بىز قايتىپ كېلىشىڭىزنى ساقلاۋاتىمىز.**
 
-> Eger siz ismimni ësingizde tutalisingiz, eger hemminglar ismimni ësingizde tutalisanglar, belkim men yaki «biz» belkim künlerning biride erkin halda yashaydu.
+> ئەگەر سىز ئىسمىمنى ېسىڭىزدە تۇتالىسىڭىز، ئەگەر ھەممىڭلار ئىسمىمنى ېسىڭىزدە تۇتالىساڭلار، بەلكىم مەن ياكى «بىز» بەلكىم كۈنلەرنىڭ بىرىدە ئەركىن ھالدا ياشايدۇ.
 
 [^2]: <https://github.com/mtf-wiki>
-[^3]: Bu tor bëketning qurghuchisi kënchyu atalmish ​​«tüzitish» sewebidin qanunsiz türmige tashlanghan, buninggha oxshash weqeler junggoda köp uchrimaydu.
+[^3]: بۇ تور بېكەتنىڭ قۇرغۇچىسى كېنچيۇ ئاتالمىش ​​«تۈزىتىش» سەۋەبىدىن قانۇنسىز تۈرمىگە تاشلانغان، بۇنىڭغا ئوخشاش ۋەقەلەر جۇڭگودا كۆپ ئۇچرىمايدۇ.

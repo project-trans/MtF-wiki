@@ -1,21 +1,21 @@
 ---
-title: Dostluq kopiratsiye
+title: دوستلۇق كوپىراتسىيە
 weight: 10
 ---
 
-### QQ guruppa {#qq-group}
+### QQ گۇرۇپپا {#qq-group}
 
-### Kwashingbyëlik munasiwetlik bot (QQ) {#trans-bot}
+### كۋاشىڭبيېلىك مۇناسىۋەتلىك بوت (QQ) {#trans-bot}
 
-- QQ asasliq hësabat `2776456754`
-- QQ zapaslash hësabat：`970611264`
-- Limelight：<https://limelight.moe/u/跨性别相关bot>
+- QQ ئاساسلىق ھېسابات: `2776456754`
+- QQ زاپاسلاش ھېسابات: `970611264`
+- Limelight: <https://limelight.moe/u/跨性别相关bot>
 
 ### awesome trans <i class="trans-flag"></i> (Twitter)
 
-- Twitter：{{< shields/twitter awesometrans_zh >}}
-- Telegram：{{< shields/telegram awesometrans_zh >}}
-- Email：<awesome-trans@outlook.com>
+- Twitter: {{< shields/twitter awesometrans_zh >}}
+- Telegram: {{< shields/telegram awesometrans_zh >}}
+- Email: <awesome-trans@outlook.com>
 
 ### FtM (Female-to-Male) Wiki
 
@@ -23,6 +23,6 @@ weight: 10
 
 ### Limelight
 
-«Jins köp xilliqi» munbiri
+«جىنس كۆپ خىللىقى» مۇنبىرى
 
 <https://limelight.moe>
