@@ -8,7 +8,7 @@ topToc: true
 author: sceext2
 ---
 
-作者：{{< github/profile "10596119" "sceext2">}}
+作者：{{< github/profile "sceext2">}}
 
 來源:
 <https://github.com/mtf-wiki/MtF-Wiki/issues/384>

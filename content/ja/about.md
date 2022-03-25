@@ -20,15 +20,15 @@ weight: 0
 
 ## コアメンテナ
 
-創設者: {{< github/profile "27522149" "kenchiu233" "ケンチュウ" >}}
+創設者: {{< github/profile "kenchiu233" "ケンチュウ" >}}
 
-{{< github/profile "43064781" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "26759054" "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
+{{< github/profile "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
 
-{{< github/profile "44055214" "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
 
-{{< github/profile "3842474" "septs" >}}&nbsp;<mtfwiki@septs.email>
+{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 
 参加したい場合はご連絡ください！
 
