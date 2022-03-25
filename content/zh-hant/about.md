@@ -20,15 +20,15 @@ weight: 0
 
 ## 主要人員
 
-發起人：{{< github/profile "kenchiu233" "kenchiu233" "可橙" >}}
+發起人：{{< github/profile "27522149" "kenchiu233" "可橙" >}}
 
-{{< github/profile "CoelacanthusHex" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "43064781" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "saeziae" "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "26759054" "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
 
-{{< github/profile "llh721113" "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "44055214" "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
 
-{{< github/profile "septs" "septs" "septs" >}}&nbsp;<mtfwiki@septs.email>
+{{< github/profile "3842474" "septs" >}}&nbsp;<mtfwiki@septs.email>
 
 （這裏還有位置留給有意願的澳港臺朋友～～，歡迎聯繫我們！）
 

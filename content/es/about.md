@@ -20,14 +20,14 @@ Sitio hermano: <https://FtM.wiki>
 
 ## Mantenedores
 
-Fundadora: {{< github/profile "kenchiu233" "kenchiu233" "Kenchiu" >}}
+Fundadora: {{< github/profile "27522149" "kenchiu233" "Kenchiu" >}}
 
-{{< github/profile "CoelacanthusHex" "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "43064781" "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "saeziae" "saeziae" "Estela">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
+{{< github/profile "26759054" "saeziae" "Estela">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
 **¡Contáctame si quieres unirte!**
 
-{{< github/profile "llh721113" "llh721113" "Joanna" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "44055214" "llh721113" "Joanna" >}}&nbsp;<llh721113@outlook.com>
 
 Gracias a los contribuyentes de GitHub:
 
