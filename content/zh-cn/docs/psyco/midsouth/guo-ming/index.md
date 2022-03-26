@@ -2,13 +2,7 @@
 title: 南昌｜郭明
 ---
 
-{{< tag/pos "初诊开假条" >}}
-
-{{< tag/neg "昂贵" >}}
-
-{{< tag/neg "需家属介入" >}}
-
-{{< tag/neg "多次就诊" >}}
+{{< tag/pos "初诊开假条" >}} {{< tag/neg "昂贵" >}} {{< tag/neg "需家属介入" >}} {{< tag/neg "多次就诊" >}}
 
 医生姓名：[郭明](https://www.haodf.com/doctor/281543.html)
 
