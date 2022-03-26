@@ -1,5 +1,5 @@
 ---
-title: Mektep
+title: مەكتەپ
 weight: 9
 collapsible: false
 ---

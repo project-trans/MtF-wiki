@@ -17,7 +17,7 @@ other = "阅读时间"
 other = "2006年01月02日"
 
 [reading-time]
-other = "min read"
+other = "分钟阅读量"
 
 [single-writtenBy]
 other = "撰写者"
