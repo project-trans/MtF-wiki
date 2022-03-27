@@ -17,6 +17,7 @@ description: 螺内酯（Spironolactone）是雄激素受体拮抗剂，一种�
 
 - 药品名称：螺内酯片
 - 英文名称：Spironolactone Tablets
+- [说明书](./spironolactone-zh.pdf)
 
 ## 注意事项
 
