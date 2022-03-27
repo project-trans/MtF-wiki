@@ -6,7 +6,7 @@ aliases:
 
 ![医生信息](info.jpg)
 
-{{< tag/neg "诊断书观察期 1 年" >}}{{< tag/pos "可以不带家长" >}}
+{{< tag/neg "诊断书观察期 1 年" >}}
 
 所在医院：[贵州省人民医院](https://amap.com/place/B035300VC0)
 
