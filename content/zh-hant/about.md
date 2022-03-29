@@ -8,7 +8,7 @@ weight: 0
 
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
-{{<mtf-wiki>}} 致力於成為一個免費開放且持續更新的跨性別女性知識整合網站
+{{<mtf-wiki>}} 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
 
 本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
 
@@ -55,7 +55,7 @@ GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/i
 
 ## 致謝
 
-本網站目前使用 [Hugo][hugo-url] 部署於 [GitHub Pages][pages-url]．使用 [zdoc][zdoc-url] 主題，在此表示感謝！
+本網站目前使用 [Hugo][hugo-url] 部署於 [GitHub Pages][pages-url]，並使用 [zdoc][zdoc-url] 主題，在此表示感謝！
 
 本資料庫在編輯過程中參考了諸多資料，在此一併致謝。
 
