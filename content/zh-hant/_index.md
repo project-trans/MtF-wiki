@@ -8,7 +8,7 @@ landing:
   title:
     - MtF Wiki
   text:
-    - 歡迎來到 MtF Wiki．我們嘗試整理有關跨性別女性（M2F）的資料，希望為大家帶來幫助～
+    - 歡迎來到 MtF Wiki．我們嘗試整理有關跨性別女性的資料，希望為大家帶來幫助～
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
