@@ -8,26 +8,26 @@ landing:
   title:
     - MtF Wiki
   text:
-    - 歡迎來到 MtF Wiki．我們試圖整理彙總跨女的相關資料，為大家提供更好的幫助~
+    - 歡迎來到 MtF Wiki．我們嘗試整理有關跨性別女性的資料，希望為大家帶來幫助～
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: 檢視文檔
+      text: 進入資料庫
       color: primary
   #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
   sections:
-    - title: 專案
+    - title: 本專案
       links:
         - title: 主頁
           link: https://mtf.wiki
         - title: 原始碼
           link: https://github.com/mtf-wiki/MtF-Wiki
-    - title: 聯絡
+    - title: 社群聯絡
       links:
         - title: Discord
           link: https://233.plus/discord

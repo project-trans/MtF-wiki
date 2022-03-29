@@ -1,9 +1,10 @@
 ---
-title: "荷爾蒙換算器"
-description: "荷爾蒙換算器"
+title: "荷爾蒙換算"
+description: "荷爾蒙換算"
 date: 2020-10-26T04:15:05+08:00
 draft: false
 ---
+
 <div style="
   position: relative;
   display: flex;
@@ -53,10 +54,10 @@ draft: false
       <option value="1000">L</option>
     </select>
     <select id="in3" oninput="changed()" style="visibility: hidden;">
-      <option value="272.38">雌二醇</option>
-      <option value="288.43">睪酮</option>
-      <option value="23000">泌乳素</option>
-      <option value="314.46">孕酮</option>
+      <option value="272.38">雌二醇（Estradiol, E2）</option>
+      <option value="288.43">睪酮（Testosterone, T）</option>
+      <option value="23000">催乳激素（Prolactin, PRL）</option>
+      <option value="314.46">黃體素/孕酮（Progesterone, P）</option>
     </select>
   </div>
   <div style="margin:auto;">
@@ -76,10 +77,10 @@ draft: false
       <option value="1000">L</option>
     </select>
     <select id="iv" style="visibility: hidden">
-      <option value="272.38">雌二醇</option>
-      <option value="288.43">睪酮</option>
-      <option value="23000">泌乳素</option>
-      <option value="314.46">孕酮</option>
+      <option value="272.38">雌二醇（Estradiol, E2）</option>
+      <option value="288.43">睪酮（Testosterone, T）</option>
+      <option value="23000">催乳激素（Prolactin, PRL）</option>
+      <option value="314.46">黃體素/孕酮（Progesterone, P）</option>
     </select>
   </div>
 </div>
@@ -120,7 +121,7 @@ draft: false
     }
     val = (val * out2) / in2;
     if (isNaN(val)) {
-      window.document.getElementById("result").value = "數值錯誤"; //輸出
+      window.document.getElementById("result").value = "輸入有誤"; //輸出
     } else {
       window.document.getElementById("result").value = val; //輸出
     }
