@@ -1,6 +1,6 @@
 ---
 title: "關於我們"
-description: "MtF Wiki 致力於成為一個免費開放且持續更新的跨性別女生知識整合站點"
+description: "MtF Wiki 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站"
 weight: 0
 ---
 
@@ -8,13 +8,13 @@ weight: 0
 
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
-{{<mtf-wiki>}} 致力於成為一個免費開放且持續更新的跨性別女生知識整合站點
+{{<mtf-wiki>}} 致力於成為一個免費開放且持續更新的跨性別女性知識整合網站
 
-本專案 <i class="bi bi-github"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
+本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
 
-本專案 <i class="bi bi-link-45deg"></i> 網址：[MtF.Wiki](https://mtf.wiki)
+本專案 <i class="bi bi-link-45deg"></i> 主頁：[MtF.Wiki](https://mtf.wiki)
 
-<i class="bi bi-link-45deg"></i> 同步映象網址：<https://mtfwiki.cn>，<https://mtfwiki.com>
+<i class="bi bi-link-45deg"></i> 備用入口：<https://mtfwiki.cn>，<https://mtfwiki.com>
 
 兄弟站：<https://FtM.wiki>
 
@@ -30,32 +30,34 @@ weight: 0
 
 {{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 
-（這裏還有位置留給有意願的澳港臺朋友～～，歡迎聯繫我們！）
+{{< github/profile "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
+
+（這裡還有位置留給有意願的澳港台朋友～　歡迎與我們聯絡！）
 
 以及感謝所有 GitHub 貢獻者：
 
 {{< github/contributors >}}
 
-與其它對我們提供幫助和資訊的小可愛們。
+及其他幫助過我們與提供資訊的小可愛們。
 
-## 聯絡
+## 社群聯絡
 
-透過 Discord [![Discord][shields/discord]](https://233.plus/discord)
+Discord [![Discord][shields/discord]](https://233.plus/discord)
 
 Twitter {{< shields/twitter mtfwiki >}}
 
-透過 GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
 
-透過 郵件 <hi@mtf.wiki>
+電郵 <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## 致謝
 
-本專案目前採用 [Hugo][hugo-url] 部署在 [GitHub Pages][pages-url]．主題使用 [zdoc][zdoc-url]，對此表示感謝！
+本網站目前使用 [Hugo][hugo-url] 部署於 [GitHub Pages][pages-url]．使用 [zdoc][zdoc-url] 主題，在此表示感謝！
 
-本專案在編寫過程中參考了諸多資料，在此一併致謝。
+本資料庫在編輯過程中參考了諸多資料，在此一併致謝。
 
 ---
 
