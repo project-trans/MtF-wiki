@@ -25,4 +25,4 @@ collapsible: true
 > 目前能作为HRT方案的SERMs基本只有**雷洛昔芬**，他莫昔芬副作用更大一些，并不推荐使用，巴多昔芬还没过专利期，费用不是我们能接受的。
 
 [^1]: [Breast Development in Transwomen After 1 Year of Cross-Sex Hormone Therapy: Results of a Prospective Multicenter Study](https://academic.oup.com/jcem/article/103/2/532/4642966?login=false)
-[^2]: [雷洛昔芬](https://m.chemicalbook.com/ProductChemicalPropertiesCB1290431.htm)
+[^2]: [雷洛昔芬](https://www.chemicalbook.com/ProductChemicalPropertiesCB1290431.htm)
