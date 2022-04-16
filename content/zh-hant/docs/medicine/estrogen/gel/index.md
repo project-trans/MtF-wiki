@@ -12,7 +12,7 @@ keywords: [estradiol, 雌二醇, 雌激素, 凝膠, oestrogel, 愛斯妥]
 
 ### Oestrogel<sup>&reg;</sup>（愛斯妥）{#ai-si-tuo}
 
-![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg)
+![Oestrogel](/images/medicine/gel/oestrogel-fr.jpg)
 
 - 產品名稱：Oestrogel<sup>&reg;</sup>（愛斯妥）
 - 有效成分：雌二醇

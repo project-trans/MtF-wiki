@@ -14,7 +14,7 @@ description: 比卡魯胺（Bicalutamide）是雄激素受體拮抗劑，一種�
 - 藥品英文名稱: Bicalutamide Tablets
 - 生產企業名稱：CORDEN PHARMA GMBH
 - 性狀: 白色薄膜衣片，除去包衣後顯白色
-- 規格: 50mg 每片 *28 或 150mg 每片* 28
+- 規格: 50mg 每片 &times; 28 或 150mg 每片 &times; 28
 
 ## 注意事項
 

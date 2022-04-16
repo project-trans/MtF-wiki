@@ -17,12 +17,14 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 ### Androcur&reg;（安得卡）
 
-{{< notice info "好消息" >}}
-拜耳醋酸环丙孕酮片现京东国际有售
-{{< /notice >}}
+| 地区     | 上架状态               |
+| -------- | ---------------------- |
+| 中国内地 | 无                     |
+| 台湾     | 衛署藥輸字第 012554 號 |
+| 香港     | HK-46443               |
 
-{{< figure src="androcur-50.jpg" width="50%" >}}
-{{< figure src="androcur-100.jpg" width="50%" >}}
+{{< figure src="/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
+{{< figure src="/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
 
 - 商品名：Androcur&reg;
 - 简称：土色
@@ -30,7 +32,9 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 产地：土耳其
 - 规格：50mg &times; 50 片，100mg &times; 30 片
 - 参考售价：（京东国际）50mg &times; 50 片 人民币 380 元
-- [说明书（繁体中文）](./androcur-zh.pdf)
+- [说明书（繁体中文）](/documents/androcur-zh.pdf)
+
+海淘渠道：[京东国际](https://search.jd.com/Search?keyword=Androcur)
 
 ### Siterone&reg;
 
@@ -42,6 +46,8 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
+
+海淘渠道：[香港联合药业](https://www.unitedpharmacies.hk/%E9%86%8B%E9%85%B8%E7%8E%AF%E4%B8%99%E5%AD%95%E9%85%AE-%E7%AE%80%E4%BD%93.html)
 
 ### 华典&reg;醋酸环丙孕酮片 {#huadian}
 
