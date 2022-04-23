@@ -23,8 +23,8 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 | 台湾     | 衛署藥輸字第 012554 號 |
 | 香港     | HK-46443               |
 
-{{< figure src="/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
-{{< figure src="/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
 
 - 商品名：Androcur&reg;
 - 简称：土色
