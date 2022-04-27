@@ -1,5 +1,5 @@
 ---
-title: Powers Family Medicine
+title: MI | Powers Family Medicine
 slug: powers
 ---
 
