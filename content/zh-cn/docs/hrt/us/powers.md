@@ -31,7 +31,7 @@ Dr. Will Powers 在 HRT 疗法方面有自己独到的见解，抗雄激素推�
 
 ## 远程就诊的注意事项
 
-1. 部分州不支持远程看诊，[详见](https://www.reddit.com/r/DrWillPowers/wiki/covid/telemed)
+1. 部分州不支持远程看诊，详见<https://www.reddit.com/r/DrWillPowers/wiki/covid/telemed>
 1. 在美国境内看诊可将处方发送到就近的药房取药，境外看诊不支持开药
 1. 如果需要进行抽血检验，医生会提供检验单，凭检验单到就近的 lab 检验
 
