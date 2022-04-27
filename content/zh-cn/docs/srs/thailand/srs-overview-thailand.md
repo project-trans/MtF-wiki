@@ -5,6 +5,8 @@ slug: overview
 keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国]
 ---
 
+[疫情特辑：泰国旅行指南]({{< ref "travel-under-pandemia" >}})
+
 ## 术前科普 {#popular}
 
 具体参见：[术前科普]({{< ref "srs-faq" >}})
