@@ -1,7 +1,6 @@
 ---
 title: MtF Wiki
 description: MtF Wiki, un lugar que podría echar una mano a mujeres trans.
-updatesBanner: "<font color='red'>Celebremos el Día Internacional de la Mujer 2022</font>"
 landing:
   height: 700
   image:  new/mtf-wiki-square.svg

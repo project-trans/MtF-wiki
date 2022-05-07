@@ -15,7 +15,7 @@ keywords: [estradiol, 雌二醇, 雌激素, 凝胶, oestrogel]
 
 |          中国包装           |                         国际包装                          |
 | :-------------------------: | :-------------------------------------------------------: |
-| ![Oestrogel](oestrogel.jpg) | ![Oestrogel](/images/medicine/oestrogel/oestrogel-fr.jpg) |
+| ![Oestrogel](oestrogel.jpg) | ![Oestrogel](/images/medicine/gel/oestrogel-fr.jpg) |
 
 - 产品名称：Oestrogel&reg;（爱斯妥）
 - 有效成分：雌二醇

@@ -33,7 +33,7 @@ libraries: katex
 | 臺灣 | 已註銷                         |
 | 香港 | HK-49511(1mg)<br>HK-49512(2mg) |
 
-![!](/images/medicine/progynova/progynova-th.png)
+![!](/images/medicine/estradiol-valerate/progynova-th.png)
 
 - 藥品名稱：Progynova<sup>&reg;</sup> 普女榮
 - 簡稱：補

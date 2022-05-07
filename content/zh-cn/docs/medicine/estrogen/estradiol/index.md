@@ -18,10 +18,10 @@ description: 商品名有：Estrofem（诺坤复）
 | 地区     | 上架状态 |
 | -------- | -------- |
 | 中国内地 | 无       |
-| 香港     | 是       |
+| 香港     | HK-34267 |
 | 新加坡   | 是       |
 
-![土诺包装](/images/medicine/estrofem/estrofem.png)
+![土诺包装](/images/medicine/estradiol/estrofem.png)
 
 - 药品名称：Estrofem<sup>®</sup> 诺坤复
 - 药品成分：雌二醇（Estradiol）

@@ -35,10 +35,6 @@ weight: 10
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 邮箱：<awesome-trans@outlook.com>
 
-### 猫猫大陆 Minecraft
-
-一个关注跨性别权益的 Minecraft 玩家群体与游戏服务器 <https://www.catland.top> [{{< shields/qq 705754458 >}}](https://qm.qq.com/cgi-bin/qm/qr?k=q5ZCoXvb9xsy3AwxbEIox_vsUfgugBi_)
-
 ### FtM (Female-to-Male) Wiki
 
 <https://ftm.wiki>

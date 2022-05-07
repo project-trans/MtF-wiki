@@ -20,7 +20,7 @@ description: 雌二醇錠
 | 香港   | HK-34267 |
 | 新加坡 | 是       |
 
-![土諾包裝](/images/medicine/estrofem/estrofem.png)
+![土諾包裝](/images/medicine/estradiol/estrofem.png)
 
 - 藥品名稱：Estrofem<sup>®</sup> 諾坤復
 - 藥品成分：雌二醇（Estradiol）
