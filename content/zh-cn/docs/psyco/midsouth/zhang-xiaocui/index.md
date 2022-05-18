@@ -16,7 +16,7 @@ title: 长沙｜张小崔
 
 ## 问诊细节
 
-可参照 <https://limelight.moe/t/topic/6221>
+可参照 <https://limelight.moe/t/topic/6221>（Limelight 正在改革中，暂停用户注册）
 
 ## 注意事项
 

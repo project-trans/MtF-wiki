@@ -23,7 +23,7 @@ weight: 10
 
 - QQ 空间主机：`2776456754`
 - QQ 空间备用机：`970611264`（平时停用，紧急事态下启用。）
-- Limelight：<https://limelight.moe/u/跨性别相关bot>
+- Limelight：<https://limelight.moe/u/跨性别相关bot>（Limelight 正在改革中，暂停用户注册）
 
 <!-- - 正在建设中的 Telegram 同步机以频道形式推送内容，获取邀请链接请在任一其他平台联系我们 -->
 
@@ -42,5 +42,11 @@ weight: 10
 ### Limelight
 
 『性/别多元+』交流论坛（日常 &amp; 轻理论）
+
+{{< alert theme="success" >}}
+
+Limelight 正在改革中，暂停用户注册。
+
+{{< /alert >}}
 
 <https://limelight.moe>

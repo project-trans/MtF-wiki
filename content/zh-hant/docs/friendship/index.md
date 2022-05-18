@@ -24,4 +24,8 @@ weight: 10
 
 『性/別多元+』交流論壇（日常 &amp; 輕理論）
 
+{{< alert theme="success" >}}
+Limelight 正在改革中，暫停用戶註冊。
+{{< /alert >}}
+
 <https://limelight.moe>

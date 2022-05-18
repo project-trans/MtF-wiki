@@ -99,4 +99,4 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 [^3]: [Clinical and experimental dermatology. Supplement ... : CED.](https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040)
 [^4]: [PRODUCT MONOGRAPH](https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf)
 [^5]: [醋酸环丙孕酮片](http://yao.dxy.com/drug/132923.htm)
-[^6]: [法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://limelight.moe/t/topic/8313)
+[^6]: [法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://limelight.moe/t/topic/8313)（Limelight 正在改革中，暂停用户注册）
