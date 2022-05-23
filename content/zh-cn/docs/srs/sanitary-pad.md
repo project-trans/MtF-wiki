@@ -8,7 +8,7 @@ weight: 800
 测量方式：
 ![](/images/srs/pad_example.jpg)
 
-{{< csv-table >}}
+```csv
 品牌,名称,宽度（毫米，手工测量）,评价
 苏菲,裸感 S&trade;,80,
-{{< /csv-table >}}
+```

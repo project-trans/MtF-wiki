@@ -29,11 +29,11 @@ description: 雌二醇錠
 - 常見版本：土耳其文包裝、英文包裝
 - 規格：
 
-{{< csv-table >}}
+```csv
 規格,外觀
 2mg × 28 片/盒,藍色薄膜包衣片 一面寫有 NOVO 280 字樣
 1mg × 28 片/盒,紅色薄膜包衣片 一面寫有 NOVO 282 字樣
-{{< /csv-table >}}
+```
 
 - [說明書（英語）](/documents/estrofem.pdf)
 

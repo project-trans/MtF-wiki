@@ -30,11 +30,11 @@ description: 商品名有：Estrofem（诺坤复）
 - 常见版本：土耳其文包装、英文包装
 - 规格：
 
-{{< csv-table >}}
+```csv
 规格,外观
 2mg × 28 片/盒,蓝色薄膜包衣片 一面写有 NOVO 280 字样
 1mg × 28 片/盒,红色薄膜包衣片 一面写有 NOVO 282 字样
-{{< /csv-table >}}
+```
 
 - [说明书（英语）](/documents/estrofem.pdf)
 
