@@ -92,13 +92,13 @@ Additional charges will be incurred if
 ## Surgery Schedule
 
 Non-colonic.
-{{< csv-table >}}
+```csv
 Day,Progress
 -2,fluid food
 1,surgery
 3,drainage tube removed
 6,Removal of urinary catheter and discharge
-{{< /csv-table >}}
+```
 
 - Fasting for 3 days after colorectal surgery and avoiding large amounts of food for 1 month.
 - Light activity is allowed after 3 weeks until 3 months.

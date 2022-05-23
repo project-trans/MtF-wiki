@@ -75,7 +75,8 @@ To ensure that the grafted skin is 100% hair free, the prepared skin pieces are 
 ## Surgical schedule
 
 Skin flap.
-{{< csv-table >}}
+
+```csv
 Day,Progress
 -3,soft food
 -2,fluid food
@@ -83,10 +84,11 @@ Day,Progress
 5,Removal of drainage tube and discharge
 8,unpacking and first dilation
 11,Removal of urinary catheter
-{{< /csv-table >}}
+```
 
 Colon.
-{{< csv-table >}}
+
+```csv
 Day,Progress
 -4,soft food
 -3,fluid food
@@ -94,7 +96,7 @@ Day,Progress
 5,Removal of drainage tube and unpacking
 6,Discharge and ready to eat
 11,Removal of urinary catheter
-{{< /csv-table >}}
+```
 
 - Fasting for 5 days after colpotomy, eating after flap surgery.
 - Avoid chocolate and creamy soups for the first two days to avoid gastrointestinal distress.

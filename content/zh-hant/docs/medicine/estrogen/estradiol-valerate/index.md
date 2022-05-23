@@ -40,11 +40,11 @@ libraries: katex
 - 廠商：拜耳
 - 常見規格：
 
-{{< csv-table >}}
+```csv
 規格,外觀
 1mg × 21 片/盒,黃糖衣錠
 2mg × 28 片 × 3 板/盒,藍色糖衣錠
-{{< /csv-table >}}
+```
 
 ### Estrade 益斯得錠
 

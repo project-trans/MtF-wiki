@@ -6,7 +6,7 @@ title: 縮寫詞語表
 
 [LGBT+](https://en.wikipedia.org/wiki/LGBT) 是下列性少數單詞首字母的合稱
 
-{{< csv-table >}}
+```csv
 詞彙,翻譯
 [Lesbian](https://en.wikipedia.org/wiki/Lesbian),女同性戀
 [Gay man](https://en.wikipedia.org/wiki/Gay_man),男同性戀
@@ -16,11 +16,11 @@ title: 縮寫詞語表
 [Intersex](https://en.wikipedia.org/wiki/Intersex),雙性人
 [Asexuality](https://en.wikipedia.org/wiki/Asexuality),無性戀
 [Pansexual](https://en.wikipedia.org/wiki/Pansexuality),泛性戀
-{{< /csv-table >}}
+```
 
 ## 衍生概念
 
-{{< csv-table >}}
+```csv
 縮寫,翻譯
 cis,順性別（Cisgender）
 cisF,順性別女性
@@ -34,7 +34,7 @@ transgay,跨性別男同性戀（即其中一方為 transM）
 FtM,女跨男（Female-to-Male）
 MtF,男跨女（Male-to-Female）
 TS,變性者（Transsexual）
-{{< /csv-table >}}
+```
 
 FtX, MtX 的 X 借自日語 Ｘジェンダー（X-gender），即 non-binary 非二元
 
