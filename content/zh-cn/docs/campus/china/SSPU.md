@@ -248,7 +248,7 @@ title: 上海第二工业大学
 
 ### 其他
 
-1. [第二课堂学分](https://mp.weixin.qq.com/s?__biz=MjM5ODgyNDQzMw==&mid=2652628184&idx=1&sn=b1f67890cca65163f8ae8b3f1a271bcc&chksm=bd2b94468a5c1d509ed7fd89d0b374fa4885f415c2dc2bd206a7f54b07ecb2459dd002e6a8d9&mpshare=1&scene=23&srcid=0517kBqJ7r1is8hv5N9IGpbb&sharer_sharetime=1652802237748&sharer_shareid=3bba286cc8368abefa9cefa604340689#rd)一定要修满
+1. [第二课堂学分](https://mp.weixin.qq.com/s/85dZPqDW_dAr0L8hbIzCzw) 一定要修满
 2. 学校采用三学期制，分别为秋季学期、春季学期和夏季学期。
 	> 秋季学期和春季学期各 17 周，1~16 周为教学周，17 周为期末考试周，没有统一的期中考试
 	> 夏季学期一般校历上的长度为 5 周，但是每个年级专业夏季学期实践课课程安排不同，**谁先上完谁先放假**。春季学期和夏季学期之间没有暂停
