@@ -33,18 +33,18 @@ libraries: katex
 | 臺灣 | 已註銷                         |
 | 香港 | HK-49511(1mg)<br>HK-49512(2mg) |
 
-![!](/images/medicine/progynova/progynova-th.png)
+![!](/images/medicine/estradiol-valerate/progynova-th.png)
 
 - 藥品名稱：Progynova<sup>&reg;</sup> 普女榮
 - 簡稱：補
 - 廠商：拜耳
 - 常見規格：
 
-{{< csv-table >}}
+```csv
 規格,外觀
 1mg × 21 片/盒,黃糖衣錠
 2mg × 28 片 × 3 板/盒,藍色糖衣錠
-{{< /csv-table >}}
+```
 
 ### Estrade 益斯得錠
 

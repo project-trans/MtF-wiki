@@ -20,7 +20,7 @@ description: 雌二醇錠
 | 香港   | HK-34267 |
 | 新加坡 | 是       |
 
-![土諾包裝](/images/medicine/estrofem/estrofem.png)
+![土諾包裝](/images/medicine/estradiol/estrofem.png)
 
 - 藥品名稱：Estrofem<sup>®</sup> 諾坤復
 - 藥品成分：雌二醇（Estradiol）
@@ -29,11 +29,11 @@ description: 雌二醇錠
 - 常見版本：土耳其文包裝、英文包裝
 - 規格：
 
-{{< csv-table >}}
+```csv
 規格,外觀
 2mg × 28 片/盒,藍色薄膜包衣片 一面寫有 NOVO 280 字樣
 1mg × 28 片/盒,紅色薄膜包衣片 一面寫有 NOVO 282 字樣
-{{< /csv-table >}}
+```
 
 - [說明書（英語）](/documents/estrofem.pdf)
 

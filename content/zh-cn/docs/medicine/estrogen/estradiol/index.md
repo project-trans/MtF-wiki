@@ -18,10 +18,10 @@ description: 商品名有：Estrofem（诺坤复）
 | 地区     | 上架状态 |
 | -------- | -------- |
 | 中国内地 | 无       |
-| 香港     | 是       |
+| 香港     | HK-34267 |
 | 新加坡   | 是       |
 
-![土诺包装](/images/medicine/estrofem/estrofem.png)
+![土诺包装](/images/medicine/estradiol/estrofem.png)
 
 - 药品名称：Estrofem<sup>®</sup> 诺坤复
 - 药品成分：雌二醇（Estradiol）
@@ -30,11 +30,11 @@ description: 商品名有：Estrofem（诺坤复）
 - 常见版本：土耳其文包装、英文包装
 - 规格：
 
-{{< csv-table >}}
+```csv
 规格,外观
 2mg × 28 片/盒,蓝色薄膜包衣片 一面写有 NOVO 280 字样
 1mg × 28 片/盒,红色薄膜包衣片 一面写有 NOVO 282 字样
-{{< /csv-table >}}
+```
 
 - [说明书（英语）](/documents/estrofem.pdf)
 

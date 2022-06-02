@@ -17,8 +17,13 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 
 ### Androcur<sup>&reg;</sup>（安得卡）
 
-{{< figure src="androcur-50.jpg" width="50%" >}}
-{{< figure src="androcur-100.jpg" width="50%" >}}
+| 地區 | 上架狀態               |
+| ---- | ---------------------- |
+| 台湾 | 衛署藥輸字第 012554 號 |
+| 香港 | HK-46443               |
+
+{{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
 
 - 商品名：Androcur<sup>&reg;</sup>
 - 簡稱：土色，臺色
@@ -26,12 +31,11 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 - 產地：土耳其
 - 規格：50mg &times; 50 片，100mg &times; 30 片
 - [說明書（繁體中文）](androcur-zh.pdf)
-- 臺灣有上市，品名安得卡。
 
 ### Siterone<sup>&reg;</sup>
 
-{{< figure src="siterone-50.jpg" width="50%" >}}
-{{< figure src="siterone-100.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/siterone-50.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/siterone-100.jpg" width="50%" >}}
 
 - 商品名：Siterone<sup>&reg;</sup>
 - 簡稱：新色
@@ -56,7 +60,7 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 
 - **腦膜瘤風險**：色譜龍可能誘發腦膜瘤，風險與劑量和使用時長正相關，建議謹慎使用。[^6]
 
-- **抑鬱**：色普龍會導致抑鬱風險升高[^2]。主要原因是色普龍對於生理男性起到了抗雄激素和潛在的糖皮質激素作用，並可能誘發維生素 B<sub>12</sub> 缺乏[^3]。有必要適量補充維生素  B<sub>12</sub> ．
+- **抑鬱**：色普龍會導致抑鬱風險升高[^2]。主要原因是色普龍對於生理男性起到了抗雄激素和潛在的糖皮質激素作用，並可能誘發維生素 B<sub>12</sub> 缺乏[^3]。有必要適量補充維生素 B<sub>12</sub> ．
 
 - **肝毒性**：色普龍最嚴重的副作用，使用前應當檢查肝功能並定期檢查，服用量不應當超過 50mg[^4]．
 
@@ -76,4 +80,4 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 [^3]: [Clinical and experimental dermatology. Supplement ... : CED.](https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040)
 [^4]: [PRODUCT MONOGRAPH](https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf)
 [^5]: [醋酸環丙孕酮片](http://yao.dxy.com/drug/132923.htm)
-[^6]: [法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://limelight.moe/t/topic/8313)
+[^6]: [法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://limelight.moe/t/topic/8313)（Limelight 正在改革中，暫停用戶註冊）

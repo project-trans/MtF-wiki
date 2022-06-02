@@ -5,7 +5,7 @@ title: 贡献者指南
 贡献方式：
 
 1. 会 GitHub 操作，直接 PR 或者 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
-1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)
+1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册）
 1. 发送邮件到 <hi@mtf.wiki>
 
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
@@ -72,6 +72,7 @@ title: 贡献者指南
 1. 校内医疗，如果提供性激素六项检测服务与激素药物的开具请特别指出
 1. LGBT 梗概，如果不利于 MtF 生存请特别指出
    对于该校现存 MtF 数量不需要特别指出（考虑到时效性问题）
+1. 如有可以流程性（不需要走关系、打官司）修改毕业证的情况，请务必特别指出。
 1. 署名，如果您希望被「校友」联络请留下您的电子邮件
    对于其他的联络方式请考虑他的未来可用性
 
