@@ -49,4 +49,4 @@ title: 长沙｜张小崔
 
 ## 证明样式
 
-{{< proof-image src="proof.jpg" >}}
+![诊断证明](proof.jpg)
