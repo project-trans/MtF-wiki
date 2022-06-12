@@ -19,13 +19,13 @@ title: 多伦多大学 UofT
 
 [LinkedIn](https://ca.linkedin.com/in/sarah-warden-37801675/) | [Twitter](https://twitter.com/swardenmd) | [RateMDs](https://www.ratemds.com/doctor-ratings/4013764/Dr-Sarah-Warden-Toronto-ON.html)
 
-是非常好心的医生！问诊流程和别的地方都差不多啦，可以参考下美国那边的。我只记得第一次问诊的时候问了些跨性别相关的问题，不需要心理证明诊断也没有做 MMPI 之类的，具体问了什么记不清了，欢迎补充。然后第一次问诊开了一个<ruby>抽血请求<rt>lab request</rt></ruby>... 对加拿大这边不能想抽血就抽血，必须要医生开请求，然后抽血结果也只会发到医生那边，然后医生再转发给你。下面的截图是我收到的抽血请求，医生勾的那些是要查的项目，需要打印然后带到附近的 LifeLabs 去抽血。
+是非常好心的医生！问诊流程和别的地方都差不多啦，可以参考下美国那边的。我只记得第一次问诊的时候问了些跨性别相关的问题，不需要心理证明诊断也没有做 MMPI 之类的，具体问了什么记不清了，欢迎补充。然后第一次问诊开了一个<ruby>抽血请求<rt>lab request</rt></ruby>... 对加拿大这边不能想抽血就抽血，必须要医生开请求，然后抽血结果也只会发到医生那边，然后医生再转发给你。下面的截图是我收到的抽血请求，医生勾的那些是要查的项目，需要打印然后带到附近的 LifeLabs 预约去抽血。第一次要空腹，之后的抽血只查 E2 和 T 就不需要空腹了。
 
 ![Lab Request Screenshot](img_lab_req_azalea_oct_4.png)
 
 （一定要选一个 Google Maps 上评价好一点的 LifeLabs，我推荐 208 Bloor St W。我第一次去的 14 College St 抽血疼死了，报告上性别还写了 M，明明医生提交的请求上写的都是 F (╯‵□′)╯︵┻━┻
 
-抽完血大概一周后医生会发给你结果，然后第二次问诊我记得说了一下这个结果，问了我去哪个 <ruby>药店<rt>pharmacy</rt></ruby> 取药最方便什么的。我问了让医生换成 <ruby>色谱龙<rt>Cyproterone</rt></ruby> 和 <ruby>雌激素贴片<rt>Estradiol patches</rt></ruby>，然后医生说了下注意事项就结束了。挂掉视频电话之后给我发消息说把处方传真过去了，最后我拿到的是 <ruby>学名药<rt>generic drug</rt></ruby> 的色谱龙和 Estradot 100 贴片。消息里面同时给我发了一个月之后第二次抽血的请求单，上面只有 E2 和 T。
+抽完血大概一周后医生会发给你结果，然后第二次问诊我记得说了一下这个结果，问了我去哪个 <ruby>药店<rt>pharmacy</rt></ruby> 取药最方便什么的。医生默认要给我开 <ruby>螺内酯<rt>Spironolactone</rt></ruby> 和口服雌，我问了让医生换成 <ruby>色谱龙<rt>Cyproterone</rt></ruby> 和 <ruby>雌激素贴片<rt>Estradiol patches</rt></ruby>，然后医生说了下注意事项就结束了。挂掉视频电话之后给我发消息说把处方传真过去了，最后我拿到的是 <ruby>学名药<rt>generic drug</rt></ruby> 的色谱龙和 Estradot 100 贴片。消息里面同时给我发了一个月之后第二次抽血的请求单，上面只有 E2 和 T。
 
 ![Prescription Chat Message](img_prescription_faxed.png)
 
