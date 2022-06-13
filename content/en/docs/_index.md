@@ -23,12 +23,8 @@ Many materials were referred to in the process of writing this project, and I wo
 
 > Never surrender to anxiety and depression, we will eventually have our place in this world.
 
-**Kenchiu[^k], we are waiting for your return**
-
 > If you can remember my name, if you can all remember my name, maybe I or "we", will be able to live freely one day.
 
 [^1]: The definition of assigned sex on Wikipedia is "Assigned sex, which is determined by checking gender characteristics at birth."
 
 [^2]: https://github.com/mtf-wiki
-
-[^k]: Kenchiu, founder of this site, was detained illegally for so-called "correction".
