@@ -13,3 +13,8 @@ weight: 1000
 - [Voice Tools](https://apps.apple.com/app/id1447495900)
 - [Vocal Pitch Monitor 4+](https://apps.apple.com/app/id842218231)
 - [Singscope](https://apps.apple.com/app/id944309175)
+
+## Windows / macOS / Linux
+
+- [Friture](https://friture.org)
+- [Praat](https://www.fon.hum.uva.nl/praat)
