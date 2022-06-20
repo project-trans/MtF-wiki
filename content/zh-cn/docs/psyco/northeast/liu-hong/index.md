@@ -43,3 +43,7 @@ title: 大连｜刘宏
 ## 病历样式
 
 ![病历](bingli.png)
+
+## 证明样式
+
+![证明](certificate.jpg)
