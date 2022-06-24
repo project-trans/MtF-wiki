@@ -6,7 +6,7 @@ title: 长沙｜贺莹
 
 {{< doctor-image src="doctor.jpg" >}}
 
-医生姓名：[贺莹](https://wy.guahao.com/expert/819738df-5ae6-4bc3-83df-aad260927d97000)
+医生姓名：[贺莹](https://www.guahao.com/expert/819738df-5ae6-4bc3-83df-aad260927d97000)
 
 所在医院：[中南大学湘雅二医院 - 精卫楼](https://amap.com/place/B0FFGCX8WS)
 
