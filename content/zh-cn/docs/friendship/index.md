@@ -17,6 +17,10 @@ weight: 10
 - 逆光小镇：联系 {{< shields/telegram rikablossom >}} 加入
 - 跨儿音游组：{{< shields/telegram otoge_trans >}}
 
+### Matrix 交流群
+
+- Arch 木桶饭 https://img.shields.io/matrix/arch-mtf?server_fqdn=matrix.malacology.net
+
 ### 跨性别相关 bot（QQ）{#trans-bot}
 
 前身为 Trans 药品公益科普 bot．本 bot 是社群伙伴自发建立的民间公益平台，由专门成立的多人运营组共同运营，以纯公益、不谋利为基本原则，以广大跨性别群体的立场为基本立场，主营跨性别相关的科普/辟谣/投稿/公益推广/消息推送等业务。为避免反跨恐跨人士围攻举报，本 bot 内容请在合理范围内扩散，谨慎考虑后转发。
