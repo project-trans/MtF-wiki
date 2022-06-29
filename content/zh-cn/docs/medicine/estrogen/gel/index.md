@@ -13,8 +13,8 @@ keywords: [estradiol, 雌二醇, 雌激素, 凝胶, oestrogel]
 
 ### Oestrogel&reg;（爱斯妥）{#oestrogel}
 
-|          中国包装           |                         国际包装                          |
-| :-------------------------: | :-------------------------------------------------------: |
+|          中国包装           |                      国际包装                       |
+| :-------------------------: | :-------------------------------------------------: |
 | ![Oestrogel](oestrogel.jpg) | ![Oestrogel](/images/medicine/gel/oestrogel-fr.jpg) |
 
 - 产品名称：Oestrogel&reg;（爱斯妥）
@@ -34,6 +34,7 @@ keywords: [estradiol, 雌二醇, 雌激素, 凝胶, oestrogel]
 - 有效成分：雌二醇
 - 批准文号：国药准字 H20051153
 - 生产企业：健民集团叶开泰国药（随州）有限公司
+- [说明书](jianmin_gel_instructions.jpg)
 - 药品规格：0.06% &times; 40g（含雌二醇 24mg）
 
 ## 使用方式与用量
