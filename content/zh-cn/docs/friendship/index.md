@@ -50,3 +50,11 @@ Limelight 正在改革中，暂停用户注册。
 {{< /alert >}}
 
 <https://limelight.moe>
+
+### TransLand（跨岛）
+
+> 插上彩虹的翅膀，向着梦想翱翔
+
+一个跟跨性别生活有关的论坛。在这里，你或许可以找到一些有关跨性别生活的帮助，或者与ta人分享自己的生活。
+
+<https://chat.transland.lgbt>

@@ -7,6 +7,7 @@ title: 贡献者指南
 1. 会 GitHub 操作，直接 PR 或者 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册）
 1. 发送邮件到 <hi@mtf.wiki>
+1. 在[TransLand](https://chat.transland.lgbt)发布主题
 
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
@@ -75,6 +76,8 @@ title: 贡献者指南
 1. 如有可以流程性（不需要走关系、打官司）修改毕业证的情况，请务必特别指出。
 1. 署名，如果您希望被「校友」联络请留下您的电子邮件
    对于其他的联络方式请考虑他的未来可用性
+
+详细指南请看[这里](/zh-cn/blog/campus.pdf)
 
 ## 关于图片资源
 

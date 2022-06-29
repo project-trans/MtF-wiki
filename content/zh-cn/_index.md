@@ -1,6 +1,7 @@
 ---
 title: MtF Wiki
 description: MtF Wiki
+updatesBanner: "<a style='color:red;font-size:1.5em' href='blog/campus.pdf'>欢迎为校园指南版块投稿，帮助高考考生选择合适的学校</a>"
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
