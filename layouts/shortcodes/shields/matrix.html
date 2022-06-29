@@ -1,0 +1,3 @@
+{{- $message := .Get 0 -}}
+{{- $qs := querify "label" "Matrix" "logo" "Matrix" "message" $message "color" "blue" "style" "flat-square" -}}
+<a href="https://matrix.to/#/{{ $message }}"><img class="shields-icon" alt="Matrix {{ $message }}" src="https://img.shields.io/static/v1?{{ $qs | safeURL }}" /></a>
