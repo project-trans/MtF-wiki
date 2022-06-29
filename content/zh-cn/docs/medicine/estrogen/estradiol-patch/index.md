@@ -26,3 +26,9 @@ description: 外用雌二醇贴片，经皮吸收。
 - 说明书：<https://www.medicines.org.uk/emc/files/pil.1617.pdf>
 
 [^1]: 因地区而异，有的地区商品名为 Climara&reg;。
+
+### Estrana&reg; TAPE
+
+- 商品名：Estrana&reg; TAPE
+- 厂商：久光製薬株式会社
+- 说明书：<https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/650034_2473700S2076_1_20.pdf>
