@@ -29,6 +29,8 @@ description: 外用雌二醇贴片，经皮吸收。
 
 ### Estrana&reg; TAPE
 
+{{< figure src="estrana-tape.png" width="50%" >}}
+
 - 商品名：Estrana&reg; TAPE
 - 厂商：久光製薬株式会社
 - 说明书：<https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/650034_2473700S2076_1_20.pdf>
