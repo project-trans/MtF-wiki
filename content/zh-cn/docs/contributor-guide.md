@@ -79,11 +79,23 @@ title: 贡献者指南
 
 详细指南请看[这里](/zh-cn/blog/campus.pdf)
 
-## 关于图片资源
+## 关于附加资源
 
-如果该图片为对纸质材料的拍摄请使用 Microsoft Lens (fbk Office Lens) 进行扫描以便于提供更好的阅读体验
-当然如果有条件的话建议提供扫描件，如果您不会相关的后处理（可以将该图片提交至 <hi@mtf.wiki> 由我们进行脱敏后进行上传）
+### 图片处理
+
+如果图片为对纸质材料的拍摄，请使用 Microsoft Lens (fbk Office Lens) 进行处理以便于提供更好的阅读体验，当然，如果有条件的话建议提供扫描件。
+如果您不会相关的后处理（可以将该图片提交至 <hi@mtf.wiki> 由我们进行脱敏后进行上传）
 
 [Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)
 [Microsoft Lens (Windows)](https://www.microsoft.com/en-us/p/office-lens/9wzdncrfj3t8)
+
+### 附件目录
+根据规范，不同种类附件都有存放目录，建议将附件存放至规范的目录下。
+
+- 图片类附件建议建议存放至`/static/images/`目录下，在正文中使用 `/images/+路径` 的方式引用；
+- PDF等文档类附件建议存放至`/static/documents/`目录下，在正文中使用 `/documents/+路径` 的方式引用；
+
+### 表格
+
+表格类说明建议使用内嵌CSV格式，即首行使用` ‍```csv `，末行使用` ``` `，中间以逗号分隔符形式等内容填充。
