@@ -19,7 +19,7 @@ weight: 10
 
 ### Matrix 交流群
 
-- Arch 木桶饭：{{< shields/matrix "#arch-mtf:matrix.malacology.net" >}}
+- Arch 木桶饭：{{< shields/matrix arch-mtf matrix.malacology.net >}}
 
 
 ### 跨性别相关 bot（QQ）{#trans-bot}
