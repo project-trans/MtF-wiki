@@ -1,4 +1,4 @@
 {{- $name := .Get 0 -}}
 {{- $fqdn := .Get 1 -}}
-{{- $qs := querify "server_fqdn" $fqdn "style" "flat-square" -}}
-<a href="https://matrix.to/#/#{{ $name }}:${{ $fqdn }}"><img class="shields-icon" alt="Matrix #{{ $name }}:${{ $fqdn }}" src="https://img.shields.io/matrix/${{ $name | safeURL }}?{{ $qs | safeURL }}" /></a>
+{{- $qs := querify "server_fqdn" $fqdn "style" "flat-square" "label" "matrix" -}}
+<a href="https://matrix.to/#/#{{ $name }}:{{ $fqdn }}"><img class="shields-icon" alt="Matrix #{{ $name }}:{{ $fqdn }}" src="https://img.shields.io/matrix/{{ $name | safeURL }}?{{ $qs | safeURL }}" /></a>
