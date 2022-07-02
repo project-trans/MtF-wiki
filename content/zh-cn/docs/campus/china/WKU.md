@@ -152,8 +152,12 @@ GPA 基本上分为不好拿和特别不好拿两种，因此进来就得做好�
 
 ~~这么好的学校真的不心动一下？~~
 
-Email: hycuihz [at] gmail.com
-
-Telegram / Twitter: [at] KagurazakaKano
-
 {{< sign-off-by "神楽坂 卡諾" >}}
+
+---
+
+投稿人联系方式：
+
+- Email: <hycuihz@gmail.com>
+- Telegram: {{< shields/telegram KagurazakaKano >}}
+- Twitter: {{< shields/twitter KagurazakaKano >}}
