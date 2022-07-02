@@ -13,9 +13,9 @@ aliases: progynova
 
 ## 基本信息
 
-|      中国包装       |                  泰国包装 (2mg)                   |
-| :-----------------: | :-----------------------------------------------: |
-| ![!](progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-th.png) |
+|                        中国包装                         |                       泰国包装 (2mg)                       |
+| :-----------------------------------------------------: | :--------------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-th.png) |
 
 - 药品名称：Progynova&reg;（补佳乐&reg;）
 - 药品成分：戊酸雌二醇（Estradiol valerate）
@@ -30,7 +30,7 @@ aliases: progynova
 泰国包装（泰补）,2mg × 28 片 × 3 板/盒,蓝色糖衣片
 ```
 
-- [说明书](./ev-zh.pdf)
+- [说明书](/documents/ev-zh.pdf)
 
 ## 使用方式与用量
 
