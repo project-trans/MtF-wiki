@@ -8,6 +8,8 @@ title: 长沙湘雅三院｜龙智
 
 所在医院：[中南大学湘雅三医院](https://www.xy3yy.com)
 
+出诊时间：https://m.haodf.com/doctor/294961/xinxi-menzhen.html
+
 ## HRT 处方开具指南
 
 必须有易性倾向（易性症）的相关证明，亲测 [程明]({{< ref "cheng-ming" >}}) 的证明有效。
