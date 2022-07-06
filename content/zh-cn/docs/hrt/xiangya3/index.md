@@ -8,7 +8,7 @@ title: 长沙湘雅三院｜龙智
 
 所在医院：[中南大学湘雅三医院](https://www.xy3yy.com)
 
-出诊时间：https://m.haodf.com/doctor/294961/xinxi-menzhen.html
+出诊时间：<https://www.haodf.com/doctor/294961/xinxi-menzhen.html>
 
 ## HRT 处方开具指南
 
