@@ -28,7 +28,7 @@ title: 长沙湘雅三院｜龙智
 
 缴费后在本院取药：
 - [爱斯妥]({{< ref "gel#oestrogel" >}})
-- [补佳乐]({{< ref estradiol-valerate >}})
+- [补佳乐]({{< ref "estradiol-valerate" >}})
 - [螺内酯]({{< ref "spironolactone" >}})
 
 需要凭处方去外面的药房买药：
