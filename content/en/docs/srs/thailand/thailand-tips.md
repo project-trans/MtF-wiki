@@ -15,14 +15,7 @@ weight: 2
 
 ## Immigration
 
-[Thailand E-Visa Application Portal](https://www.thaievisa.go.th/)
 [Thailand Pass Entrance](https://tp.consular.go.th/en/plan)
-
-Isolated hotel booking.
-
-- <https://agoda.com/quarantineth>
-- <https://asq.locanation.com>
-- <https://asq.ascendtravel.com>
 
 ## Useful APP {#app}
 
