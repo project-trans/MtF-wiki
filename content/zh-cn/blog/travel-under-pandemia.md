@@ -1,11 +1,15 @@
 ---
 title: "疫情特辑：泰国旅行指南"
 description: "本篇讲述在疫情防控下进行赴泰国手术的内容"
-date: 2022-04-22T01:50:00+08:00
+date: 2022-07-07T01:50:00+08:00
 draft: false
 enableToc: true
 author: "MtF wiki 工作组"
 ---
+
+{{< notice info >}}
+泰国已经没有有关 COVID-19 的国际旅行防疫政策，以下相关“疫情”、“防疫”均指中国。
+{{< /notice >}}
 
 ## 护照办理
 
@@ -22,13 +26,13 @@ author: "MtF wiki 工作组"
 
 ## 签证/入境条件
 
+{{< notice info >}}
+泰国已经没有有关 COVID-19 的国际旅行防疫政策
+{{< /notice >}}
+
+当前一般以医疗旅游签证（TR MT）、旅游签证或落地签证入境，下方是申请入口。
+
 - [泰国电子签证申请入口](https://www.thaievisa.go.th/)
-
-- [Thailand Pass 入口](https://tp.consular.go.th/en/plan)
-
-当前一般以医疗旅游签证（TR MT）、旅游签证或落地签证入境，下方是申请入口，落地签证仅需要申请 Thailand Pass.
-
-疫情下医疗签需要医院有 AHQ 资格。
 
 如果申请旅游签证，使馆/领馆问及出行目的，请务必说明自己是旅游度假目的。
 
@@ -48,12 +52,6 @@ author: "MtF wiki 工作组"
 - 泰王国驻青岛总领事馆：山东省
   {{< /expand >}}
 
-隔离酒店预订（具体预订多少晚请参 Thailand Pass 要求）：
-
-- <https://agoda.com/quarantineth>
-- <https://asq.locanation.com>
-- <https://asq.ascendtravel.com>
-
 ## 出境中国
 
 当前出境会被边检盘问出境事由，请务必说自己是赴泰进行手术，可以直说是「变性手术」，再有问题就参考上方[护照办理](#护照办理)的说明方式。
@@ -70,9 +68,9 @@ author: "MtF wiki 工作组"
 
 如乘机前核酸检测，乘机前隔离
 
-大使馆网站：<http://th.china-embassy.org/chn/ztbd/>（<http://th.china-embassy.gov.cn/>）
+大使馆网站：<http://th.china-embassy.gov.cn/>
 
-回到中国后，如果发现隔离酒店收费离谱，可以直接拒绝付款，说自己没钱（做绝一点就是把钱全部转到亲人、朋友账上），这个烫手山芋政府自然会替你解决。
+回到中国后，如果发现隔离酒店收费离谱，可以直接拒绝付款，说自己没钱（把钱全部转到亲人、朋友账上），这个烫手山芋政府自然会替你解决。
 
 ## 屯货
 
