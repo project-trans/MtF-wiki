@@ -27,12 +27,15 @@ title: 长沙湘雅三院｜龙智
 ## 可开处方药物清单
 
 缴费后在本院取药：
+
 - [爱斯妥]({{< ref "gel#oestrogel" >}})
 - [补佳乐]({{< ref "estradiol-valerate" >}})
 - [螺内酯]({{< ref "spironolactone" >}})
 
 需要凭处方去外面的药房买药：
+
 - [色普龙]({{< ref "cyproterone" >}})
 
 未证实能否开具：
+
 - 克龄蒙
