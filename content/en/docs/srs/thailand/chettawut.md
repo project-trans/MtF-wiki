@@ -18,11 +18,7 @@ Telephone: {{< telephone "+66 0-2078-8919" >}}
 
 <https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==>
 
-Cost of surgery.
-
-- Skin flap {{< currency from="THB" value="330000" >}}
-- Colon {{< currency from="THB" value="350000" >}}
-- Colon (laparoscopic) {{< currency from="THB" value="450000" >}}
+Cost of surgery: please contact the hospital.
 
 Hotel costs: approximately 3 ~ 4 weeks.
 
