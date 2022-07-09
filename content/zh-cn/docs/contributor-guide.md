@@ -104,7 +104,7 @@ title: 贡献者指南
 
 表格类说明建议使用内嵌 [CSV](https://zh.wikipedia.org/wiki/CSV) 格式
 
-````markdown
+````
 ```csv
 表头1,表头2,表头3
 内容,内容,内容
