@@ -35,8 +35,8 @@ footer:
           link: https://twitter.com/mtfwiki
         - title: GitHub
           link: https://github.com/mtf-wiki
-        - title: 电子邮件
-          link: mailto:hi@mtf.wiki
+        - title: 贡献者指南
+          link: /zh-cn/docs/contributor-guide/
   contents:
     align: left
     applySinglePageCss: true
