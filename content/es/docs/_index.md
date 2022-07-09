@@ -22,6 +22,7 @@ En cuanto al propósito original de construir este sitio, además de proporciona
 En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
 
 > No te rindas a la ansiedad y la depresión, el mundo acabará teniendo un lugar para nosotras.
+>
 > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.
 
 [^2]: https://github.com/mtf-wiki

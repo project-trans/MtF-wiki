@@ -22,6 +22,7 @@ As for the original intention of building this website, in addition to providing
 Many materials were referred to in the process of writing this project, and I would like to thank you.
 
 > Never surrender to anxiety and depression, we will eventually have our place in this world.
+>
 > If you can remember my name, if you can all remember my name, maybe I or "we", will be able to live freely one day.
 
 [^1]: The definition of assigned sex on Wikipedia is "Assigned sex, which is determined by checking gender characteristics at birth."
