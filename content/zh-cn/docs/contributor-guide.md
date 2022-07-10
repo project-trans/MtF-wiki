@@ -4,7 +4,7 @@ title: 贡献者指南
 
 贡献方式：
 
-1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> / 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose) （该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
 <!-- 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册） -->
 1. 发送邮件到 <hi@mtf.wiki>
 1. 在 [TransLand](https://chat.transland.lgbt) 发布主题
