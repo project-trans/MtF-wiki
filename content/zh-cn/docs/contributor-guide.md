@@ -4,10 +4,10 @@ title: 贡献者指南
 
 贡献方式：
 
-1. 会 GitHub 操作，直接 PR 或者 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
-1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册）
+1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose) （该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
+<!-- 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册） -->
 1. 发送邮件到 <hi@mtf.wiki>
-1. 在[TransLand](https://chat.transland.lgbt)发布主题
+1. 在 [TransLand](https://chat.transland.lgbt) 发布主题
 
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
@@ -77,7 +77,7 @@ title: 贡献者指南
 1. 署名，如果您希望被「校友」联络请留下您的电子邮件
    对于其他的联络方式请考虑他的未来可用性
 
-详细指南请看[这里](/zh-cn/blog/campus.pdf)
+详细指南请看 [这里](/zh-cn/blog/campus.pdf)
 
 ## 关于附加资源
 
@@ -91,11 +91,22 @@ title: 贡献者指南
 [Microsoft Lens (Windows)](https://www.microsoft.com/en-us/p/office-lens/9wzdncrfj3t8)
 
 ### 附件目录
+
 根据规范，不同种类附件都有存放目录，建议将附件存放至规范的目录下。
 
-- 图片类附件建议建议存放至`/static/images/`目录下，在正文中使用 `/images/+路径` 的方式引用；
-- PDF等文档类附件建议存放至`/static/documents/`目录下，在正文中使用 `/documents/+路径` 的方式引用；
+- 图片类附件建议建议存放至 [`/static/images/`][images] 目录下，在正文中使用 `/images/+路径` 的方式引用；
+- PDF 等文档类附件建议存放至 [`/static/documents/`][documents] 目录下，在正文中使用 `/documents/+路径` 的方式引用；
+
+[images]: https://github.com/mtf-wiki/MtF-Wiki/tree/master/static/images/
+[documents]: https://github.com/mtf-wiki/MtF-Wiki/tree/master/static/documents/
 
 ### 表格
 
-表格类说明建议使用内嵌CSV格式，即首行使用` ‍```csv `，末行使用` ``` `，中间以逗号分隔符形式等内容填充。
+表格类说明建议使用内嵌 [CSV](https://zh.wikipedia.org/wiki/CSV) 格式
+
+````
+```csv
+表头1,表头2,表头3
+内容,内容,内容
+```
+````
