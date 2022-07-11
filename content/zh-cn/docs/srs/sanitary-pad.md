@@ -5,7 +5,7 @@ weight: 800
 
 本文档指在记录卫生巾数据以便于提供选购参考
 
-贡献方法参见：[贡献者指南]({{ ref "contributor-guide" }})，因内容琐碎，建议一次性更新多条数据
+贡献方法参见：[贡献者指南]({{< ref "contributor-guide" >}})，因内容琐碎，建议一次性更新多条数据
 
 测量方式：![Measurement Method](/images/srs/pad_example.jpg)
 
