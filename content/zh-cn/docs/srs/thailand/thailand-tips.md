@@ -71,7 +71,7 @@ weight: 2
 - 免洗洗发水（会有一段时间不能洗澡）
 - Kleenex 软抽纸，4 包以上
 - 婴儿湿巾
-- 护理垫（英文 incontinece pad）
+- 护理垫（英文 incontinence pad）
 - 棉签
 - 25 cm 卫生巾（日用）
 - Baby powder
