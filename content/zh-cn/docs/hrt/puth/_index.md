@@ -24,10 +24,16 @@ aliases:
 线上预约挂号可通过北医三院 APP，「北医三院服务号」微信公众号及[北京市预约挂号统一平台](https://www.114yygh.com)挂号。其中前二者号源共享，同有同无；最后一种方式的号源独立。
 
 北医三院 APP
-{{< qrcode "https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp" >}}
+
+```qrcode
+https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp
+```
 
 北医三院服务号
-{{< qrcode "http://weixin.qq.com/r/HkO7o7bE5OubrfLA9xYM" >}}
+
+```qrcode
+http://weixin.qq.com/r/HkO7o7bE5OubrfLA9xYM
+```
 
 所有挂号方式均可以预约接下来三天的号源。具体而言，对于前两种方式，每天早晨 7 点可以开始预约其后第三天的号源[^1]；对于第三种方式，每天中午 12 点可以开始预约其后第三天的号源。
 
