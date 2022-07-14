@@ -1,6 +1,6 @@
 ---
-title: 西北地区
+title: 西北
 description: 陕西、甘肃、青海、宁夏、新疆
-draft: true
+draft: false
 collapsible: true
 ---
