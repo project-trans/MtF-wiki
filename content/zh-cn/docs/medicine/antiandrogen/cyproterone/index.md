@@ -38,8 +38,8 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 ### Siterone&reg;
 
-{{< figure src="siterone-50.jpg" width="50%" >}}
-{{< figure src="siterone-100.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/siterone-50.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/siterone-100.jpg" width="50%" >}}
 
 - 商品名：Siterone&reg;
 - 简称：新色
