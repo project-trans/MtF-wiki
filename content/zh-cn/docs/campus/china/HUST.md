@@ -56,7 +56,7 @@ title: "华中科技大学"
 
 HGP（HUST GAY PRIDE）与 HLP（HUST LES PRIDE）是华科的性少数小组。其中 HGP 开展活动很多，也关注 Trans 群体，会邀请 Trans 去宣传。性少数大概占全校的 9.8%（数据源自 HGP 调查问卷），当然是同性恋占绝大多数。整个学校对 LGBT 的氛围比较开放。
 
-#### MtF 分布情况：
+#### MtF 分布情况
 
 目前已知在校的 MtF 有
 

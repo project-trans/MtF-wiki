@@ -2,7 +2,7 @@
 title: 过斌
 ---
 
-# <ruby>过<rt>guō</rt></ruby>斌
+## <ruby>过<rt>guō</rt></ruby>斌
 
 {{< doctor-image src="doctor.jpg" >}}
 

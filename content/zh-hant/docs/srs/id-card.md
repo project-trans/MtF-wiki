@@ -3,11 +3,11 @@ title: 證件變更指引
 weight: 5
 ---
 
-# 等待貢獻
+## 等待貢獻
 
-## 臺灣
+### 臺灣
 
-## 香港
+### 香港
 
 - 準備工作：找律師辦理改名契
 - 地點: 入境處
@@ -32,4 +32,4 @@ weight: 5
 > - [由香港註冊醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexI_Chi.pdf)
 > - [由非本地醫生提供的醫學證明樣本](https://www.gov.hk/tc/residents/immigration/images/pdf/AnnexII_Chi.pdf)
 
-## 澳門
+### 澳門
