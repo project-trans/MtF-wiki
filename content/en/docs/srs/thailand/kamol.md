@@ -92,6 +92,7 @@ Additional charges will be incurred if
 ## Surgery Schedule
 
 Non-colonic.
+
 ```csv
 Day,Progress
 -2,fluid food

@@ -4,7 +4,7 @@ aliases:
   - /zh-cn/docs/hrt/pku3/liu-ye/
 ---
 
-# 刘烨
+## 刘烨
 
 {{< doctor-image src="doctor.png" >}}
 

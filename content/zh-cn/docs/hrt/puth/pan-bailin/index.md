@@ -4,7 +4,7 @@ aliases:
   - /zh-cn/docs/hrt/pku3/pan-bailin/
 ---
 
-# 潘<ruby>柏<rt>bǎi</rt></ruby>林
+## 潘<ruby>柏<rt>bǎi</rt></ruby>林
 
 {{< doctor-image src="doctor.jpg" >}}
 
