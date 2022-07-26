@@ -5,9 +5,9 @@ title: 贡献者指南
 贡献方式：
 
 1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose) （该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
-<!-- 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册） -->
 1. 发送邮件到 <hi@mtf.wiki>
 1. 在 [TransLand](https://chat.transland.lgbt) 发布主题
+<!-- 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册） -->
 
 [badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
@@ -75,7 +75,7 @@ title: 贡献者指南
    对于该校现存 MtF 数量不需要特别指出（考虑到时效性问题）
 1. 如有可以流程性（不需要走关系、打官司）修改毕业证的情况，请务必特别指出。
 1. 署名，如果您希望被「校友」联络请留下您的电子邮件
-   对于其他的联络方式请考虑他的未来可用性
+   对于其他的联络方式请考虑它的未来可用性
 
 详细指南请看 [这里](/zh-cn/blog/campus.pdf)
 
@@ -84,7 +84,8 @@ title: 贡献者指南
 ### 图片处理
 
 如果图片为对纸质材料的拍摄，请使用 Microsoft Lens (fbk Office Lens) 进行处理以便于提供更好的阅读体验，当然，如果有条件的话建议提供扫描件。
-如果您不会相关的后处理（可以将该图片提交至 <hi@mtf.wiki> 由我们进行脱敏后进行上传）
+照片中的 EXIF 信息可能包含设备型号、拍摄时间和地理位置等信息。建议您在上传前[移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。
+如果您不会相关的后处理，可以将该图片提交至 <hi@mtf.wiki> 由我们脱敏后进行上传。
 
 [Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)
