@@ -1,6 +1,6 @@
 ---
-title: "MtF Wiki について"
-description: "MtF Wikiは、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。"
+title: "MtF.wiki について"
+description: "MtF.wikiは、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。"
 weight: 0
 ---
 

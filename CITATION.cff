@@ -1,4 +1,4 @@
-title: MtF Wiki
+title: MtF.wiki
 url: https://mtf.wiki
 cff-version: 1.1.0
 date-released: 2020-10-27
@@ -7,7 +7,7 @@ journal: GitHub Repository
 message: If you use this software, please cite it using these metadata.
 license: CC-BY-SA-4.0
 authors:
-  - given-names: MtF Wiki Team
+  - given-names: MtF.wiki Team
 keywords:
   - MtF
   - Wiki

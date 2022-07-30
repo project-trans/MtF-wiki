@@ -1,6 +1,6 @@
 ---
 title: "About us"
-description: "MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
+description: "MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
 weight: 0
 ---
 

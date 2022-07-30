@@ -1,6 +1,6 @@
 ---
 title: "關於我們"
-description: "MtF Wiki 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站"
+description: "MtF.wiki 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站"
 weight: 0
 ---
 

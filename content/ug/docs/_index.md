@@ -1,6 +1,6 @@
 ---
 title:  قارشى ئالىمىز
-description: MtF Wiki Welcome
+description: MtF.wiki Welcome
 ---
 
 {{< mtf-wiki >}} غا قارشى ئالىمىز. بۇ يەردە بىر قىسىم كۋاشىڭبيې-ئاياللار توپىغا ياردەم بېرەلەيدىغان بىر يەر.

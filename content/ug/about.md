@@ -1,6 +1,6 @@
 ---
 title: "ھەققىدە"
-description: "MtF Wiki heqsiz, ochuq we üzlüksiz yéngilanghan kwashingbyé-ayallar bilimlirini birleshtürüsh tor békiti bolushqa wede béridu."
+description: "MtF.wiki heqsiz, ochuq we üzlüksiz yéngilanghan kwashingbyé-ayallar bilimlirini birleshtürüsh tor békiti bolushqa wede béridu."
 weight: 0
 ---
 
