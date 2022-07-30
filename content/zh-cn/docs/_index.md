@@ -1,7 +1,7 @@
 ---
 title: 欢迎
-description: MtF Wiki Welcome
-keywords: [mtf, "mtf wiki", 跨性别, 木桶饭, TS, 药娘, 变性, 吃糖]
+description: MtF.wiki Welcome
+keywords: [mtf, "MtF.wiki", 跨性别, 木桶饭, TS, 药娘, 变性, 吃糖]
 ---
 
 欢迎来到 {{< mtf-wiki >}}。这里是一个或许可以给部分跨性别女性群体提供帮助的地方。

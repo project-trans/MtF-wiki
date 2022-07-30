@@ -63,7 +63,7 @@ description: "胸圍計算"
     } else if (cup<=20){
       cup = "E";
     }else{
-      window.document.getElementById("result").innerHTML = "妳胸大妳說了算（罩杯超出 MtF wiki 預設）";
+      window.document.getElementById("result").innerHTML = "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
       return;
     }
     if (isNaN(xia)) {

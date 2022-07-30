@@ -1,6 +1,6 @@
 ---
 title: "Bienvenida"
-description: "Bienvenida a MtF Wiki"
+description: "Bienvenida a MtF.wiki"
 date: 2020-10-29T17:09:21+08:00
 draft: false
 ---

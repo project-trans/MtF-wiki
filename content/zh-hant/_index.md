@@ -1,13 +1,13 @@
 ---
-title: MtF Wiki
-description: MtF Wiki
+title: MtF.wiki
+description: MtF.wiki
 landing:
   height:  700
   image:  new/mtf-wiki-square.svg
   title:
-    - MtF Wiki
+    - MtF.wiki
   text:
-    - 歡迎來到 MtF Wiki．我們嘗試整理有關跨性別女性的資料，希望為大家帶來幫助～
+    - 歡迎來到 MtF.wiki．我們嘗試整理有關跨性別女性的資料，希望為大家帶來幫助～
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -41,6 +41,6 @@ footer:
     applySinglePageCss: true
     markdown: >
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
+      <p>Copyright &copy; 2020-2022 MtF.wiki. All rights reserved.</p>
       <blockquote align="left">如果你能記住我的名字，如果你們都能記住我的名字，也許我或者「我們」，終有一天能自由地生存著。</blockquote>
 ---

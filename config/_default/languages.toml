@@ -1,36 +1,36 @@
 [en]
-  title = "MtF Wiki"
+  title = "MtF.wiki"
   languageName = "English"
   weight = 2
   contentdir = "content/en"
 
 [zh-cn]
-  title = "MtF Wiki"
+  title = "MtF.wiki"
   languageName = "简体中文"
   weight = 1
   contentdir = "content/zh-cn"
 
 [es]
-  title = "MtF Wiki"
+  title = "MtF.wiki"
   languageName = "Español"
   weight = 3
   contentdir = "content/es"
 
 [zh-hant]
-  title = "MtF Wiki"
+  title = "MtF.wiki"
   languageName = "繁體中文"
   weight = 1
   contentdir = "content/zh-hant"
 
 [ug]
-  title = "MtF Wiki"
+  title = "MtF.wiki"
   languageName = "Uyghurche"
   weight = 4
   contentdir = "content/ug"
   languageDir = "rtl"
 
 [ja]
-  title = "MtF Wiki"
+  title = "MtF.wiki"
   languageName = "日本語"
   weight = 5
   contentdir = "content/ja"

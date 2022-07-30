@@ -1,6 +1,6 @@
 ---
 title: "ようこそ"
-description: "MtF Wiki へようこそ"
+description: "MtF.wiki へようこそ"
 draft: false
 ---
 

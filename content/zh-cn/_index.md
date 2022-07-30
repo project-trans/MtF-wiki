@@ -1,14 +1,14 @@
 ---
-title: MtF Wiki
-description: MtF Wiki
+title: MtF.wiki
+description: MtF.wiki
 updatesBanner: "<a style='color:red;font-size:1.5em' href='blog/campus.pdf'>欢迎为校园指南版块投稿，帮助高考考生选择合适的学校</a>"
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
   title:
-    - MtF Wiki
+    - MtF.wiki
   text:
-    - 欢迎来到 MtF Wiki．我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
+    - 欢迎来到 MtF.wiki．我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -42,6 +42,6 @@ footer:
     applySinglePageCss: true
     markdown: >
       <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
+      <p>Copyright &copy; 2020-2022 MtF.wiki. All rights reserved.</p>
       <blockquote align="left">如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。</blockquote>
 ---

@@ -5,7 +5,7 @@ Mirror：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
 
 Brother Site: [ftm.wiki](https://ftm.wiki)
 
-# Welcome to **MtF Wiki**
+# Welcome to **MtF.wiki**
 
 [简中](README.md) | [繁中](README-T.md) | **English** | [Español](README-ES.md)
 
@@ -16,13 +16,13 @@ This site was founded initially for China mainland's transgenders. However, if y
 
 ## Content
 
-Welcome to the MtF Wiki, a place that may help some transgender women.
+Welcome to the MtF.wiki, a place that may help some transgender women.
 
 MtF (Male-to-Female), transgender female, refers to a female whose assigned sex is male when she was born.
 
-MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site, where you can learn about all kinds of medicine and medical knowledge, female common sense, and other things.
+MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site, where you can learn about all kinds of medicine and medical knowledge, female common sense, and other things.
 
-The current MtF Wiki is in its infancy. Various materials may have not been completed, and there may even be some errors. Welcome all enthusiastic sisters to join us and contribute to the MtF Wiki.
+The current MtF.wiki is in its infancy. Various materials may have not been completed, and there may even be some errors. Welcome all enthusiastic sisters to join us and contribute to the MtF.wiki.
 
 As for the original intention of building this website, in addition to providing a knowledge platform for the majority of MtF groups, it is also eager for others to affirm the setting of gender conversion.
 
@@ -46,8 +46,8 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ```plain
 @misc{mtfwiki,
-  author = {MtF Wiki Team},
-  title = {MtF Wiki},
+  author = {MtF.wiki Team},
+  title = {MtF.wiki},
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub Repository},

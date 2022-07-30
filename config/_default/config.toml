@@ -1,12 +1,12 @@
 baseURL = "https://mtf.wiki"
-title = "MtF Wiki"
+title = "MtF.wiki"
 theme = "zdoc"
 
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
-copyright = "&copy; 2020-{year} MtF Wiki<br><a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' loading='lazy' alt='CC BY-SA 4.0'></a>"
+copyright = "&copy; 2020-{year} MtF.wiki<br><a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' loading='lazy' alt='CC BY-SA 4.0'></a>"
 timeout = "1M"
 enableEmoji = true
 enableRobotsTXT = true
