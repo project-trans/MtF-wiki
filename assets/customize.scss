@@ -40,14 +40,15 @@ a.github-profile {
     text-align: center;
   }
 }
-.mtf-wiki {
-  span:nth-child(1),
-  span:nth-child(4) {
+.mtf-wiki > {
+  .c1 {
     color: #5bcefa;
   }
-  span:nth-child(2),
-  span:nth-child(3) {
+  .c2 {
     color: #f6a8b8;
+  }
+  .dot {
+    color: #ccc;
   }
 }
 .doctor-story {
