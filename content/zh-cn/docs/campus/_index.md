@@ -6,4 +6,6 @@ collapsible: false
 
 民间有对各个大学的生活质量的问卷结果可以在 <https://colleges.chat> 查阅
 
-提示：可以通过<kbd>Ctrl</kbd>+<kbd>F</kbd>或其他类似功能在本页进行搜索。
+{{< notice warning "注意" >}}
+为了用户更好的体验，本版块目前已经移至[RLE.wiki](https://rle.wiki)，投稿限制降低，增加评论功能
+{{< /notice >}}
