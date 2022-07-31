@@ -124,6 +124,7 @@ span.shadow-text {
 }
 .qrcode > img {
   margin: 0 1rem 1rem;
+  padding: 0 1rem 1rem;
   border: 0;
 }
 .trans-flag {
@@ -142,5 +143,17 @@ a.anchor {
   &:focus {
     transition: color 0.15s ease-in;
     color: #96ccff;
+  }
+}
+
+.highlight {
+  code,
+  pre, span {
+    font-family: "Courier New", Courier, monospace;
+    background-color: transparent!important;
+  }
+  .lntd code {
+    margin: 0!important;
+    padding: 0!important;
   }
 }
