@@ -58,7 +58,7 @@ Discord [![Discord][badge-discord]](https://233.plus/discord)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
 
 邮件 <hi@mtf.wiki>
 
