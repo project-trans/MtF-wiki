@@ -50,10 +50,10 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 外观：微黄色澄清油性注射液
 - [说明书（英语）](/documents/generic-ev.pdf)
 
-### Depo®-Estradiol
+### Depo&reg;-Estradiol
 
-- 英文名称：Depo®-Estradiol
-- 药品成分：环戊丙酸雌二醇 (Estradiol Cypionate)
+- 英文名称：Depo&reg;-Estradiol
+- 药品成分：环戊丙酸雌二醇（Estradiol Cypionate）
 - 厂商：Pfizer
 - 规格：一盒 1 瓶，每瓶 5 mL，含有 25 mg 环戊丙酸雌二醇
 - 外观：微黄色澄清油性注射液
