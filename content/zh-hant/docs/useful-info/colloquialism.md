@@ -52,7 +52,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 
 ## 魔法黨
 
-指中文 GalGame [<del>破防</del>戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/恋爱绮谭)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/苏半夏)。
+指中文 GalGame [~~破防~~戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/恋爱绮谭)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/苏半夏)。
 
 <p class="text-center">
     我啊，希望自己能做一個普通的女孩子。

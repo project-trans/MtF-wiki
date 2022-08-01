@@ -8,7 +8,7 @@ weight: 0
 
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
-{{<mtf-wiki>}}は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
+{{< mtf-wiki >}}は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
 計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
 
