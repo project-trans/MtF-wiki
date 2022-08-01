@@ -8,7 +8,7 @@ weight: 0
 
 ![MtF-Wiki](/new/mtf-wiki-long.svg)
 
-La {{<mtf-wiki>}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,
+La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,
 
 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
 

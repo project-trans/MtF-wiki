@@ -28,7 +28,7 @@ keywords: [estradiol, 雌二醇, 雌激素, 凝胶, oestrogel]
 
 ### 健民 雌二醇凝胶 {#jian-min}
 
-![国产](ningjiao.jpg)
+![国产](/images/medicine/gel/ningjiao.jpg)
 
 - 品牌：健民
 - 有效成分：雌二醇

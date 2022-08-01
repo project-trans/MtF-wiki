@@ -3,7 +3,7 @@ title: 札幌市・田畑産婦人科
 ---
 
 - 札幌市中央区南５条西２丁目 6 番地
-- 電話：{{<telephone "011-531-7770">}}
+- 電話：{{< telephone "011-531-7770" >}}
 - <http://www.tabata-sanfujinka.com/sp/>
 
 ## 読者さんのコメント
