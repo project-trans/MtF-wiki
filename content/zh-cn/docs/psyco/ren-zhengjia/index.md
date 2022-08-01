@@ -1,6 +1,6 @@
 ---
 title: 重庆｜任正伽
-province: 四川
+province: 重庆
 hospital: 重庆医科大学附属第三医院
 ---
 
