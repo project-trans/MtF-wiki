@@ -1,0 +1,124 @@
+{{ define "header" }} {{ partial "main/header.html" . }} {{ end }} {{ define
+"main" }}
+<script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
+<script src="https://qingshanasd.cn/assets/js/echarts/china.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<div class="mid">
+  <div class="divider">
+    <nav id="single-menu" class="l">
+      {{ if $.Param "enableMenu" }}{{ partial "main/sections/single-menu.html" . }}{{ end }}
+    </nav>
+    <article id="list-main" class="mr">
+      <section class="visualization" style="overflow:auto">
+        <datalist class="resources">
+          {{- range .Pages }}
+          <option value="{{ .Title }}" data-href="{{ .Permalink }}" data-hospital="{{ .Params.hospital }}" data-province="{{ .Params.province }}">
+          {{- end }}
+        </datalist>
+        <section class="map" style="height:100%;min-height:800px;width:100%;min-width:800px"></section>
+      </section>
+      <section class="text-edition" hidden>
+        <div class="single">
+          <article class="single__contents">
+          {{- range .Pages.GroupByParam "hospital" }}
+            <h3>{{ .Key }}</h3>
+            {{ range .Pages }}
+              <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+            {{ end }}
+          {{- end }}
+          </article>
+        </div>
+      </section>
+    </article>
+  </div>
+</div>
+<script>
+  (function() {
+    const option = {
+      tooltip: { trigger: "item", backgroundColor: "#50c3f7c9" },
+      visualMap: {
+        show: true,
+        type: "piecewise",
+        x: "left",
+        y: "bottom",
+        inRange: { color: ["#e0f2f1", "#c8e6c9"] },
+        pieces: [
+          { max: 0, label: "暂无就诊信息" },
+          { min: 0.9, label: "可就诊" },
+        ],
+      },
+      bmap: {
+        center: [104.114129, 37.550339],
+        zoom: 5,
+        roam: true,
+      },
+      series: [
+        {
+          name: "医院数量",
+          type: "map",
+          mapType: "china",
+          roam: false,
+          label: {
+            normal: { show: true, textStyle: { fontSize: 10 } },
+            emphasis: { show: false },
+          },
+          itemStyle: {
+            normal: { borderWidth: 0.3, borderColor: "#aebfbe" },
+            emphasis: { areaColor: "#d1c4e9" },
+          },
+          data: []
+        },
+      ],
+    };
+
+    Array.from(document.querySelector('.resources').children).forEach(node => {
+      const elements = option.series[0].data
+      const province = node.dataset.province
+      const hospital = node.dataset.hospital
+      const href = node.dataset.href
+      const name = node.value
+      let matched = elements.find((element) => element.name === province)
+      if (!matched) {
+        matched = { name: province, value: 0, hospitals: {} }
+        elements.push(matched)
+      }
+      if (!matched.hospitals[hospital]) matched.hospitals[hospital] = {}
+      matched.hospitals[hospital][name] = href
+      matched.value = Object.keys(matched.hospitals).length
+    })
+
+    const chart = echarts.init(document.querySelector(".map"));
+    chart.setOption(option);
+    chart.on('click', (params) => {
+      if (!params.data) return
+      const content = document.createElement('section')
+      content.style.textAlign = 'left'
+      Object.entries(params.data.hospitals).forEach(([hospitalName, hospital]) => {
+        const caption = document.createElement('b')
+        caption.textContent = hospitalName
+        content.append(caption)
+        content.append(document.createElement('br'))
+        Object.entries(hospital).forEach(([name, href]) => {
+          const link = document.createElement("a")
+          link.textContent = name.replace(/^.+｜/, '')
+          link.href = href
+          content.append(link)
+          content.append(document.createElement('br'))
+        })
+      })
+      swal({ content })
+    });
+    window.addEventListener('resize', () => chart.resize())
+  }())
+  ;(function() {
+    const mql = matchMedia("(max-width: 600px)")
+    function onChange() {
+      document.querySelector(".visualization").hidden = mql.matches
+      document.querySelector(".text-edition").hidden = !mql.matches
+    }
+    mql.addEventListener("change", onChange)
+    window.addEventListener('resize', onChange)
+    onChange()
+  }())
+</script>
+{{ end }}
