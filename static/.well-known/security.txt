@@ -1,0 +1,3 @@
+Contact: mailto:security@mtf.wiki
+Preferred-Languages: zh, en
+Canonical: https://mtf.wiki/.well-known/security.txt
