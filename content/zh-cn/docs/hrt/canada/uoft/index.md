@@ -9,7 +9,7 @@ title: 多伦多大学 UofT
 
 加拿大一般开始 HRT 的流程是先去 Walk-in clinic 找 <ruby>全科大夫<rt>general practitioner</rt></ruby> / 家庭医生开 <ruby>推荐信<rt>referral</rt></ruby> 去看 <ruby>内分泌大夫<rt>endocrinologist</rt></ruby>，但是因为多大校医有在跨性别 HRT 方面经历很充分的医生所以不需要这么麻烦。
 
-刚来到多伦多首先要领 <ruby>学生卡<rt>TCard</rt></ruby>，然后 [领保险卡](#register)，然后 [打电话给校医注册医疗信息](https://studentlife.utoronto.ca/task/book-appointments-and-view-lab-results-online/)，然后创建 Medeo 在线医疗账号（链接同上）。记得填一个常用的电话哦，如果是在线预约的话医生会打电话和你聊。
+刚来到多伦多首先要领 <ruby>学生卡<rt>TCard</rt></ruby>，然后 [领保险卡]({{ ref "#register" }})，然后 [打电话给校医注册医疗信息](https://studentlife.utoronto.ca/task/book-appointments-and-view-lab-results-online/)，然后创建 Medeo 在线医疗账号（链接同上）。记得填一个常用的电话哦，如果是在线预约的话医生会打电话和你聊。
 
 这些都注册完之后就可以在 Medeo 上预约电话问诊了。如果不想电话，想和医生视频的话就只能给校医前台打电话预约了。打电话预约需要等很久，但是其实我更喜欢视频，因为 Medeo 的视频系统比电话更能听清医生说话，而且可以露脸。 **一定要记得尽早预约哦！** 这个医生只有周一周三出诊，今年每次我预约都只能预约到半个月之后，所以一定要尽早。可惜 2022 年三月还不能线下问诊，欢迎补充。
 
@@ -37,11 +37,10 @@ title: 多伦多大学 UofT
 
 如果 Dr. Sarah Warden 不在的话也可以约其他的友跨校医: Dr. Lowe, Dr. Zacharin, Dr. Krivy, 和 Dr. Genkin，欢迎补充。
 
-## 费用/保险
+## 费用/保险 {#register}
 
 2022 年多伦多大学一学期的学费里需要交 $116 UTSU Health Plan 和 $97 可以退的 UTSU Dental Plan。如果你和我一样是留学生的话还要交 $756 的 UHIP (University Health Insurance Plan)，用来不完全替代安省<ruby>永久居民<rt>permanent resident</rt></ruby>或者全职员工才能申请的 OHIP (Ontario Health Insurance Plan)。
 
-<a name='register'></a>
 来到加拿大之后记得注册一下 Sunlife 的账号才能打印 UHIP 卡哦，去诊所去领药什么的把 UHIP 卡带上。[注册教程](https://internationalexperience.utoronto.ca/international-student-services/healthcare-coverage-and-u-of-t/university-health-insurance-plan-uhip/accessing-your-uhip-card-and-online-registration/)
 
 ### 保险内容
