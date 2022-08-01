@@ -22,9 +22,9 @@
           <article class="single__contents">
           {{- range .Pages.GroupByParam "hospital" }}
             <h3>{{ .Key }}</h3>
-            {{ range .Pages }}
-              <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
-            {{ end }}
+            {{- range .Pages }}
+            <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+            {{- end }}
           {{- end }}
           </article>
         </div>
