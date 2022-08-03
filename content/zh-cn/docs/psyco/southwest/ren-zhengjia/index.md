@@ -14,15 +14,11 @@ title: 重庆｜任正伽
 
 微信订阅号：重医大附三院
 
-```qrcode
-http://weixin.qq.com/r/hjs0LB3EBEB7rVlP926U
-```
+![微信号：cydfsy](https://open.weixin.qq.com/qr/code?username=cydfsy)
 
 微信服务号：重庆医科大学附属第三医院
 
-```qrcode
-http://weixin.qq.com/r/hzt1bbDEBe16rfQO926V
-```
+![微信号：gh_c2b8c274a91f](https://open.weixin.qq.com/qr/code?username=gh_c2b8c274a91f)
 
 手机 App：重庆医科大学附属第三医院
 
