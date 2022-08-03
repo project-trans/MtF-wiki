@@ -19,7 +19,7 @@ aliases:
 
 关注微信公众号「贵州省人民医院」的，点击「患者服务」后根据提示建卡
 
-![微信号：gz-gzsrmyy](https://open.weixin.qq.com/qr/code?username=gz-gzsrmyy)
+{{< weixin-qrcode "gz-gzsrmyy" >}}
 
 科室是心理科专科门诊，直接找这位医生就可以，挂号费5.5元
 

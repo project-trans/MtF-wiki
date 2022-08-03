@@ -7,14 +7,18 @@ title: 公益组织
 北京同志中心跨性别项目部是一个「立足北京，辐射全国」的、为中国跨性别群体积极开展倡导工作与服务工作的部门，成立于 2017 年 3 月。
 
 地区：北京
-微信公众号：「北同文化」（`bjlgbtcenter`）
+微信公众号：「北同文化」（`beitong2021`）
 北同跨儿小助手 微信：{{< shields/wechat "transbjlgbt" >}}
 联系电话：{{< telephone "+86 010-6446-6970" >}}
+
+{{< weixin-qrcode "beitong2021" >}}
 
 ## 跨儿说
 
 地区：上海
 微信公众号：「跨儿说 TransTalks」（`TransTalks`）
+
+{{< weixin-qrcode "TransTalks" >}}
 
 ## Lesgo
 
@@ -24,10 +28,14 @@ LESGO 是由志愿者自发组成以女性为主体的 LGBT 公益社团。成�
 微信公众号：「lesgo 苏州拉拉公益小组」（`lesgosuzhoulala`）
 微博：苏州 LESGO 公益小组
 
+{{< weixin-qrcode "lesgosuzhoulala" >}}
+
 ## 跨儿心理
 
 地区：广州
 微信公众号/微博：「跨儿心理」（`kuaerxinli`）
+
+{{< weixin-qrcode "kuaerxinli" >}}
 
 ## 女友组
 
@@ -38,11 +46,15 @@ LESGO 是由志愿者自发组成以女性为主体的 LGBT 公益社团。成�
 微博：女友组
 网易云音乐：女友电台
 
+{{< weixin-qrcode "girlfans2009GZ" >}}
+
 ## 同城青少年资源中心
 
 同城青少年资源中心（简称同城或 GLCAC）是国内专注于推动校园性别平等教育，应对基于性别的校园暴力与欺凌及推动性与性别多元教育落实的民间团体组织。通过推动同志青少年社群发展、支持教师参与性/别教育、开展教育研究与倡议三方面的战略来倡议中国性别平等教育的落实。
 
 微信公众号：「GLCAC03」（`glcac-03`）
+
+{{< weixin-qrcode "glcac-03" >}}
 
 ## 云南平行健康咨询发展中心
 
@@ -51,6 +63,8 @@ LESGO 是由志愿者自发组成以女性为主体的 LGBT 公益社团。成�
 微博：<https://weibo.com/ynpx>
 Twitter：<https://twitter.com/YNParallel>
 Facebook：<https://facebook.com/ynparallel>
-微信公众号：云南平行
+微信公众号：「云南平行」（`ynpx087163379065`）
 电话：{{< telephone "+86 0871-6337-9065" >}}、{{< telephone "+86 180-6482-4919" >}}
 QQ 群：{{< shields/qq 170530694 >}}
+
+{{< weixin-qrcode "ynpx087163379065" >}}

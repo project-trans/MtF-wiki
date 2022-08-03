@@ -31,7 +31,7 @@ https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp
 
 北医三院服务号
 
-![微信号：bysy_001](https://open.weixin.qq.com/qr/code?username=bysy_001)
+{{< weixin-qrcode "bysy_001" >}}
 
 所有挂号方式均可以预约接下来三天的号源。具体而言，对于前两种方式，每天早晨 7 点可以开始预约其后第三天的号源[^1]；对于第三种方式，每天中午 12 点可以开始预约其后第三天的号源。
 
