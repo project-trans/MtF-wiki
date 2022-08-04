@@ -107,6 +107,8 @@ title: 未确认列表
 ```csv
 国家,机构名称,备注
 日本,"ISK Bangkok CO.,LTD.",有待核实
+日本,Rose Ladies School,
+日本,国际医疗福祉大学东京嗓音中心,
 日本,广芝耳鼻喉科诊所,
 泰国,PAI,有待核实
 泰国,Yanhee,有待核实
