@@ -27,23 +27,18 @@ jobs:
           extended: true
       - name: Build `mtf.wiki`
         run: hugo --minify --enableGitInfo
-      - name: Deploy `mtf.wiki`
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload `mtf.wiki` artifact
         if: github.ref == 'refs/heads/master'
+        uses: actions/upload-pages-artifact@v1
         with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
-          publish_branch: master
-          publish_dir: ./public
-          cname: mtf.wiki
-          external_repository: mtf-wiki/mtf-wiki.github.io
-          force_orphan: true
+          path: public
       - name: Build `mtfwiki.com`
         run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
       - name: Deploy `mtfwiki.com`
         uses: reggionick/s3-deploy@v3
         if: github.ref == 'refs/heads/master'
         with:
-          folder: ./public
+          folder: public
           bucket: mtfwiki.com
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
           delete-removed: true
@@ -51,3 +46,16 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
