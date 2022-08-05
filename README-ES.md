@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-[![MtF-Wiki][logo-long]][wiki-url]
+[![MtF-wiki][logo-long]][wiki-url]
 
 Mirrores: [mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
 
@@ -51,7 +51,7 @@ Si quieres citar este GitHub repo, puedes usar el bibtex：
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/mtf-wiki/MtF-Wiki}},
+  howpublished = {\url{https://github.com/mtf-wiki/MtF-wiki}},
 }
 ```
 
@@ -61,19 +61,19 @@ Discord [![Discord][badge-discord]](https://233.plus/discord)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
 
-GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
 
 E-mail <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
-[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Stars
-[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Watch
+[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
+[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Watch
 [badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
-[repo]: https://github.com/mtf-wiki/MtF-Wiki
+[repo]: https://github.com/mtf-wiki/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

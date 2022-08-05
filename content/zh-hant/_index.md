@@ -25,7 +25,7 @@ footer:
         - title: 主頁
           link: https://mtf.wiki
         - title: 原始碼
-          link: https://github.com/mtf-wiki/MtF-Wiki
+          link: https://github.com/mtf-wiki/MtF-wiki
     - title: 社群聯絡
       links:
         - title: Discord

@@ -6,13 +6,13 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-Wiki](/new/mtf-wiki-long.svg)
+![MtF-wiki](/new/mtf-wiki-long.svg)
 
 {{< mtf-wiki >}}は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
-計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
+計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：[MtF.Wiki](https://mtf.wiki)
+<i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：[MtF.wiki](https://mtf.wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> ミラー：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
 
@@ -44,12 +44,12 @@ Discord [![Discord][shields/discord]](https://233.plus/discord)
 
 Twitter {{< shields/twitter mtfwiki >}}
 
-GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
 
 Email <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 
 ## 感謝
 
