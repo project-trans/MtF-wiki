@@ -6,12 +6,12 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-Wiki](/new/mtf-wiki-long.svg)
+![MtF-wiki](/new/mtf-wiki-long.svg)
 
 {{< mtf-wiki >}} ھەقسىز، ئوچۇق ۋە ئۈزلۈكسىز يېڭىلانغان كۋاشىڭبيې-ئاياللار بىلىملىرىنى بىرلەشتۈرۈش تور بېكىتى بولۇشقا ۋەدە بېرىدۇ.
 
 
-تۈرنىڭ <i class="bi bi-github"></i> GitHub Repo: <https://github.com/mtf-wiki/MtF-Wiki>
+تۈرنىڭ <i class="bi bi-github"></i> GitHub Repo: <https://github.com/mtf-wiki/MtF-wiki>
 
 تۈرنىڭ <i class="bi bi-link-45deg"></i> تور ئادرېس: <https://MtF.wiki>
 
@@ -41,12 +41,12 @@ Discord [![Discord][badge-discord]](https://233.plus/discord)
 
 Twitter {{< shields/twitter mtfwiki >}}
 
-GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
 
 ئېلېكترونلۇق يوللانما <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 
 ## رەھمەت
 

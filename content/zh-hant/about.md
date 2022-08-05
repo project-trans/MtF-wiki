@@ -6,13 +6,13 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-Wiki](/new/mtf-wiki-long.svg)
+![MtF-wiki](/new/mtf-wiki-long.svg)
 
 {{< mtf-wiki >}} 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
 
-本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
+本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
 
-本專案 <i class="bi bi-link-45deg"></i> 主頁：[MtF.Wiki](https://mtf.wiki)
+本專案 <i class="bi bi-link-45deg"></i> 主頁：[MtF.wiki](https://mtf.wiki)
 
 <i class="bi bi-link-45deg"></i> 備用入口：<https://mtfwiki.cn>，<https://mtfwiki.com>
 
@@ -46,12 +46,12 @@ Discord [![Discord][shields/discord]](https://233.plus/discord)
 
 Twitter {{< shields/twitter mtfwiki >}}
 
-GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
 
 電郵 <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 
 ## 致謝
 

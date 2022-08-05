@@ -6,13 +6,13 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-Wiki](/new/mtf-wiki-long.svg)
+![MtF-wiki](/new/mtf-wiki-long.svg)
 
 {{< mtf-wiki >}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site.
 
-Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
+Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project：[MtF.Wiki](https://mtf.wiki)
+<i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project：[MtF.wiki](https://mtf.wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
 
@@ -44,12 +44,12 @@ Through Discord [![Discord][shields/discord]](https://233.plus/discord)
 
 Twitter {{< shields/twitter mtfwiki >}}
 
-Through GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+Through GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
 
 Via Email <hi@mtf.wiki>
 
 [shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 
 ## Acknowledgement
 

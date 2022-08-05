@@ -25,7 +25,7 @@ footer:
         - title: باش بەت
           link: https://mtf.wiki
         - title: كود
-          link: https://github.com/mtf-wiki/MtF-Wiki
+          link: https://github.com/mtf-wiki/MtF-wiki
     - title: ئالاقە
       links:
         - title: Discord

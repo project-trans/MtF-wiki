@@ -8,8 +8,8 @@ title: 贡献者指南
 1. 发送邮件到 <hi@mtf.wiki>
 1. 在 [TransLand](https://chat.transland.lgbt) 发布主题
 
-[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
-[new-issue]: https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose
+[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
+[new-issue]: https://github.com/mtf-wiki/MtF-wiki/issues/new/choose
 
 {{< notice info "友情提醒" >}}
 绝对不要做出任何道德绑架的行为！！！
@@ -69,8 +69,8 @@ title: 贡献者指南
 - 图片类附件建议建议存放至 [`/static/images/`][images] 目录下，在正文中使用 `/images/+路径` 的方式引用；
 - PDF 等文档类附件建议存放至 [`/static/documents/`][documents] 目录下，在正文中使用 `/documents/+路径` 的方式引用；
 
-[images]: https://github.com/mtf-wiki/MtF-Wiki/tree/master/static/images/
-[documents]: https://github.com/mtf-wiki/MtF-Wiki/tree/master/static/documents/
+[images]: https://github.com/mtf-wiki/MtF-wiki/tree/master/static/images/
+[documents]: https://github.com/mtf-wiki/MtF-wiki/tree/master/static/documents/
 
 ### 表格
 

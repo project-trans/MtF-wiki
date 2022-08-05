@@ -11,8 +11,8 @@ author: sceext2
 作者：{{< github/profile "sceext2">}}
 
 來源:
-<https://github.com/mtf-wiki/MtF-Wiki/issues/384>
-<https://github.com/mtf-wiki/MtF-Wiki/issues/425>
+<https://github.com/mtf-wiki/MtF-wiki/issues/384>
+<https://github.com/mtf-wiki/MtF-wiki/issues/425>
 
 这是我 2022 年 2 月 在 北京友谊医院 的 声带+喉结 手术经历, 仅供参考.
 
@@ -647,7 +647,7 @@ HQ 医生给了 2 张量表 (纸质版), 友谊医院的焦虑自评量表, 抑�
 
 感觉还有点头晕.
 
-22:39 感觉好一点了, 准备更新 github <https://github.com/mtf-wiki/MtF-Wiki/issues/384>
+22:39 感觉好一点了, 准备更新 github <https://github.com/mtf-wiki/MtF-wiki/issues/384>
 
 今天是吃糖 1241 天呢.
 

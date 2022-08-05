@@ -16,7 +16,7 @@ title: 长沙｜张小崔
 
 ## 问诊细节
 
-**经原作者[许可](https://github.com/mtf-wiki/MtF-Wiki/issues/481#issuecomment-1146789611)，整理自[中南大学湘雅二医院跨性别就诊经历 · Lhc_fl Home](https://lhcfl.github.io/2021/04/16/%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E6%B8%B8%E8%AE%B0/)**
+**经原作者[许可](https://github.com/mtf-wiki/MtF-wiki/issues/481#issuecomment-1146789611)，整理自[中南大学湘雅二医院跨性别就诊经历 · Lhc_fl Home](https://lhcfl.github.io/2021/04/16/%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E6%B8%B8%E8%AE%B0/)**
 
 心理咨询门诊位于精卫楼六楼，就诊人员较多可能需要长时间耐心等待。
 
