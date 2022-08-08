@@ -16,16 +16,24 @@ weight: 10
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 郵箱: <awesome-trans@outlook.com>
 
-### FtM (Female to Male) Wiki
+### FtM.wiki (Female to Male) {#ftmwiki}
 
 <https://ftm.wiki>
 
-### Limelight
+## RLE.wiki (Real-life experience) {#rlewiki}
 
-『性/別多元+』交流論壇（日常 &amp; 輕理論）
+<https://rle.wiki>
 
-{{< alert theme="success" >}}
-Limelight 正在改革中，暫停用戶註冊。
-{{< /alert >}}
+## kuaer.club (跨性别导航) {#trans-nav}
 
-<https://limelight.moe>
+<https://kuaer.club>
+
+## TransLand（跨岛） {#transland}
+
+> 插上彩虹的翅膀，向着梦想翱翔
+
+一个跟跨性别生活有关的论坛。
+
+在这里，你或许可以找到一些有关跨性别生活的帮助，或者与 TA 人分享自己的生活。
+
+<https://chat.transland.lgbt>
