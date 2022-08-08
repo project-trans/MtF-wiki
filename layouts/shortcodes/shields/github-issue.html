@@ -1,8 +1,7 @@
 {{- $repo := .Get 0 -}}
 {{- $qs := querify "style" "flat-square" -}}
-<a href="https://github.com/{{ $repo }}/issues/new/choose">
+<a class="shields" href="https://github.com/{{ $repo }}/issues/new/choose">
   <img
-    class="shields-icon"
     alt="{{ $repo }} issues"
     src="https://img.shields.io/github/issues/{{ $repo }}?{{ $qs | safeURL }}"
   />

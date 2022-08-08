@@ -1,3 +1,8 @@
 {{- $message := .Get 0 -}}
 {{- $qs := querify "label" "QQ" "logo" "Tencent QQ" "message" $message "color" "blue" "style" "flat-square" -}}
-<a href="https://twitter.com//{{ $message }}"></a><img class="shields-icon" alt="QQ {{ $message }}" src="https://img.shields.io/static/v1?{{ $qs | safeURL }}" />
+<a class="shields" href="https://twitter.com//{{ $message }}">
+  <img
+    alt="QQ {{ $message }}"
+    src="https://img.shields.io/static/v1?{{ $qs | safeURL }}"
+  >
+</a>
