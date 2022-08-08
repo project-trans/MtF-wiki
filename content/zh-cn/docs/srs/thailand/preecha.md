@@ -3,13 +3,14 @@ title: PAI (Burin, Sutin)
 aliases: burin
 keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, burin, 布林]
 ---
-医院：[Preecha Aesthetic Institute (PAI)](https://pai.co.th)
+
+医院：[Preecha Aesthetic Institute](https://pai.co.th)
 
 邮箱与预约：<consult@pai.co.th>
 
 电话：{{< telephone "+662 715-0111" >}}
 
-地点：[898, 1 Thong Lo Rd, Khlong Toei Nuea, Watthana, Bangkok 10110](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
+所在医院：[Preecha Aesthetic Institute](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
 
 主要提供：
 

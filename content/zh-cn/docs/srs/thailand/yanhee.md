@@ -2,6 +2,8 @@
 title: Yanhee 医院
 ---
 
+所在医院：[Yanhee Hospital](https://goo.gl/maps/2mYsALRVJe3xjPEeA)
+
 医生：
 
 - Dr. Juta
