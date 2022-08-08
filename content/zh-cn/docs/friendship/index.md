@@ -3,21 +3,31 @@ title: 友情合作
 weight: 10
 ---
 
-## QQ 交流群 {#qq-group}
+## QQ 交流群 {#tencent}
 
 - <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields/qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
   听说你们小药娘人均写代码
 - <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{< shields/qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
   ~~哪个家伙又在用补佳乐排卡？~~
-- **411 MtF SRS 术后交流群**：该 [411]({{< ref "sh411" >}}) MtF SRS 术后交流群采取纯邀请制，请发送邮件至 <411-mtf-srs@kuaer.club> 经过交叉验证后会邀请加入
-- **泰国手术交流群**：已安排、正在、已经在泰国手术的姐妹，发送邮件至 <mtfwiki@estela.cn>，请注明你的医生。
 
-## Telegram 交流群 {#tg-group}
+## SRS 手术交流群
+
+- **[411]({{< ref "sh411" >}}) MtF SRS 手术交流群**
+
+  已预约 或 已经完成手术 的姐妹，
+  请发送邮件至 <411-mtf-srs@kuaer.club> 请注明你的手术时间。
+
+- **泰国手术交流群**
+
+  已预约、正在泰国 或 已经在泰国手术 的姐妹，
+  请发送邮件至 <mtfwiki@estela.cn> 请注明你的医生。
+
+## Telegram 交流群 {#telegram}
 
 - 逆光小镇：联系 {{< shields/telegram rikablossom >}} 加入
 - 跨儿音游组：{{< shields/telegram otoge_trans >}}
 
-## Matrix 交流群
+## Matrix 交流群 {#matrix}
 
 - Arch 木桶饭：{{< shields/matrix arch-mtf matrix.malacology.net >}}
 
@@ -37,22 +47,24 @@ weight: 10
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 邮箱：<awesome-trans@outlook.com>
 
-## FtM.wiki (Female to Male)
+## FtM.wiki (Female to Male) {#ftmwiki}
 
 <https://ftm.wiki>
 
-## RLE.wiki (Real-life experience)
+## RLE.wiki (Real-life experience) {#rlewiki}
 
 <https://rle.wiki>
 
-## kuaer.club (跨性别导航)
+## kuaer.club (跨性别导航) {#trans-nav}
 
 <https://kuaer.club>
 
-## TransLand（跨岛）
+## TransLand（跨岛） {#transland}
 
 > 插上彩虹的翅膀，向着梦想翱翔
 
-一个跟跨性别生活有关的论坛。在这里，你或许可以找到一些有关跨性别生活的帮助，或者与ta人分享自己的生活。
+一个跟跨性别生活有关的论坛。
+
+在这里，你或许可以找到一些有关跨性别生活的帮助，或者与 TA 人分享自己的生活。
 
 <https://chat.transland.lgbt>
