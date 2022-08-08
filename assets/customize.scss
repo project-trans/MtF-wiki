@@ -40,15 +40,8 @@ a.github-profile {
   width: max-content;
   max-width: max-content !important;
   white-space: nowrap;
-  table-layout: fixed;
-  word-break: break-all;
   th {
     text-align: center;
-  }
-  th,
-  td {
-    border: 1px solid black;
-    border-collapse: collapse;
   }
 }
 .mtf-wiki > {
