@@ -9,6 +9,7 @@ weight: 10
 站點,介紹
 [KuaEr.club](https://kuaer.club),跨性別相關內容導航站
 [FtM.wiki](https://ftm.wiki),兄弟站，跨性別男性（FtM）百科
+[Transland](https://chat.transland.lgbt),一个跟跨性别生活有关的论坛
 ```
 
 更多站點導航見 [KuaEr.club](https://kuaer.club)
@@ -22,7 +23,7 @@ QQ,跨兒音遊組,[{{< shields/qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=
 Telegram,Backlight.Town 逆光小鎮,聯絡 {{< shields/telegram rikablossom >}} 加入
 Telegram,跨兒音遊組,{{< shields/telegram otoge_trans >}}
 Matrix,Arch 木桶飯,{{< shields/matrix arch-mtf matrix.malacology.net >}}
-Discord,MtF.wiki,https://233.plus/discord
+Discord,MtF.wiki Official,https://233.plus/discord
 ```
 
 ## SRS 手術交流群

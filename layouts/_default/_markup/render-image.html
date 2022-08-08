@@ -1,5 +1,24 @@
-{{- if hasPrefix .Destination "https://img.shields.io" -}}
-<img class="shields-icon" src="{{ .Destination }}" loading="lazy" alt="{{ .Text }}" />
+{{- if hasPrefix .Destination "http" -}}
+<p class="md__image">
+  <img
+    src="{{ .Destination }}"
+    loading="lazy"
+    {{ with .Text}} alt="{{ . }}" {{ end }}
+    {{ with .Title}} title="{{ . }}" {{ end }}
+  >
+</p>
 {{- else -}}
-<p class="md__image"><img src="{{ .Destination }}" loading="lazy" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} /></p>
+{{- $resource := .Page.Resources.Get .Destination | default (resources.Get .Destination) -}}
+{{- $destination := .Destination -}}
+{{- if $resource -}}{{ $destination = $resource.Permalink }}{{- end -}}
+<p class="md__image">
+  <img
+    src="{{ $destination }}"
+    loading="lazy"
+    width="{{ $resource.Width }}"
+    height="{{ $resource.Height }}"
+    {{ with .Text }} alt="{{ . }}" {{ end }}
+    {{ with .Title }} title="{{ . }}" {{ end }}
+  >
+</p>
 {{- end -}}

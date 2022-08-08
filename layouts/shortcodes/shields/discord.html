@@ -1,0 +1,11 @@
+{{- $id := .Get 0 -}}
+{{- $message := .Get 1 -}}
+{{- $href := .Get 2 -}}
+{{- $qs := querify "style" "flat-square" -}}
+<a href="{{ $href }}">
+  <img
+    class="shields-icon"
+    alt="Discord {{ $message }}"
+    src="https://img.shields.io/discord/{{ $id }}?{{ $qs | safeURL }}"
+  />
+</a>

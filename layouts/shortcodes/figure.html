@@ -1,0 +1,15 @@
+{{- $src := .Get "src" -}}
+{{- $width := .Get "width" -}}
+{{- $height := .Get "height" -}}
+{{- $resource := .Page.Resources.Get $src | default (resources.Get $src) -}}
+{{- $hashtag := .Get "hashtag" | default (path.BaseName $src) | anchorize -}}
+<figure id="{{ $hashtag }}">
+  <img
+    src="{{ $resource.Permalink }}"
+    width="{{ $width | default $resource.Width }}"
+    height="{{ $height | default $resource.Height }}"
+  >
+  {{- with .Get "title" -}}
+  <figcaption><h4>{{ . }}</h4></figcaption>
+  {{- end -}}
+</figure>
