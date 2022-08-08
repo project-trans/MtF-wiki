@@ -3,9 +3,9 @@ title: PAI (Burin, Sutin)
 aliases: burin
 keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, burin, 布林]
 ---
-医院：[Preecha Aesthetic Institute (PAI)](https://pai.co.th/)
+医院：[Preecha Aesthetic Institute (PAI)](https://pai.co.th)
 
-邮箱与预约：<Consult@pai.co.th>
+邮箱与预约：<consult@pai.co.th>
 
 电话：{{< telephone "+662 715-0111" >}}
 
@@ -20,7 +20,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 ### Burin Wangjiraniran（布林）
 
-医生 Facebook：[dr.Burin](https://www.facebook.com/dr.Burin)
+医生 Facebook：[Dr. Burin](https://www.facebook.com/dr.Burin)
 
 Burin 的技术使用改进的 PI，用一部分阴囊皮肤作为小阴唇，用阴茎皮肤（并在末端与取下的另一部分阴囊皮片缝合，当材料不足时）作为阴道内壁，使用带有包皮的龟头作为阴蒂和阴蒂包皮，同时用适当的缝线构造阴蒂的外形，并使用尿道黏膜覆盖阴道前庭和阴道口，如果有材料不足的情况下会采用腹部的外皮组织作为构建阴唇旁外皮。此外，Burin 也接受结肠 SRS．总体而言，Burin 能实现大致合理的结构，但历史案例小阴唇下方和 Kamol 一样较为不自然，近期已经有所改善，虽然外观还是不如 Suporn．
 
