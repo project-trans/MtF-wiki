@@ -1,8 +1,11 @@
-img.shields-icon {
-  display: inline-block;
-  vertical-align: text-bottom;
-  border: none;
-  border-radius: 0%;
+a.shields {
+  display: inline;
+  img {
+    display: inline;
+    vertical-align: text-bottom;
+    border: none;
+    border-radius: 0%;
+  }
 }
 a.github-profile {
   display: inline-block;
@@ -34,10 +37,18 @@ a.github-profile {
   }
 }
 .csv-table {
-  margin: 0;
+  width: max-content;
+  max-width: max-content !important;
   white-space: nowrap;
+  table-layout: fixed;
+  word-break: break-all;
   th {
     text-align: center;
+  }
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
   }
 }
 .mtf-wiki > {
@@ -145,15 +156,15 @@ a.anchor {
     color: #96ccff;
   }
 }
-
 .highlight {
   code,
-  pre, span {
+  pre,
+  span {
     font-family: "Courier New", Courier, monospace;
-    background-color: transparent!important;
+    background-color: transparent !important;
   }
   .lntd code {
-    margin: 0!important;
-    padding: 0!important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 }

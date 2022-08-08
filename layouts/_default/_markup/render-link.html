@@ -1,7 +1,7 @@
 {{- if hasPrefix .Destination "mailto:" -}}
 {{- $text := replace (replace .Text "-" "--") "_" "__" -}}
-<a data-email="{{ .Destination | base64Encode }}">
-  <img class="shields-icon" src="https://img.shields.io/badge/email-{{ $text }}-blue.svg?style=flat-square" />
+<a class="shields" data-email="{{ .Destination | base64Encode }}">
+  <img src="https://img.shields.io/badge/email-{{ $text }}-blue.svg?style=flat-square" />
 </a>
 {{- else -}}
 <a href="{{ .Destination }}"{{ with .Title}} title="{{ . }}"{{ end }}>

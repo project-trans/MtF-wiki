@@ -40,16 +40,13 @@ weight: 0
 
 ## 联系方式
 
-Discord [![Discord][badge-discord]](https://233.plus/discord)
+Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://233.plus/discord" >}}
 
-Twitter {{< shields/twitter mtfwiki >}}
+Twitter {{< shields/twitter MtFwikiJapan >}}
 
-GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
+GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
 
 邮件 <hi@mtf.wiki>
-
-[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 
 ## ~~办公地点~~
 

@@ -40,16 +40,13 @@ and other lovely guys who give us help and information.
 
 ## Contact
 
-Through Discord [![Discord][shields/discord]](https://233.plus/discord)
+Through Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://233.plus/discord" >}}
 
-Twitter {{< shields/twitter mtfwiki >}}
+Twitter {{< shields/twitter MtFwiki >}}
 
-Through GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
+Through GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
 
 Via Email <hi@mtf.wiki>
-
-[shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 
 ## Acknowledgement
 

@@ -2,4 +2,4 @@
 {{- $message := .Get 1 -}}
 {{- $link := .Get 2 -}}
 {{- $qs := querify "label" $type "logo" $type "message" $message "color" "blue" "style" "flat-square" -}}
-<a href="{{ $link }}"><img class="shields-icon" alt="{{ $type }} {{ $message }}" src="https://img.shields.io/static/v1?{{ $qs | safeURL }}" /></a>
+<a class="shields" href="{{ $link }}"><img alt="{{ $type }} {{ $message }}" src="https://img.shields.io/static/v1?{{ $qs | safeURL }}" /></a>
