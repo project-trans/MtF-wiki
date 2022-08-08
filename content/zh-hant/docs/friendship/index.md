@@ -16,16 +16,14 @@ weight: 10
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 郵箱: <awesome-trans@outlook.com>
 
-### FtM (Female to Male) Wiki
+### FtM.wiki (Female to Male)
 
 <https://ftm.wiki>
 
-### Limelight
+## RLE.wiki (Real-life experience)
 
-『性/別多元+』交流論壇（日常 &amp; 輕理論）
+<https://rle.wiki>
 
-{{< alert theme="success" >}}
-Limelight 正在改革中，暫停用戶註冊。
-{{< /alert >}}
+## kuaer.club (跨性别导航)
 
-<https://limelight.moe>
+<https://kuaer.club>
