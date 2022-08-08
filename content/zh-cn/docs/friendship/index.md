@@ -3,12 +3,16 @@ title: 友情合作
 weight: 10
 ---
 
-## QQ 交流群 {#tencent}
+## 站点导航
 
-- <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields/qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
-  听说你们小药娘人均写代码
-- <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{< shields/qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
-  ~~哪个家伙又在用补佳乐排卡？~~
+| 站点                                     | 简介                                                 |
+| ---------------------------------------- | ---------------------------------------------------- |
+| [KuaEr.club](https://kuaer.club)         | 跨性别相关内容导航站                                 |
+| [FtM.wiki](https://ftm.wiki)             | 兄弟站，跨性别男性（FTM）百科                        |
+| [RLE.wiki](https://rle.wiki)             | 真实生活体验相关内容整理，由原 MtF.wiki 校园板块拆出 |
+| [Transland](https://chat.transland.lgbt) | 一个跟跨性别生活有关的论坛                           |
+
+更多站点导航见[KuaEr.club](https://kuaer.club)
 
 ## SRS 手术交流群
 
@@ -17,17 +21,24 @@ weight: 10
   已预约 或 已经完成手术 的姐妹，
   请发送邮件至 <411-mtf-srs@kuaer.club> 请注明你的手术时间。
 
-- **[泰国]({{< ref "thailand" >}}) 手术交流群**
+- **[泰国]({{< ref "thailand" >}}) 手术交流群**（QQ 与 Telegram）
 
   已预约、正在泰国 或 已经在泰国手术 的姐妹，
   请发送邮件至 <mtfwiki@estela.cn> 请注明你的医生。
 
-## Telegram 交流群 {#telegram}
+## 生活兴趣交流群
+
+### QQ 交流群 {#tencent}
+
+- <img src="trans-arch.png" class="inline-img">**Arch 木桶饭** [{{< shields/qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
+- <img src="trans-otoge.png" class="inline-img" alt="跨儿音游组"> [{{< shields/qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
+
+### Telegram 交流群 {#telegram}
 
 - 逆光小镇：联系 {{< shields/telegram rikablossom >}} 加入
 - 跨儿音游组：{{< shields/telegram otoge_trans >}}
 
-## Matrix 交流群 {#matrix}
+### Matrix 交流群 {#matrix}
 
 - Arch 木桶饭：{{< shields/matrix arch-mtf matrix.malacology.net >}}
 
@@ -46,25 +57,3 @@ weight: 10
 - Twitter：{{< shields/twitter awesometrans_zh >}}
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 邮箱：<awesome-trans@outlook.com>
-
-## FtM.wiki (Female to Male) {#ftmwiki}
-
-<https://ftm.wiki>
-
-## RLE.wiki (Real-life experience) {#rlewiki}
-
-<https://rle.wiki>
-
-## kuaer.club (跨性别导航) {#trans-nav}
-
-<https://kuaer.club>
-
-## TransLand（跨岛） {#transland}
-
-> 插上彩虹的翅膀，向着梦想翱翔
-
-一个跟跨性别生活有关的论坛。
-
-在这里，你或许可以找到一些有关跨性别生活的帮助，或者与 TA 人分享自己的生活。
-
-<https://chat.transland.lgbt>

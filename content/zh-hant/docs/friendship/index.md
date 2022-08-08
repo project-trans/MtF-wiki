@@ -3,37 +3,37 @@ title: 友情合作
 weight: 10
 ---
 
-### Telegram 交流群 {#tg-group}
+## 站點導航
 
-- 逆光小鎮  聯繫 {{< shields/telegram rikablossom >}} 加入
-- 跨兒音遊組 {{< shields/telegram otoge_trans >}}
+| 站點                             | 簡介                          |
+| -------------------------------- | ----------------------------- |
+| [KuaEr.club](https://kuaer.club) | 跨性別相關內容導航站          |
+| [FtM.wiki](https://ftm.wiki)     | 兄弟站，跨性别男性（FTM）百科 |
 
-### awesome trans <i class="trans-flag"></i> (Twitter)
+更多站點導航見[KuaEr.club](https://kuaer.club)
 
-跨性別文檔整理，資訊轉發。歡迎私信、郵件，或者在 Twitter 上提到我們。
+## SRS 手術交流群
+
+- **[泰國]({{< ref "thailand" >}}) 手術交流群**（QQ 與 Telegram）
+
+  已預約、正在泰國 或 已經在泰國手術 的姐妹，
+  請傳送郵件至 <mtfwiki@estela.cn> 請註明你的醫生。
+
+## 生活興趣交流群
+
+### Telegram 交流群 {#telegram}
+
+- 逆光小鎮：聯絡 {{< shields/telegram rikablossom >}} 加入
+- 跨兒音遊組：{{< shields/telegram otoge_trans >}}
+
+### Matrix 交流群 {#matrix}
+
+- Arch 木桶飯：{{< shields/matrix arch-mtf matrix.malacology.net >}}
+
+## awesome trans <i class="trans-flag"></i> (Twitter)
+
+跨性別文件整理，資訊轉發。歡迎私信、郵件，或者在 Twitter 上提到我們。
 
 - Twitter：{{< shields/twitter awesometrans_zh >}}
 - Telegram：{{< shields/telegram awesometrans_zh >}}
-- 郵箱: <awesome-trans@outlook.com>
-
-### FtM.wiki (Female to Male) {#ftmwiki}
-
-<https://ftm.wiki>
-
-## RLE.wiki (Real-life experience) {#rlewiki}
-
-<https://rle.wiki>
-
-## kuaer.club (跨性别导航) {#trans-nav}
-
-<https://kuaer.club>
-
-## TransLand（跨岛） {#transland}
-
-> 插上彩虹的翅膀，向着梦想翱翔
-
-一个跟跨性别生活有关的论坛。
-
-在这里，你或许可以找到一些有关跨性别生活的帮助，或者与 TA 人分享自己的生活。
-
-<https://chat.transland.lgbt>
+- 郵箱：<awesome-trans@outlook.com>
