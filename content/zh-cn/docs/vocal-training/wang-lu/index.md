@@ -36,6 +36,6 @@ title: 深圳大学总医院｜王路
 
 文档：[嗓音功能训练略解](voice-training.pdf)
 
-来源：<https://twitter.com/youzibutaitian>
+来源：{{< shields/twitter YouZiBuTaiTian >}}
 
 备份：<https://aka.pw/voice-training>
