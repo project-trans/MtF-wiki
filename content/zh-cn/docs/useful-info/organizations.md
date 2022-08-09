@@ -7,64 +7,50 @@ title: 公益组织
 北京同志中心跨性别项目部是一个「立足北京，辐射全国」的、为中国跨性别群体积极开展倡导工作与服务工作的部门，成立于 2017 年 3 月。
 
 地区：北京
-微信公众号：「北同文化」（`beitong2021`）
+微信公众号：「[北同文化](weixin://beitong2021)」
 北同跨儿小助手 微信：{{< shields/wechat "transbjlgbt" >}}
 联系电话：{{< telephone "+86 010-6446-6970" >}}
-
-{{< weixin-qrcode "beitong2021" >}}
 
 ## 跨儿说
 
 地区：上海
-微信公众号：「跨儿说 TransTalks」（`TransTalks`）
-
-{{< weixin-qrcode "TransTalks" >}}
+微信公众号：「[跨儿说 TransTalks](weixin://TransTalks)」
 
 ## Lesgo
 
 LESGO 是由志愿者自发组成以女性为主体的 LGBT 公益社团。成立于 2010 年 12 月 4 日，LESGO 秉持积极、多元、平等、包容的理念，致力于推动苏州及周边地区同性恋、双性恋、跨性别等性少数女性的交流、沟通、记录和发声，促进公众认知，倡导社会平等多元，减少基于性和性倾向的歧视和偏见，维护和争取性少数权益。
 
 地区：苏州
-微信公众号：「lesgo 苏州拉拉公益小组」（`lesgosuzhoulala`）
+微信公众号：「[lesgo 苏州拉拉公益小组](weixin://lesgosuzhoulala)」
 微博：苏州 LESGO 公益小组
-
-{{< weixin-qrcode "lesgosuzhoulala" >}}
 
 ## 跨儿心理
 
 地区：广州
-微信公众号/微博：「跨儿心理」（`kuaerxinli`）
-
-{{< weixin-qrcode "kuaerxinli" >}}
+微信公众号/微博：「[跨儿心理](weixin://kuaerxinli)」
 
 ## 女友组
 
 女友组是一个青年女性领导的成立于广州的民间非盈利组织，是一个兼丰富多元的社群活动、包容尊重的社群文化为一体的志愿者小组。旨通过社群服务、公共教育与社区合作，打造富有凝聚力、值得信赖的社群，为性少数女性群体的成长与发展助力。
 
 地区：广州
-微信公众号：「女友组 girlfans」（`girlfans2009GZ`）
+微信公众号：「[女友组 girlfans](weixin://girlfans2009GZ)」
 微博：女友组
 网易云音乐：女友电台
-
-{{< weixin-qrcode "girlfans2009GZ" >}}
 
 ## 同城青少年资源中心
 
 同城青少年资源中心（简称同城或 GLCAC）是国内专注于推动校园性别平等教育，应对基于性别的校园暴力与欺凌及推动性与性别多元教育落实的民间团体组织。通过推动同志青少年社群发展、支持教师参与性/别教育、开展教育研究与倡议三方面的战略来倡议中国性别平等教育的落实。
 
-微信公众号：「GLCAC03」（`glcac-03`）
-
-{{< weixin-qrcode "glcac-03" >}}
+微信公众号：「[GLCAC03](weixin://glcac-03)」
 
 ## 云南平行健康咨询发展中心
 
 地区：昆明
-地址：[云南省 昆明市 西山区 鱼课司街 东寺巷 53 号 1 栋 2 单元 302 室](https://amap.com/place/B0FFJKX03E)
+地址：[云南平行健康咨询发展中心](https://amap.com/place/B0FFJKX03E)
 微博：<https://weibo.com/ynpx>
 Twitter：<https://twitter.com/YNParallel>
 Facebook：<https://facebook.com/ynparallel>
-微信公众号：「云南平行」（`ynpx087163379065`）
+微信公众号：「[云南平行](weixin://ynpx087163379065)」
 电话：{{< telephone "+86 0871-6337-9065" >}}、{{< telephone "+86 180-6482-4919" >}}
 QQ 群：{{< shields/qq 170530694 >}}
-
-{{< weixin-qrcode "ynpx087163379065" >}}

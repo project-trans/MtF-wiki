@@ -12,13 +12,9 @@ title: 重庆｜任正伽
 
 请如实填写实名信息
 
-微信订阅号：重医大附三院
+微信订阅号：[重医大附三院](weixin://cydfsy)
 
-{{< weixin-qrcode "cydfsy" >}}
-
-微信服务号：重庆医科大学附属第三医院
-
-{{< weixin-qrcode "gh_c2b8c274a91f" >}}
+微信服务号：[重庆医科大学附属第三医院](weixin://gh_c2b8c274a91f)
 
 手机 App：重庆医科大学附属第三医院
 
@@ -32,7 +28,7 @@ http://qrcenter.hsyuntai.com:7777/hs-med-qrcenter/r/60210/100?hosId=100039
 
 ## 出诊时间表
 
-以挂号界面为准，亦可参考[出诊/停诊信息](http://www.3-hospital-cqmu.com/server/chuzhen/)，后者不一定准确，但会说明原因。
+以挂号界面为准，亦可参考 [出诊/停诊信息](http://www.3-hospital-cqmu.com/server/chuzhen/)，后者不一定准确，但会说明原因。
 
 ## 问诊细节
 
