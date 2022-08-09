@@ -10,9 +10,7 @@ author: sceext2
 
 作者：{{< github/profile "sceext2">}}
 
-來源:
-<https://github.com/mtf-wiki/MtF-wiki/issues/384>
-<https://github.com/mtf-wiki/MtF-wiki/issues/425>
+來源：<https://github.com/mtf-wiki/MtF-wiki/issues/384>、<https://github.com/mtf-wiki/MtF-wiki/issues/425>
 
 这是我 2022 年 2 月 在 北京友谊医院 的 声带+喉结 手术经历, 仅供参考.
 

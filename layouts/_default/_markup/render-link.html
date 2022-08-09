@@ -5,6 +5,13 @@
 </a>
 {{- else -}}
 <a href="{{ .Destination }}"{{ with .Title}} title="{{ . }}"{{ end }}>
-{{- .Text | replaceRE "^https?://(www.?)?" "" | safeHTML -}}
+{{-
+.Text
+  | replaceRE "^https?://(www\\.?)?" ""
+  | replaceRE "^github\\.com\\/([^/]+)\\/([^/]+)\\/issues\\/(\\d+)" "$1/$2#$3"
+  | replaceRE "#issuecomment-\\d+$" " (comment)"
+  | replaceRE "^mtf-wiki/MtF-wiki#(\\d+)" "#$1"
+  | safeHTML
+-}}
 </a>
 {{- end -}}
