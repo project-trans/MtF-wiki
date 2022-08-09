@@ -45,7 +45,7 @@ Discord,MtF.wiki Official,https://233.plus/discord
 
 - QQ 空间主机：`2776456754`
 - QQ 空间备用机：`970611264`（平时停用，紧急事态下启用。）
-- Limelight：<https://limelight.moe/u/跨性别相关bot>（Limelight 正在改革中，暂停用户注册）
+- Limelight：<https://limelight.moe/u/跨性别相关bot>
 
 ## awesome trans <i class="trans-flag"></i> (Twitter) {#awesome-trans}
 
