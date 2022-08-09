@@ -3,6 +3,10 @@
 <a class="shields" data-email="{{ .Destination | base64Encode }}">
   <img src="https://img.shields.io/badge/email-{{ $text }}-blue.svg?style=flat-square" />
 </a>
+{{- else if hasPrefix .Destination "weixin:" -}}
+{{- $parsed := urls.Parse .Destination -}}
+{{- $title := .Title | default (printf "微信号：%s" $parsed.Host) -}}
+<a href="https://open.weixin.qq.com/qr/code?username={{ $parsed.Host }}" title="{{ $title }}">{{- .Text -}}</a>
 {{- else -}}
 <a href="{{ .Destination }}"{{ with .Title}} title="{{ . }}"{{ end }}>
 {{-
