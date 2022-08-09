@@ -1,9 +1,9 @@
 <!-- markdownlint-disable-next-line -->
 [![MtF-wiki][logo-long]][wiki-url]
 
-镜像站：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
+镜像站：[MtFwiki.cn](https://mtfwiki.cn)、[MtFwiki.com](https://mtfwiki.com)
 
-兄弟站：[ftm.wiki](https://ftm.wiki)
+兄弟站：[FtM.wiki](https://ftm.wiki)
 
 # Welcome to **MtF.wiki**
 
@@ -56,7 +56,7 @@ MtF.wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 Discord [![Discord][badge-discord]](https://233.plus/discord)
 
-Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
+Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
 
@@ -66,7 +66,7 @@ GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/
 [badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 [badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Stars
 [badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Watch
-[badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
+[badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo

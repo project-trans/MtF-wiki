@@ -12,9 +12,9 @@ weight: 0
 
 計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：[MtF.wiki](https://mtf.wiki)
+<i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：<https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> ミラー：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
+<i class="bi bi-link-45deg" aria-label="Website"></i> ミラー：<https://MtFwiki.cn>、<https://MtFwiki.com>
 
 兄弟サイト: <https://FtM.wiki>
 

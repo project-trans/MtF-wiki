@@ -12,9 +12,11 @@ weight: 0
 
 本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
 
-本專案 <i class="bi bi-link-45deg"></i> 主頁：[MtF.wiki](https://mtf.wiki)
+本專案
 
-<i class="bi bi-link-45deg"></i> 備用入口：<https://mtfwiki.cn>，<https://mtfwiki.com>
+<i class="bi bi-link-45deg"></i> 主頁：<https://MtF.wiki>
+
+<i class="bi bi-link-45deg"></i> 備用入口：<https://MtFwiki.cn>，<https://MtFwiki.com>
 
 兄弟站：<https://FtM.wiki>
 
@@ -44,7 +46,7 @@ weight: 0
 
 Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://233.plus/discord" >}}
 
-Twitter {{< shields/twitter MtFwikiJapan >}}
+Twitter {{< shields/twitter MtFwiki >}}
 
 GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
 

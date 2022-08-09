@@ -12,7 +12,9 @@ weight: 0
 
 本项目 <i class="bi bi-github"></i> GitHub 仓库：<https://github.com/mtf-wiki/MtF-wiki>
 
-本项目 <i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
+本项目
+
+<i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
 
 <i class="bi bi-link-45deg"></i> 同步镜像：<https://MtFwiki.cn>、<https://MtFwiki.com>
 
