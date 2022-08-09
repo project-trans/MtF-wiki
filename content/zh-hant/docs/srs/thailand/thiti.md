@@ -4,7 +4,10 @@ title: Thiti 醫生
 
 手術費用：
 
-- 皮瓣 {{< currency from="THB" to="TWD" value="260000" >}}
+```csv
+手術方式,價格
+皮瓣,{{< currency from="THB" to="TWD" value="260000" >}}
+```
 
 醫療中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
 微信公眾號「破繭成碟 BY 梁金」

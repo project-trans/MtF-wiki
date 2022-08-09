@@ -17,13 +17,16 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 手術費用
 
-- 0 深度 {{< currency from="THB" value="257250" >}}
-- PI 皮瓣 {{< currency from="THB" value="300300" >}}
-- 非 PI 皮瓣 {{< currency from="THB" value="321000" >}}
-- 非 PI + 腹股溝皮瓣 {{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-- 結腸 {{< currency from="THB" value="472500" >}}
-- 結腸（腹腔鏡） {{< currency from="THB" value="577500" >}}
-- 腹膜（腹腔鏡）{{< currency from="THB" value="592800" >}}
+```csv
+手術方式,價格
+0 深度,{{< currency from="THB" value="257250" >}}
+PI 皮瓣,{{< currency from="THB" value="300300" >}}
+非 PI 皮瓣,{{< currency from="THB" value="321000" >}}
+非 PI + 腹股溝皮瓣,{{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
+結腸,{{< currency from="THB" value="472500" >}}
+結腸（腹腔鏡）,{{< currency from="THB" value="577500" >}}
+腹膜（腹腔鏡）,{{< currency from="THB" value="592800" >}}
+```
 
 酒店費用：出院後，前 14 天須在下方指定酒店進行恢復，之後可自行選擇其他酒店。需要 3 ~ 4 周左右。
 

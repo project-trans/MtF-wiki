@@ -10,7 +10,7 @@ title: 泰国｜Yoskarn
 
 泰国宋育医生的声带手术技术在国际上来说是很不错的， 很多欧美日本姐妹都选择在这里做。
 
-**手术费用**：{{< currency from="THB" value="180000" >}}，跟喉结一起做的费用是{{< currency from="THB" value="210000" >}}.
+**手术费用**：{{< currency from="THB" value="180000" >}}，跟喉结一起做的费用是 {{< currency from="THB" value="210000" >}}.
 
 网站<http://www.voice-surgery.com/> （医生网站上有声音效果）
 

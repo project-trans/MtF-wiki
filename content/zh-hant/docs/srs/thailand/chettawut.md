@@ -22,15 +22,18 @@ title: Chettawut 醫生
 
 手術費用：（注：此處費用為從上方中介梁金處獲得的報價，其他方式獲得的報價可能有所差異）
 
-- 零深度（ {{< currency from="THB" to="TWD" value="330000" >}}
-- 皮瓣（ {{< currency from="THB" to="TWD" value="350000" >}}
-- 結腸 {{< currency from="THB" to="TWD" value="450000" >}}
-- 結腸（腹腔鏡）{{< currency from="THB" to="TWD" value="650000" >}}
-- 腹膜 {{< currency from="THB" to="TWD" value="530000" >}}
+```csv
+手術方式,價格
+零深度,{{< currency from="THB" value="330000" >}}
+皮瓣,{{< currency from="THB" value="350000" >}}
+結腸,{{< currency from="THB" value="450000" >}}
+結腸（腹腔鏡）,{{< currency from="THB" value="650000" >}}
+腹膜,{{< currency from="THB" value="530000" >}}
+```
 
 酒店費用：大概需要 3 ~ 4 周。
 
-- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" to="TWD" value="1100" >}}
+- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" value="1100" >}}
 
 <!-- 預約可以找中介，也可以透過 <chettawut@gmail.com> 或 <cset@truemail.co.th> 聯絡蔡醫生 -->
 <!-- 因改至 WIH 醫院，原聯絡方法存疑 -->
