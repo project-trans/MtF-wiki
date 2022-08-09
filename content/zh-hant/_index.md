@@ -31,7 +31,7 @@ footer:
         - title: Discord
           link: https://233.plus/discord
         - title: Twitter
-          link: https://twitter.com/mtfwiki
+          link: https://twitter.com/MtFwiki
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: 電郵
