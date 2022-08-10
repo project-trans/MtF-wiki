@@ -5,7 +5,7 @@ slug: overview
 weight: 1
 ---
 
-## 综述
+## 综述 {#overview}
 
 1. 未满 18 周岁时
    大多数情况下需要家属陪同
@@ -14,7 +14,25 @@ weight: 1
    无需家属陪同，**但仍需家属同意**
    可以进行 [HRT]({{< ref "hrt-res-overview" >}}) 治疗，但是根据《性别重置技术管理规范》要求无法进行 [SRS]({{< ref "srs-overview-china" >}})
 
-## 问诊问题
+## 关于诊断标准 {#standards}
+
+当前最新标准为 [ICD-11](https://zh.wikipedia.org/wiki/ICD-11) 和 [DSM-5](https://zh.wikipedia.org/wiki/DSM-5)
+
+```csv
+标准,诊断,备注
+ICD-11/HA60,性别不一致,
+ICD-11/LD2A,性发育畸形,两性畸形
+ICD-10/F64,易性症,已过时
+ICD-10/Q56,性别不清,已过时，两性畸形
+DSM-5,性别烦躁（GD）,
+DSM-4,性别认同障碍（GID）,已过时（为 DSM-3 的延续）
+CCMD-3/F64,性身份障碍,已过时
+```
+
+CCMD-3 为《中国精神障碍分类及诊断标准》后被 ICD-10 取代，
+自从 2022 年 4 月起开始实施 [ICD-11]({{< ref "icd11" >}})
+
+## 问诊问题 {#problems}
 
 可能会询问下列问题
 
@@ -31,7 +49,7 @@ weight: 1
 
 在问诊中可能会要求做这些 [量表]({{< ref "self-test" >}})
 
-## 诊断证明
+## 诊断证明 {#proof}
 
 目前已知的给出 **诊断证明** 的 **行为模式** 有如下几种（平行）
 
