@@ -7,7 +7,7 @@ title: 山东省精神卫生中心
 - [胡蕾](https://www.haodf.com/doctor/293557.html)
 - [张敬悬](https://www.haodf.com/doctor/119561.html) {{< tag/neg "需家属介入" >}}
 - [曹秉玉](https://www.haodf.com/doctor/119528.html) {{< tag/neg "需家属介入" >}}
-- [齐素芳](https://www.haodf.com/doctor/6964430522.html) {{< tag/pos "和蔼" >}}
+- [齐素芳](https://www.haodf.com/doctor/6964430522.html) {{< tag/neg "需家属介入" >}} {{< tag/pos "和蔼" >}}
 - [陈忠](https://www.haodf.com/doctor/6964430516.html)
 - [王洪军](https://www.haodf.com/doctor/3133959974.html)
 
@@ -49,7 +49,7 @@ title: 山东省精神卫生中心
 
 - **胡蕾** 的号很难挂
   一般两分钟之内就会被抢光，建议卡点抢，多试几次，挂尽可能靠后的号，也可以试试放号时间之后捡漏看有没有退号的
-- **曹秉玉** 相对容易挂号
+- **曹秉玉** 相对容易挂号（不建议 携带家属 与 该医生 进行初诊）
   但对于病历记录，有诱导说出她心中满意的陈述，而非客观事实。
   该医生可能在用词上相对有点冒犯，因医生年纪较大，请适当体谅。
 
