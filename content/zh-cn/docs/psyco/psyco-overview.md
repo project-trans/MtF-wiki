@@ -16,17 +16,21 @@ weight: 1
 
 ## 关于诊断标准 {#standards}
 
-> 当前最新标准为 [ICD-11]({{< ref "icd11" >}}) 和 [DSM-5](https://zh.wikipedia.org/wiki/DSM-5)
+当前最新标准为 [ICD-11](https://zh.wikipedia.org/wiki/ICD-11) 和 [DSM-5](https://zh.wikipedia.org/wiki/DSM-5)
 
 ```csv
 标准,诊断,备注
 ICD-11/HA60,性别不一致,
 ICD-11/LD2A,性发育畸形,两性畸形
-ICD-10/F64,易性症,
-ICD-10/Q56,性别不清,两性畸形
+ICD-10/F64,易性症,已过时
+ICD-10/Q56,性别不清,已过时，两性畸形
 DSM-5,性别烦躁（GD）,
-DSM-4,性别认同障碍（GID）,
+DSM-4,性别认同障碍（GID）,已过时（为 DSM-3 的延续）
+CCMD-3/F64,性身份障碍,已过时
 ```
+
+CCMD-3 为《中国精神障碍分类及诊断标准》后被 ICD-10 取代，
+自从 2022 年 4 月起开始实施 [ICD-11]({{< ref "icd11" >}})
 
 ## 问诊问题 {#problems}
 
