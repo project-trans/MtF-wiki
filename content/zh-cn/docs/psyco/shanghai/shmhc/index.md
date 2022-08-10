@@ -2,6 +2,8 @@
 title: 上海市精神卫生中心
 ---
 
+<!-- ShangHai Mental Health Center -> shmhc -->
+
 医生列表：
 
 - [陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)（价格昂贵）
