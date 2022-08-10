@@ -52,7 +52,7 @@ title: 贡献者指南
 ### 图片处理
 
 如果图片为对纸质材料的拍摄，请使用 Microsoft Lens (fbk Office Lens) 进行处理以便于提供更好的阅读体验，当然，如果有条件的话建议提供扫描件。
-照片中的 [Exif](https://zh.wikipedia.org/wiki/Exif) 信息可能包含设备型号、拍摄时间和地理位置等信息。建议您在上传前[移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。
+照片中的 {{< wiki Exif >}} 信息可能包含设备型号、拍摄时间和地理位置等信息。建议您在上传前[移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。
 如果您不会相关的后处理，可以将该图片提交至 <hi@mtf.wiki> 由我们脱敏后进行上传。
 
 [Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
@@ -71,7 +71,7 @@ title: 贡献者指南
 
 ### 表格
 
-表格类说明建议使用内嵌 [CSV](https://zh.wikipedia.org/wiki/CSV) 格式
+表格类说明建议使用内嵌 {{< wiki CSV >}} 格式
 
 <!-- markdownlint-disable-next-line -->
 ````

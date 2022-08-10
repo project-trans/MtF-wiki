@@ -110,15 +110,15 @@ aliases:
 使用 [色普龍（醋酸環丙孕酮）]({{< ref "cyproterone" >}}) 會使該項水平偏高，可考慮減少用量。
 
 {{< notice warning "注意事項" >}}
-如果泌乳素高於正常值三倍，請換藥或複查 [腦部 MRI](https://zh.wikipedia.org/zh-cn/磁共振成像)
+如果泌乳素高於正常值三倍，請換藥或複查 [腦部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)
 {{< /notice >}}
 
 ## 參考閱讀
 
 1. <https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686>
 1. <https://www.uptodate.com/contents/transgender-women-evaluation-and-management>
-1. <https://zh.wikipedia.org/wiki/促卵泡激素>
-1. <https://zh.wikipedia.org/wiki/催乳素>
-1. <https://zh.wikipedia.org/wiki/孕酮>
-1. <https://zh.wikipedia.org/wiki/雌二醇>
-1. <https://zh.wikipedia.org/wiki/黃體生成素>
+1. {{< wiki 促卵泡激素 >}}
+1. {{< wiki 催乳素 >}}
+1. {{< wiki 孕酮 >}}
+1. {{< wiki 雌二醇 >}}
+1. {{< wiki 黃體生成素 >}}

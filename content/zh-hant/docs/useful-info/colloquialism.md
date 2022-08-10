@@ -18,7 +18,7 @@ MtF：跨性別女性。
 
 ## GD
 
-GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https://zh.wikipedia.org/zh-tw/性別不一致)
+GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https://zh.wikipedia.org/wiki/性別不一致)
 
 ## 糖
 
@@ -30,7 +30,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 
 ## 年齡黨
 
-名詞。在 [青春期早期](https://zh.wikipedia.org/zh-cn/青春期#階段) 進行 HRT 治療的跨兒。
+名詞。在 [青春期早期](https://zh.wikipedia.org/wiki/青春期#階段) 進行 HRT 治療的跨兒。
 
 ## 天賦黨
 

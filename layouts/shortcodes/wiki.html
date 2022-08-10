@@ -1,0 +1,3 @@
+{{- $item := .Get 0 -}}
+{{- $language := .Get 1 | default "zh" -}}
+<a href="https://{{ $language }}.wikipedia.org/wiki/{{ $item }}">{{ $item }}</a>

@@ -16,7 +16,7 @@ weight: 1
 
 ## 关于诊断标准 {#standards}
 
-当前最新标准为 [ICD-11](https://zh.wikipedia.org/wiki/ICD-11) 和 [DSM-5](https://zh.wikipedia.org/wiki/DSM-5)
+当前最新标准为 {{< wiki "ICD-11" >}} 和 {{< wiki "DSM-5" >}}
 
 ```csv
 标准,诊断,备注
@@ -29,8 +29,9 @@ DSM-4,性别认同障碍（GID）,已过时（为 DSM-3 的延续）
 CCMD-3/F64,性身份障碍,已过时
 ```
 
-CCMD-3 为《中国精神障碍分类及诊断标准》后被 ICD-10 取代，
-自从 2022 年 4 月起开始实施 [ICD-11]({{< ref "icd11" >}})
+{{< wiki "CCMD-3" >}} 后被 {{< wiki "ICD-10" >}} 取代，自从 2022 年 4 月起开始正式实施 [ICD-11]({{< ref "icd11" >}})
+
+{{< wiki "DSM-5" >}} 中的“性别烦躁”有时也被称作“性别焦虑”
 
 ## 问诊问题 {#problems}
 

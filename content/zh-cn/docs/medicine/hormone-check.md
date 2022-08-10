@@ -103,15 +103,15 @@ weight: 2
 使用 [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}}) 会使该项水平偏高，可考虑减少用量。
 
 {{< notice warning "注意事项" >}}
-如果泌乳素高于正常值三倍，请换药或复查 [脑部 MRI](https://zh.wikipedia.org/zh-cn/磁共振成像)
+如果泌乳素高于正常值三倍，请换药或复查 [脑部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)
 {{< /notice >}}
 
 ## 参考阅读
 
 1. <https://www.MayoClinicLabs.com/test-catalog/overview/83686>
 1. <https://www.UpToDate.com/contents/transgender-women-evaluation-and-management>
-1. <https://zh.wikipedia.org/wiki/促卵泡激素>
-1. <https://zh.wikipedia.org/wiki/催乳素>
-1. <https://zh.wikipedia.org/wiki/孕酮>
-1. <https://zh.wikipedia.org/wiki/雌二醇>
-1. <https://zh.wikipedia.org/wiki/黄体生成素>
+1. {{< wiki 促卵泡激素 >}}
+1. {{< wiki 催乳素 >}}
+1. {{< wiki 孕酮 >}}
+1. {{< wiki 雌二醇 >}}
+1. {{< wiki 黄体生成素 >}}
