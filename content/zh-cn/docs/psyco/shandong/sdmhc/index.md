@@ -2,6 +2,8 @@
 title: 山东省精神卫生中心
 ---
 
+<!-- ShanDong Mental Health Center -> sdmhc -->
+
 医生列表：
 
 - [胡蕾](https://www.haodf.com/doctor/293557.html)
