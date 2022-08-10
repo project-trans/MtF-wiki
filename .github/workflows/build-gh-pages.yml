@@ -10,7 +10,7 @@ on:
       - LICENSE
 
 jobs:
-  build:
+  build-mtf-dot-wiki:
     runs-on: ubuntu-20.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
@@ -18,36 +18,20 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-#      - uses: actions/setup-node@v2
-#      - run: npx markdownlint-cli .
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: latest
           extended: true
-      - name: Build `mtf.wiki`
+      - name: Build
         run: hugo --minify --enableGitInfo
-      - name: Upload `mtf.wiki` artifact
+      - name: Upload artifact
         if: github.ref == 'refs/heads/master'
         uses: actions/upload-pages-artifact@v1
         with:
           path: public
-      - name: Build `mtfwiki.com`
-        run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
-      - name: Deploy `mtfwiki.com`
-        uses: reggionick/s3-deploy@v3
-        if: github.ref == 'refs/heads/master'
-        with:
-          folder: public
-          bucket: mtfwiki.com
-          bucket-region: ${{ secrets.S3_BUCKET_REGION }}
-          delete-removed: true
-          private: true
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-  deploy:
-    needs: build
+  deploy-mtf-dot-wiki:
+    needs: build-mtf-dot-wiki
     permissions:
       pages: write
       id-token: write
@@ -59,3 +43,30 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+  deploy-mtfwiki-dot-com:
+    runs-on: ubuntu-20.04
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+      - name: Build
+        run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
+      - name: Deploy
+        uses: reggionick/s3-deploy@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          folder: public
+          bucket: mtfwiki.com
+          bucket-region: ${{ secrets.S3_BUCKET_REGION }}
+          delete-removed: true
+          private: true
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
