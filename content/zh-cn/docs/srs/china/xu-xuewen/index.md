@@ -56,8 +56,8 @@ title: 四川大学华西医院｜许学文
 1. 可找院方开具《病情证明书》，否则只会提供出院小结。若需司法鉴定，在隔壁也有华西司法鉴定中心。院方表示不能开具三甲医院证明。
 
 {{< expand "病房图片">}}
-{{< figure src="/images/srs/china/xu-xuewen/ward_1.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/ward_2.png" >}}
+{{< figure src="ward_1.png" >}}
+{{< figure src="ward_2.png" >}}
 {{< /expand >}}
 
 ## 术后情况
