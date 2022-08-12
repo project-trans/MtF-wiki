@@ -5,7 +5,6 @@ title: 四川大学华西医院｜许学文
 {{< alert theme="info" >}}
 许学文医生作为华西医院整形外科一把刀，积累了大量会阴修复/成型经验
 {{< /alert >}}
-</p>
 {{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[许学文](https://www.haodf.com/doctor/25624.html)
@@ -18,11 +17,10 @@ title: 四川大学华西医院｜许学文
 {{< notice warning "注意">}}
 医生可能还有其他的一些要求，建议就诊时明确问清楚，避免入院后再被拒绝手术造成经济损失。
 {{< /notice >}}
-</p>
 
 1. 年龄满 18 周岁
 1. 较为女性化外表（指头发）
-1. 性身份障碍证明（市以上精神卫生中心持续一年就诊或者四川省人民医院（四川省精神医学中心）/华西医院心理卫生中心持续半年就诊）[^1]
+1. 性身份障碍证明（市以上精神卫生中心持续一年就诊或者[四川省精神医学中心](https://amap.com/place/B0FFJAYKFH)/[华西医院心理卫生中心](https://amap.com/place/B001C8VG35)持续半年就诊）[^1]
 1. 如已结婚，需要本人和配偶申请书（需要公证）
 1. 父母双方知情同意书（需要公证）
 1. 父亲或者母亲其中一方需在门诊及手术期间陪同，如无条件，可远程联系
@@ -40,7 +38,7 @@ title: 四川大学华西医院｜许学文
 
 ## 挂号
 
-进入「[四川大学华西医院](weixin://WestChina_Hospital)」微信公众号或「华医通」APP，选择诊疗服务 → 绑定电子健康卡 → 门诊挂号（预约挂号） → 搜索整形外科 许学文 或 谢海涛 医生
+可以在微信公众号「[四川大学华西医院](weixin://WestChina_Hospital)」或「华医通」APP 的 整形外科 中找到 许学文 或 谢海涛 医生
 
 门诊号源预约周期为 7 天，每天早上 8:00 开放第 7 天的号源
 
@@ -69,8 +67,8 @@ title: 四川大学华西医院｜许学文
 1. 术后可添加医生助理微信，或华西医院网上问诊咨询相关情况，也可去门诊复诊（无需挂号）
 
 {{< expand "模具及医嘱">}}
-{{< figure src="/images/srs/china/xu-xuewen/mold.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/advice.png" >}}
+{{< figure src="mold.png" >}}
+{{< figure src="advice.png" >}}
 {{< /expand >}}
 
 ## 一位 MtF 的经历
@@ -94,9 +92,9 @@ title: 四川大学华西医院｜许学文
 ```
 
 {{< expand "手术详情">}}
-{{< figure src="/images/srs/china/xu-xuewen/surgery_1.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/surgery_2.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/surgery_3.png" >}}
+{{< figure src="surgery_1.png" >}}
+{{< figure src="surgery_2.png" >}}
+{{< figure src="surgery_3.png" >}}
 {{< /expand >}}
 
 - 在第12、14、17、20、22、24、26、28、31、34、36、38日进行了拆包换药
@@ -104,12 +102,12 @@ title: 四川大学华西医院｜许学文
 
 ### 支出内容
 {{< expand "账单图片">}}
-{{< figure src="/images/srs/china/xu-xuewen/bill_1.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/bill_2.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/bill_3.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/bill_4.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/bill_5.png" >}}
-{{< figure src="/images/srs/china/xu-xuewen/bill_6.png" >}}
+{{< figure src="bill_1.png" >}}
+{{< figure src="bill_2.png" >}}
+{{< figure src="bill_3.png" >}}
+{{< figure src="bill_4.png" >}}
+{{< figure src="bill_5.png" >}}
+{{< figure src="bill_6.png" >}}
 {{< /expand >}}
 
 [^1]:若不满足条件，可以将其他地方开具的易性症诊断证明与其他辅助材料（如 HRT 激素单、门诊病历等）一并提交。住院时会请华西心理卫生中心会诊，具体项目为：当面交谈、SCL-90、MMPI、SDS、华西心晴指数问卷（HEI）。
