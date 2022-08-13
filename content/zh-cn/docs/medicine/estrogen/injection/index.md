@@ -11,7 +11,7 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ### 富士 Progynon®-Depot
 
-![fuji](/images/medicine/injection/progynon-depot.jpg)
+![fuji](/static/images/medicine/injection/progynon-depot.jpg)
 
 - 英文名称：Progynon®-Depot
 - 日文名称：プロギノン ®・デポー
@@ -20,13 +20,13 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 厂商：富士制药
 - 规格：一盒 10 瓶，每瓶 1 mL，含有 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](/documents/progynon.pdf)
+- [说明书（日语）](/static/documents/progynon.pdf)
 
 ### 【停产】持田 Pelanin Depot
 
 |          5 mg          |          10 mg           |
 | :--------------------: | :----------------------: |
-| ![5 mg](/images/medicine/injection/mochida-5.jpg) | ![10 mg](/images/medicine/injection/mochida-10.jpg) |
+| ![5 mg](/static/images/medicine/injection/mochida-5.jpg) | ![10 mg](/static/images/medicine/injection/mochida-10.jpg) |
 
 - 英文名称：Pelanin Depot
 - 日文名称：ペラニンデポー
@@ -35,23 +35,23 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 厂商：持田制药
 - 规格：一盒 10 瓶，每瓶 1 mL，含有 5mg 或 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](/documents/pelanin.pdf)
+- [说明书（日语）](/static/documents/pelanin.pdf)
 
-### American Regent, Inc
+### Estradiol Valerate
 
 |          20 mg / mL          |          40 mg / mL           |
 | :--------------------------: | :---------------------------: |
-| ![20 mg / mL](/images/medicine/injection/generic-ev-20.jpg) | ![40 mg / mL](/images/medicine/injection/generic-ev-40.jpg) |
+| ![20 mg / mL](/static/images/medicine/injection/generic-ev-20.jpg) | ![40 mg / mL](/static/images/medicine/injection/generic-ev-40.jpg) |
 
 - 英文名称：Estradiol Valerate
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 厂商：American Regent, Inc
 - 规格：一盒 1 瓶，每瓶 5 mL，含有 100 mg 或 200 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（英语）](/documents/generic-ev.pdf)
+- [说明书（英语）](/static/documents/generic-ev.pdf)
 
 ### Depo&reg;-Estradiol
-
+![depo-estradiol](/static/images/medicine/injection/depo-estradiol.png)
 - 英文名称：Depo&reg;-Estradiol
 - 药品成分：环戊丙酸雌二醇（Estradiol Cypionate）
 - 厂商：Pfizer
