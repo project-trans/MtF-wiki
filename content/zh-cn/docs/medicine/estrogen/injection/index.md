@@ -84,29 +84,12 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ## 成分信息
 
-- 戊酸雌二醇（Estradiol valerate）
-  - 生物利用率：100%（注射）
-  - 半衰期：4-5 天（注射）
-  - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
-  - 分子量：356.50
-
-- 环戊丙酸雌二醇（Estradiol cypionate）
-  - 生物利用率：100%（注射）
-  - 半衰期：6-7 天（注射）
-  - 分子式：C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>
-  - 分子量：396.57
-
-- 苯甲酸雌二醇（Estradiol benzoate）**（不推荐使用）**
-  - 生物利用率：100%（注射）
-  - 半衰期：2-5 天（注射）
-  - 分子式：C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>
-  - 分子量：376.49
-
-- 庚酸雌二醇（Estradiol enantate）
-  - 生物利用率：100%（注射）
-  - 半衰期：5-8 天（注射）
-  - 分子式：C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>
-  - 分子量：384.56
+| 名称     | 生物利用率 | 半衰期 | 分子式 | 分子量 |
+| -------- | -------- | -------- | -------- | -------- |
+| 戊酸雌二醇（Estradiol valerate） | 100% | 4-5天 | C<sub>23</sub>H<sub>32</sub>O<sub>3</sub> | 356.50 |
+| 环戊丙酸雌二醇（Estradiol cypionate） | 100% | 6-7天 | C<sub>26</sub>H<sub>36</sub>O<sub>3</sub> | 396.57 |
+| 苯甲酸雌二醇（Estradiol benzoate）**（不推荐使用）** | 100% | 2-5天 | C<sub>25</sub>H<sub>28</sub>O<sub>3</sub> | 376.49 |
+| 庚酸雌二醇（Estradiol enantate） | 100% | 5-8天 | C<sub>25</sub>H<sub>36</sub>O<sub>3</sub> | 384.56 |
 
 ## 参考阅读
 
