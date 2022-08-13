@@ -14,7 +14,7 @@ title: Chettawut 醫生
 
 電話：{{< telephone "+66 0-2078-8919" >}}
 
-[{{< shields/line "wihhospital" >}}](https://page.line.me/wihhospital)
+LINE：{{< shields/line "wihhospital" >}}
 
 <https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==>
 

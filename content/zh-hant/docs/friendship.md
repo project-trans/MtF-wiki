@@ -17,8 +17,8 @@ weight: 10
 
 ```csv
 平臺,名稱,加入方式
-QQ,Arch 木桶飯,[{{< shields/qq 782820926 >}}](https://jq.qq.com/?_wv=1027&k=aVZipzyj)
-QQ,跨兒音遊組,[{{< shields/qq 717099350 >}}](https://jq.qq.com/?_wv=1027&k=byC0cbS4)
+QQ,Arch 木桶飯,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipzyj" >}}
+QQ,跨兒音遊組,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0cbS4" >}}
 Telegram,Backlight.Town 逆光小鎮,聯絡 {{< shields/telegram rikablossom >}} 加入
 Telegram,跨兒音遊組,{{< shields/telegram otoge_trans >}}
 Matrix,Arch 木桶飯,{{< shields/matrix arch-mtf matrix.malacology.net >}}

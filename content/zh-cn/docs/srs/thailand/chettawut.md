@@ -16,7 +16,7 @@ keywords:
 
 电话：{{< telephone "+66 0-2078-8919" >}}
 
-[{{< shields/line "wihhospital" >}}](https://page.line.me/wihhospital)
+LINE：{{< shields/line "wihhospital" >}}
 
 <https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==>
 
