@@ -11,7 +11,7 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ### 富士 Progynon®-Depot
 
-![fuji](/images/medicine/injection/progynon-depot.jpg)
+![fuji](/static/images/medicine/injection/progynon-depot.jpg)
 
 - 英文名称：Progynon®-Depot
 - 日文名称：プロギノン ®・デポー
@@ -20,13 +20,13 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 厂商：富士制药
 - 规格：一盒 10 瓶，每瓶 1 mL，含有 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](/documents/progynon.pdf)
+- [说明书（日语）](/static/documents/progynon.pdf)
 
 ### 【停产】持田 Pelanin Depot
 
 |          5 mg          |          10 mg           |
 | :--------------------: | :----------------------: |
-| ![5 mg](/images/medicine/injection/mochida-5.jpg) | ![10 mg](/images/medicine/injection/mochida-10.jpg) |
+| ![5 mg](/static/images/medicine/injection/mochida-5.jpg) | ![10 mg](/static/images/medicine/injection/mochida-10.jpg) |
 
 - 英文名称：Pelanin Depot
 - 日文名称：ペラニンデポー
@@ -35,23 +35,23 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 厂商：持田制药
 - 规格：一盒 10 瓶，每瓶 1 mL，含有 5mg 或 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](/documents/pelanin.pdf)
+- [说明书（日语）](/static/documents/pelanin.pdf)
 
-### American Regent, Inc
+### Estradiol Valerate
 
 |          20 mg / mL          |          40 mg / mL           |
 | :--------------------------: | :---------------------------: |
-| ![20 mg / mL](/images/medicine/injection/generic-ev-20.jpg) | ![40 mg / mL](/images/medicine/injection/generic-ev-40.jpg) |
+| ![20 mg / mL](/static/images/medicine/injection/generic-ev-20.jpg) | ![40 mg / mL](/static/images/medicine/injection/generic-ev-40.jpg) |
 
 - 英文名称：Estradiol Valerate
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 厂商：American Regent, Inc
 - 规格：一盒 1 瓶，每瓶 5 mL，含有 100 mg 或 200 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（英语）](/documents/generic-ev.pdf)
+- [说明书（英语）](/static/documents/generic-ev.pdf)
 
 ### Depo&reg;-Estradiol
-
+![depo-estradiol](/static/images/medicine/injection/depo-estradiol.png)
 - 英文名称：Depo&reg;-Estradiol
 - 药品成分：环戊丙酸雌二醇（Estradiol Cypionate）
 - 厂商：Pfizer
@@ -70,7 +70,9 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 {{< /notice >}}
 
 - 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag/neg "不会打针就不要瞎打！" >}}
-- 使用剂量：每 5-7 天 5 mg / 每 1 - 2 周 10 mg
+- 使用剂量：
+  - 戊酸雌二醇：每5-7天5mg/每1-2周10mg
+  - 环戊丙酸雌二醇：每7天5-6mg/每14天10-12mg
 - 注意事项：
   - 请勿重复注入同一位置。
   - 小心避免神经。
@@ -82,11 +84,13 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ## 成分信息
 
-- 有效成分：戊酸雌二醇（Estradiol valerate）
-- 生物利用率：100%（注射）
-- 半衰期：4-5 天（注射）
-- 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
-- 分子量：356.50
+```csv
+名称,生物利用率,半衰期,分子式,分子量,备注
+戊酸雌二醇（Estradiol valerate）,100%,4-5天,C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>,356.50,
+环戊丙酸雌二醇（Estradiol cypionate）,100%,6-7天,C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>,396.57,
+苯甲酸雌二醇（Estradiol benzoate）,100%,2-5天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.49,不推荐使用
+庚酸雌二醇（Estradiol enantate）,100%,5-8天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.56,
+```
 
 ## 参考阅读
 
