@@ -43,14 +43,14 @@ slug: overview
 
 [reimbursable]: https://github.com/KristallWang/Transgender-lost-years/blob/master/0001_Education/Oversea/In_US/可以报销HRT&SRS的美国大学的清单.md
 
-由于美国医疗价格的高昂，SRS 的价格一般都会达到 Out of Pocket Max Limit (OOP-Max)。这个金额随保险的不同而有所不同，大致在 $3,000-$10,000 之间。值得注意的是，当 OOP-Max 金额被达到的时候，当保险期之内其他的所有保险报销的医疗服务均会由保险公司 100% 报销。
+由于美国医疗价格的高昂，SRS 的价格一般都会达到 Out of Pocket Max Limit (OOP-Max)。这个金额随保险的不同而有所不同，大致在 {{< currency from="USD" value=3000 >}} - {{< currency from="USD" value=10000 >}} 之间。值得注意的是，当 OOP-Max 金额被达到的时候，当保险期之内其他的所有保险报销的医疗服务均会由保险公司 100% 报销。
 
 SRS 流程的保险报销前金额大致如下：
 
-- Initial Consultation：$200-$400
-- SRS 手术：$60,000-$300,000
+- Initial Consultation：{{< currency from="USD" value=200 >}} - {{< currency from="USD" value=400 >}}
+- SRS 手术：{{< currency from="USD" value=60000 >}} - {{< currency from="USD" value=300000 >}}
 
-但是在保险报销之后，在美国进行 SRS 的价格一般会控制在 $10,000 以内，在比较流行的 SRS 目的地中算价格有优势的。
+但是在保险报销之后，在美国进行 SRS 的价格一般会控制在 {{< currency from="USD" value=10 >}},000 以内，在比较流行的 SRS 目的地中算价格有优势的。
 
 ## 旅行指南
 

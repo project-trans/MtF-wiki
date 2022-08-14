@@ -19,5 +19,5 @@ title: 私家內分泌科診所
   電郵地址：<winnielau@ej.com.hk>
   地址：九龍尖沙咀廣東道 5 號海港城海洋中心 14 樓 1428 室
   診金 (不包括藥費)：
-  首次 HK$800-1200
-  其後 HK$500-800
+  首次 {{< currency from="HKD" value=800 >}} - {{< currency from="HKD" value=1200 >}}
+  其後 {{< currency from="HKD" value=500 >}} - {{< currency from="HKD" value=800 >}}

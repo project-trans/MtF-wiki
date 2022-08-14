@@ -64,4 +64,4 @@ weight: 1
 
 ## 费用
 
-一般来说，有正常的保险的话开始 HRT 的费用不会很高。去看 HRT 医生属于 Office Visit 或 Specialist Visit 的范围，Copayment 通常在 $10-$35之间。去药房拿药的话，按一种药30天的量来算，有保险的话大概需要 $5-$20。
+一般来说，有正常的保险的话开始 HRT 的费用不会很高。去看 HRT 医生属于 Office Visit 或 Specialist Visit 的范围，Copayment 通常在 {{< currency from="USD" value=10 >}}-{{< currency from="USD" value=35 >}}之间。去药房拿药的话，按一种药30天的量来算，有保险的话大概需要 {{< currency from="USD" value=5 >}}-{{< currency from="USD" value=20 >}}。
