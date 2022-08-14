@@ -12,6 +12,8 @@ title: 贡献者指南
 绝对不要做出任何道德绑架的行为！！！
 {{< /notice >}}
 
+也请阅读：[中文性别包容性语言指南](https://www.wipo.int/export/sites/www/women-and-ip/zh/documents/wipo-guidelines-inclusive-language.pdf)
+
 ## HRT/诊断证明 {#proof}
 
 ### 撰稿要素
@@ -32,9 +34,7 @@ title: 贡献者指南
 1. 由于科室不同，开具诊断证明的医生没有权利开具 HRT 处方，开具 HRT 处方的医生没有权利开具诊断证明，这是基本常识。望贡献者在撰写医生介绍的时候切记。
 1. 假如某位医生信息被编入 wiki 后表示自己不愿意被公开信息，我们将遵从其主观意愿将有关词条删除并列入过时名单。
 
-## SRS {#srs}
-
-## 报告新的 SRS 医生
+## 报告新的 SRS 医生 {#srs}
 
 1. 医生姓名
 1. 所在医院
