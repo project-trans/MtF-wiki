@@ -54,7 +54,7 @@ MtF.wiki 致力於成為一個免費開放且持續更新的跨性別知識整�
 
 ## 聯絡方式
 
-Discord [![Discord][badge-discord]](https://233.plus/discord)
+Discord [![Discord][badge-discord]](https://discord.gg/tuRgx3aVRm)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 

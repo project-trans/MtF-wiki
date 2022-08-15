@@ -66,7 +66,7 @@ MtF.wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 ## 联系方式
 
-Discord [![Discord][badge-discord]](https://233.plus/discord)
+Discord [![Discord][badge-discord]](https://discord.gg/tuRgx3aVRm)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 

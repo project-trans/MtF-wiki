@@ -29,7 +29,7 @@ footer:
     - title: 联系
       links:
         - title: Discord
-          link: https://233.plus/discord
+          link: https://discord.gg/tuRgx3aVRm
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub

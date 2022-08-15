@@ -40,7 +40,7 @@ and other lovely guys who give us help and information.
 
 ## Contact
 
-Through Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://233.plus/discord" >}}
+Through Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://discord.gg/tuRgx3aVRm" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
