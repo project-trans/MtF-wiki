@@ -57,7 +57,7 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ## Contact
 
-Discord [![Discord][badge-discord]](https://discord.gg/tuRgx3aVRm)
+Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 

@@ -40,7 +40,7 @@ weight: 0
 
 ## 連絡
 
-Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://discord.gg/tuRgx3aVRm" >}}
+Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
 
 Twitter {{< shields/twitter MtFwikiJapan >}}
 

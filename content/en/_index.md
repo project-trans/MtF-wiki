@@ -31,7 +31,7 @@ footer:
     - title: Contact
       links:
         - title: Discord
-          link: https://discord.gg/tuRgx3aVRm
+          link: https://link.mtf.wiki/discord
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub
