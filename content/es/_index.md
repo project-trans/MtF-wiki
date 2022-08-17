@@ -40,7 +40,9 @@ footer:
     align: left
     applySinglePageCss: true
     markdown: >
-      <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF.wiki. All rights reserved.</p>
-      <blockquote align="left">Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
+      {{< mtf-wiki >}}
+
+      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+
+      > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
 ---

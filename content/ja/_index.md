@@ -29,7 +29,7 @@ footer:
     - title: 連絡
       links:
         - title: Discord
-          link: https://link.mtf.wiki/discord
+          link: https://link.mtf.wiki/discord-japan
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub
@@ -40,7 +40,9 @@ footer:
     align: left
     applySinglePageCss: true
     markdown: >
-      <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF.wiki. All rights reserved.</p>
-      <blockquote align="left">あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。</blockquote>
+      {{< mtf-wiki >}}
+
+      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+
+      > あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。</blockquote>
 ---
