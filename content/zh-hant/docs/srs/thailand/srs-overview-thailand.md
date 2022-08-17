@@ -4,7 +4,7 @@ weight: 1
 slug: overview
 ---
 
-Google Maps: <https://goo.gl/maps/wK3rp9RTz9HDwTPw7>
+> Google Maps: <https://link.mtf.wiki/maps/th>
 
 ## 術前科普 {#popular}
 

@@ -2,7 +2,7 @@
 title: 臺灣
 ---
 
-> Google Maps: <https://goo.gl/maps/A6EGuyR427rqJMJ9A>
+> Google Maps: <https://link.mtf.wiki/maps/tw>
 
 ```csv
 縣市,服務醫療機構,科室,醫師

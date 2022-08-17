@@ -6,7 +6,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 ---
 
 > 1. [疫情特辑：泰国旅行指南]({{< ref "travel-under-pandemia" >}})
-> 1. Google Maps：<https://goo.gl/maps/Wytv8ogdeejQuanS7>
+> 1. Google Maps：<https://link.mtf.wiki/maps/th>
 
 ## 术前科普 {#popular}
 

@@ -14,4 +14,4 @@ title: Links
 - [MtF 情報発信サイト](https://joseika.com)
 - [日本性同一性障害・性別違和と共に生きる人々の会](https://gid.jp)
 - [Suporn Clinic 日本公式サイト](https://supornclinic.jp)
-- [Hospital List](https://goo.gl/maps/6zgeb5KnJvKE9dSL7)
+- [Hospital List](https://link.mtf.wiki/maps/jp)
