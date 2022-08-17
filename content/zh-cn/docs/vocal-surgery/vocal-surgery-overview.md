@@ -65,22 +65,24 @@ weight: 1
 
 ## 参考资料
 
-- <https://mp.weixin.qq.com/s/kbl8pC19F_QNQtY_FwfdKQ>
 - <http://cyfd.cnki.com.cn/Article/N2016060089000381.htm>
-- <http://pai.co.th/vocal-voice-surgery/>
-- <http://www.chet-plasticsurgery.com/zh-hans/关于声音女性化手术/>
 - <https://ameblo.jp/uniyuni5/entry-12254880995.html>
 - <https://cn.yesonvc.com/page/2_4_1.php>
 - <https://cn.yesonvc.com>
 - <https://dr-ornouma.com/voice-change-surgery/cn/>
-- <https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=TLXJ201903026>
 - <https://srs-bangkok.wixsite.com/agency-isk/procedures>
 - <https://www.tandfonline.com/doi/full/10.1080/15532739.2015.1075931>
-- <https://zhuanlan.zhihu.com/p/34251204>
-- <https://zhuanlan.zhihu.com/p/39891532>
-- <https://zhuanlan.zhihu.com/p/42611790>
-- <https://zhuanlan.zhihu.com/p/42961553>
-- <https://zhuanlan.zhihu.com/p/167956029>
-- <https://zhuanlan.zhihu.com/p/205516268>
-
+- 嗓音训练
+  - [嗓音手术与嗓音训练 （MtF）](https://mp.weixin.qq.com/s/kbl8pC19F_QNQtY_FwfdKQ) (<https://archive.is/2UytK>)
+  - [跨性别者的嗓音调整](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=TLXJ201903026)
+  - [寻找真实的声音 - MTF嗓音拯救指南](https://zhuanlan.zhihu.com/p/205516268) (<https://archive.is/ZIkC3>)
+- 声带手术
+  - [关于声带手术的一些内容](https://zhuanlan.zhihu.com/p/34251204) (<https://archive.is/YNrna>)
+  - [关于声带手术（翻译自日文）](https://zhuanlan.zhihu.com/p/42961553) (<https://archive.is/222hn>)
+  - [关于声音女性化手术的说明 - Chettawut 泰国曼谷整形中心](http://www.chet-plasticsurgery.com/zh-hans/关于声音女性化手术/)
+  - [Vocal Voice Surgery - PAI](http://pai.co.th/vocal-voice-surgery/)
+- 友谊医院
+  - [友谊医院嗓音训练相关总结](https://zhuanlan.zhihu.com/p/39891532) (<https://archive.is/TpS2Y>)
+  - [北京友谊医院声带手术指南](https://zhuanlan.zhihu.com/p/42611790) (<https://archive.is/54iYV>)
+  - [疫情期间的友谊医院声带手术记录](https://zhuanlan.zhihu.com/p/167956029) (<https://archive.is/JFFWb>)
 [^1]: 跨性别在线 直播内容。

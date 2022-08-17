@@ -30,4 +30,4 @@ SRS 並不是對每個跨性別者都是必須的，其直接作用僅僅是將�
 
 ## 參考資料
 
-[SRS FAQ · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/161673959)（連結失效）
+[SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)

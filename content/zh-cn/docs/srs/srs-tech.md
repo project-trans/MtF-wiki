@@ -51,4 +51,4 @@ SRS 根据阴道再造的方式常可分为以下几种，包括
 
 ## 参考资料
 
-[SRS FAQ · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/161673959)（链接失效）
+[SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)

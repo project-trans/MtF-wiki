@@ -15,11 +15,12 @@ ICD-11 是「国际疾病分类第十一次修订本」的简称
 <!-- 按发布时间倒序排序 -->
 
 - [【跨性别门诊医生】新规解读！变性门槛降低了吗？（上）](https://www.bilibili.com/video/BV1GF411P7Z3)
-- [上个月新出的 DSM-5-TR 对“性别烦躁”的诊断与补充](https://zhuanlan.zhihu.com/p/492886380)
+- [上个月新出的 DSM-5-TR 对“性别烦躁”的诊断与补充](https://zhuanlan.zhihu.com/p/492886380) (<https://archive.is/VouJP>)
 - [“性别不一致”去精神病化的思考](https://doi.org/10.12014/j.issn.1002-0772.2021.11.10)
-- [对于国内各医院对“性别不一致”的诊断流程的一些看法](https://zhuanlan.zhihu.com/p/101582151)
+- [对于国内各医院对“性别不一致”的诊断流程的一些看法](https://zhuanlan.zhihu.com/p/101582151) (<https://archive.is/HTtCN>)
 - [世卫组织（WHO）将性别认同障碍从精神疾患分类中移除](https://news.un.org/zh/story/2019/05/1035391)
 - [一文了解 ICD-11](https://zhuanlan.zhihu.com/p/53190964)
+- [ICD-11 中的跨性别相关条目](https://zhuanlan.zhihu.com/p/38248913) (<https://archive.is/8xiV6>)
 
 ## 主要影响 {#effect}
 
