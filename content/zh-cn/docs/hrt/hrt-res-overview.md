@@ -37,10 +37,3 @@ weight: 1
 
 但是需要自行 [进行激素检查]({{< ref "hormone-check" >}}) 来调节用药
 具体用药方法参见 [HRT 总述]({{< ref "hrt-overview" >}})
-
-## 扩展阅读 {#reading}
-
-- [内分泌学会临床实践指南（1）](https://zhuanlan.zhihu.com/p/41593599) (<https://archive.is/NvPrv>)
-- [内分泌学会临床实践指南（2）](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
-- [女性化激素治疗概述](https://zhuanlan.zhihu.com/p/39093796) (<https://archive.is/va760>)
-- [医院医保开 HRT 药物流程](https://zhuanlan.zhihu.com/p/387187000) (<https://archive.is/vU33l>)
