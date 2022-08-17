@@ -44,5 +44,5 @@ footer:
 
       Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
 
-      > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
+      > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.
 ---
