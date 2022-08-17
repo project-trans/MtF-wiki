@@ -108,8 +108,8 @@ weight: 2
 
 ## 参考阅读
 
-1. <https://www.MayoClinicLabs.com/test-catalog/overview/83686>
-1. <https://www.UpToDate.com/contents/transgender-women-evaluation-and-management>
+1. [TEST ID: TTFB](https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686)
+1. [跨性别女性的评估和管理](https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management)
 1. {{< wiki 促卵泡激素 >}}
 1. {{< wiki 催乳素 >}}
 1. {{< wiki 孕酮 >}}

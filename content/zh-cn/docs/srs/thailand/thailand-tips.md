@@ -126,7 +126,7 @@ weight: 2
 
 ## 中华人民共和国驻泰王国大使馆 {#embassy}
 
-<http://th.china-embassy.gov.cn>
+大使馆网站：<http://th.china-embassy.gov.cn>
 
 地址：[57 Ratchadaphisek Rd, Din Daeng, Bangkok 10400](https://goo.gl/maps/VraMb8dvM2uCq99f7)
 
