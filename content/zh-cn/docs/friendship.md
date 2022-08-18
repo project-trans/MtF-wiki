@@ -10,7 +10,6 @@ weight: 10
 [KuaEr.club](https://kuaer.club),跨性别相关内容导航站
 [FtM.wiki](https://ftm.wiki),兄弟站，跨性别男性（FtM）百科
 [RLE.wiki](https://rle.wiki),真实生活体验相关内容整理，由原 MtF.wiki 校园板块拆出
-[Transland](https://chat.transland.lgbt),一个跟跨性别生活有关的论坛
 ```
 
 更多站点导航见 [KuaEr.club](https://kuaer.club)
