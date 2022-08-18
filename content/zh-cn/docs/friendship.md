@@ -43,12 +43,12 @@ Discord,MtF.wiki Official,https://link.mtf.wiki/discord
 
 - QQ 空间主机：`2776456754`
 - QQ 空间备用机：`970611264`（平时停用，紧急事态下启用。）
-- Limelight：<https://limelight.moe/u/跨性别相关bot>
 
 ## awesome trans <i class="trans-flag"></i> (Twitter) {#awesome-trans}
 
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
 
+- GitHub：{{< shields/github-issue "awesometrans/awesometrans_zh" >}}
 - Twitter：{{< shields/twitter awesometrans_zh >}}
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 邮箱：<awesome-trans@outlook.com>
