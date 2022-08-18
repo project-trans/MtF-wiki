@@ -22,7 +22,7 @@ weight: 0
 
 ## 主要人员
 
-创始人：{{< github/profile "kenchiu233" "可橙" >}}
+{{< github/profile "kenchiu233" "可橙" >}}
 
 {{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 

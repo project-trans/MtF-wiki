@@ -31,7 +31,7 @@ footer:
         - title: Discord
           link: https://link.mtf.wiki/discord-japan
         - title: Twitter
-          link: https://twitter.com/MtFwiki
+          link: https://twitter.com/MtFwikiJapan
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: E-mail

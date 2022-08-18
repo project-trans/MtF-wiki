@@ -1,17 +1,13 @@
 ---
-title: 友情合作
+title: 友情連結
 weight: 10
 ---
 
 ## 站點導航
 
-```csv
-站點,介紹
-[KuaEr.club](https://kuaer.club),跨性別相關內容導航站
-[FtM.wiki](https://ftm.wiki),兄弟站，跨性別男性（FtM）百科
-```
+- [2345.lgbt](https://2345.lgbt) 跨性別內容導航站，由 {{< mtf-wiki >}} 團隊維護。
 
-更多站點導航見 [KuaEr.club](https://kuaer.club)
+- [FtM.wiki](https://ftm.wiki) 兄弟站，跨性別男性（FtM）百科
 
 ## 生活興趣交流群
 

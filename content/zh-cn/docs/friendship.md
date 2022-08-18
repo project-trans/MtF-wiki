@@ -1,18 +1,17 @@
 ---
-title: 友情合作
+title: 友情链接
 weight: 10
 ---
 
 ## 站点导航
 
+[2345.lgbt](https://2345.lgbt) 跨性别内容导航站，由 {{< mtf-wiki >}} 团队维护。
+
 ```csv
 站点,介绍
-[KuaEr.club](https://kuaer.club),跨性别相关内容导航站
 [FtM.wiki](https://ftm.wiki),兄弟站，跨性别男性（FtM）百科
-[RLE.wiki](https://rle.wiki),真实生活体验相关内容整理，由原 MtF.wiki 校园板块拆出
+[RLE.wiki](https://rle.wiki),真实生活体验相关内容整理，由原 {{< mtf-wiki >}} 校园板块拆出
 ```
-
-更多站点导航见 [KuaEr.club](https://kuaer.club)
 
 ## 生活兴趣交流群
 

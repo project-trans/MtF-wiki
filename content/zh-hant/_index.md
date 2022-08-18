@@ -22,12 +22,22 @@ footer:
   sections:
     - title: 本專案
       links:
-        - title: 主頁
+        - title: 主頁 MtF.wiki
           link: https://mtf.wiki
         - title: 原始碼
           link: https://github.com/mtf-wiki/MtF-wiki
+        - title:  導航站 2345.lgbt
+          link: https://2345.lgbt
+    - title: 動態
+      links:
+        - title: Twitter
+          link: https://mtf.wiki
+        - title: Telegram 頻道
+          link: https://t.me/mtfwiki
     - title: 社群聯絡
       links:
+        - title: 貢獻者指南
+          link: /zh-cn/docs/contributor-guide/
         - title: Discord
           link: https://link.mtf.wiki/discord
         - title: Twitter

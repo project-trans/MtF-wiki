@@ -22,17 +22,13 @@ weight: 0
 
 ## 主要人員
 
-發起人：{{< github/profile "kenchiu233" "可橙" >}}
+{{< github/profile "kenchiu233" "可橙" >}}
 
 {{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
 {{< github/profile "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
 
 {{< github/profile "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
-
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-
-{{< github/profile "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
 
 （這裡還有位置留給有意願的澳港台朋友～　歡迎與我們聯絡！）
 

@@ -20,7 +20,7 @@ weight: 0
 
 ## コアメンテナ
 
-創設者: {{< github/profile "kenchiu233" "ケンチュウ" >}}
+{{< github/profile "kenchiu233" "ケンチュウ" >}}
 
 {{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
