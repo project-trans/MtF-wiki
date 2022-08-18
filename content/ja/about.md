@@ -20,7 +20,7 @@ weight: 0
 
 ## コアメンテナ
 
-{{< github/profile "kenchiu233" "ケンチュウ" >}}
+{{< github/profile "kenchiu233" "ケンチュウ" >}}&nbsp;
 
 {{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 

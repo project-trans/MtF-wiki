@@ -20,7 +20,7 @@ Sitio hermano: <https://FtM.wiki>
 
 ## Mantenedores
 
-{{< github/profile "kenchiu233" "Kenchiu" >}}
+{{< github/profile "kenchiu233" "Kenchiu" >}}&nbsp;
 
 {{< github/profile "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
 

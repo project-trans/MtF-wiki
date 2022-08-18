@@ -20,7 +20,7 @@ Brother site: <https://FtM.wiki>
 
 ## Core maintainer
 
-{{< github/profile "kenchiu233" "Kenchiu" >}}
+{{< github/profile "kenchiu233" "Kenchiu" >}}&nbsp;
 
 {{< github/profile "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
 
