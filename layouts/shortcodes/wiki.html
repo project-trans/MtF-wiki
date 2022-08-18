@@ -1,3 +1,8 @@
-{{- $item := .Get 0 -}}
+{{- $name := .Get 0 -}}
 {{- $language := .Get 1 | default "zh" -}}
-<a href="https://{{ $language }}.wikipedia.org/wiki/{{ $item }}">{{ $item }}</a>
+{{- $item := replace $name " " "_" -}}
+{{- $locale := "wiki" -}}
+{{- if hasPrefix $.Site.Language.Lang $language -}}
+  {{- $locale = $.Site.Language.Lang -}}
+{{- end -}}
+<a href="https://{{ $language }}.wikipedia.org/{{ $locale }}/{{ $item }}">{{ $name }}</a>

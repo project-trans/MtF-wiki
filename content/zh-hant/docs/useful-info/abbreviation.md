@@ -4,18 +4,18 @@ title: 縮寫詞語表
 
 ## LGBT+
 
-[LGBT+](https://en.wikipedia.org/wiki/LGBT) 是下列性少數單詞首字母的合稱
+{{< wiki LGBT >}} 是下列性少數單詞首字母的合稱
 
 ```csv
 詞彙,翻譯
-[Lesbian](https://en.wikipedia.org/wiki/Lesbian),女同性戀
-[Gay man](https://en.wikipedia.org/wiki/Gay_man),男同性戀
-[Bisexual](https://en.wikipedia.org/wiki/Bisexuality),雙性戀
-[Transgender](https://en.wikipedia.org/wiki/Transgender),跨性別
-[Queer](https://en.wikipedia.org/wiki/Queer),酷兒
-[Intersex](https://en.wikipedia.org/wiki/Intersex),雙性人
-[Asexuality](https://en.wikipedia.org/wiki/Asexuality),無性戀
-[Pansexual](https://en.wikipedia.org/wiki/Pansexuality),泛性戀
+{{< wiki Lesbian en >}},女同性戀
+{{< wiki "Gay man" en >}},男同性戀
+{{< wiki Bisexuality en >}},雙性戀
+{{< wiki Transgender en >}},跨性別
+{{< wiki Queer en >}},酷兒
+{{< wiki Intersex en >}},雙性人
+{{< wiki Asexuality en >}},無性戀
+{{< wiki Pansexuality en >}},泛性戀
 ```
 
 ## 衍生概念
@@ -36,36 +36,30 @@ MtF,男跨女（Male-to-Female）
 TS,變性者（Transsexual）
 ```
 
-FtX, MtX 的 X 借自日語 Ｘジェンダー（X-gender），即 non-binary 非二元
+FtX, MtX 的 X 借自日語 {{< wiki Xジェンダー ja >}}，即 non-binary 非二元
 
 ## RLE
 
-實際生活體驗（Real-life experience）
+{{< wiki 實際生活體驗 >}}（{{< wiki "Real-life experience" en >}}）
 指跨性別者全天候地按照其所認同的性別角色來生活
-
-[維基百科](https://zh.wikipedia.org/wiki/實際生活體驗)
 
 ## HRT
 
-激素替代療法（Hormone replacement therapy）
-從 2022 年開始將會被 性別肯定激素治療（Gender-Affirming Hormone Therapy） 逐步取代
+激素替代療法（{{< wiki "Hormone replacement therapy" en >}}）
+從 2022 年開始將會被 {{< wiki 性別肯定激素治療 >}}（Gender-Affirming Hormone Therapy） 逐步取代
 
 [本站板塊]({{< ref "hrt-overview" >}})
-[性別肯定激素治療 - 維基百科](https://zh.wikipedia.org/wiki/性別肯定激素治療)
 
 ## SRS
 
-性別重置手術（Sex reassignment surgery）
+{{< wiki 性別重置手術 >}}（{{< wiki "Sex reassignment surgery" en >}}）
 有時也會被稱之為：GRS (gender reassignment surgery) 、性別確認手術（Gender Confirmation Surgery ）、性別還原手術
 
 [本站板塊]({{< ref "srs-faq" >}})
-[維基百科](https://zh.wikipedia.org/wiki/性別重置手術)
 
 ## SRT
 
-性別重置療法（Sex reassignment therapy），包含 HRT 和 SRS 等
-
-[維基百科](https://zh.wikipedia.org/wiki/性別重置療法)
+{{< wiki 性別重置療法 >}}（{{< wiki "Sex reassignment therapy" en >}}），包含 HRT 和 SRS 等
 
 ## FFS
 
@@ -83,13 +77,11 @@ FtX, MtX 的 X 借自日語 Ｘジェンダー（X-gender），即 non-binary �
 
 ## CD
 
-異裝（Cross-dressing）
+{{< wiki 異裝 >}}（{{< wiki "Cross-dressing" en >}}）
 
 異裝舊稱為易裝，是一個男女二元性別框架下的概念，指人們出於不同的原因，選擇在特定文化語境下通常與另一性別相關的打扮和行為模式，如男性選擇偏女性氣質的打扮，或女性選擇偏男性氣質的打扮等。
 異裝癖指伴隨性滿足的異裝。將異裝癖等同於異裝，是對異裝的汙名化。
 異裝指的是這種行為本身，是一種性別表達，而不是一種性傾向，也不是一種性別認同，因此異裝不等同於同性戀，也不等同於跨性別。
-
-[維基百科](https://zh.wikipedia.org/wiki/異性裝扮)
 
 ## WPATH
 
