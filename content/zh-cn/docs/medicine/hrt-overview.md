@@ -1,5 +1,5 @@
 ---
-title: HRT 总述
+title: HRT 综述
 weight: 1
 slug: overview
 ---

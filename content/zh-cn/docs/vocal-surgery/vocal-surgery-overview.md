@@ -1,5 +1,5 @@
 ---
-title: 声带手术概述
+title: 声带手术综述
 slug: overview
 weight: 1
 ---
