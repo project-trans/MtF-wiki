@@ -12,7 +12,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 所在医院：[Preecha Aesthetic Institute](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
 
-医疗陪护：Jessica (🇸🇬) {{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
+翻译陪护：Jessica (可带其他医生) {{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
 
 主要提供：
 
