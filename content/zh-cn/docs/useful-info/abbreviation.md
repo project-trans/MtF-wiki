@@ -69,7 +69,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 [维基百科](https://zh.wikipedia.org/wiki/性别重置疗法#其他疗法)
 
-北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/L-ViMDYNLycgIMc4SJQHvQ)
+北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ) (<https://archive.is/cenPo>)
 
 ## VFS
 

@@ -4,13 +4,13 @@ description: 上海九院提供跨性别序列治疗
 slug: sh9
 ---
 
-本文大部分内容基于 [上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw) 和 [上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw) 撰写。
+本文大部分内容基于 [上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw) (<https://archive.is/4TZhr>) 和 [上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw) (<https://archive.is/WfX7x>) 撰写。
 
 （虽然这里是 上海九院，但是 上海六院 用男证可以挂妇科）
 
 医生姓名：[程辰](https://www.haodf.com/doctor/3308881283.html)
 
-所在医院：[上海第九人民医院（南部）- 新门诊楼](https://amap.com/place/B0FFHGMHTC)
+所在医院：[上海第九人民医院（南部）- 新门诊楼](https://amap.com/place/B0FFFZY3L4)
 
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/3308881283.html>
 
@@ -27,7 +27,7 @@ slug: sh9
 
 - 如非周六就诊，建议早点去、空腹去，这样血液检查可以和其他所有检查一起当天就做掉，不用多跑一次了。如果在别的医院有做过检查，建议都带上，这样可以节约不少开支。
 
-就诊地点位于新门诊大楼，不是 10 号楼急诊。[AMap](https://surl.amap.com/lFB8mBri3X3) [Apple Map](https://maps.apple.com/?address=Quxi%20Road%20No.500,%20Huangpu,%20Shanghai%20China&auid=1118368604912837&ll=31.201690,121.487349&lsp=57879&q=Shanghai%20Ninth%20People's%20Hospital,%20Shanghai%20Jiaotong%20University%20School%20of%20Medicine%20South%20Hospital%20Out-patients%20Building&_ext=CjEKBAgEEAQKBAgFEAMKBAgGEAoKBAgbEAMKBAhSEAkKBAhVEA4KBAhZEAEKBQikARABEiQpTfaKM0sxP0AxBslBqWleXkA5xOs/pvA1P0BBPapbnfBfXkA%3D&t=r)
+就诊地点位于新门诊大楼，不是 10 号楼急诊。
 
 进入 1 楼大厅后，直接去挂号窗口/挂号机器排队挂号。如果你持有医保卡或仅有身份证，你需要在窗口/机器办一张就诊卡。
 
