@@ -75,7 +75,8 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 声音女性化手术（Voice feminization surgery）
 
-[本站板块]({{< ref "vocal-training" >}})
+[嗓音女性化手术]({{< ref "vocal-surgery" >}})
+[嗓音女性化训练]({{< ref "vocal-therapy" >}})
 
 ## AG
 
