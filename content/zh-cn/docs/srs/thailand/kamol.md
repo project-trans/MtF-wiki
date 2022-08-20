@@ -24,12 +24,12 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 ```csv
 手术方式,价格
 0 深度,{{< currency from="THB" value="257250" >}}
-PI 皮瓣,{{< currency from="THB" value="300300" >}}
+PI 皮瓣,{{< currency from="THB" value="330000" >}}
 非 PI 皮瓣,{{< currency from="THB" value="321000" >}}
 非 PI + 腹股沟皮瓣,{{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
 结肠,{{< currency from="THB" value="472500" >}}
 结肠（腹腔镜）,{{< currency from="THB" value="577500" >}}
-腹膜（腹腔镜）,{{< currency from="THB" value="592800" >}}
+腹膜（腹腔镜）,{{< currency from="THB" value="599000" >}}
 ```
 
 支持 中国银联卡、VISA 卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
