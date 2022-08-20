@@ -12,7 +12,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 所在医院：[Preecha Aesthetic Institute](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
 
-医疗陪护：Jessica (SG) {{< shields/wechat "JessicaLee9985" >}}
+医疗陪护：Jessica (🇸🇬) {{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
 
 主要提供：
 
@@ -39,7 +39,7 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 
 ### Sutin Khobunsongserm（苏廷）
 
-类似于 Kamol．
+类似于 Preecha．
 
 ## SRS 费用
 
