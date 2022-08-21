@@ -4,7 +4,7 @@ description: MtF.wiki Welcome
 keywords: [mtf, "MtF.wiki", 跨性别, 木桶饭, TS, 药娘, 变性, 吃糖]
 ---
 
-欢迎来到 {{< mtf-wiki >}}。这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
+欢迎来到 {{< mtf-wiki >}}。这里是一个或许可以给部分跨性别女性与非常规性别群体提供帮助的地方。
 
 MtF（Male-to-Female），跨性别女性，是指出生时指定性别[^1]是男性的女性。
 
