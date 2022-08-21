@@ -1,15 +1,18 @@
 ---
 title: PAI (Burin, Sutin)
 aliases: burin
+keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國, burin, 布林]
 ---
 
-醫院：[Preecha Aesthetic Institute (PAI)](https://pai.co.th/)
+醫院：[Preecha Aesthetic Institute](https://pai.co.th)
 
-郵箱與預約：<Consult@pai.co.th>
+郵箱與預約：<consult@pai.co.th>
 
 電話：{{< telephone "+662 715-0111" >}}
 
-地點：[898, 1 Thong Lo Rd, Khlong Toei Nuea, Watthana, Bangkok 10110](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
+所在醫院：[Preecha Aesthetic Institute](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
+
+翻譯陪護：Jessica (可帶其他醫生) {{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
 
 主要提供：
 
@@ -20,19 +23,29 @@ aliases: burin
 
 ### Burin Wangjiraniran（布林）
 
-醫生 Facebook：[dr.Burin](https://www.facebook.com/dr.Burin)
+醫生 Facebook：[Dr. Burin](https://www.facebook.com/dr.Burin)
 
-Burin 的技術使用改進的 PI，用一部分陰囊皮膚作為小陰唇，用陰莖皮膚（並在末端與取下的另一部分陰囊皮片縫合，當材料不足時）作為陰道內壁，使用帶有包皮的龜頭作為陰蒂和陰蒂包皮，同時用適當的縫線構造陰蒂的外形，並使用尿道黏膜覆蓋陰道前庭和陰道口，如果有材料不足的情況下會採用腹部的外皮組織作為構建陰唇旁外皮。此外，Burin 也接受結腸 SRS．總體而言，Burin 能實現大致合理的結構，但歷史案例小陰唇下方和 Kamol 一樣較為不自然，近期已經有所改善，雖然外觀還是不如 Suporn．
+Burin 目前所使用的手術技術為自主研發的 **Diamond technique**，此術式以其手術介面為命名。利用此技術創造了體積大的小陰唇，儘可能深地延伸到後側小陰唇。外陰微微張開，看起來較自然。
+
+##### 疤痕狀況
+
+第一個疤痕：恥骨上的垂直疤痕，長2-3釐米，隱藏在陰毛後面。
+第二道傷疤：兩側長3-4釐米的V形傷疤。疤痕位於一段時間後將隱藏在自然皮膚摺痕/褶皺中的區域。
+如果因為睪丸切除、HRT 和其他因素導致沒有足夠的陰囊皮膚的患者，將會取用腹部皮膚以補充材料。(額外收費)
+
+![Pi](https://www.transgendersurgerythailand.com/images/3958_1152B3DE-0396-163D-0BE2-C7BA89904366.jpg)
 
 ### Tiewtranon
 
-不再進行手術。
+**不再進行手術。**
 
 ### Sutin Khobunsongserm（蘇廷）
 
-類似於 Burin．
+類似於 Preecha．
 
 ## SRS 費用
+
+依據與 PAI 診所聯絡得到有關於 Burin 的皮瓣手術價格為 11500 USD
 
 包括：
 
@@ -42,11 +55,13 @@ Burin 的技術使用改進的 PI，用一部分陰囊皮膚作為小陰唇，�
 1. 實驗室測試：CBC、EKG、UA、HIV 抗體、胸部 X 射線等程式所必需的（50 歲以上需要檢查心內科。額外收費 100 美元）
 1. 醫療裝置和醫療用品- 全身麻醉 – 麻醉前藥物、麻醉和醫用氣體（氧氣、一氧化二氮）
 1. 醫療- 醫生費用- 麻醉費- 護理服務-
-1. 一包衛生巾
-1. PAI 的 GRS 擴張器（1 號）
+1. 穿戴式姨媽巾、看護墊、抗生素粉
+1. PAI 的 GRS 擴張器（1 & 2 號）
 1. 帶回家的藥物和用品
 1. 術後護理
 1. 交通接送
+1. 陰道清洗器 (新版只有 Burin 有)
+1. 冷熱敷袋
 
 住宿服務包括：
 
@@ -69,7 +84,8 @@ Burin 的技術使用改進的 PI，用一部分陰囊皮膚作為小陰唇，�
 1. 嚴重醫療問題告知醫生
 1. 從手術前的午夜開始停止進餐和飲水。
 1. 有 15 天左右的空餘時間。
-1. HIV 額外收取 30% 費用。
+1. HIV 額外收取 50% 額外費用。
+1. 肥胖將加收 10% 額外費用。
 
 ## 陰莖倒置的術式細節
 

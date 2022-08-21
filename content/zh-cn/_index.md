@@ -1,6 +1,6 @@
 ---
 title: MtF.wiki
-updatesBanner: "手机用户请不要点左上角的“三”，请点下面的“查看文档”"
+updatesBanner: "手机用户请不要点左上角的☰，请点下面的“查看文档”"
 description: MtF.wiki
 landing:
   height: 700

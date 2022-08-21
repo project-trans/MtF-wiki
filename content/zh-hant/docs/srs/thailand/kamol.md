@@ -1,15 +1,19 @@
 ---
 title: Kamol
+keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國, Kamol, 咖蒙]
 ---
 
 {{< tag/pos "WPATH 成員" >}}
 
-醫生姓名：Kamol Pansritum，伽蒙
+醫生姓名：Kamol Pansritum，咖蒙
+
 <!-- https://www.kamolhospital.com/zh/profile-doctor/dr-kamol-pansritum/ 這裡有照片 -->
 
 所在醫院：[Kamol Cosmetic Hospital](https://goo.gl/maps/oMMRQotSXqQSmvC48)
 
 郵箱：<customercare@kamolhospital.com>
+
+微信：{{< shields/wechat "xiaofeitum2" >}}
 
 電話：{{< telephone "+66 2559-0155" >}}
 
@@ -20,13 +24,15 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 ```csv
 手術方式,價格
 0 深度,{{< currency from="THB" value="257250" >}}
-PI 皮瓣,{{< currency from="THB" value="300300" >}}
+PI 皮瓣,{{< currency from="THB" value="330000" >}}
 非 PI 皮瓣,{{< currency from="THB" value="321000" >}}
 非 PI + 腹股溝皮瓣,{{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
 結腸,{{< currency from="THB" value="472500" >}}
 結腸（腹腔鏡）,{{< currency from="THB" value="577500" >}}
-腹膜（腹腔鏡）,{{< currency from="THB" value="592800" >}}
+腹膜（腹腔鏡）,{{< currency from="THB" value="599000" >}}
 ```
+
+支援 中國銀聯卡、VISA 卡、支付寶 付款（支付寶建議出國前將錢全部存入餘額，避免出現因銀行卡的每日限額導致錢存不進的情況）
 
 酒店費用：出院後，前 14 天須在下方指定酒店進行恢復，之後可自行選擇其他酒店。需要 3 ~ 4 周左右。
 
@@ -53,7 +59,9 @@ PI 皮瓣,{{< currency from="THB" value="300300" >}}
 
 Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 
-全身麻醉後，沿 Denonvilliers 筋膜在直腸和泌尿道之間進行一次新陰道腔剝離術，深度約為 5 ~ 7 英寸。皮瓣 SRS 使用陰莖和陰囊皮膚作為陰道內壁和陰道口，材料不足時使用腹股溝皮片。腹膜 SRS 則使用腹腔鏡取腹膜作為陰道內壁，使用陰莖皮膚作為陰道口。可實現相對充分的分泌。陰莖的核心和筋膜將被切除，感覺神經將被保留下來，用於製造陰蒂和陰蒂罩。切除睪丸，尿路將會變短、變形，海綿組織將會切除，以便尿液像女性一樣流出。
+全身麻醉後，沿 Denonvilliers 筋膜在直腸和泌尿道之間開闢新陰道腔，深度約為 5 ~ 7 英寸。皮瓣 SRS 使用陰莖和陰囊皮膚作為陰道內壁和陰道口，材料不足時使用腹股溝皮片。腹膜 SRS 則使用腹腔鏡取腹膜作為陰道內壁，使用陰莖皮膚作為陰道口。
+
+陰莖的核心和筋膜將被切除，神經將被保留下來用於製造陰蒂。尿路將會變短、變形，海綿組織將會切除。
 
 對於使用了腹腔鏡的結腸與腹膜 SRS，可以避免在手術部位留下顯著的疤痕，但會在肚子上形成 4 個小拇指指甲蓋大小的傷口。由於這一技術相對較新，存在更多併發症的風險。
 
@@ -66,7 +74,7 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 ## 預約事項
 
 1. 確認手術日期後，需提前支付 10% 手術費用作為定金。
-1. 必須至少 20 歲。18-20 歲則需要合法父母或監護人授權他們進行手術。
+1. 應當至少 20 歲。18-20 歲則需要合法父母或監護人授權他們進行手術。（注：經瞭解泰國政府與院方並未針對不滿 20 歲者拒絕手術或提高門檻或索要超出常規的證明檔案（尤其泰國人根本不感興趣你全家戶口和身份證），此類行為可能是中文中介的個人行為）
 1. 必須連續服用女性荷爾蒙至少一年。
 1. 必須長時間的認為自己是女性。
 1. 至少度過了一年的女性生活。
@@ -121,4 +129,4 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 
 ## 內容參考
 
-[Gogo變成貓貓了——SRS日誌](https://blog.gogo.moe/Gogo%E5%8F%98%E6%88%90%E7%8C%AB%E7%8C%AB%E4%BA%86/)
+[Gogo 變成貓貓了——SRS 日誌](https://blog.gogo.moe/Gogo%E8%AE%8A%E6%88%90%E8%B2%93%E8%B2%93%E4%BA%86/)<!--不要改成漢字以免簡繁轉換導致404-->
