@@ -24,3 +24,7 @@ document.addEventListener(
   },
   { capture: true },
 );
+
+function showHiddenPhoto(elem) {
+  elem.classList.add('show');
+}

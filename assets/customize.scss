@@ -164,3 +164,37 @@ a.anchor {
 .footer__contents {
   text-align: left;
 }
+div.hidden-photo {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  img {
+    transition: filter 0.3s;
+    filter: blur(25px);
+  }
+  .mask {
+    position: absolute;
+    z-index: 1;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: rgba($color: #000000, $alpha: 0.5);
+    transition: opacity 0.3s;
+    opacity: 1;
+    &::before {
+      content: '点击查看';
+      color: white;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  &.show {
+    img {
+      filter: blur(0);
+    }
+    .mask {
+      opacity: 0;
+    }
+  }
+}
