@@ -1,28 +1,28 @@
 ---
-title: FFS 概述
+title: FFS 综述
 slug: overview
 ---
 
-## FFS 是什么
+## FFS 是什么 {#what}
 
-即面部女性化手术（Facial Feminization Surgery）。
+即面部女性化手术（{{< wiki "Facial Feminization Surgery" en >}}）。
 
 由于指派男性于青春期后具有额薄、尖角、鼻尖高、睑高、驼峰鼻宽、鼻下垂、鼻翼宽、肌沟、颧弓宽、下唇宽、颏部宽、人中长、弓角下垂、胡须等男性化面部特征，医生可以根据跨性别者自身的需要进行个性化的设计，来帮助减少男性性征，促进女性性征表达，体验所认同性别（女性）的生理状态，帮助自我接纳；实现性别身份的转变。
 
-## 常见面部女性化手术项目[^1]
+## 常见面部女性化手术项目 {#projects}
 
-1. **自体脂肪填充**（包含额部脂肪填充
+1. **自体脂肪填充**（包含额部脂肪填充）
 1. **眉弓降低术**（额部突出骨板截骨，塑平后重置）
-1. 重睑术。适用于单睑、上睑松弛（「三角眼」）、上睑肥厚（「泡泡眼」）者
+1. {{< wiki 重睑术 >}}。适用于单睑、上睑松弛（「三角眼」）、上睑肥厚（「泡泡眼」）者
 1. 鼻综合整形。适用于驼峰鼻、宽鼻、鼻尖下垂、鼻翼宽等
 1. 唇部综合整形,包括**口角上提**。适用于红唇过薄、人中过长、口角下垂者
 1. **颧弓缩窄**。适用于颧弓过宽者
 1. **下颌角截骨**。适用于下颌角过宽者
 1. 颏部（下巴）缩窄/截短。适用于宽下巴、下巴过翘者
-1. **激光脱毛**。
-1. 喉结缩小（鉴于中文语境下喉结不属于面部，以及喉结切除术的需求量高于 FFS，MtF.wiki 将喉结手术单列）
+1. **激光{{< wiki 脱毛 >}}**。
+1. [喉结整形术]({{< ref "tracheal-shave" >}})（鉴于中文语境下 喉结 不属于面部，以及 喉结整形术 的需求量高于 FFS，{{< mtf-wiki >}} 将喉结手术单列）
 
-## Why FFS？怎么找 FFS 医生？我需要 FFS 吗？我应该怎么选择 FFS？FFS 能给我带来什么？
+## Why FFS？怎么找 FFS 医生？我需要 FFS 吗？我应该怎么选择 FFS？FFS 能给我带来什么？ {#why}
 
 FFS 的本质是整容医美手术的一部分。因此考虑 FFS 时候可以参考考虑整容医美时候的内容。在整形外科方面具有较好声誉的医院，只要医生愿意为跨性别做手术，都可以考虑。
 
@@ -35,4 +35,10 @@ FFS 的本质是整容医美手术的一部分。因此考虑 FFS 时候可以�
 
 挑选术式如果涉及到比较大的动作，和支持自己的人及医生好好商量各种选择。商量/研究是否这些部位（尤其颧骨眉弓等可以等待脂肪转移的部位）可以等待激素的效果。商量是否可以用额部脂肪填充替代眉弓降低术（额部突出骨板截骨，塑平后重置）
 
-[^1]: 北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ) (<https://archive.is/cenPo>)
+## 参考资料 {#references}
+
+- [北医三院：跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ) (<https://archive.is/cenPo>)
+- <https://www.mayoclinic.org/zh-hans/tests-procedures/facial-feminization-surgery/about/pac-20467962>
+- <http://www.chet-plasticsurgery.com/zh-hans/脸部女性化手术/>
+- <https://www.kamolhospital.com/zh/service/face-feminization/>
+- <http://www.bangkokplasticsurgery.com/?page_id=779&lang=zh-hans>
