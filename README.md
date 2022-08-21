@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line -->
+
 [![MtF-wiki][logo-long]][wiki-url]
 
 镜像站：[MtFwiki.cn](https://mtfwiki.cn)、[MtFwiki.com](https://mtfwiki.com)、[MtF.bond](https://mtf.bond)
@@ -7,7 +8,7 @@
 
 # Welcome to **MtF.wiki**
 
-**简体中文** | [繁中](README-T.md) | [English](README-EN.md) | [Español](README-ES.md)
+**简体中文** | [繁中](README-T.md) | [日本語](README-JA.md) | [English](README-EN.md) | [Español](README-ES.md)
 
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
@@ -26,14 +27,16 @@
 
 ## 内容
 
-欢迎大家来到 MtF.wiki．这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
+欢迎来到 MtF.wiki．这里是一个或许可以给部分跨性别女性提供帮助的地方。
 
 MtF （Male-to-Female），跨性别女性，是指出生时指定性别是男性的女性。
-(ps：在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”）
+(P.S.：在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”）
 
-MtF.wiki 致力于成为一个免费开放且持续更新的跨性别知识整合站点，大家可以在这里了解到各种药物知识、医疗资源、女性常识，以及其他等等。
+MtF.wiki 致力于成为一个免费开放且持续更新的跨性别知识整合站点，大家可以在这里了解到与跨性别相关的医疗信息与生活指南。
+
 现在的 MtF.wiki 正处于起步阶段，各种资料或许并不齐全，甚至可能还有部分错误，欢迎各位热心的姐妹加入我们，为 MtF.wiki 的发展做出贡献。
-至于建设本网站的初衷，除了为广大 MtF 群体提供一个知识平台外，也是渴望他人对转换性别的设定的肯定。
+
+至于建设本网站的初衷，除了为广大 MtF 群体提供一个知识平台外，也是渴望他人对转换性别的设定的肯定。接纳每个人在性倾向、性别身份、性别表达等方面享有平等的选择权，不受污名、歧视和暴力，将帮助发展平等尊重的价值观，创造更友好的社会。
 
 > 不向焦虑与抑郁投降，这个世界终会有我们存在的地方
 

@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line -->
+
 [![MtF-wiki][logo-long]][wiki-url]
 
 Mirrores: [MtFwiki.cn](https://mtfwiki.cn)、[MtFwiki.com](https://mtfwiki.com)
@@ -7,7 +8,7 @@ Sitio hermano: [FtM.wiki](https://ftm.wiki)
 
 # Welcome to **MtF.wiki**
 
-[简中](README.md) | [繁中](README-T.md) | [English](README-EN.md) | **Español**
+[简中](README.md) | [繁中](README-T.md) | [日本語](README-JA.md) | [English](README-EN.md) | **Español**
 
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
@@ -20,7 +21,7 @@ Bienvenida a MtF.wiki. Hay aquí un lugar que podría echar una mano a la comuni
 
 MtF(Male-to-Female), mujer trans, se refiere a las personas que, a pesar de haber sido asignados al género masculino al nacer, sitúan su identidad dentro de lo femenino.
 
-Nos comprometemos a ser un sitio de integración de conocimientos transgénero gratuito, abierto y continuamente actualizado, donde se puede aprender sobre todo tipo de conocimientos medicamentos, médicos, sexuales y mucho más.
+Nos comprometemos a ser un sitio de integración de conocimientos transgénero gratuito, abierto y continuamente actualizado, donde se puede aprender sobre todo tipo de información médica y guías de la vida cotidiana relacionadas con la transexualidad.
 
 La MtF.wiki está en sus inicios, y la información puede no estar completa, e incluso puede haber algunos errores, por lo que damos la bienvenida a todas las hermanas entusiastas para que os unáis a nosotras y contribuyáis al desarrollo de la MtF.wiki.
 
