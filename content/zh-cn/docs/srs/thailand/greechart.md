@@ -24,6 +24,4 @@ Greechart 可以进行结肠和改进 PI 方法进行的 SRS．其颜色、质�
 
 ## 术后效果
 
-{{< expand "展开查看" >}}
-![srs-photo](/images/srs/thailand/greechart/post-1.jpg)
-{{< /expand >}}
+{{< hiddenphoto "/images/srs/thailand/greechart/post-1.jpg" >}}

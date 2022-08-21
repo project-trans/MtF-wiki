@@ -123,9 +123,7 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 ## 术后评价
 
 - 腹膜 2021 年
-  {{< expand "展开查看" >}}
-  ![srs-photo](/images/srs/thailand/kamol/post1.jpg)
-  {{< /expand >}}
+  {{< hiddenphoto "/images/srs/thailand/kamol/post1.jpg" >}}
 
 ## 内容参考
 

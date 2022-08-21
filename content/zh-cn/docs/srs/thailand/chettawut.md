@@ -190,10 +190,7 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
 
 ## 术后评价
 
-{{< expand "展开查看" >}}
-2022 年 1 月
-
-![srs-photo](/images/srs/thailand/chettawut/post-1.jpg)
-{{< /expand >}}
+- 2022 年 1 月
+  {{< hiddenphoto "/images/srs/thailand/chettawut/post-1.jpg" >}}
 
 [医生提供的案例](http://www.chet-plasticsurgery.com/zh-hans/chettawut%e5%8c%bb%e7%94%9f%e6%93%8d%e5%88%80%e7%9a%84%e5%8f%98%e6%80%a7%e6%89%8b%e6%9c%af%e5%ae%9e%e4%be%8b%e8%af%b4%e6%98%8e-2/)

@@ -60,9 +60,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
     <span title="你知道的太多了" class="shadow-text">「對我來說，做一個普通的女孩子，只是一種奢望。」</span>
 </p>
 
-{{< expand "謹慎展開">}}
-![33CLL](/images/meme/33cll.png)
-{{< /expand >}}
+{{< hiddenphoto "/images/meme/33cll.png" >}}
 
 ## 藥娘頭
 

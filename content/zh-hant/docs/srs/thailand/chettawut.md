@@ -1,5 +1,7 @@
 ---
 title: Chettawut 醫生
+keywords:
+  [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國, Chettawut, 蔡達武]
 ---
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
@@ -31,14 +33,17 @@ LINE：{{< shields/line "wihhospital" >}}
 腹膜,{{< currency from="THB" value="530000" >}}
 ```
 
+可以使用中國銀聯支付醫院費用
+
 酒店費用：大概需要 3 ~ 4 周。
 
-- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" value="1100" >}}
+- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" value="1100" >}}（**不能使用中國銀聯支付**）
 
 <!-- 預約可以找中介，也可以透過 <chettawut@gmail.com> 或 <cset@truemail.co.th> 聯絡蔡醫生 -->
 <!-- 因改至 WIH 醫院，原聯絡方法存疑 -->
 
-如交定金時選擇直接向醫院匯款，可能在銀行會因對公轉賬遇到麻煩，如果遇到麻煩，儘量備齊手術相關檔案並要求醫院開賬單。[此頁面](https://wihhospital.com/privacy-policy)說明了 THANADOL & KOJCHABOON CO., LTD.（收款賬戶）與 WIH International Hospital 的關係。
+如交定金時選擇直接向醫院匯款，可能在銀行會因對公轉賬遇到麻煩，如果遇到麻煩，儘量備齊手術相關檔案並要求醫院開賬單。
+[此頁面](https://wihhospital.com/privacy-policy) 說明了 `THANADOL & KOJCHABOON CO., LTD.`（收款賬戶）與 WIH International Hospital 的關係。
 
 ## 手術介紹
 
@@ -80,10 +85,11 @@ Chet 術後出現肉芽是非常常見的現象，通常會在術後複診的時
 
 1. 手術需要兩位心理醫生的證明
 
-   其中可以自行提供一份當地的醫院 **精神科** 證明（翻譯成英文，注意：**醫學心理科不行**，證明上必須寫有 **建議手術** 的字樣）
+   其中可以自行提供一份中國的醫院 **精神科** 證明（翻譯成英文，注意：**醫學心理科不行**，證明上必須寫有 **建議手術** 的字樣）
+   {{< expand "樣例">}}![diagnosis](/images/srs/thailand/chettawut/diagnosis.png){{< /expand >}}
    泰國心理醫生價格 {{< currency from="THB" value="2500" >}} 每位
 
-1. 術前檢查專案（建議在當地醫院做好翻譯成英文）：
+1. 術前檢查專案（建議在中國醫院做好翻譯成英文）：
 
    - CBC 全血檢測報告
    - HIV
@@ -184,10 +190,7 @@ Chet 術後出現肉芽是非常常見的現象，通常會在術後複診的時
 
 ## 術後評價
 
-{{< expand "展開檢視" >}}
-2022 年 1 月
-
-![srs-photo](/images/srs/thailand/chettawut/post-1.jpg)
-{{< /expand >}}
+- 2022 年 1 月
+  {{< hiddenphoto "/images/srs/thailand/chettawut/post-1.jpg" >}}
 
 [醫生提供的案例](http://www.chet-plasticsurgery.com/zh-hans/chettawut%e5%8c%bb%e7%94%9f%e6%93%8d%e5%88%80%e7%9a%84%e5%8f%98%e6%80%a7%e6%89%8b%e6%9c%af%e5%ae%9e%e4%be%8b%e8%af%b4%e6%98%8e-2/)

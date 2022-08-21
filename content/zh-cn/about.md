@@ -52,9 +52,7 @@ GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
 
 ## ~~办公地点~~
 
-{{< expand "谨慎展开">}}
-![33CLL](/images/meme/33cll.png)
-{{< /expand >}}
+{{< hiddenphoto "/images/meme/33cll.png">}}
 
 ## 致谢
 
