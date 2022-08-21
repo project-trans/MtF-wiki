@@ -48,7 +48,7 @@ aliases: progynova
 
 ## 成分信息
 
-- 有效成分：戊酸雌二醇（Estradiol valerate）
+- 有效成分：戊酸雌二醇（{{< wiki "Estradiol valerate" en >}}）
 - 生物利用率：3~5%（经口）
 - 半衰期：12~20 小时（经口）
 - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>

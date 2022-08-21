@@ -57,7 +57,7 @@ keywords: [estradiol, 雌二醇, 雌激素, 凝胶, oestrogel]
 
 ## 成分信息
 
-- 有效成分：雌二醇（Estradiol）
+- 有效成分：{{< wiki 雌二醇 >}}（{{< wiki Estradiol en >}}）
 - 吸收率：10%
 - 半衰期：37 小时（经皮）
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>

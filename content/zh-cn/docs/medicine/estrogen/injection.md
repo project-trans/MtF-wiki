@@ -73,8 +73,8 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 - 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag/neg "不会打针就不要瞎打！" >}}
 - 使用剂量：
-  - 戊酸雌二醇：每5-7天5mg/每1-2周10mg
-  - 环戊丙酸雌二醇：每7天5-6mg/每14天10-12mg
+  - 戊酸雌二醇：每5 - 7 天 5 mg / 每 1 - 2 周 10 mg
+  - 环戊丙酸雌二醇：每 7 天 5 - 6 mg / 每 14 天 10 - 12 mg
 - 注意事项：
   - 请勿重复注入同一位置。
   - 小心避免神经。
@@ -90,10 +90,10 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ```csv
 中文名称,英文名称,半衰期,分子式,分子量,备注
-戊酸雌二醇,Estradiol valerate,4 - 5 天,C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>,356.50,
-环戊丙酸雌二醇,Estradiol cypionate,6 - 7 天,C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>,396.57,
-苯甲酸雌二醇,Estradiol benzoate,2 - 5 天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.49,不推荐使用
-庚酸雌二醇,Estradiol enantate,5 - 8 天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.56,
+戊酸雌二醇,{{< wiki "Estradiol valerate" en >}},4 - 5 天,C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>,356.50,
+环戊丙酸雌二醇,{{< wiki "Estradiol cypionate" en >}},6 - 7 天,C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>,396.57,
+苯甲酸雌二醇,{{< wiki "Estradiol benzoate" en >}},2 - 5 天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.49,不推荐使用
+庚酸雌二醇,{{< wiki "Estradiol enantate" en >}},5 - 8 天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.56,
 ```
 
 ## 参考阅读

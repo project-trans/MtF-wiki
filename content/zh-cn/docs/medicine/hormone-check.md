@@ -27,15 +27,15 @@ weight: 2
 
 未手术：
 
-- [雌二醇](#e2) - 维持女性正常范围
-- [睾酮](#t) - 如使用 [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}}) ，维持女性正常范围附近
-- [FSH](#fsh) & [LH](#lh) - 如使用 [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}}) ，低于正常范围
-- [泌乳素](#prl) - 如使用 [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}}) ，过高请注意
+- [雌二醇]({{< ref "#e2" >}}) - 维持女性正常范围
+- [睾酮]({{< ref "#t" >}}) - 如使用 [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}}) ，维持女性正常范围附近
+- [FSH]({{< ref "#fsh" >}}) &amp; [LH]({{< ref "#lh" >}}) - 如使用 [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}}) ，低于正常范围
+- [泌乳素]({{< ref "#prl" >}}) - 如使用 [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}}) ，过高请注意
 
 睾丸移除或 SRS 后：
 
-- [雌二醇](#e2) - 维持女性正常范围
-- [FSH](#fsh) & [LH](#lh) - 维持女性正常范围附近
+- [雌二醇]({{< ref "#e2" >}}) - 维持女性正常范围
+- [FSH]({{< ref "#fsh" >}}) & [LH]({{< ref "#lh" >}}) - 维持女性正常范围附近
 
 ## 相关指标简介
 
@@ -92,6 +92,7 @@ weight: 2
 - 成年男性睾酮水平的范围：1.75 - 7.81 ng/mL
 
 （仅供参考，不同医院的测定会有不同的结果与不同的参考范围）
+
 {{< /alert >}}
 
 ### 促卵泡激素（FSH）{#fsh}
@@ -113,7 +114,7 @@ weight: 2
 - 使用高浓度雌二醇降雄会使得该项水平降低，甚至低于检出值。
 - 睾丸切除后，该项指标会偏高，如果过高，可能雌二醇用量不足。
 
-### 孕酮（P）
+### 孕酮（P）{#p}
 
 - **孕酮**（P），是一种类固醇和孕激素性激素，也是在体内的主要孕激素。
 - 民间曾怀疑孕酮过高与服用醋酸环丙孕酮（CPA）导致的抑郁有关。
@@ -129,7 +130,7 @@ weight: 2
 如果泌乳素高于正常值三倍，请换药或复查 [脑部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)
 {{< /notice >}}
 
-## 参考阅读
+## 参考阅读 {#reading}
 
 1. [TEST ID: TTFB](https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686)
 1. [跨性别女性的评估和管理](https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management)

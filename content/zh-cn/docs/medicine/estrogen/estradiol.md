@@ -46,7 +46,7 @@ description: 商品名有：Estrofem（诺坤复）
 
 ## 成分信息
 
-- 有效成分：雌二醇（Estradiol）
+- 有效成分：{{< wiki 雌二醇 >}}（{{< wiki Estradiol en >}}）
 - 半衰期：8~18 小时（舌下含服）
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
