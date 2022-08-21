@@ -180,14 +180,12 @@ div.hidden-photo {
     background-color: rgba($color: #000000, $alpha: 0.5);
     transition: opacity 0.3s;
     opacity: 1;
-    &::before {
-      content: '点击查看';
-      color: white;
-      height: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
+    color: white;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
   }
   &.show {
     img {
