@@ -136,6 +136,7 @@ slug: overview
 - [内分泌学会临床实践指南（2）](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
 - [女性化激素治疗概述](https://zhuanlan.zhihu.com/p/39093796) (<https://archive.is/va760>)
 - [医院医保开 HRT 药物流程](https://zhuanlan.zhihu.com/p/387187000) (<https://archive.is/vU33l>)
+- [雌二醇的药代动力学](https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol) （英语）
 - {{< wiki 女性化激素疗法 >}}
 - [HRT.Cafe](https://hrt.cafe)（英语）
 - [DIY HRT](https://diyhrt.wiki)（英语）
