@@ -37,7 +37,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS]
 中国销售的润滑液中较为好用的产品有：
 
 - [杰士邦透明质酸钠润滑液](https://item.jd.com/100039111990.html) （医疗器械级）
-- [杜蕾斯 KY]<https://item.jd.com/100016798066.html>)
+- [杜蕾斯 KY](https://item.jd.com/100016798066.html)
 - [小怪兽元气肽](https://item.jd.com/100016798066.html) （很粘稠）
   {{< /notice >}}
 
