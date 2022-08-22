@@ -33,7 +33,7 @@ LINE：{{< shields/line "wihhospital" >}}
 腹膜,{{< currency from="THB" value="530000" >}}
 ```
 
-可以使用現金(THB)、跨境匯款、儲蓄卡(銀聯)、信用卡(visa, mastercard)、支付寶、微信支付醫院費用。
+可以使用泰銖現金、跨境匯款、國際信用卡、銀聯儲蓄卡、支付寶、微信支付醫院費用。
 
 酒店費用：大概需要 3 ~ 4 周。
 
