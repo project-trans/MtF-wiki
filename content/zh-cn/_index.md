@@ -27,15 +27,14 @@ footer:
           link: https://mtf.wiki
         - title: 源码
           link: https://github.com/mtf-wiki/MtF-wiki
-        - title: 导航站 2345.lgbt
+        - title: 导航站 2345.LGBT
           link: https://2345.lgbt
-
     - title: 动态
       links:
         - title: Twitter
           link: https://mtf.wiki
         - title: Telegram 频道
-          link: https://t.me/mtfwiki
+          link: https://t.me/MtFwiki
     - title: 联系
       links:
         - title: 贡献者指南

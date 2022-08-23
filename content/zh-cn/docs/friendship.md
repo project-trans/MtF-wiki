@@ -5,12 +5,12 @@ weight: 10
 
 ## 站点导航
 
-[2345.lgbt](https://2345.lgbt) 跨性别内容导航站，由 {{< mtf-wiki >}} 团队维护。
+<https://2345.LGBT> 跨性别内容导航站，由 {{< mtf-wiki >}} 团队维护。
 
 ```csv
 站点,介绍
-[FtM.wiki](https://ftm.wiki),兄弟站，跨性别男性（FtM）百科
-[RLE.wiki](https://rle.wiki),真实生活体验相关内容整理，由原 {{< mtf-wiki >}} 校园板块拆出
+<https://FtM.wiki>,兄弟站，跨性别男性（FtM）百科
+<https://RLE.wiki>,真实生活体验相关内容整理，原 {{< mtf-wiki >}} 的 校园指南 板块分离
 ```
 
 ## 生活兴趣交流群
@@ -22,7 +22,7 @@ QQ,跨儿音游组,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0c
 Telegram,Backlight.Town 逆光小镇,联系 {{< shields/telegram rikablossom >}} 加入
 Telegram,跨儿音游组,{{< shields/telegram otoge_trans >}}
 Matrix,Arch 木桶饭,{{< shields/matrix arch-mtf matrix.malacology.net >}}
-Discord,MtF.wiki Official,https://link.mtf.wiki/discord
+Discord,MtF.wiki Official,{{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
 ```
 
 ## SRS 手术交流群

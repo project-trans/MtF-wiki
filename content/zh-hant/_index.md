@@ -26,14 +26,14 @@ footer:
           link: https://mtf.wiki
         - title: 原始碼
           link: https://github.com/mtf-wiki/MtF-wiki
-        - title:  導航站 2345.lgbt
+        - title:  導航站 2345.LGBT
           link: https://2345.lgbt
     - title: 動態
       links:
         - title: Twitter
           link: https://mtf.wiki
         - title: Telegram 頻道
-          link: https://t.me/mtfwiki
+          link: https://t.me/MtFwiki
     - title: 社群聯絡
       links:
         - title: 貢獻者指南
