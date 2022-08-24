@@ -30,12 +30,12 @@ Discord,MtF.wiki Official,{{< shields/discord 883004164760801320 "MtF.wiki Offic
 - **[411]({{< ref "sh411" >}}) 手术交流群**（QQ 群组）
 
   已预约 或 已经完成手术 的姐妹，
-  请发送邮件至 <411-mtf-srs@kuaer.club> 请注明你的手术时间。
+  请发送邮件至 <srs-411@mtf.wiki> 请注明你的手术时间。
 
-- **[泰国]({{< ref "thailand" >}}) 手术交流群**（QQ 与 Telegram 群组）
+- **[泰国]({{< ref "srs-overview-thailand" >}}) 手术交流群**（QQ 与 Telegram 群组）
 
   已预约、正在泰国 或 已经在泰国手术 的姐妹，
-  请发送邮件至 <mtfwiki@estela.cn> 请注明你的医生。
+  请发送邮件至 <srs-th@mtf.wiki> 请注明你的医生。
 
 ## 跨性别相关 bot（QQ）{#trans-bot}
 
