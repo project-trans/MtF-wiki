@@ -50,7 +50,7 @@ SRS 流程的保险报销前金额大致如下：
 - Initial Consultation：{{< currency from="USD" value=200 >}} - {{< currency from="USD" value=400 >}}
 - SRS 手术：{{< currency from="USD" value=60000 >}} - {{< currency from="USD" value=300000 >}}
 
-但是在保险报销之后，在美国进行 SRS 的价格一般会控制在 {{< currency from="USD" value=10 >}},000 以内，在比较流行的 SRS 目的地中算价格有优势的。
+但是在保险报销之后，在美国进行 SRS 的价格一般会控制在 {{< currency from="USD" value=10000 >}} 以内，在比较流行的 SRS 目的地中算价格有优势的。
 
 ## 旅行指南
 
