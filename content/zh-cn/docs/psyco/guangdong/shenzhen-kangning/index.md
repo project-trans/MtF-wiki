@@ -83,5 +83,4 @@ title: 深圳市康宁医院
 
 ## 证明样式
 
-![Proof (1/2)](proof-1.jpg)
-![Proof (2/2)](proof-2.jpg)
+{{< gallery pattern="proof-*" >}}

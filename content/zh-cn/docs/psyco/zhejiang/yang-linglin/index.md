@@ -55,9 +55,7 @@ title: 杭州｜杨玲琳
 
 ## 证明样式
 
-![image0](image0.jpg)
-
-![image1](image1.jpg)
+{{< gallery pattern="image*" >}}
 
 ## 其他
 

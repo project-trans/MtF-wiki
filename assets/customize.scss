@@ -196,3 +196,14 @@ div.hidden-photo {
     }
   }
 }
+.gallery {
+  display: flex;
+  overflow-x: auto;
+  padding: 0 1rem;
+
+  gap: 1rem;
+
+  img {
+    border-radius: 1rem;
+  }
+}

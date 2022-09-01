@@ -43,9 +43,7 @@ title: 杭州｜浙江大学附属第二医院(解放院区)
 
 ## 证明样式
 
-![image0](image0.jpg)
-
-![image1](image1.jpg)
+{{< gallery pattern="image*" >}}
 
 ## 其他
 
