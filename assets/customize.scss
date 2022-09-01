@@ -204,6 +204,7 @@ div.hidden-photo {
   gap: 1rem;
 
   img {
-    border-radius: 1rem;
+    object-fit: contain;
+    max-height: 50vh;
   }
 }
