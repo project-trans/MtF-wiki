@@ -26,18 +26,18 @@ LINE：{{< shields/line "wihhospital" >}}
 
 ```csv
 手术方式,价格
-零深度,{{< currency from="THB" value="330000" >}}
-皮瓣,{{< currency from="THB" value="350000" >}}
-结肠,{{< currency from="THB" value="450000" >}}
-结肠（腹腔镜）,{{< currency from="THB" value="650000" >}}
-腹膜,{{< currency from="THB" value="530000" >}}
+零深度,{{< currency 330000 THB >}}
+皮瓣,{{< currency 350000 THB >}}
+结肠,{{< currency 450000 THB >}}
+结肠（腹腔镜）,{{< currency 650000 THB >}}
+腹膜,{{< currency 530000 THB >}}
 ```
 
 可以使用泰铢现金、跨境汇款、国际信用卡、银联储蓄卡、支付宝、微信支付医院费用。
 
 酒店费用：大概需要 3 ~ 4 周。
 
-- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency from="THB" value="1100" >}}（**不能使用中国银联支付**）
+- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency 1100 THB >}}（**不能使用中国银联支付**）
 
 <!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
 <!-- 因改至 WIH 医院，原联系方法存疑 -->
@@ -87,7 +87,7 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
 
    其中可以自行提供一份中国的医院 **精神科** 证明（翻译成英文，注意：**医学心理科不行**，证明上必须写有 **建议手术** 的字样）
    {{< expand "样例">}}![diagnosis](/images/srs/thailand/chettawut/diagnosis.png){{< /expand >}}
-   泰国心理医生价格 {{< currency from="THB" value="2500" >}} 每位
+   泰国心理医生价格 {{< currency 2500 THB >}} 每位
 
 1. 术前检查项目（建议在中国医院做好翻译成英文）：
 

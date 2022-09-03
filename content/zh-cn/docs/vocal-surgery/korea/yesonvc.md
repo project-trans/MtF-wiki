@@ -9,9 +9,9 @@ weight: 0
 
 ## 费用
 
-{{< currency from="USD" value="8400" >}} + 肉毒素费用{{< currency from="USD" value="400" >}}
+{{< currency 8400 USD >}} + 肉毒素费用{{< currency 400 USD >}}
 
-翻译现在可以通过医院请，3 天共 10 小时在{{< currency from="KRW" value="320000" >}}。
+翻译现在可以通过医院请，3 天共 10 小时在{{< currency 320000 KRW >}}。
 
 医院可以银联卡支付。
 

@@ -44,18 +44,18 @@ title: 多伦多大学 UofT
 
 ## 费用/保险 {#register}
 
-2022 年多伦多大学一学期的学费里需要交 {{< currency from="CAD" value=116 >}} UTSU Health Plan 和 {{< currency from="CAD" value=97 >}} 可以退的 UTSU Dental Plan。如果你和我一样是留学生的话还要交 {{< currency from="CAD" value=756 >}} 的 UHIP (University Health Insurance Plan)，用来不完全替代安省{{< ruby 永久居民 "permanent resident" >}}或者全职员工才能申请的 OHIP (Ontario Health Insurance Plan)。
+2022 年多伦多大学一学期的学费里需要交 {{< currency 116 CAD >}} UTSU Health Plan 和 {{< currency 97 CAD >}} 可以退的 UTSU Dental Plan。如果你和我一样是留学生的话还要交 {{< currency 756 CAD >}} 的 UHIP (University Health Insurance Plan)，用来不完全替代安省{{< ruby 永久居民 "permanent resident" >}}或者全职员工才能申请的 OHIP (Ontario Health Insurance Plan)。
 
 来到加拿大之后记得注册一下 Sunlife 的账号才能打印 UHIP 卡哦，去诊所去领药什么的把 UHIP 卡带上。[注册教程](https://internationalexperience.utoronto.ca/international-student-services/healthcare-coverage-and-u-of-t/university-health-insurance-plan-uhip/accessing-your-uhip-card-and-online-registration/)
 
 ### 保险内容 {#audit}
 
-**OHIP / UHIP**: 跨性别相关的话，OHIP / UHIP 可以报销咨询医生的费用和检查抽血费用，UofT 的校医是半小时 {{< currency from="CAD" value=85 >}}。OHIP / UHIP 好像都能报销 SRS 手术费用来着（留一个坑，术后欢迎补充）。
+**OHIP / UHIP**: 跨性别相关的话，OHIP / UHIP 可以报销咨询医生的费用和检查抽血费用，UofT 的校医是半小时 {{< currency 85 CAD >}}。OHIP / UHIP 好像都能报销 SRS 手术费用来着（留一个坑，术后欢迎补充）。
 
 但是 UHIP 保险范围和 OHIP 比起来还是很有限。25 岁以下的学生 OHIP 可以报销 {{< ruby 处方药 "prescription" >}} 费用，但是 UHIP 只能报销住院的处方药费用。
 
-在 Sunlife 网站上可以看到所有报销的费用清单，下面的截图是我 2021-2022 学年的，总共报销了 {{< currency from="CAD" value=391 >}}... ~~算下来好亏呀~~。
+在 Sunlife 网站上可以看到所有报销的费用清单，下面的截图是我 2021-2022 学年的，总共报销了 {{< currency 391 CAD >}}... ~~算下来好亏呀~~。
 
 ![Sunlife Claim Screenshot](img_sunlife_claim.png)
 
-**UTSU (UofT Only)**: UTSU 报销了 UHIP 没有报销的处方药费用，只报销 80% 但是也非常足够了。我的处方是 12.5mg/d 色 + Estradot 100 贴片，每个月大概要花 {{< currency from="CAD" value=8 >}}。
+**UTSU (UofT Only)**: UTSU 报销了 UHIP 没有报销的处方药费用，只报销 80% 但是也非常足够了。我的处方是 12.5mg/d 色 + Estradot 100 贴片，每个月大概要花 {{< currency 8 CAD >}}。

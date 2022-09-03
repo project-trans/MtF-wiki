@@ -6,7 +6,7 @@ title: Thiti 醫生
 
 ```csv
 手術方式,價格
-皮瓣,{{< currency from="THB" to="TWD" value="260000" >}}
+皮瓣,{{< currency 260000 THB >}}
 ```
 
 醫療中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>

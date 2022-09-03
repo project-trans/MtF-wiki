@@ -11,7 +11,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 ```csv
 手术方式,价格
-皮瓣,{{< currency from="THB" value="260000" >}}
+皮瓣,{{< currency 260000 THB >}}
 ```
 
 医疗中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>

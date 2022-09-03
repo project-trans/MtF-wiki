@@ -23,20 +23,20 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ```csv
 手术方式,价格
-0 深度,{{< currency from="THB" value="257250" >}}
-PI 皮瓣,{{< currency from="THB" value="330000" >}}
-非 PI 皮瓣,{{< currency from="THB" value="321000" >}}
-非 PI + 腹股沟皮瓣,{{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-结肠,{{< currency from="THB" value="472500" >}}
-结肠（腹腔镜）,{{< currency from="THB" value="577500" >}}
-腹膜（腹腔镜）,{{< currency from="THB" value="599000" >}}
+0 深度,{{< currency 257250 THB >}}
+PI 皮瓣,{{< currency 330000 THB >}}
+非 PI 皮瓣,{{< currency 321000 THB >}}
+非 PI + 腹股沟皮瓣,{{< currency 320000 THB >}} ~ {{< currency 336000 THB >}}
+结肠,{{< currency 472500 THB >}}
+结肠（腹腔镜）,{{< currency 577500 THB >}}
+腹膜（腹腔镜）,{{< currency 599000 THB >}}
 ```
 
 支持 中国银联卡、VISA 卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
 
 酒店费用：出院后，前 14 天须在下方指定酒店进行恢复，之后可自行选择其他酒店。需要 3 ~ 4 周左右。
 
-- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency 1500 THB >}} 每天
 
 手术费用包括：
 
@@ -50,10 +50,10 @@ PI 皮瓣,{{< currency from="THB" value="330000" >}}
 手术费用不包括：
 
 1. 实验室检查费用：
-   价格：{{< currency from="THB" value="5600" >}}
+   价格：{{< currency 5600 THB >}}
    检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
-   价格：{{< currency from="THB" value="4000" >}}
+   价格：{{< currency 4000 THB >}}
 
 ## 手术介绍
 
@@ -91,9 +91,9 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 - 深静脉血栓形成：总费用的 30％
 - BMI 超过 27：总费用的 30％
 - ≥ 50 岁或 ≥ 40 岁且患有基础疾病（例如哮喘，高血压，心脏病，糖尿病，深静脉血栓形成等）的顾客：运动压力测试（EST）
-  价格：{{< currency from="THB" value="7700" >}}
+  价格：{{< currency 7700 THB >}}
 - 心脏病专家探访
-  价格：{{< currency from="THB" value="1000" >}} ~ {{< currency from="THB" value="5000" >}}
+  价格：{{< currency 1000 THB >}} ~ {{< currency 5000 THB >}}
   这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺 部检查，甲状腺检查等）
 
 ## 手术日程

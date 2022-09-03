@@ -43,7 +43,7 @@ slug: overview
 
 ## 費用預期 {#fee}
 
-皮瓣手術的預期為：{{< currency from="THB" to="TWD" value="300000" >}}
+皮瓣手術的預期為：{{< currency 300000 THB >}}
 
 ## 旅行指南 {#travel}
 
