@@ -1,6 +1,6 @@
 ---
 title: 喉结整形术
-weight: 5
+weight: 2
 aliases:
   - ../tracheal-shave
   - ../tracheal-shave/chhospital
@@ -12,15 +12,23 @@ aliases:
 
 喉结整形术（{{< wiki Chondrolaryngoplasty en >}}）通过切除部分软骨，可以缩小喉结，有助于 MtF 外表女性化。
 
+## 前置条件 {#prerequirements}
+
+<!-- TODO: 年龄限制 未知，姑且认为 18 周岁 -->
+
+- [诊断证明]({{< ref "psyco-overview" >}})
+
 ## 已确认列表 {#confirmed}
 
+费用因人而异，最低不低于 6k
+
 ```csv
-省市,医院名称,主刀医生,价格,备注
-北京市,北京友谊医院,李革临,6k CNY,可同时安排 [声带手术]({{< ref "li-gelin" >}})
-北京市,北京大学第三医院,潘柏林,16k CNY,号源紧张
-上海市,上海长海医院（虹口分院）,赵烨德,,不能与 [SRS]({{< ref "sh411" >}}) 合并进行
-四川省成都市,四川大学华西医院,许学文,9k ~ 14k CNY,号源紧张
-四川省成都市,四川省人民医院,游晓波,7k ~ 10k CNY,号源紧张
+省市,医院名称,主刀医生,备注
+北京市,北京友谊医院,[李革临]({{< ref "li-gelin" >}}),可同时安排声带手术，[笔记]({{< ref "li-gelin-vocal-202202" >}})
+北京市,北京大学第三医院,[潘柏林]({{< ref "pan-bailin" >}}),
+上海市,上海长海医院（虹口分院）,[赵烨德]({{< ref "sh411" >}}),不能与 SRS 合并进行
+四川省成都市,四川大学华西医院,[许学文]({{< ref "xu-xuewen" >}}),
+四川省成都市,四川省人民医院,[游晓波]({{< ref "you-xiaobo" >}}),
 ```
 
 ## 面诊 {#outpatient}
