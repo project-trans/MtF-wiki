@@ -29,7 +29,7 @@ aliases:
 四川省成都市,四川省人民医院,[游晓波]({{< ref "you-xiaobo" >}}),
 ```
 
-一般认为，能进行 [SRS]({{< ref "srs-overview-china" >}}) 业务的均可进行本手术。
+一般认为，能进行 [SRS]({{< ref "srs-overview-china" >}}) 或 [声带手术]({{< ref "vocal-surgery-overview" >}}) 的均可进行本手术。
 
 ## 面诊 {#outpatient}
 
