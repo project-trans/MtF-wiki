@@ -1,14 +1,7 @@
-{{- $from := .Get "from" -}}
-{{- $to := .Get "to" | default "USD" -}}
-{{- if eq $.Site.Language.Lang "zh-cn" }}
-{{- $to = .Get "to" | default "CNY" -}}
-{{- else if eq $.Site.Language.Lang "ug"}}
-{{- $to = .Get "to" | default "CNY" -}}
-{{- else if eq $.Site.Language.Lang "zh-hant"}}
-{{- $to = .Get "to" | default "TWD" -}}
-{{- end -}}
-{{- $value := .Get "value" | float -}}
-{{- $qs := querify "Amount" $value "From" $from "To" $to -}}
+{{- $value := .Get 0 | int }}
+{{- $from := .Get 1 }}
+{{- $to := .Get 2 | default .Site.Language.Params.currency }}
+{{- $qs := querify "Amount" $value "From" $from "To" $to }}
 <a class="currency" href="https://www.xe.com/currencyconverter/convert/?{{ $qs | safeURL }}">
 {{- lang.FormatCurrency 0 $from $value -}}
 </a>

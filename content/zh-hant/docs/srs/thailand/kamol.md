@@ -23,20 +23,20 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ```csv
 手術方式,價格
-0 深度,{{< currency from="THB" value="257250" >}}
-PI 皮瓣,{{< currency from="THB" value="330000" >}}
-非 PI 皮瓣,{{< currency from="THB" value="321000" >}}
-非 PI + 腹股溝皮瓣,{{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-結腸,{{< currency from="THB" value="472500" >}}
-結腸（腹腔鏡）,{{< currency from="THB" value="577500" >}}
-腹膜（腹腔鏡）,{{< currency from="THB" value="599000" >}}
+0 深度,{{< currency 257250 THB >}}
+PI 皮瓣,{{< currency 330000 THB >}}
+非 PI 皮瓣,{{< currency 321000 THB >}}
+非 PI + 腹股溝皮瓣,{{< currency 320000 THB >}} ~ {{< currency 336000 THB >}}
+結腸,{{< currency 472500 THB >}}
+結腸（腹腔鏡）,{{< currency 577500 THB >}}
+腹膜（腹腔鏡）,{{< currency 599000 THB >}}
 ```
 
 支援 中國銀聯卡、VISA 卡、支付寶 付款（支付寶建議出國前將錢全部存入餘額，避免出現因銀行卡的每日限額導致錢存不進的情況）
 
 酒店費用：出院後，前 14 天須在下方指定酒店進行恢復，之後可自行選擇其他酒店。需要 3 ~ 4 周左右。
 
-- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency 1500 THB >}} 每天
 
 手術費用包括：
 
@@ -50,10 +50,10 @@ PI 皮瓣,{{< currency from="THB" value="330000" >}}
 手術費用不包括：
 
 1. 實驗室檢查費用：
-   價格：{{< currency from="THB" value="5600" >}}
+   價格：{{< currency 5600 THB >}}
    檢查專案：CBC、電解質、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 兩位泰國精神科醫生的證明：
-   價格：{{< currency from="THB" value="4000" >}}
+   價格：{{< currency 4000 THB >}}
 
 ## 手術介紹
 
@@ -91,9 +91,9 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 - 深靜脈血栓形成：總費用的 30％
 - BMI 超過 27：總費用的 30％
 - ≥ 50 歲或 ≥ 40 歲且患有基礎疾病（例如哮喘，高血壓，心臟病，糖尿病，深靜脈血栓形成等）的顧客：運動壓力測試（EST）
-  價格：{{< currency from="THB" value="7700" >}}
+  價格：{{< currency 7700 THB >}}
 - 心臟病專家探訪
-  價格：{{< currency from="THB" value="1000" >}} ~ {{< currency from="THB" value="5000" >}}
+  價格：{{< currency 1000 THB >}} ~ {{< currency 5000 THB >}}
   這些疾病所需的藥物或任何治療費用不包括在手術費用中（睡眠檢查，CTA 冠狀動脈檢查，肺 部檢查，甲狀腺檢查等）
 
 ## 手術日程

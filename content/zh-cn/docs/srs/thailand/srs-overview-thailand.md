@@ -41,7 +41,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 ## 费用预期 {#fee}
 
-皮瓣手术的预期为：{{< currency from="THB" value="300000" >}}
+皮瓣手术的预期为：{{< currency 300000 THB >}}
 
 ## 旅行指南 {#travel}
 

@@ -16,8 +16,8 @@ title: Yanhee 医院
 
 ```csv
 手术方式,价格,备注
-皮瓣（PI）,{{< currency from="THB" value="345000" >}},包含 9 晚住院
-结肠,{{< currency from="THB" value="430000" >}},包含 7 晚住院
+皮瓣（PI）,{{< currency 345000 THB >}},包含 9 晚住院
+结肠,{{< currency 430000 THB >}},包含 7 晚住院
 ```
 
 ## 要求
