@@ -1,5 +1,6 @@
 ---
 title: 私家內分泌科診所
+currency: HKD
 ---
 
 - 龔慧慈醫生 Dr. Annie Kung

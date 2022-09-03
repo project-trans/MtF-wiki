@@ -1,7 +1,10 @@
 {{- $value := .Get 0 | int }}
 {{- $from := .Get 1 }}
-{{- $to := .Get 2 | default .Site.Language.Params.currency }}
+{{- $to := .Get 2 | default .Page.Params.currency | default .Site.Language.Params.currency }}
+{{- if eq $from $to }}
+<span class="currency">{{ lang.FormatAccounting 0 $from $value }}</span>
+{{- else }}
 {{- $qs := querify "Amount" $value "From" $from "To" $to }}
-<a class="currency" href="https://www.xe.com/currencyconverter/convert/?{{ $qs | safeURL }}">
-{{- lang.FormatCurrency 0 $from $value -}}
-</a>
+{{- $href := print "https://www.xe.com/currencyconverter/convert/?" $qs }}
+<a class="currency" href="{{ $href | safeURL }}">{{ lang.FormatAccounting 0 $from $value }}</a>
+{{- end }}
