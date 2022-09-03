@@ -20,8 +20,6 @@ aliases:
 
 ## 已确认列表 {#confirmed}
 
-费用因人而异，最低不低于 6k
-
 ```csv
 省市,医院名称,主刀医生,备注
 北京市,北京友谊医院,[李革临]({{< ref "li-gelin" >}}),可同时安排声带手术，[笔记]({{< ref "li-gelin-vocal-202202" >}})
@@ -30,6 +28,8 @@ aliases:
 四川省成都市,四川大学华西医院,[许学文]({{< ref "xu-xuewen" >}}),
 四川省成都市,四川省人民医院,[游晓波]({{< ref "you-xiaobo" >}}),
 ```
+
+一般认为，能进行 [SRS]({{< ref "srs-overview-china" >}}) 业务的均可进行本手术。
 
 ## 面诊 {#outpatient}
 
