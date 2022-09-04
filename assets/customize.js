@@ -1,35 +1,31 @@
 // #region anchor
+(() => {
+  window.addEventListener("hashchange", onHashChange, { capture: true });
+  document.addEventListener("DOMContentLoaded", onHashChange);
+  document.addEventListener("click", onLinkClick, { capture: true });
 
-window.addEventListener("hashchange", (event) => {
-  if (!location.hash) return;
-  event.preventDefault();
-  event.stopPropagation();
-  const navbar = document.querySelector(".navbar__wrapper");
-  const element = document.querySelector(decodeURIComponent(location.hash));
-  const rect = element.getBoundingClientRect();
-  window.scrollTo({
-    top: rect.top + window.scrollY - navbar.clientHeight - 24,
-    behavior: "smooth",
-  });
-});
+  function onHashChange() {
+    if (!location.hash) return;
+    const navbar = document.querySelector(".navbar__wrapper");
+    const element = document.querySelector(decodeURIComponent(location.hash));
+    const rect = element.getBoundingClientRect();
+    const marginTop = Number.parseInt(getComputedStyle(element).marginTop, 10)
+    scrollTo({
+      top: rect.top + scrollY - marginTop - navbar.clientHeight,
+      behavior: "smooth",
+    });
+  }
 
-document.addEventListener("DOMContentLoaded", () => {
-  window.dispatchEvent(new HashChangeEvent("hashchange"));
-});
-
-document.addEventListener(
-  "click",
-  (event) => {
+  function onLinkClick(event) {
     const target = event.target;
     if (target.tagName !== "A") return;
     if (!target.classList.contains("anchor")) return;
     event.preventDefault();
     event.stopPropagation();
-    location.replace(target.hash);
-  },
-  { capture: true }
-);
-
+    history.replaceState(undefined, document.title, target.href);
+    onHashChange();
+  }
+})();
 // #endregion
 
 document.querySelectorAll("a[href]").forEach((link) => {
@@ -69,8 +65,8 @@ document.addEventListener(
   "click",
   (event) => {
     if (!event.target.classList.contains("mask")) return;
-    const photo = event.target.closest(".hidden-photo")
-    if (!photo) return
+    const photo = event.target.closest(".hidden-photo");
+    if (!photo) return;
     photo.classList.add("show");
   },
   { capture: true }
