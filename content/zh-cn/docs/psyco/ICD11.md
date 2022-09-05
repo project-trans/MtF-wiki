@@ -51,7 +51,7 @@ ICD-11 是「国际疾病分类第十一次修订本」的简称
 >
 > 3. **年龄满 18 岁，具备完全民事行为能力，有能力完成性别重置序列治疗。**
 
-具体修订内容请查看 [srs-legal-spec@03c0e4](https://github.com/mtf-wiki/srs-legal-spec/commit/03c0e4)
+具体修订内容请查看 [srs-legal-spec](https://link.mtf.wiki/srs/legal-spec)
 
 ## 进展 {#iterate}
 
