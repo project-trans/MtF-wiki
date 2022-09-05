@@ -65,7 +65,7 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 ![Depo monat](/images/medicine/injection/depo_monat.jpg)
 - 英文名称：Depo monat
 - 药品成分：环戊丙酸雌二醇、醋酸甲羟孕酮
-- 厂商：Vesco pharma （泰国）
+- 厂商：Vesco pharma（泰国）
 - 规格：一盒 20 瓶，每瓶 0.5mL，含有 5mg 环戊丙酸雌二醇与 25mg 醋酸甲羟孕酮
 - 外观：白色水状乳浊液
 
