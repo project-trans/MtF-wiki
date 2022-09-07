@@ -6,7 +6,7 @@ title: 未确认列表
 
 对于新增的 “缺乏真实案例报告” 内容，应当创建 [issue](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose) 后并引用至本文档
 
-对于存量的 “缺乏真实案例报告” 内容，在满足 [已过时列表]({{< ref "unconfirmed" >}}) 的触发条件后应当迁移
+对于存量的 “缺乏真实案例报告” 内容，在满足 [已过时列表]({{< ref "outdated" >}}) 的触发条件后应当迁移
 
 贡献方法参见：[贡献者指南]({{< ref "contributor-guide" >}})
 
