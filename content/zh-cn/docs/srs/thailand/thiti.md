@@ -3,10 +3,6 @@ title: Thiti 医生
 keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, Thiti, 替迪]
 ---
 
-{{< notice warning "风险提示" >}}
-据反馈，近期 Thiti 手术出现较大问题的机率偏高。——2022 年九月
-{{< /notice >}}
-
 医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
 
 所在医院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
@@ -20,7 +16,9 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 医疗中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com> 、微信公众号「[破茧成碟 BY 梁金](weixin://jinliang3039)」
 
-Thiti 医生术后服务较少，可以考虑寻求中介服务或护工
+## 护理问题
+
+Thiti 医生除复诊以外没有配套服务。如护理不当，易出现麻烦的问题，后续再就医需要另外消费。推荐寻求专业的中介服务或护工服务，尤其是上门护理、伤口照料与其他生活指导。
 
 ## 医疗水平
 
