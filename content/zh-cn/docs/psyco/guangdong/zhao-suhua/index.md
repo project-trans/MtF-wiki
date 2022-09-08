@@ -1,10 +1,12 @@
 ---
 title: 广州医科大学附属脑科医院｜赵素华
 ---
+
 {{< doctor-image src="doctor.jpg" >}}
 
 医生姓名: [赵素华](https://yyk.familydoctor.com.cn/doctor/161469/)
-所在医院: [广州医科大学附属脑科医院](https://surl.amap.com/cqAixUZdm1)
+
+所在医院: [广州医科大学附属脑科医院](https://amap.com/place/B00141S32G)
 
 ## 出诊时间
 
