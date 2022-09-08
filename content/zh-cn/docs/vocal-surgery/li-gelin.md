@@ -44,6 +44,8 @@ weight: 0
 1. 护养时间问题，请谨遵医嘱
 1. 手术后 最大声压(音量) 会降低，若遇声带发育不良等情况，声音会一直略有嘶哑
 
-## 手术日志
+## 手术笔记 {#surgery-notes}
 
-[北京友谊医院 声带+喉结 2022.2]({{< ref "li-gelin-vocal-202202" >}})
+来源：<https://github.com/mtf-wiki/MtF-wiki/issues/384>、<https://github.com/mtf-wiki/MtF-wiki/issues/425>
+
+手术当天：<https://github.com/mtf-wiki/MtF-wiki/issues/384#issuecomment-1050413210>
