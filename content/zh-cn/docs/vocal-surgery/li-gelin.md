@@ -46,6 +46,6 @@ weight: 0
 
 ## 手术笔记 {#surgery-notes}
 
-來源：<https://github.com/mtf-wiki/MtF-wiki/issues/384>、<https://github.com/mtf-wiki/MtF-wiki/issues/425>
+来源：<https://github.com/mtf-wiki/MtF-wiki/issues/384>、<https://github.com/mtf-wiki/MtF-wiki/issues/425>
 
 手术当天：<https://github.com/mtf-wiki/MtF-wiki/issues/384#issuecomment-1050413210>
