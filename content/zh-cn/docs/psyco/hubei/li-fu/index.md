@@ -6,7 +6,7 @@ title: 武汉｜李赋
 
 医生姓名：[李赋](http://www.chinapsy.com/index.php/index-view-aid-1116.html)
 
-所在医院：[武汉市精神卫生中心（六角亭院区）](https://m.amap.com/detail/index/poiid=B0FFF2I10C)
+所在医院：[武汉市精神卫生中心（六角亭院区）](https://amap.com/place/B0FFF2I10C)
 
 ## 挂号
 
@@ -35,7 +35,7 @@ title: 武汉｜李赋
 
 - 医生对跨性别非常友好；
 - 医生似乎并不是非常在意 MMPI 的 Mf 值，甚至没有看我的；
-- 其它医院的 MMPI 等量表结果似乎不被认可；
+- 其他医院的 MMPI 等量表结果似乎不被认可；
 - RLE 不必要；
 - 家长支持可以提高问诊效率；
 - 未满 18 岁开具的证明会有「易性症？」字样，经询问仍然生效且可用于 HRT 诊断
