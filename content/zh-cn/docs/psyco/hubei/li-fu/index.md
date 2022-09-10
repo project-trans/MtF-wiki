@@ -11,6 +11,7 @@ title: 武汉｜李赋
 ## 挂号
 
 公众号：[武汉市精神卫生中心](http://weixin.qq.com/r/DC6OllvEmwbkrR-193se)
+
 精神科，挂号费 25 元。
 
 ## 问诊流程
