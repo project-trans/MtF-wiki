@@ -4,24 +4,36 @@ title: 贡献者指南
 
 ## 贡献方式 {#method}
 
-1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
+1. 在 GitHub 上创建 {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
 1. 发送邮件到 <hi@mtf.wiki>
-1. 在 [TransLand](https://chat.transland.lgbt) 发布主题
 
 ## 基本原则 {#basic-principle}
 
+以下原则均为，以提供的信息 用于支撑行动 为前提做出的考虑
+
 1. 绝对不要做出任何 {{< wiki 道德绑架 >}} 的行为
-1. 为了保证内容的 {{< wiki 客观性 >}}，因此不受理虚构内容
+1. 为了保证内容的 {{< wiki 客观性 >}}，因此不受理「虚构内容」
 1. 不应存在显著的 {{< wiki 谬误 >}}，亦可对照 {{< wiki 谬误列表 >}} 进行检查
+1. 不应存在显著的 时效性
 1. 使用 [性别包容性语言][inclusive-language] 描述避免触发读者的 性别焦虑
-1. 对于“缺乏真实案例报告”的内容，应当创建 [issue][new-issue] 后并记录至 [未确认列表]({{< ref "unconfirmed" >}})
+1. 对于「缺乏真实案例报告」的内容，应当创建 [issue][new-issue] 后并记录至 [未确认列表]({{< ref "unconfirmed" >}})
 
 [new-issue]: https://github.com/mtf-wiki/MtF-wiki/issues/new/choose
 [inclusive-language]: https://www.wipo.int/export/sites/www/women-and-ip/zh/documents/wipo-guidelines-inclusive-language.pdf
 
+不应收录的情形：
+
+1. 虚构内容
+1. 陈述方式具有攻击性
+1. 与事实存在显著偏差
+1. 与疫情防控相关的内容
+1. 医师被派遣
+
+「缺乏真实案例报告」的内容可视为「虚构内容」
+
 ## HRT/诊断证明 {#proof}
 
-### 撰稿要素
+### 撰稿要素 {#key-info}
 
 1. 医生姓名
 1. 所在医院
@@ -30,11 +42,12 @@ title: 贡献者指南
 1. 问诊细节
 1. 注意事项
 
-### 撰稿原则
+### 撰稿原则 {#written-principle}
+
+在满足 基本原则 的前提下，还需遵守如下的原则：
 
 1. 您对于医生的印象/属性 tag（如：「一次过」、「可与家长沟通」 等）可能不会第一时间更新在医生页面上，我们需要进行多方求证（来自不同来源/时期的报告）。
 1. 对于需要标注 「跨性别友好」 的医生，我们需要进行多方求证（来自不同来源/时期的报告）。
-1. 在编写内容时请遵循 **「未常态化、无普遍性则不提及」** 的原则，尽量不要在贡献内容中提及不具有时效性（长期有效）或存在特殊情况的内容，尽量确保严谨性，但此类情况可以在贡献时注释。
 1. 问诊细节原则上需要清晰、明确的表述，如果对方愿意开具比较详细的病历请务必要求开具相关病历。并且可随医生信息一同上传其开具的病历（图片）以供参考。
 1. 由于科室不同，开具诊断证明的医生没有权利开具 HRT 处方，开具 HRT 处方的医生没有权利开具诊断证明，这是基本常识。望贡献者在撰写医生介绍的时候切记。
 1. 假如某位医生信息被编入 wiki 后表示自己不愿意被公开信息，我们将遵从其主观意愿将有关条目删除并列入 [已过时列表]({{< ref "outdated" >}})。
@@ -48,23 +61,27 @@ title: 贡献者指南
 1. 手术技术（医生描述，第三方介绍，发表论文）
 1. 有无实例（如医生提供近期案例，朋友、自己接受手术）
 
-### 手术评价、术后效果
+### 手术评价、术后效果 {#after-surgery-overview}
 
 见：[手术评价方法]({{< ref "srs-compraise" >}})
 
-## 关于附加资源
+## 关于附加资源 {#resources}
 
-### 图片处理
+### 图片处理 {#lens}
 
 如果图片为对纸质材料的拍摄，请使用 Microsoft Lens (fbk Office Lens) 进行处理以便于提供更好的阅读体验，当然，如果有条件的话建议提供扫描件。
-照片中的 {{< wiki Exif >}} 信息可能包含设备型号、拍摄时间和地理位置等信息。建议您在上传前[移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。
+
+照片中的 {{< wiki Exif >}} 信息可能包含设备型号、拍摄时间和地理位置等信息。
+
+建议您在上传前 [移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。
+
 如果您不会相关的后处理，可以将该图片提交至 <hi@mtf.wiki> 由我们脱敏后进行上传。
 
-[Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
+[Microsoft Lens (Android)](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)
-[Microsoft Lens (Windows)](https://www.microsoft.com/en-us/p/office-lens/9wzdncrfj3t8)
+[Microsoft Lens (Windows)](https://apps.microsoft.com/store/detail/9WZDNCRFJ3T8)
 
-### 附件目录
+### 附件目录 {#attachment}
 
 根据规范，不同种类附件都有存放目录，建议将附件存放至规范的目录下。
 
@@ -74,7 +91,7 @@ title: 贡献者指南
 [images]: https://github.com/mtf-wiki/MtF-wiki/tree/master/static/images/
 [documents]: https://github.com/mtf-wiki/MtF-wiki/tree/master/static/documents/
 
-### 表格
+### 表格 {#table}
 
 表格类说明建议使用内嵌 {{< wiki CSV >}} 格式
 
