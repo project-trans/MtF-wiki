@@ -51,7 +51,7 @@ footer:
     align: left
     applySinglePageCss: true
     markdown: >
-      {{< mtf-wiki >}}
+      {{< mtf-wiki >}}{{< hide-menu >}}
 
       Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
 
