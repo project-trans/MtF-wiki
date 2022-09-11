@@ -21,7 +21,7 @@ title: 贡献者指南
 [new-issue]: https://github.com/mtf-wiki/MtF-wiki/issues/new/choose
 [inclusive-language]: https://www.wipo.int/export/sites/www/women-and-ip/zh/documents/wipo-guidelines-inclusive-language.pdf
 
-不应收录的情形：
+不应收录为正式内容的情形：
 
 1. 虚构内容
 1. 陈述方式具有攻击性
