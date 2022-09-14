@@ -39,4 +39,4 @@ title: 广州暨南一院｜高绿芬
 
 ## 注意事项
 
-- 需提供 [诊断证明]({{< ref "psycho-overview" >}})
+- 需提供 [诊断证明]({{< ref "psyco-overview" >}})
