@@ -8,6 +8,16 @@ title: 四川大学华西医院｜许学文
 
 所在医院：[四川大学华西医院（本部）](https://www.amap.com/place/B001C05YG2)
 
+{{< notice warning "风险警示" >}}
+
+依据「四川省卫生健康委员会」于 2020 年 10 月 20 日发布的《关于同意四川省第四人民医院等 4 家医疗机构限制类医疗技术备案的公告》
+
+该院于 2020 年 10 月取得「性别重置手术」资质
+
+全文请参见：<http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/10/20/be6a18c65f8f4ab29c52d8b682947f18.shtml> (<https://archive.is/9a2p1>)
+
+{{< /notice >}}
+
 ## 前置条件 {#prerequirements}
 
 {{< notice warning "注意">}}
