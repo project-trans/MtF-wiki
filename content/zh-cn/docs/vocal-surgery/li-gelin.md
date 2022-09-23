@@ -9,8 +9,6 @@ weight: 0
 
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/297218.html>
 
-[嗓音女性化训练]({{< ref "beijing-friendship" >}})
-
 ## 前置条件
 
 1. [不合适声带手术的情形]({{< ref "vocal-surgery-overview#not-suitable" >}})
