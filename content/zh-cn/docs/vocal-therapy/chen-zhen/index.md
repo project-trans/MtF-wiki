@@ -4,7 +4,7 @@ title: 上海同仁医院｜陈臻
 
 医生姓名：[陈臻](https://www.haodf.com/doctor/6070455513.html)
 
-所属医院：[上海 交通大学 医学院 附属 同仁医院](https://amap.com/place/B00156YKF5)
+所属医院：[上海交通大学医学院附属同仁医院](https://amap.com/place/B00156YKF5)
 
 好大夫二维码：
 
@@ -51,4 +51,4 @@ http://weixin.qq.com/q/02yGYFklBxcwm10000g07l
 
 ## 其他
 
-1. 可以在要求在训练中同时解决方言导致的普通话问题（大约一个课时）
+1. 可以在要求在训练中同时解决方言导致的普通话问题（大约一个疗程）
