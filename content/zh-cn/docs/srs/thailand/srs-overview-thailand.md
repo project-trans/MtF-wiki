@@ -35,7 +35,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 | [Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
 | [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
 | [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
-| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; | &#9989; |         |
+| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
 | [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
 | [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 
