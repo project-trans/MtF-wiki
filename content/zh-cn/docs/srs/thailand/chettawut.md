@@ -188,6 +188,18 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
 - 至少 3 个月内避免容易导致生殖器部位急性过度拉伸的运动，包括瑜伽、有氧舞蹈、普拉提、游泳等。
 - 至少 3 个月内避免剧烈活动（任何可能对生殖器部位造成压力的活动，如，爬山上坡、骑马、骑自行车或骑摩托车）。
 
+（一些住院经验）
+
+- 术后因为流食可能会觉得饿，这时候可以~~撒娇卖萌~~向护士要额外的食物，一般都可以获取到。
+- 如果你需要药品，可能的话可以直接给护士讲英文名，否则可能面临开药物盲盒。
+
+  ```
+  very pain, give me morphine injection please (你成功获取了吗啡注射剂)
+  very pain, give me some strong painkiller please (你开启了赛来昔布，扑热息痛，曲马多，吗啡盲盒)
+  I can't sleep, can you give me some diazepam help me sleep (你获得了两片安定)
+  I can't sleep, can you give me some sleeping pills help me sleep (你甚至能获得两片曲马多)
+  ```
+
 ## 术后评价
 
 - 2022 年 1 月

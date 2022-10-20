@@ -67,12 +67,12 @@ slug: overview
 - 口服雌二醇會提高**血栓**風險，尤其是合成雌激素。
 - 雌二醇的使用會提高**乳腺癌**風險，如有家族病史，請務必諮詢醫生。
 - 合成雌激素（常見為避孕藥）不應該在跨性別 HRT 中使用。如：
-  - 炔雌醇 (Ethinylestradiol)
-    - 黛麗安 35 (Diane-35) - （可臨時作為短期替代）
+  - 炔雌醇（Ethinylestradiol）
+    - 黛麗安 35（Diane-35） - （可臨時作為短期替代）
     - 悅己 Yasmin
     - 悅姿 Yaz
     - 母扶樂 Mervelon
-  - 己烯雌酚 (Diethylstilbestrol)
+  - 己烯雌酚（Diethylstilbestrol）
 - 過高劑量的雌激素，並不會帶來更強的女性化作用。
 - 雌二醇與睪酮同時不足可能導致骨質疏鬆。
 
