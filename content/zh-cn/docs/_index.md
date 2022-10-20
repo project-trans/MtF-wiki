@@ -28,7 +28,7 @@ MtF（Male-to-Female），跨性别女性，是指出生时指定性别[^1]是�
 
 获得 诊断证明 后进行 HRT 可通过阅读 [HRT 综述]({{< ref "hrt-overview" >}}) 和 [HRT 医疗资源综述]({{< ref "hrt-res-overview" >}}) 了解
 
-于此同时如果在考虑 SRS 则可以通过阅读 [SRS 术前科普]({{< ref "srs-faq" >}}) 了解更多信息
+与此同时如果在考虑 SRS 则可以通过阅读 [SRS 术前科普]({{< ref "srs-faq" >}}) 了解更多信息
 
 如果你对 外貌焦虑 则可以通过阅读 [FFS 综述]({{< ref "ffs-overview" >}}) 了解更多关于 面部女性化手术 的内容
 虽然称作 FFS，[喉结整形术]({{< ref "tracheal-shave" >}})、脱毛等项目也在本概念之下
