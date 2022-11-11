@@ -8,7 +8,7 @@ aliases:
 
 {{< doctor-image src="doctor.png" >}}
 
-{{< tag/pos "无需家长" >}} {{< tag/pos "漂亮大姐姐" >}} {{< tag/pos "温馨体贴" >}}
+{{< tag/pos "漂亮大姐姐" >}} {{< tag/pos "温馨体贴" >}}
 
 医生姓名：[刘烨](https://www.haodf.com/doctor/2168666201.html)
 所在医院：[北京大学第三医院]({{< ref "puth" >}})
