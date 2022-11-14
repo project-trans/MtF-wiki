@@ -11,14 +11,13 @@ keywords:
 医生姓名：Chettawut，蔡达武
 
 所在医院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
+官方网站: [wih international hospital](https://https://wihhospital.com/)
 
 邮箱：<info@wihhospital.com>
 
 电话：{{< telephone "+66 0-2078-8919" >}}
 
 LINE：{{< shields/line "wihhospital" >}}
-
-<https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==>
 
 医疗中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
 
@@ -35,15 +34,15 @@ LINE：{{< shields/line "wihhospital" >}}
 
 可以使用泰铢现金、跨境汇款、国际信用卡、银联储蓄卡、支付宝、微信支付医院费用。
 
-酒店费用：大概需要 3 ~ 4 周。
+医院合作酒店：大概需要 3 ~ 4 周（疫情原因回国需要更长的转运时间，可能需要在泰国休息到状态足够好才能回国，所以时间可能需要大于4周<!-- 还是我的祖国过于强大了 -->）。
 
-- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency 1100 THB >}}（**不能使用中国银联支付**）
+- [Bangkok Rama](https://g.page/BaanSiRi)
+- [dusit-srinakarinbangkok](https://goo.gl/maps/4rzty6maGqeUFz9v7)
 
 <!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
 <!-- 因改至 WIH 医院，原联系方法存疑 -->
 
-如交定金时选择直接向医院汇款，可能在银行会因对公转账遇到麻烦，如果遇到麻烦，尽量备齐手术相关文件并要求医院开账单。
-[此页面](https://wihhospital.com/privacy-policy) 说明了 `THANADOL & KOJCHABOON CO., LTD.`（收款账户）与 WIH International Hospital 的关系。
+如交定金时选择直接向医院汇款，可能在银行会因对公转账遇到麻烦，如果遇到麻烦，尽量备齐手术相关文件（如医院账单，营业执照等，可以向中介或医院索要）。
 
 ## 手术介绍
 
@@ -54,6 +53,8 @@ Chet 的技术与 [Suporn]({{< ref "suporn" >}}) 类似，使用阴囊皮瓣作�
 如果因为睾丸切除、HRT 和其他因素导致没有足够的阴囊皮肤的患者，取腹股沟皮肤以补充材料。（要加钱）
 
 尿道周围的所有海绵体肌肉都被完全切除，以防止在性兴奋时组织充血。保留尿道口和阴道口周围的特定分泌腺，以实现的自我润滑。准备好的皮肤片将通过光照进行仔细检查，并在移植管插入新建成的阴道内之前，将可能残留的毛囊细致地提取出来。
+
+值得注意的是 chet 的手术对术后[通模具(dilatation)]({{< ref "chettawut#dilatation" >}})的要求十分苛刻，术后会在这方面消耗大量时间，考虑手术时也应该考虑这方面因素。
 
 ### 关于肉芽
 
@@ -132,7 +133,7 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
 
 ## 术后事项
 
-### 通模具
+### 通模具{#dilatation}
 
 [Chettawut 医生的通模具指导](http://www.chet-plasticsurgery.com/dr-chettawuts-vaginal-dilatation-instructions/)
 
