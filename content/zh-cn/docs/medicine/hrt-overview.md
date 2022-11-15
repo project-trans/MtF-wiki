@@ -88,6 +88,7 @@ slug: overview
 
 - 抑制睾酮的分泌
   [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})
+  [GnRH 类似物]({{< ref "gnrha" >}})（一般用于青春期阻断）
 - 受体拮抗
   [螺内酯片]({{< ref "spironolactone" >}})（略不推荐）
   [比卡鲁胺]({{< ref "bicalutamide" >}})
@@ -132,6 +133,8 @@ slug: overview
 
 ## 扩展阅读 {#reading}
 
+- [女性倾向跨性别者科学](https://transfemscience.org)（英文）  
+  [“女性倾向跨性别者科学”中译文存档站](https://tfsci.mtf.wiki)
 - [内分泌学会临床实践指南（1）](https://zhuanlan.zhihu.com/p/41593599) (<https://archive.is/NvPrv>)
 - [内分泌学会临床实践指南（2）](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
 - [女性化激素治疗概述](https://zhuanlan.zhihu.com/p/39093796) (<https://archive.is/va760>)
