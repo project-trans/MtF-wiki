@@ -1,5 +1,5 @@
 ---
-title: HRT 总述
+title: HRT 综述
 weight: 1
 slug: overview
 ---
@@ -10,17 +10,17 @@ slug: overview
 
 跨性别激素治疗是肯定跨性别者性别认同的一种卫生保健服务，透过外源性内分泌制剂的投药，使跨性别者身体的第二性征与其性别认同相符，促成 TA 们男性化或女性化的改变。尽管激素治疗不是跨性别者的必选项，但对于有需求的跨性别者来说，激素治疗是缓解性别不安，接纳和认可自我必要的医疗介入。
 
-目前的研究表明，在专业医生的指导和风险把控下进行激素治疗是安全的。联合国人权高专办发起的自由平等倡议（UN Free & Equal）和国际文件《日惹原则》（The Yogyakarta Principles）都呼吁各国提供与性别肯定相关的卫生保健服务，保障跨性别者的人权。
+目前的研究表明，在专业医生的指导和风险把控下进行激素治疗是安全的。[联合国人权高专办](https://www.ohchr.org/zh) 发起的自由平等倡议（[UN Free &amp; Equal](https://www.unfe.org)）和国际文件《{{< wiki 日惹原则 >}}》（[The Yogyakarta Principles](https://yogyakartaprinciples.org)）都呼吁各国提供与性别肯定相关的卫生保健服务，保障跨性别者的人权。
 
-我国的法律政策虽未明确提及跨性别激素治疗的概念，但有多个条款提到不同性别应享有同等权利、禁止基于性别的歧视。然而，针对跨性别激素治疗的专项政策和医疗指南的缺失，是导致跨性别者缺乏专业医生指导，增加身体健康风险，以及造成焦虑和抑郁的重要原因。因此，建立正规的激素治疗体系就具有重要的现实意义。[^1]
+我国的法律政策虽未明确提及跨性别激素治疗的概念，但有多个条款提到不同性别应享有同等权利、禁止基于性别的歧视。然而，针对跨性别激素治疗的专项政策和医疗指南的缺失，是导致跨性别者缺乏专业医生指导，增加身体健康风险，以及造成焦虑和抑郁的重要原因。因此，建立正规的激素治疗体系就具有重要的现实意义。[^baidu]
 
 {{< notice warning "请根据自身情况进行" >}}
-虽然随着医学领域日益发展成熟，越来越多的跨性别者选择了进行激素和手术治疗，但是这只是这些治疗选项的其中之一，由于「幸存者偏差」效应的存在，使用激素治疗、手术治疗的跨性别者在我们的视野之内更加的明显，但不能否认的是，同样有些人什么都不需要，需要明确自己的实际需求，不可盲目跟风。
+虽然随着医学领域日益发展成熟，越来越多的跨性别者选择了进行激素和手术治疗，但是这只是这些治疗选项的其中之一，由于「{{< wiki 幸存者偏差 >}}」效应的存在，使用激素治疗、手术治疗的跨性别者在我们的视野之内更加的明显，但不能否认的是，同样有些人什么都不需要，需要明确自己的实际需求，不可盲目跟风。
 {{< /notice >}}
 
 {{< notice info "提示" >}}
 对于跨性别人士的激素治疗，已有新的表述方式：
-性别肯定激素治疗（英文：Gender-Affirming Hormone Therapy，缩写为 GAHT）。
+性别肯定激素治疗（英文：{{< wiki "Gender-affirming hormone therapy" en >}}，缩写为 GAHT）。
 {{< /notice >}}
 
 ## 注意事项
@@ -40,18 +40,18 @@ slug: overview
 
 ## 雌激素
 
-雌激素（estrogen）是一类主要的女性激素，包括雌酮、雌二醇等，而雌二醇是最重要的雌激素。
+{{< wiki 雌激素 >}}（{{< wiki Estrogen en >}}）是一类主要的女性激素，包括 {{< wiki 雌酮 >}}、{{< wiki 雌二醇 >}} 等，而 雌二醇 是最重要的 {{< wiki 雌激素 >}}。
 
-### 不同的雌激素摄入方式
+### 不同的雌激素{{< wiki 给药途径 >}}
 
-- 口服（[补佳乐]({{< ref estradiol-valerate >}})）
-- 舌下含服（[诺坤复]({{< ref estradiol >}})）
-- 透皮给药（[爱斯妥]({{< ref "gel#oestrogel" >}})、[雌二醇贴片]({{< ref "estradiol-patch" >}})）
+- 口服（[补佳乐]({{< ref "estradiol-valerate" >}})）
+- 舌下含服（[诺坤复]({{< ref "estradiol" >}})）
+- 透皮给药（[雌二醇凝胶]({{< ref "gel" >}})、[雌二醇贴片]({{< ref "estradiol-patch" >}})）
 - [针剂肌肉注射]({{< ref "injection" >}})
 - 皮下埋入
 
 {{< notice info "小提示" >}}
-根据血清雌二醇浓度，补佳乐的效果比起其他几种要弱得多，条件允许时不建议优先考虑。
+根据 血清{{< wiki 雌二醇 >}}浓度，{{< wiki 补佳乐 >}}的效果比起其他几种要弱得多，条件允许时不建议优先考虑。
 {{< /notice >}}
 
 ### 雌激素对 MtF 的作用
@@ -67,26 +67,28 @@ slug: overview
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
+- SRS 后，并不能停止雌激素的使用，否则会出现更年期症状、骨质疏松等。
 - 临床实验证明，雌激素会破坏脑垂体 HPG 轴体，从而对男性生育能力造成不可逆转的损伤。
-- 口服雌二醇会提高**血栓**风险，尤其是合成雌激素。
-- 雌二醇的使用会提高**乳腺癌**风险，如有家族病史，请务必咨询医生。
-- 合成雌激素绝不应该在跨性别 HRT 中使用。如：
-  - 炔雌醇 (Ethinylestradiol)
-    达英 35 (Diane-35)
+- 口服雌二醇 会提高**血栓**风险，尤其是合成雌激素。
+- 雌二醇 的 使用会提高**乳腺癌**风险，如有家族病史，请务必咨询医生。
+- 合成雌激素（常见为避孕药）不应该在跨性别 HRT 中使用。如：
+  - 炔雌醇（Ethinylestradiol）
+    达英-35（Diane-35） - （可临时作为短期替代）
     优思明
-    妈富隆
-  - 己烯雌酚 (Diethylstilbestrol)
+    {{< wiki 妈富隆 >}}
+  - 己烯雌酚（Diethylstilbestrol）
 - 过高剂量的雌激素，并不会带来更强的女性化作用。
-- 雌二醇与睾酮同时不足可能导致骨质疏松，建议雌二醇不要低于 100pg/mL．
+- 雌二醇 与 {{< wiki 睾酮 >}}同时不足可能导致骨质疏松。
 
 ## 抗雄药物
 
-高剂量的雌激素使用可以抑制睾酮（数百至上千 pg/mL），低剂量的雌激素则需要与抗雄激素联合使用。若使用针剂即无需使用抗雄药物。
+[高剂量的雌激素](https://en.wikipedia.org/wiki/High-dose_estrogen) 使用可以抑制睾酮（数百至上千 pg/mL），低剂量的雌激素则需要与抗雄激素联合使用。若使用针剂即无需使用抗雄药物。
 
 ### 不同的抗雄方式
 
 - 抑制睾酮的分泌
   [色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})
+  [GnRH 类似物]({{< ref "gnrha" >}})（一般用于青春期阻断）
 - 受体拮抗
   [螺内酯片]({{< ref "spironolactone" >}})（略不推荐）
   [比卡鲁胺]({{< ref "bicalutamide" >}})
@@ -94,9 +96,10 @@ slug: overview
 
 ### 用药注意事项
 
-- 没有必要将睾酮控制得过低，达到女性正常水平即可。
+- 睾丸移除后无需再使用抗雄药物。
+- 没有必要将睾酮控制得过低，达到女性正常范围即可。
 - 雌二醇与睾酮同时不足可能导致骨质疏松。
-- 受体拮抗类药物的作用不会体现在睾酮指标上（反而可能会导致睾酮浓度上升），不建议通过睾酮水平来确认用药量。
+- 受体拮抗类药物的作用不会体现在睾酮指标上（反而可能会导致睾酮浓度上升），不建议通过睾酮范围来确认用药量。
 
 ## 孕激素
 
@@ -105,11 +108,11 @@ slug: overview
 - 色普龙（醋酸环丙孕酮）有诱发脑膜瘤、垂体瘤的风险
 - 过早引入孕激素可能抑制乳房发育（未证实）
 
-## HRT 效果参考
+## HRT 效果参考 {#effects}
 
 来源：北医三院
 
-{{< csv-table >}}
+```csv
 作用效果,预计出现时间,预计稳定时间
 乳房发育,3 − 6 月,2 − 3 年
 体脂重新分布,3 − 6 月,2 − 5 年
@@ -122,10 +125,33 @@ slug: overview
 男性功能异常,不一定,不一定
 睾丸体积减小,3 − 6 月,2 − 3 年
 精子产量减少,不一定,不一定
-{{< /csv-table >}}
+```
 
 ## 青春期抑制治疗（GnRH 类似物）
 
-见[此处]({{< ref "gnrha" >}})
+见 [此处]({{< ref "gnrha" >}})
 
-[^1]: [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
+## 扩展阅读 {#reading}
+
+- [女性倾向跨性别者科学](https://transfemscience.org)（英文）  
+  [“女性倾向跨性别者科学”中译文存档站](https://tfsci.mtf.wiki)
+- [内分泌学会临床实践指南（1）](https://zhuanlan.zhihu.com/p/41593599) (<https://archive.is/NvPrv>)
+- [内分泌学会临床实践指南（2）](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
+- [女性化激素治疗概述](https://zhuanlan.zhihu.com/p/39093796) (<https://archive.is/va760>)
+- [医院医保开 HRT 药物流程](https://zhuanlan.zhihu.com/p/387187000) (<https://archive.is/vU33l>)
+- [HRT.Cafe](https://hrt.cafe)（英语）
+- [DIY HRT](https://diyhrt.wiki)（英语）
+- [DIY HRT (frama)](https://diyhrt.frama.io)（英语）
+- [雌激素](https://en.wikipedia.org/wiki/Estrogen)（英语）
+  [女性化激素疗法](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)（英语）
+  [高剂量雌激素 (HDE)](https://en.wikipedia.org/wiki/High-dose_estrogen)（英语）
+- [雌二醇](https://en.wikipedia.org/wiki/Estradiol)（英语）
+  [雌二醇（药物）](https://en.wikipedia.org/wiki/Estradiol_%28medication%29)（英语）
+  [雌二醇的药效学](https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol)（英语）
+  [雌二醇的药代动力学](https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol)（英语）
+- [醋酸环丙孕酮](https://en.wikipedia.org/wiki/Cyproterone_acetate)（英语）
+  [醋酸环丙孕酮的副作用](https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate)（英语）
+  [醋酸环丙孕酮的药理](https://en.wikipedia.org/wiki/Pharmacology_of_cyproterone_acetate)（英语）
+- [螺内酯](https://en.wikipedia.org/wiki/Spironolactone)（英语）
+
+[^baidu]: [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)

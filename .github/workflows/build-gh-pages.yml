@@ -5,12 +5,12 @@ on:
     branches:
       - master
     paths-ignore:
-      - '.github'
-      - 'README.md'
-      - 'LICENSE'
+      - .github
+      - README.md
+      - LICENSE
 
 jobs:
-  build-deploy:
+  build-mtf-dot-wiki:
     runs-on: ubuntu-20.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
@@ -18,32 +18,51 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-#      - uses: actions/setup-node@v2
-#      - run: npx markdownlint-cli .
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 0.94.0
+          hugo-version: latest
           extended: true
-      - name: Build `mtf.wiki`
+      - name: Build
         run: hugo --minify --enableGitInfo
-      - name: Deploy `mtf.wiki`
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload artifact
         if: github.ref == 'refs/heads/master'
+        uses: actions/upload-pages-artifact@v1
         with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
-          publish_branch: master
-          publish_dir: ./public
-          cname: mtf.wiki
-          external_repository: mtf-wiki/mtf-wiki.github.io
-          force_orphan: true
-      - name: Build `mtfwiki.com`
+          path: public
+  deploy-mtf-dot-wiki:
+    needs: build-mtf-dot-wiki
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+  deploy-mtfwiki-dot-com:
+    runs-on: ubuntu-20.04
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+      - name: Build
         run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
-      - name: Deploy `mtfwiki.com`
+      - name: Deploy
         uses: reggionick/s3-deploy@v3
         if: github.ref == 'refs/heads/master'
         with:
-          folder: ./public
+          folder: public
           bucket: mtfwiki.com
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
           delete-removed: true

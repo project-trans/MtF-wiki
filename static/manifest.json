@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "MtF Wiki",
-  "short_name": "MtF Wiki",
+  "name": "MtF.wiki",
+  "short_name": "MtF.wiki",
   "version": "1.0.0",
-  "description": "MtF Wiki",
+  "description": "MtF.wiki",
   "orientation": "portrait-primary",
   "start_url": "/",
   "icons": [

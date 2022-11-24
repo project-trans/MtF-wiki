@@ -41,14 +41,12 @@ SRS 根据阴道再造的方式常可分为以下几种，包括
 ![Female Reproductive System](/images/srs/tech/vulva_figure_zh.png)
 [来源](https://openstax.org/books/anatomy-and-physiology/pages/27-2-anatomy-and-physiology-of-the-female-reproductive-system)
 
-{{< expand "展开查看" >}}
-![Fremale reproductive organs to see through](/images/srs/tech/1024px-Fremale_reproductive_organs_to_see_through.jpg)
+{{< hiddenphoto "/images/srs/tech/1024px-Fremale_reproductive_organs_to_see_through.jpg" "Female reproductive organs to see through">}}
 [来源](https://commons.wikimedia.org/wiki/File:Fremale_reproductive_organs_to_see_through.jpg) CC BY-SA 3.0
 
-![Clitoris-Vivero-Becker](/images/srs/tech/800px-Clitoris-Vivero-Becker.jpg)
+{{< hiddenphoto "/images/srs/tech/800px-Clitoris-Vivero-Becker.jpg" "Clitoris-Vivero-Becker" >}}
 [来源](https://commons.wikimedia.org/wiki/File:Clitoris-Vivero-Becker.jpg) CC BY-SA 3.0
-{{< /expand >}}
 
 ## 参考资料
 
-[SRS FAQ · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/161673959)（链接失效）
+[SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)

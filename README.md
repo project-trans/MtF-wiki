@@ -1,27 +1,42 @@
 <!-- markdownlint-disable-next-line -->
-[![MtF-Wiki][logo-long]][wiki-url]
 
-镜像站：[mtfwiki.cn](https://mtfwiki.cn)、[mtfwiki.com](https://mtfwiki.com)
+[![MtF-wiki][logo-long]][wiki-url]
 
-兄弟站：[ftm.wiki](https://ftm.wiki)
+镜像站：[MtFwiki.cn](https://mtfwiki.cn)、[MtFwiki.com](https://mtfwiki.com)、[MtF.bond](https://mtf.bond)
 
-# Welcome to **MtF Wiki**
+兄弟站：[FtM.wiki](https://ftm.wiki)
 
-**简体中文** | [繁中](README-T.md) | [English](README-EN.md) | [Español](README-ES.md)
+# Welcome to **MtF.wiki**
+
+**简体中文** | [繁中](README-T.md) | [日本語](README-JA.md) | [English](README-EN.md) | [Español](README-ES.md)
 
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
+[![GitHub Contributors][badge-contributors]][gh-contributors]
+[![GitHub Last Commit][badge-last-commit]][gh-history]
+[![GitHub Commit Activity (by Year)][badge-activity]][gh-commit-activity]
+
+[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Watch
+[badge-contributors]: https://img.shields.io/github/contributors/mtf-wiki/MtF-wiki?style=flat-square
+[badge-last-commit]: https://img.shields.io/github/last-commit/mtf-wiki/MtF-wiki?style=flat-square
+[badge-activity]: https://img.shields.io/github/commit-activity/y/mtf-wiki/MtF-wiki?style=flat-square
+[gh-contributors]: https://github.com/mtf-wiki/MtF-wiki/graphs/contributors?style=flat-square
+[gh-history]: https://github.com/mtf-wiki/MtF-wiki/commits/master?style=flat-square
+[gh-commit-activity]: https://github.com/mtf-wiki/MtF-wiki/graphs/commit-activity?style=flat-square
 
 ## 内容
 
-欢迎大家来到 MtF Wiki．这里是一个或许可以给部分跨性别女性群体提供帮助的地方。
+欢迎来到 MtF.wiki．这里是一个或许可以给部分跨性别女性提供帮助的地方。
 
 MtF （Male-to-Female），跨性别女性，是指出生时指定性别是男性的女性。
-(ps：在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”）
+(P.S.：在维基百科中关于指定性别的定义是“指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。”）
 
-MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整合站点，大家可以在这里了解到各种药物知识、医疗资源、女性常识，以及其他等等。
-现在的 MtF Wiki 正处于起步阶段，各种资料或许并不齐全，甚至可能还有部分错误，欢迎各位热心的姐妹加入我们，为 MtF Wiki 的发展做出贡献。
-至于建设本网站的初衷，除了为广大 MtF 群体提供一个知识平台外，也是渴望他人对转换性别的设定的肯定。
+MtF.wiki 致力于成为一个免费开放且持续更新的跨性别知识整合站点，大家可以在这里了解到与跨性别相关的医疗信息与生活指南。
+
+现在的 MtF.wiki 正处于起步阶段，各种资料或许并不齐全，甚至可能还有部分错误，欢迎各位热心的姐妹加入我们，为 MtF.wiki 的发展做出贡献。
+
+至于建设本网站的初衷，除了为广大 MtF 群体提供一个知识平台外，也是渴望他人对转换性别的设定的肯定。接纳每个人在性倾向、性别身份、性别表达等方面享有平等的选择权，不受污名、歧视和暴力，将帮助发展平等尊重的价值观，创造更友好的社会。
 
 > 不向焦虑与抑郁投降，这个世界终会有我们存在的地方
 
@@ -43,34 +58,32 @@ MtF Wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 ```plain
 @misc{mtfwiki,
-  author = {MtF Wiki Team},
-  title = {MtF Wiki},
+  author = {MtF.wiki Team},
+  title = {MtF.wiki},
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/mtf-wiki/MtF-Wiki}},
+  howpublished = {\url{https://github.com/mtf-wiki/MtF-wiki}},
 }
 ```
 
 ## 联系方式
 
-Discord [![Discord][badge-discord]](https://233.plus/discord)
+Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
 
-Twitter [![Twitter][badge-twitter]](https://twitter.com/mtfwiki)
+Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
-GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
 
 邮件 <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
-[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Stars
-[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-Wiki.svg?style=flat-square&label=Watch
-[badge-twitter]: https://img.shields.io/twitter/follow/mtfwiki?style=flat-square
+[badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
+[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
-[repo]: https://github.com/mtf-wiki/MtF-Wiki
+[repo]: https://github.com/mtf-wiki/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

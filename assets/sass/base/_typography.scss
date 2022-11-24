@@ -26,6 +26,17 @@ body {
     "PMingLiU", "細明體", "MingLiU", "蘋果儷中黑", "Apple LiGothic Medium",
     "儷黑 Pro", "LiHei Pro Medium", "IBM Plex Sans Thai Looped",
     $text-font-stack;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  h2.title,
+  .single__contents h1,
+  .single__contents h2 {
+    font-weight: normal;
+  }
 }
 
 [lang="ja"] * {
@@ -35,7 +46,7 @@ body {
     Arial, $text-font-stack;
 }
 
-.ug-arab-font {
+[lang="ug"] * {
   font-family: "IBM Plex Sans Arabic", "Noto Sans Arabic", $text-font-stack;
 }
 

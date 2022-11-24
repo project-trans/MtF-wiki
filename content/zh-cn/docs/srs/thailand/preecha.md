@@ -3,13 +3,16 @@ title: PAI (Burin, Sutin)
 aliases: burin
 keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, burin, 布林]
 ---
-医院：[Preecha Aesthetic Institute (PAI)](https://pai.co.th/)
 
-邮箱与预约：<Consult@pai.co.th>
+医院：[Preecha Aesthetic Institute](https://pai.co.th)
+
+邮箱与预约：<consult@pai.co.th>
 
 电话：{{< telephone "+662 715-0111" >}}
 
-地点：[898, 1 Thong Lo Rd, Khlong Toei Nuea, Watthana, Bangkok 10110](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
+所在医院：[Preecha Aesthetic Institute](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
+
+翻译陪护：Jessica (可带其他医生) {{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
 
 主要提供：
 
@@ -20,33 +23,45 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 ### Burin Wangjiraniran（布林）
 
-医生 Facebook：[dr.Burin](https://www.facebook.com/dr.Burin)
+医生 Facebook：[Dr. Burin](https://www.facebook.com/dr.Burin)
 
-Burin 的技术使用改进的 PI，用一部分阴囊皮肤作为小阴唇，用阴茎皮肤（并在末端与取下的另一部分阴囊皮片缝合，当材料不足时）作为阴道内壁，使用带有包皮的龟头作为阴蒂和阴蒂包皮，同时用适当的缝线构造阴蒂的外形，并使用尿道黏膜覆盖阴道前庭和阴道口，如果有材料不足的情况下会采用腹部的外皮组织作为构建阴唇旁外皮。此外，Burin 也接受结肠 SRS．总体而言，Burin 能实现大致合理的结构，但历史案例小阴唇下方和 Kamol 一样较为不自然，近期已经有所改善，虽然外观还是不如 Suporn．
+Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，此术式以其手术接口为命名。利用此技术创造了体积大的小阴唇，尽可能深地延伸到后侧小阴唇。外阴微微张开，看起来较自然。
+
+##### 疤痕状况
+
+第一个疤痕：耻骨上的垂直疤痕，长2-3厘米，隐藏在阴毛后面。
+第二道伤疤：两侧长3-4厘米的V形伤疤。疤痕位于一段时间后将隐藏在自然皮肤折痕/褶皱中的区域。
+如果因为睾丸切除、HRT 和其他因素导致没有足够的阴囊皮肤的患者，将会取用腹部皮肤以补充材料。(额外收费)
+
+![Pi](https://www.transgendersurgerythailand.com/images/3958_1152B3DE-0396-163D-0BE2-C7BA89904366.jpg)
 
 ### Tiewtranon
 
-不再进行手术。
+**不再进行手术。**
 
 ### Sutin Khobunsongserm（苏廷）
 
-类似于 Burin．
+类似于 Preecha．
 
 ## SRS 费用
+
+依据与 PAI 诊所联系得到有关于 Burin 的皮瓣手术价格为 {{< currency 11500 USD >}}
 
 包括：
 
 1. 手术后在医院私人房间住宿 5 天
 1. 手术室费用：手术室使用、恢复室、护工
 1. 食品费用
-1. 实验室测试：CBC、EKG、UA、HIV 抗体、胸部 X 射线等程序所必需的（50 岁以上需要检查心内科。额外收费 100 美元）
+1. 实验室测试：CBC、EKG、UA、HIV 抗体、胸部 X 射线等程序所必需的（50 岁以上需要检查心内科。额外收费 {{< currency 100 USD >}} 美元）
 1. 医疗设备和医疗用品- 全身麻醉 – 麻醉前药物、麻醉和医用气体（氧气、一氧化二氮）
 1. 医疗- 医生费用- 麻醉费- 护理服务-
-1. 一包卫生巾
-1. PAI 的 GRS 扩张器（1 号）
+1. 穿戴式姨妈巾、看护垫、抗生素粉
+1. PAI 的 GRS 扩张器（1 & 2 号）
 1. 带回家的药物和用品
 1. 术后护理
 1. 交通接送
+1. 阴道清洗器 (新版只有 Burin 有)
+1. 冷热敷袋
 
 住宿服务包括：
 
@@ -69,7 +84,8 @@ Burin 的技术使用改进的 PI，用一部分阴囊皮肤作为小阴唇，�
 1. 严重医疗问题告知医生
 1. 从手术前的午夜开始停止进餐和饮水。
 1. 有 15 天左右的空余时间。
-1. HIV 额外收取 30% 费用。
+1. HIV 额外收取 50% 额外费用。
+1. 肥胖将加收 10% 额外费用。
 
 ## 阴茎倒置的术式细节
 

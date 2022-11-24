@@ -9,11 +9,8 @@ title: 貢獻者指南
 
 貢獻方式：
 
-1. 會 GitHub 操作，直接 PR 或者 透過 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
-1. 不會 GitHub 操作，[GitHub 註冊並貢獻教程 - limelight](https://limelight.moe/t/topic/9639)
+1. 會 GitHub 操作，直接 PR 或者 透過 {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
 1. 傳送郵件到 <hi@mtf.wiki>
-
-[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 {{< notice info "友情提醒" >}}
 絕對不要做出任何道德綁架的行為！！！

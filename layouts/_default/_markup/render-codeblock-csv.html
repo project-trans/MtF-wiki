@@ -1,0 +1,10 @@
+{{ $rows := .Inner | transform.Unmarshal }}
+<table class="csv-table">
+<thead><tr>{{ range (index $rows 0) }}<th>{{- . -}}</th>{{ end }}</tr></thead>
+{{- $rows = after 1 $rows -}}
+<tbody>
+{{ range $rows -}}
+<tr>{{ range . }}<td>{{- . | markdownify -}}</td>{{ end }}</tr>
+{{ end -}}
+</tbody>
+</table>

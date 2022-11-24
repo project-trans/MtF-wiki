@@ -4,23 +4,23 @@ title: 缩写词语表
 
 ## LGBT+
 
-[LGBT+](https://en.wikipedia.org/wiki/LGBT) 是下列性少数单词首字母的合称
+{{< wiki LGBT en >}} 是下列性少数单词首字母的合称
 
-{{< csv-table >}}
+```csv
 词汇,翻译
-[Lesbian](https://en.wikipedia.org/wiki/Lesbian),女同性恋
-[Gay man](https://en.wikipedia.org/wiki/Gay_man),男同性恋
-[Bisexual](https://en.wikipedia.org/wiki/Bisexuality),双性恋
-[Transgender](https://en.wikipedia.org/wiki/Transgender),跨性别
-[Queer](https://en.wikipedia.org/wiki/Queer),酷儿
-[Intersex](https://en.wikipedia.org/wiki/Intersex),双性人
-[Asexuality](https://en.wikipedia.org/wiki/Asexuality),无性恋
-[Pansexual](https://en.wikipedia.org/wiki/Pansexuality),泛性恋
-{{< /csv-table >}}
+{{< wiki Lesbian en >}},女同性恋
+{{< wiki "Gay man" en >}},男同性恋
+{{< wiki Bisexuality en >}},双性恋
+{{< wiki Transgender en >}},跨性别
+{{< wiki Queer en >}},酷儿
+{{< wiki Intersex en >}},双性人
+{{< wiki Asexuality en >}},无性恋
+{{< wiki Pansexuality en >}},泛性恋
+```
 
 ## 衍生概念
 
-{{< csv-table >}}
+```csv
 缩写,翻译
 cis,顺性别（Cisgender）
 cisF,顺性别女性
@@ -34,64 +34,59 @@ transgay,跨性别男同性恋（即其中一方为 transM）
 FtM,女跨男（Female-to-Male）
 MtF,男跨女（Male-to-Female）
 TS,变性者（Transsexual）
-{{< /csv-table >}}
+```
 
-FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary 非二元
+FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary 非二元
 
 ## RLE
 
-实际生活体验（Real-life experience）
+{{< wiki 实际生活体验 >}}（{{< wiki "Real-life experience" en >}}）
 指跨性别者全天候地按照其所认同的性别角色来生活
-
-[维基百科](https://zh.wikipedia.org/zh-cn/实际生活体验)
 
 ## HRT
 
-激素替代疗法（Hormone replacement therapy）
+{{< wiki 性别肯定激素治疗 >}}（{{< wiki "Hormone replacement therapy" en >}}）
 从 2022 年开始将会被 性别肯定激素治疗（Gender-affirming hormone therapy） 逐步取代
 
 [本站板块]({{< ref "hrt-overview" >}})
 [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
-[性别肯定激素治疗 - 维基百科](https://zh.wikipedia.org/zh-cn/性别肯定激素治疗)
 
 ## SRS
 
-性别重置手术（Sex reassignment surgery）
+{{< wiki 性别重置手术 >}}（{{< wiki "Sex reassignment surgery" en >}}）
 有时也会被称之为：GRS (Gender reassignment surgery) 、性别确认手术（Gender confirmation surgery）、性别还原手术
 
 [本站板块]({{< ref "srs-overview-china" >}})
 [百度百科](https://baike.baidu.com/item/性别重置手术)
-[维基百科](https://zh.wikipedia.org/zh-cn/性别重置手术)
 
 ## SRT
 
-性别重置疗法（Sex reassignment therapy），包含 HRT 和 SRS 等
-
-[维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法)
+{{< wiki 性别重置疗法 >}}（{{< wiki "Sex reassignment therapy" en >}}），包含 HRT 和 SRS 等
 
 ## FFS
 
 面部女性化手术（Facial feminization surgery）
 
-[维基百科](https://zh.wikipedia.org/zh-cn/性别重置疗法#其他疗法)
+[维基百科](https://zh.wikipedia.org/wiki/性别重置疗法#其他疗法)
 
-北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/L-ViMDYNLycgIMc4SJQHvQ)
+北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ) (<https://archive.is/cenPo>)
 
 ## VFS
 
 声音女性化手术（Voice feminization surgery）
 
-[本站板块]({{< ref "vocal-training" >}})
+[嗓音女性化手术]({{< ref "vocal-surgery" >}})
+[嗓音女性化训练]({{< ref "vocal-therapy" >}})
 
 ## AG
 
-幻想变性性兴奋理论（AutoGynephilia），一般认为是过时的理论
+幻想变性性兴奋理论（{{< wiki Autogynephilia en >}}），一般认为是过时的理论
 
-驳 AG 论：<https://zhuanlan.zhihu.com/p/59510858>
+驳 AG 论：<https://zhuanlan.zhihu.com/p/59510858> (<https://archive.is/KhHh3>)
 
 ## CD
 
-异装（Cross-dressing）
+{{< wiki 异装 >}}（{{< wiki "Cross-dressing" en >}}）
 
 异装旧称为易装，是一个男女二元性别框架下的概念，指人们出于不同的原因，选择在特定文化语境下通常与另一性别相关的打扮和行为模式，如男性选择偏女性气质的打扮，或女性选择偏男性气质的打扮等。
 异装癖指伴随性满足的异装。将异装癖等同于异装，是对异装的污名化。
@@ -99,7 +94,6 @@ FtX, MtX 的 X 借自日语 Ｘジェンダー（X-gender），即 non-binary �
 我国的法律与政策中，虽未明确提及异装的概念，但有多个条款提到不同性别应享有同等权利、禁止基于性别的歧视。包括异装在内的性别平等是全面性教育和实现社会公平的重要内容之一。
 
 [百度百科](https://baike.baidu.com/item/异装)
-[维基百科](https://zh.wikipedia.org/zh-cn/异性装扮)
 
 ## WPATH
 

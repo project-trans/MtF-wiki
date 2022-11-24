@@ -1,14 +1,13 @@
 ---
-title: MtF Wiki
-description: MtF Wiki, un lugar que podría echar una mano a mujeres trans.
-updatesBanner: "<font color='red'>Celebremos el Día Internacional de la Mujer 2022</font>"
+title: MtF.wiki
+description: MtF.wiki, un lugar que podría echar una mano a mujeres trans.
 landing:
   height: 700
   image:  new/mtf-wiki-square.svg
   title:
-    - MtF Wiki
+    - MtF.wiki
   text:
-    - Bienvenida a MtF Wiki. Tratamos de organizar la información relevante de mujeres trans para daros mejor ayuda~
+    - Bienvenida a MtF.wiki. Tratamos de organizar la información relevante de mujeres trans para daros mejor ayuda~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -26,13 +25,13 @@ footer:
         - title: Homepage
           link: https://mtf.wiki
         - title: Homepage de proyecto
-          link: https://github.com/mtf-wiki/MtF-Wiki
+          link: https://github.com/mtf-wiki/MtF-wiki
     - title: Contacto
       links:
         - title: Discord
-          link: https://233.plus/discord
+          link: https://link.mtf.wiki/discord
         - title: Twitter
-          link: https://twitter.com/mtfwiki
+          link: https://twitter.com/MtFwiki
         - title: GitHub
           link: https://github.com/mtf-wiki
         - title: Email
@@ -41,7 +40,9 @@ footer:
     align: left
     applySinglePageCss: true
     markdown: >
-      <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote align="left">Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.</blockquote>
+      {{< mtf-wiki >}}
+
+      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+
+      > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.
 ---

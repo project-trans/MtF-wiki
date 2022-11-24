@@ -1,10 +1,12 @@
 ---
 title: 手術技術
-weight: 2
+weight: 300
 slug: tech
 ---
 
 ## SRS 手術方式
+
+SRS 根據陰道再造的方式常可分為以下幾種，包括
 
 1. 使用皮瓣的 SRS\
    利用現有器官的皮片（graft）或皮瓣（flap）作為陰道。\
@@ -19,13 +21,18 @@ slug: tech
    包括腹膜和生物補片等，這類技術仍相對不成熟，目前實施這類技術的有北美的 "Dr. Ting" 和 "Dr. Bowers"，此外泰國的 [Kamol]({{< ref kamol >}}) 也引入了這樣的技術。其優點在於能有更加自然的分泌，對原有器官沒有過多要求，不過其耐用性尚存疑問。需要注意的是，腹膜術後的萎縮往往比較嚴重，有案例萎縮約 1 ~ 3 英寸左右，甚至全部萎縮。
 
 1. 零深度 SRS\
-   只進行外陰成形而沒有較深的陰道，適用於沒有相應需求的物件。這類手術優點在於相比一般的 SRS 簡便、低風險，恢復期短得多，也不需要通模具。
+   只進行外陰成形而沒有較深的陰道，適用於沒有相應需求的物件。這類手術優點在於相比一般的 SRS 簡便、低風險，恢復期短得多，也不需要通模具。\
+   當前中國對於性別鑑定不會特別測量陰道深度。
 
 無論使用上述哪種方法處理陰道，外陰部分通常都用原有器官的組織成形，且利用原有的神經實現性感覺。不同的醫生即使採取相同的術式，技術也會有明顯的差異，需要考慮各方面因素。
 
 ### 理想的 SRS 應當向以下方面靠齊
 
 （下述為的絕對完美效果，不同醫生會有各自擅長的方面)
+
+外觀上各方面與一般女性難以區分，滿足有結構完整清晰自然的大陰唇和小陰唇，小陰唇完全包裹陰道口和帶有尿道口的陰道前庭，其外兩側為大陰唇，有結構自然的、連線陰蒂繫帶、被陰蒂包皮包裹的陰蒂，陰道口下方有結構自然的陰唇繫帶和後聯合，各個組織顏色自然，距離肛門距離適中，各個結構在水平和垂直方向上位置自然；陰蒂與小陰唇感覺良好，陰蒂能夠正常勃起，但外陰尤其是尿道口沒有多餘的海綿體，能夠高潮，同時內部也能利用前列腺達到陰道高潮；陰道深度和開口結構能自然地進行性交，沒有多餘組織；沒有嚴重的併發症或其它問題，日常生活或性交時不會疼痛或摩擦不適，陰道內和陰唇內側、陰道前庭等區域沒有毛髮生長。
+
+---
 
 有的醫生能做到接近完美難以與順性別女性區分，也有的醫生能做到的僅僅是切除原有器官並造腔，上述要求都難以達到，因此醫生的選擇非常重要。但同樣需要注意的是，即使是最富經驗的醫生也無法做到完全完美的效果，而且由於醫生本身的失誤或手術物件體質差異的原因總有一定的風險手術效果不盡人意甚至發生更嚴重的後果。SRS 本身是一個非常複雜的手術，可能有非常嚴重的併發症，包括手術失敗，導致大出血乃至死亡；術後發生陰道狹窄、萎縮或脫垂，陰道或外陰撕裂，腸道或尿道陰道瘻，尿道狹窄，陰唇或陰蒂壞死，神經受損導致敏感度喪失，及深靜脈血栓，以及持續的出血、肉芽組織增生或其它紅腫症狀等炎症等。在蒐集相關資料時，無論對哪一位醫生都能找到許多正面和負面的報道，需要綜合考慮。
 
@@ -34,15 +41,12 @@ slug: tech
 ![Female Reproductive System](/images/srs/tech/vulva_figure_zh.png)
 [來源](https://openstax.org/books/anatomy-and-physiology/pages/27-2-anatomy-and-physiology-of-the-female-reproductive-system)
 
-{{< expand "展開檢視" >}}
-![Fremale reproductive organs to see through](/images/srs/tech/1024px-Fremale_reproductive_organs_to_see_through.jpg)
+{{< hiddenphoto "/images/srs/tech/1024px-Fremale_reproductive_organs_to_see_through.jpg" "Female reproductive organs to see through">}}
 [來源](https://commons.wikimedia.org/wiki/File:Fremale_reproductive_organs_to_see_through.jpg) CC BY-SA 3.0
 
-![Clitoris-Vivero-Becker](/images/srs/tech/800px-Clitoris-Vivero-Becker.jpg)
+{{< hiddenphoto "/images/srs/tech/800px-Clitoris-Vivero-Becker.jpg" "Clitoris-Vivero-Becker" >}}
 [來源](https://commons.wikimedia.org/wiki/File:Clitoris-Vivero-Becker.jpg) CC BY-SA 3.0
-
-{{< /expand >}}
 
 ## 參考資料
 
-[SRS FAQ · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/161673959)（連結失效）
+[SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)

@@ -9,12 +9,12 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ## 基本信息
 
-### 富士 Progynon®-Depot
+### 富士 Progynon&reg;-Depot
 
 ![fuji](/images/medicine/injection/progynon-depot.jpg)
 
-- 英文名称：Progynon®-Depot
-- 日文名称：プロギノン ®・デポー
+- 英文名称：Progynon&reg;-Depot
+- 日文名称：プロギノン &reg;・デポー
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：富士日雌
 - 厂商：富士制药
@@ -37,7 +37,7 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 外观：微黄色澄清油性注射液
 - [说明书（日语）](/documents/pelanin.pdf)
 
-### American Regent, Inc
+### Estradiol Valerate
 
 |          20 mg / mL          |          40 mg / mL           |
 | :--------------------------: | :---------------------------: |
@@ -49,6 +49,25 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 规格：一盒 1 瓶，每瓶 5 mL，含有 100 mg 或 200 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
 - [说明书（英语）](/documents/generic-ev.pdf)
+
+### Depo&reg;-Estradiol
+
+![depo-estradiol](/images/medicine/injection/depo-estradiol.png)
+
+- 英文名称：Depo&reg;-Estradiol
+- 药品成分：环戊丙酸雌二醇（Estradiol Cypionate）
+- 厂商：Pfizer
+- 规格：一盒 1 瓶，每瓶 5 mL，含有 25 mg 环戊丙酸雌二醇
+- 外观：微黄色澄清油性注射液
+
+### Depo monat
+
+![Depo monat](/images/medicine/injection/depo_monat.jpg)
+- 英文名称：Depo monat
+- 药品成分：环戊丙酸雌二醇、醋酸甲羟孕酮
+- 厂商：Vesco pharma（泰国）
+- 规格：一盒 20 瓶，每瓶 0.5mL，含有 5mg 环戊丙酸雌二醇与 25mg 醋酸甲羟孕酮
+- 外观：白色水状乳浊液
 
 ## 说明
 
@@ -62,7 +81,9 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 {{< /notice >}}
 
 - 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag/neg "不会打针就不要瞎打！" >}}
-- 使用剂量：每 5-7 天 5 mg / 每 1 - 2 周 10 mg
+- 使用剂量：
+  - 戊酸雌二醇：每5 - 7 天 5 mg / 每 1 - 2 周 10 mg
+  - 环戊丙酸雌二醇：每 7 天 5 - 6 mg / 每 14 天 10 - 12 mg
 - 注意事项：
   - 请勿重复注入同一位置。
   - 小心避免神经。
@@ -74,11 +95,15 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ## 成分信息
 
-- 有效成分：戊酸雌二醇（Estradiol valerate）
-- 生物利用率：100%（注射）
-- 半衰期：4-5 天（注射）
-- 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
-- 分子量：356.50
+生物利用率 均为 100%
+
+```csv
+中文名称,英文名称,半衰期,分子式,分子量,备注
+戊酸雌二醇,{{< wiki "Estradiol valerate" en >}},4 - 5 天,C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>,356.50,
+环戊丙酸雌二醇,{{< wiki "Estradiol cypionate" en >}},6 - 7 天,C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>,396.57,
+苯甲酸雌二醇,{{< wiki "Estradiol benzoate" en >}},2 - 5 天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.49,不推荐使用
+庚酸雌二醇,{{< wiki "Estradiol enantate" en >}},5 - 8 天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.56,
+```
 
 ## 参考阅读
 

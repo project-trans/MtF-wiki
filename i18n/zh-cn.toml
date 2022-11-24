@@ -17,10 +17,14 @@ other = "阅读时间"
 other = "2006年01月02日"
 
 [reading-time]
-other = "min read"
+other = "分钟阅读量"
 
 [single-writtenBy]
 other = "撰写者"
 
 [edit-this-page]
 other = "编辑此页面"
+
+[click-to-show]
+other = "点击查看"
+

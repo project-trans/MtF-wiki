@@ -1,18 +1,20 @@
 ---
 title: "关于我们"
-description: "MtF Wiki 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点"
+description: "MtF.wiki 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点"
 weight: 0
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-Wiki](/new/mtf-wiki-long.svg)
+![MtF-wiki](/new/mtf-wiki-long.svg)
 
 {{< mtf-wiki >}} 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
 
-本项目 <i class="bi bi-github"></i> GitHub 仓库：<https://github.com/mtf-wiki/MtF-Wiki>
+本项目 <i class="bi bi-github"></i> GitHub 仓库：<https://github.com/mtf-wiki/MtF-wiki>
 
-本项目 <i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
+本项目
+
+<i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
 
 <i class="bi bi-link-45deg"></i> 同步镜像：<https://MtFwiki.cn>、<https://MtFwiki.com>
 
@@ -20,17 +22,17 @@ weight: 0
 
 ## 主要人员
 
-创始人：{{< github/profile "27522149" "kenchiu233" "可橙" >}}
+{{< github/profile "kenchiu233" "可橙" >}}&nbsp;
 
-{{< github/profile "43064781" "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
+{{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
 
-{{< github/profile "26759054" "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
+{{< github/profile "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
 
-{{< github/profile "44055214" "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
+{{< github/profile "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
 
-{{< github/profile "3842474" "septs" >}}&nbsp;<mtfwiki@septs.email>
+{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
 
-{{< github/profile "18461360" "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
+{{< github/profile "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
 
 以及感谢所有 GitHub 贡献者：
 
@@ -40,22 +42,17 @@ weight: 0
 
 ## 联系方式
 
-Discord [![Discord][badge-discord]](https://233.plus/discord)
+Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
 
-Twitter {{< shields/twitter mtfwiki >}}
+Twitter {{< shields/twitter MtFwiki >}}
 
-GitHub [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose)
+GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
 
 邮件 <hi@mtf.wiki>
 
-[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
-
 ## ~~办公地点~~
 
-{{< expand "谨慎展开">}}
-![33CLL](/images/meme/33cll.png)
-{{< /expand >}}
+{{< hiddenphoto "/images/meme/33cll.png">}}
 
 ## 致谢
 

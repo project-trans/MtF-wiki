@@ -25,13 +25,9 @@ weight: 2
 
 ## 入境
 
-當前一般以醫療旅遊簽證（Tourist MT）、旅遊簽證或落地簽證入境，下方是申請入口，落地簽證僅需要申請 Thailand Pass，旅遊簽證和落地簽證請務必說自己是來旅遊的。
-
-疫情下醫療籤需要醫院有 AHQ 資格。
+當前一般以醫療旅遊簽證（Tourist MT）、旅遊簽證或落地簽證入境，下方是申請入口，旅遊簽證和落地簽證請務必說自己是來旅遊的。
 
 [泰國電子簽證申請入口](https://www.thaievisa.go.th/)
-
-[Thailand Pass 入口](https://tp.consular.go.th/en/plan)
 
 ## 術前準備物品
 
@@ -55,7 +51,8 @@ weight: 2
 ## 散裝泰語
 
 基本使用漢語拼音諧音表示，用 e 表示 ㄝ，用 ə 表示 ㄜ 的音。多一個聲調 â 發音比 ā 更高一點。b, d, g 結尾就是用 b, d, g 的口型收尾，講臺語、粵語、客家話的朋友對此應該比較熟悉。
-{{< csv-table >}}
+
+```csv
 中文,散裝泰語
 好的、是的、對的,chài「菜」
 不,mài「賣」
@@ -74,18 +71,19 @@ weight: 2
 開/關空調,bəd/bid AC
 等一下,ro sakrù
 吹風機,tì bǎo póm
-{{< /csv-table >}}
+```
 
 **外賣備註實用語**
-{{< csv-table >}}
+
+```csv
 中文,泰文
 不要辣,ไม่เผ็ด
 不要花生,ไม่เอาถั่วลิสง
-{{< /csv-table >}}
+```
 
 ## 中華人民共和國駐泰王國大使館
 
-<http://th.china-embassy.org/chn/>
+<http://th.china-embassy.gov.cn/>
 
 地址：[57 Ratchadaphisek Road, Bangkok 10400 (57 ถ. รัชดาภิเษก แขวง ดินแดง เขตดินแดง กรุงเทพมหานคร)](https://goo.gl/maps/VraMb8dvM2uCq99f7)
 

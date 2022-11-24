@@ -4,7 +4,7 @@ aliases:
   - /zh-cn/docs/hrt/pku3/pan-bailin/
 ---
 
-# 潘<ruby>柏<rt>bǎi</rt></ruby>林
+## 潘{{< ruby 柏 bǎi >}}林
 
 {{< doctor-image src="doctor.jpg" >}}
 
@@ -17,11 +17,11 @@ aliases:
 
 出诊时间为
 
-{{< csv-table >}}
+```csv
 周次,时间,科室,价格
-周二,上午,成形科门诊（易性症综合治疗门诊）,50 元
-周四,上午,美容中心,60 元
-{{< /csv-table >}}
+周二,上午,外科-成形科门诊-易性症综合治疗门诊,60 元
+周四,上午,美容中心-美容成形,60 元
+```
 
 如何挂号详见 [北医三院：预约挂号]({{< ref "puth#register" >}})。
 

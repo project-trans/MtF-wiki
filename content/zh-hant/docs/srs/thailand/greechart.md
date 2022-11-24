@@ -8,9 +8,14 @@ title: Greechart 醫生
 
 醫院：[米蘭達整形醫院（Milada Cosmetic Surgery Hospital）](https://g.page/milada_hospital)
 
+官方網站：<http://www.miladahospital.com/products/view.php?id=104>（泰語）
+
 中文熱線：{{< telephone "+66 89-794-0811" >}}
+
 郵箱：<china_info@miladahospital.com>、<miladahospital@gmail.com>
+
 LINE ID：{{< shields/line "miladahospital" >}}
+
 微信：{{< shields/wechat "Milada0897940811" >}}
 
 ## 手術技術
@@ -19,6 +24,4 @@ Greechart 可以進行結腸和改進 PI 方法進行的 SRS．其顏色、質�
 
 ## 術後效果
 
-{{< expand "展開檢視" >}}
-![srs-photo](/images/srs/thailand/greechart/post-1.jpg)
-{{< /expand >}}
+{{< hiddenphoto "/images/srs/thailand/greechart/post-1.jpg" >}}

@@ -1,6 +1,6 @@
 ---
-title: "罩杯計算機"
-description: "罩杯計算機"
+title: "胸圍計算"
+description: "胸圍計算"
 ---
 
 <style>
@@ -21,16 +21,16 @@ description: "罩杯計算機"
     border-image-outset: 0px;
   }
 </style>
-**運算都會在本地完成，不會回傳任何資料**
+**計算會在你的電腦上完成，不會向伺服器回傳任何資料**
 
-1. 請準備一根軟尺並面對鏡子，看得到胸部
-1. 請直立，放鬆，用軟尺貼合乳房下緣<span style="text-decoration:underline; text-decoration-thickness: 2px;">⊙⊙</span>，水平繞身體量測一圈： <input type="text" id="val1"/> cm
+1. 請準備一條量身軟尺，面向鏡子，要能看到胸部
+1. 請站直、放輕鬆，將軟尺貼合乳房下緣 <span style="text-decoration:underline; text-decoration-thickness: 2px;">⊙⊙</span>，水平方向繞身體量測一圈： <input type="text" id="val1"/> cm
 1. 請呼氣：<input type="text" id="val2"/> cm
-1. 請直立，放鬆，用軟尺經過乳頭<span style="text-decoration:line-through; text-decoration-thickness: 2px;">⊙⊙</span>，繞身體量測一圈：<input type="text" id="val3"/> cm
+1. 請站直、放輕鬆，將軟尺經乳頭 <span style="text-decoration:line-through; text-decoration-thickness: 2px;">⊙⊙</span> 繞身體量測一圈：<input type="text" id="val3"/> cm
 1. 請俯身 45 度：<input type="text" id="val4"/> cm
 1. 請鞠躬 90 度：<input type="text" id="val5"/> cm
 
-<button onclick="cup()" type="submit">提交</button>
+<button onclick="cup()" type="submit">計算</button>
 
 <p id="result"></p>
 
@@ -45,7 +45,7 @@ description: "罩杯計算機"
     var cup = (val3 + val4 + val5)/3 - xia;
 
     if (isNaN(cup)) {
-      window.document.getElementById("result").innerHTML = "數值錯誤，再檢查一下吧";
+      window.document.getElementById("result").innerHTML = "輸入有誤，再檢查一下吧";
       return;
     } else if (cup<5){
       window.document.getElementById("result").innerHTML = "小妹妹妳還不需要穿內衣唷";
@@ -63,11 +63,11 @@ description: "罩杯計算機"
     } else if (cup<=20){
       cup = "E";
     }else{
-      window.document.getElementById("result").innerHTML = "妳胸大妳說了算（罩杯超出 MtF wiki 預設）";
+      window.document.getElementById("result").innerHTML = "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
       return;
     }
     if (isNaN(xia)) {
-      window.document.getElementById("result").innerHTML = "數值錯誤，再檢查一下吧";
+      window.document.getElementById("result").innerHTML = "輸入有誤，再檢查一下吧";
       return;
     } else{
       xia = Math.ceil(xia/5)*5;

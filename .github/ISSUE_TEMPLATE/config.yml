@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: RLE.wiki
+    url: https://github.com/mtf-wiki/RLE-wiki/issues/new/choose
+    about: RLE.wiki
+  - name: 2345.LGBT
+    url: https://github.com/mtf-wiki/2345.LGBT
+    about: 跨性别导航 2345.LGBT

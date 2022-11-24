@@ -13,8 +13,8 @@ description: 外用雌二醇贴片，经皮吸收。
 
 {{< figure src="/images/medicine/estradiol-patch/estradot.png" width="50%" >}}
 
-- 商品名：Estradot&reg;
-- 厂商：Novartis
+- 商品名：{{< wiki "Estradot patch" >}}
+- 厂商：{{< wiki Novartis en >}}
 - 说明书：<https://www.medsafe.govt.nz/consumers/cmi/e/estradot.pdf>
 
 ### Progynova&reg; TS
@@ -22,7 +22,15 @@ description: 外用雌二醇贴片，经皮吸收。
 {{< figure src="/images/medicine/estradiol-patch/progynova-ts.png" width="50%" >}}
 
 - 商品名：Progynova&reg; TS[^1]
-- 厂商：Bayer
+- 厂商：{{< wiki Bayer en >}}
 - 说明书：<https://www.medicines.org.uk/emc/files/pil.1617.pdf>
 
 [^1]: 因地区而异，有的地区商品名为 Climara&reg;。
+
+### Estrana&reg; TAPE
+
+{{< figure src="/images/medicine/estradiol-patch/estrana-tape.png" width="50%" >}}
+
+- 商品名：Estrana&reg; TAPE
+- 厂商：{{< wiki 久光製薬 ja >}}株式会社
+- 产品介绍：<https://medical.nikkeibp.co.jp/inc/all/drugdic/prd/24/2473700S2076.html> （日文）

@@ -4,6 +4,8 @@ weight: 1
 slug: overview
 ---
 
+> Google Maps: <https://link.mtf.wiki/maps/th>
+
 ## 術前科普 {#popular}
 
 具體參見：[術前科普]({{< ref "srs-faq" >}})
@@ -41,7 +43,7 @@ slug: overview
 
 ## 費用預期 {#fee}
 
-皮瓣手術的預期為：{{< currency from="THB" to="TWD" value="300000" >}}
+皮瓣手術的預期為：{{< currency 300000 THB >}}
 
 ## 旅行指南 {#travel}
 

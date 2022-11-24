@@ -5,15 +5,14 @@ slug: overview
 weight: 1
 ---
 
-## 综述
+## 综述 {#overview}
 
 1. 未满 16 周岁时
    青春期的情况下需要使用 [GnRH]({{< ref "gnrha" >}}) 类似物进行青春期阻断治疗
 1. 未满 18 周岁时
    已满 16 周岁未满 18 周岁时，可以进行常规激素治疗，原则上需要监护人同意
-1. 未满 20 周岁时
-   可以进行 HRT 治疗，但是根据《性别重置技术管理规范》要求无法进行 [SRS]({{< ref "srs-overview-china" >}})
-   但是多数医生仅能为其开具 [HRT 处方]({{< ref "#prescription" >}})，对于 [HRT 指导]({{< ref "#guide" >}}) 普遍较为保守
+1. 已满 18 周岁时
+   可以进行 HRT 治疗。但是多数医生仅能为其开具 [HRT 处方]({{< ref "#prescription" >}})，对于 [HRT 指导]({{< ref "#guide" >}}) 普遍较为保守
 
 ## 提供 HRT 指导 {#guide}
 
@@ -37,4 +36,4 @@ weight: 1
   - [螺内酯]({{< ref "spironolactone" >}})
 
 但是需要自行 [进行激素检查]({{< ref "hormone-check" >}}) 来调节用药
-具体用药方法参见 [HRT 总述]({{< ref "hrt-overview" >}})
+具体用药方法参见 [HRT 综述]({{< ref "hrt-overview" >}})
