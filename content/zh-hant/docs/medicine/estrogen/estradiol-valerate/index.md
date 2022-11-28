@@ -86,7 +86,7 @@ Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
 - 體重變化
 - 性功能減退、不育
 - 乳腺癌風險增加
-   + 用藥到一定年限時（如在 50 歲以上）應對乳腺癌進行排查[^2]。
+  - 用藥到一定年限時（如在 50 歲以上）應對乳腺癌進行排查[^2]。
 
 {{< notice warning "注意" >}}
 如攝入過量，以上副作用可能更明顯，因此需定期監測激素水平，按需調整劑量。
@@ -96,16 +96,15 @@ Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
 
 - 有效成分：戊酸雌二醇（{{< wiki "Estradiol valerate" en >}}）
 - 生物利用率：
-   + 口服：3~5%
-   + 含服：6~25%（推定）[^3]
+  - 口服：3~5%
+  - 含服：6~25%（推定）[^3]
 - 半衰期（同雌二醇）：
-   + 口服：12~20 小時
-   + 含服：8~18 小時
+  - 口服：12~20 小時
+  - 含服：8~18 小時
 - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50
 
-
-[^1]: [關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/articles/sublingual-ev.html)
-[^2]: [關於女性化激素療法與乳腺癌風險的簡述](https://tfsci.mtf.wiki/articles/breast-cancer.html)
-[^3]: [對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem.html)
+[^1]: [關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-ev/)
+[^2]: [關於女性化激素療法與乳腺癌風險的簡述](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)
+[^3]: [對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-e2-transfem/)
 [^4]: [雌激素對凝血功能與血栓風險的影響](https://transfemscience.org/articles/estrogens-blood-clots/) （英文）
