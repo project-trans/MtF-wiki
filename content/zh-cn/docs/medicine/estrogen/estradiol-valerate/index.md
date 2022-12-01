@@ -1,8 +1,7 @@
 ---
 title: 戊酸雌二醇片（补佳乐）
-description: 商品名补佳乐。戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
-keywords: [estradiol, 雌二醇, 雌激素, 戊酸雌二醇, 补佳乐, 糖, progynova]
 aliases: progynova
+description: 商品名补佳乐。戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
 ---
 
 {{< notice warning "注意事项" >}}
@@ -27,8 +26,8 @@ aliases: progynova
 
 ```csv
 版本,规格,外观
-中国包装（国补）,1mg × 21 片/盒,黄色糖衣片
-泰国包装（泰补）,2mg × 28 片 × 3 板/盒,蓝色糖衣片
+中国包装（国补）,1mg &times; 21 片/盒,黄色糖衣片
+泰国包装（泰补）,2mg &times; 28 片 &times; 3 板/盒,蓝色糖衣片
 ```
 
 - [说明书](/documents/ev-zh.pdf)

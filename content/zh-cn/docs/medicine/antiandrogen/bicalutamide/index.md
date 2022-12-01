@@ -9,11 +9,12 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 
 ## 基本信息
 
-| 地区     | 上架状态 |
-| -------- | -------- |
-| 中国内地 | 是       |
-| 香港     | 是       |
-| 新加坡   | 是       |
+```csv
+地区,上市状态
+中国内地,是
+香港,是
+新加坡,是
+```
 
 - 药品通用名称：比卡鲁胺片
 - 药品商品名称：康士得 / CASODEX
@@ -22,8 +23,6 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 - 性状：白色薄膜衣片，除去包衣后显白色
 - 规格：50mg &times; 28 片，150mg &times; 28 片
 - [说明书](./bicalutamide_zh.pdf)
-
-海淘渠道：[香港联合药业](https://www.unitedpharmacies.hk/%E6%AF%94%E5%8D%A1%E9%B2%81%E8%83%BA-%E7%AE%80%E4%BD%93.html)
 
 ## 注意事项
 

@@ -131,9 +131,13 @@ slug: overview
 
 见 [此处]({{< ref "gnrha" >}})
 
+## 法律法规
+
+- 2022 年 11 月 30 日《[药品网络销售禁止清单（第一版）](https://link.mtf.wiki/prohibited-drugs/1)》将 **环丙孕酮** 和 **雌二醇** 列为 其他禁止通过网络零售的药品
+
 ## 扩展阅读 {#reading}
 
-- [女性倾向跨性别者科学](https://transfemscience.org)（英文）  
+- [女性倾向跨性别者科学](https://transfemscience.org)（英文）
   [“女性倾向跨性别者科学”中译文存档站](https://tfsci.mtf.wiki)
 - [内分泌学会临床实践指南（1）](https://zhuanlan.zhihu.com/p/41593599) (<https://archive.is/NvPrv>)
 - [内分泌学会临床实践指南（2）](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
