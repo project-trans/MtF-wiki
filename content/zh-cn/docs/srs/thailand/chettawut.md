@@ -37,7 +37,9 @@ LINE：{{< shields/line "wihhospital" >}}
 医院合作酒店：大概需要 3 ~ 4 周（疫情原因回国需要更长的转运时间，可能需要在泰国休息到状态足够好才能回国，所以时间可能需要大于4周<!-- 还是我的祖国过于强大了 -->）。
 
 - [Bangkok Rama](https://g.page/BaanSiRi)
-- [dusit-srinakarinbangkok](https://goo.gl/maps/4rzty6maGqeUFz9v7)
+
+目前医院只提供院内住宿部与 Bangkok Rama 两种选项，最低价格均为每晚,{{< currency 2700 THB >}}。需要在落地泰国前全款预付住宿费用，否则不提供接送、出院之后的探视与护理等服务。
+选择院内住宿部护士每日会探视 2 次，Bangkok Rama则为护士每日探视 1 次。
 
 <!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
 <!-- 因改至 WIH 医院，原联系方法存疑 -->
