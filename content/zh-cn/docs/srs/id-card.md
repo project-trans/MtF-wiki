@@ -83,7 +83,7 @@ topToc: true
 
 法律依据：
 
-1. [《公安部治安管理局关于公民手术变性后变更户口登记性别项目有关问题的批复 （公治〔2008〕478 号）》](http://www.luocheng.gov.cn/jczwgk/xjsd/hxgl/t9631779.shtml)
+1. [《公安部治安管理局关于公民手术变性后变更户口登记性别项目有关问题的批复 （公治〔2008〕478 号）》](https://github.com/mtf-wiki/legal-spec/blob/2008-10-23/Hukou.md)
 1. 户籍所在地的户口管理规定（若部分地市无该类政策文件，请以第一条为准）
 
 ```csv
