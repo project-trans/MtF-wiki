@@ -1,7 +1,6 @@
 ---
 title: 雌二醇片（诺坤复）
 aliases: estrofem
-keywords: [雌二醇, 雌激素, 诺坤复, estrofem, estradiol]
 description: 商品名有：Estrofem（诺坤复）
 ---
 
@@ -9,21 +8,22 @@ description: 商品名有：Estrofem（诺坤复）
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-雌二醇片一般是半水合雌二醇，不同于[补佳乐（戊酸雌二醇）]({{< ref estradiol >}})。
+雌二醇片一般是半水合雌二醇，不同于[补佳乐（戊酸雌二醇）]({{< ref estradiol-valerate >}})。
 
 ## 基本信息
 
-### Estrofem<sup>®</sup> 诺坤复
+### Estrofem<sup>&copy;</sup> 诺坤复
 
-| 地区     | 上架状态 |
-| -------- | -------- |
-| 中国内地 | 无       |
-| 香港     | HK-34267 |
-| 新加坡   | 是       |
+```csv
+地区,上市状态
+中国内地,无
+香港,HK-34267
+新加坡,是
+```
 
 ![土诺包装](/images/medicine/estradiol/estrofem.png)
 
-- 药品名称：Estrofem<sup>®</sup> 诺坤复
+- 药品名称：Estrofem<sup>&copy;</sup> 诺坤复
 - 药品成分：雌二醇（Estradiol）
 - 简称：诺
 - 厂商：诺和诺德 (Novo Nordisk)（丹麦）
@@ -32,8 +32,8 @@ description: 商品名有：Estrofem（诺坤复）
 
 ```csv
 规格,外观
-2mg × 28 片/盒,蓝色薄膜包衣片 一面写有 NOVO 280 字样
-1mg × 28 片/盒,红色薄膜包衣片 一面写有 NOVO 282 字样
+2mg &times; 28 片/盒,蓝色薄膜包衣片 一面写有 NOVO 280 字样
+1mg &times; 28 片/盒,红色薄膜包衣片 一面写有 NOVO 282 字样
 ```
 
 - [说明书（英语）](/documents/estrofem.pdf)

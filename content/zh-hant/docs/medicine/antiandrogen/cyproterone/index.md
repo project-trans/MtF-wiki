@@ -51,9 +51,9 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 
 - 服用方式：口服（無明顯味道）
 - 建議使用劑量：**5 ~ 12.5 mg/天**[^1]
-   + 多項研究發現 10 mg/天左右劑量已可最大程度抑製睾固酮，且效果與高劑量一致[^1]。新近發布的《跨性別及性別多元化人群健康護理標準》第八版（SOC 8）亦建議 10 mg/天的劑量[^7]。
-   + 超出建議劑量會有更大的副作用與健康風險（見下）；低於建議劑量可能會使睾固酮抑製效果不充分。
-   + 可用切藥器切為四片（即每份 12.5 mg），每 1 ~ 3 日一服。
+  - 多項研究發現 10 mg/天左右劑量已可最大程度抑製睾固酮，且效果與高劑量一致[^1]。新近發布的《跨性別及性別多元化人群健康護理標準》第八版（SOC 8）亦建議 10 mg/天的劑量[^7]。
+  - 超出建議劑量會有更大的副作用與健康風險（見下）；低於建議劑量可能會使睾固酮抑製效果不充分。
+  - 可用切藥器切為四片（即每份 12.5 mg），每 1 ~ 3 日一服。
 - 達到效果的情況下盡量減少用量。
 - 建議適量補充維他命 B<sub>12</sub>。
 - 停藥時須逐步減量。
@@ -68,7 +68,6 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 - **肝毒性**：色普龍最嚴重的副作用，與劑量相關，表現為肝轉化酶水平升高；嚴重時可引起**肝衰竭**甚至**死亡**[^1]。使用前應當檢查**肝功能**並定期檢查[^4]。
 - {{< tag/neg "暫未明確" >}} 過早匯入色普龍（尤其高劑量）可能造成乳房發育不良[^8]。
 
-
 ## 成分資訊
 
 - 有效成分：醋酸環丙孕酮（Cyproterone Acetate）
@@ -76,11 +75,11 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 - 分子式：C<sub>24</sub>H<sub>29</sub>ClO<sub>4</sub>
 - 分子量：416.94
 
-[^1]: [低劑量的醋酸環丙孕酮足以最大限度地抑製女性傾向跨性別者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage.html)
+[^1]: [低劑量的醋酸環丙孕酮足以最大限度地抑製女性傾向跨性別者的睾酮水平](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)
 [^2]: [The journal of clinical endocrinology & metabolism](https://www.worldcat.org/title/journal-of-clinical-endocrinology-metabolism/oclc/818906359)
 [^3]: [Clinical and experimental dermatology. Supplement ... : CED.](https://www.worldcat.org/title/clinical-and-experimental-dermatology-supplement-ced/oclc/499941040)
 [^4]: [PRODUCT MONOGRAPH](https://web.archive.org/web/20060924152720/http://www.berlex.ca/html/docs/en/AndrocurEn.pdf)
 [^5]: [醋酸環丙孕酮片](http://yao.dxy.com/drug/132923.htm)
-[^6]: [法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/articles/cpa-meningioma.html)
+[^6]: [法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)
 [^7]: [Standards of Care for the Health of Transgender and Gender Diverse People, Version 8](https://doi.org/10.1080/26895269.2022.2100644)
-[^8]: [女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro.html#醋酸环丙孕酮)
+[^8]: [女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/#cyproterone-acetate)
