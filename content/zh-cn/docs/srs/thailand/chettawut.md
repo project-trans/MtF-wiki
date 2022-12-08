@@ -11,6 +11,7 @@ keywords:
 医生姓名：Chettawut，蔡达武
 
 所在医院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
+
 官方网站: [wih international hospital](https://https://wihhospital.com/)
 
 邮箱：<info@wihhospital.com>
@@ -19,7 +20,7 @@ keywords:
 
 LINE：{{< shields/line "wihhospital" >}}
 
-医疗中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
+医疗中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>
 
 手术费用：（注：此处费用为从上方中介梁金处获得的报价，其他方式获得的报价可能有所差异）
 
