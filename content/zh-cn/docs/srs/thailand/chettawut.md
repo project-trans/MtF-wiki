@@ -20,7 +20,7 @@ keywords:
 
 LINE：{{< shields/line "wihhospital" >}}
 
-医疗中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>
+医疗中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
 
 手术费用：（注：此处费用为从上方中介梁金处获得的报价，其他方式获得的报价可能有所差异）
 
