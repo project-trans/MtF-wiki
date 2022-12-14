@@ -4,7 +4,7 @@ title: 广州医科大学附属脑科医院｜赵素华
 
 {{< doctor-image src="doctor.jpg" >}}
 
-医生姓名: [赵素华](https://yyk.familydoctor.com.cn/doctor/161469/)
+医生姓名: [赵素华](https://www.gzbrain.cn/myzj/info.aspx?itemid=5375)
 
 所在医院: [广州医科大学附属脑科医院](https://amap.com/place/B00141S32G)
 
@@ -12,7 +12,7 @@ title: 广州医科大学附属脑科医院｜赵素华
 
 ```csv
 周次,时间,科室,挂号费
-星期三,上午,普通精神科门诊（芳村）,300 元
+星期四,上午,临床心理科门诊（荔湾）,300 元
 ```
 
 附注：
