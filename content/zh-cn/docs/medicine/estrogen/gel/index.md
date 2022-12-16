@@ -10,6 +10,8 @@ description: 外用雌二醇凝胶，经皮吸收。
 
 雌二醇凝胶可经皮肤吸收，使用方便，且可完全避免肝脏的首过效应，安全性更高。不过总体开销较大。
 
+专家共识：[雌二醇凝胶临床应用指导建议](http://medi-guide.meditool.cn/ymtpdf/E60E60E5-CF7F-0A27-75B3-BE7B935D762D.pdf)（DOI: [10.19538/j.fk2017070113](https://doi.org/10.19538/j.fk2017070113)）
+
 ## 基本信息
 
 ### Oestrogel&reg;（爱斯妥）{#oestrogel}
@@ -76,5 +78,4 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
 
-
-[^1]: [雌激素对凝血功能与血栓风险的影响](https://transfemscience.org/articles/estrogens-blood-clots/) （英文）
+[^1]: [雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/) （英文）
