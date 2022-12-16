@@ -13,11 +13,15 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 邮箱：<customercare@kamolhospital.com>
 
-微信：{{< shields/wechat "xiaofeitum2" >}} 陪护：{{< shields/wechat "JessicaLee9985" >}}
-
 电话：{{< telephone "+66 2559-0155" >}}
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
+
+## 仲介/陪护联系
+
+微信：{{< shields/wechat "xiaofeitum2" >}} 
+
+陪护：{{< shields/wechat "JessicaLee9985" >}}
 
 ## 手术费用
 
@@ -27,7 +31,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 PI 皮瓣,{{< currency 330000 THB >}}
 结肠,{{< currency 480000 THB >}}
 结肠（腹腔镜）,{{< currency 577500 THB >}}
-腹膜（腹腔镜）,{{< currency 599000 THB >}}
+腹膜,{{< currency 599000 THB >}}
 ```
 
 支持 中国银联卡、VISA 卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
