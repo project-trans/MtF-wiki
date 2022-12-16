@@ -13,7 +13,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 邮箱：<customercare@kamolhospital.com>
 
-微信：{{< shields/wechat "xiaofeitum2" >}}
+微信：{{< shields/wechat "xiaofeitum2" >}} {{< shields/wechat "JessicaLee9985" >}}
 
 电话：{{< telephone "+66 2559-0155" >}}
 
@@ -23,12 +23,10 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ```csv
 手术方式,价格
-0 深度,{{< currency 257250 THB >}}
+0 深度,{{< currency 265000 THB >}}
 PI 皮瓣,{{< currency 330000 THB >}}
-非 PI 皮瓣,{{< currency 321000 THB >}}
-非 PI + 腹股沟皮瓣,{{< currency 320000 THB >}} ~ {{< currency 336000 THB >}}
-结肠,（过时，暂缺更新）
-结肠（腹腔镜）,{{< currency 420000 THB >}}
+结肠,{{< currency 480000 THB >}}
+结肠（腹腔镜）,{{< currency 577500 THB >}}
 腹膜（腹腔镜）,{{< currency 599000 THB >}}（可能过时）
 ```
 
