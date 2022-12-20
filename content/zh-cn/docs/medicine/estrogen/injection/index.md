@@ -99,12 +99,16 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ```csv
 中文名称,英文名称,半衰期,分子式,分子量,备注
-戊酸雌二醇,{{< wiki "Estradiol valerate" en >}},4 - 5 天,C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>,356.50,
-环戊丙酸雌二醇,{{< wiki "Estradiol cypionate" en >}},6 - 7 天,C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>,396.57,
-苯甲酸雌二醇,{{< wiki "Estradiol benzoate" en >}},2 - 5 天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.49,不推荐使用
-庚酸雌二醇,{{< wiki "Estradiol enantate" en >}},5 - 8 天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.56,
+戊酸雌二醇,{{< wiki "Estradiol valerate" en >}},3.5 (1.2 – 7.2) 天,C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>,356.506 g·mol<sup>−1</sup>,
+环戊丙酸雌二醇,{{< wiki "Estradiol cypionate" en >}},8 – 10 天,C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>,396.571 g·mol<sup>−1</sup>,
+苯甲酸雌二醇,{{< wiki "Estradiol benzoate" en >}},2 - 5 天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.496 g·mol<sup>−1</sup>,
+庚酸雌二醇,{{< wiki "Estradiol enantate" en >}},5.6 – 7.5 天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.560 g·mol<sup>−1</sup>,
 ```
 
 ## 参考阅读
 
 1. <https://fenwayhealth.org/wp-content/uploads/2015/07/COM-1880-trans-health_injection-guide_small_v2.pdf>
+2. https://en.wikipedia.org/wiki/Estradiol_valerate
+3. https://en.wikipedia.org/wiki/Estradiol_cypionate
+4. https://en.wikipedia.org/wiki/Estradiol_benzoate
+5. https://en.wikipedia.org/wiki/Estradiol_enantate 
