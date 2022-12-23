@@ -14,7 +14,7 @@ keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰
 皮瓣,{{< currency 260000 THB >}}
 ```
 
-醫療中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com> 、微信公眾號「[破繭成碟 BY 梁金](weixin://jinliang3039)」
+醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
 
 ## 護理問題
 

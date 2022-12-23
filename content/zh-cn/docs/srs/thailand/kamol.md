@@ -11,15 +11,17 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 所在医院：[Kamol Cosmetic Hospital](https://goo.gl/maps/oMMRQotSXqQSmvC48)
 
+官方网站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
+
 邮箱：<customercare@kamolhospital.com>
 
 电话：{{< telephone "+66 2559-0155" >}}
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
-## 仲介/陪护联系
+## 中介/陪护联系
 
-微信：{{< shields/wechat "xiaofeitum2" >}} 
+微信：{{< shields/wechat "xiaofeitum2" >}}
 
 陪护：{{< shields/wechat "JessicaLee9985" >}}
 
@@ -34,7 +36,7 @@ PI 皮瓣,{{< currency 330000 THB >}}
 腹膜,{{< currency 599000 THB >}}
 ```
 
-支持 中国银联卡、VISA 卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
+支持 银联卡、国际信用卡、支付宝 付款{{<zhcnonly>}}（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）{{</zhcnonly>}}
 
 酒店费用：出院后，前 14 天须在下方指定酒店进行恢复，之后可自行选择其他酒店。需要 3 ~ 4 周左右。
 
@@ -71,8 +73,6 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 腹膜技术只有近两年比较新，有长息肉、萎縮或有其它后遗症的情况，而且腹膜的延展性没那么好，通模具要大力，会比较疼。
 
-官方网站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
-
 ## 预约事项
 
 1. 确认手术日期后，需提前支付 10% 手术费用作为定金。
@@ -96,7 +96,7 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
   价格：{{< currency 7700 THB >}}
 - 心脏病专家探访
   价格：{{< currency 1000 THB >}} ~ {{< currency 5000 THB >}}
-  这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺 部检查，甲状腺检查等）
+  这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺部检查，甲状腺检查等）
 
 ## 手术日程
 

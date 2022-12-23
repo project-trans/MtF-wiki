@@ -12,15 +12,15 @@ keywords:
 
 所在醫院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
 
+官方網站: [wih international hospital](https://wihhospital.com/)
+
 郵箱：<info@wihhospital.com>
 
 電話：{{< telephone "+66 0-2078-8919" >}}
 
 LINE：{{< shields/line "wihhospital" >}}
 
-<https://wihhospital.com/procedure/UHJvY2VkdXJlOjI4MQ==>
-
-醫療中介：梁金 {{< shields/wechat "liangjin3039" >}}、{{< shields/line "jin235" >}}、<jinliang222@gmail.com>
+醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
 
 手術費用：（注：此處費用為從上方中介梁金處獲得的報價，其他方式獲得的報價可能有所差異）
 
@@ -33,17 +33,28 @@ LINE：{{< shields/line "wihhospital" >}}
 腹膜,{{< currency 530000 THB >}}
 ```
 
-可以使用泰銖現金、跨境匯款、國際信用卡、銀聯儲蓄卡、支付寶、微信支付醫院費用。
+可以使用泰銖現金、跨境匯款（含 [Wise](https://wise.com/)）、國際信用卡/儲蓄卡、銀聯卡、支付寶、微信等方式支付醫院費用。
 
-酒店費用：大概需要 3 ~ 4 周。
+醫院或合作酒店住宿：大概需要 3 ~ 4 周{{<zhcnonly>}}（疫情原因回國需要更長的轉運時間，可能需要在泰國休息到狀態足夠好才能回國，所以時間可能需要大於 4 周<!-- 還是我的祖國過於強大了 -->）。{{</zhcnonly>}}
 
-- [Bangkok Rama](https://g.page/BaanSiRi): {{< currency 1100 THB >}}（**不能使用中國銀聯支付**）
+- [Bangkok Rama](https://g.page/BaanSiRi)
+
+目前醫院只提供院內住宿部與 Bangkok Rama 兩種選項，最低價格均為每晚,{{< currency 2700 THB >}}。
+
+需要在落地泰國前全款預付住宿費用，否則不提供接送、出院之後的探視與護理等服務。
+
+選擇院內住宿部護士每日會探視 2 次，Bangkok Rama 則為護士每日探視 1 次。
+
+住宿需要至少在醫院住滿 30 天，或按來回機票酌情增減。
+
+因手術費用含**病房**4 天，因此可以在上述基礎上減 4 晚進行計算。如：若住 30 晚，則需額外支付 26 晚的住宿費用。
+
+目前醫院在正在進行滿 5 晚贈 1 晚、滿 20 晚贈 5 晚活動。據稱該活動於 2023 年 1 月 5 日前均有效。~~（護士數學不是很好，比如共需住宿 21 晚，直接收 21-4=17 晚，如果佔了便宜最好別吱聲）~~
 
 <!-- 預約可以找中介，也可以透過 <chettawut@gmail.com> 或 <cset@truemail.co.th> 聯絡蔡醫生 -->
 <!-- 因改至 WIH 醫院，原聯絡方法存疑 -->
 
-如交定金時選擇直接向醫院匯款，可能在銀行會因對公轉賬遇到麻煩，如果遇到麻煩，儘量備齊手術相關檔案並要求醫院開賬單。
-[此頁面](https://wihhospital.com/privacy-policy) 說明了 `THANADOL & KOJCHABOON CO., LTD.`（收款賬戶）與 WIH International Hospital 的關係。
+{{<zhcnonly>}}如交定金時選擇直接向醫院匯款，可能在銀行會因對公轉賬遇到麻煩，如果遇到麻煩，儘量備齊手術相關檔案（如醫院賬單，營業執照等，可以向中介或醫院索要）。{{</zhcnonly>}}
 
 ## 手術介紹
 
@@ -54,6 +65,8 @@ Chet 的技術與 [Suporn]({{< ref "suporn" >}}) 類似，使用陰囊皮瓣作�
 如果因為睪丸切除、HRT 和其他因素導致沒有足夠的陰囊皮膚的患者，取腹股溝皮膚以補充材料。（要加錢）
 
 尿道周圍的所有海綿體肌肉都被完全切除，以防止在性興奮時組織充血。保留尿道口和陰道口周圍的特定分泌腺，以實現的自我潤滑。準備好的皮膚片將透過光照進行仔細檢查，並在移植管插入新建成的陰道內之前，將可能殘留的毛囊細緻地提取出來。
+
+值得注意的是 chet 的手術對術後[通模具(dilatation)]({{< ref "chettawut#dilatation" >}})的要求十分苛刻，術後會在這方面消耗大量時間，考慮手術時也應該考慮這方面因素。
 
 ### 關於肉芽
 
@@ -81,11 +94,11 @@ Chet 術後出現肉芽是非常常見的現象，通常會在術後複診的時
 
 1. BMI <= 33，結腸重塑陰道手術 BMI < 25
 
-## 術前事項
+## 術前事項{#before-surgery}
 
 1. 手術需要兩位心理醫生的證明
 
-   其中可以自行提供一份中國的醫院 **精神科** 證明（翻譯成英文，注意：**醫學心理科不行**，證明上必須寫有 **建議手術** 的字樣）
+   其中可以自行提供一份您當地醫院 **精神科** 證明（翻譯成英文，注意：**心理科不行**，證明上必須寫有 **建議手術** 的字樣）
    {{< expand "樣例">}}![diagnosis](/images/srs/thailand/chettawut/diagnosis.png){{< /expand >}}
    泰國心理醫生價格 {{< currency 2500 THB >}} 每位
 
@@ -132,7 +145,7 @@ Chet 術後出現肉芽是非常常見的現象，通常會在術後複診的時
 
 ## 術後事項
 
-### 通模具
+### 通模具{#dilatation}
 
 [Chettawut 醫生的通模具指導](http://www.chet-plasticsurgery.com/dr-chettawuts-vaginal-dilatation-instructions/)
 
@@ -187,6 +200,16 @@ Chet 術後出現肉芽是非常常見的現象，通常會在術後複診的時
 - 至少 3 個月內避免性交。
 - 至少 3 個月內避免容易導致生殖器部位急性過度拉伸的運動，包括瑜伽、有氧舞蹈、普拉提、游泳等。
 - 至少 3 個月內避免劇烈活動（任何可能對生殖器部位造成壓力的活動，如，爬山上坡、騎馬、騎腳踏車或騎摩托車）。
+
+（一些住院經驗）
+
+- 術後因為流食可能會覺得餓，這時候可以~~撒嬌賣萌~~向護士要額外的食物，一般都可以獲取到。
+- 如果你需要藥品，可能的話可以直接給護士講英文名，否則可能面臨開藥物盲盒。
+
+> very pain, give me morphine injection please (你成功獲取了嗎啡注射劑)
+> very pain, give me some strong painkiller please (你開啟了賽來昔布，撲熱息痛，曲馬多，嗎啡盲盒)
+> I can't sleep, can you give me some diazepam help me sleep (你獲得了兩片安定)
+> I can't sleep, can you give me some sleeping pills help me sleep (你甚至能獲得兩片曲馬多)
 
 ## 術後評價
 

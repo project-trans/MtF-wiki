@@ -2,9 +2,10 @@
 title: SRS 綜述（泰國）
 weight: 1
 slug: overview
+keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國]
 ---
 
-> Google Maps: <https://link.mtf.wiki/maps/th>
+> 1. Google Maps：<https://link.mtf.wiki/maps/th>
 
 ## 術前科普 {#popular}
 
@@ -27,19 +28,15 @@ slug: overview
 
 具體參見：[手術技術]({{< ref "srs-tech" >}})
 
-<!-- prettier-ignore-start -->
-
-| 醫生/醫院 | PI | 非 PI | 結腸 | 腹膜 |
-| :--- | :---: | :---: | :---: | :---: |
-[Burin]({{< ref "preecha" >}})         | &#9989; |         | &#9989; |         |
-[Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
-[Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
-[Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
-[Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
-[Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
-[Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
-
-<!-- prettier-ignore-end -->
+| 醫生/醫院                            |   PI    |  非 PI  |  結腸   |  腹膜   |
+| :----------------------------------- | :-----: | :-----: | :-----: | :-----: |
+| [PAI/Burin]({{< ref "preecha" >}})   | &#9989; |         | &#9989; |         |
+| [Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
+| [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
+| [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
+| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; | &#9989; |         |
+| [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
+| [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 
 ## 費用預期 {#fee}
 
@@ -51,4 +48,4 @@ slug: overview
 
 ## 術後事項 {#post-matter}
 
-[證件變更指引]({{< ref "id-card" >}})，一般需要按「B)司法鑑定」操作。
+[證件變更指引]({{< ref "id-card" >}}){{<zhcnonly>}}，一般需要按「B)司法鑑定」操作。{{</zhcnonly>}}
