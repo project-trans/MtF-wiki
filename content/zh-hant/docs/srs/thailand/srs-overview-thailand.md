@@ -5,7 +5,7 @@ slug: overview
 keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國]
 ---
 
-> 1. Google Maps：<https://link.mtf.wiki/maps/th>
+Google Maps：<https://link.mtf.wiki/maps/th>
 
 ## 術前科普 {#popular}
 
@@ -34,7 +34,7 @@ keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰
 | [Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
 | [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
 | [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
-| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; | &#9989; |         |
+| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
 | [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
 | [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 

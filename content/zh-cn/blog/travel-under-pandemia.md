@@ -2,7 +2,7 @@
 title: "疫情特辑：泰国旅行指南"
 description: "本篇讲述在疫情防控下进行赴泰国手术的内容"
 date: 2022-07-07T01:50:00+08:00
-draft: false
+draft: true
 enableToc: true
 author: "MtF.wiki 工作组"
 ---

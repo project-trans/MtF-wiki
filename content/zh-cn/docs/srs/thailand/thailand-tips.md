@@ -3,8 +3,6 @@ title: 泰国旅行指南
 weight: 2
 ---
 
-与中国防疫有关的内容在这里（中国出入境）>>[疫情特辑：泰国旅行指南]({{< ref "travel-under-pandemia" >}})
-
 ## 出行前物品准备 {#prepare-leave}
 
 - 先检查您的所有文件证件

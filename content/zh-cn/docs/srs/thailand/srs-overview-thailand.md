@@ -5,8 +5,7 @@ slug: overview
 keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国]
 ---
 
-> 1. [疫情特辑：泰国旅行指南]({{< ref "travel-under-pandemia" >}})
-> 1. Google Maps：<https://link.mtf.wiki/maps/th>
+Google Maps：<https://link.mtf.wiki/maps/th>
 
 ## 术前科普 {#popular}
 
@@ -35,7 +34,7 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 | [Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
 | [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
 | [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
-| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; | &#9989; |         |
+| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
 | [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
 | [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 
