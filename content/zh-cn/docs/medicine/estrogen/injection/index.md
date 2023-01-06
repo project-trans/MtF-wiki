@@ -77,8 +77,7 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 ## 使用方式与用量
 
 {{< notice warning "用药安全提示" >}}
-乳腺癌高风险者请勿使用
-重度肝障碍患者请勿使用
+乳腺癌高风险者、重度肝障碍患者请勿使用！
 {{< /notice >}}
 
 - 使用方式：[肌肉注射](https://zh.wikihow.com/进行肌肉注射)、[皮下注射](https://zh.wikihow.com/进行皮下注射) {{< tag/neg "不会打针就不要瞎打！" >}}
@@ -102,14 +101,22 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 中文名称,英文名称,半衰期,分子式,分子量,CAS,备注
 戊酸雌二醇,{{< wiki "Estradiol valerate" en >}},3.5 (1.2 – 7.2) 天,C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>,356.506 g·mol<sup>−1</sup>,[979-32-8](https://commonchemistry.cas.org/detail?cas_rn=979-32-8),
 环戊丙酸雌二醇,{{< wiki "Estradiol cypionate" en >}},8 – 10 天,C<sub>26</sub>H<sub>36</sub>O<sub>3</sub>,396.571 g·mol<sup>−1</sup>,[313-06-4](https://commonchemistry.cas.org/detail?cas_rn=313-06-4),
-苯甲酸雌二醇,{{< wiki "Estradiol benzoate" en >}},2 - 5 天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.496 g·mol<sup>−1</sup>,[50-50-0](https://commonchemistry.cas.org/detail?cas_rn=50-50-0),
-庚酸雌二醇,{{< wiki "Estradiol enantate" en >}},5.6 – 7.5 天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.560 g·mol<sup>−1</sup>,[4956-37-0](https://commonchemistry.cas.org/detail?cas_rn=4956-37-0),
+苯甲酸雌二醇,{{< wiki "Estradiol benzoate" en >}},2 - 5 天,C<sub>25</sub>H<sub>28</sub>O<sub>3</sub>,376.496 g·mol<sup>−1</sup>,[50-50-0](https://commonchemistry.cas.org/detail?cas_rn=50-50-0),不常应用<sup>(1)</sup>
+庚酸雌二醇,{{< wiki "Estradiol enantate" en >}},5.6 – 7.5 天,C<sub>25</sub>H<sub>36</sub>O<sub>3</sub>,384.560 g·mol<sup>−1</sup>,[4956-37-0](https://commonchemistry.cas.org/detail?cas_rn=4956-37-0),不常应用<sup>(2)</sup>
 ```
+
+<small>
+
+(1) 不常用理由：注射间隔过短（2 – 3 天），长期使用不便；雌二醇水平波动过大（3 日内差值可达 4 倍以上），可能限制疗效、引起不必要的副作用和风险；现有跨性别健康指南无一推荐等。另见“参考阅读”六的[分析](https://tfsci.mtf.wiki/articles/injectable-e2-meta-analysis/#estradiol-benzoate)环节。\
+(2) 不常用理由：仅见于注射用复方避孕药，国内无渠道。见“参考阅读”六的[分析](https://tfsci.mtf.wiki/zh-cn/articles/injectable-e2-meta-analysis/#estradiol-enanthate)环节。
+
+</small>
 
 ## 参考阅读
 
 1. <https://fenwayhealth.org/wp-content/uploads/2015/07/COM-1880-trans-health_injection-guide_small_v2.pdf>
-1. <https://en.wikipedia.org/wiki/Estradiol_valerate>
-1. <https://en.wikipedia.org/wiki/Estradiol_cypionate>
-1. <https://en.wikipedia.org/wiki/Estradiol_benzoate>
-1. <https://en.wikipedia.org/wiki/Estradiol_enantate>
+2. [戊酸雌二醇 - 维基百科](https://en.wikipedia.org/wiki/Estradiol_valerate) （英文）
+3. [环戊丙酸雌二醇 - 维基百科](https://en.wikipedia.org/wiki/Estradiol_cypionate) （英文）
+4. [苯甲酸雌二醇 - 维基百科](https://en.wikipedia.org/wiki/Estradiol_benzoate) （英文）
+5. [庚酸雌二醇 - 维基百科](https://en.wikipedia.org/wiki/Estradiol_enantate) （英文）
+6. [注射雌二醇后的血清浓度曲线分析 – 女性倾向跨性别者科学中文译本](https://tfsci.mtf.wiki/articles/injectable-e2-meta-analysis/)

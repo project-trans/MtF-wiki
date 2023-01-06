@@ -10,7 +10,7 @@ weight: 10
 ## 雌激素用藥風險
 
 雌激素最常見的藥物不良反應有：**乳房緊張/乳房疼痛、腹痛、水腫與頭痛。** [^1]\
-最嚴重的不良反應有：**血栓栓塞事件（嚴重時可導致心肌梗塞與中風）**[^2] [^3]。口服雌二醇或人工合成雌激素（如炔雌醇）的這項風險更大。
+最嚴重的不良反應有：**血栓栓塞事件（嚴重時可導致心肌梗塞與中風）和乳腺癌**[^2] [^3] [^15]。口服雌二醇或人工合成雌激素（如炔雌醇）的這項風險更大。
 
 下表為口服戊酸雌二醇片“[Progynova]({{< ref "estradiol-valerate" >}})”說明書列出的各不良反應 [^2]：
 
@@ -51,16 +51,15 @@ weight: 10
 單用高劑量醋酸環丙孕酮,3–5 倍
 ```
 
-更多詳情可參見《[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/)》。
+更多詳情可參見《[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》。
 
 ### 雌激素相關資料
 
-> **EMA 確認高強度雌二醇乳膏的使用時間不超過四周**
+> **EMA 確認高強度雌二醇乳膏的使用時間不超過四周** [^16]
 >
 > PRAC 審查了關於高強度**雌二醇乳膏**用於治療絕經期婦女陰道萎縮症狀的安全性和有效性的現有資料。這些資料表明，絕經後婦女使用這些乳膏後，血液中的雌二醇水平高於正常絕經後的水平。PRAC 的結論是，雌二醇在血液中的吸收值得關注，可能導致與激素替代療法（HRT）相似的副作用，口服或經皮膚（作為貼片）使用 HRT 的副作用包括靜脈血栓栓塞（靜脈血栓形成）、中風、子宮內膜癌和乳腺癌。此外，關於長期使用高強度**雌二醇乳膏**的安全性資料有限。
 > 基於這些原因，PRAC 建議這些乳膏一個療程最多隻能使用 4 周。
 
-本段落摘要自 [藥物警戒快訊第 4 期（總第 204 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html)
 
 ## 孕激素用藥風險
 
@@ -90,12 +89,12 @@ weight: 10
 血液和淋巴系統失調,,,,,,貧血
 免疫系統失調,,,,過敏反應,,
 代謝及營養失調,,體重增加；體重減少,,,,
-精神病類,性欲減退、勃起功能障礙,憂鬱心境、短暫性躁動,,,,
-血管失調,,,,,,血栓栓塞形成
-呼吸、胸和橫膈膜失調,,呼吸困難,,,,
+精神病類,性慾降低<br>勃起障礙,情緒低落<br>短暫性煩躁,,,,
+血管失調,,,,,,血栓栓塞事件
+呼吸、胸和橫膈膜失調,,呼吸急促,,,,
 腸胃失調,,,,,,腹內出血
-肝膽失調,,藥物性肝損傷、肝毒性、肝炎,黃疸、肝衰竭,,,
-皮膚和皮下組織失調,,,皮疹,,,
+肝膽失調,,藥物性肝損傷<br>肝臟毒性<br>肝炎,黃疸<br>肝衰竭,,,
+皮膚和皮下組織失調,,,紅疹,,,
 肌肉骨骼和結締組織失調,,,,,,骨質疏鬆
 生殖系統和乳房功能失調,精子形成抑制,男性乳房發育,,,,
 全身性失調和注射部位情況,,疲勞、潮熱、流汗,,,,
@@ -115,34 +114,34 @@ weight: 10
 
 ### 抗雄性素相關資料
 
-> **加拿大公布抗雄性素藥物安全性評估結果**
+> **加拿大公布抗雄性素藥物安全性評估結果** [^17]
 >
 > 在臨床文獻中，也有對使用抗雄性素藥物存在肝毒性風險的描述。
 > 盡管類固醇類和非類固醇類抗雄性素藥物都與肝毒性相關，但這些不良反應的發生頻率及其臨床特征，在不同藥品間似乎有所不同。例如，觀察性研究結果顯示，使用**氟他胺**的患者出現肝毒性事件的發生頻率高於那些使用**醋酸環丙孕酮**的患者（15.3%比 9.5%，p=0.034）。
 > 此外，這項研究發現在嚴重的肝毒性（定義為肝酶水平升高大於 6 倍正常值上限）事件中，使用**氟他胺**者占 4.8%，使用**醋酸環丙孕酮**者占 3.8%。在嚴重肝毒性事件中，使用**可蘇多**和**尼魯米特**者罕有報告。
 
-本段落摘要自 [藥物警戒快訊 2012 年第 11 期（總第 115 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20121130120001399.html)
 
-> **歐盟因腦膜瘤風險限製環丙孕酮的使用**
+> **歐盟因腦膜瘤風險限製環丙孕酮的使用** [^18]
 >
 > 現有資料並未表明含有 1 或 2 毫克的低劑量**環丙孕酮**與**炔雌醇**或**雌二醇**聯用治療痤瘡、多毛症、避孕或激素替代療法的風險。然而，作為預防措施，這些藥物不應用於**腦膜瘤患者**或有**腦膜瘤病史**者。
 > 含高劑量環丙孕酮的藥物已有該限定。
 
-本段落摘要自 [藥物警戒快訊第 3 期（總第 203 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20200416143701885.html)
-
-
 
 [^1]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/misc/estrofem/)
 [^2]: [戊酸雌二醇片（Progynova）說明書](https://tfsci.mtf.wiki/misc/progynova/)
-[^3]: [雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/)
-[^4]: [口服孕酮及其引起的低孕酮水平與較弱效力的簡論](https://tfsci.mtf.wiki/zh-cn/articles/oral-p4-low-levels/)
-[^5]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/zh-cn/misc/siterone-nz/)
-[^6]: [醋酸環丙孕酮（南非 Androcur）說明書](https://tfsci.mtf.wiki/zh-cn/misc/androcur-za/)
-[^7]: [醋酸環丙孕酮（台灣 Androcur）說明書](https://tfsci.mtf.wiki/zh-cn/misc/androcur-tw/)
-[^8]: [低劑量醋酸環丙孕酮足可高效抑製睪固酮](https://tfsci.mtf.wiki/zh-cn/articles/cpa-dosage/)
-[^9]: [醋酸環丙孕酮和腦膜瘤風險](https://tfsci.mtf.wiki/zh-cn/articles/cpa-meningioma/)
-[^10]: [可蘇多（Casodex）說明書](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020498s028lbl.pdf) （英文）
-[^11]: [女性傾向跨性別者的激素治療簡介 - 可蘇多](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/#bicalutamide)
-[^12]: [可蘇多在女性化激素治療上的使用與接受情況](https://tfsci.mtf.wiki/zh-cn/articles/bica-adoption/)
-[^13]: [螺內酯片說明書](https://tfsci.mtf.wiki/zh-cn/misc/spiro-tablet/)
-[^14]: [女性傾向跨性別者的激素治療簡介 - 螺內酯](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/#spironolactone)
+[^3]: [雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)
+[^4]: [口服孕酮及其引起的低孕酮水平與較弱效力的簡論](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)
+[^5]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/misc/siterone-nz/)
+[^6]: [醋酸環丙孕酮（南非 Androcur）說明書](https://tfsci.mtf.wiki/misc/androcur-za/)
+[^7]: [醋酸環丙孕酮（台灣 Androcur）說明書](https://tfsci.mtf.wiki/misc/androcur-tw/)
+[^8]: [低劑量醋酸環丙孕酮足可高效抑製睪固酮](https://tfsci.mtf.wiki/articles/cpa-dosage/)
+[^9]: [醋酸環丙孕酮和腦膜瘤風險](https://tfsci.mtf.wiki/articles/cpa-meningioma/)
+[^10]: [可蘇多（Casodex）說明書](https://tfsci.mtf.wiki/misc/casodex/)
+[^11]: [女性傾向跨性別者的激素治療簡介 - 可蘇多](https://tfsci.mtf.wiki/articles/transfem-intro/#bicalutamide)
+[^12]: [可蘇多在女性化激素治療上的使用與接受情況](https://tfsci.mtf.wiki/articles/bica-adoption/)
+[^13]: [螺內酯片說明書](https://tfsci.mtf.wiki/misc/spiro-tablet/)
+[^14]: [女性傾向跨性別者的激素治療簡介 - 螺內酯](https://tfsci.mtf.wiki/articles/transfem-intro/#spironolactone)
+[^15]: [女性化激素療法與乳腺癌風險](https://tfsci.mtf.wiki/articles/breast-cancer/)
+[^16]: 摘自 [藥物警戒快訊第 4 期（總第 204 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html)
+[^17]: 摘自 [藥物警戒快訊 2012 年第 11 期（總第 115 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20121130120001399.html)
+[^18]: 摘自 [藥物警戒快訊第 3 期（總第 203 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20200416143701885.html)
