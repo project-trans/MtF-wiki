@@ -32,7 +32,6 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：拜耳
 - 产地：土耳其
 - 规格：50mg &times; 50 片，100mg &times; 30 片
-- 参考售价：（京东国际）50mg &times; 50 片 人民币 380 元
 - [说明书（繁体中文）](/documents/androcur-zh.pdf)
 
 ### Siterone&reg;
@@ -55,7 +54,6 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：武汉九珑人福药业有限责任公司
 - 批准文号：国药准字 H20056637
 - 规格：50mg &times; 24 片
-- 参考售价：人民币 270 元
 - [说明书](./huadian-zh.pdf)
 
 ## 说明
