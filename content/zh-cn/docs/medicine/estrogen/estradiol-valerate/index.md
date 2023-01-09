@@ -1,6 +1,6 @@
 ---
 title: 戊酸雌二醇片（补佳乐/克龄蒙）
-aliases: progynova/climen
+aliases: progynova
 description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
 ---
 
