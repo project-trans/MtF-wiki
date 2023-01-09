@@ -1,27 +1,31 @@
 ---
-title: 戊酸雌二醇片（补佳乐）
-aliases: progynova
-description: 商品名补佳乐。戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
+title: 戊酸雌二醇片（补佳乐/克龄蒙）
+aliases: progynova/climen
+description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
 ---
 
 {{< notice warning "注意事项" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-补佳乐的主要成分为戊酸雌二醇。戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；其进入体内后，会快速经酯酶水解为雌二醇，从而发挥雌激素活性（酯酶多见于肝脏，也见于血液等各组织）。
-补佳乐的包衣含有蔗糖，故入口味甜。
+补佳乐/克龄蒙的主要成分为戊酸雌二醇（克龄蒙中所含 1mg 醋酸环丙孕酮因剂量过小可忽略不计）。戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；其进入体内后，会快速经酯酶水解为雌二醇，从而发挥雌激素活性（酯酶多见于肝脏，也见于血液等各组织）。
+补佳乐/克龄蒙的包衣含有蔗糖，故入口味甜。
 
 ## 基本信息
+
+### Progynova<sup>&reg;</sup> 补佳乐&reg;
 
 |                        中国包装                         |                       泰国包装 (2mg)                       |
 | :-----------------------------------------------------: | :--------------------------------------------------------: |
 | ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-th.png) |
 
 - 药品名称：Progynova&reg;（补佳乐&reg;）
+- 药品类型：单方制剂
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：补
 - 批准文号（中国版）: [国药准字 J20171038](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MjM4MCZpdGVtSWQ9ZmY4MDgwODE3YzgzMTJjNDAxN2M5YzU5MjI0ZTA0NWQ=)
 - 厂商：拜耳
+- 参考售价（中国版）：人民币 30 元
 - 常见规格：
 
 ```csv
@@ -31,6 +35,25 @@ description: 商品名补佳乐。戊酸雌二醇是一种人工合成的经化�
 ```
 
 - [说明书](/documents/ev-zh.pdf)
+
+### Climen<sup>&reg;</sup> 克龄蒙&reg;
+
+|                    中国包装 (2mg)                    |
+| :--------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/climen.png) |
+
+- 药品名称：Climen&reg;（克龄蒙&reg;）（戊酸雌二醇片/雌二醇环丙孕酮复合包装）
+- 药品类型：复方制剂
+- 有效成分：戊酸雌二醇（Estradiol valerate）
+- 批准文号: [国药准字 HJ20160683](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MzRiOTM3MzcxNjY0OTY4MjliOWIzMmRiYzJiMTdiYmEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
+- 厂商：拜耳
+- 参考售价（中国版）：人民币 63 元
+- 常见规格：
+
+```csv
+版本,规格,外观
+中国包装,2mg &times; 21 片/盒,11 片白色糖衣片和 10 片粉红色糖衣片
+```
 
 ## 使用方式与用量
 
