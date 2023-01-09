@@ -46,7 +46,6 @@ description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素�
 - 有效成分：戊酸雌二醇（Estradiol valerate）
 - 批准文号: [国药准字 HJ20160683](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MzRiOTM3MzcxNjY0OTY4MjliOWIzMmRiYzJiMTdiYmEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
 - 厂商：拜耳
-- 参考售价（中国版）：人民币 63 元
 - 常见规格：
 
 ```csv
