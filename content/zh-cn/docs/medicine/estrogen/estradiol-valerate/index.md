@@ -25,7 +25,6 @@ description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素�
 - 简称：补
 - 批准文号（中国版）: [国药准字 J20171038](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MjM4MCZpdGVtSWQ9ZmY4MDgwODE3YzgzMTJjNDAxN2M5YzU5MjI0ZTA0NWQ=)
 - 厂商：拜耳
-- 参考售价（中国版）：人民币 30 元
 - 常见规格：
 
 ```csv
