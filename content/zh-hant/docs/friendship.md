@@ -3,11 +3,6 @@ title: 友情連結
 weight: 10
 ---
 
-## 站點導航
-
-- <https://2345.LGBT> 跨性別內容導航站，由 {{< mtf-wiki >}} 團隊維護。
-- <https://FtM.wiki> 兄弟站，跨性別男性（FtM）百科
-
 ## 生活興趣交流群
 
 ```csv

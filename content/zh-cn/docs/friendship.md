@@ -3,16 +3,6 @@ title: 友情链接
 weight: 10
 ---
 
-## 站点导航
-
-<https://2345.LGBT> 跨性别内容导航站，由 {{< mtf-wiki >}} 团队维护。
-
-```csv
-站点,介绍
-<https://FtM.wiki>,兄弟站，跨性别男性（FtM）百科
-<https://RLE.wiki>,真实生活体验相关内容整理，原 {{< mtf-wiki >}} 的 校园指南 板块分离
-```
-
 ## 生活兴趣交流群
 
 ```csv
