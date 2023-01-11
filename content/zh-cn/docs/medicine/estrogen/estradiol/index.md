@@ -1,14 +1,13 @@
 ---
-title: 雌二醇片（诺坤复）
-aliases: estrofem
-description: 商品名有：Estrofem（诺坤复）
+title: 雌二醇片
+description: 雌二醇片一般是半水合雌二醇，不同于 [戊酸雌二醇]({{< ref estradiol-valerate >}})。
 ---
 
 {{< notice warning "用药安全提示" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-雌二醇片一般是半水合雌二醇，不同于[补佳乐（戊酸雌二醇）]({{< ref estradiol-valerate >}})。
+雌二醇片一般是半水合雌二醇，不同于 [戊酸雌二醇]({{< ref estradiol-valerate >}})。
 
 ## 基本信息
 
@@ -31,12 +30,35 @@ description: 商品名有：Estrofem（诺坤复）
 - 规格：
 
 ```csv
-规格,外观
-2mg &times; 28 片/盒,蓝色薄膜包衣片 一面写有 NOVO 280 字样
-1mg &times; 28 片/盒,红色薄膜包衣片 一面写有 NOVO 282 字样
+规格,性状,外观
+2mg &times; 28 片/盒,蓝色薄膜包衣片,一面写有 NOVO 280 字样
+1mg &times; 28 片/盒,红色薄膜包衣片,一面写有 NOVO 282 字样
 ```
 
 - [说明书（英语）](/documents/estrofem.pdf)
+
+### Femoston<sup>&copy;</sup> 芬吗通<sup>&copy;</sup>
+
+|                  中国包装 (1mg)                   |                  中国包装 (2mg)                   |
+| :-----------------------------------------------: | :-----------------------------------------------: |
+| ![!](/images/medicine/estradiol/femoston-1mg.jpg) | ![!](/images/medicine/estradiol/femoston-2mg.jpg) |
+
+- 药品名称：雌二醇片/雌二醇地屈孕酮片复合包装（Femoston<sup>&copy;</sup> 芬吗通<sup>&copy;</sup>）
+- 药品类型：复方制剂
+- 药品成分：雌二醇（Estradiol）/地屈孕酮（Dydrogesterone）
+- 批准文号: [H20150346 (1mg)](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZjVlMjZhYjk2ZDAwMWU0NjY4YzdmZDY5ZDBjYTY5NDUmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw) [H20150345 (2mg)](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZTllOGU1MmFiMjFmZDdiMjJiMDVkNDU4YTA3YjIzYzImaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
+- 厂商：Abbott Biologicals B.V.
+- 常见规格：
+
+```csv
+规格,性状,外观
+2mg &times; 14 片 + 2mg:10mg &times; 14 片/盒,砖红色薄膜衣片/黄色薄膜衣片，去除包衣后显白色,紫色包装外观
+1mg &times; 14 片 + 2mg:10mg &times; 14 片/盒,白色薄膜衣片/灰色薄膜衣片，去除包衣后显白色,粉色包装外观
+```
+
+## 说明
+
+- 芬吗通<sup>&copy;</sup> 部分片剂中所含地屈孕酮为女性化激素疗法的口服药物[^1]。属于孕激素类成分，但不具有抗雄作用[^2]，且风险尚不明确，请谨慎使用。
 
 ## 使用方式与用量
 
@@ -50,3 +72,6 @@ description: 商品名有：Estrofem（诺坤复）
 - 半衰期：8~18 小时（舌下含服）
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
+
+[^1]: [女性化激素疗法](https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95#%E8%8D%AF%E7%89%A9)
+[^2]: [Dydrogesterone has no peripheral (anti)-androgenic properties](https://pubmed.ncbi.nlm.nih.gov/2979782/)
