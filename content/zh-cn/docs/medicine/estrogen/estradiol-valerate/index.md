@@ -1,15 +1,14 @@
 ---
-title: 戊酸雌二醇片（补佳乐/克龄蒙）
-aliases: progynova
-description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
+title: 戊酸雌二醇片
+description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
 ---
 
 {{< notice warning "注意事项" >}}
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-补佳乐/克龄蒙的主要成分为戊酸雌二醇（克龄蒙中所含 1mg 醋酸环丙孕酮因剂量过小可忽略不计）。戊酸雌二醇是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；其进入体内后，会快速经酯酶水解为雌二醇，从而发挥雌激素活性（酯酶多见于肝脏，也见于血液等各组织）。
-[补佳乐](https://tfsci.mtf.wiki/zh-cn/misc/progynova/#form) / [克龄蒙](https://tfsci.mtf.wiki/zh-cn/misc/climen/#form) 的包衣含有蔗糖，故入口味甜。
+戊酸雌二醇（Estradiol valerate）是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；其进入体内后，会快速经酯酶水解为雌二醇，从而发挥雌激素活性（酯酶多见于肝脏，也见于血液等各组织）。
+[补佳乐](https://tfsci.mtf.wiki/zh-cn/misc/progynova/#form) / [克龄蒙](https://tfsci.mtf.wiki/zh-cn/misc/climen/#form) 的主要成分为戊酸雌二醇，包衣含有蔗糖，故入口味甜。
 
 ## 基本信息
 
@@ -19,7 +18,7 @@ description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素�
 | :-----------------------------------------------------: | :--------------------------------------------------------: |
 | ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-th.png) |
 
-- 药品名称：Progynova&reg;（补佳乐&reg;）
+- 药品名称：戊酸雌二醇片（Progynova&reg; 补佳乐&reg;）
 - 药品类型：单方制剂
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：补
@@ -28,8 +27,8 @@ description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素�
 - 常见规格：
 
 ```csv
-版本,规格,外观
-中国包装（国补）,1mg &times; 21 片/盒,黄色糖衣片
+版本,规格,性状
+中国包装（国补）,1mg &times; 21 片/盒,淡黄色糖衣片，去除糖衣显白色
 泰国包装（泰补）,2mg &times; 28 片 &times; 3 板/盒,蓝色糖衣片
 ```
 
@@ -41,16 +40,16 @@ description: 戊酸雌二醇是一种人工合成的经化学修饰的雌激素�
 | :--------------------------------------------------: |
 | ![!](/images/medicine/estradiol-valerate/climen.png) |
 
-- 药品名称：Climen&reg;（克龄蒙&reg;）（戊酸雌二醇片/雌二醇环丙孕酮复合包装）
+- 药品名称：戊酸雌二醇片/雌二醇环丙孕酮复合包装（Climen&reg; 克龄蒙&reg;）
 - 药品类型：复方制剂
-- 有效成分：戊酸雌二醇（Estradiol valerate）
+- 药品成分：戊酸雌二醇（Estradiol valerate）/醋酸环丙孕酮（Cyproterone Acetate）
 - 批准文号: [国药准字 HJ20160683](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MzRiOTM3MzcxNjY0OTY4MjliOWIzMmRiYzJiMTdiYmEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
 - 厂商：拜耳
 - 常见规格：
 
 ```csv
-版本,规格,外观
-中国包装,2mg &times; 21 片/盒,11 片白色糖衣片和 10 片粉红色糖衣片
+规格,性状
+2mg &times; 11 片 + 2mg:1mg &times; 10 片/盒,白色糖衣片/粉红色糖衣片，去除糖衣显白色
 ```
 
 ## 使用方式与用量
