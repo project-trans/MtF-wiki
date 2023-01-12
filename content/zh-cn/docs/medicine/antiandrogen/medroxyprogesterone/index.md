@@ -13,20 +13,16 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 
 ### 醋酸甲羟孕酮片
 
-|                  仙琚<sup>&reg;</sup>                 |      创盈<sup>&reg;</sup> 斯利安<sup>&reg;</sup>      |                   博泰维康<sup>&reg;</sup>                  |     法禄达<sup>&reg;</sup> FARLUTAL<sup>&reg;</sup>   |
-| :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------: |
-| ![!](/images/medicine/medroxyprogesterone/xianju.jpg) | ![!](/images/medicine/medroxyprogesterone/silian.jpg) | ![!](/images/medicine/medroxyprogesterone/botaiweikang.jpg) | ![!](/images/medicine/medroxyprogesterone/pfizer.jpg) |
+```csv
+品牌,厂商,规格,性状,批准文号,包装图片
+仙琚<sup>&reg;</sup>,浙江仙琚制药股份有限公司,2mg &times; 100 片/瓶,白色片,[国药准字 H33020715][H33020715],![!](/images/medicine/medroxyprogesterone/xianju.jpg)
+创盈<sup>&reg;</sup> 斯利安<sup>&reg;</sup>,北京斯利安药业有限公司,250mg &times; 30 片/瓶,白色片,[国药准字 H11021562][H11021562],![!](/images/medicine/medroxyprogesterone/silian.jpg)
+博泰维康<sup>&reg;</sup>,南京臣功制药股份有限公司,2mg &times; 100 片/瓶,双凸、椭圆形白色片,[国药准字 H41025341][H41025341],![!](/images/medicine/medroxyprogesterone/botaiweikang.jpg)
+法禄达<sup>&reg;</sup> FARLUTAL<sup>&reg;</sup>,Pfizer Italia s.r.l.,500mg &times; 30 片/盒,双凸、椭圆形白色片,[H20140648][H20140648],![!](/images/medicine/medroxyprogesterone/pfizer.jpg)
+```
 
 - 商品名：醋酸甲羟孕酮片
 - [说明书 (仙琚<sup>&reg;</sup>)](/images/medicine/medroxyprogesterone/xianju-manual-zh.png)
-
-```csv
-品牌,厂商,规格,性状,批准文号
-仙琚<sup>&reg;</sup>,浙江仙琚制药股份有限公司,2mg &times; 100 片/瓶,白色片,[国药准字 H33020715][H33020715]
-创盈<sup>&reg;</sup>,北京斯利安药业有限公司,250mg &times; 30 片/瓶,白色片,[国药准字 H11021562][H11021562]
-博泰维康<sup>&reg;</sup>,南京臣功制药股份有限公司,2mg &times; 100 片/瓶,双凸、椭圆形白色片,[国药准字 H41025341][H41025341]
-法禄达<sup>&reg;</sup> FARLUTAL<sup>&reg;</sup>,Pfizer Italia s.r.l.,500mg &times; 30 片/盒,双凸、椭圆形白色片,[H20140648][H20140648]
-```
 
 [H33020715]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9YjQ4MWM3ZWQ4NGNkM2VhNTcxODBmOTk5YmJiZDRjZjYmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm
 [H11021562]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZTBhNTViM2RlOGZjYmFjMjE3NjkxODM1NjIxMmJlMmYmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm
