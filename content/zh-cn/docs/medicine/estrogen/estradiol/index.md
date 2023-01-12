@@ -46,12 +46,12 @@ description: 雌二醇片一般是半水合雌二醇，不同于 [戊酸雌二�
 - 药品名称：雌二醇片/雌二醇地屈孕酮片复合包装（Femoston<sup>&copy;</sup> 芬吗通<sup>&copy;</sup>）
 - 药品类型：复方制剂
 - 药品成分：雌二醇（Estradiol）/地屈孕酮（Dydrogesterone）
-- 批准文号: [H20150346 (1mg)][H20150346-1mg] [H20150345 (2mg)][H20150346-2mg]
+- 批准文号: [H20150346 (1mg)][H20150346] [H20150345 (2mg)][H20150345]
 - 厂商：Abbott Biologicals B.V.
 - 常见规格：
 
-[H20150346-1mg]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZjVlMjZhYjk2ZDAwMWU0NjY4YzdmZDY5ZDBjYTY5NDUmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw
-[H20150346-2mg]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZTllOGU1MmFiMjFmZDdiMjJiMDVkNDU4YTA3YjIzYzImaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw
+[H20150346]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZjVlMjZhYjk2ZDAwMWU0NjY4YzdmZDY5ZDBjYTY5NDUmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw
+[H20150345]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZTllOGU1MmFiMjFmZDdiMjJiMDVkNDU4YTA3YjIzYzImaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw
 ```csv
 规格,性状,外观
 2mg &times; 14 片 + 2mg:10mg &times; 14 片/盒,砖红色薄膜衣片/黄色薄膜衣片，去除包衣后显白色,紫色包装外观
