@@ -30,9 +30,9 @@ description: 雌二醇片一般是半水合雌二醇，不同于 [戊酸雌二�
 - 规格：
 
 ```csv
-规格,性状,外观
-2mg &times; 28 片/盒,蓝色薄膜包衣片,一面写有 NOVO 280 字样
-1mg &times; 28 片/盒,红色薄膜包衣片,一面写有 NOVO 282 字样
+规格,性状,定量,外观
+雌二醇 2 mg,蓝色薄膜包衣片,28 片/盒,一面写有 NOVO 280 字样
+雌二醇 1 mg,红色薄膜包衣片,28 片/盒,一面写有 NOVO 282 字样
 ```
 
 - [说明书（英语）](/documents/estrofem.pdf)
@@ -52,15 +52,16 @@ description: 雌二醇片一般是半水合雌二醇，不同于 [戊酸雌二�
 
 [H20150346]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZjVlMjZhYjk2ZDAwMWU0NjY4YzdmZDY5ZDBjYTY5NDUmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw
 [H20150345]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZTllOGU1MmFiMjFmZDdiMjJiMDVkNDU4YTA3YjIzYzImaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw
+
 ```csv
-规格,性状,外观
-2mg &times; 14 片 + 2mg:10mg &times; 14 片/盒,砖红色薄膜衣片/黄色薄膜衣片，去除包衣后显白色,紫色包装外观
-1mg &times; 14 片 + 2mg:10mg &times; 14 片/盒,白色薄膜衣片/灰色薄膜衣片，去除包衣后显白色,粉色包装外观
+规格,性状,定量,外观
+雌二醇片 2 mg<br/>雌二醇 2 mg / 地屈孕酮 10 mg 复合片,砖红色薄膜衣片，去除包衣后显白色<br/>黄色薄膜衣片，去除包衣后显白色,14 片/盒<br/>14 片/盒,紫色包装
+雌二醇片 1 mg<br/>雌二醇 1 mg / 地屈孕酮 10 mg 复合片,白色薄膜衣片，去除包衣后显白色<br/>灰色薄膜衣片，去除包衣后显白色,14 片/盒<br/>14 片/盒,粉色包装
 ```
 
 ## 说明
 
-- 芬吗通<sup>&copy;</sup> 部分片剂中所含地屈孕酮为女性化激素疗法的口服药物[^1]。属于孕激素类成分，但不具有抗雄作用[^2]，且风险尚不明确，请谨慎使用。
+- 芬吗通<sup>&copy;</sup> 部分片剂中所含地屈孕酮为女性化激素疗法的口服药物[^1]。属于孕激素类成分，但无法确保能够提供完全孕激素效力[^2]，不具有抗雄作用[^3]，且风险尚不明确，请谨慎使用。
 
 ## 使用方式与用量
 
@@ -76,4 +77,5 @@ description: 雌二醇片一般是半水合雌二醇，不同于 [戊酸雌二�
 - 分子量：272.38
 
 [^1]: [女性化激素疗法](https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95#%E8%8D%AF%E7%89%A9)
-[^2]: [Dydrogesterone has no peripheral (anti)-androgenic properties](https://pubmed.ncbi.nlm.nih.gov/2979782/)
+[^2]: [合成孕酮制剂](https://tfsci.mtf.wiki/zh-cn/articles/oral-p4-low-levels/#non-oral-forms-of-progesterone)
+[^3]: [Dydrogesterone has no peripheral (anti)-androgenic properties](https://pubmed.ncbi.nlm.nih.gov/2979782/)
