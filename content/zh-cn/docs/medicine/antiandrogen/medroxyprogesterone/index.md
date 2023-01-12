@@ -53,7 +53,7 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 - 化学名称：6α-甲基-17α-羟基孕甾-4-烯-3,20-二酮醋酸酯
 - 分子式：C<sub>24</sub>H<sub>34</sub>O<sub>4</sub>
 - 分子量：386.53
-- CAS RN：71-58-9
+- CAS RN：[71-58-9](https://webbook.nist.gov/cgi/cbook.cgi?ID=71-58-9)
 
 [^1]: [Medroxyprogesterone Acetate (Pharmacology)](https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Pharmacology)
 [^2]: [Hormone treatment of the adult transsexual patient](https://pubmed.ncbi.nlm.nih.gov/16286768/)
