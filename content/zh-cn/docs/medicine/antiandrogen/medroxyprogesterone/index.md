@@ -15,19 +15,14 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 
 ```csv
 品牌,厂商,规格,性状,批准文号,包装图片
-仙琚<sup>&reg;</sup>,浙江仙琚制药股份有限公司,2mg &times; 100 片/瓶,白色片,[国药准字 H33020715][H33020715],![!](/images/medicine/medroxyprogesterone/xianju.jpg)
-创盈<sup>&reg;</sup> 斯利安<sup>&reg;</sup>,北京斯利安药业有限公司,250mg &times; 30 片/瓶,白色片,[国药准字 H11021562][H11021562],![!](/images/medicine/medroxyprogesterone/silian.jpg)
-博泰维康<sup>&reg;</sup>,南京臣功制药股份有限公司,2mg &times; 100 片/瓶,双凸、椭圆形白色片,[国药准字 H41025341][H41025341],![!](/images/medicine/medroxyprogesterone/botaiweikang.jpg)
-法禄达<sup>&reg;</sup> FARLUTAL<sup>&reg;</sup>,Pfizer Italia s.r.l.,500mg &times; 30 片/盒,双凸、椭圆形白色片,[H20140648][H20140648],![!](/images/medicine/medroxyprogesterone/pfizer.jpg)
+仙琚<sup>&reg;</sup>,浙江仙琚制药股份有限公司,2mg &times; 100 片/瓶,白色片,[国药准字 H33020715](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9YjQ4MWM3ZWQ4NGNkM2VhNTcxODBmOTk5YmJiZDRjZjYmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm),![!](/images/medicine/medroxyprogesterone/xianju.jpg)
+创盈<sup>&reg;</sup> 斯利安<sup>&reg;</sup>,北京斯利安药业有限公司,250mg &times; 30 片/瓶,白色片,[国药准字 H11021562](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZTBhNTViM2RlOGZjYmFjMjE3NjkxODM1NjIxMmJlMmYmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm),![!](/images/medicine/medroxyprogesterone/silian.jpg)
+博泰维康<sup>&reg;</sup>,南京臣功制药股份有限公司,2mg &times; 100 片/瓶,双凸、椭圆形白色片,[国药准字 H41025341](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9OWJkMTlhMzI4ZTZlNTg1NDM5MzBlNmEzNTgwOTEyNWQmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm),![!](/images/medicine/medroxyprogesterone/botaiweikang.jpg)
+法禄达<sup>&reg;</sup> FARLUTAL<sup>&reg;</sup>,Pfizer Italia s.r.l.,500mg &times; 30 片/盒,双凸、椭圆形白色片,[H20140648](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9NTg4MDMyY2EwNTdiOWNjMTJhNDg2YjAwYjNmMGE4ZmEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw),![!](/images/medicine/medroxyprogesterone/pfizer.jpg)
 ```
 
 - 商品名：醋酸甲羟孕酮片
 - [说明书 (仙琚<sup>&reg;</sup>)](/images/medicine/medroxyprogesterone/xianju-manual-zh.png)
-
-[H33020715]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9YjQ4MWM3ZWQ4NGNkM2VhNTcxODBmOTk5YmJiZDRjZjYmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm
-[H11021562]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZTBhNTViM2RlOGZjYmFjMjE3NjkxODM1NjIxMmJlMmYmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm
-[H41025341]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9OWJkMTlhMzI4ZTZlNTg1NDM5MzBlNmEzNTgwOTEyNWQmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm
-[H20140648]: https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9NTg4MDMyY2EwNTdiOWNjMTJhNDg2YjAwYjNmMGE4ZmEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw
 
 ## 说明
 
@@ -58,6 +53,7 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 - 化学名称：6α-甲基-17α-羟基孕甾-4-烯-3,20-二酮醋酸酯
 - 分子式：C<sub>24</sub>H<sub>34</sub>O<sub>4</sub>
 - 分子量：386.53
+- CAS RN：71-58-9
 
 [^1]: [Medroxyprogesterone Acetate (Pharmacology)](https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Pharmacology)
 [^2]: [Hormone treatment of the adult transsexual patient](https://pubmed.ncbi.nlm.nih.gov/16286768/)
