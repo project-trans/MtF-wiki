@@ -40,7 +40,7 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 ## 使用方式与用量
 
 - 服用方式：口服
-- 建议使用剂量：**2.5 ~ 40 mg/天**[^3]
+- 建议使用剂量：**10 ~ 20 mg/天**[^3]
 - 达到效果的情况下尽量减少用量。
 - 停药时须逐步减药。
 
@@ -52,6 +52,7 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 - **乳腺癌风险**：与雌二醇合用时可一定程度提高其风险。[^5]
 - **对肝脏的影响**：可能会出现原因不明的突然或逐渐丧失部分或全部视力、眼球突出或复视、视乳头水肿或视网膜病变。[^5]
 - 肾上腺抑制：MPA 可能会导致肾上腺抑制并可能干扰碳水化合物代谢，但不会导致糖尿病。[^4]
+- 男性化症状：MPA 仍有微弱雄激素效力和糖皮质激素效力，可能引起痤疮、体毛生长、脱发等雄激素敏感症状。[^4]
 - 体重变化[^5]
 - 体液潴留[^5]
 
@@ -64,6 +65,6 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 
 [^1]: [Medroxyprogesterone Acetate (Pharmacology)](https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Pharmacology)
 [^2]: [Hormone treatment of the adult transsexual patient](https://pubmed.ncbi.nlm.nih.gov/16286768/)
-[^3]: [女性化激素疗法](https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95#%E8%8D%AF%E7%89%A9)
+[^3]: [Medroxyprogesterone Acetate in Gender-Affirming Therapy for Transwomen: Results From a Retrospective Study](https://doi.org/10.1210/jc.2018-02253)
 [^4]: [Medroxyprogesterone Acetate (Side effects)](https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Side_effects)
 [^5]: [Cautions for medroxyPROGESTERone](https://www.drugs.com/monograph/medroxyprogesterone.html#warnings)
