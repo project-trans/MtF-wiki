@@ -43,7 +43,8 @@ description: 雌二醇錠
 | ---- | -------- |
 | 臺灣 | 健保藥品 |
 
-![伊黛歐](https://806.mnd.gov.tw/ph/Med_Web/image_med/OEDIO.jpg)
+![伊黛歐藥品照片](https://www.synmosa.com.tw/TW/ImgShowroom/20170405143206.jpg)
+[仿單](https://info.fda.gov.tw/MLMS/ShowFile.aspx?LicId=01044295&Seq=002&Type=9)
 
 - 藥品名稱：Ediol Film-Coated Tablet，伊黛歐膜衣錠
 - 藥品成分：雌二醇（Estradiol）
