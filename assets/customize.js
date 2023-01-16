@@ -73,3 +73,41 @@ document.addEventListener(
 );
 
 // #endregion
+
+document.querySelectorAll('table').forEach((table) => {
+  tableMerge(table.rows)
+})
+
+function tableMerge(rows) {
+  const refs = new Map()
+  // Merge cells in a *column* first.
+  for (let cellIndex = 0; cellIndex < rows[0].cells.length; cellIndex++) {
+    for (let rowIndex = 1; rowIndex < rows.length; rowIndex++) {
+      const cell = rows[rowIndex].cells[cellIndex]
+      const prevCell = rows[rowIndex - 1].cells[cellIndex]
+      if (cell.innerHTML !== prevCell.innerHTML) continue
+      const mergedTo = refs.get(prevCell) || prevCell
+      refs.set(cell, mergedTo)
+      mergedTo.rowSpan += cell.rowSpan
+      cell.hidden = true
+    }
+  }
+  // Merge cells in a *row* then.
+  for (const row of rows) {
+    for (let cellIndex = 1; cellIndex < row.cells.length; cellIndex++) {
+      const cell = row.cells[cellIndex]
+      const prevCell = row.cells[cellIndex - 1]
+      if (refs.has(cell) || refs.has(prevCell)) continue
+      if (cell.innerHTML !== prevCell.innerHTML) continue
+      const mergedTo = refs.get(prevCell) || prevCell
+      if (cell.rowSpan !== mergedTo.rowSpan) continue
+      mergedTo.colSpan += cell.colSpan
+      refs.set(cell, mergedTo)
+      cell.hidden = true
+    }
+  }
+  for (const cell of refs.keys()) {
+    cell.remove()
+  }
+  refs.clear()
+}
