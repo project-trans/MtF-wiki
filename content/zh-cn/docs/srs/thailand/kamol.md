@@ -21,7 +21,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 中介/陪护联系
 
-微信：{{< shields/wechat "xiaofeitum2" >}}
+微信：{{< shields/wechat "xiaofeitum2" >}}（做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为）{{< shields/wechat "wuyanlii" >}}{{< shields/wechat "ynshaoxia" >}}
 
 陪护：{{< shields/wechat "JessicaLee9985" >}}
 
@@ -29,7 +29,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ```csv
 手术方式,价格
-0 深度,{{< currency 265000 THB >}}
+0 深度,{{< currency 275000 THB >}}
 PI 皮瓣,{{< currency 330000 THB >}}
 结肠,{{< currency 480000 THB >}}
 结肠（腹腔镜）,{{< currency 577500 THB >}}
@@ -54,10 +54,12 @@ PI 皮瓣,{{< currency 330000 THB >}}
 手术费用不包括：
 
 1. 实验室检查费用：
-   价格：{{< currency 5600 THB >}}
+   价格：{{< currency 4800 THB >}}
    检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
    价格：{{< currency 4000 THB >}}
+1. 核酸检测费用：
+   价格：{{< currency 5900 THB >}}
 
 ## 手术介绍
 
@@ -75,7 +77,6 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 ## 预约事项
 
-1. 确认手术日期后，需提前支付 10% 手术费用作为定金。
 1. 应当至少 20 岁。18-20 岁则需要合法父母或监护人授权他们进行手术。（注：经了解泰国政府与院方并未针对不满 20 岁者拒绝手术或提高门槛或索要超出常规的证明文件（尤其泰国人根本不感兴趣你全家户口和身份证），此类行为可能是中文中介的个人行为）
 1. 必须连续服用女性荷尔蒙至少一年。
 1. 必须长时间的认为自己是女性。
