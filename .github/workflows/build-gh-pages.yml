@@ -23,6 +23,12 @@ jobs:
         with:
           hugo-version: latest
           extended: true
+      - name: Generated Cache
+        uses: actions/cache@v3
+        with:
+          path: resources/_gen
+          key: ${{ runner.os }}-generated-${{ hashFiles('**') }}
+          restore-keys: ${{ runner.os }}-generated
       - name: Build
         run: hugo --minify --enableGitInfo
       - name: Upload artifact
