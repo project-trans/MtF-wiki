@@ -51,6 +51,7 @@ jobs:
         uses: actions/deploy-pages@v1
   deploy-mtfwiki-dot-com:
     runs-on: ubuntu-20.04
+    needs: build-mtf-dot-wiki
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
       - uses: actions/checkout@v2
@@ -62,6 +63,12 @@ jobs:
         with:
           hugo-version: latest
           extended: true
+      - name: Generated Cache
+        uses: actions/cache@v3
+        with:
+          path: resources/_gen
+          key: ${{ runner.os }}-generated-${{ hashFiles('**') }}
+          restore-keys: ${{ runner.os }}-generated
       - name: Build
         run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
       - name: Deploy
