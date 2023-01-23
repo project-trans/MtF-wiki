@@ -2,7 +2,6 @@
 title: 术后护理
 weight: 400
 topToc: true
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS]
 ---
 
 {{< notice info "提示" >}}

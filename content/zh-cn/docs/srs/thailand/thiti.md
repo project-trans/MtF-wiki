@@ -1,6 +1,5 @@
 ---
 title: Thiti 医生
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, Thiti, 替迪]
 ---
 
 医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)

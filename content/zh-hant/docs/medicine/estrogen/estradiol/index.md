@@ -1,7 +1,6 @@
 ---
 title: 雌二醇錠
 aliases: estrofem
-keywords: [estradiol, 雌二醇, 雌激素, 伊黛歐, Ediol, estrofem]
 description: 雌二醇錠
 ---
 

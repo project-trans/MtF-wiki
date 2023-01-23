@@ -1,6 +1,5 @@
 ---
 title: Kamol
-keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國, Kamol, 咖蒙]
 ---
 
 {{< tag/pos "WPATH 成員" >}}

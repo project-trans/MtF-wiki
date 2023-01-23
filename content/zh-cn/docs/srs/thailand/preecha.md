@@ -1,7 +1,6 @@
 ---
 title: PAI (Burin, Sutin)
 aliases: burin
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, burin, 布林]
 ---
 
 医院：[Preecha Aesthetic Institute](https://pai.co.th)

@@ -1,7 +1,6 @@
 ---
 title: 欢迎
 description: MtF.wiki Welcome
-keywords: [mtf, "MtF.wiki", 跨性别, 木桶饭, TS, 药娘, 变性, 吃糖]
 ---
 
 > 不向焦虑与抑郁投降，这个世界终会有我们存在的地方

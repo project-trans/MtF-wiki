@@ -2,19 +2,6 @@
 title: 戊酸雌二醇錠
 description: 戊酸雌二醇是一種人工合成的經化學修飾的雌激素，由雌二醇經戊酸酯化而成；在體內快速水解為雌二醇。
 aliases: progynova
-keywords:
-  [
-    estradiol,
-    雌二醇,
-    雌激素,
-    戊酸雌二醇,
-    progynova,
-    普女榮,
-    Estrade,
-    益斯得錠,
-    Estra,
-    愛仕達錠,
-  ]
 libraries: katex
 ---
 

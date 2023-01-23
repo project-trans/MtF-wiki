@@ -2,7 +2,6 @@
 title: SRS 綜述（泰國）
 weight: 1
 slug: overview
-keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國]
 ---
 
 Google Maps：<https://link.mtf.wiki/maps/th>
