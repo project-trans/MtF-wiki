@@ -26,12 +26,13 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/androcur-10.png" width="50%" >}}
 
 - 商品名：Androcur&reg;
 - 简称：土色
 - 厂商：拜耳
 - 产地：土耳其
-- 规格：50mg &times; 50 片，100mg &times; 30 片
+- 规格：50mg &times; 50 片，100mg &times; 30 片，10mg &times; 45 片
 - [说明书（繁体中文）](/documents/androcur-zh.pdf)
 
 ### Siterone&reg;
