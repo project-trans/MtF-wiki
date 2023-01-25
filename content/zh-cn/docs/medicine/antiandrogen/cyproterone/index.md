@@ -37,13 +37,13 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 ### Androcur&reg;（安得卡-德制）
 
 ```csv
-地区,上市状态
-中国内地,无
-台湾,无
-香港,无
-德国,PZN/EAN: 02579062/4150025790625 (10mgx45片)
-德国,PZN/EAN: 01551015/4150015510158 (50mgx50片)
-德国,PZN/EAN: 03903317/4150039033176 (50mgx100片)
+规格,10mg,50mg
+每盒定量,45片,50、100片
+制造商,德国拜耳,德国拜耳
+分销商（品牌）,axicorp Pharma (Bayer)
+Jenapharm
+Kohlpharma (Bayer),Jenapharm
+Kohlpharma (Bayer)
 ```
 
 {{< figure src="/images/medicine/cyproterone/androcur-10.png" width="50%" >}}
