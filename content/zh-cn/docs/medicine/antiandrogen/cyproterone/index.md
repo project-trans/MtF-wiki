@@ -42,8 +42,8 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 台湾,无
 香港,无
 德国,PZN/EAN: 02579062/4150025790625 (10mgx45片)
-     PZN/EAN: 01551015/4150015510158 (50mgx50片)
-     PZN/EAN: 03903317/4150039033176 (50mgx100片)
+德国,PZN/EAN: 01551015/4150015510158 (50mgx50片)
+德国,PZN/EAN: 03903317/4150039033176 (50mgx100片)
 ```
 
 {{< figure src="/images/medicine/cyproterone/androcur-10.png" width="50%" >}}
