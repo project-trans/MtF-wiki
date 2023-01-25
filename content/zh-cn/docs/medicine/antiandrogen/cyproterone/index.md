@@ -40,10 +40,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 规格,10mg,50mg
 每盒定量,45片,50、100片
 制造商,德国拜耳,德国拜耳
-分销商（品牌）,axicorp Pharma (Bayer)
-Jenapharm
-Kohlpharma (Bayer),Jenapharm
-Kohlpharma (Bayer)
+分销商（品牌）,axicorp Pharma (Bayer)、Jenapharm、Kohlpharma (Bayer),Jenapharm、Kohlpharma (Bayer)
 ```
 
 {{< figure src="/images/medicine/cyproterone/androcur-10.png" width="50%" >}}
