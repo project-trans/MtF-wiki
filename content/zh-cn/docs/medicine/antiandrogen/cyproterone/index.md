@@ -34,24 +34,16 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 规格：50mg &times; 50 片，100mg &times; 30 片
 - [说明书（繁体中文）](/documents/androcur-zh.pdf)
 
-### Androcur&reg;（安得卡-德制）
+### 由德国拜尔分公司生产的Androcur&reg;
 
 ```csv
 规格,10mg,50mg
+包装示例,{{< figure src="/images/medicine/cyproterone/androcur-10.png" width="20%" >}},{{< figure src="/images/medicine/cyproterone/androcur-50x100.png" width="20%" >}}
 每盒定量,45片,50、100片
 制造商,德国拜耳,德国拜耳
-分销商（品牌）,axicorp Pharma (Bayer)、Jenapharm、Kohlpharma (Bayer),Jenapharm、Kohlpharma (Bayer)
+分销商（品牌）,axicorp Pharma (Bayer)<br>Jenapharm<br>Kohlpharma (Bayer),Jenapharm<br>Kohlpharma (Bayer)
 ```
 
-{{< figure src="/images/medicine/cyproterone/androcur-10.png" width="50%" >}}
-{{< figure src="/images/medicine/cyproterone/androcur-50x50.png" width="50%" >}}
-{{< figure src="/images/medicine/cyproterone/androcur-50x100.png" width="50%" >}}
-
-- 商品名：Androcur&reg;
-- 简称：德色
-- 厂商：拜耳
-- 产地：德国
-- 规格：10mg &times; 45 片，50mg &times; 50 片，50mg &times; 100 片
 - [说明书（德文）](/documents/D02579062-bp.pdf)
 
 ### Siterone&reg;
