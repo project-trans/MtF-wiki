@@ -45,7 +45,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 分销商（品牌）,axicorp Pharma (Bayer)<br>Jenapharm<br>Kohlpharma (Bayer),Jenapharm<br>Kohlpharma (Bayer)
 ```
 
-- [说明书（德文）](/documents/Androcur.pdf) [（简体中文释义）](/documents/Androcur -German.pdf)
+- [说明书（德文）](/documents/Androcur.pdf) [（简体中文释义）](/documents/Androcur-German.pdf)
 
 ### Siterone&reg;
 
