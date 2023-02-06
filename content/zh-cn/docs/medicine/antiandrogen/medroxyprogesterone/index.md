@@ -7,7 +7,7 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸甲羟孕酮（Medroxyprogesterone Acetate, MPA），是一种类固醇孕激素，具有抗促性腺激素作用，可以抑制体内雄激素水平。[^1] 在无法获取到 [醋酸环丙孕酮（Cyproterone Acetate）]]({{< ref cyproterone >}}) 时可作为替代品服用，但效果稍差。[^2]
+醋酸甲羟孕酮（Medroxyprogesterone Acetate, MPA），是一种类固醇孕激素，具有抗促性腺激素作用，可以抑制体内雄激素水平。[^1] 在无法获取到 [醋酸环丙孕酮（Cyproterone Acetate]({{< ref cyproterone >}}) 时可作为替代品服用，但效果稍差。[^2]
 
 ## 基本信息
 
