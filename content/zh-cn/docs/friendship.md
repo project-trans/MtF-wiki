@@ -11,7 +11,7 @@ QQ,Arch 木桶饭,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipz
 QQ,跨儿音游组,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0cbS4" >}}
 Telegram,Backlight.Town 逆光小镇,联系 {{< shields/telegram rikablossom >}} 加入
 Telegram,跨儿音游组,{{< shields/telegram otoge_trans >}}
-Matrix,Arch 木桶饭,{{< shields/matrix arch-mtf matrix.malacology.net >}}
+Matrix,Arch 木桶饭,{{< shields/matrix arch-mtf matrix.org >}}
 Discord,MtF.wiki Official,{{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
 ```
 
