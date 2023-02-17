@@ -56,7 +56,7 @@ slug: overview
 {{< /notice >}}
 
 {{< notice warning "关于高剂量雌二醇单药的说明" >}}
-[高剂量雌二醇](https://en.wikipedia.org/wiki/High-dose_estrogen)单药治疗要求*始终* 维持雌二醇水平在 200 pg/mL 以上，此时睾酮也将被充分抑制；推荐使用**针剂，或多个透皮贴片**。\
+[高剂量雌二醇](https://en.wikipedia.org/wiki/High-dose_estrogen)单药治疗要求*始终* 维持雌二醇水平在 200 pg/mL 以上，此时睾酮也将被充分抑制，但是过高的雌二醇水平可能会带来更高的血栓风险（尤其是针剂可能带来的过大的雌二醇水平浮动），因此使用该疗法前应充分权衡利弊；推荐使用**多个透皮贴片或针剂**（**不推荐**使用戊酸雌二醇针剂）[^trsci1]\
 由于生物利用度低，无论剂量有多高，口服途径、透皮凝胶途径皆**不适用**于高剂量雌二醇单方治疗，尤其是口服（见[用药风险]({{< ref "risk" >}})）。
 {{< /notice >}}
 
@@ -168,3 +168,4 @@ slug: overview
 - [螺内酯](https://en.wikipedia.org/wiki/Spironolactone)（英语）
 
 [^baidu]: [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
+[^trsci1]: [雌激素与孕激素引起的血栓风险](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/#blood-clot-risks-with-estrogens-and-progestogens)
