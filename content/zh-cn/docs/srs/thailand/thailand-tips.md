@@ -5,16 +5,29 @@ weight: 2
 
 ## 出行前物品准备 {#prepare-leave}
 
-- 先检查您的所有文件证件
+> 本列表并非检查单，请根据实际情况补充或修改。
+
+- 考虑到术后回国时的体力问题，建议最多准备一个行李箱和一个背包。
+- 检查您的所有文件证件，可能包括身份证、护照。请确认离境时护照有效期在 6 个月以上。
+  - 针对落地签证：预先打印并填写的落地签证申请表及照片。
+- 准备零钱。
+  - 特别地，选择落地签证需要现金支付，更需要足够的现金。
 - 不用准备太多常服
-- 请准备两套以上睡裙
-- 不必携带 HRT 药物（可以带一支 [爱斯妥凝胶]({{< ref gel >}})）
+  - 请准备两套以上睡裙
+- 不必携带 HRT 药物（可以带一支 [爱斯妥凝胶]({{< ref gel >}})），因为泰国药品价格比中国大陆便宜很多。
+  - 你可能会希望考虑预留一些行李箱空间，以便在回国时带回一些药物和润滑液。
 - 有长期用药的请计算好足够的量
-- 降噪耳机有助于改善您的旅程
-- 三脚插座请购买「美标」转换器
+  - 如需使用精神类药物、安眠药物，请与专业人士讨论。术后前 7 天内出现睡眠障碍是合理的。
+- 降噪耳机有助于改善您的旅程体验
+- 旅店一般会提供转换器。如果需要，三脚插座请购买「美标」转换器。
+  - 泰国的居民供电规格是 220v/50hz，美标插座。针对中国大陆地区读者，对于两脚插座的设备而言不需要转换器。
 - 建议带 插线板 以提升~~~打游戏~~~电子设备的使用体验
 - TrueMove 等泰国运营商电话卡，可以于国内、泰国机场、泰国 711 购买，在泰国可以在 711 或者营业厅等地充值余额。
+  - 你可能会希望携带能够共享 wifi 的设备。
 - 开启国内手机号的国际漫游，你可能遇到使用银行卡支付等需要接收国内短信或国内电话的场景。
+- 电吹风（酌情带上）
+- 手机支架（酌情带上）
+- 充电器
 - 记得带上你的鲨鲨 Blåhaj（睡觉的时候夹着比较舒适）
 
 ## 精神科医生诊断证明
@@ -49,20 +62,25 @@ weight: 2
 
 ## 实用 APP {#app}
 
-显示国行 Android 手机的 Play Store [点这里](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手机本来内置谷歌服务）
+Play Store [Android](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手机本来内置谷歌服务）
 
-[谷歌翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-[百度翻译](https://fanyi-app.baidu.com/transapp/appdownloadpage)
+购物平台 ThisShop [下载](https://thisshop.com/)
 
-打车与外卖 [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
+谷歌翻译 [iOS](https://apps.apple.com/us/app/google-translate/id414706506) [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
-外卖 [FoodPanda](https://play.google.com/store/apps/details?id=com.global.foodpanda.android)
+百度翻译 [下载](https://fanyi-app.baidu.com/transapp/appdownloadpage)
 
-中餐外卖平台 [悟空](https://play.google.com/store/apps/details?id=com.wukong.waimai)
+打车与外卖 Grab [下载](https://www.grab.com/th/en/download/)
+
+外卖 FoodPanda [iOS](https://apps.apple.com/us/app/foodpanda-food-delivery/id758103884) [Android](https://play.google.com/store/apps/details?id=com.global.foodpanda.android)
+
+中餐外卖平台 悟空 GokooFood [iOS](https://apps.apple.com/th/app/%E6%82%9F%E7%A9%BA%E5%A4%96%E5%8D%96-gokoo-food/id1551803115) [Android](https://play.google.com/store/apps/details?id=com.wukong.waimai)
 
 都可以用国际信用卡或者现金支付，所以沒有国际信用卡也不用担心。
 
 ## 术前准备物品 {#preoperative}
+
+以下物品全部可以在泰国购买，不必太提前购买。
 
 流食期间食物：
 
@@ -110,6 +128,7 @@ weight: 2
 **通用散装英语口语**
 大便 poo-poo
 小便 pee-pee
+止痛药 painkiller
 
 **外卖备注实用语**
 
