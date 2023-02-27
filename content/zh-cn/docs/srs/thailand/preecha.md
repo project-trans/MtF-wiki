@@ -11,7 +11,7 @@ aliases: burin
 
 所在医院：[Preecha Aesthetic Institute](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
 
-翻译陪护：Jessica (自身为 mtf，可带其他医生) {{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
+翻译陪护：Jessica (自身为 MtF，可带其他医生) {{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
 
 主要提供：
 
