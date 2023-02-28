@@ -75,7 +75,7 @@ document.addEventListener(
 // #endregion
 
 document.querySelectorAll('table').forEach((table) => {
-  tableMerge(table.rows)
+  if (table.hasAttribute('merge')) tableMerge(table.rows)
 })
 
 function tableMerge(rows) {

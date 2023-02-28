@@ -9,7 +9,7 @@ draft: true
 
 部分诊所以 Soul Source 牌有中间弯曲的刚性塑料棒为标准器械，尺寸如下：
 
-```csv
+```csv {merge=false}
 型号,长度,宽度
 P1,20cm,0.79 inch
 P2,25.4cm,1.0 inch

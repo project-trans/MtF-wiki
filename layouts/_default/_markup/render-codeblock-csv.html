@@ -1,5 +1,6 @@
-{{ $rows := .Inner | transform.Unmarshal }}
-<table class="csv-table">
+{{- $rows := .Inner | transform.Unmarshal }}
+{{- $merge := .Attributes.merge | default true }}
+<table class="csv-table" {{- if $merge }}merge{{ end -}}>
 <thead><tr>{{ range (index $rows 0) }}<th>{{- . -}}</th>{{ end }}</tr></thead>
 {{- $rows = after 1 $rows -}}
 <tbody>
