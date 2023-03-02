@@ -17,13 +17,13 @@ This site was founded initially for China mainland's transgenders. However, if y
 
 ## Content
 
-Welcome to the MtF.wiki. This is a place that may provide help to some transgender women.
+Welcome to the MtF.wiki. This is a place that may provide help for some transgender women.
 
 MtF (Male-to-Female), or transgender female, refers to a person who was assigned male at birth but identifies as female.
 
 MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site, where you can learn about all kinds of medical information and dailylife guides related to transgender.
 
-The MtF.wiki is currently in its early stages of development. Various materials may have not been included, and there may even be some errors. We welcome all enthusiastic sisters to join us and contribute to the MtF.wiki
+The MtF.wiki is currently in its early stages of development. Various materials may have not been included, and there may even be some errors. All enthusiastic sisters are welcomed to join us and contribute to the MtF.wiki project.
 
 The original intention behind building this website is to provide a knowledge platform for the MtF community and to promote awareness and acceptance of gender transition among others.
 
