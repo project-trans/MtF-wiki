@@ -13,11 +13,12 @@ title: 贡献者指南
 1. 绝对不要做出任何 {{< wiki 道德绑架 >}} 的行为
 1. 为了保证内容的 {{< wiki 客观性 >}}，因此不受理虚构内容
 1. 不应存在显著的 {{< wiki 谬误 >}}，亦可对照 {{< wiki 谬误列表 >}} 进行检查
+1. 不应存在明显的 {{< wiki 认知偏差 >}}，亦可对照 {{< wiki 认知偏差列表 >}} 进行检查
 1. 使用 [性别包容性语言][inclusive-language] 描述避免触发读者的 性别焦虑
 1. 对于“缺乏真实案例报告”的内容，应当创建 [issue][new-issue] 后并记录至 [未确认列表]({{< ref "unconfirmed" >}})
 
 [new-issue]: https://github.com/mtf-wiki/MtF-wiki/issues/new/choose
-[inclusive-language]: https://www.wipo.int/export/sites/www/women-and-ip/zh/documents/wipo-guidelines-inclusive-language.pdf
+[inclusive-language]: https://www.un.org/zh/gender-inclusive-language/guidelines.shtml
 
 ## HRT/诊断证明 {#proof}
 
