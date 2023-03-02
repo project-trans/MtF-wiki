@@ -6,7 +6,6 @@ title: 贡献者指南
 
 1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
 1. 发送邮件到 <hi@mtf.wiki>
-1. 在 [TransLand](https://chat.transland.lgbt) 发布主题
 
 ## 基本原则 {#basic-principle}
 
