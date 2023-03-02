@@ -13,25 +13,25 @@ Brother Site: [FtM.wiki](https://ftm.wiki)
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
 
-This site was founded initially for China mainland's transgenders. However, if you would like to contribute information for the transgenders in your region, welcome to do it.
+This site was founded initially for China mainland's transgenders. However, if you would like to contribute information for the transgenders in your region, feel free to do so.
 
 ## Content
 
-Welcome to the MtF.wiki, a place that may help some transgender women.
+Welcome to the MtF.wiki. This is a place that may provide help to some transgender women.
 
-MtF (Male-to-Female), transgender female, refers to a female whose assigned sex is male when she was born.
+MtF (Male-to-Female), or transgender female, refers to a person who was assigned male at birth but identifies as female.
 
 MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site, where you can learn about all kinds of medical information and dailylife guides related to transgender.
 
-The current MtF.wiki is in its infancy. Various materials may have not been completed, and there may even be some errors. Welcome all enthusiastic sisters to join us and contribute to the MtF.wiki.
+The MtF.wiki is currently in its early stages of development. Various materials may have not been included, and there may even be some errors. We welcome all enthusiastic sisters to join us and contribute to the MtF.wiki
 
-As for the original intention of building this website, in addition to providing a knowledge platform for the majority of MtF groups, it is also eager for others to affirm the setting of gender conversion.
+The original intention behind building this website is to provide a knowledge platform for the MtF community and to promote awareness and acceptance of gender transition among others.
 
 > Never surrender to anxiety and depression, we will eventually have our place in this world.
 
 ## Acknowledgement
 
-We run a [Hugo][hugo-url] on [GitHub Pages][wiki-url] with theme [zdoc][zdoc-url]. Thanks for them.
+This project is deployed on [GitHub Pages][wiki-url] using [Hugo][hugo-url]  and theme [zdoc][zdoc-url]. Thanks for them.
 
 Many materials were referred to during the process of writing this project, we would like to say thank you here.
 
@@ -39,7 +39,7 @@ Many materials were referred to during the process of writing this project, we w
 
 [![CC][cc-img]][cc-url]
 
-Apart from special statement, the content (expect the code) of this site was published under [Creative Commons BY-SA 4.0][cc-url].
+Unless otherwise stated, all non-code content on this site is licensed under the [Creative Commons BY-SA 4.0][cc-url] license.
 
 In a nutshell, you are free to share and adapt, but you must give the appropriate credit and share under the same license without additional restrictions.
 
