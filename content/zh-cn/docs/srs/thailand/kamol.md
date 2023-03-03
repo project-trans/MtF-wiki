@@ -22,7 +22,11 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 这里的微信均为中文中介，已无医院在职员工。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院。[点击前往相关讨论页面][discuz-url]
 
-{{< shields/wechat "xiaofeitum2" >}}（做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为）{{< shields/wechat "wuyanlii" >}} (据报告存在手术前几天临时加价、且拒绝加价则威胁扣留签证的行为。请阅读上面的讨论页面。建议谨慎交出签证原件。)
+{{< shields/wechat "xiaofeitum2" >}}
+做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为
+
+{{< shields/wechat "wuyanlii" >}}
+据 [报告][discuz-url] 存在手术前几天临时加价、且拒绝加价则威胁扣留签证的行为。请阅读上面的讨论页面。建议谨慎交出签证原件。
 
 ## 翻译陪护
 
