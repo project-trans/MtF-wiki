@@ -18,11 +18,15 @@ title: Kamol
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
-## 中介/陪护联系
+## 中介联系
 
-微信：{{< shields/wechat "xiaofeitum2" >}}（做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为）{{< shields/wechat "wuyanlii" >}}{{< shields/wechat "ynshaoxia" >}}
+这里的微信均为中文中介，已无医院在职员工。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院。
 
-陪护：{{< shields/wechat "JessicaLee9985" >}}
+{{< shields/wechat "xiaofeitum2" >}}（做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为）{{< shields/wechat "wuyanlii" >}} (据报告存在手术前一晚 {{< currency 330000 THB >}} 加价到 {{< currency 400000 THB >}}，拒绝加价扣留签证行为，建议谨慎交出签证原件)
+
+## 翻译陪护
+
+Jessica (自身为 MtF，可带其他医生) {{< shields/wechat "JessicaLee9985" >}} {{< shields/telegram "jessicalee85" >}}
 
 ## 手术费用
 
