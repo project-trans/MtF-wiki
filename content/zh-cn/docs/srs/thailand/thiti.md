@@ -13,7 +13,11 @@ title: Thiti 医生
 皮瓣,{{< currency 260000 THB >}}
 ```
 
-医疗中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+## 医疗中介
+
+梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+
+曼谷雨 {{< shields/wechat "manguyu003" >}}
 
 ## 护理问题
 

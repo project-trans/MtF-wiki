@@ -18,11 +18,19 @@ title: Kamol
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
-## 中介/陪护联系
+## 中介联系
 
-微信：{{< shields/wechat "xiaofeitum2" >}}（做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为）{{< shields/wechat "wuyanlii" >}}{{< shields/wechat "ynshaoxia" >}}
+这里的微信均为中文中介，已无医院在职员工。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院。[点击前往相关讨论页面][discuz-url]
 
-陪护：{{< shields/wechat "JessicaLee9985" >}}
+{{< shields/wechat "xiaofeitum2" >}}
+做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为
+
+{{< shields/wechat "wuyanlii" >}}
+据 [报告][discuz-url] 存在手术前几天临时加价、且拒绝加价则威胁扣留签证的行为。请阅读上面的讨论页面。建议谨慎交出签证原件。
+
+## 翻译陪护
+
+Jessica (自身为 MtF，可带其他医生) {{< shields/wechat "JessicaLee9985" >}} {{< shields/telegram "jessicalee85" >}}
 
 ## 手术费用
 
@@ -76,7 +84,7 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 ## 预约事项
 
-1. 应当至少 20 岁。18-20 岁则需要合法父母或监护人授权他们进行手术。（注：经了解泰国政府与院方并未针对不满 20 岁者拒绝手术或提高门槛或索要超出常规的证明文件（尤其泰国人根本不感兴趣你全家户口和身份证），此类行为可能是中文中介的个人行为）
+1. 应当至少 20 岁。18-20 岁则需要合法父母或监护人授权他们进行手术。对于不符合年龄限制被拒绝或无法出国造成无法手术的情况不能退还定金。（注：经了解泰国政府与院方并未针对不满 20 岁者拒绝手术或提高门槛或索要超出常规的证明文件（尤其泰国人根本不感兴趣你全家户口和身份证），此类行为可能是中文中介的个人行为）
 1. 必须连续服用女性荷尔蒙至少一年。
 1. 必须长时间的认为自己是女性。
 1. 至少度过了一年的女性生活。
@@ -129,3 +137,4 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 ## 内容参考
 
 [Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/gogo_became_a_cat/)
+[discuz-url]: https://github.com/mtf-wiki/MtF-wiki/issues/760
