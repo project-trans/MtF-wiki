@@ -70,9 +70,19 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 规格：一盒 20 瓶，每瓶 0.5mL，含有 5mg 环戊丙酸雌二醇与 25mg 醋酸甲羟孕酮
 - 外观：白色水状乳浊液
 
-## 说明
+### 印雌
 
-**所谓「印度雌针」棕瓶早已停产，市面上该名义的均为假货。现在只有日雌。**
+目前据报告有印度出产的戊酸雌二醇注射剂 **Estraproval Depot** 在售，而最初称为“印雌”的 Estraval Depot 已停产。另外，印度出产的还有 Progynon Depot（基本退市）和若干不知名厂商的产品。
+
+{{< figure src="/images/medicine/injection/estraproval-depot.webp" width="50%" >}}
+
+- 商品名：Estraproval Depot
+- 有效成分：戊酸雌二醇
+- 规格：每盒 10 瓶，每瓶 1 ml（10 mg）
+- 性状：无色或淡黄色透明液体
+- 生产商：Montage Laboratories Pvt. Ltd.
+- 销售商：Modern Agencies（印度那格浦尔市）
+- [说明书](https://tfsci.mtf.wiki/misc/estraproval-depot/)
 
 ## 使用方式与用量
 

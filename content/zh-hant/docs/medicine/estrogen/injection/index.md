@@ -38,6 +38,53 @@ libraries: [katex, mhchem]
 - 外觀：微黃色澄清油性注射液
 - [說明書（日語）](/documents/pelanin.pdf)
 
+### Estradiol Valerate
+
+|          20 mg / mL          |          40 mg / mL           |
+| :--------------------------: | :---------------------------: |
+| ![20 mg / mL](/images/medicine/injection/generic-ev-20.jpg) | ![40 mg / mL](/images/medicine/injection/generic-ev-40.jpg) |
+
+- 英文名稱：Estradiol Valerate
+- 藥品成分：戊酸雌二醇（Estradiol valerate）
+- 廠商：American Regent, Inc
+- 規格：一盒 1 瓶，每瓶 5 mL，含有 100 mg 或 200 mg 戊酸雌二醇
+- 外觀：微黃色澄清油性液體
+- [說明書（英語）](/documents/generic-ev.pdf)
+
+### Depo&reg;-Estradiol
+
+![depo-estradiol](/images/medicine/injection/depo-estradiol.png)
+
+- 英文名稱：Depo&reg;-Estradiol
+- 藥品成分：環戊丙酸雌二醇（Estradiol Cypionate）
+- 廠商：Pfizer
+- 規格：一盒 1 瓶，每瓶 5 mL，含有 25 mg 環戊丙酸雌二醇
+- 外觀：微黃色澄清油性液體
+
+### Depo monat
+
+![Depo monat](/images/medicine/injection/depo_monat.jpg)
+
+- 英文名稱：Depo monat
+- 藥品成分：環戊丙酸雌二醇、醋酸甲羥孕酮
+- 廠商：Vesco pharma（泰國）
+- 規格：一盒 20 瓶，每瓶 0.5mL，含有 5mg 環戊丙酸雌二醇與 25mg 醋酸甲羥孕酮
+- 外觀：白色水狀乳濁液
+
+### 印雌
+
+目前據報告有印度出產的戊酸雌二醇注射劑 **Estraproval Depot** 在售，而最初稱為“印雌”的 Estraval Depot 已停產。另外，印度出產的還有 Progynon Depot（基本退市）和不知名廠商的產品。
+
+{{< figure src="/images/medicine/injection/estraproval-depot.webp" width="50%" >}}
+
+- 商品名：Estraproval Depot
+- 有效成分：戊酸雌二醇
+- 規格：每盒 10 瓶，每瓶 1 ml（10 mg）
+- 性狀：無色或淡黃色透明液體
+- 生產商：Montage Laboratories Pvt. Ltd.
+- 銷售商：Modern Agencies（印度那格浦爾市）
+- [說明書](https://tfsci.mtf.wiki/misc/estraproval-depot/)
+
 ## 使用方式與用量
 
 {{< notice warning "用藥安全提示" >}}
