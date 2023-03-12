@@ -47,4 +47,4 @@ Google Maps：<https://link.mtf.wiki/maps/th>
 
 ## 术后事项 {#post-matter}
 
-[证件变更指引]({{< ref "id-card" >}}){{<zhcnonly>}}，一般需要按「B)司法鉴定」操作。{{</zhcnonly>}}
+[证件变更指引]({{< ref "id-card" >}}){{<local zh-cn>}}，一般需要按「B)司法鉴定」操作。{{</local>}}
