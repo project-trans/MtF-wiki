@@ -82,7 +82,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 幻想变性性兴奋理论（{{< wiki Autogynephilia en >}}），一般认为是过时的理论
 
-驳 AG 论：<https://zhuanlan.zhihu.com/p/59510858> (<https://archive.is/KhHh3>)
+驳 AG 论：<https://blog.mtf.wiki/posts/case-against-autogynephilia/>
 
 ## CD
 
