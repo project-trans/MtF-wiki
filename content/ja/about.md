@@ -8,9 +8,9 @@ weight: 0
 
 ![MtF-wiki](/new/mtf-wiki-long.svg)
 
-{{< mtf-wiki >}}は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
+{{< project-trans >}} が運営する {{< mtf-wiki >}} は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
-計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-wiki](https://github.com/project-trans/MtF-wiki)
+計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：<https://MtF.wiki>
 
@@ -44,7 +44,7 @@ Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link
 
 Twitter {{< shields/twitter MtFwikiJapan >}}
 
-GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
+GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 Email <hi@mtf.wiki>
 

@@ -8,9 +8,9 @@ weight: 0
 
 ![MtF-wiki](/new/mtf-wiki-long.svg)
 
-{{< mtf-wiki >}} 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
+{{< mtf-wiki >}} 由 {{< project-trans >}} 維護，致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
 
-本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-wiki](https://github.com/project-trans/MtF-wiki)
+本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
 本專案
 
@@ -44,7 +44,7 @@ Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link
 
 Twitter {{< shields/twitter MtFwiki >}}
 
-GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
+GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 電郵 <hi@mtf.wiki>
 

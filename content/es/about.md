@@ -8,9 +8,9 @@ weight: 0
 
 ![MtF-wiki](/new/mtf-wiki-long.svg)
 
-La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,
+La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado, mantenido por {{ project-trans }}.
 
-<i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto: [mtf-wiki/MtF-wiki](https://github.com/project-trans/MtF-wiki)
+<i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto: [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sitio del proyecto: <https://MtF.wiki>
 
@@ -41,7 +41,7 @@ Por Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://
 
 Twitter {{< shields/twitter MtFwiki >}}
 
-Por GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
+Por GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 Por correo electrónico <hi@mtf.wiki>
 

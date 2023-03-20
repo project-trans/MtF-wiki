@@ -51,9 +51,8 @@ footer:
     align: left
     applySinglePageCss: true
     markdown: >
-      {{< mtf-wiki >}}
-
-      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+      <img src="/new/mtf-wiki-long.svg" style="height:1em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > 如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。
 ---

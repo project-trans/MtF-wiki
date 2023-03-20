@@ -8,9 +8,9 @@ weight: 0
 
 ![MtF-wiki](/new/mtf-wiki-long.svg)
 
-{{< mtf-wiki >}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site.
+{{< mtf-wiki >}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site, maintained by {{ project-trans }}
 
-Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [mtf-wiki/MtF-wiki](https://github.com/project-trans/MtF-wiki)
+Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project: <https://MtF.wiki>
 
@@ -44,7 +44,7 @@ Through Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "http
 
 Twitter {{< shields/twitter MtFwiki >}}
 
-Through GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
+Through GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 Via Email <hi@mtf.wiki>
 

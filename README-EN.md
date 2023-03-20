@@ -47,7 +47,7 @@ If you would like to cite this GitHub repo, you can use the bibtex below：
 
 ```plain
 @misc{mtfwiki,
-  author = {MtF.wiki Team},
+  author = {Project Trans},
   title = {MtF.wiki},
   year = {2020},
   publisher = {GitHub},
@@ -67,9 +67,9 @@ GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-
 E-mail <hi@mtf.wiki>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-gh-issues]: https://img.shields.io/github/issues/mtf-wiki/MtF-wiki?style=flat-square
-[badge-gh-stars]: https://img.shields.io/github/stars/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Stars
-[badge-gh-watch]: https://img.shields.io/github/watchers/mtf-wiki/MtF-wiki.svg?style=flat-square&label=Watch
+[badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
+[badge-gh-stars]: https://img.shields.io/github/stars/project-trans/mtf-wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/project-trans/mtf-wiki.svg?style=flat-square&label=Watch
 [badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0

@@ -14,7 +14,7 @@
   | replaceRE "^https?://(www\\.?)?" ""
   | replaceRE "^github\\.com\\/([^/]+)\\/([^/]+)\\/issues\\/(\\d+)" "$1/$2#$3"
   | replaceRE "#issuecomment-\\d+$" " (comment)"
-  | replaceRE "^mtf-wiki/MtF-wiki#(\\d+)" "#$1"
+  | replaceRE "^project-trans/mtf-wiki#(\\d+)" "#$1"
   | safeHTML
 -}}
 </a>

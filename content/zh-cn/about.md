@@ -6,9 +6,9 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-wiki](/new/mtf-wiki-long.svg)
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
 
-{{< mtf-wiki >}} 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
+{{< mtf-wiki >}} 由 {{< project-trans >}} 维护，致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
 
 本项目 <i class="bi bi-github"></i> GitHub 仓库：<https://github.com/project-trans/MtF-wiki>
 
@@ -46,7 +46,7 @@ Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link
 
 Twitter {{< shields/twitter MtFwiki >}}
 
-GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
+GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 邮件 <hi@mtf.wiki>
 
