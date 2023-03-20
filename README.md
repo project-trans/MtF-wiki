@@ -21,9 +21,9 @@
 [badge-contributors]: https://img.shields.io/github/contributors/mtf-wiki/MtF-wiki?style=flat-square
 [badge-last-commit]: https://img.shields.io/github/last-commit/mtf-wiki/MtF-wiki?style=flat-square
 [badge-activity]: https://img.shields.io/github/commit-activity/y/mtf-wiki/MtF-wiki?style=flat-square
-[gh-contributors]: https://github.com/mtf-wiki/MtF-wiki/graphs/contributors?style=flat-square
-[gh-history]: https://github.com/mtf-wiki/MtF-wiki/commits/master?style=flat-square
-[gh-commit-activity]: https://github.com/mtf-wiki/MtF-wiki/graphs/commit-activity?style=flat-square
+[gh-contributors]: https://github.com/project-trans/MtF-wiki/graphs/contributors?style=flat-square
+[gh-history]: https://github.com/project-trans/MtF-wiki/commits/master?style=flat-square
+[gh-commit-activity]: https://github.com/project-trans/MtF-wiki/graphs/commit-activity?style=flat-square
 
 ## 内容
 
@@ -63,7 +63,7 @@ MtF.wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/mtf-wiki/MtF-wiki}},
+  howpublished = {\url{https://github.com/project-trans/MtF-wiki}},
 }
 ```
 
@@ -73,7 +73,7 @@ Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
-GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
 邮件 <hi@mtf.wiki>
 
@@ -84,6 +84,6 @@ GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
-[repo]: https://github.com/mtf-wiki/MtF-wiki
+[repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

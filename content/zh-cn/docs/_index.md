@@ -35,4 +35,4 @@ MtF（Male-to-Female），跨性别女性，是指出生时指定性别[^1]是�
 如果你对 声音焦虑 则可以通过阅读 [嗓音训练综述]({{< ref "vocal-therapy-overview" >}}) 和 [嗓音手术综述]({{< ref "vocal-surgery-overview" >}}) 了解更多关于 嗓音女性化 的内容
 
 [^1]: 在维基百科中关于指定性别的定义是「指定性别（Assigned sex），是根据出生时检查性别特征以确定的性别。」
-[^2]: <https://github.com/mtf-wiki>
+[^2]: <https://github.com/project-trans>

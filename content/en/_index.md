@@ -27,7 +27,7 @@ footer:
         - title: Homepage
           link: https://mtf.wiki
         - title: Project Homepage
-          link: https://github.com/mtf-wiki/MtF-wiki
+          link: https://github.com/project-trans/MtF-wiki
     - title: Contact
       links:
         - title: Discord
@@ -35,7 +35,7 @@ footer:
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub
-          link: https://github.com/mtf-wiki
+          link: https://github.com/project-trans
         - title: Email
           link: mailto:hi@mtf.wiki
   contents:

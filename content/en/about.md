@@ -10,7 +10,7 @@ weight: 0
 
 {{< mtf-wiki >}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site.
 
-Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
+Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [mtf-wiki/MtF-wiki](https://github.com/project-trans/MtF-wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project: <https://MtF.wiki>
 

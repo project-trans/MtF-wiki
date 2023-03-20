@@ -10,7 +10,7 @@ weight: 0
 
 {{< mtf-wiki >}} 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
 
-本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
+本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[mtf-wiki/MtF-wiki](https://github.com/project-trans/MtF-wiki)
 
 本專案
 

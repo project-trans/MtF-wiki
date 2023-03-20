@@ -21,9 +21,9 @@
 [badge-contributors]: https://img.shields.io/github/contributors/mtf-wiki/MtF-wiki?style=flat-square
 [badge-last-commit]: https://img.shields.io/github/last-commit/mtf-wiki/MtF-wiki?style=flat-square
 [badge-activity]: https://img.shields.io/github/commit-activity/y/mtf-wiki/MtF-wiki?style=flat-square
-[gh-contributors]: https://github.com/mtf-wiki/MtF-wiki/graphs/contributors?style=flat-square
-[gh-history]: https://github.com/mtf-wiki/MtF-wiki/commits/master?style=flat-square
-[gh-commit-activity]: https://github.com/mtf-wiki/MtF-wiki/graphs/commit-activity?style=flat-square
+[gh-contributors]: https://github.com/project-trans/MtF-wiki/graphs/contributors?style=flat-square
+[gh-history]: https://github.com/project-trans/MtF-wiki/commits/master?style=flat-square
+[gh-commit-activity]: https://github.com/project-trans/MtF-wiki/graphs/commit-activity?style=flat-square
 
 ## 内容
 
@@ -61,7 +61,7 @@ MtF.wiki は、トランスジェンダー関連の医療情報、生活ガイ�
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/mtf-wiki/MtF-wiki}},
+  howpublished = {\url{https://github.com/project-trans/MtF-wiki}},
 }
 ```
 
@@ -71,7 +71,7 @@ Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwikiJapan)
 
-GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
 Email <hi@mtf.wiki>
 
@@ -82,6 +82,6 @@ Email <hi@mtf.wiki>
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
-[repo]: https://github.com/mtf-wiki/MtF-wiki
+[repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

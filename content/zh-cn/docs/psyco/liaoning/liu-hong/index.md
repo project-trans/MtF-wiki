@@ -10,7 +10,7 @@ title: 大连｜刘宏
 
 所在医院：[大连市第七人民医院](https://amap.com/place/B019B01AD1)
 
-问诊参考：<https://github.com/mtf-wiki/MtF-wiki/issues/498> <https://github.com/mtf-wiki/MtF-wiki/issues/724>
+问诊参考：<https://github.com/project-trans/MtF-wiki/issues/498> <https://github.com/project-trans/MtF-wiki/issues/724>
 
 ## 挂号与坐诊时间
 

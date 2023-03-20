@@ -26,7 +26,7 @@ footer:
         - title: 主页 MtF.wiki
           link: https://mtf.wiki
         - title: 源码
-          link: https://github.com/mtf-wiki/MtF-wiki
+          link: https://github.com/project-trans/MtF-wiki
         - title: 导航站 2345.LGBT
           link: https://2345.lgbt
     - title: 动态
@@ -44,7 +44,7 @@ footer:
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub
-          link: https://github.com/mtf-wiki
+          link: https://github.com/project-trans
         - title: 电子邮件
           link: mailto:hi@mtf.wiki
   contents:

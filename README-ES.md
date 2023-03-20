@@ -52,7 +52,7 @@ Si quieres citar este GitHub repo, puedes usar el bibtex：
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/mtf-wiki/MtF-wiki}},
+  howpublished = {\url{https://github.com/project-trans/MtF-wiki}},
 }
 ```
 
@@ -62,7 +62,7 @@ Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
-GitHub [![GitHub issues][badge-gh-issues]](https://github.com/mtf-wiki/MtF-wiki/issues/new/choose)
+GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
 E-mail <hi@mtf.wiki>
 
@@ -75,6 +75,6 @@ E-mail <hi@mtf.wiki>
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
-[repo]: https://github.com/mtf-wiki/MtF-wiki
+[repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc

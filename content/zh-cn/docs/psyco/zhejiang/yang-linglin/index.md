@@ -13,7 +13,7 @@ title: 杭州｜杨玲琳
 {{< notice warning "注意事项" >}}
 根据报告称该医生会宣称本院无法开具诊断证明
 
-具体参阅 <https://github.com/mtf-wiki/MtF-wiki/issues/641>
+具体参阅 <https://github.com/project-trans/MtF-wiki/issues/641>
 {{< /notice >}}
 
 ## 挂号 {#register}

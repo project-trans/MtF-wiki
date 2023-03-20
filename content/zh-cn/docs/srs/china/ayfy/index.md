@@ -5,7 +5,7 @@ title: 安徽医科大学第一附属医院｜张贤生
 {{< notice warning "注意事项" >}}
 该医院目前的信息只有确定可以做性腺切除
 
-该院无 SRS 资质，具体参阅 <https://github.com/mtf-wiki/MtF-wiki/issues/592>
+该院无 SRS 资质，具体参阅 <https://github.com/project-trans/MtF-wiki/issues/592>
 {{< /notice >}}
 
 ## 前置条件

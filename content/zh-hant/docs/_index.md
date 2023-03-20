@@ -23,4 +23,4 @@ MtF（Male-to-Female），跨性別女性，是指出生時指定性別[^1]是�
 
 [^1]: 在維基百科中關於指定性別的定義是「指定性別（Assigned sex），是根據出生時檢查性別特徵以確定的性別。」
 
-[^2]: https://github.com/mtf-wiki
+[^2]: https://github.com/project-trans

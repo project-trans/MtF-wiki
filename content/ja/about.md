@@ -10,7 +10,7 @@ weight: 0
 
 {{< mtf-wiki >}}は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
-計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
+計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-wiki](https://github.com/project-trans/MtF-wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：<https://MtF.wiki>
 

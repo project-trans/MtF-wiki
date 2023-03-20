@@ -16,7 +16,7 @@ title: 贡献者指南
 1. 使用 [性别包容性语言][inclusive-language] 描述避免触发读者的 性别焦虑
 1. 对于“缺乏真实案例报告”的内容，应当创建 [issue][new-issue] 后并记录至 [未确认列表]({{< ref "unconfirmed" >}})
 
-[new-issue]: https://github.com/mtf-wiki/MtF-wiki/issues/new/choose
+[new-issue]: https://github.com/project-trans/MtF-wiki/issues/new/choose
 [inclusive-language]: https://www.un.org/zh/gender-inclusive-language/guidelines.shtml
 
 ## HRT/诊断证明 {#proof}
@@ -71,8 +71,8 @@ title: 贡献者指南
 - 图片类附件建议建议存放至 [`/static/images/`][images] 目录下，在正文中使用 `/images/+路径` 的方式引用；
 - PDF 等文档类附件建议存放至 [`/static/documents/`][documents] 目录下，在正文中使用 `/documents/+路径` 的方式引用；
 
-[images]: https://github.com/mtf-wiki/MtF-wiki/tree/master/static/images/
-[documents]: https://github.com/mtf-wiki/MtF-wiki/tree/master/static/documents/
+[images]: https://github.com/project-trans/MtF-wiki/tree/master/static/images/
+[documents]: https://github.com/project-trans/MtF-wiki/tree/master/static/documents/
 
 ### 表格
 
