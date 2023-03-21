@@ -67,7 +67,7 @@ https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp
 
 ### 基本要求
 
-{{< notice warning "注意" >}} 成年人进行 HRT 同样需要医生亲自与监护人沟通确认不反对 {{< /notice >}}
+{{< notice warning "注意" >}} 成年人进行 HRT 同样需要医生亲自与监护人沟通确认不反对 16-18周岁需父母双方签署**GAHT同意书**(务必事先好大夫咨询）并携带**出生证明**并伴诊 {{< /notice >}}
 
 年满 16 周岁有监护人伴诊知情同意，或年满 18 周岁与监护人沟通确认不反对，可开展激素治疗或青春期阻断治疗，青春期阻断治疗详见[刘烨]({{< ref "liu-ye" >}})。
 
