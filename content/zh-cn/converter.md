@@ -130,5 +130,10 @@ draft: false
   }
 </script>
 
-注：部分医院可能使用[IU（国际单位）](https://zh.wikipedia.org/zh-hans/%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D)作为衡量激素水平的单位，但由于IU为医学效价单位，其与质量单位的换算取决于药物种类而较为复杂，且我们目前也不明确有关的换算方法，在此仅提供部分参考。
-泌乳素/PRL：1 IU = 0.1 mg [换算法来源](https://baike.baidu.com/item/iu/7916412)
+注：部分医院可能使用[IU（国际单位）](https://zh.wikipedia.org/zh-hans/%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D)作为衡量激素水平的单位，但由于IU为医学效价单位，其与质量单位的换算取决于药物种类且可能随时间变化，在此仅提供部分参考。
+
+泌乳素/PRL：21.2 mIU ≈ 1 μg - [换算来源](https://en.wikipedia.org/wiki/Prolactin#Units_and_unit_conversions)
+
+卵泡刺激素/FSH：1 IU ≈ 0.11388 mg - [换算来源](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone#Measurement)
+
+促黄体素/LH：1 IU ≈ 0.04656 μg LH蛋白 - [换算来源](https://en.wikipedia.org/wiki/Luteinizing_hormone#Normal_levels)
