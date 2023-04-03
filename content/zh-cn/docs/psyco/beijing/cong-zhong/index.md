@@ -4,6 +4,10 @@ title: 北京｜丛中
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
+{{< notice warning "医生已停诊" >}}
+根据[#775](https://github.com/project-trans/MtF-wiki/issues/775)，丛中医生已退休，不再出诊。
+{{< /notice >}}
+
 {{< doctor-image src="doctor.jpg" >}}
 
 {{< tag/pos "便宜" >}} {{< tag/pos "无需家长" >}}
