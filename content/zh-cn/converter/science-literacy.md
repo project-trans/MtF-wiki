@@ -1,6 +1,6 @@
 ---
 title: "单位科普"
-description: "单位科普"
+description: "一些基础知识"
 ---
 ## 国际单位（SI）
 
