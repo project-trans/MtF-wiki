@@ -31,7 +31,7 @@ aliases:
 
 如何挂号详见 [北医三院：预约挂号]({{< ref "puth#register" >}})。
 
-> 刘烨医生于2023年3月6日至2023年4月30日停诊，原因目前未知。「此提示最后更新时间为2023年3月30日」
+> 刘烨医生于2023年3月6日至2023年4月30日停诊，原因目前未知。[信息来源](https://zhcx.puh3.net.cn:8081/index.php/seek/ctz/deptKey/6aa3JJveo9aunmz3cKaFYKCJ3MoV2ZJMmluVBCEhhUU/p/2.html)「此提示最后更新时间为2023年3月30日，请以官方信息为准。」
 
 ## 青春期阻断剂相关事宜
 
