@@ -5,11 +5,7 @@ date: 2020-10-26T04:15:05+08:00
 draft: false
 ---
 
-<div style="
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  ">
+<div style="position: relative; display: flex; flex-direction: column">
   <style>
     input {
       color: #495057;
@@ -37,54 +33,89 @@ draft: false
       border-image-outset: 0px;
     }
 
+    table {
+      box-shadow: none !important;
+      border-collapse: collapse !important;
+    }
+
+    td {
+      border: none !important;
+      vertical-align: baseline !important;
+    }
   </style>
-  <div style="margin:auto;align-items:baseline">
-    <span>原数据：</span>
-    <input type="text" id="val1" onkeyup="changed()" style="width: 10ex" />
-    <select id="in1" oninput="changed()">
-      <option value="1">pg</option>
-      <option value="1000">ng</option>
-      <option value="1000000">μg</option>
-      <option value="mol">pmol</option>
-      <option value="mol1000">nmol</option>
-      <option value="mIU">mIU</option>
-      <option value="uIU">μIU</option>
-    </select>
-    <span>/</span>
-    <select id="in2" oninput="changed()">
-      <option value="1">mL</option>
-      <option value="100">dL</option>
-      <option value="1000">L</option>
-    </select>
-    <select id="in3" oninput="changed()" style="visibility: hidden;">
-      <option value="272.38">雌二醇</option>
-      <option value="288.43">睾酮</option>
-      <option value="23000">泌乳素</option>
-      <option value="314.46">孕酮</option>
-    </select>
-    <select id="in4" oninput="changed()" style="visibility: hidden;">
-      <option value="47170">泌乳素</option>
-      <option value="113880">卵泡刺激素</option>
-      <option value="46.56">促黄体素</option>
-    </select>
-  </div>
-  <div style="margin:auto;">
-    <span>转换为：</span>
-    <input id="result" style="width: 10ex" value="" readonly="true" />
-    <select id="out1" oninput="changed()">
-      <option value="1">pg</option>
-      <option value="1000">ng</option>
-      <option value="1000000">μg</option>
-      <option value="mol">pmol</option>
-      <option value="mol1000">nmol</option>
-    </select>
-    <span>/</span>
-    <select id="out2" oninput="changed()">
-      <option value="1">mL</option>
-      <option value="100">dL</option>
-      <option value="1000">L</option>
-    </select>
-  </div>
+  <table style="margin: auto;">
+    <tr>
+      <td>
+        <span>原数据：</span>
+      </td>
+      <td>
+        <input type="text" id="val1" onkeyup="changed()" style="width: 10ex" />
+      </td>
+      <td>
+        <select id="in1" oninput="changed()">
+          <option value="1">pg</option>
+          <option value="1000">ng</option>
+          <option value="1000000">μg</option>
+          <option value="mol">pmol</option>
+          <option value="mol1000">nmol</option>
+          <option value="mIU">mIU</option>
+          <option value="uIU">μIU</option>
+        </select>
+      </td>
+      <td>
+        <span>/</span>
+      </td>
+      <td>
+        <select id="in2" oninput="changed()">
+          <option value="1">mL</option>
+          <option value="100">dL</option>
+          <option value="1000">L</option>
+        </select>
+      </td>
+      <td>
+        <select id="in3" oninput="changed()" style="display: none;">
+          <option value="272.38">雌二醇</option>
+          <option value="288.43">睾酮</option>
+          <option value="23000">泌乳素</option>
+          <option value="314.46">孕酮</option>
+        </select>
+      </td>
+      <td>
+        <select id="in4" oninput="changed()" style="display: none;">
+          <option value="47170">泌乳素</option>
+          <option value="113880">卵泡刺激素</option>
+          <option value="46.56">促黄体素</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span>转换为：</span>
+      </td>
+      <td>
+        <input id="result" style="width: 10ex" value="" readonly="true" />
+      </td>
+      <td>
+        <select id="out1" oninput="changed()">
+          <option value="1">pg</option>
+          <option value="1000">ng</option>
+          <option value="1000000">μg</option>
+          <option value="mol">pmol</option>
+          <option value="mol1000">nmol</option>
+        </select>
+      </td>
+      <td>
+        <span>/</span>
+      </td>
+      <td>
+        <select id="out2" oninput="changed()">
+          <option value="1">mL</option>
+          <option value="100">dL</option>
+          <option value="1000">L</option>
+        </select>
+      </td>
+    </tr>
+  </table>
 </div>
 <script type="text/javascript">
   function changed() {
@@ -95,24 +126,24 @@ draft: false
     var in4 = Number(window.document.getElementById("in4").value);
     var out1 = window.document.getElementById("out1").value;
     var out2 = window.document.getElementById("out2").value;
-    window.document.getElementById("in3").style.visibility = "hidden";
-    window.document.getElementById("in4").style.visibility = "hidden";
+    window.document.getElementById("in3").style.display = "none";
+    window.document.getElementById("in4").style.display = "none";
     switch (in1) {
       case "mol":
-        window.document.getElementById("in3").style.visibility = "visible";
+        window.document.getElementById("in3").style.display = "inline-block";
         val = val * in3;
         break;
       case "mol1000":
-        window.document.getElementById("in3").style.visibility = "visible";
+        window.document.getElementById("in3").style.display = "inline-block";
         val = val * 1000 * in3;
         break;
       case "mIU":
-        window.document.getElementById("in4").style.visibility = "visible";
+        window.document.getElementById("in4").style.display = "inline-block";
         val = val * in4;
         break;
       case "uIU":
-        window.document.getElementById("in4").style.visibility = "visible";
-        val = val * in4 / 1000;
+        window.document.getElementById("in4").style.display = "inline-block";
+        val = (val * in4) / 1000;
         break;
       default:
         //window.document.getElementById("in3").style.visibility = "hidden";
@@ -120,11 +151,11 @@ draft: false
     }
     switch (out1) {
       case "mol":
-        window.document.getElementById("in3").style.visibility = "visible";
+        window.document.getElementById("in3").style.display = "inline-block";
         val = val / in3;
         break;
       case "mol1000":
-        window.document.getElementById("in3").style.visibility = "visible";
+        window.document.getElementById("in3").style.display = "inline-block";
         val = (val * 0.001) / in3;
         break;
       default:
