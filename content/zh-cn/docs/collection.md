@@ -44,6 +44,5 @@ title: 外源信息/第三方整理
 （来源：微信公众号-镇镇的彩虹）
     ***最后更新时间：2022年7月13日-第五版***（[公众号文章](https://mp.weixin.qq.com/s?__biz=MzU5NDU1MTc2NA==&mid=2247486387&idx=1&sn=3704c365e0c3c3812927dcc1c3229aad)）
 
-![第一页](/static/images/3rd-party/mappage1.png)
-
-![第二页](/static/images/3rd-party/mappage2.png)
+{{< img src="/images/3rd-party/mappage1.png" >}}
+{{< img src="/images/3rd-party/mappage2.png" >}}
