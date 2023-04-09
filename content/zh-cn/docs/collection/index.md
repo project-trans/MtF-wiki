@@ -2,17 +2,25 @@
 title: 外源信息/第三方整理
 ---
 
-本文档旨在发布由其他可信来源获取但 wiki 可能没有相关细节的信息，如果有以下信息相关的详细内容，欢迎向 wiki 提交！
+本文档旨在发布由其他可信来源获取但 wiki 可能没有相关细节的信息，如果有以下信息相关的详细内容，欢迎向 wiki 报告！
 
-{{< notice warning "时效性警告" >}}
+{{< notice warning "时效性声明" >}}
 由于这些资料均来自第三方，具有强时效性，有效与否请自行甄别。
 {{< /notice >}}
 
-## 心理科/精神科推荐就诊机构 {#organization}
+## 心理科/精神科机构 {#organization}
 
-（来源：潘柏林助理 - 微信号 PBLzl09）
+{{< notice warning "声明" >}}
 
-***最后更新时间：2023 年 4 月 8 日***
+本列表来自 潘柏林助理 - 微信号 PBLzl09 的推荐
+
+本转载是建立在**改善阅读体验**的前提下进行对内容的还原，并不代表 MtF.wiki 的就医建议
+
+{{< /notice >}}
+
+**最后更新时间：2023 年 4 月 8 日**
+
+下列列表并不是唯一选择，需要进一步的探索
 
 ```csv
 城市,机构,科室,医师,备注
@@ -48,9 +56,10 @@ title: 外源信息/第三方整理
 
 ### 多元性别家暴干预服务地图 {#map-page}
 
-（来源：微信公众号-镇镇的彩虹）
+（来源：微信公众号 - [同语II](weixin://tongyu2005-ii)）
 
 ***最后更新时间： 2022 年 7 月 13 日 - 第五版***（[公众号文章](https://mp.weixin.qq.com/s/jzFVpU99rlFaxZZkqWDM0g)）
 
-{{< img src="/images/3rd-party/mappage1.png" >}}
-{{< img src="/images/3rd-party/mappage2.png" >}}
+![Figure 1](mappage1.png)
+
+![Figure 2](mappage2.png)
