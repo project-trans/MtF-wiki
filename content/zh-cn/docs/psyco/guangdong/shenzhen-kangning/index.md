@@ -7,6 +7,7 @@ title: 深圳市康宁医院
 {{< doctor-image src="wei-zhaoguo.png" >}}
 
 医生姓名：[位照国](https://www.haodf.com/doctor/697566086.html)
+> 此医生需提前预约，一个月接诊 10 位
 
 {{< doctor-image src="yang-huini.jpg" >}}
 
