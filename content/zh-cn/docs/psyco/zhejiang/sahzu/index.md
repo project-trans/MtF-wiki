@@ -1,5 +1,6 @@
 ---
 title: 杭州｜浙江大学附属第二医院(解放院区)
+draft: true
 ---
 
 医院：[浙江大学医学院附属第二医院(解放院区)](https://amap.com/place/B023B19TSO)
