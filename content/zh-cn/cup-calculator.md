@@ -10,7 +10,7 @@ description: "罩杯计算器"
     border-radius: 0.25rem;
     /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
     padding: 1px;
-    height: 1.5em;
+    height: 1.8em;
     width: 50px;
   }
   input:focus {
