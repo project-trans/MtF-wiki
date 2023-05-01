@@ -31,8 +31,6 @@ aliases:
 
 如何挂号详见 [北医三院：预约挂号]({{< ref "puth#register" >}})。
 
-> 刘烨医生于2023年3月6日至2023年4月30日停诊，原因目前未知。[信息来源](https://zhcx.puh3.net.cn:8081/index.php/seek/ctz/deptKey/6aa3JJveo9aunmz3cKaFYKCJ3MoV2ZJMmluVBCEhhUU/p/2.html)「此提示最后更新时间为2023年3月30日，请以官方信息为准。」
-
 ## 青春期阻断剂相关事宜
 
 要求符合易性症诊断，年龄 16 岁以下。需要父母之一签字，花费约每月 2000~3000．初次 HRT 会要求住院 4~5 天，住院+前三针花费约 10000，并在住院时检查骨龄等有关项目。
