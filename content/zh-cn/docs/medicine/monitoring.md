@@ -1,11 +1,12 @@
 ---
-title: 进行激素检查
+title: 治疗期间的监测
 weight: 2
+aliases: hormone-check
 ---
 
-激素检查是跨性别人士在 HRT 过程中查验用药效果与身体健康的重要手段之一。
+在 HRT 过程中有必要定期监测身体状况：借此可查验用药效果，确保用药安全。
 
-（本页不适用于青春期阻断剂使用者，请遵专业团队指导。）
+（本文激素部分不适用于青春期阻断剂使用者，请遵专业团队指导。）
 
 {{< notice info "提示" >}}
 不同医院的测定结果的所用的计量单位存在差异，本站提供 [激素单位换算器]({{< ref "converter" >}})
@@ -13,15 +14,25 @@ weight: 2
 
 ## 怎么查、何时查
 
-中国大陆任何一家三甲医院均可进行激素检查。挂号时，应挂内分泌科门诊，男科、妇科也能提供相关检查。
+治疗期间应监测的有：
 
-进行检查的理由可以如实坦白，如果是相对保守的地区也可以用激素相关的疾病复查作为理由。
+- **性激素六项，其中雌二醇、睾酮、泌乳素较重要。** 应当在接近下一次用药前进行抽血检查，不要在服用药物之后立即进行激素检查。可以在完全六项检查之后一段时间里，只检查所关注的几项。是否空腹抽血请遵医嘱。\
+   介绍及参考范围等见下文。
+- **肝功能。** 强烈建议在治疗开始前检查一次，治疗期间每三个月定期检查一次 [^2]。以醋酸环丙孕酮、比卡鲁胺治疗的前六个月要格外留意。\
+   详情[见下]({{< ref "#lft" >}})。
 
-可以在完全六项检查之后一段时间里，只检查所关注的几项。
+另外可酌情监测的有：
 
-应当在接近下一次用药前进行抽血检查，不要在服用药物之后立即进行激素检查。是否空腹抽血请遵医嘱。
+- **空腹血糖。** 雌激素以及比卡鲁胺等部分抗雄药物可能影响血糖 [^8] [^9] [^15]。血糖控制异常、或有糖尿病者应谨慎。
+- **空腹血脂，尤其是低密度脂蛋白。** 高血脂可能会造成心血管问题。雌激素可降低低密度脂蛋白水平 [^8]；部分抗雄制剂（如螺内酯、比卡鲁胺）可提高低密度脂蛋白水平 [^2]。
+- **骨密度。** 长期处于雌二醇、睾酮“双低”状态者应谨慎（例如接受青春期阻断治疗，或不充分的激素治疗）[^11]。
+- **肾功能。** 肾功能不全者慎用螺内酯，其可能加剧高钾血症；慎用雌激素，其可能导致体液潴留；应密切监测，直至肾功能恢复 [^2] [^8] [^9] [^12]。
+- **离子六项。** 螺内酯可能影响血钾、血钠等水平，有相关风险者在治疗期间应密切监测 [^2] [^12]。与其它可能影响此二者的药物并用时，应格外注意。
+- **凝血功能。** 雌激素、孕激素可增强凝血 [^8] [^9] [^13]。血栓是雌、孕激素的禁忌症。长年服用高剂量雌、孕激素，或者**接受手术前**，应格外注意 [^13]。
+- **乳腺扫描。** 雌激素、孕激素可增长乳腺癌风险 [^8] [^9] [^14]。长年服用雌、孕激素应注意。
+- 大脑**核磁共振扫描。** 长年、高剂量服用醋酸环丙孕酮，应注意**脑膜瘤**风险，一经发现，须立即停药 [^10] [^16]。
 
-{{< notice warning "注意事项" >}} 如果您正在使用任何透皮类的雌激素药物，请确保您在采血前没有在采血的手臂使用药物，否则测出的结果将会异常偏大且没有参考价值，甚至超出仪器最大量程（笔者测出E2>19856.78 pmol/L） {{< /notice >}}
+中国大陆任何一家三甲医院均可进行激素和其它血液指标检查。挂号时，应挂内分泌科门诊，男科、妇科也能提供相关检查。进行检查的理由可以如实坦白，如果是相对保守的地区也可以用激素相关的疾病复查作为理由。
 
 
 ## 看什么、怎么看
@@ -39,6 +50,8 @@ weight: 2
 
 - [雌二醇]({{< ref "#e2" >}}) - 维持女性正常范围
 - [FSH]({{< ref "#fsh" >}}) & [LH]({{< ref "#lh" >}}) - 维持女性正常范围附近
+
+**其它指标**：维持于正常参考范围之内。
 
 ## 相关指标简介
 
@@ -61,6 +74,8 @@ weight: 2
 #### 何时检测
 
 一般建议于下一次用药前进行检测。
+
+{{< notice warning "注意事项" >}} 如果您正在使用任何透皮类的雌激素药物，请确保您在采血前没有在采血的手臂使用药物，否则测出的结果将会异常偏大且没有参考价值，甚至超出仪器最大量程（笔者测出E2>19856.78 pmol/L） {{< /notice >}}
 
 #### MtF 参考值
 
@@ -133,6 +148,14 @@ weight: 2
 > - 女性参考范围：4.79 – 23.3 ng/mL [^1]
 > - 如果泌乳素高于正常值三倍，应降低孕激素剂量、换药或排查泌乳素瘤（复查 [脑部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)）[^2]
 
+### 肝功能 (LFT) {#lft}
+
+**多数药物的代谢均依赖于肝脏**，雌激素、抗雄制剂也不例外。其中，比卡鲁胺、醋酸环丙孕酮已有服药期间出现**急性肝衰竭**（可致命）的报告 [^6] [^7] [^15] [^17]。另外，**重度肝脏疾病（肝功能不全）及肝肿瘤**也是雌激素、醋酸环丙孕酮等药的禁忌症之一[^8] [^9] [^10] [^17]。
+
+**治疗开始前**应检查一次肝功能，治疗期间**每三个月**检查一次；特别是醋酸环丙孕酮、[比卡鲁胺]({{< ref "bicalutamide" >}})治疗期间前六个月内，每个月检查一次 [^2] [^10] [^15]。尤其应关注**转氨酶水平**。参考范围各异，以实际报告单所示为准。
+
+如肝功能指标出现异常，应慎重考虑用药剂量，对症治疗，密切监视，直至恢复正常。
+
 ## 参考阅读 {#reading}
 
 1. [TEST ID: TTFB](https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/83686)
@@ -148,3 +171,15 @@ weight: 2
 [^3]: Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. \[DOI: <https://doi.org/10.1080/26895269.2022.2100644>]
 [^4]: Aly. (2020). *Progesterone and its Role in Breast Development During Female Puberty.* Transfeminine Science. <https://transfemscience.org/articles/p4-breast-dev-puberty/>
 [^5]: Aly. (2018). *Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects.* Transfeminine Science. 中译本：《[口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
+[^6]: Aly. (2019). *Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People*. Transfeminine Science. 中译本：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
+[^7]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
+[^8]: [戊酸雌二醇片（补佳乐）说明书](https://tfsci.mtf.wiki/misc/progynova/)
+[^9]: [戊酸雌二醇注射剂（Progynon Depot/富士日雌）说明书](https://tfsci.mtf.wiki/misc/progynon-depot/)
+[^10]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-tw)
+[^11]: Mitzi. (2022). *Puberty Blockers: A Review of GnRH Analogues in Transgender Youth.* Transfeminine Science. 中译本：《[有关 GnRH 类似物作为青春期阻断剂用于跨性别青年的评述](https://tfsci.mtf.wiki/articles/puberty-blockers/)》
+[^12]: [螺内酯片说明书](https://tfsci.mtf.wiki/misc/spiro-tablet/)
+[^13]: Aly. (2020). *Estrogens and Their Influences on Coagulation and Risk of Blood Clots.* Transfeminine Science. 中译本：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^14]: Aly. (2020). *Breast Cancer Risk with Hormone Therapy in Transfeminine People.* Transfeminine Science. 中译本：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
+[^15]: [比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/)
+[^16]: Aly. (2020). *ERecent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People.* Transfeminine Science. 中译本：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
+[^17]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/misc/siterone-nz)
