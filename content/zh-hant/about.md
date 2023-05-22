@@ -6,7 +6,7 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-wiki](/new/mtf-wiki-long.svg)
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
 
 {{< mtf-wiki >}} 由 {{< project-trans >}} 維護，致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
 
@@ -20,23 +20,13 @@ weight: 0
 
 兄弟站：<https://FtM.wiki>
 
-## 主要人員
-
-{{< github/profile "kenchiu233" "可橙" >}}&nbsp;
-
-{{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
-
-{{< github/profile "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
-
-{{< github/profile "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
-
-（這裡還有位置留給有意願的澳港台朋友～　歡迎與我們聯絡！）
-
-以及感謝所有 GitHub 貢獻者：
+感謝所有 GitHub 貢獻者：
 
 {{< github/contributors >}}
 
 及其他幫助過我們與提供資訊的小可愛們。
+
+（這裡還有位置留給有意願的澳港台朋友～　歡迎與我們聯絡！）
 
 ## 社群聯絡
 

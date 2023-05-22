@@ -6,7 +6,7 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-wiki](/new/mtf-wiki-long.svg)
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
 
 {{< project-trans >}} が運営する {{< mtf-wiki >}} は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
@@ -18,26 +18,13 @@ weight: 0
 
 兄弟サイト: <https://FtM.wiki>
 
-## コアメンテナ
-
-{{< github/profile "kenchiu233" "ケンチュウ" >}}&nbsp;
-
-{{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
-
-{{< github/profile "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
-
-{{< github/profile "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
-
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-
-参加したい場合はご連絡ください！
-
 これらの GitHub の貢献者に感謝します：
 
 {{< github/contributors >}}
 
 そして吾輩に助けと情報を与えてくれる他の素敵な人たち。
 
+参加したい場合はご連絡ください！
 ## 連絡
 
 Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
