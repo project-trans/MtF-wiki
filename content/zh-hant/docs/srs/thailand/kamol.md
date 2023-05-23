@@ -20,13 +20,13 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 中介聯絡
 
-這裡的微信均為中文中介，已無醫院在職員工。鑑於目前中文中介信用較差，建議若要考慮 kamol 可直接聯絡醫院。[點選前往相關討論頁面][discuz-url]
+這裡的微信均為中文中介，已無醫院在職員工。鑑於目前中文中介信用較差，建議若要考慮 kamol 可直接聯絡醫院。[點選前往相關討論頁面](https://github.com/project-trans/MtF-wiki/issues/760)
 
 {{< shields/wechat "xiaofeitum2" >}}
 做零深度的姐妹不建議與xiaofeitum2聯絡，因為存在加價行為
 
 {{< shields/wechat "wuyanlii" >}}
-據 [報告][discuz-url] 存在手術前幾天臨時加價、且拒絕加價則威脅扣留簽證的行為。請閱讀上面的討論頁面。建議謹慎交出簽證原件。
+據 [討論](https://github.com/project-trans/MtF-wiki/issues/760) 存在手術前幾天臨時加價、且拒絕加價則威脅扣留簽證的行為。參考閱讀上面的討論頁面。建議謹慎交出簽證原件。
 
 ## 翻譯陪護
 
@@ -38,7 +38,7 @@ Jessica (自身為 MtF，可帶其他醫生) {{< shields/wechat "JessicaLee9985"
 手術方式,價格
 0 深度,{{< currency 275000 THB >}}
 僅陰莖翻轉 PI 皮瓣,{{< currency 321000 THB >}}
-陰囊皮瓣,{{< currency 11500 THB >}} 含宿與術前費用
+陰囊皮瓣,{{< currency 11500 USD >}} 含宿與術前費用
 結腸,{{< currency 500000 THB >}}
 結腸（腹腔鏡）,{{< currency 630000 THB >}}
 腹膜,{{< currency 650000 THB >}}
@@ -62,11 +62,11 @@ Jessica (自身為 MtF，可帶其他醫生) {{< shields/wechat "JessicaLee9985"
 手術費用不包括：
 
 1. 實驗室檢查費用：
-   價格：{{< currency 4800 THB >}}
+   價格：{{< currency 5600 THB >}}
    檢查專案：CBC、電解質、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 兩位泰國精神科醫生的證明：
    價格：{{< currency 4000 THB >}}
-1. 核酸檢測費用：
+1. 核酸檢測費用（似乎已經不要求）：
    價格：{{< currency 5900 THB >}}
 
 ## 手術介紹
@@ -82,6 +82,8 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 外觀上，Kamol 技術中陰唇和陰蒂的形態相對欠自然，尤其是常出現陰道口完全處於小陰唇下方，陰道前庭與周圍皮膚連成一片，甚至小陰唇在陰道口上方交匯的情況。
 
 腹膜技術只有近兩年比較新，有長息肉、萎縮或有其它後遺症的情況，而且腹膜的延展性沒那麼好，通模具要大力，會比較疼。
+
+有多個報告稱每日可能有大於一臺手術。
 
 ## 預約事項
 
@@ -138,4 +140,3 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 ## 內容參考
 
 [Gogo 變成貓貓了——SRS 日誌](https://blog.gogo.moe/gogo_became_a_cat/)
-[discuz-url]: https://github.com/project-trans/MtF-wiki/issues/760
