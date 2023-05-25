@@ -27,14 +27,6 @@ Discord,MtF.wiki Official,{{< shields/discord 883004164760801320 "MtF.wiki Offic
   已预约、正在泰国 或 已经在泰国手术 的姐妹，
   请发送邮件至 <srs-th@mtf.wiki> 请注明你的医生。
 
-## 跨性别相关 bot {#trans-bot}
-
-前身为 Trans 药品公益科普 bot．本 bot 是社群伙伴自发建立的民间公益平台，由专门成立的多人运营组共同运营，以纯公益、不谋利为基本原则，以广大跨性别群体的立场为基本立场，主营跨性别相关的科普/辟谣/投稿/公益推广/消息推送等业务。为避免反跨恐跨人士围攻举报，本 bot 内容请在合理范围内扩散，谨慎考虑后转发。
-
-- QQ 空间主机：`2776456754`
-- QQ 空间备用机：`970611264`（平时停用，紧急事态下启用）
-- 微信公众号：[跨性别相关 Bot](weixin://Trans_bot)
-
 ## awesome trans <i class="trans-flag"></i> (Twitter) {#awesome-trans}
 
 跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
