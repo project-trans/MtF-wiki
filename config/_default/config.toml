@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 copyright = "<img src='/new/mtf-wiki-long.svg' style='height:1em;display:inline;vertical-align:baseline;background-color:none;border:none;'/> &copy; 2020-{year} MtF.wiki by <a href='https://project-trans.org/' target='_blank'><img src='/new/project-trans-inline.svg' style='height: 1em;display: inline;vertical-align: baseline;background-color: none;border: none;border-radius: 0;' alt='Project Trans'/></a><br><a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' loading='lazy' alt='CC BY-SA 4.0'></a>"
-timeout = "1M"
+timeout = "1m"
 enableEmoji = true
 enableRobotsTXT = true
 paginate = 13
