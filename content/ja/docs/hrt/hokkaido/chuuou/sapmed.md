@@ -6,7 +6,7 @@ title: 札幌医科大学付属病院
 - 電話：{{< telephone "011-611-9674" >}}
 - <http://web.sapmed.ac.jp/hospital/guide/mumhv60000002vz7.html>
 
-※HP に GID 外来の記載あり。
+※HP に GID 外来の記載あり。  
 大きい病院なので待ち時間が長くなると予想される
 
 ## コメント
