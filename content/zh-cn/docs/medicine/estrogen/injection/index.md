@@ -13,14 +13,14 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 
 ![fuji](/images/medicine/injection/progynon-depot.jpg)
 
-- 英文名称：Progynon&reg;-Depot
-- 日文名称：プロギノン &reg;・デポー
+- 英文名称：Progynon&reg;-Depot intramuscular injection
+- 日文名称：プロギノン &reg;・デポー筋注10mg
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：富士日雌
 - 厂商：富士制药
 - 规格：一盒 10 瓶，每瓶 1 mL，含有 10 mg 戊酸雌二醇
 - 外观：微黄色澄清油性注射液
-- [说明书（日语）](/documents/progynon.pdf)
+- 说明书：[日语原文](/documents/progynon.pdf) | [中文译本](https://tfsci.mtf.wiki/misc/progynon-depot/)
 
 ### 【停产】持田 Pelanin Depot
 

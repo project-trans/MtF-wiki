@@ -13,18 +13,16 @@ draft: false
       border-radius: 0.25rem;
       /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
       padding: 1px;
-      height: 1.5em;
+      height: 2em;
     }
-
     select {
       color: #495057;
       border: 1px solid #ced4da;
       border-radius: 0.25rem;
       /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
       padding: 1px;
-      height: 1.5em;
+      height: 2em;
     }
-
     input:focus {
       color: #495057;
       outline: 0;
@@ -32,12 +30,10 @@ draft: false
       border-image-width: 3px;
       border-image-outset: 0px;
     }
-
     table {
       box-shadow: none !important;
       border-collapse: collapse !important;
     }
-
     td {
       border: none !important;
       vertical-align: baseline !important;

@@ -1,6 +1,5 @@
 ---
 title: MtF.wiki
-updatesBanner: "手机用户请不要点左上角的☰，请点下面的“查看文档”"
 description: MtF.wiki
 landing:
   height: 700
@@ -51,7 +50,7 @@ footer:
     align: left
     applySinglePageCss: true
     markdown: >
-      <img src="/new/mtf-wiki-long.svg" style="height:1em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:1em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
       &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > 如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。

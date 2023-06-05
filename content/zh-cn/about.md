@@ -20,21 +20,7 @@ weight: 0
 
 兄弟站：<https://FtM.wiki>
 
-## 主要人员
-
-{{< github/profile "kenchiu233" "可橙" >}}&nbsp;
-
-{{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
-
-{{< github/profile "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn>
-
-{{< github/profile "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
-
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-
-{{< github/profile "Clansty" "凌莞" >}}&nbsp;<mtfwiki@gao4.pw>
-
-以及感谢所有 GitHub 贡献者：
+感谢所有 GitHub 贡献者：
 
 {{< github/contributors >}}
 
@@ -49,10 +35,6 @@ Twitter {{< shields/twitter MtFwiki >}}
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 邮件 <hi@mtf.wiki>
-
-## ~~办公地点~~
-
-{{< hiddenphoto "/images/meme/33cll.png">}}
 
 ## 致谢
 

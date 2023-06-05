@@ -6,9 +6,9 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-wiki](/new/mtf-wiki-long.svg)
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
 
-La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado, mantenido por {{ project-trans }}.
+La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado, mantenido por {{< project-trans >}}.
 
 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto: [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
@@ -18,22 +18,13 @@ La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimiento
 
 Sitio hermano: <https://FtM.wiki>
 
-## Mantenedores
-
-{{< github/profile "kenchiu233" "Kenchiu" >}}&nbsp;
-
-{{< github/profile "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
-
-{{< github/profile "saeziae" "Estela">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
-**¡Contáctame si quieres unirte!**
-
-{{< github/profile "llh721113" "Joanna" >}}&nbsp;<llh721113@outlook.com>
-
 Gracias a los contribuyentes de GitHub:
 
 {{< github/contributors >}}
 
 y los otros queridos que nos dan ayuda y información.
+
+**¡Contáctanos si quieres unirte!**
 
 ## Contacto
 

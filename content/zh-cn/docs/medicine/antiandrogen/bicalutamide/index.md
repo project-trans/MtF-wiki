@@ -37,13 +37,13 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 
 ## 副作用
 
-- **严重肝脏损伤**[^2] [^3] [^5] {{< tag/neg "如发现请立即停药！" >}}
+- **严重肝脏损伤**[^3] [^5] {{< tag/neg "如发现请立即停药！" >}}
   - 多发生于服药开始的 6 个月内。主要表现为肝转氨酶水平升高，严重时可引起肝衰竭甚至死亡[^3]。
-  - 其它迹象包括：恶心、呕吐、腹痛、疲倦、食欲不振、类似流感的症状（发热）、小便黄赤、黄疸（皮肤/眼球发黄）等[^5] [^6]。
-- **肺毒性**：极罕见，但可能发展成间质性肺炎、嗜酸性肺炎等严重症状[^3] [^5]。
+  - 其它迹象包括：恶心、呕吐、腹痛、疲倦、食欲不振、类似流感的症状（发热）、小便黄赤、黄疸（皮肤/眼球发黄）等[^5] [^2]。
+- **肺毒性**：极罕见，但可能发展成间质性肺炎、嗜酸性肺炎等严重症状[^2] [^3] [^5]。
   - 亚洲人种的这项风险远高于其他人种[^5]。
   - 相关迹象包括：气喘或气短、咳嗽、咽喉炎（通常表现为咽痛）等[^5]。
-- **其它症状**：腹泻、便秘、头晕、干皮、瘙痒、皮疹、乏力、水肿、皮肤光线敏感度改变、尿血、尿频、贫血（肾衰竭）等[^4] [^6]。
+- **其它症状**：腹泻、便秘、头晕、干皮、瘙痒、皮疹、乏力、水肿、皮肤光线敏感度改变、尿血、尿频、贫血（肾衰竭）等[^4] [^2]。
 
 ## 成分信息
 
@@ -52,9 +52,8 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 - 分子式：C<sub>18</sub>H<sub>14</sub>N<sub>2</sub>O<sub>4</sub>F<sub>4</sub>S
 - 分子量：430.37
 
-[^1]: [有关女性倾向跨性别者使用比卡鲁胺之剂量的讨论（英文）](https://transfemscience.org/articles/bica-dosage/)
-[^2]: [有关比卡鲁胺 (Casodex) 用于女性倾向跨性别者的信息汇总（英文）](https://transfemscience.org/articles/bica-info/#risks-of-bicalutamide)
-[^3]: [比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/zh-cn/articles/bica-adoption/)
+[^1]: Aly. (2018). *Discussion on Bicalutamide Dosage in Transfeminine People.* Transfeminine Science. 中译本：《[有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/articles/bica-dosage/)》——*注意：原文已被删除*
+[^2]: [比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/)
+[^3]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
 [^4]: [维基百科：比卡鲁胺的副作用（英文）](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
-[^5]: [女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/#bicalutamide)
-[^6]: [Casodex 药品说明书（英文）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020498s028lbl.pdf)
+[^5]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine People.* Transfeminine Science. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》

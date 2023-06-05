@@ -51,4 +51,4 @@ aliases:
 
 ## 嗓音训练 {#therapy}
 
-理论上 喉结整形术 术后第四周结束，可以启动 [嗓音女性化训练]({{< ref "vocal-therapy-overview" >}})
+喉结整形术理论上不影响发声，但如需在术后进行 [嗓音女性化训练]({{< ref "vocal-therapy-overview" >}}) 请提前告知训练师。

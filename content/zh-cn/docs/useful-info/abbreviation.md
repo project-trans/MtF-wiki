@@ -71,6 +71,12 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ) (<https://archive.is/cenPo>)
 
+## AM
+
+[隆胸手术](https://zh.wikipedia.org/wiki/隆乳)（Augmentation Mammoplasty），此缩写使用于 Suporn 诊所。
+
+注意：隆胸手术可能有多种缩写，请不要局限于本条。
+
 ## VFS
 
 声音女性化手术（Voice feminization surgery）
