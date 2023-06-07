@@ -72,7 +72,7 @@ jobs:
       - name: Build
         run: hugo --minify --enableGitInfo --baseURL https://mtfwiki.com
       - name: Deploy
-        uses: reggionick/s3-deploy@v3
+        uses: reggionick/s3-deploy@v4
         if: github.ref == 'refs/heads/master'
         with:
           folder: public
