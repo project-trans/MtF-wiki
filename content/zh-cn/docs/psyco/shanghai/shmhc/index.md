@@ -12,6 +12,7 @@ title: 上海市精神卫生中心
 - [王飚](http://www.smhc.org.cn/MedicalGuide/contents/49/56.html)（300 元）
 - [张毅](http://www.smhc.org.cn/MedicalGuide/contents/49/58.html)
 - [刘娜](http://www.smhc.org.cn/MedicalGuide/contents/51/183.html)
+- 吕钦谕
 
 所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1)
 
