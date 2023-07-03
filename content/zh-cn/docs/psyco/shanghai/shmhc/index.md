@@ -12,6 +12,7 @@ title: 上海市精神卫生中心
 - [王飚](http://www.smhc.org.cn/MedicalGuide/contents/49/56.html)（300 元）
 - [张毅](http://www.smhc.org.cn/MedicalGuide/contents/49/58.html)
 - [刘娜](http://www.smhc.org.cn/MedicalGuide/contents/51/183.html)
+- 吕钦谕
 
 所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1)
 
@@ -47,6 +48,7 @@ P.S. 实际上只要去就诊就会在系统里有「易性症」的诊断，但
 - 陆峥 会否定其他医生的诊断，称其他医生没他专业。
 - 看心情给家长打电话确认家庭支持情况，如果表现的足够自信以及足够 pass 可能不打。
 - 由其他医院转诊至 陆峥 处有一定几率免除再去找第二个医生的步骤。
+- 吕钦谕 有给16周岁跨儿开证明的记录。
 
 ## 证明样式 {#proof}
 
