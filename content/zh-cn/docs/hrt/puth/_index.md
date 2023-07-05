@@ -119,6 +119,8 @@ https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp
 
 第二次就诊（制定 HRT 方案）：应当在所有检查结果产生后前去就诊。医生如果认为可以进行 HRT，则会进行风险告知并制定 HRT 方案。医生可能会询问父母意见。
 
+**第二次就诊请勿忘携带「易性症」或其他类似诊断的病历或诊断证明。**
+
 {{< expand "激素治疗注意事项" >}}
 ![notice](notice.jpg)
 {{< /expand >}}
