@@ -4,6 +4,12 @@ title: Chettawut 医生
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
 
+{{< notice warning "注意" >}}
+该医生存在一天内安排多台手术的情况，且有在手术期间出现在病房查房的目击报告
+
+相关讨论：[issues#761](https://github.com/project-trans/MtF-wiki/issues/761)
+{{< /notice >}}
+
 ## 医生简介 {#intro}
 
 - 医生姓名：Chettawut，蔡达武 {{< tag/pos "WPATH 成员" >}}
