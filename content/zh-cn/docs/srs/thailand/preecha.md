@@ -133,5 +133,5 @@ HIV 阳性,+50%,请附加检查 CD4 (Blood count)，其计数必须为 500+
 ## 参考阅读
 
 - 一位姐妹的 SRS 记录（Burin） <https://t.me/Hana_SRSviaBurin>
-- /var/log/sysmod.log（手术记录，Burin） <https://t.me/+ry91g0QDl4diMWQ1>
+- [PAI Burin 手术 90 天后写下的手术 FAQ](https://github.com/project-trans/basket-relay/discussions/4)
 - 七七的SRS日记-PAI 布林 <https://t.me/srs77inpai>
