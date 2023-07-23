@@ -16,17 +16,17 @@ weight: 10
 
 ```csv
 系统器官分类,常见,不常见,罕见
-免疫系统疾病,,超敏反应,
-代谢和营养类疾病,体重变化<br>（体重增加或减轻）,,
-精神病类,,抑郁症,焦虑症、性欲增强或减弱
-神经系统疾病,头痛,眩晕,偏头痛
-眼部疾病,,视觉障碍,隐形眼镜不耐受
-心脏疾病,,心悸,
-胃肠道疾病,恶心、腹泻,消化不良、食欲增加,气胀、呕吐
-皮肤和皮下组织疾病,皮疹、瘙痒,黄褐斑、<br>荨麻疹、<br>多形性红斑、<br>结节性红斑、<br>血管性紫癜,多毛症、痤疮、脱发
-肌肉骨骼和结缔组织疾病,,,肌肉痛性痉挛
-生殖系统和乳房疾病,*月经出血特征变化*、<br>*撤退性出血增强或减弱*、<br>*经间期出血*,乳房发紧感和疼痛,*痛经*、<br>*阴道分泌物改变*、<br>经前综合征、<br>乳房增大
-全身疾病和给药部位症状,,水肿,疲劳
+**免疫系统疾病**,,超敏反应,
+**代谢和营养类疾病**,体重变化<br>（体重增加或减轻）,,
+**精神病类**,,抑郁症,焦虑症、性欲增强或减弱
+**神经系统疾病**,头痛,眩晕,偏头痛
+**眼部疾病**,,视觉障碍,隐形眼镜不耐受
+**心脏疾病**,,心悸,
+**胃肠道疾病**,恶心、腹泻,消化不良、食欲增加,气胀、呕吐
+**皮肤和皮下组织疾病**,皮疹、瘙痒,黄褐斑、<br>荨麻疹、<br>多形性红斑、<br>结节性红斑、<br>血管性紫癜,多毛症、痤疮、脱发
+**肌肉骨骼和结缔组织疾病**,,,肌肉痛性痉挛
+**生殖系统和乳房疾病**,*月经出血特征变化*、<br>*撤退性出血增强或减弱*、<br>*经间期出血*,乳房发紧感和疼痛,*痛经*、<br>*阴道分泌物改变*、<br>经前综合征、<br>乳房增大
+**全身疾病和给药部位症状**,,水肿,疲劳
 ```
 
 ### 雌激素与血栓风险的关系
@@ -51,7 +51,7 @@ weight: 10
 单用高剂量醋酸环丙孕酮,3–5 倍
 ```
 
-更多详情可参见《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/)》。
+更多详情可参见《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》。
 
 ### 雌激素相关资料
 
@@ -70,7 +70,7 @@ weight: 10
 
 ### 人工合成孕激素（如醋酸环丙孕酮）
 
-详见“抗雄激素制剂”。
+详见“抗雄激素用药风险”。
 
 
 
@@ -85,19 +85,19 @@ weight: 10
 
 ```csv
 系统器官分类,非常常见,常见,不常见,罕见,非常罕见,频率不详
-良性、恶性或不明肿瘤,,,,,良性与恶性肝脏肿瘤,脑膜瘤
-血液与淋巴系统疾病,,,,,,贫血
-免疫系统疾病,,,,过敏反应,,
-代谢和营养类疾病,,体重增加；体重减少,,,,
-精神病类,性欲减退、勃起功能障碍,抑郁心境、短暂性躁动,,,,
-血管疾病,,,,,,血栓栓塞形成
-呼吸、胸部和纵隔疾病,,呼吸困难,,,,
-胃肠道疾病,,,,,,腹内出血
-肝脏和胆囊疾病,,药物性肝损伤、肝毒性、肝炎,黄疸、肝衰竭,,,
-皮肤和皮下组织疾病,,,皮疹,,,
-肌肉骨骼和结缔组织疾病,,,,,,骨质疏松
-生殖系统和乳房疾病,精子产量减少,男性乳房发育,,,,
-全身疾病和给药部位症状,,疲劳、潮热、发汗,,,,
+**良性、恶性或不明肿瘤**,,,,,良性与恶性肝脏肿瘤,脑膜瘤
+**血液与淋巴系统疾病**,,,,,,贫血
+**免疫系统疾病**,,,,过敏反应,,
+**代谢和营养类疾病**,,体重增加；体重减少,,,,
+**精神病类**,性欲减退、勃起功能障碍,抑郁心境、短暂性躁动,,,,
+**血管疾病**,,,,,,血栓栓塞形成
+**呼吸、胸部和纵隔疾病**,,呼吸困难,,,,
+**胃肠道疾病**,,,,,,腹内出血
+**肝胆疾病**,,药物性肝损伤、肝毒性、肝炎,黄疸、肝衰竭,,,
+**皮肤和皮下组织疾病**,,,皮疹,,,
+**肌肉骨骼和结缔组织疾病**,,,,,,骨质疏松
+**生殖系统和乳房疾病**,精子产量减少,男性乳房发育,,,,
+**全身疾病和给药部位症状**,,疲劳、潮热、发汗,,,,
 ```
 
 ### 比卡鲁胺
@@ -107,8 +107,8 @@ weight: 10
 
 ### 螺内酯
 
-螺内酯最常见的不良反应有：**高钾血症，胃肠道反应（如恶心、呕吐、胃痉挛和腹泻）**[^13] [^14]。\
-最严重的不良反应：**高钾血症（高风险者可引起猝死）**[^14]。
+螺内酯最常见的不良反应有：**高钾血症，胃肠道反应（如恶心、呕吐、胃痉挛和腹泻）**[^13] [^14] [^21]。\
+最严重的不良反应：**高钾血症（高风险者可引起猝死）**[^14] [^21]。
 
 高年龄、肾功能不全、同时服用利钾药、钾补剂或含钾代用盐者属于高钾血症风险人群，须格外注意[^14]。
 
@@ -127,21 +127,76 @@ weight: 10
 > 含高剂量环丙孕酮的药物已有该限制。
 
 
+## 药物相互作用 {#drug-interactions}
+
+{{< notice warning "警告" >}}
+**如需服用 HRT 以外的任何药物，务必就<u>药物相互作用</u>问题咨询医师，并查阅说明书相关内容！**
+{{< /notice >}}
+
+诸 HRT 药物之间以及与其它药物之间的相互作用非常复杂，且强度不一，需要海量资料来建立其关系；目前只能通过各药品的说明书内容来做初步判断。考虑到 MtF 当中精神疾病的流行率较高[^19]，此处会特别指明与精神药品的关系。
+
+### 肝酶代谢关系
+
+主要 HRT 用药均依赖或影响肝酶代谢：
+
+| 类型 | 性质 |
+|-|-|
+| 雌二醇、雌二醇酯 | 依赖 CYP3A4 代谢[^1] [^2] |
+| 醋酸环丙孕酮 | 依赖 CYP3A4 代谢[^6] [^7] |
+| 醋酸甲羟孕酮 | 依赖 CYP3A4 代谢[^20] |
+| 螺内酯 | 有诱导 CYP3A4 的作用[^22] |
+| 比卡鲁胺 | 有抑制 CYP3A4 的作用[^10] |
+| GnRH 类似物 | 曲普瑞林很少被肝酶代谢[^23] |
+
+### HRT 用药之间的关系
+
+可能存在相互作用的情况如下：
+
+- **雌二醇与螺内酯：** 现有文献评述中，螺内酯单药用于顺性别男性时，雌二醇水平不变或小幅增加，雌激素尿排出量增加[^24]。
+- **雌二醇与比卡鲁胺：** 由于比卡鲁胺使睾酮增加，而睾酮可被芳香化成为雌二醇，使雌二醇同步增加[^25]，故难以判断比卡鲁胺是否会抑制雌二醇代谢。
+- **人工孕激素与比卡鲁胺：** 理论上比卡鲁胺会抑制人工孕激素代谢。不建议并用。
+
+### 与其它药物的关系
+
+与部分药品存在相互作用的情况如下：
+
+- **螺内酯与促血钾药品：** 二者并用导致高钾血症的风险增大 [^21]。
+- **螺内酯与部分精神药品：** 抑制锂剂排出，锂毒性可能增加；与三环类、SSRI 类抗抑郁药并用可能导致低钠血症[^21]。另外可能影响经 CYP3A4 代谢的药物[^22]。
+- **比卡鲁胺与部分药品：** 可能影响经 CYP3A4 代谢的药物；可能影响抗凝剂的疗效[^10]。可能导致特定抗抑郁药（如米氮平）发生某些副作用的风险加大。
+- **雌二醇、人工孕激素和影响肝酶的药品：** 代谢可能受到 CYP3A4 抑制剂或诱导剂的影响[^2] [^6]。其中抑制剂使其代谢减慢；诱导剂使其代谢加快、疗效减弱。
+- **螺内酯、人工孕激素和血浆蛋白：** 由于这两类均与血浆白蛋白高度结合[^6] [^20] [^21]，不能排除其会受到同样与白蛋白高度结合的其它药物的影响。与此类药物并用时，二者的游离血药浓度均可能增加，导致其作用和副作用增强。可能需要降低其中一种强结合药物的剂量。这类药物包括抗抑郁药舍曲林[^27]。
+- **雌二醇与血浆蛋白：** 生理水平下的雌二醇绝大部分与血浆蛋白结合，其中多数结合于白蛋白，少数结合于性激素结合球蛋白（SHBG）[^2] [^26]。虽然其会受到竞争白蛋白的其它药物影响，但由于雌二醇也会引起 SHBG 增加[^26]，故游离浓度变数可能较大。
+- **共用 CYP3A4 代谢途径的药品：** 剂量较大时，相关副作用发生的风险可能增大[^7]。应以最低有效剂量服药。
+
+无论如何，应在开始精神疾病或 HRT 治疗之前**认真阅读说明书**，尤其是有关药物相互作用的内容；治疗期间也要不时回顾。如果懂一些英语，可以在 [Drugs.com](https://www.drugs.com/drug_interactions.html) 查询两种药品（英文名称）之间是否存在相互作用。如必须并用，请注意进行密切监测；并用期间出现任何不适或异常应随诊——让医生知悉一切并对症下药，**千万别瞒着！**
+
+以上未囊括所有可能存在相互作用的药品类型。如有新的药物相互作用信息，可于 [GitHub](https://github.com/project-trans/MtF-wiki/issues/828) 提交报告。
+
+
 [^1]: [雌二醇片（Estrofem）说明书](https://tfsci.mtf.wiki/misc/estrofem/)
 [^2]: [戊酸雌二醇片（Progynova）说明书](https://tfsci.mtf.wiki/misc/progynova/)
-[^3]: [雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/)
-[^4]: [口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/zh-cn/articles/oral-p4-low-levels/)
-[^5]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/zh-cn/misc/siterone-nz/)
-[^6]: [醋酸环丙孕酮（南非 Androcur）说明书](https://tfsci.mtf.wiki/zh-cn/misc/androcur-za/)
-[^7]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/zh-cn/misc/androcur-tw/)
-[^8]: [低剂量醋酸环丙孕酮足可高效抑制睾酮](https://tfsci.mtf.wiki/zh-cn/articles/cpa-dosage/)
-[^9]: [醋酸环丙孕酮和脑膜瘤风险](https://tfsci.mtf.wiki/zh-cn/articles/cpa-meningioma/)
+[^3]: [雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)
+[^4]: [口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)
+[^5]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/misc/siterone-nz/)
+[^6]: [醋酸环丙孕酮（南非 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-za/)
+[^7]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-tw/)
+[^8]: [低剂量醋酸环丙孕酮足可高效抑制睾酮](https://tfsci.mtf.wiki/articles/cpa-dosage/)
+[^9]: [醋酸环丙孕酮和脑膜瘤风险](https://tfsci.mtf.wiki/articles/cpa-meningioma/)
 [^10]: [比卡鲁胺（Casodex）说明书](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020498s028lbl.pdf) （英文）
-[^11]: [女性倾向跨性别者的激素治疗简介 - 比卡鲁胺](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/#bicalutamide)
-[^12]: [比卡鲁胺在女性化激素治疗上的使用与接受情况](https://tfsci.mtf.wiki/zh-cn/articles/bica-adoption/)
-[^13]: [螺内酯片说明书](https://tfsci.mtf.wiki/zh-cn/misc/spiro-tablet/)
-[^14]: [女性倾向跨性别者的激素治疗简介 - 螺内酯](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/#spironolactone)
-[^15]: [女性化激素疗法与乳腺癌风险](https://tfsci.mtf.wiki/zh-cn/articles/breast-cancer/)
+[^11]: [女性倾向跨性别者的激素治疗简介 - 比卡鲁胺](https://tfsci.mtf.wiki/articles/transfem-intro/#bicalutamide)
+[^12]: [比卡鲁胺在女性化激素治疗上的使用与接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)
+[^13]: [螺内酯片说明书](https://tfsci.mtf.wiki/misc/spiro-tablet/)
+[^14]: [女性倾向跨性别者的激素治疗简介 - 螺内酯](https://tfsci.mtf.wiki/articles/transfem-intro/#spironolactone)
+[^15]: [女性化激素疗法与乳腺癌风险](https://tfsci.mtf.wiki/articles/breast-cancer/)
 [^16]: 摘自 [药物警戒快讯第 4 期（总第 204 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html)
 [^17]: 摘自 [药物警戒快讯 2012 年第 11 期（总第 115 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20121130120001399.html)
 [^18]: 摘自 [药物警戒快讯第 3 期（总第 203 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20200416143701885.html)
+[^19]: [Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)（英文）
+[^20]: [PROVERA U.S. Physician Prescribing Information](https://labeling.pfizer.com/ShowLabeling.aspx?id=605)（英文）
+[^21]: [螺内酯（Aldactone）说明书](https://tfsci.mtf.wiki/misc/aldactone/)
+[^22]: [Bicalutamide: clinical pharmacokinetics and metabolism](https://doi.org/10.2165/00003088-200443130-00003)（英文）
+[^23]: [Labels for Triptorelin Pamoate (TRELSTAR)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/020715s045,021288s040,022437s020lbl.pdf)（英文）
+[^24]: [对有关使用螺内酯的顺性别男性、顺性别女性和女性倾向跨性别者及其睾酮水平的一系列研究的评述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)
+[^25]: [有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/articles/bica-dosage/) （原文已被撤下，仅供参考）
+[^26]: [性激素与性激素结合球蛋白的相互作用及其对女性化激素疗法的意义](https://tfsci.mtf.wiki/articles/shbg-unimportant/)
+[^27]: [Labels for Sertraline Hydrochloride (ZOLOFT)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019839s102,020990s059lbl.pdf) （英文）
