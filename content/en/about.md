@@ -1,36 +1,22 @@
 ---
 title: "About us"
-description: "MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
+description: "MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
 weight: 0
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-Wiki](/new/mtf-wiki-long.svg)
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
 
-{{<mtf-wiki>}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site.
+{{< mtf-wiki >}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site, maintained by {{< project-trans >}}
 
-Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
+Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project：[MtF.Wiki](https://mtf.wiki)
+<i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project: <https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
+<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror: <https://MtFwiki.cn>, <https://MtFwiki.com>
 
 Brother site: <https://FtM.wiki>
-
-## Core maintainer
-
-Founder: {{< github/profile "kenchiu233" "Kenchiu" >}}
-
-{{< github/profile "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
-
-{{< github/profile "saeziae" "Estela">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
-
-{{< github/profile "llh721113" "Joanna" >}}&nbsp;<llh721113@outlook.com>
-
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-
-Contact if u would like to join!
 
 Thanks goes to these GitHub contributors:
 
@@ -38,18 +24,17 @@ Thanks goes to these GitHub contributors:
 
 and other lovely guys who give us help and information.
 
+Contact if u would like to join!
+
 ## Contact
 
-Through Discord [![Discord][shields/discord]](https://233.plus/discord)
+Through Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
 
-Twitter {{< shields/twitter mtfwiki >}}
+Twitter {{< shields/twitter MtFwiki >}}
 
-Through GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+Through GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 Via Email <hi@mtf.wiki>
-
-[shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## Acknowledgement
 

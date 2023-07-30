@@ -1,13 +1,13 @@
 ---
-title: MtF Wiki
-description: MtF Wiki
+title: MtF.wiki
+description: MtF.wiki
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
   title:
-    - MtF Wiki
+    - MtF.wiki
   text:
-    - MtF Wiki へようこそ。 吾輩は、トランスジェンダー女性に関する情報を整理して要約し、より良い支援を提供するよう努めています〜
+    - MtF.wiki へようこそ。 吾輩は、トランスジェンダー女性に関する情報を整理して要約し、より良い支援を提供するよう努めています〜
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -25,22 +25,23 @@ footer:
         - title: ホームページ
           link: https://mtf.wiki
         - title: ソースコード
-          link: https://github.com/mtf-wiki/MtF-Wiki
+          link: https://github.com/project-trans/MtF-wiki
     - title: 連絡
       links:
         - title: Discord
-          link: https://233.plus/discord
+          link: https://link.mtf.wiki/discord-japan
         - title: Twitter
-          link: https://twitter.com/mtfwiki
+          link: https://twitter.com/MtFwikiJapan
         - title: GitHub
-          link: https://github.com/mtf-wiki
+          link: https://github.com/project-trans
         - title: E-mail
           link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
-      <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote align="left">あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。</blockquote>
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:1em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+
+      > あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。
 ---

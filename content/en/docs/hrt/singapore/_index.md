@@ -1,0 +1,4 @@
+---
+title: Singapore
+collapsible: true
+---

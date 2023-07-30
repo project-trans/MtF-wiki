@@ -4,10 +4,13 @@ title: Kamol
 
 {{< tag/pos "WPATH 成員" >}}
 
-醫生姓名：Kamol Pansritum，伽蒙
+醫生姓名：Kamol Pansritum，咖蒙
+
 <!-- https://www.kamolhospital.com/zh/profile-doctor/dr-kamol-pansritum/ 這裡有照片 -->
 
 所在醫院：[Kamol Cosmetic Hospital](https://goo.gl/maps/oMMRQotSXqQSmvC48)
+
+官方網站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
 
 郵箱：<customercare@kamolhospital.com>
 
@@ -15,19 +18,37 @@ title: Kamol
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
+## 中介聯絡
+
+這裡的微信均為中文中介，已無醫院在職員工。鑑於目前中文中介信用較差，建議若要考慮 kamol 可直接聯絡醫院。[點選前往相關討論頁面](https://github.com/project-trans/MtF-wiki/issues/760)
+
+{{< shields/wechat "xiaofeitum2" >}}
+做零深度的姐妹不建議與xiaofeitum2聯絡，因為存在加價行為
+
+{{< shields/wechat "wuyanlii" >}}
+據 [討論](https://github.com/project-trans/MtF-wiki/issues/760) 存在手術前幾天臨時加價、且拒絕加價則威脅扣留簽證的行為。參考閱讀上面的討論頁面。建議謹慎交出簽證原件。
+
+## 翻譯陪護
+
+Jessica (自身為 MtF，可帶其他醫生) {{< shields/wechat "JessicaLee9985" >}} {{< shields/telegram "jessicalee85" >}}
+
 ## 手術費用
 
-- 0 深度 {{< currency from="THB" value="257250" >}}
-- PI 皮瓣 {{< currency from="THB" value="300300" >}}
-- 非 PI 皮瓣 {{< currency from="THB" value="321000" >}}
-- 非 PI + 腹股溝皮瓣 {{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-- 結腸 {{< currency from="THB" value="472500" >}}
-- 結腸（腹腔鏡） {{< currency from="THB" value="577500" >}}
-- 腹膜（腹腔鏡）{{< currency from="THB" value="592800" >}}
+```csv
+手術方式,價格
+0 深度,{{< currency 275000 THB >}}
+僅陰莖翻轉 PI 皮瓣,{{< currency 321000 THB >}}
+陰囊皮瓣,{{< currency 11500 USD >}} 含宿與術前費用
+結腸,{{< currency 500000 THB >}}
+結腸（腹腔鏡）,{{< currency 630000 THB >}}
+腹膜,{{< currency 650000 THB >}}
+```
+
+支援 銀聯卡、國際信用卡、支付寶 付款{{<local zh-cn>}}（支付寶建議出國前將錢全部存入餘額，避免出現因銀行卡的每日限額導致錢存不進的情況）{{</local>}}
 
 酒店費用：出院後，前 14 天須在下方指定酒店進行恢復，之後可自行選擇其他酒店。需要 3 ~ 4 周左右。
 
-- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency 1500 THB >}} 每天
 
 手術費用包括：
 
@@ -41,16 +62,20 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 手術費用不包括：
 
 1. 實驗室檢查費用：
-   價格：{{< currency from="THB" value="5600" >}}
+   價格：{{< currency 5600 THB >}}
    檢查專案：CBC、電解質、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 兩位泰國精神科醫生的證明：
-   價格：{{< currency from="THB" value="4000" >}}
+   價格：{{< currency 4000 THB >}}
+1. 核酸檢測費用（似乎已經不要求）：
+   價格：{{< currency 5900 THB >}}
 
 ## 手術介紹
 
 Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 
-全身麻醉後，沿 Denonvilliers 筋膜在直腸和泌尿道之間進行一次新陰道腔剝離術，深度約為 5 ~ 7 英寸。皮瓣 SRS 使用陰莖和陰囊皮膚作為陰道內壁和陰道口，材料不足時使用腹股溝皮片。腹膜 SRS 則使用腹腔鏡取腹膜作為陰道內壁，使用陰莖皮膚作為陰道口。可實現相對充分的分泌。陰莖的核心和筋膜將被切除，感覺神經將被保留下來，用於製造陰蒂和陰蒂罩。切除睪丸，尿路將會變短、變形，海綿組織將會切除，以便尿液像女性一樣流出。
+全身麻醉後，沿 Denonvilliers 筋膜在直腸和泌尿道之間開闢新陰道腔，深度約為 5 ~ 7 英寸。皮瓣 SRS 使用陰莖和陰囊皮膚作為陰道內壁和陰道口，材料不足時使用腹股溝皮片。腹膜 SRS 則使用腹腔鏡取腹膜作為陰道內壁，使用陰莖皮膚作為陰道口。
+
+陰莖的核心和筋膜將被切除，神經將被保留下來用於製造陰蒂。尿路將會變短、變形，海綿組織將會切除。
 
 對於使用了腹腔鏡的結腸與腹膜 SRS，可以避免在手術部位留下顯著的疤痕，但會在肚子上形成 4 個小拇指指甲蓋大小的傷口。由於這一技術相對較新，存在更多併發症的風險。
 
@@ -58,43 +83,42 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 
 腹膜技術只有近兩年比較新，有長息肉、萎縮或有其它後遺症的情況，而且腹膜的延展性沒那麼好，通模具要大力，會比較疼。
 
-官方網站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
+有多個報告稱每日可能有大於一臺手術。
 
 ## 預約事項
 
-1. 確認手術日期後，需提前支付 10% 手術費用作為定金。
-1. 必須至少 20 歲。18-20 歲則需要合法父母或監護人授權他們進行手術。
+1. 應當至少 20 歲。18-20 歲則需要合法父母或監護人授權他們進行手術。對於不符合年齡限制被拒絕或無法出國造成無法手術的情況不能退還定金。{{<local zh-cn>}}（注：經瞭解泰國政府與院方並未針對不滿 20 歲者拒絕手術或提高門檻或索要超出常規的證明檔案（尤其泰國人根本不感興趣你全家戶口和身份證），此類行為可能是中文中介的個人行為）{{</local>}}
 1. 必須連續服用女性荷爾蒙至少一年。
 1. 必須長時間的認為自己是女性。
 1. 至少度過了一年的女性生活。
 1. 必須對自己的性器官感到厭惡，彷彿那並不是自己身體的一部分。
 1. 經過精神醫生證明處於正常精神狀態，適合進行性別轉換手術。
 1. 無法對 HIV 陽性的顧客進行結腸 SRS
-1. 結腸 SRS 要求 BMI < 25
+1. 結腸 SRS 要求 BMI < 26，體重 < 80KG；其他術式 BMI < 30，體重 < 90KG
 
 如有以下情況會產生額外收費：
 
-- 艾滋病：總費用的 50％
+- 艾滋病：總費用的 30％
 - 丙型肝炎：總費用的 30％
 - 乙肝：總費用的 30％
 - 深靜脈血栓形成：總費用的 30％
 - BMI 超過 27：總費用的 30％
 - ≥ 50 歲或 ≥ 40 歲且患有基礎疾病（例如哮喘，高血壓，心臟病，糖尿病，深靜脈血栓形成等）的顧客：運動壓力測試（EST）
-  價格：{{< currency from="THB" value="7700" >}}
+  價格：{{< currency 7700 THB >}}
 - 心臟病專家探訪
-  價格：{{< currency from="THB" value="1000" >}} ~ {{< currency from="THB" value="5000" >}}
-  這些疾病所需的藥物或任何治療費用不包括在手術費用中（睡眠檢查，CTA 冠狀動脈檢查，肺 部檢查，甲狀腺檢查等）
+  價格：{{< currency 1000 THB >}} ~ {{< currency 5000 THB >}}
+  這些疾病所需的藥物或任何治療費用不包括在手術費用中（睡眠檢查，CTA 冠狀動脈檢查，肺部檢查，甲狀腺檢查等）
 
 ## 手術日程
 
-非結腸：
-```csv
-時間節點（天）,進度
--2,流食
-1,手術
-3,拆引流管
-6,拔尿管 出院
-```
+皮瓣：
+禁食 6 小時，灌腸一次，術後三天流食
+結腸：
+流食三天，禁食兩天，術後待補充
+腹膜：
+禁食 18 小時，灌腸 8-10 次，術後流食
+
+三種術式拔尿管時間統一為出院後第二或第三個工作日
 
 - 結腸術後 3 天禁食，1 個月內避免大量進食。
 - 結腸術後 3 周後可進行輕度活動，直至 3 個月。
@@ -111,10 +135,8 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 ## 術後評價
 
 - 腹膜 2021 年
-  {{< expand "展開檢視" >}}
-  ![srs-photo](/images/srs/thailand/kamol/post1.jpg)
-  {{< /expand >}}
+  {{< hiddenphoto "/images/srs/thailand/kamol/post1.jpg" >}}
 
 ## 內容參考
 
-[Gogo變成貓貓了——SRS日誌](https://blog.gogo.moe/Gogo%E5%8F%98%E6%88%90%E7%8C%AB%E7%8C%AB%E4%BA%86/)
+[Gogo 變成貓貓了——SRS 日誌](https://blog.gogo.moe/gogo_became_a_cat/)

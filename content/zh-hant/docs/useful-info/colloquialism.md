@@ -18,7 +18,7 @@ MtF：跨性別女性。
 
 ## GD
 
-GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https://zh.wikipedia.org/zh-tw/性別不一致)
+GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https://zh.wikipedia.org/wiki/性別不一致)
 
 ## 糖
 
@@ -30,7 +30,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 
 ## 年齡黨
 
-名詞。在 [青春期早期](https://zh.wikipedia.org/zh-cn/青春期#階段) 進行 HRT 治療的跨兒。
+名詞。在 [青春期早期](https://zh.wikipedia.org/wiki/青春期#階段) 進行 HRT 治療的跨兒。
 
 ## 天賦黨
 
@@ -52,7 +52,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
 
 ## 魔法黨
 
-指中文 GalGame [<del>破防</del>戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/恋爱绮谭)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/苏半夏)。
+指中文 GalGame [~~破防~~戀愛綺譚~不存在的夏天~](https://zh.moegirl.org.cn/恋爱绮谭)（[Steam](https://store.steampowered.com/app/1345740)）中的 MtF 女主角[蘇半夏](https://zh.moegirl.org.cn/苏半夏)。
 
 <p class="text-center">
     我啊，希望自己能做一個普通的女孩子。
@@ -60,9 +60,7 @@ GD 即為 gender dysphoria 的縮寫，意為 [性別不安/性别焦虑](https:
     <span title="你知道的太多了" class="shadow-text">「對我來說，做一個普通的女孩子，只是一種奢望。」</span>
 </p>
 
-{{< expand "謹慎展開">}}
-![33CLL](/images/meme/33cll.png)
-{{< /expand >}}
+{{< hiddenphoto "/images/meme/33cll.png" >}}
 
 ## 藥娘頭
 

@@ -1,0 +1,13 @@
+# see https://github.com/actions/labeler
+
+hrt:
+  - '**/docs/hrt/*'
+  - '**/docs/medicine/*'
+
+srs:
+  - '**/docs/srs/*'
+  - '**/docs/ffs/*'
+
+psycho:
+  - '**/docs/psyco/*'
+  - '**/docs/psycho/*'

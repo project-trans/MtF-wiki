@@ -4,21 +4,34 @@ title: 通俗用语表
 
 以下解释均为一般化理解，仅供参考。
 
+## 木桶饭 {#mtf}
+
+木桶饭 源于 **M**ale-**t**o-**F**emale 缩写的拼音联想（**M**ù **t**ǒng **F**àn）。
+
+飞天猫 与之类似（**F**ēi **t**iān **M**āo）。
+
 ## 伪娘、药娘、MtF？
 
 MtF：跨性别女性。
 
-伪娘/女装大佬：详见 [这里]({{< ref "abbreviation#cd" >}})。指打扮、着装、行为女性化的男性，一般指女装男子；但也有自称伪娘者，实为可以接纳男儿身的跨性别女性（其可能不知道跨性别的概念，也没有过于严重的性别焦虑）。
+伪娘/女装大佬：详见 [这里]({{< ref "abbreviation#cd" >}})。
+指打扮、着装、行为女性化的男性，一般指女装男子；
+但也有自称伪娘者，实为可以接纳男儿身的跨性别女性（其可能不知道跨性别的概念，也没有过于严重的[性别焦虑]({{< ref "#gd" >}})）。
 
-药娘：**该词语在台湾具有冒犯意味**。指通过激素治疗(HRT)使自身女性化的人群。药娘通常是跨性别女性，但也有非二元性别、伪娘等使用激素。**MtF 不都是药娘，药娘不一定是 MtF.**
+药娘：**该词语在台湾具有冒犯意味**。
+指通过 [HRT]({{< ref "hrt-overview" >}}) 治疗使自身女性化的人群。
+药娘通常是跨性别女性，但也有非二元性别、伪娘等使用激素。
+**MtF 不都是药娘，药娘不一定是 MtF。**
 
-## Pass
+## Pass {#pass}
 
 形容词。指性别表达取得第三者视角认同。
 
-## GD
+通过 [HRT]({{< ref "hrt-overview" >}}) 可改善 pass 焦虑，具体可见 [HRT 效果参考]({{< ref "hrt-overview#effects" >}})
 
-GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百度百科](https://baike.baidu.com/item/性别不安) | [维基百科](https://zh.wikipedia.org/zh-cn/性別不一致)）
+## GD {#gd}
+
+GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百度百科](https://baike.baidu.com/item/性别不安) | [维基百科](https://zh.wikipedia.org/wiki/性別不一致)）
 
 或可参见 [这就是性别烦躁，供参考](https://genderdysphoria.fyi/zh/)
 
@@ -32,7 +45,7 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 年龄党
 
-名词。在 [青春期早期](https://zh.wikipedia.org/zh-cn/青春期#阶段) 进行 HRT 治疗的跨儿。
+名词。在 [青春期早期](https://zh.wikipedia.org/wiki/青春期#阶段) 进行 HRT 治疗的跨儿。
 
 ## 天赋党
 
@@ -62,9 +75,7 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
     <span title="你知道的太多了" class="shadow-text">「对我来说，做一个普通的女孩子，只是一种奢望。」</span>
 </p>
 
-{{< expand "谨慎展开">}}
-![33CLL](/images/meme/33cll.png)
-{{< /expand >}}
+{{< hiddenphoto "/images/meme/33cll.png" >}}
 
 ## 药娘头
 

@@ -3,7 +3,7 @@ title: "严厉谴责一小撮破坏社会主义和谐社会建设的敌对分子
 description: ""
 date: 2022-03-16T22:33:45+08:00
 draft: false
-Author: "MtF wiki 工作组"
+Author: "MtF.wiki 工作组"
 enableToc: false
 ---
 

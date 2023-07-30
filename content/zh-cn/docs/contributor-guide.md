@@ -2,18 +2,22 @@
 title: 贡献者指南
 ---
 
-贡献方式：
+## 贡献方式 {#method}
 
-1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 [![GitHub issues][badge-github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new/choose) （该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
-<!-- 1. 不会 GitHub 操作，[GitHub 注册并贡献教程 - limelight](https://limelight.moe/t/topic/9639)（Limelight 正在改革中，暂停用户注册） -->
+1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "project-trans/mtf-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
 1. 发送邮件到 <hi@mtf.wiki>
-1. 在 [TransLand](https://chat.transland.lgbt) 发布主题
 
-[badge-github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
+## 基本原则 {#basic-principle}
 
-{{< notice info "友情提醒" >}}
-绝对不要做出任何道德绑架的行为！！！
-{{< /notice >}}
+1. 绝对不要做出任何 {{< wiki 道德绑架 >}} 的行为
+1. 为了保证内容的 {{< wiki 客观性 >}}，因此不受理虚构内容
+1. 不应存在显著的 {{< wiki 谬误 >}}，亦可对照 {{< wiki 谬误列表 >}} 进行检查
+1. 不应存在明显的 {{< wiki 认知偏差 >}}，亦可对照 {{< wiki 认知偏差列表 >}} 进行检查
+1. 使用 [性别包容性语言][inclusive-language] 描述避免触发读者的 性别焦虑
+1. 对于“缺乏真实案例报告”的内容，应当创建 [issue][new-issue] 后并记录至 [未确认列表]({{< ref "unconfirmed" >}})
+
+[new-issue]: https://github.com/project-trans/MtF-wiki/issues/new/choose
+[inclusive-language]: https://www.un.org/zh/gender-inclusive-language/guidelines.shtml
 
 ## HRT/诊断证明 {#proof}
 
@@ -30,14 +34,13 @@ title: 贡献者指南
 
 1. 您对于医生的印象/属性 tag（如：「一次过」、「可与家长沟通」 等）可能不会第一时间更新在医生页面上，我们需要进行多方求证（来自不同来源/时期的报告）。
 1. 对于需要标注 「跨性别友好」 的医生，我们需要进行多方求证（来自不同来源/时期的报告）。
-1. 在编写内容时请遵循 **「未常态化、无普遍性则不提及」** 的原则，尽量不要在贡献内容中提及不具有时效性（长期有效）或存在特殊情况的内容，尽量确保严谨性，但此类情况可以在贡献时注释。
+1. 在编写内容时请尽量不要包含强时效性（可能短期内过期）或存在特殊情况的内容，比如周更的出诊时间表，这种情况可以给出获取最新信息的方式。\
+如果你觉得自己提及了一些强时效性的内容，且是必要的，可以在上标中标注时间（如：我可以吞下玻璃而不伤身体<sup>2023-03-31</sup>）。
 1. 问诊细节原则上需要清晰、明确的表述，如果对方愿意开具比较详细的病历请务必要求开具相关病历。并且可随医生信息一同上传其开具的病历（图片）以供参考。
 1. 由于科室不同，开具诊断证明的医生没有权利开具 HRT 处方，开具 HRT 处方的医生没有权利开具诊断证明，这是基本常识。望贡献者在撰写医生介绍的时候切记。
-1. 假如某位医生信息被编入 wiki 后表示自己不愿意被公开信息，我们将遵从其主观意愿将有关词条删除并列入过时名单。
+1. 假如某位医生信息被编入 wiki 后表示自己不愿意被公开信息，我们将遵从其主观意愿将有关条目删除并列入 [已过时列表]({{< ref "outdated" >}})。
 
-## SRS {#srs}
-
-## 报告新的 SRS 医生
+## 报告新的 SRS 医生 {#srs}
 
 1. 医生姓名
 1. 所在医院
@@ -50,41 +53,13 @@ title: 贡献者指南
 
 见：[手术评价方法]({{< ref "srs-compraise" >}})
 
-## 校园指南撰写指南 {#campus}
-
-### 撰稿要素
-
-1. 院校名称
-1. 地理位置
-1. 居住环境
-1. 军训与体育
-1. 校内医疗
-1. LGBT 梗概
-1. 署名（可选）
-
-### 撰稿原则
-
-1. 原则上不提及任何 **具体** 的 **教职工名字**
-1. 地理位置，原则上使用「地图 POI」表示
-   如果该校区远离市区、车站、医院需要特别指出，对于附近的商圈原则上不需要说明
-1. 居住环境，建议引用 <https://colleges.chat> 予以代替
-   主要关注厕所情况（教学区有无第三卫生间，宿舍有无独卫）与 洗澡情况（独浴 or 公共澡堂，公共澡堂私密度情况）
-1. 军训与体育，原则上只谈及是否可以协商减免 或 用跨性别相关医疗证明减免
-1. 校内医疗，如果提供性激素六项检测服务与激素药物的开具请特别指出
-1. LGBT 梗概，如果不利于 MtF 生存请特别指出
-   对于该校现存 MtF 数量不需要特别指出（考虑到时效性问题）
-1. 如有可以流程性（不需要走关系、打官司）修改毕业证的情况，请务必特别指出。
-1. 署名，如果您希望被「校友」联络请留下您的电子邮件
-   对于其他的联络方式请考虑他的未来可用性
-
-详细指南请看 [这里](/zh-cn/blog/campus.pdf)
-
 ## 关于附加资源
 
 ### 图片处理
 
 如果图片为对纸质材料的拍摄，请使用 Microsoft Lens (fbk Office Lens) 进行处理以便于提供更好的阅读体验，当然，如果有条件的话建议提供扫描件。
-如果您不会相关的后处理（可以将该图片提交至 <hi@mtf.wiki> 由我们进行脱敏后进行上传）
+照片中的 {{< wiki Exif >}} 信息可能包含设备型号、拍摄时间和地理位置等信息。建议您在上传前[移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。
+如果您不会相关的后处理，可以将该图片提交至 <hi@mtf.wiki> 由我们脱敏后进行上传。
 
 [Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)
@@ -97,13 +72,14 @@ title: 贡献者指南
 - 图片类附件建议建议存放至 [`/static/images/`][images] 目录下，在正文中使用 `/images/+路径` 的方式引用；
 - PDF 等文档类附件建议存放至 [`/static/documents/`][documents] 目录下，在正文中使用 `/documents/+路径` 的方式引用；
 
-[images]: https://github.com/mtf-wiki/MtF-Wiki/tree/master/static/images/
-[documents]: https://github.com/mtf-wiki/MtF-Wiki/tree/master/static/documents/
+[images]: https://github.com/project-trans/MtF-wiki/tree/master/static/images/
+[documents]: https://github.com/project-trans/MtF-wiki/tree/master/static/documents/
 
 ### 表格
 
-表格类说明建议使用内嵌 [CSV](https://zh.wikipedia.org/wiki/CSV) 格式
+表格类说明建议使用内嵌 {{< wiki CSV >}} 格式
 
+<!-- markdownlint-disable-next-line -->
 ````
 ```csv
 表头1,表头2,表头3

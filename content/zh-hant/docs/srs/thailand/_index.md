@@ -1,5 +1,5 @@
 ---
 title: 泰國
-weight: 12
+weight: 2000
 collapsible: true
 ---

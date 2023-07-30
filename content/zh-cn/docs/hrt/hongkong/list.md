@@ -19,5 +19,5 @@ title: 私家内分泌科诊所
   电邮地址：<winnielau@ej.com.hk>
   地址：九龙尖沙咀广东道 5 号海港城海洋中心 14 楼 1428 室
   诊金 (不包括药费)：
-  首次 {{< currency from="HKD" value="800" >}} - {{< currency from="HKD" value="1200" >}}
-  其后 {{< currency from="HKD" value="500" >}} - {{< currency from="HKD" value="800" >}}
+  首次 {{< currency 800 HKD >}} - {{< currency 1200 HKD >}}
+  其后 {{< currency 500 HKD >}} - {{< currency 800 HKD >}}

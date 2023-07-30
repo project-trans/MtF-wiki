@@ -1,7 +1,7 @@
 ---
 title: 術前科普
-weight: 1
 slug: faq
+weight: 100
 ---
 
 ## Why SRS? SRS 能做到什麼? 我應當考慮 SRS 嗎?
@@ -10,7 +10,7 @@ SRS 並不是對每個跨性別者都是必須的，其直接作用僅僅是將�
 
 在社會身份等方面，SRS 的影響是相對間接的。此外在進行良好的 HRT 的基礎上，SRS（或單進行性腺切除）對內分泌方面進一步女性化的影響相對有限，而長期 HRT（即使使用色普龍）的風險也並非不可控。
 
-[WPATH](https://en.wikipedia.org/wiki/WPATH) 指南對 SRS 在術前的 HRT 和 RLE 時長上有著嚴格的規定，但每個個體的狀況不一。
+{{< wiki WPATH en >}} 指南對 SRS 在術前的 HRT 和 RLE 時長上有著嚴格的規定，但每個個體的狀況不一。
 
 性別焦慮有著不同的指向：
 
@@ -30,4 +30,4 @@ SRS 並不是對每個跨性別者都是必須的，其直接作用僅僅是將�
 
 ## 參考資料
 
-[SRS FAQ · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/161673959)（連結失效）
+[SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)

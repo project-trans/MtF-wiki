@@ -2,6 +2,5 @@
   {{ partial "main/header.html" . }}
 {{ end }}
 {{ define "main" }}
-  {{ $section_to_display :=  .Pages }}
-  {{ partial "main/list.html" (dict "context" . "section_to_display" $section_to_display) }}
+  {{ partial "main/list.html" (dict "context" . "section_to_display" .Pages) }}
 {{ end }}

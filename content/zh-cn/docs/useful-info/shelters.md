@@ -16,4 +16,4 @@ title: 庇护所
 
 状态：已终止运营
 
-申请入住规范：<https://zhuanlan.zhihu.com/p/31846884>
+申请入住规范：<https://zhuanlan.zhihu.com/p/31846884> (<https://archive.is/F4Iy1>)

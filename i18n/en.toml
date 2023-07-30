@@ -21,3 +21,6 @@ other = "min read"
 
 [single-writtenBy]
 other = "WRITTEN BY"
+
+[click-to-show]
+other = "Click to Show"

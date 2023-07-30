@@ -1,6 +1,5 @@
 ---
 title: Kamol
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国, Kamol, 咖蒙]
 ---
 
 {{< tag/pos "WPATH 成员" >}}
@@ -11,29 +10,45 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 所在医院：[Kamol Cosmetic Hospital](https://goo.gl/maps/oMMRQotSXqQSmvC48)
 
-邮箱：<customercare@kamolhospital.com>
+官方网站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
 
-微信：{{< shields/wechat "xiaofeitum2" >}}
+邮箱：<customercare@kamolhospital.com>
 
 电话：{{< telephone "+66 2559-0155" >}}
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
+## 中介联系
+
+这里的微信均为中文中介，已无医院在职员工。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院。[点击前往相关讨论页面](https://github.com/project-trans/MtF-wiki/issues/760)
+
+{{< shields/wechat "xiaofeitum2" >}}
+做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为
+
+{{< shields/wechat "wuyanlii" >}}
+据 [讨论](https://github.com/project-trans/MtF-wiki/issues/760) 存在手术前几天临时加价、且拒绝加价则威胁扣留签证的行为。参考阅读上面的讨论页面。建议谨慎交出签证原件。
+
+## 翻译陪护
+
+Jessica (自身为 MtF，可带其他医生) {{< shields/wechat "JessicaLee9985" >}} {{< shields/telegram "jessicalee85" >}}
+
 ## 手术费用
 
-- 0 深度 {{< currency from="THB" value="257250" >}}
-- PI 皮瓣 {{< currency from="THB" value="300300" >}}
-- 非 PI 皮瓣 {{< currency from="THB" value="321000" >}}
-- 非 PI + 腹股沟皮瓣 {{< currency from="THB" value="320000" >}} ~ {{< currency from="THB" value="336000" >}}
-- 结肠 {{< currency from="THB" value="472500" >}}
-- 结肠（腹腔镜） {{< currency from="THB" value="577500" >}}
-- 腹膜（腹腔镜）{{< currency from="THB" value="592800" >}}
+```csv
+手术方式,价格
+0 深度,{{< currency 275000 THB >}}
+仅阴茎翻转 PI 皮瓣,{{< currency 321000 THB >}}
+阴囊皮瓣,{{< currency 11500 USD >}} 含宿与术前费用
+结肠,{{< currency 500000 THB >}}
+结肠（腹腔镜）,{{< currency 630000 THB >}}
+腹膜,{{< currency 650000 THB >}}
+```
 
-支持 中国银联卡、VISA 卡、支付宝 付款（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）
+支持 银联卡、国际信用卡、支付宝 付款{{<local zh-cn>}}（支付宝建议出国前将钱全部存入余额，避免出现因银行卡的每日限额导致钱存不进的情况）{{</local>}}
 
 酒店费用：出院后，前 14 天须在下方指定酒店进行恢复，之后可自行选择其他酒店。需要 3 ~ 4 周左右。
 
-- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency from="THB" value="1500" >}} 每天
+- [K Garden Serviced Apartment](https://goo.gl/maps/KgduQ7qAiJ1Rei7d9): {{< currency 1500 THB >}} 每天
 
 手术费用包括：
 
@@ -47,10 +62,12 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 手术费用不包括：
 
 1. 实验室检查费用：
-   价格：{{< currency from="THB" value="5600" >}}
+   价格：{{< currency 5600 THB >}}
    检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
-   价格：{{< currency from="THB" value="4000" >}}
+   价格：{{< currency 4000 THB >}}
+1. 核酸检测费用（似乎已经不要求）：
+   价格：{{< currency 5900 THB >}}
 
 ## 手术介绍
 
@@ -66,43 +83,42 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 腹膜技术只有近两年比较新，有长息肉、萎縮或有其它后遗症的情况，而且腹膜的延展性没那么好，通模具要大力，会比较疼。
 
-官方网站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
+有多个报告称每日可能有大于一台手术。
 
 ## 预约事项
 
-1. 确认手术日期后，需提前支付 10% 手术费用作为定金。
-1. 必须至少 20 岁。18-20 岁则需要合法父母或监护人授权他们进行手术。
+1. 应当至少 20 岁。18-20 岁则需要合法父母或监护人授权他们进行手术。对于不符合年龄限制被拒绝或无法出国造成无法手术的情况不能退还定金。{{<local zh-cn>}}（注：经了解泰国政府与院方并未针对不满 20 岁者拒绝手术或提高门槛或索要超出常规的证明文件（尤其泰国人根本不感兴趣你全家户口和身份证），此类行为可能是中文中介的个人行为）{{</local>}}
 1. 必须连续服用女性荷尔蒙至少一年。
 1. 必须长时间的认为自己是女性。
 1. 至少度过了一年的女性生活。
 1. 必须对自己的性器官感到厌恶，仿佛那并不是自己身体的一部分。
 1. 经过精神医生证明处于正常精神状态，适合进行性别转换手术。
 1. 无法对 HIV 阳性的顾客进行结肠 SRS
-1. 结肠 SRS 要求 BMI < 25
+1. 结肠 SRS 要求 BMI < 26，体重 < 80KG；其他术式 BMI < 30，体重 < 90KG
 
 如有以下情况会产生额外收费：
 
-- 艾滋病：总费用的 50％
+- 艾滋病：总费用的 30％
 - 丙型肝炎：总费用的 30％
 - 乙肝：总费用的 30％
 - 深静脉血栓形成：总费用的 30％
 - BMI 超过 27：总费用的 30％
 - ≥ 50 岁或 ≥ 40 岁且患有基础疾病（例如哮喘，高血压，心脏病，糖尿病，深静脉血栓形成等）的顾客：运动压力测试（EST）
-  价格：{{< currency from="THB" value="7700" >}}
+  价格：{{< currency 7700 THB >}}
 - 心脏病专家探访
-  价格：{{< currency from="THB" value="1000" >}} ~ {{< currency from="THB" value="5000" >}}
-  这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺 部检查，甲状腺检查等）
+  价格：{{< currency 1000 THB >}} ~ {{< currency 5000 THB >}}
+  这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺部检查，甲状腺检查等）
 
 ## 手术日程
 
-非结肠：
-```csv
-时间节点（天）,进度
--2,流食
-1,手术
-3,拆引流管
-6,拔尿管 出院
-```
+皮瓣：
+禁食 6 小时，灌肠一次，术后三天流食
+结肠：
+流食三天，禁食两天，术后待补充
+腹膜：
+禁食 18 小时，灌肠 8-10 次，术后流食
+
+三种术式拔尿管时间统一为出院后第二或第三个工作日
 
 - 结肠术后 3 天禁食，1 个月内避免大量进食。
 - 结肠术后 3 周后可进行轻度活动，直至 3 个月。
@@ -119,10 +135,8 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 ## 术后评价
 
 - 腹膜 2021 年
-  {{< expand "展开查看" >}}
-  ![srs-photo](/images/srs/thailand/kamol/post1.jpg)
-  {{< /expand >}}
+  {{< hiddenphoto "/images/srs/thailand/kamol/post1.jpg" >}}
 
 ## 内容参考
 
-[Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/Gogo变成猫猫了/)
+[Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/gogo_became_a_cat/)

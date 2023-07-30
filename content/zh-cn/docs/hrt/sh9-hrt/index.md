@@ -4,13 +4,13 @@ description: 上海九院提供跨性别序列治疗
 slug: sh9
 ---
 
-本文大部分内容基于 [上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw) 和 [上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw) 撰写。
+本文大部分内容基于 [上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw) (<https://archive.is/4TZhr>) 和 [上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw) (<https://archive.is/WfX7x>) 撰写。
 
 （虽然这里是 上海九院，但是 上海六院 用男证可以挂妇科）
 
 医生姓名：[程辰](https://www.haodf.com/doctor/3308881283.html)
 
-所在医院：[上海第九人民医院（南部）- 新门诊楼](https://amap.com/place/B0FFHGMHTC)
+所在医院：[上海第九人民医院（南部）- 新门诊楼](https://amap.com/place/B0FFFZY3L4)
 
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/3308881283.html>
 
@@ -27,7 +27,7 @@ slug: sh9
 
 - 如非周六就诊，建议早点去、空腹去，这样血液检查可以和其他所有检查一起当天就做掉，不用多跑一次了。如果在别的医院有做过检查，建议都带上，这样可以节约不少开支。
 
-就诊地点位于新门诊大楼，不是 10 号楼急诊。[AMap](https://surl.amap.com/lFB8mBri3X3) [Apple Map](https://maps.apple.com/?address=Quxi%20Road%20No.500,%20Huangpu,%20Shanghai%20China&auid=1118368604912837&ll=31.201690,121.487349&lsp=57879&q=Shanghai%20Ninth%20People's%20Hospital,%20Shanghai%20Jiaotong%20University%20School%20of%20Medicine%20South%20Hospital%20Out-patients%20Building&_ext=CjEKBAgEEAQKBAgFEAMKBAgGEAoKBAgbEAMKBAhSEAkKBAhVEA4KBAhZEAEKBQikARABEiQpTfaKM0sxP0AxBslBqWleXkA5xOs/pvA1P0BBPapbnfBfXkA%3D&t=r)
+就诊地点位于新门诊大楼，不是 10 号楼急诊。
 
 进入 1 楼大厅后，直接去挂号窗口/挂号机器排队挂号。如果你持有医保卡或仅有身份证，你需要在窗口/机器办一张就诊卡。
 
@@ -37,11 +37,12 @@ slug: sh9
 
 因为普通号的原因，可能你的号并不一定为程医生接诊，如果为其他医生，进诊室直接说明情况之后会让你去程医生那边接着等待，可以在其他人问诊完之后去程医生诊室询问。
 
+若挂跨性别专科，首次进诊室后可能会被提供一张二维码完成一份问卷（并不是量表），在诊室外完成，之后会有二次叫号。
+
 （建议）携带「易性症」证明。(目前，九院的 HRT 认可所有三甲医院给出的诊断证明，以及有实践表明，九院hrt也认可回龙观病历，是否认可其他三甲医院病历存疑。)
 
 {{< expand "知情同意书" >}}
-![ICF (1/2)](icf-p1.jpg)
-![ICF (2/2)](icf-p2.jpg)
+{{< gallery pattern="icf-*" >}}
 {{< /expand >}}
 
 对于未自行服药者，回去后一定要仔细地看完这份文件，如果还是决定要开展 HRT 的话，下次复诊时需要签好字带过来。
@@ -55,17 +56,23 @@ slug: sh9
 ### 检查项目及地点（更新于 2021 年 11 月 18 日）
 
 - 首次检查费用可能不超过 2000，检查费贵是因为首次就诊希望查得全面一点，后续的检查每 3 个月一次，每次 100 - 200 元。最贵的彩超如果没有问题的话可以一年做一次。如果经济有困难记得和九院医生说，可以酌情删减检查项。
-- 不能刷医保卡是因为九院整形科整个科室都是自费，且「易性症」没有纳入医保。如果需要刷医保卡，可以告诉九院医生，九院医生在病历本上注明需要的检查，然后去挂普外科/内分泌等科室的号，或者去外院做检查。
+- 不能刷医保卡是因为九院整形科整个科室都是自费，且「易性症」没有纳入医保。如果需要刷医保卡，可以告诉九院医生，九院医生在病历本上注明需要的检查，然后去挂普外科/内分泌等科室的号，或者去外院做检查。已知九院认可上海第五人民医院的检查报告，推测至少其他三乙以上医院报告也可以。
 - 九院默认的激素六项可能不是 wiki 所说的激素六项，请说明是性激素六项。
 - 血液检查需要空腹。
 
 {{< expand "收费明细" >}}
 以下项目可能不准确，仅供参考。
-血液检查项目：CRP + 血常规、凝血、肝功能、电化学、乙肝三对半、性激素六项、HIV + TRUST
-超声检查项目：乳腺及掖窝淋巴结、甲状腺、双下肢动脉、双下肢静脉
+
+血液检查项目：血常规、肝肾功能、血脂、血糖+糖化血红蛋白、凝血、甲状腺功能
+
+超声检查项目：乳腺、甲状腺
+
 骨科项目：骨密度
-![Precheck (1/2)](precheck-1.png)
-![Precheck (2/2)](precheck-2.png)
+
+> 以下检查单为上海第五人民医院报价，其他医院可能不同。
+
+{{< gallery pattern="precheck-*" >}}
+
 {{< /expand >}}
 
 周六没有超声检查、骨科检查。超声可能需要预约。
@@ -87,11 +94,15 @@ B 超（~~照奶子~~）当场有结果。
 报告都拿到手之后，就带着所有报告以及自己签字的知情同意书「三刷」程医生或跨性别专科
 
 {{< expand "配药清单" >}}
-![Dispensing list](dispensing-list.png)
+
+{{< gallery pattern="dispensing-list-*" >}}
+
 备注：2022 年 1 月 8 号更新———现在九院已经愿意提高 HRT 处方上的补佳乐用量至 2mg 了（可能需要特别说明提高的意向才会开）（~~好耶比原来翻了一番~~）
+
+备注：2023 年 5 月 9 号更新———现九院已可开补佳乐 3mg 每日处方，但凝胶因本院无备药无法开出。另抗雄激素类用药可开出比卡鲁胺（可能需要本人过往使用历史）。
 {{< /expand >}}
 
-约定 3 周后复诊，如果有突然的不适一定提前回去复诊。还有提供一张情况记录表。
+约定 3 周后复诊，如果有突然的不适一定提前回去复诊。还有提供一张情况记录表。（不是每个人都会要求复诊，这种情况下请务必记得定期体检）
 
 {{< expand "随访表" >}}
 ![Follow-up form](follow-up-form.webp)

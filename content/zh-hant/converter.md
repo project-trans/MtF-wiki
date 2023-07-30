@@ -17,18 +17,16 @@ draft: false
       border-radius: 0.25rem;
       /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
       padding: 1px;
-      height: 1.5em;
+      height: 2em;
     }
-
     select {
       color: #495057;
       border: 1px solid #ced4da;
       border-radius: 0.25rem;
       /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
       padding: 1px;
-      height: 1.5em;
+      height: 2em;
     }
-
     input:focus {
       color: #495057;
       outline: 0;

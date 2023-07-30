@@ -10,7 +10,7 @@ description: "胸圍計算"
     border-radius: 0.25rem;
     /*transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;*/
     padding: 1px;
-    height: 1.5em;
+    height: 1.8em;
     width: 50px;
   }
   input:focus {
@@ -63,7 +63,7 @@ description: "胸圍計算"
     } else if (cup<=20){
       cup = "E";
     }else{
-      window.document.getElementById("result").innerHTML = "妳胸大妳說了算（罩杯超出 MtF wiki 預設）";
+      window.document.getElementById("result").innerHTML = "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
       return;
     }
     if (isNaN(xia)) {
