@@ -2,9 +2,9 @@
 title: "疫情特辑：泰国旅行指南"
 description: "本篇讲述在疫情防控下进行赴泰国手术的内容"
 date: 2022-07-07T01:50:00+08:00
-draft: false
+draft: true
 enableToc: true
-author: "MtF wiki 工作组"
+author: "MtF.wiki 工作组"
 ---
 
 {{< notice info >}}
@@ -68,7 +68,7 @@ author: "MtF wiki 工作组"
 
 如乘机前核酸检测，乘机前隔离
 
-大使馆网站：<http://th.china-embassy.gov.cn/>
+大使馆网站：<http://th.china-embassy.gov.cn>
 
 回到中国后，如果发现隔离酒店收费离谱，可以直接拒绝付款，说自己没钱（把钱全部转到亲人、朋友账上），这个烫手山芋政府自然会替你解决。
 

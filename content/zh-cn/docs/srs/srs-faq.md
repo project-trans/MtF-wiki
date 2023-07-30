@@ -2,7 +2,6 @@
 title: 术前科普
 slug: faq
 weight: 100
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS]
 ---
 
 ## Why SRS? SRS 能做到什么? 我应当考虑 SRS 吗?
@@ -11,7 +10,7 @@ SRS 并不是对每个跨性别者都是必须的，其直接作用仅仅是将�
 
 在社会身份等方面，SRS 的影响是相对间接的。此外在进行良好的 HRT 的基础上，SRS（或单进行性腺切除）对内分泌方面进一步女性化的影响相对有限，而长期 HRT（即使使用色普龙）的风险也并非不可控。
 
-[WPATH](https://en.wikipedia.org/wiki/WPATH) 指南对 SRS 在术前的 HRT 和 RLE 时长上有着严格的规定，但每个个体的状况不一。
+{{< wiki WPATH en >}} 指南对 SRS 在术前的 HRT 和 RLE 时长上有着严格的规定，但每个个体的状况不一。
 
 性别焦虑有着不同的指向：
 
@@ -29,6 +28,7 @@ SRS 并不是对每个跨性别者都是必须的，其直接作用仅仅是将�
 
 一个残酷的现实是，即使是完整的转变之后，我们也只是近乎得到了地球上另一半人生来就有的东西。在完成 SRS 以外，我们还有其它各方面的转变，以及更加重要的，其它所有的人生目标与追求。将 SRS 或转变视为唯一的人生目标，为之牺牲其它重要的机会，很可能是不明智的。
 
-## 参考资料
+## 参考阅读
 
 [SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)
+[PAI Burin 手术 90 天后写下的手术 FAQ](https://github.com/project-trans/basket-relay/discussions/4)

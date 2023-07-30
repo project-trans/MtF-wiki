@@ -34,4 +34,4 @@ title: 姓名变更相关
 
 四川据传不能加注，请务必事先确认。
 
-参阅 <https://www.zhihu.com/question/30301210>
+参阅 <https://www.zhihu.com/question/30301210/answer/628430817> (<https://archive.is/f5tGY>)

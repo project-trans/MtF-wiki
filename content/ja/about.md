@@ -1,36 +1,22 @@
 ---
-title: "MtF Wiki について"
-description: "MtF Wikiは、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。"
+title: "MtF.wiki について"
+description: "MtF.wikiは、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。"
 weight: 0
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-Wiki](/new/mtf-wiki-long.svg)
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
 
-{{<mtf-wiki>}}は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
+{{< project-trans >}} が運営する {{< mtf-wiki >}} は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
-計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)
+計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：[MtF.Wiki](https://mtf.wiki)
+<i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：<https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> ミラー：[mtfwiki.cn](https://mtfwiki.cn), [mtfwiki.com](https://mtfwiki.com)
+<i class="bi bi-link-45deg" aria-label="Website"></i> ミラー：<https://MtFwiki.cn>、<https://MtFwiki.com>
 
 兄弟サイト: <https://FtM.wiki>
-
-## コアメンテナ
-
-創設者: {{< github/profile "kenchiu233" "ケンチュウ" >}}
-
-{{< github/profile "CoelacanthusHex" "Coelacanthus" >}}&nbsp;<coelacanthus@outlook.com>
-
-{{< github/profile "saeziae" "山前">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
-
-{{< github/profile "llh721113" "珺妍" >}}&nbsp;<llh721113@outlook.com>
-
-{{< github/profile "septs" >}}&nbsp;<mtfwiki@septs.email>
-
-参加したい場合はご連絡ください！
 
 これらの GitHub の貢献者に感謝します：
 
@@ -38,18 +24,16 @@ weight: 0
 
 そして吾輩に助けと情報を与えてくれる他の素敵な人たち。
 
+参加したい場合はご連絡ください！
 ## 連絡
 
-Discord [![Discord][shields/discord]](https://233.plus/discord)
+Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
 
-Twitter {{< shields/twitter mtfwiki >}}
+Twitter {{< shields/twitter MtFwikiJapan >}}
 
-GitHub [![GitHub issues][shields/github]](https://github.com/mtf-wiki/MtF-Wiki/issues/new)
+GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 Email <hi@mtf.wiki>
-
-[shields/discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[shields/github]: https://img.shields.io/github/issues/mtf-wiki/MtF-Wiki?style=flat-square
 
 ## 感謝
 

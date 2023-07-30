@@ -1,8 +1,11 @@
-img.shields-icon {
-  display: inline-block;
-  vertical-align: text-bottom;
-  border: none;
-  border-radius: 0%;
+a.shields {
+  display: inline;
+  img {
+    display: inline;
+    vertical-align: text-bottom;
+    border: none;
+    border-radius: 0%;
+  }
 }
 a.github-profile {
   display: inline-block;
@@ -34,20 +37,22 @@ a.github-profile {
   }
 }
 .csv-table {
-  margin: 0;
+  width: max-content;
+  max-width: max-content !important;
   white-space: nowrap;
   th {
     text-align: center;
   }
 }
-.mtf-wiki {
-  span:nth-child(1),
-  span:nth-child(4) {
+.mtf-wiki > {
+  .c1 {
     color: #5bcefa;
   }
-  span:nth-child(2),
-  span:nth-child(3) {
+  .c2 {
     color: #f6a8b8;
+  }
+  .dot {
+    color: #ccc;
   }
 }
 .doctor-story {
@@ -123,6 +128,7 @@ span.shadow-text {
 }
 .qrcode > img {
   margin: 0 1rem 1rem;
+  padding: 0 1rem 1rem;
   border: 0;
 }
 .trans-flag {
@@ -141,5 +147,83 @@ a.anchor {
   &:focus {
     transition: color 0.15s ease-in;
     color: #96ccff;
+  }
+}
+.highlight {
+  code,
+  pre,
+  span {
+    font-family: "Courier New", Courier, monospace;
+    background-color: transparent !important;
+  }
+  .lntd code {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
+.footer__contents {
+  text-align: left;
+}
+div.hidden-photo {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  img {
+    transition: filter 0.3s;
+    filter: blur(25px);
+  }
+  .mask {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba($color: #000000, $alpha: 0.5);
+    transition: opacity 0.3s;
+    opacity: 1;
+    color: white;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+  }
+  &.show {
+    img {
+      filter: blur(0);
+    }
+    .mask {
+      opacity: 0;
+    }
+  }
+}
+.gallery {
+  display: flex;
+  overflow-x: auto;
+  padding: 0 1rem;
+
+  gap: 1rem;
+
+  img {
+    border-radius: 1rem;
+  }
+}
+.theme {
+  &__dark {
+    del {
+      opacity: 0.7;
+    }
+    .single {
+      &__contents {
+        .table-wrapper > table thead {
+          background-color: #403e41;
+        }
+        img {
+          background-color: unset;
+        }
+      }
+    }
   }
 }

@@ -1,14 +1,13 @@
 ---
-title: MtF Wiki
-description: MtF Wiki
-updatesBanner: "<a style='color:red;font-size:1.5em' href='blog/campus.pdf'>欢迎为校园指南版块投稿，帮助高考考生选择合适的学校</a>"
+title: MtF.wiki
+description: MtF.wiki
 landing:
   height: 700
   image: new/mtf-wiki-square.svg
   title:
-    - MtF Wiki
+    - MtF.wiki
   text:
-    - 欢迎来到 MtF Wiki．我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
+    - 欢迎来到 MtF.wiki．我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -23,25 +22,36 @@ footer:
   sections:
     - title: 项目
       links:
-        - title: 主页
+        - title: 主页 MtF.wiki
           link: https://mtf.wiki
         - title: 源码
-          link: https://github.com/mtf-wiki/MtF-Wiki
+          link: https://github.com/project-trans/MtF-wiki
+        - title: 导航站 2345.LGBT
+          link: https://2345.lgbt
+    - title: 动态
+      links:
+        - title: Twitter
+          link: https://mtf.wiki
+        - title: Telegram 频道
+          link: https://t.me/MtFwiki
     - title: 联系
       links:
-        - title: Discord
-          link: https://233.plus/discord
-        - title: Twitter
-          link: https://twitter.com/mtfwiki
-        - title: GitHub
-          link: https://github.com/mtf-wiki
         - title: 贡献者指南
           link: /zh-cn/docs/contributor-guide/
+        - title: Discord
+          link: https://link.mtf.wiki/discord
+        - title: Twitter
+          link: https://twitter.com/MtFwiki
+        - title: GitHub
+          link: https://github.com/project-trans
+        - title: 电子邮件
+          link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
-      <h2 class="mtf-wiki"><span>M</span><span>t</span>F <span>Wi</span><span>ki</span></h2>
-      <p>Copyright &copy; 2020-2022 MtF Wiki. All rights reserved.</p>
-      <blockquote align="left">如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。</blockquote>
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:1em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+
+      > 如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。
 ---

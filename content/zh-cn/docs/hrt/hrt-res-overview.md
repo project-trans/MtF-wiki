@@ -5,7 +5,7 @@ slug: overview
 weight: 1
 ---
 
-## 综述
+## 综述 {#overview}
 
 1. 未满 16 周岁时
    青春期的情况下需要使用 [GnRH]({{< ref "gnrha" >}}) 类似物进行青春期阻断治疗
@@ -35,5 +35,5 @@ weight: 1
     [华典]({{< ref "cyproterone#huadian" >}})
   - [螺内酯]({{< ref "spironolactone" >}})
 
-但是需要自行 [进行激素检查]({{< ref "hormone-check" >}}) 来调节用药
-具体用药方法参见 [HRT 总述]({{< ref "hrt-overview" >}})
+但是需要自行 [进行激素检查]({{< ref "monitoring" >}}) 来调节用药
+具体用药方法参见 [HRT 综述]({{< ref "hrt-overview" >}})

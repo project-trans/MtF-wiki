@@ -1,12 +1,11 @@
 logo = true
 logoImage = "/new/mtf-wiki-long.svg"
-logoText = "MtF Wiki"
+logoText = "MtF.wiki"
 logoType = "long" # long, short
-description = "MtF Wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
-
+description = "MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
 themeOptions = ["light", "dark"]
 
-useFaviconGenerator = true # https://www.favicon-generator.org/
+#useFaviconGenerator = false # https://www.favicon-generator.org/
 
 enableTocSwitch = true
 enableLandingBackground = false
@@ -31,7 +30,7 @@ taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 enableContactUs = true
 email = "hi@mtf.wiki"
 
-github = "https://github.com/mtf-wiki/MtF-Wiki"
+github = "https://github.com/project-trans/MtF-wiki"
 
 # comment
 enableComment = false

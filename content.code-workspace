@@ -1,0 +1,7 @@
+{
+  "folders": [
+    { "name": "zh-CN", "path": "content/zh-cn/docs" },
+    { "name": "zh-Hant", "path": "content/zh-hant/docs" },
+    { "name": "ja", "path": "content/ja/docs" }
+  ]
+}
