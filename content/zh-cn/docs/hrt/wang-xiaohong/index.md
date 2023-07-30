@@ -43,6 +43,7 @@ title: 四川省人民医院｜王小红
 ## 问诊细节
 
 - 可在家长同意的情况下开具 HRT 药物处方
+PS：若有多位家长/监护人陪诊，则需所有监护人均同意才可开具——[#832](https://github.com/project-trans/MtF-wiki/issues/832)
 
 {{< expand "知情同意书" >}}
 {{< gallery pattern="icf-*" >}}
