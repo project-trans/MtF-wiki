@@ -2,10 +2,6 @@
 title: 苏州市立医院｜周建英
 ---
 
-{{< notice info "提醒" >}}
-男性证件已无法在院内药房开具药品。（如有变化请反馈）
-{{< /notice >}}
-
 {{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[周建英](https://www.haodf.com/doctor/6964360738.html)
