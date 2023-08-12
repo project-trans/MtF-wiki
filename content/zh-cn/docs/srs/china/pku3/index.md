@@ -2,14 +2,14 @@
 title: 北医三院
 ---
 
-[北京大学第三医院](https://amap.com/place/B000A7CGSS)
+[北京大学第三医院]({{< ref "puth" >}})
 
-[潘柏林](https://www.haodf.com/doctor/227082.html)
+[潘柏林]({{< ref "pan-bailin" >}})
 
 主刀：（手术较长，两位轮流主刀）
 
 - [杨欣](https://www.haodf.com/doctor/10835.html)
-- [常旭](https://www.haodf.com/doctor/6964387922.html)
+- [常旭]({{< ref "chang-xu" >}})
 
 ## 前置条件
 
@@ -30,7 +30,13 @@ title: 北医三院
 
 ## 费用
 
-约 50000 人民币。
+```csv
+项目,价格
+睾丸切除术,1万元
+单纯阴茎阴囊切除术（“零深度”阴道成形）,4万元
+阴茎阴囊皮瓣翻转阴道成形术,7-8万元
+带蒂乙状结肠阴道成形术,5-6万元（未包含阴茎阴囊切除）
+```
 
 ## 伦理审查
 
