@@ -2,7 +2,7 @@
 title: 常旭
 ---
 
-## 刘烨
+## 常旭
 
 医生姓名：[常旭](https://www.haodf.com/doctor/6964387922.html)
 所在医院：[北京大学第三医院]({{< ref "puth" >}})
