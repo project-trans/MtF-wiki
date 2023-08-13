@@ -4,9 +4,9 @@ collapsible: true
 weight: 120
 ---
 
-<!--((?<=[0-9a-zA-Z])(?=[一-龥])|(?<=[一-龥])(?=[0-9a-zA-Z]))-->
+<!-- ((?<=[0-9a-zA-Z])(?=[一-龥])|(?<=[一-龥])(?=[0-9a-zA-Z])) -->
 
-**此章节主要描述一类用于非二元性别认同者和暂时不想引起乳房发育着的 HRT 药物。进行一般的 HRT 者不需要使用此类药物***
+**此章节主要描述一类用于非二元性别认同者和暂时不想引起乳房发育着的 HRT 药物。进行一般的 HRT 者不需要使用此类药物。**
 
 ## 乳房发育
 
@@ -31,6 +31,7 @@ weight: 120
 | 雷洛昔芬   | -    | +      | +      | +    | +    | +     | O        | -        | -    | O          |
 | 他莫昔芬   | -    | +      | +      | +    | +    | +     | +        | -        | -    | O          |
 | 托瑞米芬   | -    | +      | +      | +    | +    | +     | +        | -        | -    | O          |
+
 注：SHBG - sex hormone binding globulin / 性激素结合球蛋白，一种主要与性激素，尤其是雄激素结合的血浆蛋白；IGF-1 - insulin-like growth factor 1 / 类胰岛素生长因子 1，一种受 GH（生长激素）调控的，主要通过肝脏内分泌与各组织旁分泌 / 自分泌的肽类激素；是发挥 GH 作用的主要激素
 <!-- TODO: skin & body composition & "?"
 pubmed query: ((raloxifene[title])OR(tamoxifen[title])OR(Bazedoxifene[title])OR(Clomifene[title])OR(Lasofoxifene[title])OR(Ospemifene[title])OR(Toremifene[title])OR(serm[title])OR(selective estrogen receptor modulator[title]))AND((skin elasticity[title])OR(skin aging[title])OR(skin fibroblasts[title])OR(body composition[title])OR(fat[title]))
