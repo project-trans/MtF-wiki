@@ -48,13 +48,13 @@ pubmed query: ((raloxifene[title])OR(tamoxifen[title])OR(Bazedoxifene[title])OR(
 
 他莫昔芬的长期使用可导致肝损伤、脂肪肝，且他莫昔芬及其许多活性代谢产物有极长的清除半衰期，药物浓度需较长的时间才可达到稳态水平。此外，其不能帮助改善皮肤状态[^5][^4][^11][^12]。
 
-根据对不良反应报告的分析，巴多昔芬与奥培米芬对肝脏更安全[^9]，且巴多昔芬可与雌激素同时使用以缓解潮热症状；然而两者尚处于专利期，开销较大，且均未在中国上市[^2]。
+根据对不良反应报告的分析，巴多昔芬与奥培米芬对肝脏更安全[^9]，且巴多昔芬可与雌激素同时使用以缓解潮热症状；然而两者尚处于专利期，开销较大，且均未在中国上市[^2][^22]。
 
 氯米芬主要的临床用途为不育的治疗，可极大幅度地提升睾酮水平[^14][^15]，使其无法被用于 HRT；且其有较低的概率导致肝酶升高，和极低的概率导致严重的肝损伤[^20]。
 
 长期使用托瑞米芬[^7][^8]也有导致肝损伤或脂肪肝的可能。
 
-拉索昔芬可能可以更好地使皮肤与脂肪女性化[^11][^13]，然而其未广泛上市，且无通用名药品[^2]。
+拉索昔芬可能可以更好地使皮肤与脂肪女性化[^11][^13]，然而其未广泛上市，且无通用名药品[^21]。
 </details>
 
 需注意的是，
@@ -66,7 +66,7 @@ pubmed query: ((raloxifene[title])OR(tamoxifen[title])OR(Bazedoxifene[title])OR(
 <!--TODO: SERMs for AFAB-->
 
 [^1]: [跨性别女性 HRT 1 年的乳房发育状况](https://academic.oup.com/jcem/article/103/2/532/4642966?login=false)
-[^2]: 见维基百科相应条目
+[^2]: [Wikipedia-巴多昔芬](https://en.wikipedia.org/wiki/Bazedoxifene)
 [^3]: [Wikipedia SERMs](https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator)
 [^4]: [LiverTox-他莫昔芬](https://www.ncbi.nlm.nih.gov/books/NBK548902/)
 [^5]: [他莫昔芬说明书](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021807s005lbl.pdf)
@@ -85,3 +85,5 @@ pubmed query: ((raloxifene[title])OR(tamoxifen[title])OR(Bazedoxifene[title])OR(
 [^18]: [雷洛昔芬与他莫昔芬在顺性别男性中导致的 LH 与睾酮水平变化](https://www.fertstert.org/article/S0015-0282(08)01280-6/fulltext)
 [^19]: [雷洛昔芬在顺性别男性中导致的睾酮水平变化；然而仅老年者](https://academic.oup.com/ejendo/article/150/4/539/6694331)
 [^20]: [LiverTox-氯米芬](https://www.ncbi.nlm.nih.gov/books/NBK548008/)
+[^21]: [Wikipedia-拉索昔芬](https://en.wikipedia.org/wiki/Lasofoxifene)
+[^22]: [Wikipedia-奥培米芬](https://en.wikipedia.org/wiki/Ospemifene)
