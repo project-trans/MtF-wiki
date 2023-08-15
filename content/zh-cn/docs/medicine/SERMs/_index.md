@@ -6,7 +6,7 @@ weight: 120
 
 <!-- ((?<=[0-9a-zA-Z])(?=[一-龥])|(?<=[一-龥])(?=[0-9a-zA-Z])) -->
 
-**此章节主要描述一类用于非二元性别认同者和暂时不想引起乳房发育着的 HRT 药物。进行一般的 HRT 者不需要使用此类药物。**
+此章节主要描述一类用于非二元性别认同者和暂时不想引起乳房发育者的 HRT 药物。进行常规 HRT 的人不需要使用此类药物。
 
 ## 乳房发育
 
@@ -14,7 +14,7 @@ weight: 120
 
 ## 选择性雌激素受体调节剂（SERMs）
 
-选择性雌激素受体调节剂（selective estrogen receptor modulators, SERMs）是一类作用于雌激素受体（estrogen receptor, ER）的药物。由于每一种 SERM 分子都具有不同的结构和特征，且不同组织中 ER&alpha;/&beta;（雌激素核受体的两种亚型）的 mRNA 经过不同的选择性剪切，不同的 SERM 在与不同的 ER 结合后，可以诱导其产不同的独特构象，使其与各种辅激活因子 / 辅抑制因子表现出不同的亲和度，从而选择性地在一些方面表现出雌激素作用，而在另一些方面表现出抗雌激素作用。[^3][^10]临床上，SERMs 被用于 ER+ 乳腺癌的治疗，乳腺癌的预防，和绝经后女性中骨质疏松的预防。[^3]
+选择性雌激素受体调节剂（selective estrogen receptor modulators, SERMs）是一类作用于雌激素受体（estrogen receptor, ER）的药物。由于每一种 SERM 分子都具有不同的结构和特征，且不同组织中 ER&alpha;/&beta;（雌激素核受体的两种亚型）的 mRNA 经过不同的选择性剪切，不同的 SERMs 在与不同的 ERs 结合后，可以诱导其产生不同的独特构象，使其与各种辅激活因子 / 辅抑制因子表现出不同的亲和度，从而选择性地在一些方面表现出雌激素作用，而在另一些方面表现出抗雌激素作用。[^3][^10]临床上，SERMs 被用于 ER+ 乳腺癌的治疗，乳腺癌的预防，和绝经后女性中骨质疏松的预防。[^3]
 
 总而言之，SERMs 可以抑制乳房发育，而在其他方面表现出雌激素作用。
 
@@ -69,8 +69,8 @@ pubmed query: ((raloxifene[title])OR(tamoxifen[title])OR(Bazedoxifene[title])OR(
 [^2]: [Wikipedia-巴多昔芬](https://en.wikipedia.org/wiki/Bazedoxifene)
 [^3]: [Wikipedia SERMs](https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator)
 [^4]: [LiverTox-他莫昔芬](https://www.ncbi.nlm.nih.gov/books/NBK548902/)
-[^5]: [他莫昔芬说明书](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021807s005lbl.pdf)
-[^6]: [雷洛昔芬处方信息](https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/022042lbl.pdf)
+[^5]: [他莫昔芬说明书](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021807s006lbl.pdf)
+[^6]: [雷洛昔芬处方信息](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf)
 [^7]: [托瑞米芬说明书](https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020497s006lbl.pdf)
 [^8]: [LiverTox-托瑞米芬](https://www.ncbi.nlm.nih.gov/books/NBK548338/)
 [^9]: [LiverTox-雷洛昔芬、巴多昔芬、奥培米芬](https://www.ncbi.nlm.nih.gov/books/NBK548475/)

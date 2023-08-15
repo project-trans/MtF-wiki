@@ -21,7 +21,7 @@ description: 雷洛昔芬（Raloxifene），一种常用的 SERM，在跨性别�
 1. 肝脏损伤：在有肝损伤的患者中，雷洛昔芬应当被谨慎使用。此外，根据 LiverTox，雷洛昔芬是临床显著的肝损伤的可能罕见原因。在大型临床试验中，血清肝酶升高发生率并不高于安慰剂组；然而，在大规模应用中，有一些被归因于雷洛昔芬的肝损伤孤例[^10]，可能由药物相互作用有关。
 1. 潮热：雷洛昔芬增加潮热的发生率。在骨质疏松预防的临床试验中，接受雷洛昔芬治疗的志愿者中大约有 1/4 经历了潮热症状，而此情况对照组中为 1/6。
 1. 腿部痉挛：雷洛昔芬增加腿部痉挛的发生率。在骨质疏松治疗的临床试验中，此情况的发生率为 7.0%与 3.7%（雷洛昔芬与安慰剂）；在骨质疏松预防的试验中，此情况的发生率为 5.9%与 1.9%。
-1. 药物相互作用：**TODO**
+<!-- 1. 药物相互作用：**TODO** -->
 
 此外，雷洛昔芬减少肝脏合成的 IGF-1，从而反馈性地导致 GH 水平增加，且拮抗雌激素的抗促性腺激素作用，最终导致有睾丸者体内睾酮水平的上升。[^1][^2]
 
@@ -29,7 +29,7 @@ description: 雷洛昔芬（Raloxifene），一种常用的 SERM，在跨性别�
 
 雷洛昔芬的用量应为每日 60mg。
 
-值得注意的是，不同于雌二醇，雷洛昔芬无抗促性腺激素作用[^4]，因此其不可与孕激素联合来充分降低雄激素水平。而单独使用孕激素只可降低睾酮水平至约 50%[^6]，螺内酯不能有效拮抗高水平的雄激素[^7]。该方案下，一般的抗雄激素疗法（CPA 或螺内酯，皆需与雌激素合用）不适用。
+值得注意的是，不同于雌二醇，雷洛昔芬无抗促性腺激素作用[^4]，因此其不可与孕激素联合来充分降低雄激素水平。而单独使用孕激素只可降低睾酮水平至约 50%-70%，且长期使用下睾酮水平会发生一定程度的回升[^6]，螺内酯不能有效拮抗高水平的雄激素[^7]。该方案下，一般的抗雄激素疗法（CPA 或螺内酯，皆需与雌激素合用）不适用。
 
 有效的抗雄激素疗法如下：
 * 一种方案是，同时使用低剂量（6.25-12.5mg）醋酸环丙孕酮和比卡鲁胺（50-100mg）。尽管从药理学上可能可行，但此方案无大量研究和试验，故应谨慎使用。
@@ -45,8 +45,8 @@ description: 雷洛昔芬（Raloxifene），一种常用的 SERM，在跨性别�
 [^3]: [用于非二元性别认同者 HRT 的 SERMs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8253879/)
 [^4]: [Wikipedia 雷洛昔芬](https://en.wikipedia.org/wiki/Raloxifene)
 [^5]: [20 mg 他莫昔芬用于 150 mg 比卡鲁胺导致的乳房发育；然而仅老年者，且 60 mg 雷洛昔芬有效性不及 20 mg 他莫昔芬](https://doi.org/10.1200/jco.2005.12.013)
-[^6]: [Wikipedia 醋酸环丙孕酮的药理学](https://en.wikipedia.org/wiki/Pharmacology_of_cyproterone_acetate)
-[^7]: [Transfeminine Science 螺内酯](https://transfemscience.org/articles/spiro-testosterone/)
+[^6]: [Transfeminine Science 醋酸环丙孕酮抑制睾酮水平](https://tfsci.mtf.wiki/zh-cn/articles/cpa-dosage/)
+[^7]: [Transfeminine Science 螺内酯](https://tfsci.mtf.wiki/zh-cn/articles/spiro-testosterone/)
 [^8]: [他莫昔芬与雷洛昔芬用于预防乳腺癌](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5110043/)
-[^9]: [雷洛昔芬处方信息](https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/022042lbl.pdf)
+[^9]: [雷洛昔芬处方信息](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf)
 [^10]: [LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK548475/)
