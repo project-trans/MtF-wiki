@@ -15,7 +15,7 @@ rssLimit = 100
 
 googleAnalytics = ""
 
-disableKinds = ["taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [params]
 hostName = "https://mtf.wiki"
