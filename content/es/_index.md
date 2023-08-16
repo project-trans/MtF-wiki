@@ -40,7 +40,7 @@ footer:
     align: left
     applySinglePageCss: true
     markdown: >
-      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:1em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
       &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.
