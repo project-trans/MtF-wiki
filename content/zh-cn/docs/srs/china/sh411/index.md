@@ -1,5 +1,6 @@
 ---
 title: 上海四一一医院｜赵烨德
+weight: 1001
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

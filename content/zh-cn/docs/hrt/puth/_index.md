@@ -4,6 +4,7 @@ description: 本页描述的是在北医三院医生（刘烨和潘柏林）的�
 collapsible: true
 aliases:
   - /zh-cn/docs/hrt/pku3/
+weight: 100
 ---
 
 ## 概况
