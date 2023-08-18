@@ -6,7 +6,7 @@ title: 武汉｜李赋
 
 医生姓名：[李赋](http://www.chinapsy.com/index.php/index-view-aid-1116.html)
 
-所在医院：[武汉市精神卫生中心（六角亭院区）](https://amap.com/place/B0FFF2I10C)
+所在医院：[武汉市精神卫生中心（二七院区）](https://www.amap.com/place/B0FFF49IMU)
 
 ## 挂号
 
