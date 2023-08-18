@@ -64,10 +64,10 @@ document.addEventListener(
 document.addEventListener(
   "click",
   (event) => {
-    if (!event.target.classList.contains("mask")) return;
+    // if (!event.target.classList.contains("mask")) return;
     const photo = event.target.closest(".hidden-photo");
     if (!photo) return;
-    photo.classList.add("show");
+    photo.classList.toggle("show");
   },
   { capture: true }
 );

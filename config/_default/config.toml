@@ -1,6 +1,6 @@
 baseURL = "https://mtf.wiki"
 title = "MtF.wiki"
-theme = "zdoc"
+theme = ["zdoc", "mtfwiki-modified"]
 
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
@@ -15,7 +15,7 @@ rssLimit = 100
 
 googleAnalytics = ""
 
-disableKinds = ["taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [params]
 hostName = "https://mtf.wiki"

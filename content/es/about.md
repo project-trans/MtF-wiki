@@ -6,7 +6,7 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
 La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado, mantenido por {{< project-trans >}}.
 

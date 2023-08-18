@@ -7,6 +7,7 @@ title: Yanhee 医院
 医生：
 
 - Dr. Juta
+- [Greechart Pornsinsirirak]({{< ref "greechart" >}})
 
 联系电话：{{< telephone "+66 86-386-1299" >}}
 

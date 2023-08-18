@@ -1,5 +1,6 @@
 ---
 title: 广州暨南一院｜高绿芬
+weight: 300
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

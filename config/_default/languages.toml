@@ -3,6 +3,7 @@
   languageName = "简体中文"
   weight = 1
   contentDir = "content/zh-cn"
+[zh-cn.params]
   currency = "CNY"
 
 [zh-hant]
@@ -10,6 +11,7 @@
   languageName = "繁體中文"
   weight = 2
   contentDir = "content/zh-hant"
+[zh-hant.params]
   currency = "TWD"
 
 [ja]
@@ -17,6 +19,7 @@
   languageName = "日本語"
   weight = 3
   contentDir = "content/ja"
+[ja.params]
   currency = "JPY"
 
 [en]
@@ -24,6 +27,7 @@
   languageName = "English"
   weight = 4
   contentDir = "content/en"
+[en.params]
   currency = "USD"
 
 [es]
@@ -31,4 +35,5 @@
   languageName = "Español"
   weight = 5
   contentDir = "content/es"
+[es.params]
   currency = "EUR"
