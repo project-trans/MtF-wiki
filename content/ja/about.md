@@ -14,8 +14,6 @@ weight: 0
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：<https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> ミラー：<https://MtFwiki.cn>、<https://MtFwiki.com>
-
 兄弟サイト: <https://FtM.wiki>
 
 これらの GitHub の貢献者に感謝します：
