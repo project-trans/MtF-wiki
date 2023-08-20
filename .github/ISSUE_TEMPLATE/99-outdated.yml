@@ -1,6 +1,6 @@
 name: 报告过时内容
 description: 报告过时内容
-labels: ["outdated"]
+labels: [Outdated Information | 信息待更新]
 body:
   - type: markdown
     attributes:
