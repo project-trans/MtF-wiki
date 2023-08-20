@@ -14,8 +14,6 @@ La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimiento
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sitio del proyecto: <https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i>Espejo sinc.: <https://MtFwiki.cn>, <https://MtFwiki.com>
-
 Sitio hermano: <https://FtM.wiki>
 
 Gracias a los contribuyentes de GitHub:

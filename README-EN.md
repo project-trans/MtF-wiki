@@ -2,8 +2,6 @@
 
 [![MtF-wiki][logo-long]][wiki-url]
 
-Mirror：[MtFwiki.cn](https://mtfwiki.cn)、[MtFwiki.com](https://mtfwiki.com)
-
 Brother Site: [FtM.wiki](https://ftm.wiki)
 
 # Welcome to **MtF.wiki**
