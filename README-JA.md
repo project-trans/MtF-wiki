@@ -2,8 +2,6 @@
 
 [![MtF-wiki][logo-long]][wiki-url]
 
-ミラー：[MtFwiki.cn](https://mtfwiki.cn)、[MtFwiki.com](https://mtfwiki.com)、[MtF.bond](https://mtf.bond)
-
 兄弟サイト：[FtM.wiki](https://ftm.wiki)
 
 # Welcome to **MtF.wiki**

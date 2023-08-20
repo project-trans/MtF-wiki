@@ -14,8 +14,6 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [project-t
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project: <https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror: <https://MtFwiki.cn>, <https://MtFwiki.com>
-
 Brother site: <https://FtM.wiki>
 
 Thanks goes to these GitHub contributors:
