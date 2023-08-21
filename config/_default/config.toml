@@ -1,6 +1,6 @@
 baseURL = "https://mtf.wiki"
 title = "MtF.wiki"
-theme = ["zdoc", "mtfwiki-modified"]
+theme = ["mtfwiki-modified", "zdoc"]
 
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true

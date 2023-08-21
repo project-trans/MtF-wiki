@@ -2,8 +2,6 @@
 
 [![MtF-wiki][logo-long]][wiki-url]
 
-Mirrores: [MtFwiki.cn](https://mtfwiki.cn)、[MtFwiki.com](https://mtfwiki.com)
-
 Sitio hermano: [FtM.wiki](https://ftm.wiki)
 
 # Welcome to **MtF.wiki**

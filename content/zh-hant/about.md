@@ -16,8 +16,6 @@ weight: 0
 
 <i class="bi bi-link-45deg"></i> 主頁：<https://MtF.wiki>
 
-<i class="bi bi-link-45deg"></i> 備用入口：<https://MtFwiki.cn>，<https://MtFwiki.com>
-
 兄弟站：<https://FtM.wiki>
 
 感謝所有 GitHub 貢獻者：
