@@ -1,6 +1,6 @@
 ---
 title: Greechart 医生
-hioe: true
+hide: true
 ---
 
 医生名字：Greechart Pornsinsirirak
