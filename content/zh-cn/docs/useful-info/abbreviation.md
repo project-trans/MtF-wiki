@@ -106,3 +106,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 WPATH（世界跨性别人士健康专业协会） 为 World Professional Association for Transgender Health 的缩写
 
 官网：<https://www.wpath.org>
+
+## TGD
+
+transgender and gender diverse，跨性别与性别多元群体
