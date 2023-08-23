@@ -1,7 +1,7 @@
 ---
 title: 上海市第九人民医院｜易彬
 slug: yi-bin
-weight: 0
+weight: 300
 ---
 
 主刀医师：[易彬](https://www.guahao.com/expert/f48e2634-128e-4f09-9249-a2451b3d60a9000)

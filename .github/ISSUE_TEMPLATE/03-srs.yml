@@ -1,6 +1,6 @@
 name: 报告新的 SRS 医生
 description: 报告新的 SRS 医生
-labels: ["srs"]
+labels: [SRS]
 body:
   - type: markdown
     attributes:

@@ -1,5 +1,6 @@
 ---
 title: 泰国｜Yoskarn
+weight: 2000
 ---
 
 医生：Somyos Kunachak, 宋育
