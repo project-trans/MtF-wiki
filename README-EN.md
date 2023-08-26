@@ -27,6 +27,16 @@ The original intention behind building this website is to provide a knowledge pl
 
 > Never surrender to anxiety and depression, we will eventually have our place in this world.
 
+## Make MtF Great Again
+
+Hello, I am your president. 
+Although I am currently in prison, I am still planning to participate in the next presidential election. 
+Now I need your help. Please transfer any amount to this XMR address, which will be used for my comeback. If we succeed, I will 100% support MtF!
+Thank you for your contribution, history will remember you!
+86dGUfbfkff3BrfqTSBujgCJSZQbKXQNzj2piMjM3VY5AuACKy8Qureh9ANFXLWxq6ZCvqmXwu87AF4e1MRo7WXaUckVfm9
+                                            -- From Donald J. Trump in prison
+
+                                            
 ## Acknowledgement
 
 This project is deployed on [GitHub Pages][wiki-url] using [Hugo][hugo-url]  and theme [zdoc][zdoc-url]. Thanks for them.
