@@ -227,3 +227,19 @@ div.hidden-photo {
     }
   }
 }
+div.watermark {
+  display: grid;
+}
+div.watermark>img{
+  grid-area: 1 / 1;
+}
+div.watermark::after {
+  grid-area: 1 / 1;
+  content: '仅供参考，勿作他用';
+  color: #0000FF;
+  font-size: 50px;
+  text-align: center;
+  align-self: center;
+  opacity: 0.3;
+  transform: rotate(-45deg);
+}
