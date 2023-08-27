@@ -51,7 +51,7 @@ title: 北京｜胡佩诚
 
 ## 证明样式
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}
 
 ## 出诊时刻表 {#schedule}
 

@@ -52,4 +52,4 @@ title: 武汉｜李赋
 
 ## 诊断证明
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

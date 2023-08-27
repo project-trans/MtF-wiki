@@ -44,8 +44,8 @@ title: 大连｜刘宏
 
 ## 病历样式
 
-![病历](bingli.png)
+{{< watermark "bingli.png" >}}
 
 ## 证明样式
 
-![证明](certificate.jpg)
+{{< watermark "certificate.jpg" >}}

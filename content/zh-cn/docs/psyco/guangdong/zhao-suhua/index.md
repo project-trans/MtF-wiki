@@ -39,4 +39,4 @@ title: 广州医科大学附属脑科医院｜赵素华
 
 医生会开出一张病历，和一张诊疗证明
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

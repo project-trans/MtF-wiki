@@ -73,22 +73,22 @@ title: 长沙｜贺莹
 
 ### 性别不一致证明
 
-![性别不一致证明](proof.jpg)
+{{< watermark "proof.jpg" >}}
 
 ### 易性症证明
 
-![易性症证明](proof2.jpg)
+{{< watermark "proof2.jpg" >}}
 
 ### 性别烦躁证明
 
-![性别烦躁证明](proof3.jpg)
+{{< watermark "proof3.jpg" >}}
 
 ## 病历部分
 
 ### 以前的手写病历
 
-![手写病历](record.jpg)
+{{< watermark "record.jpg" >}}
 
 ### 现在的电子病历
 
-![电子病历](record2.jpg)
+{{< watermark "record2.jpg" >}}

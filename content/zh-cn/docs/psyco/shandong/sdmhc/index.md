@@ -68,4 +68,4 @@ title: 山东省精神卫生中心
 
 ## 证明样式 {#proof}
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

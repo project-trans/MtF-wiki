@@ -77,7 +77,7 @@ title: 邸晓兰
 
 ## 病历样式
 
-![病历](proof.jpg)
+{{< watermark "proof.jpg" >}}
 
 ## 出诊时刻表
 

@@ -20,4 +20,4 @@ title: 深圳｜王晓京
 
 ## 证明样式
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

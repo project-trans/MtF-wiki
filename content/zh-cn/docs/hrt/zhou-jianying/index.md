@@ -37,8 +37,9 @@ weight: 500
 
 ## 处方例子
 
-![色](fx1.png)
-![补](fx2.png)
+{{< watermark "fx1.png" >}}
+{{< watermark "fx2.png" >}}
+
 ## 参考来源
 
 - <https://zhuanlan.zhihu.com/p/346909177>

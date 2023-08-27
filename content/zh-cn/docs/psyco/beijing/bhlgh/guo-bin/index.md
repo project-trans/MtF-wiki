@@ -67,7 +67,7 @@ title: 过斌
 
 ## 病历样式
 
-![病历](copy.jpg)
+{{< watermark "copy.jpg" >}}
 
 ## 出诊时刻表
 
