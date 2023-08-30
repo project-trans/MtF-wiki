@@ -40,4 +40,4 @@ title: 大连｜张亮
 
 ## 证明样式
 
-![诊断证明](proof.jpeg)
+{{< watermark "proof.jpeg" >}}

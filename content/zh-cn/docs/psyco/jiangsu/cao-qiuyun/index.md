@@ -67,10 +67,10 @@ title: 南京｜曹秋云
 ## 证明样式 {#proof}
 
 诊断证明：
-![诊断证明](proof.jpg)
+{{< watermark "proof.jpg" >}}
 
 病历样例（16 岁）：
-![病历样例](record.jpg)
+{{< watermark "record.jpg" >}}
 
 病历样例（19 岁）：
-![病历样例2](record2.jpg)
+{{< watermark "record2.jpg" >}}

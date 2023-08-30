@@ -5,15 +5,6 @@ slug: overview
 weight: 1
 ---
 
-## 综述 {#overview}
-
-1. 未满 18 周岁时
-   大多数情况下需要家属陪同
-
-1. 未满 20 周岁时
-   无需家属陪同，**但仍需家属同意**
-   可以进行 [HRT]({{< ref "hrt-res-overview" >}}) 治疗，但是根据《性别重置技术管理规范》要求无法进行 [SRS]({{< ref "srs-overview-china" >}})
-
 ## 关于诊断标准 {#criteria}
 
 当前最新标准为 {{< wiki "ICD-11" >}} 和 {{< wiki "DSM-5" >}}

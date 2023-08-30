@@ -84,4 +84,5 @@ title: 深圳市康宁医院
 
 ## 证明样式
 
-{{< gallery pattern="proof-*" >}}
+{{< watermark "proof-1.jpg" >}}
+{{< watermark "proof-2.jpg" >}}

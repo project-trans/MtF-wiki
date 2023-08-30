@@ -38,11 +38,11 @@ title: 温州｜郑天生
 ## 证明样式
 
 {{< expand "观察期病历样本" >}}
-![病历](record.jpg)
+{{< watermark "record.jpg" >}}
 {{< /expand >}}
 
 {{< expand "观察期后诊断证明样本" >}}
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}
 {{< /expand >}}
 
 ## 出诊时刻表

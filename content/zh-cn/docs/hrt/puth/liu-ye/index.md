@@ -49,6 +49,6 @@ aliases:
 
 ## 处方与用药建议
 
-![处方](prescription.jpg)
+{{< watermark "prescription.jpg" 处方 >}}
 
-![用药建议](medication.jpg)
+{{< watermark "medication.jpg" 用药建议 >}}

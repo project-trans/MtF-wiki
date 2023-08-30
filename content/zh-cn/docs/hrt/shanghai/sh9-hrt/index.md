@@ -48,7 +48,7 @@ slug: sh9
 对于未自行服药者，回去后一定要仔细地看完这份文件，如果还是决定要开展 HRT 的话，下次复诊时需要签好字带过来。
 
 {{< expand "病历" >}}
-![Record](record.webp)
+{{< watermark "record.webp" >}}
 {{< /expand >}}
 
 开检查，把检查全部做完拿到报告之后再去复诊。
@@ -95,7 +95,8 @@ B 超（~~照奶子~~）当场有结果。
 
 {{< expand "配药清单" >}}
 
-{{< gallery pattern="dispensing-list-*" >}}
+{{< watermark "dispensing-list-1.png" >}}
+{{< watermark "dispensing-list-2.jpeg" >}}
 
 备注：2022 年 1 月 8 号更新———现在九院已经愿意提高 HRT 处方上的补佳乐用量至 2mg 了（可能需要特别说明提高的意向才会开）（~~好耶比原来翻了一番~~）
 
