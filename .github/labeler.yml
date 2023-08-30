@@ -1,13 +1,25 @@
 # see https://github.com/actions/labeler
 
-hrt:
+Content | 内容:
+  - '**/docs/**'
+
+HRT:
   - '**/docs/hrt/*'
   - '**/docs/medicine/*'
 
-srs:
+SRS:
   - '**/docs/srs/*'
+
+FFS:
   - '**/docs/ffs/*'
 
-psycho:
+Psycho | 精神科:
   - '**/docs/psyco/*'
   - '**/docs/psycho/*'
+
+Site | 站点:
+  - '**/themes/**'
+
+Voice | 声音相关:
+  - '**/docs/docs/vocal-surgery/**'
+  - '**/docs/docs/vocal-therapy/**'
