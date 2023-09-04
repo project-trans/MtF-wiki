@@ -44,4 +44,4 @@ title: 广州｜贾艳滨
 
 ## 证明样式
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

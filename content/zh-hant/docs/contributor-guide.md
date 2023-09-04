@@ -9,7 +9,7 @@ title: 貢獻者指南
 
 貢獻方式：
 
-1. 會 GitHub 操作，直接 PR 或者 透過 {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
+1. 會 GitHub 操作，直接 PR 或者 透過 {{< shields/github-issue "project-trans/mtf-wiki" >}}
 1. 傳送郵件到 <hi@mtf.wiki>
 
 {{< notice info "友情提醒" >}}

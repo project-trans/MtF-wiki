@@ -1,6 +1,6 @@
 name: 报告新的精神科医生
 description: 报告新的精神科医生
-labels: ["psycho"]
+labels: [Psycho | 精神科]
 body:
   - type: markdown
     attributes:
@@ -29,7 +29,6 @@ body:
         - 观察期/随访
         - 初诊获得证明/假条
         - 需要家长介入
-        - 需要年满 20 周岁
         - 需要介绍信
         - 无需抢号/挂号
   - type: textarea

@@ -1,5 +1,6 @@
 ---
 title: 长沙湘雅三院｜龙智
+weight: 200
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

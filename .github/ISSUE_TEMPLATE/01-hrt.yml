@@ -1,6 +1,6 @@
 name: 报告新的 HRT 医生
 description: 报告新的 HRT 医生
-labels: ["hrt"]
+labels: [HRT]
 body:
   - type: markdown
     attributes:

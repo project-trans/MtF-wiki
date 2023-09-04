@@ -25,7 +25,7 @@ footer:
         - title: Homepage
           link: https://mtf.wiki
         - title: Homepage de proyecto
-          link: https://github.com/mtf-wiki/MtF-wiki
+          link: https://github.com/project-trans/MtF-wiki
     - title: Contacto
       links:
         - title: Discord
@@ -33,16 +33,15 @@ footer:
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub
-          link: https://github.com/mtf-wiki
+          link: https://github.com/project-trans
         - title: Email
           link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
-      {{< mtf-wiki >}}
-
-      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.
 ---

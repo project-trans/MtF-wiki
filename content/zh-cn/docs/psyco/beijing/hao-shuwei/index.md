@@ -18,10 +18,17 @@ title: 北京｜郝树伟
 ## 问诊细节
 
 - 一次性开证可能与 [pass]({{< ref "colloquialism#pass" >}})，[RLE]({{< ref "abbreviation#rle" >}})有关。
+- 就诊需交心理治疗费 146 元.
+- 可能询问的内容：
+  - 近期精神状态
+  - 是否有过自伤自残问题
+  - 是否有计划使用激素
+  - ······
+- 可以使用[邸晓兰]({{< ref "di-xiaolan" >}})医生的病历。
 
 ## 证明样式
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}
 
 ## 出诊时刻表
 

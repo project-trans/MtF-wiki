@@ -25,7 +25,7 @@ footer:
         - title: ホームページ
           link: https://mtf.wiki
         - title: ソースコード
-          link: https://github.com/mtf-wiki/MtF-wiki
+          link: https://github.com/project-trans/MtF-wiki
     - title: 連絡
       links:
         - title: Discord
@@ -33,16 +33,15 @@ footer:
         - title: Twitter
           link: https://twitter.com/MtFwikiJapan
         - title: GitHub
-          link: https://github.com/mtf-wiki
+          link: https://github.com/project-trans
         - title: E-mail
           link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
-      {{< mtf-wiki >}}
-
-      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。
 ---

@@ -4,7 +4,7 @@ weight: 1
 slug: overview
 ---
 
-> Google Maps: <https://link.mtf.wiki/maps/th>
+Google Maps：<https://link.mtf.wiki/maps/th>
 
 ## 術前科普 {#popular}
 
@@ -27,19 +27,15 @@ slug: overview
 
 具體參見：[手術技術]({{< ref "srs-tech" >}})
 
-<!-- prettier-ignore-start -->
-
-| 醫生/醫院 | PI | 非 PI | 結腸 | 腹膜 |
-| :--- | :---: | :---: | :---: | :---: |
-[Burin]({{< ref "preecha" >}})         | &#9989; |         | &#9989; |         |
-[Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
-[Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
-[Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
-[Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
-[Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
-[Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
-
-<!-- prettier-ignore-end -->
+| 醫生/醫院                            |   PI    |  非 PI  |  結腸   |  腹膜   |
+| :----------------------------------- | :-----: | :-----: | :-----: | :-----: |
+| [PAI/Burin]({{< ref "preecha" >}})   | &#9989; |         | &#9989; |         |
+| [Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
+| [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
+| [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
+| [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
+| [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
+| [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 
 ## 費用預期 {#fee}
 
@@ -51,4 +47,4 @@ slug: overview
 
 ## 術後事項 {#post-matter}
 
-[證件變更指引]({{< ref "id-card" >}})，一般需要按「B)司法鑑定」操作。
+[證件變更指引]({{< ref "id-card" >}}){{<local zh-cn>}}，一般需要按「B)司法鑑定」操作。{{</local>}}

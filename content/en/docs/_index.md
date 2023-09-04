@@ -27,4 +27,4 @@ Many materials were referred to in the process of writing this project, and I wo
 
 [^1]: The definition of assigned sex on Wikipedia is "Assigned sex, which is determined by checking gender characteristics at birth."
 
-[^2]: https://github.com/mtf-wiki
+[^2]: https://github.com/project-trans

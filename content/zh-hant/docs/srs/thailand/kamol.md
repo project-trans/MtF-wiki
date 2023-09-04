@@ -1,6 +1,5 @@
 ---
 title: Kamol
-keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰國, Kamol, 咖蒙]
 ---
 
 {{< tag/pos "WPATH 成員" >}}
@@ -11,28 +10,41 @@ keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS, 泰
 
 所在醫院：[Kamol Cosmetic Hospital](https://goo.gl/maps/oMMRQotSXqQSmvC48)
 
-郵箱：<customercare@kamolhospital.com>
+官方網站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
 
-微信：{{< shields/wechat "xiaofeitum2" >}}
+郵箱：<customercare@kamolhospital.com>
 
 電話：{{< telephone "+66 2559-0155" >}}
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
+## 中介聯絡
+
+這裡的微信均為中文中介，已無醫院在職員工。鑑於目前中文中介信用較差，建議若要考慮 kamol 可直接聯絡醫院。[點選前往相關討論頁面](https://github.com/project-trans/MtF-wiki/issues/760)
+
+{{< shields/wechat "xiaofeitum2" >}}
+做零深度的姐妹不建議與xiaofeitum2聯絡，因為存在加價行為
+
+{{< shields/wechat "wuyanlii" >}}
+據 [討論](https://github.com/project-trans/MtF-wiki/issues/760) 存在手術前幾天臨時加價、且拒絕加價則威脅扣留簽證的行為。參考閱讀上面的討論頁面。建議謹慎交出簽證原件。
+
+## 翻譯陪護
+
+Jessica (自身為 MtF，可帶其他醫生) {{< shields/wechat "JessicaLee9985" >}} {{< shields/telegram "jessicalee85" >}}
+
 ## 手術費用
 
 ```csv
 手術方式,價格
-0 深度,{{< currency 257250 THB >}}
-PI 皮瓣,{{< currency 330000 THB >}}
-非 PI 皮瓣,{{< currency 321000 THB >}}
-非 PI + 腹股溝皮瓣,{{< currency 320000 THB >}} ~ {{< currency 336000 THB >}}
-結腸,（過時，暫缺更新）
-結腸（腹腔鏡）,{{< currency 420000 THB >}}
-腹膜（腹腔鏡）,{{< currency 599000 THB >}}（可能過時）
+0 深度,{{< currency 275000 THB >}}
+僅陰莖翻轉 PI 皮瓣,{{< currency 321000 THB >}}
+陰囊皮瓣,{{< currency 11500 USD >}} 含宿與術前費用
+結腸,{{< currency 500000 THB >}}
+結腸（腹腔鏡）,{{< currency 630000 THB >}}
+腹膜,{{< currency 650000 THB >}}
 ```
 
-支援 中國銀聯卡、VISA 卡、支付寶 付款（支付寶建議出國前將錢全部存入餘額，避免出現因銀行卡的每日限額導致錢存不進的情況）
+支援 銀聯卡、國際信用卡、支付寶 付款{{<local zh-cn>}}（支付寶建議出國前將錢全部存入餘額，避免出現因銀行卡的每日限額導致錢存不進的情況）{{</local>}}
 
 酒店費用：出院後，前 14 天須在下方指定酒店進行恢復，之後可自行選擇其他酒店。需要 3 ~ 4 周左右。
 
@@ -54,6 +66,8 @@ PI 皮瓣,{{< currency 330000 THB >}}
    檢查專案：CBC、電解質、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 兩位泰國精神科醫生的證明：
    價格：{{< currency 4000 THB >}}
+1. 核酸檢測費用（似乎已經不要求）：
+   價格：{{< currency 5900 THB >}}
 
 ## 手術介紹
 
@@ -69,23 +83,22 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 
 腹膜技術只有近兩年比較新，有長息肉、萎縮或有其它後遺症的情況，而且腹膜的延展性沒那麼好，通模具要大力，會比較疼。
 
-官方網站: <https://www.kamolhospital.com/zh/service/MTF-sex-reassignment/>
+有多個報告稱每日可能有大於一臺手術。
 
 ## 預約事項
 
-1. 確認手術日期後，需提前支付 10% 手術費用作為定金。
-1. 應當至少 20 歲。18-20 歲則需要合法父母或監護人授權他們進行手術。（注：經瞭解泰國政府與院方並未針對不滿 20 歲者拒絕手術或提高門檻或索要超出常規的證明檔案（尤其泰國人根本不感興趣你全家戶口和身份證），此類行為可能是中文中介的個人行為）
+1. 應當至少 20 歲。18-20 歲則需要合法父母或監護人授權他們進行手術。對於不符合年齡限制被拒絕或無法出國造成無法手術的情況不能退還定金。{{<local zh-cn>}}（注：經瞭解泰國政府與院方並未針對不滿 20 歲者拒絕手術或提高門檻或索要超出常規的證明檔案（尤其泰國人根本不感興趣你全家戶口和身份證），此類行為可能是中文中介的個人行為）{{</local>}}
 1. 必須連續服用女性荷爾蒙至少一年。
 1. 必須長時間的認為自己是女性。
 1. 至少度過了一年的女性生活。
 1. 必須對自己的性器官感到厭惡，彷彿那並不是自己身體的一部分。
 1. 經過精神醫生證明處於正常精神狀態，適合進行性別轉換手術。
 1. 無法對 HIV 陽性的顧客進行結腸 SRS
-1. 結腸 SRS 要求 BMI < 25
+1. 結腸 SRS 要求 BMI < 26，體重 < 80KG；其他術式 BMI < 30，體重 < 90KG
 
 如有以下情況會產生額外收費：
 
-- 艾滋病：總費用的 50％
+- 艾滋病：總費用的 30％
 - 丙型肝炎：總費用的 30％
 - 乙肝：總費用的 30％
 - 深靜脈血栓形成：總費用的 30％
@@ -94,7 +107,7 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
   價格：{{< currency 7700 THB >}}
 - 心臟病專家探訪
   價格：{{< currency 1000 THB >}} ~ {{< currency 5000 THB >}}
-  這些疾病所需的藥物或任何治療費用不包括在手術費用中（睡眠檢查，CTA 冠狀動脈檢查，肺 部檢查，甲狀腺檢查等）
+  這些疾病所需的藥物或任何治療費用不包括在手術費用中（睡眠檢查，CTA 冠狀動脈檢查，肺部檢查，甲狀腺檢查等）
 
 ## 手術日程
 
@@ -126,4 +139,4 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、結腸 和 腹膜 SRS．
 
 ## 內容參考
 
-[Gogo 變成貓貓了——SRS 日誌](https://blog.gogo.moe/Gogo%E8%AE%8A%E6%88%90%E8%B2%93%E8%B2%93%E4%BA%86/)<!--不要改成漢字以免簡繁轉換導致404-->
+[Gogo 變成貓貓了——SRS 日誌](https://blog.gogo.moe/gogo_became_a_cat/)

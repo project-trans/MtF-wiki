@@ -12,6 +12,7 @@ title: 山东省精神卫生中心
 - [齐素芳](https://www.haodf.com/doctor/6964430522.html) {{< tag/neg "需家属介入" >}} {{< tag/pos "和蔼" >}}
 - [陈忠](https://www.haodf.com/doctor/6964430516.html)
 - [王洪军](https://www.haodf.com/doctor/3133959974.html)
+- [于晓东](https://www.haodf.com/doctor/6964430538.html) {{< tag/neg "需家属介入" >}} 
 
 所在医院：[山东省精神卫生中心](https://amap.com/place/B0FFM4NU1Y)
 
@@ -67,4 +68,4 @@ title: 山东省精神卫生中心
 
 ## 证明样式 {#proof}
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

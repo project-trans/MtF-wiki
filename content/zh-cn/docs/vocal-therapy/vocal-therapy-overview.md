@@ -25,19 +25,19 @@ aliases:
 > 此类教程一般未获得医学认可，因此存在导致 {{< wiki 声音嘶哑 >}} 的可能性
 > 接受此类教程的指导，将可能影响接受医学 嗓音女性化训练 的学习效果
 
-- [成为女孩子的声音！](https://mtf-wiki.github.io/jyosei-guide/)
+- [成为女孩子的声音！](https://project-trans.github.io/jyosei-guide/)
 
 ## 软件 {#software}
 
 > 软件并不能 **指导训练** 而只是帮助您监控相关的 指征（音高）
 
 - Android 平台
-  [Voice Tools](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
-  [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
+  - [Voice Tools](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
+  - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 - iOS 平台
-  [Voice Tools](https://apps.apple.com/app/id1447495900)
-  [Vocal Pitch Monitor](https://apps.apple.com/app/id842218231)
-  [Singscope](https://apps.apple.com/app/id944309175)
+  - [Voice Tools](https://apps.apple.com/app/id1447495900)
+  - [Vocal Pitch Monitor](https://apps.apple.com/app/id842218231)
+  - [Singscope](https://apps.apple.com/app/id944309175)
 - Windows / macOS / Linux
-  [Friture](https://friture.org)
-  [Praat](https://www.fon.hum.uva.nl/praat)
+  - [Friture](https://friture.org)
+  - [Praat](https://www.fon.hum.uva.nl/praat)

@@ -35,5 +35,5 @@ weight: 1
     [华典]({{< ref "cyproterone#huadian" >}})
   - [螺内酯]({{< ref "spironolactone" >}})
 
-但是需要自行 [进行激素检查]({{< ref "hormone-check" >}}) 来调节用药
+但是需要自行 [进行激素检查]({{< ref "monitoring" >}}) 来调节用药
 具体用药方法参见 [HRT 综述]({{< ref "hrt-overview" >}})

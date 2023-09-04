@@ -24,4 +24,4 @@ title: 云南｜刘瑞湘
 
 ## 证明样式
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

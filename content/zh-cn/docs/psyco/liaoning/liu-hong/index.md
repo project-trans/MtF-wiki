@@ -4,13 +4,13 @@ title: 大连｜刘宏
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "无需家长" >}}
+{{< tag/pos "需要家长" >}}
 
 医生姓名：[刘宏](https://www.haodf.com/doctor/62704.html)
 
 所在医院：[大连市第七人民医院](https://amap.com/place/B019B01AD1)
 
-问诊参考：<https://github.com/mtf-wiki/MtF-wiki/issues/498>
+问诊参考：<https://github.com/project-trans/MtF-wiki/issues/498> <https://github.com/project-trans/MtF-wiki/issues/724>
 
 ## 挂号与坐诊时间
 
@@ -29,7 +29,7 @@ title: 大连｜刘宏
 大夫是个很和善的男大夫，好说话，而且会体谅你的个人状态，一般是自述个人状态以及开证的需求，
 大夫会询问你的生活状态、跨性别想法有多久了，而且会询问你使用激素的情况以及使用激素的类别、家长的态度。
 
-家长不管同不同意都会在病历上写易性症字样（当然得确确实实符合易性症的特征）。
+开具易性症诊断的病历可能需要家长知情，并需要有**至少一年**的跨性别意愿/想法（当然得确确实实符合易性症的特征）。
 
 检查项目：
 
@@ -44,8 +44,8 @@ title: 大连｜刘宏
 
 ## 病历样式
 
-![病历](bingli.png)
+{{< watermark "bingli.png" >}}
 
 ## 证明样式
 
-![证明](certificate.jpg)
+{{< watermark "certificate.jpg" >}}

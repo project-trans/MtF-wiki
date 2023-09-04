@@ -25,7 +25,7 @@ footer:
         - title: 主頁 MtF.wiki
           link: https://mtf.wiki
         - title: 原始碼
-          link: https://github.com/mtf-wiki/MtF-wiki
+          link: https://github.com/project-trans/MtF-wiki
         - title:  導航站 2345.LGBT
           link: https://2345.lgbt
     - title: 動態
@@ -43,16 +43,15 @@ footer:
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub
-          link: https://github.com/mtf-wiki
+          link: https://github.com/project-trans
         - title: 電郵
           link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
-      {{< mtf-wiki >}}
-
-      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > 如果你能記住我的名字，如果你們都能記住我的名字，也許我或者「我們」，終有一天能自由地生存著。
 ---

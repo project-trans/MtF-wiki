@@ -2,11 +2,9 @@
 title: SRS 综述（泰国）
 weight: 1
 slug: overview
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰国]
 ---
 
-> 1. [疫情特辑：泰国旅行指南]({{< ref "travel-under-pandemia" >}})
-> 1. Google Maps：<https://link.mtf.wiki/maps/th>
+Google Maps：<https://link.mtf.wiki/maps/th>
 
 ## 术前科普 {#popular}
 
@@ -49,4 +47,4 @@ keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS, 泰
 
 ## 术后事项 {#post-matter}
 
-[证件变更指引]({{< ref "id-card" >}})，一般需要按「B)司法鉴定」操作。
+[证件变更指引]({{< ref "id-card" >}}){{<local zh-cn>}}，一般需要按「B)司法鉴定」操作。{{</local>}}

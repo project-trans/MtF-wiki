@@ -1,8 +1,6 @@
 ---
 title: 術後護理
 weight: 400
-topToc: true
-keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS]
 ---
 
 {{< notice info "提示" >}}

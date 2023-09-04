@@ -71,6 +71,12 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ) (<https://archive.is/cenPo>)
 
+## AM
+
+[隆胸手术](https://zh.wikipedia.org/wiki/隆乳)（Augmentation Mammoplasty），此缩写使用于 Suporn 诊所。
+
+注意：隆胸手术可能有多种缩写，请不要局限于本条。
+
 ## VFS
 
 声音女性化手术（Voice feminization surgery）
@@ -82,7 +88,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 幻想变性性兴奋理论（{{< wiki Autogynephilia en >}}），一般认为是过时的理论
 
-驳 AG 论：<https://zhuanlan.zhihu.com/p/59510858> (<https://archive.is/KhHh3>)
+驳 AG 论：<https://blog.mtf.wiki/posts/case-against-autogynephilia/>
 
 ## CD
 
@@ -100,3 +106,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 WPATH（世界跨性别人士健康专业协会） 为 World Professional Association for Transgender Health 的缩写
 
 官网：<https://www.wpath.org>
+
+## TGD
+
+transgender and gender diverse，跨性别与性别多元群体

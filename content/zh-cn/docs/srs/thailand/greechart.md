@@ -1,5 +1,8 @@
 ---
 title: Greechart 医生
+hide: true
+_build:
+    list: never
 ---
 
 医生名字：Greechart Pornsinsirirak

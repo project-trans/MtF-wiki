@@ -6,28 +6,15 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-![MtF-wiki](/new/mtf-wiki-long.svg)
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
-La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,
+La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado, mantenido por {{< project-trans >}}.
 
-<i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto: [mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki)
+<i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto: [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sitio del proyecto: <https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i>Espejo sinc.: <https://MtFwiki.cn>, <https://MtFwiki.com>
-
 Sitio hermano: <https://FtM.wiki>
-
-## Mantenedores
-
-{{< github/profile "kenchiu233" "Kenchiu" >}}&nbsp;
-
-{{< github/profile "CoelacanthusHex" "Celeste" >}}&nbsp;<coelacanthus@outlook.com>
-
-{{< github/profile "saeziae" "Estela">}}&nbsp;<mtfwiki@estela.cn> {{< shields/twitter saeziae >}}
-**¡Contáctame si quieres unirte!**
-
-{{< github/profile "llh721113" "Joanna" >}}&nbsp;<llh721113@outlook.com>
 
 Gracias a los contribuyentes de GitHub:
 
@@ -35,13 +22,15 @@ Gracias a los contribuyentes de GitHub:
 
 y los otros queridos que nos dan ayuda y información.
 
+**¡Contáctanos si quieres unirte!**
+
 ## Contacto
 
 Por Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
-Por GitHub {{< shields/github-issue "mtf-wiki/MtF-wiki" >}}
+Por GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 Por correo electrónico <hi@mtf.wiki>
 

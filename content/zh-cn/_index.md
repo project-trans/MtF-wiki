@@ -1,6 +1,5 @@
 ---
 title: MtF.wiki
-updatesBanner: "手机用户请不要点左上角的☰，请点下面的“查看文档”"
 description: MtF.wiki
 landing:
   height: 700
@@ -26,7 +25,7 @@ footer:
         - title: 主页 MtF.wiki
           link: https://mtf.wiki
         - title: 源码
-          link: https://github.com/mtf-wiki/MtF-wiki
+          link: https://github.com/project-trans/MtF-wiki
         - title: 导航站 2345.LGBT
           link: https://2345.lgbt
     - title: 动态
@@ -44,16 +43,15 @@ footer:
         - title: Twitter
           link: https://twitter.com/MtFwiki
         - title: GitHub
-          link: https://github.com/mtf-wiki
+          link: https://github.com/project-trans
         - title: 电子邮件
           link: mailto:hi@mtf.wiki
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
-      {{< mtf-wiki >}}
-
-      Copyright &copy; 2020-2022 <https://MtF.wiki>. All rights reserved.
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
+      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > 如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。
 ---

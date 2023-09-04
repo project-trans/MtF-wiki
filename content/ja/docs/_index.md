@@ -25,4 +25,4 @@ MtF（Male-to-Female）、トランスジェンダー女性とは、生まれた
 > あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。
 
 [^1]: Wikipedia で assigned sex の定義は、「出生時に性別の特徴を確認して決定される、割り当てられた性」です。
-[^2]: <https://github.com/mtf-wiki>
+[^2]: <https://github.com/project-trans>

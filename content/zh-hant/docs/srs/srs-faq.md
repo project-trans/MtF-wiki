@@ -2,7 +2,6 @@
 title: 術前科普
 slug: faq
 weight: 100
-keywords: [mtf, 跨性別, 木桶飯, 變性手術, 性別重置手術, SRS]
 ---
 
 ## Why SRS? SRS 能做到什麼? 我應當考慮 SRS 嗎?

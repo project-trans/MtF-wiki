@@ -2,7 +2,6 @@
 title: 术前科普
 slug: faq
 weight: 100
-keywords: [mtf, 跨性别, 木桶饭, 变性手术, 性别重置手术, SRS]
 ---
 
 ## Why SRS? SRS 能做到什么? 我应当考虑 SRS 吗?
@@ -29,6 +28,7 @@ SRS 并不是对每个跨性别者都是必须的，其直接作用仅仅是将�
 
 一个残酷的现实是，即使是完整的转变之后，我们也只是近乎得到了地球上另一半人生来就有的东西。在完成 SRS 以外，我们还有其它各方面的转变，以及更加重要的，其它所有的人生目标与追求。将 SRS 或转变视为唯一的人生目标，为之牺牲其它重要的机会，很可能是不明智的。
 
-## 参考资料
+## 参考阅读
 
 [SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)
+[PAI Burin 手术 90 天后写下的手术 FAQ](https://github.com/project-trans/basket-relay/discussions/4)
