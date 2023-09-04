@@ -25,6 +25,7 @@ title: Chettawut 医生
 
 ```csv
 手术方式,价格,最大允许BMI,阴道平均深度
+睾丸切除术,{{< currency 100000 THB >}},N/A,N/A
 零深度,{{< currency 400000 THB >}},35,无
 皮瓣,{{< currency 420000 THB >}},32,6 英寸
 结肠（腹腔镜）,{{< currency 725000 THB >}},28,7.5 英寸
