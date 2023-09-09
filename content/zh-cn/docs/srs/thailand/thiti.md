@@ -41,6 +41,8 @@ Thiti 在外观上同样能取得相对自然的阴唇等结构，小阴唇内�
 
 {{< hiddenphoto "/images/srs/thailand/thiti/post2.jpg" >}}
 
+> 投稿者要求备注：通模具伤屁眼痔疮肛裂
+
 - 2022 年 5 月手术，一年后拍摄
 
 {{< hiddenphoto "/images/srs/thailand/thiti/post1.jpg" >}}
