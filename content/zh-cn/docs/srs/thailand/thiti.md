@@ -6,12 +6,26 @@ title: Thiti 医生
 
 所在医院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
 
-手术费用：
+## 手术费用
+
+本段落信息从医疗中介处获取，仅供参考。
 
 ```csv
 手术方式,价格
-皮瓣,{{< currency 260000 THB >}}
+皮瓣（非功能性阴道）,{{< currency 280000 THB >}}
+皮瓣（功能性阴道）,{{< currency 290000 THB >}}
+结肠（传统技术）,{{< currency 380000 THB >}}
+结肠（腹腔镜技术）,{{< currency 570000 THB >}}
+腹膜技术,{{< currency 570000 THB >}}
 ```
+
+若 21 < BMI < 23，或可用皮过少，需加收{{< currency 30000 THB >}}。
+
+若 BMI > 23，医生可能建议选择皮瓣技术。
+
+手术费用包括手术费、麻醉费、住院期间医疗费、五晚六天住院费、医院餐饮费用；不包括其他疾病的治疗费用及风险控制费用。
+
+两位精神科医师约需{{< currency 7000 THB >}}。
 
 ## 医疗中介
 
