@@ -2,6 +2,12 @@
 title: Thiti 医生
 ---
 
+{{< notice success 巡回 >}}
+
+这个条目曾经被条目人物巡回过。~~终于{{< mtf-wiki>}}也到了足够让公式前来巡回的知名度了吗！？~~
+
+{{< /notice >}}
+
 医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
 
 所在医院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)

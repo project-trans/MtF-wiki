@@ -4,6 +4,14 @@ title: 长沙｜贺莹
 
 {{< tag/pos "花钱很少" >}} {{< tag/pos "不需要介绍信" >}}
 
+{{< notice success 巡回 >}}
+
+这个条目曾经被条目人物巡回过。~~终于{{< mtf-wiki>}}也到了足够让公式前来巡回的知名度了吗！？~~
+
+<!-- 这段话还有一个意思是，这篇文章被医生本人亲自审订过，修改之前请三思。 -->
+
+{{< /notice >}}
+
 {{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[贺莹](https://www.guahao.com/expert/819738df-5ae6-4bc3-83df-aad260927d97000)
