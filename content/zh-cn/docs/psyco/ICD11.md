@@ -109,6 +109,6 @@ ICD-11 和 DSM-5 之间最重要的区别在于，后者保留了与性别认同
 
 2022 年 1 月 8 日更新
 
-据上海长海医院（411）赵烨德以及上海九院跨性别专科（以上两家医院截止更新日期均未实行 ICD-11）提供的消息，实行 ICD-11 后，开具 HRT 处方和接受性别重置手术仍然需要提供精神科开具的证明（可能指新的「性别不一致」诊断证明，流程和之前的「易性症」证明一样）。具体的流程几乎不变，只不过是诊断证明的名称会变化。
+据上海四一一医院赵烨德以及上海九院跨性别专科（以上两家医院截止更新日期均未实行 ICD-11）提供的消息，实行 ICD-11 后，开具 HRT 处方和接受性别重置手术仍然需要提供精神科开具的证明（可能指新的「性别不一致」诊断证明，流程和之前的「易性症」证明一样）。具体的流程几乎不变，只不过是诊断证明的名称会变化。
 
 [^1]: Reed GM, Drescher J, Krueger RB, et al. Disorders related to sexuality and gender identity in the ICD-11: revising the ICD-10 classification based on current scientific evidence, best clinical practices, and human rights considerations [published correction appears in World Psychiatry. 2017 Jun;16(2):220]. World Psychiatry. 2016;15(3):205-221. doi:[10.1002/wps.20354](https://doi.org/10.1002%2Fwps.20354)
