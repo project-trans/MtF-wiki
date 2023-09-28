@@ -11,14 +11,18 @@ aliases: burin
 
 所在医院：[Preecha Aesthetic Institute](https://goo.gl/maps/eA5mp9mTXEYcDjj67)
 
-翻译陪护：Jessica (自身为 MtF，可带其他医生) {{< shields/telegram "jessicalee85" >}}、{{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
-
 主要提供：
 
 - 阴茎倒置的皮瓣阴道成形术
 - 乙状结肠的阴道成型术两种术式
 
 由于医院返点比其他医院少很多，医院没有已知的中文中介，可以自行了解英文中介。
+
+## 翻译陪护
+
+- Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
+
+    自身为 MtF
 
 ## 医生
 
