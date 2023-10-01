@@ -22,7 +22,7 @@ aliases: burin
 
 - Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
 
-    自身为 MtF，PAI官方认可她为srs的联络人员。
+    自身为 MtF，PAI官方认定 SRS 联络员。
 
     {{< expand "相关证明" >}}
 ![Certification](/images/srs/thailand/preecha/Certification_of_Volunteer_Service_for_Jessica_Lee.jpg)
