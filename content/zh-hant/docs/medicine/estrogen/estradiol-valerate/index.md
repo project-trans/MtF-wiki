@@ -21,7 +21,7 @@ Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
 | 臺灣 | 已註銷                         |
 | 香港 | HK-49511(1mg)<br>HK-49512(2mg) |
 
-![!](/images/medicine/estradiol-valerate/progynova-th.png)
+![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg)
 
 - 藥品名稱：Progynova<sup>&reg;</sup> 普女榮
 - 簡稱：補
@@ -31,8 +31,10 @@ Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
 ```csv
 規格,外觀
 1mg × 21 片/盒,黃糖衣錠
-2mg × 28 片 × 3 板/盒,藍色糖衣錠
+2mg × 28 片 × 3 板/盒,藍色糖衣錠（旧批次）<br>白色包衣錠（新批次）
 ```
+
+> 註：據[報告](https://github.com/project-trans/MtF-wiki/issues/906)自 2021 年十一月起，泰國分銷的 Progynova 2 mg 改為白色包衣[^5]；德國等其它地區亦然[^6]。市場上新舊產品可能共存，注意分辨。
 
 ### Estrade 益斯得錠
 
@@ -91,7 +93,9 @@ Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
 - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50
 
-[^1]: [關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-ev/)
-[^2]: [關於女性化激素療法與乳腺癌風險的簡述](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)
-[^3]: [對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-e2-transfem/)
-[^4]: [雌激素對凝血功能與血栓風險的影響](https://transfemscience.org/articles/estrogens-blood-clots/) （英文）
+[^1]: Aly. (2019). Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People. *Transfeminine Science*. 譯文：「[關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-ev/)」
+[^2]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：「[關於女性化激素療法與乳腺癌風險之簡述](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)」
+[^3]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People. *Transfeminine Science*. 譯文：「[對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem/)」
+[^4]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：「[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)」
+[^5]: Thai Ministry of Public Health. (2021). Details of Medicinal Product: Progynova&reg; 2 mg. <https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug.aspx?Newcode_U=U1DR1C1022640003811C>（泰文）
+[^6]: Jenapharm GmbH & Co KG. (2023). Gebrauchsinformation: Progynova&reg; 21. <https://www.jenapharm.de/download/14/116/2486.pdf>（德文）

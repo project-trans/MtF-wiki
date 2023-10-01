@@ -16,7 +16,7 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 
 |                        中国包装                         |                       泰国包装 (2mg)                       |
 | :-----------------------------------------------------: | :--------------------------------------------------------: |
-| ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-th.png) |
+| ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg) |
 
 - 药品名称：戊酸雌二醇片（Progynova&reg; 补佳乐&reg;）
 - 药品类型：单方制剂
@@ -29,10 +29,12 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 ```csv
 版本,规格,性状
 中国包装（国补）,1mg &times; 21 片/盒,淡黄色糖衣片，去除糖衣显白色
-泰国包装（泰补）,2mg &times; 28 片 &times; 3 板/盒,蓝色糖衣片
+泰国包装（泰补）,2mg &times; 28 片 &times; 3 板/盒,蓝色糖衣片（旧批次）<br>白色包衣片（新批次）
 ```
 
-- [说明书](/documents/ev-zh.pdf)
+- 说明书：[扫描件](/documents/ev-zh.pdf) | [电子版](https://tfsci.mtf.wiki/misc/progynova/)
+
+> 注：据[报告](https://github.com/project-trans/MtF-wiki/issues/906)自 2021 年十一月起，泰国分销的补佳乐 2 mg 剂型改为白色包衣[^5]；德国等其它地区亦然[^6]。市场上新旧产品可能共存，注意分辨。
 
 ### Climen<sup>&reg;</sup> 克龄蒙&reg;
 
@@ -87,7 +89,9 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50
 
-[^1]: [关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](https://tfsci.mtf.wiki/zh-cn/articles/sublingual-ev/)
-[^2]: [关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/zh-cn/articles/breast-cancer/)
-[^3]: [对女性倾向跨性别者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/zh-cn/articles/sublingual-e2-transfem/)
-[^4]: [雌激素对凝血功能与血栓风险的影响](https://transfemscience.org/articles/estrogens-blood-clots/) （英文）
+[^1]: Aly. Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](https://tfsci.mtf.wiki/articles/sublingual-ev/)》
+[^2]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
+[^3]: Sam. An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People [EB/OL]. *Transfeminine Science*, 2021. 译文：《[对女性倾向跨性别者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem/)》
+[^4]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^5]: Thai Ministry of Public Health. Details of Medicinal Product: Progynova&reg; 2 mg [EB/OL]. 2021-11-25. <https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug.aspx?Newcode_U=U1DR1C1022640003811C>（泰语）
+[^6]: Jenapharm GmbH & Co KG. Gebrauchsinformation: Progynova&reg; 21 [EB/OL]. 2023-08. <https://www.jenapharm.de/download/14/116/2486.pdf>（德文）
