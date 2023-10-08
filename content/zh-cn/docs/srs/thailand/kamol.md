@@ -20,7 +20,7 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 医疗中介
 
-这里的微信均为中文中介，已无医院在职员工。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院。[点击前往相关讨论页面](https://github.com/project-trans/MtF-wiki/issues/760)
+这里的微信均为中文中介，均不为医院在职员工，[点击前往相关讨论页面](https://github.com/project-trans/MtF-wiki/issues/760)。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院，目前已知的中文员工为 Baifern<sup>2023-10-08</sup>。
 
 - {{< shields/wechat "wuyanlii" >}}
 
