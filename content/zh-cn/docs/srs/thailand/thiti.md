@@ -2,6 +2,12 @@
 title: Thiti 医生
 ---
 
+{{< notice success 巡回 >}}
+
+这个条目曾经被条目人物巡回过。~~终于{{< mtf-wiki>}}也到了足够让公式前来巡回的知名度了吗！？~~
+
+{{< /notice >}}
+
 医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
 
 所在医院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
@@ -29,9 +35,11 @@ title: Thiti 医生
 
 ## 医疗中介
 
-梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
 
-曼谷雨 {{< shields/wechat "manguyu003" >}}
+- 曼谷雨 {{< shields/wechat "manguyu003" >}}
+
+    报价较高
 
 ## 护理问题
 

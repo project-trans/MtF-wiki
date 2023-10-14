@@ -19,7 +19,15 @@ title: Chettawut 医生
 - 电话：{{< telephone "+66 0-2078-8919" >}}
 - LINE：{{< shields/line "wihhospital" >}}
 
-医疗中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+## 医疗中介
+
+- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+
+    从已知信息来看，大陆客人联系医院官方会被转交梁金，梁金处手术报价**低于**官方。
+
+- 曼谷雨 {{< shields/wechat "manguyu003" >}}
+
+    报价较高
 
 ## 手术费用和缴费方式 {#payment}
 
@@ -34,7 +42,7 @@ title: Chettawut 医生
 
 手术费用包括外科医生和麻醉师的专业费用、护理服务、手术室费用、标准药品、往返机场和医院的交通费用；不包括机票和术前检查费用。
 
-费用仅供参考，请在预约时咨询医院。
+费用仅供参考，来源为梁金处报价，请在预约时咨询医院。
 
 可以使用泰铢现金、跨境汇款（含 [Wise](https://wise.com/)）、国际信用卡/储蓄卡、银联卡、支付宝、微信等方式支付医院费用。
 

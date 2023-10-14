@@ -14,6 +14,12 @@ title: Suporn 诊所
 
 约为 13 万人民币，常会变化。
 
+## 翻译陪护
+
+- Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
+
+    自身为 MtF，对suporn可以陪护，但不负责联系。
+
 ## 医疗水平
 
 Suporn 退休，目前基本是他徒弟 Bank 做。

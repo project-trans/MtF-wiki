@@ -8,10 +8,10 @@ title: 上海市精神卫生中心
 
 医生列表：
 
-- [陆峥](http://www.smhc.org.cn/MedicalGuide/contents/48/30.html)（500 元）
-- [王飚](http://www.smhc.org.cn/MedicalGuide/contents/49/56.html)（300 元）
-- [张毅](http://www.smhc.org.cn/MedicalGuide/contents/49/58.html)
-- [刘娜](http://www.smhc.org.cn/MedicalGuide/contents/51/183.html)
+- [陆峥](https://www.smhc.org.cn/MedicalGuide/contents/1262/23.html)（500 元）
+- [王飚](https://www.smhc.org.cn/MedicalGuide/contents/1263/49.html)（300 元）
+- [张毅](https://www.smhc.org.cn/MedicalGuide/contents/1263/51.html)
+- [刘娜](https://www.smhc.org.cn/MedicalGuide/contents/1264/453.html)
 - 吕钦谕
 
 所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1)
