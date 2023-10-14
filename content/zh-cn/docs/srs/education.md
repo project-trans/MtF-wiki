@@ -24,7 +24,7 @@ weight: 700
 ## 学历修改
 
 {{< notice warning "注意事项" >}}
-据相关消息，毕业学历已无法进行修改\
+据[相关消息](https://github.com/project-trans/MtF-wiki/pull/891#issuecomment-1751964049)，毕业学历已无法进行修改\
 建议在大学本科教育前完成 SRS 并完成[证件变更]({{< ref "id-card" >}})
 {{< /notice >}}
 
