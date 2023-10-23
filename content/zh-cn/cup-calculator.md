@@ -50,7 +50,7 @@ description: "罩杯计算器"
 <button onclick="cup()" type="submit">提交</button>
 
 <p id="result">国际通用罩杯: </p>
-<p id="resultcn">中国尺码: </p>
+<p id="resultcn">国内罩杯: </p>
 
 <script type="text/javascript">
   function cup() {
@@ -67,14 +67,13 @@ description: "罩杯计算器"
     var upper = (val3 + val4 + val5)/3;
     var cup = ( upper - under - 11 ) / 2;
     var cupcn = upper - under;
-    var valid = true;
     //Judgement
     if (isNaN(cup)) {
       window.document.getElementById("result").innerHTML = "数值错误，再检查检查吧";
-      valid = false;
+      cup = false;
     } else if (cup<=0){
       window.document.getElementById("result").innerHTML += "小妹妹你还不需要穿内衣哦";
-      valid = false;
+      cup = false;
     } else if (cup<1){
       cup = "AA，买少女小背心去吧";
     } else if (cup<=2){
@@ -89,14 +88,14 @@ description: "罩杯计算器"
       cup = "E";
     }else{
       window.document.getElementById("result").innerHTML += "你胸大你说了算（罩杯超出 MtF.wiki 预设）";
-      valid = false;
+      cup = false;
     }
     if (isNaN(cupcn)) {
       window.document.getElementById("resultcn").innerHTML = "数值错误，再检查检查吧";
-      valid = false;
+      cupcn = false;
     } else if (cupcn <= 5) {
       window.document.getElementById("resultcn").innerHTML += "小妹妹你还不需要穿内衣哦";
-      valid = false;
+      cupcn = false;
     } else if (cupcn <= 7.5) {
       cupcn = "AA，买少女小背心去吧";
     } else if (cupcn <= 10) {
@@ -111,10 +110,8 @@ description: "罩杯计算器"
       cupcn = "E";
     } else {
       window.document.getElementById("resultcn").innerHTML += "你胸大你说了算（罩杯超出 MtF.wiki 预设）";
-      valid = false;
+      cupcn = false;
     }
-    if (!valid)
-      return;
     if (isNaN(under)) {
       window.document.getElementById("result").innerHTML = "数值错误，再检查检查吧";
       window.document.getElementById("resultcn").innerHTML = "数值错误，再检查检查吧";
@@ -122,8 +119,8 @@ description: "罩杯计算器"
     } else{
       under = Math.ceil(under/5)*5;
     }
-    window.document.getElementById("result").innerHTML += under + cup;
-    window.document.getElementById("resultcn").innerHTML += under + cupcn;
+    window.document.getElementById("result").innerHTML += cup ? (under + cup) : "";
+    window.document.getElementById("resultcn").innerHTML += cupcn ? (under + cupcn) : "";
     return;
   }
 </script>
