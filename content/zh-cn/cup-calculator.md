@@ -51,7 +51,7 @@ description: "罩杯计算器"
 * 罩杯应该描述的就是围差，不是体积。也许你的奶子应该坐在杯里，现在的衣服只是把它们压到腋下去了。
 * 网络上有将 11 cm 或四英寸围差挪进下胸围的做法，但这种做法会导致杯过小，见[White & Scurr 2012](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/00140139.2011.647096)。Kohl、奶糖派等成熟厂商的计算器已抛弃该算法。
 
-算法来源：r/ABraThatFits [通用算法](https://www.reddit.com/r/ABraThatFits/wiki/manual_sizing_guide/)、[MTF 指南](https://www.reddit.com/r/ABraThatFits/wiki/mtfguide/)。r/ABraThatFits 有在线计算器，但是需要向后端提交数据，请慎用。
+算法来源：r/ABraThatFits [通用算法](https://www.reddit.com/r/ABraThatFits/wiki/manual_sizing_guide/)、[MTF 指南](https://www.reddit.com/r/ABraThatFits/wiki/mtfguide/)。r/ABraThatFits 有[在线计算器](https://www.abrathatfits.org/calculator.php)，但是需要向后端提交数据，请慎用。
 
 <button onclick="cup()" type="submit">提交</button>
 
@@ -64,11 +64,13 @@ description: "罩杯计算器"
 <script type="text/javascript">
 function stringify_cup(n) {
   var cup_to_letter = ["AA，买少女小背心去吧", "A", "B", "C", "D", "E", "F", "G"];
-  if (n <= 0)
+  if (isNan(n))
+    return "数值错误，再检查检查吧";
+  if (n < 0)
     return "小妹妹你还不需要穿内衣哦";
-  if (n > cup_to_letter.length + 1)
+  if (n > cup_to_letter.length)
     return "你胸大你说了算（罩杯超出 MtF.wiki 预设）";
-  return cup_to_letter[n - 1];
+  return cup_to_letter[n];
 }
 function cup() {
   var $id = window.document.getElementById.bind(window.document);
@@ -95,8 +97,9 @@ function cup() {
     return;
   }
 
-  $id("eu").innerText = '' + under + stringify_cup(cup_eu);
-  $id("cn").innerText = '' + under + stringify_cup(cup_cn);
+  // ABAF 计算器似乎有 EU -10 的行为
+  $id("eu").innerText = '' + (under - 10) + stringify_cup(cup_eu);
+  $id("cn").innerText = '' + (under - 10) + stringify_cup(cup_cn);
 }
 
 </script>
