@@ -21,7 +21,6 @@ description: "胸圍計算"
     border-image-outset: 0px;
   }
 </style>
-*由於按照國際通用罩杯計算方法修改了計算法，所以計算結果與原來相比可能偏小，不必擔心。*
 
 **計算會在你的電腦上完成，不會向伺服器回傳任何資料**
 
@@ -51,7 +50,7 @@ description: "胸圍計算"
 <button onclick="cup()" type="submit">計算</button>
 
 <p id="result">國際通用罩杯: </p>
-<p id="resultcn">中國尺碼: </p>
+<p id="resultcn">國內罩杯: </p>
 
 <script type="text/javascript">
   function cup() {
@@ -68,14 +67,13 @@ description: "胸圍計算"
     var upper = (val3 + val4 + val5)/3;
     var cup = ( upper - under - 11 ) / 2;
     var cupcn = upper - under;
-    var valid = true;
     //Judgement
     if (isNaN(cup)) {
       window.document.getElementById("result").innerHTML = "輸入有誤，再檢查一下吧";
-      valid = false;
+      cup = false;
     } else if (cup<=0){
       window.document.getElementById("result").innerHTML += "小妹妹妳還不需要穿內衣唷";
-      valid = false;
+      cup = false;
     } else if (cup<1){
       cup = "AA，購買少女內衣";
     } else if (cup<=2){
@@ -90,14 +88,14 @@ description: "胸圍計算"
       cup = "E";
     }else{
       window.document.getElementById("result").innerHTML += "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
-      valid = false;
+      cup = false;
     }
     if (isNaN(cupcn)) {
       window.document.getElementById("resultcn").innerHTML = "輸入有誤，再檢查一下吧";
-      valid = false;
+      cupcn = false;
     } else if (cupcn <= 5) {
       window.document.getElementById("resultcn").innerHTML += "小妹妹妳還不需要穿內衣唷";
-      valid = false;
+      cupcn = false;
     } else if (cupcn <= 7.5) {
       cupcn = "AA，买少女小背心去吧";
     } else if (cupcn <= 10) {
@@ -112,10 +110,8 @@ description: "胸圍計算"
       cupcn = "E";
     } else {
       window.document.getElementById("resultcn").innerHTML += "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
-      valid = false;
+      cupcn = false;
     }
-    if (!valid)
-      return;
     if (isNaN(under)) {
       window.document.getElementById("result").innerHTML = "輸入有誤，再檢查一下吧";
       window.document.getElementById("resultcn").innerHTML = "輸入有誤, 再檢查一下吧";
@@ -123,8 +119,8 @@ description: "胸圍計算"
     } else{
       under = Math.ceil(under/5)*5;
     }
-    window.document.getElementById("result").innerHTML += under + cup;
-    window.document.getElementById("resultcn").innerHTML += under + cupcn;
+    window.document.getElementById("result").innerHTML += cup ? (under + cup) : "";
+    window.document.getElementById("resultcn").innerHTML += cupcn ? (under + cupcn) : "";
     return;
   }
 </script>
