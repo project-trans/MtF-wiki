@@ -77,7 +77,7 @@ description: "胸圍計算"
       window.document.getElementById("result").innerHTML += "小妹妹妳還不需要穿內衣唷";
       valid = false;
     } else if (cup<1){
-      cup = "AA，买少女小背心去吧";
+      cup = "AA，購買少女內衣";
     } else if (cup<=2){
       cup = "A";
     } else if (cup<3){
