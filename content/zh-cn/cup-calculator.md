@@ -36,8 +36,8 @@ description: "罩杯计算器"
 
 <ul id="results">
 <li>有效胸围、调整围差：<span id="diff"></span></li>
-<li>欧盟罩杯：<span id="eu"></span></li>
-<li>中国尺码：<span id="cn"></span></li>
+<li>欧式 2 cm 罩杯：<span id="eu"></span></li>
+<li>中式 2.5 cm 罩杯：<span id="cn"></span></li>
 </ul>
 
 * * *
@@ -45,7 +45,8 @@ description: "罩杯计算器"
 罩杯计算方法：
 
 - 取“舒适”下胸围作为下胸围，四舍五入到最近的可用尺码。
-  - 欧盟和中国使用 5 cm 单位，并且减去 10 cm。例如 82 cm 会被转换为 70 cm。
+  - 欧盟使用 5 cm 单位，并且减去 10 cm。例如 82 cm 会被转换为 70 cm。
+  - 中国奶糖派使用 5 cm 单位，但似乎不减去 10 cm。所以 82 cm 会转换为 80 cm。
 - “彻底拉紧”不用于实际计算，只用于建议“舒适”程度输入：
   - 较宽的下胸围意味着更多的弹性材料，允许使用更小的“舒适”值。一般来说小于 80 cm 者可能需要增加舒适值（向上入），大于 90 cm 者可能需要降低舒适值（向下舍）。
   - 如果“彻底拉紧”下胸围和“舒适”的差别小于 5 cm，考虑增加“舒适”值
@@ -60,9 +61,13 @@ description: "罩杯计算器"
 
 你的罩杯字母是不是有点大？这太正常了！
 * 罩杯应该描述的就是围差，不是体积。也许你的奶子应该坐在杯里，现在的衣服只是把它们压到腋下去了。脱去衣物就是为了避免现有胸罩的干扰！
+* 和[正确大小](https://www.reddit.com/r/ABraThatFits/wiki/beginners_guide/#wiki_believe_your_size)比较一下，是不是差不多？
 * 网络上有将 11 cm 或四英寸围差挪进下胸围的做法，但这种做法会导致杯过小，见[White & Scurr 2012](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/00140139.2011.647096)。Kohl、奶糖派等成熟厂商的计算器已抛弃该算法。
 
-算法来源：r/ABraThatFits [通用算法](https://www.reddit.com/r/ABraThatFits/wiki/manual_sizing_guide/)、[MTF 指南](https://www.reddit.com/r/ABraThatFits/wiki/mtfguide/)。r/ABraThatFits 有[在线计算器](https://www.abrathatfits.org/calculator.php)，但是需要向后端提交数据，请慎用。
+算法来源：
+* r/ABraThatFits [通用算法](https://www.reddit.com/r/ABraThatFits/wiki/manual_sizing_guide/)、[MTF 指南](https://www.reddit.com/r/ABraThatFits/wiki/mtfguide/)。
+* r/ABraThatFits 有[在线计算器](https://www.abrathatfits.org/calculator.php)，但是非开源、需要向后端提交数据，请慎用。此计算器的输出已用于参考。“EU”输出为 5 cm 底围间隔、2.5 cm 围差间隔，有 10 cm 调整。
+* [奶糖派尺码助手](https://sizehelp.naitangpai.com/h5pc/pc.html)，非开源、需要向后端提交数据，请慎用。输出为 5 cm 底围间隔、约 2.5 cm 围差间隔，无 10 cm 调整。
 
 <script type="text/javascript">
 function stringify_cup(n) {
@@ -100,9 +105,9 @@ function cup() {
   }
 
   // EU performs -10 adjustment, see https://www.reddit.com/r/ABraThatFits/wiki/sizing_systems/
-  // CN presumably does same
+  // CN Candy Pie does not do the same
   $id("eu").innerText = '' + (under - 10) + stringify_cup(cup_eu);
-  $id("cn").innerText = '' + (under - 10) + stringify_cup(cup_cn);
+  $id("cn").innerText = '' + (under) + stringify_cup(cup_cn);
 }
 
 </script>
