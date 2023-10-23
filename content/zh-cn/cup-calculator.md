@@ -50,7 +50,7 @@ description: "罩杯计算器"
 <button onclick="cup()" type="submit">提交</button>
 
 <p id="result">国际通用罩杯: </p>
-<p id="resultcn">国内罩杯: </p>
+<p id="resultcn">中国尺码: </p>
 
 <script type="text/javascript">
   function cup() {
