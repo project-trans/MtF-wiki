@@ -1,25 +1,21 @@
 ---
 title: Greechart 医生
-hide: true
-_build:
-    list: never
 ---
 
 医生名字：Greechart Pornsinsirirak
 
-**疑似回到[Yanhee]({{< ref "yanhee" >}})执业，请咨询确认**
-
 医院：[米兰达整形医院（Milada Cosmetic Surgery Hospital）](https://g.page/milada_hospital)
 
-官方网站：<http://www.miladahospital.com/products/view.php?id=104>（泰语）
+官方网站：<https://www.miladahospital.com>（泰语）
 
-中文热线：{{< telephone "+66 89-794-0811" >}}
-
-邮箱：<china_info@miladahospital.com>、<miladahospital@gmail.com>
-
+邮箱：<miladahospital@gmail.com>
 LINE ID：{{< shields/line "miladahospital" >}}
 
-微信：{{< shields/wechat "Milada0897940811" >}}
+<!-- 没找到出处 -->
+<!-- 中文热线：{{< telephone "+66 89-794-0811" >}} -->
+<!-- <china_info@miladahospital.com> -->
+<!-- 官方网站的微信是个纯贴图，就离谱 -->
+<!-- 微信：{{< shields/wechat "Milada0897940811" >}} -->
 
 ## 手术技术
 
