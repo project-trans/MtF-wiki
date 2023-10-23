@@ -4,10 +4,16 @@ title: Yanhee 医院
 
 所在医院：[Yanhee Hospital](https://goo.gl/maps/2mYsALRVJe3xjPEeA)
 
+官方网站: <https://www.yanhee.net/>
+
 医生：
 
-- Dr. Juta
-- [Greechart Pornsinsirirak]({{< ref "greechart" >}})
+<!-- 这两没找到 -->
+<!-- - Dr. Juta
+- [Greechart Pornsinsirirak]({{< ref "greechart" >}}) -->
+
+- [Dr.Worapon-Ratanalert](https://www.yanhee.net/doctors/dr-worapon-ratanalert/)
+- [Dr.Kittichai-Sipiyarak](https://www.yanhee.net/doctors/dr-kittichai-sipiyarak/)
 
 联系电话：{{< telephone "+66 86-386-1299" >}}
 
@@ -15,11 +21,10 @@ title: Yanhee 医院
 
 ## 价格
 
-```csv
-手术方式,价格,备注
-皮瓣（PI）,{{< currency 345000 THB >}},包含 9 晚住院
-结肠,{{< currency 430000 THB >}},包含 7 晚住院
-```
+**细心的你应该已经发现了，这个医院官方网站的中文有机翻痕迹，且信息滞后**
+
+- [英文价格表](https://www.yanhee.net/cosmetic-services/sex-reassignment-surgery/male-to-female-surgery/)
+- [中文价格表](https://www.yanhee.net/cn/sex-reassignment-surgery-thailand/)
 
 ## 要求
 
