@@ -51,7 +51,7 @@ description: "胸圍計算"
 <button onclick="cup()" type="submit">計算</button>
 
 <p id="result">國際通用罩杯: </p>
-<p id="resultcn">國內罩杯: </p>
+<p id="resultcn">中國尺碼: </p>
 
 <script type="text/javascript">
   function cup() {
