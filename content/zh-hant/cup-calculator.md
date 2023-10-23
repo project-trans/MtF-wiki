@@ -40,12 +40,25 @@ description: "胸圍計算"
 
 數字 n 代表罩杯 (A=1、B=2、C=3依此類推)。例如，胸圍和下胸圍差為15 cm (n=2)表示B罩杯。
 
+中國尺碼計算方法:
+
+- 下胸圍 + 11cm + n × 2cm = 胸圍
+
+- 罩杯 n = (胸圍 - 下胸圍 - 5) / 2.5
+
+數字 n 代表罩杯 (A=1、B=2、C=3依此類推)。例如，胸圍和下胸圍差為10 cm (n=2)表示B罩杯。
+
 <button onclick="cup()" type="submit">計算</button>
 
-<p id="result"></p>
+<p id="result">國際通用罩杯: </p>
+<p id="resultcn">中國尺碼: </p>
 
 <script type="text/javascript">
   function cup() {
+    //Initial
+    window.document.getElementById("result").innerHTML = "國際通用罩杯: ";
+    window.document.getElementById("resultcn").innerHTML = "國內罩杯: ";
+    //Calculate
     var val1 = Number(window.document.getElementById("val1").value) || NaN;
     var val2 = Number(window.document.getElementById("val2").value) || NaN;
     var val3 = Number(window.document.getElementById("val3").value) || NaN;
@@ -54,16 +67,18 @@ description: "胸圍計算"
     var under = (val1 + val2 )/2;
     var upper = (val3 + val4 + val5)/3;
     var cup = ( upper - under - 11 ) / 2;
-
+    var cupcn = upper - under;
+    var valid = true;
+    //Judgement
     if (isNaN(cup)) {
       window.document.getElementById("result").innerHTML = "輸入有誤，再檢查一下吧";
-      return;
+      valid = false;
     } else if (cup<=0){
-      window.document.getElementById("result").innerHTML = "小妹妹妳還不需要穿內衣唷";
-      return;
+      window.document.getElementById("result").innerHTML += "小妹妹妳還不需要穿內衣唷";
+      valid = false;
     } else if (cup<1){
       cup = "AA，購買少女內衣";
-    } else if (cup<2){
+    } else if (cup<=2){
       cup = "A";
     } else if (cup<3){
       cup = "B";
@@ -74,16 +89,42 @@ description: "胸圍計算"
     } else if (cup<6){
       cup = "E";
     }else{
-      window.document.getElementById("result").innerHTML = "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
-      return;
+      window.document.getElementById("result").innerHTML += "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
+      valid = false;
     }
+    if (isNaN(cupcn)) {
+      window.document.getElementById("resultcn").innerHTML = "輸入有誤，再檢查一下吧";
+      valid = false;
+    } else if (cupcn <= 5) {
+      window.document.getElementById("resultcn").innerHTML += "小妹妹妳還不需要穿內衣唷";
+      valid = false;
+    } else if (cupcn <= 7.5) {
+      cupcn = "AA，买少女小背心去吧";
+    } else if (cupcn <= 10) {
+      cupcn = "A";
+    } else if (cupcn <= 12.5) {
+      cupcn = "B";
+    } else if (cupcn <= 15) {
+      cupcn = "C";
+    } else if (cupcn <= 17.5) {
+      cupcn = "D";
+    } else if (cupcn <= 20) {
+      cupcn = "E";
+    } else {
+      window.document.getElementById("resultcn").innerHTML += "妳胸大妳說了算（罩杯超出 MtF.wiki 預設）";
+      valid = false;
+    }
+    if (!valid)
+      return;
     if (isNaN(under)) {
       window.document.getElementById("result").innerHTML = "輸入有誤，再檢查一下吧";
+      window.document.getElementById("resultcn").innerHTML = "輸入有誤, 再檢查一下吧";
       return;
     } else{
       under = Math.ceil(under/5)*5;
     }
-      window.document.getElementById("result").innerHTML = under + cup;
+    window.document.getElementById("result").innerHTML += under + cup;
+    window.document.getElementById("resultcn").innerHTML += under + cupcn;
     return;
   }
 </script>
