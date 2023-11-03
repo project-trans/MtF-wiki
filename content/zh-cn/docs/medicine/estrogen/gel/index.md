@@ -46,7 +46,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 
 - 品牌：Organon
 - 有效成分：雌二醇
-- 批准文号：272196
+- 批准文号：02238704
 - 生产企业：Organo Canada Inc.
 - [说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)
 - [药物专著](https://www.organon.com/canada-en/wp-content/uploads/sites/5/2021/05/ESTROGEL-PM_E.pdf)
