@@ -31,7 +31,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 
 ### 健民 雌二醇凝胶 {#jian-min}
 
-![加拿大产](/images/medicine/gel/ningjiao.jpg)
+![国产](/images/medicine/gel/ningjiao.jpg)
 
 - 品牌：健民
 - 有效成分：雌二醇
