@@ -38,7 +38,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 批准文号：国药准字 H20051153
 - 生产企业：健民集团叶开泰国药（随州）有限公司
 - [说明书](/images/medicine/gel/jianmin_gel_instructions.jpg)
-- 药品规格：0.06% &times; 40g（含雌二醇 48mg）
+- 药品规格：0.06% &times; 40g（含雌二醇 24mg）
 
 ### Organon 雌二醇凝胶 {#organon-estrogel}
 
@@ -49,7 +49,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 批准文号：272196
 - 生产企业：Organo Canada Inc.
 - [说明书](/images/medicine/gel/jianmin_gel_instructions.jpg)
-- 药品规格：0.06% &times; 40g（含雌二醇 24mg, 一泵1.25g凝胶）
+- 药品规格：0.06% &times; 80g（含雌二醇 48mg, 一泵1.25g凝胶）
 
 ## 使用方式与用量
 
