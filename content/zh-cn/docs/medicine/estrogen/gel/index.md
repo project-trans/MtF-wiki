@@ -49,6 +49,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 批准文号：272196
 - 生产企业：Organo Canada Inc.
 - [说明书](static/images/medicine/gel/ESTROGEL-CI_E.pdf)
+- [药物专著](https://www.organon.com/canada-en/wp-content/uploads/sites/5/2021/05/ESTROGEL-PM_E.pdf)
 - 药品规格：0.06% &times; 80g（含雌二醇 48mg, 一泵1.25g凝胶）
 
 ## 使用方式与用量
