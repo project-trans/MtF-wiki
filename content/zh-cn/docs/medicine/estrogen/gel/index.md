@@ -48,8 +48,8 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 有效成分：雌二醇, 半水合物
 - 批准文号：02238704
 - 生产企业：Organon Canada Inc.
-- [说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)
-- [药物专著](https://www.organon.com/canada-en/wp-content/uploads/sites/5/2021/05/ESTROGEL-PM_E.pdf)
+- [患者用说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)
+- [说明书全文](https://pdf.hres.ca/dpd_pm/00072270.PDF)
 - 药品规格：0.06% &times; 80g（含雌二醇 48mg, 一泵1.25g凝胶）
 
 ## 使用方式与用量
