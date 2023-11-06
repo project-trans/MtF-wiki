@@ -45,9 +45,9 @@ description: 外用雌二醇凝胶，经皮吸收。
 ![加拿大产](/images/medicine/gel/Estrogel-Estradiol-upscaled.jpg)
 
 - 品牌：Organon
-- 有效成分：雌二醇
+- 有效成分：雌二醇, 半水合物
 - 批准文号：02238704
-- 生产企业：Organo Canada Inc.
+- 生产企业：Organon Canada Inc.
 - [说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)
 - [药物专著](https://www.organon.com/canada-en/wp-content/uploads/sites/5/2021/05/ESTROGEL-PM_E.pdf)
 - 药品规格：0.06% &times; 80g（含雌二醇 48mg, 一泵1.25g凝胶）
