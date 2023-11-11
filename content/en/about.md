@@ -22,7 +22,7 @@ Gratitude goes to these GitHub contributors:
 
 and other lovely guys who give us help and information.
 
-Contact me if u would like to join!
+Contact us if u would like to join!
 
 ## Contact
 
