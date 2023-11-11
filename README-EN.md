@@ -11,17 +11,17 @@ Brother Site: [FtM.wiki](https://ftm.wiki)
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
 
-This site was founded initially for China mainland's transgenders. However, if you would like to contribute information for the transgenders in your region, feel free to do so.
+This site was founded initially for mainland China's transgender people. However, if you would like to contribute information for transgender individuals in your region, feel free to do so.
 
 ## Content
 
 Welcome to the MtF.wiki. This is a place that may provide help for some transgender women.
 
-MtF (Male-to-Female), or transgender female, refers to a person who was assigned male at birth but identifies as female.
+MtF (Male-to-Female) or transgender female refers to a person who was assigned male at birth but is a woman.
 
-MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site, where you can learn about all kinds of medical information and dailylife guides related to transgender.
+MtF.wiki is dedicated to evolving into a free, open, and consistently updated platform for the integration of transgender knowledge, offering insights into various medical information and daily life guides relevant to transgender individuals and their experiences.
 
-The MtF.wiki is currently in its early stages of development. Various materials may have not been included, and there may even be some errors. All enthusiastic sisters are welcomed to join us and contribute to the MtF.wiki project.
+The MtF.wiki is currently in its early stages of development. Various resources may have not been included, and there may even be some errors. All enthusiastic sisters are welcome to join us and contribute to the MtF.wiki project.
 
 The original intention behind building this website is to provide a knowledge platform for the MtF community and to promote awareness and acceptance of gender transition among others.
 
@@ -41,7 +41,7 @@ Unless otherwise stated, all non-code content on this site is licensed under the
 
 In a nutshell, you are free to share and adapt, but you must give the appropriate credit and share under the same license without additional restrictions.
 
-If you would like to cite this GitHub repo, you can use the bibtex below：
+If you would like to cite this GitHub repo, you can use the BibTeX below：
 
 ```plain
 @misc{mtfwiki,
