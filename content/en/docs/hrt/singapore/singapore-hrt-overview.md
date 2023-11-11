@@ -11,10 +11,10 @@ The main place to get HRT is [Changi General Hospital](https://www.cgh.com.sg/).
 
 The process consists of two steps:
 
-1. Psychiatrist visit (gender disphoria diagnosis)
+1. Psychiatrist visit (gender dysphoria diagnosis)
 1. Endocrinology visit (obtain HRT)
 
-Singaporeans may first get a referral from a polyclinic to Changi General Hospital for governement subsidies.
+Singaporeans may first get a referral from a polyclinic to Changi General Hospital for government subsidies.
 
 {{<notice warning "For those under 21" >}}
 
