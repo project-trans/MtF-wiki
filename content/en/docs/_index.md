@@ -13,7 +13,7 @@ Though this site was founded initially for Chinese transgender people, we provid
 
 MtF (Male-to-Female), or transgender female, refers to a female whose gender[^1] was assigned male at birth but is a woman.
 
-{{< mtf-wiki >}} is dedicated to evolving into a free, open, and constantly updated platform for the integration of transgender knowledge, offering insights into various medical information and daily life guides relevant to transgender individuals and their experiences.
+{{< mtf-wiki >}} is committed to evolving into a free, open, and constantly updated platform for the integration of transgender knowledge, offering insights into various medical information and daily life guides relevant to transgender individuals and their experiences.
 
 The current {{< mtf-wiki >}} is in its infancy. Various materials may have not been completed, and there may even be some errors. Welcome all enthusiastic sisters to join us [^2] and contribute to the {{< mtf-wiki >}}.
 
