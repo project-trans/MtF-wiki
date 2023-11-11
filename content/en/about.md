@@ -16,7 +16,7 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [project-t
 
 Brother site: <https://FtM.wiki>
 
-Gratitude goes to these GitHub contributors:
+My deepest thanks go to these GitHub contributors:
 
 {{< github/contributors >}}
 
