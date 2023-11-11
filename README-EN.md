@@ -11,7 +11,7 @@ Brother Site: [FtM.wiki](https://ftm.wiki)
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
 
-This site was founded initially for mainland China's transgender people. However, if you would like to contribute information for transgender individuals in your region, feel free to do so.
+This site was founded initially for mainland China's transgender people. However, if you would like to contribute information for the transgender individuals in your region, please feel free to do so.
 
 ## Content
 
