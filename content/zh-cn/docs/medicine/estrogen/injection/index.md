@@ -94,6 +94,7 @@ description: 戊酸雌二醇注射液，国内尚无相关产品，大多数为�
 - 使用剂量：
   - 戊酸雌二醇：每5 - 7 天 5 mg / 每 1 - 2 周 10 mg
   - 环戊丙酸雌二醇：每 7 天 5 - 6 mg / 每 14 天 10 - 12 mg
+  - [雌二醇注射剂模拟计算器（英文）](https://transfemscience.org/misc/injectable-e2-simulator/)
 - 注意事项：
   - 请以[正确的方式](https://www.wikihow.com/Open-an-Ampule)打开安瓿瓶，以避免被玻璃划伤 / 使瓶子碎裂 / 使[微小的玻璃碎渣](https://www.youtube.com/watch?v=3Em4JqM8Aak)混入药水。
   - 请勿重复注入同一位置。

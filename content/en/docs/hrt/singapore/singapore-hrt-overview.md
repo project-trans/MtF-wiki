@@ -11,14 +11,14 @@ The main place to get HRT is [Changi General Hospital](https://www.cgh.com.sg/).
 
 The process consists of two steps:
 
-1. Psychiatrist visit (gender disphoria diagnosis)
-1. Endocrinology visit (obtain HRT)
+1. Psychiatrist visit (for a gender dysphoria diagnosis)
+1. Endocrinology visit (for obtaining an HRT prescription)
 
-Singaporeans may first get a referral from a polyclinic to Changi General Hospital for governement subsidies.
+Singaporeans may first get a referral from a polyclinic to Changi General Hospital for government subsidies.
 
-{{<notice warning "For those under 21" >}}
+{{<notice warning "For those under 21 years old" >}}
 
-- 18 to 20, consent from both parents is needed before HRT can commence.
-- Under 18, NO HRT given.
+- For 18- to 20-year-olds, consent from both parents is required before HRT can commence.
+- Under 18 years old, NO HRT is given.
 
 {{</notice>}}

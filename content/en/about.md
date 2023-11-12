@@ -16,13 +16,13 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [project-t
 
 Brother site: <https://FtM.wiki>
 
-Thanks goes to these GitHub contributors:
+My deepest thanks go to these GitHub contributors:
 
 {{< github/contributors >}}
 
 and other lovely guys who give us help and information.
 
-Contact if u would like to join!
+Contact us if u would like to join!
 
 ## Contact
 
