@@ -1,6 +1,6 @@
 ---
 title: 雌二醇片
-description: 雌二醇片一般是半水合雌二醇，不同于 [戊酸雌二醇]({{< ref estradiol-valerate >}})。
+description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇。
 ---
 
 {{< notice warning "用药安全提示" >}}
