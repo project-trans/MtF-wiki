@@ -132,3 +132,4 @@ HIV 阳性需额外加收 50% 费用，CD4 必须超过 500 且病毒载量未�
 - 一位姐妹的 SRS 记录（Burin） <https://t.me/Hana_SRSviaBurin>
 - [PAI Burin 手术 90 天后写下的手术 FAQ](https://github.com/project-trans/basket-relay/discussions/4)
 - 七七的SRS日记-PAI 布林 <https://t.me/srs77inpai>
+- 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
