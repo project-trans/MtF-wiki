@@ -10,4 +10,4 @@ jobs:
       pull-requests: write
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/labeler@v4
+      - uses: actions/labeler@v5
