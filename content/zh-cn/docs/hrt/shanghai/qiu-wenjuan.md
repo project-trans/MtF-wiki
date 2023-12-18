@@ -1,6 +1,9 @@
 ---
 title: 上海新华医院｜邱文娟
+draft: true
 ---
+
+<!-- https://github.com/project-trans/MtF-wiki/issues/955 -->
 
 医生姓名：[邱文娟](https://www.haodf.com/doctor/12422.html)
 
