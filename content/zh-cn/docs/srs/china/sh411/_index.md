@@ -453,8 +453,6 @@ weight: 1001
 
 {{< hiddenphoto "postoperative-4-3.jpg" >}}
 
-- [411流水账](https://t.me/+Zpw7TgHjZW05MzU1)
-
 ### 2023 年 6 月手术，术后两月余拍摄
 
 {{< hiddenphoto "postoperative-5-1.jpg" >}}
