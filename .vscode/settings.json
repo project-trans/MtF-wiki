@@ -1,7 +1,7 @@
 {
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   },
   "editor.wordWrap": "on",
   "files.associations": {
