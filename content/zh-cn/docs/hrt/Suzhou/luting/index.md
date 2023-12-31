@@ -39,7 +39,7 @@ title: 苏州市立医院｜鲁婷、吴冕
 周四 | 下午 | 内分泌普通门诊 | 12元
 周五 | 下午 | 内分泌普通门诊 | 12元
 
-![收费票据](https://github.com/project-trans/MtF-wiki/assets/52900290/204fc8dd-05cf-43c8-a810-d35f6641c932)
+![收费票据](https://github.com/remyhuang03/MtF-wiki/assets/54730911/022b8ab2-7122-472a-88c4-279dee21f6b4)
 
 ![开出的补佳乐](https://github.com/project-trans/MtF-wiki/assets/52900290/5eb78d63-f4e5-4b11-86b5-42ca694af4ea)
 
