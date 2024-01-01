@@ -41,7 +41,7 @@ footer:
     applySinglePageCss: true
     markdown: >
       {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
-      &copy; 2020-2023 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+      &copy; 2020-2024 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
       > あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。
 ---
