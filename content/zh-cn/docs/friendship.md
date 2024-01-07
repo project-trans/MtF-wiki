@@ -13,7 +13,7 @@ weight: 10
 
 ```csv
 平台,名称,加入方式
-QQ,Arch 木桶饭,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipzyj" >}}
+QQ,Arch 木桶饭（暂时停止新成员入群）,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipzyj" >}}
 QQ,跨儿音游组,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0cbS4" >}}
 Telegram,Backlight.Town 逆光小镇,联系 {{< shields/telegram rikablossom >}} 加入
 Telegram,跨儿音游组,{{< shields/telegram otoge_trans >}}
