@@ -47,6 +47,9 @@ collapsible: true
 
 若无焦虑抑郁状态，孙华医生不会开具过多量表，若有做 MMPI 的要求可以和医生提出。
 
+诊断证明样式：
+{{< watermark "cetificate_SunHua.jpg" >}}
+
 ## 南宁市第五人民医院
 
 {{<notice warning "注意" >}}
