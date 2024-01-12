@@ -44,3 +44,7 @@ QQ：`3040055353`
 
 [南京市 江宁区 吉印大道 2007 号](https://amap.com/place/B00190AGM3)
 南京同仁医院门诊大厅 4 楼 B 区
+
+## 参考资料 {#reference}
+
+- [七云洛在南京同仁的 VFS 日记](https://t.me/vfs7yunluo)
