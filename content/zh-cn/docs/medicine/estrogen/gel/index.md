@@ -49,14 +49,14 @@ description: 外用雌二醇凝胶，经皮吸收。
 
 在其它国家/地区可获取的凝胶包括但不限于：
 
-| | 美国 | 德国 | 西班牙 | 加拿大 | 英国、法国、韩国等 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| **样品** | ![Estrogel](/images/medicine/gel/estrogel-us-a.jpg) | ![Gynokadin](/images/medicine/gel/gynokadin-de.jpg) | ![Oestraclin](/images/medicine/gel/oestraclin-es.jpg) | ![加拿大产](/images/medicine/gel/Estrogel-Estradiol-upscaled.jpg) | ![Estreva](/images/medicine/gel/estreva-kr.jpg) |
-| **品牌** | EstroGel&reg; | Gynokadin&reg; | Oestraclin&reg; | Organon Estrogel | Estreva&reg; |
-| **生产企业** | ASCEND Therapeutics | 法杏制药 | SEID Lab | Organon Canada | Theramex Laboratory |
-| **规格** | 0.06% &times; 50g<br>定量按压 | 0.06% &times; 80g<br>定量按压 | 0.06% &times; 80g<br>铝塑管 | 0.06% &times; 80g<br>定量按压 | 0.1% &times; 50g<br>定量按压 |
-| **说明书** | [英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021166s018lbl.pdf)<br>[中文翻译](https://tfsci.mtf.wiki/misc/estrogel-us/) | [德语原文](https://service.besins-healthcare.de/gynokadin/fi/gynokadin-dosiergel-fachinformation-besins-healthcare.pdf) | [西语原文](https://cima.aemps.es/cima/pdfs/es/p/59577/Prospecto_59577.html.pdf) | [患者说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)<br>[英语全文](https://pdf.hres.ca/dpd_pm/00072270.PDF) | 暂无 |
-| **备注** | 法杏制药子公司 | | | | 每泵 0.5 g |
+| **品牌** | EstroGel&reg; | Gynokadin&reg; | Oestraclin&reg; | Organon Estrogel | Estreva&reg; | Sandrena&reg; |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **样品** | ![Estrogel](/images/medicine/gel/estrogel-us-a.jpg) | ![Gynokadin](/images/medicine/gel/gynokadin-de.jpg) | ![Oestraclin](/images/medicine/gel/oestraclin-es.jpg) | ![加拿大产](/images/medicine/gel/Estrogel-Estradiol-upscaled.jpg) | ![Estreva](/images/medicine/gel/estreva-kr.jpg) | ![Sandrena](/images/medicine/gel/sandrena-uk-1mg.png) |
+| **上市地域** | 美国 | 德国 | 西班牙 | 加拿大 | 英国、法国、韩国等 | 欧盟、英国、日本等 |
+| **生产企业** | ASCEND Therapeutics | 法杏制药 | SEID Lab | Organon Canada | Theramex Laboratory | Orion Pharma |
+| **规格** | 0.06% &times; 50g<br>定量按压 | 0.06% &times; 80g<br>定量按压 | 0.06% &times; 80g<br>铝塑管 | 0.06% &times; 80g<br>定量按压 | 0.1% &times; 50g<br>定量按压 | 0.1% &times; 0.5/1 g<br>每份独立包装<br>每盒 28/91 袋 |
+| **说明书** | [英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021166s018lbl.pdf)<br>[中文翻译](https://tfsci.mtf.wiki/misc/estrogel-us/) | [德语原文](https://service.besins-healthcare.de/gynokadin/fi/gynokadin-dosiergel-fachinformation-besins-healthcare.pdf) | [西班牙语原文](https://cima.aemps.es/cima/pdfs/es/p/59577/Prospecto_59577.html.pdf) | [患者说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)<br>[英语全文](https://pdf.hres.ca/dpd_pm/00072270.PDF) | 暂无 | [意大利语原文](https://www.orionpharma.it/siteassets/pdfs/foglio-illustrativo/sandrena---foglio-illustrativo.pdf) |
+| **备注** | 法杏制药子公司 | | | | 每泵 0.5 g | |
 
 
 ## 使用方式与用量
