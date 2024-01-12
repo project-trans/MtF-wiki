@@ -30,13 +30,7 @@ weight: 1
 
 ## 要求 {#prerequirements}
 
-> 呼吸道感染、过敏症状期间禁止手术。
-
-国内：
-
-1. 已行 SRS 手术，和/或身份已转变
-1. HRT 一年以上，有三级以上医院精神心理门诊易性症/性别不安诊断证明；
-1. 18 周岁以上，有行为能力，且全麻手术术前有直系亲属签署知情同意
+> 各医院有不同要求，总体而言国内嗓音手术的前置条件比srs宽松许多，具体要求以问诊时为准。
 
 ## 术式 {#method}
 
@@ -54,6 +48,10 @@ weight: 1
 话语基频、共振、变调、嗓音质量、清晰度、说话强度、言语率 和 韵律
 
 ### 不合适声带手术的情形 {#not-suitable}
+
+{{< notice warning "注意" >}}
+以下情形均来源于就诊中被医生指出并且告知不合适进行手术，实际上最终手术与否还要看医生以及患者双方的考量。
+{{< /notice >}}
 
 - 先天性声带发育不良
 - 声带闭合不全
@@ -79,6 +77,7 @@ weight: 1
   - [关于声带手术（翻译自日文）](https://zhuanlan.zhihu.com/p/42961553) (<https://archive.is/222hn>)
   - [关于声音女性化手术的说明 - Chettawut 泰国曼谷整形中心](http://www.chet-plasticsurgery.com/zh-hans/关于声音女性化手术/)
   - [Vocal Voice Surgery - PAI](http://pai.co.th/vocal-voice-surgery/)
+  - [七云洛在南京同仁的vfs日记](https://t.me/vfs7yunluo)
 - 友谊医院
   - [友谊医院嗓音训练相关总结](https://zhuanlan.zhihu.com/p/39891532) (<https://archive.is/TpS2Y>)
   - [北京友谊医院声带手术指南](https://zhuanlan.zhihu.com/p/42611790) (<https://archive.is/54iYV>)
