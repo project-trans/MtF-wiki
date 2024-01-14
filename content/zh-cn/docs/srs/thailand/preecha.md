@@ -142,7 +142,8 @@ Tips:
 
 {{< expand "点击展开" >}}
 
-- 2023 年 11 月
+- 2023 年 11 月（零深度）
+
   {{< hiddenphoto "/images/srs/thailand/preecha/post-1-1.webp" >}}
   {{< hiddenphoto "/images/srs/thailand/preecha/post-1-2.webp" >}}
 
