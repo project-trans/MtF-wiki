@@ -39,7 +39,7 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 - 说明书：[扫描件](/documents/ev-zh.pdf) | [电子版](https://tfsci.mtf.wiki/misc/progynova/)
 
 {{< notice warning "注意事项" >}}
-目前有药商用印补冒充德补售卖，请注意分辨。
+拜耳原厂和合作生产商的产品有一致的生产规范和性状。如发现任何与原厂产品性状不符之处，应向拜耳公司或当地分销商申诉。
 {{< /notice >}}
 
 > 注：据[报告](https://github.com/project-trans/MtF-wiki/issues/906)自 2021 年十一月起，泰国分销的补佳乐 2 mg 剂型改为白色包衣[^5]；德国等其它地区亦然[^6]。市场上新旧产品可能共存，注意分辨。
