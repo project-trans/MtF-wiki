@@ -12,7 +12,7 @@ title: Chettawut 医生
 
 ## 医生简介 {#intro}
 
-- 医生姓名：Chettawut，蔡达武 {{< tag/pos "WPATH 成员" >}}
+- 医生姓名：Chettawut，蔡达武
 - 所在医院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
 - 官方网站: [WIH International hospital](https://wihhospital.com/en/)
 - 邮箱：<info@wihhospital.com>
