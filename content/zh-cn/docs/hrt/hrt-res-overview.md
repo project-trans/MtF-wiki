@@ -24,6 +24,7 @@ weight: 1
 
 1. [上海九院｜程辰]({{< ref "sh9-hrt" >}})
 1. [北医三院]({{< ref "puth" >}})
+1. [广州暨南一院｜高绿芬]({{< ref "jnuh1" >}})
 
 ## 仅开具 HRT 处方 {#prescription}
 
