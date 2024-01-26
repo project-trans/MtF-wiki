@@ -9,7 +9,6 @@ title: 山东省精神卫生中心
 - [胡蕾](https://www.haodf.com/doctor/293557.html)
 - [张敬悬](https://www.haodf.com/doctor/119561.html) {{< tag/neg "需家属介入" >}}
 - [曹秉玉](https://www.haodf.com/doctor/119528.html) {{< tag/neg "需家属介入" >}}
-- [齐素芳](https://www.haodf.com/doctor/6964430522.html) {{< tag/neg "需家属介入" >}} {{< tag/pos "和蔼" >}}
 - [陈忠](https://www.haodf.com/doctor/6964430516.html)
 - [王洪军](https://www.haodf.com/doctor/3133959974.html)
 - [于晓东](https://www.haodf.com/doctor/6964430538.html) {{< tag/neg "需家属介入" >}} 
