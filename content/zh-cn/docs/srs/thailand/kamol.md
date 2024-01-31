@@ -38,12 +38,14 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 ## 手术费用
 
+含宿与术前费用
+
 ```csv
 手术方式,价格
-0 深度,{{< currency 275000 THB >}}
+0 深度,{{< currency 299000 THB >}}
 仅阴茎翻转 PI 皮瓣,{{< currency 350000 THB >}}
-阴囊皮瓣,{{< currency 11500 USD >}} 含宿与术前费用
-结肠,{{< currency 500000 THB >}}
+阴囊皮瓣,{{< currency 400000 THB >}}
+结肠,{{< currency 520000 THB >}}
 结肠（腹腔镜）,{{< currency 630000 THB >}}
 腹膜,{{< currency 650000 THB >}}
 ```
