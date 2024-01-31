@@ -8,7 +8,7 @@ title: 庇护所
 
 ## 南昌跨性别庇护所
 
-状态：正式运营
+状态：已终止运营
 
 章程及申请表单：<https://trans-shelter.github.io>
 
