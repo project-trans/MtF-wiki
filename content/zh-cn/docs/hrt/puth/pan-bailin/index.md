@@ -11,7 +11,10 @@ aliases:
 {{< tag/pos "超级帅" >}} {{< tag/neg "拍照片" >}}
 
 医生姓名：[潘柏林](https://www.haodf.com/doctor/227082.html)
+
 所在医院：[北京大学第三医院]({{< ref "puth" >}})
+
+[潘柏林医生的个人空间 - 哔哩哔哩视频](https://space.bilibili.com/2085711307)
 
 {{< notice warning "注意" >}}
 潘柏林会向跨儿本人及家长建议生育力保存，即精子冻存。
