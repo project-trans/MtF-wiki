@@ -44,4 +44,3 @@ title: 苏州市立医院｜鲁婷、吴冕
 ![开出的补佳乐](https://github.com/project-trans/MtF-wiki/assets/52900290/5eb78d63-f4e5-4b11-86b5-42ca694af4ea)
 
 ![激素六项女性范围参考](https://github.com/Baizhi-Angelica/MtF-wiki-20231214/assets/52900290/fad679f7-0cca-4f17-a18f-341b1217c8c4)
-
