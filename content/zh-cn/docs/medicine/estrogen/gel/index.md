@@ -58,6 +58,9 @@ description: 外用雌二醇凝胶，经皮吸收。
 | **说明书** | [英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021166s018lbl.pdf)<br>[中文翻译](https://tfsci.mtf.wiki/misc/estrogel-us/) | [德语原文](https://service.besins-healthcare.de/gynokadin/fi/gynokadin-dosiergel-fachinformation-besins-healthcare.pdf) | [西班牙语原文](https://cima.aemps.es/cima/pdfs/es/p/59577/Prospecto_59577.html.pdf) | [患者说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)<br>[英语全文](https://pdf.hres.ca/dpd_pm/00072270.PDF) | 暂无 | [意大利语原文](https://www.orionpharma.it/siteassets/pdfs/foglio-illustrativo/sandrena---foglio-illustrativo.pdf) |
 | **备注** | 法杏制药子公司 | | | | 每泵 0.5 g | |
 
+### 自制教程
+
+- [雌二醇凝胶自制教程](https://github.com/lydlid/estrogel-diy-guide-zh_CN)
 
 ## 使用方式与用量
 
