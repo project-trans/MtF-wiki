@@ -148,6 +148,11 @@ Tips:
   {{< hiddenphoto "/images/srs/thailand/preecha/post-1-1.webp" >}}
   {{< hiddenphoto "/images/srs/thailand/preecha/post-1-2.webp" >}}
 
+- 2023 年 6 月
+
+  {{< hiddenphoto "/images/srs/thailand/preecha/post-2-1.jpg" >}}
+  {{< hiddenphoto "/images/srs/thailand/preecha/post-2-2.jpg" >}}
+
 {{< /expand >}}
 
 ## 参考资料 {#references}
