@@ -4,8 +4,8 @@ weight: 2
 aliases: hormone-check
 ---
 
-在 HRT 过程中有必要定期监测身体状况：借此可查验用药效果，确保用药安全。\
-有部分医院在开具 HRT 处方前要求进行其余一系列检查（如[北医三院]({{< ref "pan-bailin" >}})），在此也会做适当说明。
+在 GAHT 过程中有必要定期监测身体状况：借此可查验用药效果，确保用药安全。\
+有部分医院在开具 GAHT 处方前要求进行其余一系列检查（如[北医三院]({{< ref "pan-bailin" >}})），在此也会做适当说明。
 
 （本文激素部分不适用于青春期阻断剂使用者，请遵专业团队指导。）
 
@@ -13,7 +13,7 @@ aliases: hormone-check
 不同医院的测定结果的所用的计量单位存在差异，本站提供 [激素单位换算器]({{< ref "converter" >}})
 {{< /notice >}}
 
-## 怎么查、何时查
+## 怎么查、何时查 {#when-and-how}
 
 治疗期间应监测的有：
 
@@ -41,11 +41,12 @@ aliases: hormone-check
 - **甲状腺功能。** 雌激素可刺激甲状腺素结合球蛋白（TBG）分泌，使甲状腺素再摄取减少[^8] [^18] [^19]。如需进行甲状腺素替代治疗，考虑监测之，且可能需增加甲状腺素剂量[^19]。
 - **乳腺扫描。** 雌激素、孕激素可增长乳腺癌风险 [^8] [^9] [^14]。长年服用雌、孕激素应注意。
 - 大脑**核磁共振扫描（MRI）。** 长年、高剂量服用醋酸环丙孕酮，应注意**脑膜瘤**风险，一经发现，须立即停药 [^10] [^16]。
+- **体重和体脂。** 睾酮水平降低将使得脂肪组织（尤其是皮下脂肪）增加，而雌激素可促进前体脂肪细胞成熟和分化，并减少皮下脂肪的分解[^25]；因此，MtF 群体中普遍可见接受 GAHT 以后体重和体脂增加的现象[^26]。应定期测量体重，适当运动，控制饮食，避免超重。
 
 中国大陆任何一家三甲医院均可进行激素和其它血液指标检查。挂号时，应挂内分泌科门诊，男科、妇科也能提供相关检查。进行检查的理由可以如实坦白，如果是相对保守的地区也可以用激素相关的疾病复查作为理由。
 
 
-## 看什么、怎么看
+## 看什么、怎么看 {#what-to-check}
 
 （此处「正常范围」指医院给出的顺性别参考值）
 
@@ -63,7 +64,7 @@ aliases: hormone-check
 
 **其它指标**：维持于正常参考范围之内。
 
-## 相关指标简介
+## 相关指标简介 {#important-values}
 
 {{< notice warning "注意事项" >}}
 国内尚无完整的、统一的妇产科内分泌性激素测定值，且由于各种试剂的来源，测定的方法，数据的计算，采用的单位不同，即使同一激素标本，各实验室所得结果也不完全相同。因此下文所提到的相关指标数据仅供参考。
@@ -72,20 +73,20 @@ aliases: hormone-check
 
 ### 雌二醇（E2）{#e2}
 
-<u>是 HRT 的指标中较为重要的内容。</u>
+<u>是 GAHT 的指标中较为重要的内容。</u>
 
 **雌二醇**（E2）是主要的雌性激素，负责调节女性特征，促进乳腺导管系统的产生。
 
 雌二醇在男性体内作为睾酮的代谢产物同样存在，其血清浓度相当于绝经后的妇女。雌二醇与雌酮可相互转化。
 
 - 雌二醇不仅对生殖和性功能有重要作用，也影响例如骨骼的其它器官。
-- 更详细的作用描述请左转本站 [HRT 综述]({{< ref "hrt-overview" >}})。
+- 更详细的作用描述请左转本站 [GAHT 综述]({{< ref "hrt-overview" >}})。
 
 #### 何时检测
 
 一般建议于下一次用药前进行检测。
 
-{{< notice warning "注意事项" >}} 如果您正在使用任何透皮类的雌激素药物，请确保您在采血前没有在采血的手臂使用药物，否则测出的结果将会异常偏大且没有参考价值，甚至超出仪器最大量程（笔者测出E2>19856.78 pmol/L） {{< /notice >}}
+{{< notice warning "注意事项" >}} 如果您正在使用任何透皮类的雌激素药物，请确保您在采血前没有在采血的手臂使用药物，否则测出的结果将会异常偏大且没有参考价值，甚至超出仪器最大量程（有编者曾测出 E2>19856.78 pmol/L） {{< /notice >}}
 
 #### MtF 参考值
 
@@ -95,7 +96,7 @@ aliases: hormone-check
 
 ### 睾酮（T）{#t}
 
-<u>是 HRT 中较为重要的内容。</u>
+<u>是 GAHT 中较为重要的内容。</u>
 
 **睾酮**(T)，是类固醇激素，由睾丸分泌，肾上腺亦分泌少量睾酮。睾酮是人体主要的雄激素/蛋白同化甾类。不论对男性或女性，睾酮对健康都有重要影响，影响范围包括性欲、力量、免疫功能等方面及起到对抗骨质疏松症等功效。据统计，成年男性分泌睾酮的分量是成年女性的分泌量的约 20 倍，体内含量是成年女性的 7~8 倍。
 
@@ -153,10 +154,10 @@ aliases: hormone-check
 
 **泌乳素**（PRL）是一种由垂体前叶腺嗜酸细胞分泌蛋白质激素。主要作用为促进乳腺发育生长，刺激并维持泌乳。泌乳素能刺激哺乳动物的乳腺发育或泌乳。在发育期，泌乳素能与雌激素、孕激素及其他激素共同作用，促使乳腺发育。
 
-使用[色普龙（醋酸环丙孕酮）]({{< ref "cyproterone" >}})等孕激素会使该项水平偏高，可考虑减少用量。
+外源性雌、孕激素会使该项水平升高，其中色普龙（醋酸环丙孕酮）的提升作用显著[^27]；超标时可考虑减少用量。此外，精神压力、刺激乳房等因素也可能使泌乳素升高[^28] [^29]。
 
 > - 女性参考范围：4.79 – 23.3 ng/mL [^1]
-> - 如果泌乳素高于正常值三倍，应降低孕激素剂量、换药或排查泌乳素瘤（复查 [脑部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)）[^2]
+> - 如果泌乳素高于正常值三倍或以上，应密切观察，酌情降低雌/孕激素剂量、换药或排查泌乳素瘤（复查 [脑部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)）[^2] [^3]
 
 ### 肝功能 (LFT) {#lft}
 
@@ -179,7 +180,7 @@ aliases: hormone-check
 [^1]: Esoterix/LabCorp. Endocrinology Expected Values and S.I. Unit Conversion Tables [EB/OL]. 2020. \[[PDF 文档](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
 [^2]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
 [^3]: Coleman E, Radix AE, Bouman WP, et al. Standards of Care for the Health of Transgender and Gender Diverse People, Version 8 [J]. *International Journal of Transgender Health*, 2022, *23*(Suppl 1):S1–S259. \[DOI: <https://doi.org/10.1080/26895269.2022.2100644>]
-[^4]: Aly. Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development [EB/OL]. *Transfeminine Science*, 2020. <https://transfemscience.org/articles/progestogens-breast-dev/>
+[^4]: Aly. Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于孕激素在乳房发育过程中有何潜在作用及影响的随笔](https://tfsci.mtf.wiki/articles/progestogens-breast-dev/)》
 [^5]: Aly. Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
 [^6]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 中译本：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
 [^7]: Aly. Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
@@ -200,3 +201,8 @@ aliases: hormone-check
 [^22]: 刘兆宇, 李岩, 李学武, 等. 中国海南百岁女性老人性腺激素表达特征及关联因素的横断面分析 [J]. *中南大学学报:医学版*, 2022, 47(1):45-51. \[DOI:[10.11817/j.issn.1672-7347.2022.210079](https://dx.doi.org/10.11817/j.issn.1672-7347.2022.210079)]
 [^23]: 李德绘, 梁自乾. 重度烧伤患者血清 PTH、钙、无机磷测定及其临床意义 [J]. *广西医科大学学报*, 2003(03): 374-375. \[DOI:[10.16190/j.cnki.45-1211/r.2003.03.025](https://dx.doi.org/10.16190/j.cnki.45-1211/r.2003.03.025)]
 [^24]: 急性胰腺炎协作组. 中国 6223 例急性胰腺炎病因及病死率分析 [J]. *胰腺病学*, 2006, 6(6):321-325. \[DOI:[10.3760/cma.j.issn.1674-1935.2006.06.001](https://dx.doi.org/10.3760/cma.j.issn.1674-1935.2006.06.001)]
+[^25]: Power M L, Schulkin J. Sex differences in fat storage, fat metabolism, and the health risks from obesity: possible evolutionary origins [J]. *British Journal of Nutrition*, 2008, 99(5): 931-940. DOI: [10.1017/S0007114507853347](https://doi.org/10.1017/S0007114507853347)
+[^26]: Klaver M, Dekker M J H J, de Mutsert R, et al. Cross-­sex hormone therapy in transgender persons affects total body weight, body fat and lean body mass: a meta-analysis [J]. *Andrologia*, 2016, 49(5): e12660. DOI: [10.1111/and.12660](https://doi.org/10.1111/and.12660)
+[^27]: Wilson L M, Baker K E, Sharma R, et al. Effects of antiandrogens on prolactin levels among transgender women on estrogen therapy: A systematic review [J]. *International Journal of Transgender Health*, 2020, 21(4): 391-402. DOI: [10.1080/15532739.2020.1819505](https://doi.org/10.1080/15532739.2020.1819505)
+[^28]: Lennartsson A-K, Jonsdottir I H. Prolactin in response to acute psychosocial stress in healthy men and women [J]. *Psychoneuroendocrinology*, 2011, 36(10): 1530-1539. DOI: [10.1016/j.psyneuen.2011.04.007](https://doi.org/10.1016/j.psyneuen.2011.04.007)
+[^29]: Ratner R E, Sherry S H, Guay A T. Secretion of prolactin after acute and chronic stimulation of the breast: effect of timing during the menstrual cycle [J]. *Fertility and Sterility*, 1982, 38(4): 410-414. DOI: [10.1016/S0015-0282(16)46572-6](https://doi.org/10.1016/S0015-0282(16)46572-6)

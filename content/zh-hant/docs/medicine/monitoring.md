@@ -9,8 +9,8 @@ aliases: hormone-check
 歡迎對本頁進行最佳化。
 {{< /notice >}}
 
-在 HRT 過程中有必要定期監測身體狀況：藉此可查驗用藥效果，確保用藥安全。\
-有部分醫院在開具 HRT 處方前要求進行其餘一系列檢查（如北醫三院），在此也會做適當說明。
+在 GAHT 過程中有必要定期監測身體狀況：藉此可查驗用藥效果，確保用藥安全。\
+有部分醫院在開具 GAHT 處方前要求進行其餘一系列檢查（如北醫三院），在此也會做適當說明。
 
 （本頁激素部分不適用於青春期阻斷劑使用者，請遵專業團隊指導。）
 
@@ -18,11 +18,11 @@ aliases: hormone-check
 不同醫院的測定結果的所用的計量單位存在差異，本站提供 [激素單位換算器]({{< ref "converter" >}})
 {{< /notice >}}
 
-## {{< ruby "怎麼查、何時查" "點查、幾時查" >}}
+## 怎麼查、何時查 {#when-and-how}
 
 治療期間應監測的有：
 
-- **性激素六項，其中雌二醇、睪固酮、泌乳素較重要。** 應當在接近下一次用藥前進行抽血檢查，不要在服用藥物之後立即進行激素檢查。可以在完全六項檢查之後一段時間里，只檢查所關註的幾項。是否空腹抽血請遵醫囑。\
+- **性激素六項，其中雌二醇、睪固酮、催乳素較重要。** 應當在接近下一次用藥前進行抽血檢查，不要在服用藥物之後立即進行激素檢查。可以在完全六項檢查之後一段時間里，只檢查所關註的幾項。是否空腹抽血請遵醫囑。\
    介紹及參考範圍等見下文。
 - **肝功能值。** 強烈建議在治療開始前檢查一次，治療期間每三個月定期檢查一次 [^2]。以醋酸環丙孕酮、[比卡魯胺]({{< ref "bicalutamide" >}})治療的前六個月要格外留意。\
    詳情[見下]({{< ref "#lft" >}})。
@@ -46,10 +46,11 @@ aliases: hormone-check
 - **甲狀腺功能。** 雌激素可刺激甲狀腺素結合球蛋白（TBG）分泌，使甲狀腺素再攝取減少[^8] [^18] [^19]。如需進行甲狀腺素替代治療，考慮監測之，且可能需增加甲狀腺素劑量[^19]。
 - **乳腺掃描。** 雌激素、孕激素可增長乳腺癌風險 [^8] [^9] [^14]。長年服用雌、孕激素應注意。
 - 大腦**核磁共振掃描（MRI）。** 長年、高劑量服用醋酸環丙孕酮，應注意**腦膜瘤**風險，一經發現，須立即停藥 [^10] [^16]。
+- **體重和體脂。** 睪酮水平降低將使得脂肪組織（尤其是皮下脂肪）增加，而雌激素可促進前體脂肪細胞成熟和分化，並減少皮下脂肪的分解[^25]；因此，MtF 群體中普遍可見接受 GAHT 以後體重和體脂增加的現象[^26]。應定期測量體重，適當運動，控制飲食，避免超重。
 
 中國大陸任何一家三甲醫院均可進行激素和其他血液指標檢查。掛號時，應掛內分泌科門診，男科、婦科也能提供相關檢查。進行檢查的理由可以如實坦白，如果是相對保守的地區也可以用激素相關的病症復查作為理由。
 
-## {{< ruby "看什麼、怎麼看" "睇乜、點睇" >}}
+## 看什麼、怎麼看 {#what-to-check}
 
 （此處「正常範圍」指醫院給出的順性別參考值）
 
@@ -67,7 +68,7 @@ aliases: hormone-check
 
 **其他血生化值**：維持於正常參考範圍之內。
 
-## 相關指標簡介
+## 相關指標簡介 {#important-values}
 
 {{< notice warning "注意事項" >}}
 國內尚無完整的、統一的婦產科內分泌性激素測定值，且由於各種試劑的來源，測定的方法，數據的計算，採用的單位不同，即使同一激素標本，各實驗室所得結果也不完全相同。因此下文所提到的相關指標數據僅供參考。
@@ -76,20 +77,20 @@ aliases: hormone-check
 
 ### 雌二醇（E2）{#e2}
 
-<u>是 HRT 的指標中較為重要的內容。</u>
+<u>是 GAHT 的指標中較為重要的內容。</u>
 
 **雌二醇**（E2）是主要的雌性素（動情素），負責調節女性特徵，促進乳腺導管系統的產生。
 
 雌二醇在男性體內作為睪固酮的代謝產物同樣存在，其血清濃度相當於絕經後的婦女。雌二醇與雌酮可相互轉化。
 
 - 雌二醇不僅對生殖和性功能有重要作用，也影響例如骨骼的其它器官。
-- 更詳細的作用描述請左轉本站 [HRT 總述]({{< ref "hrt-overview" >}})。
+- 更詳細的作用描述請左轉本站 [GAHT 總述]({{< ref "hrt-overview" >}})。
 
 #### 何時檢測
 
 一般建議於下一次用藥前進行檢測。
 
-{{< notice warning "注意事項" >}} 如果您正在使用任何透皮類的雌激素藥物，請確保您在採血前沒有在採血的手臂使用藥物，否則測出的結果將會異常偏大且沒有參考價值，甚至超出儀器最大量程（筆者測出E2>19856.78 pmol/L） {{< /notice >}}
+{{< notice warning "注意事項" >}} 如果您正在使用任何透皮類的雌激素藥物，請確保您在採血前沒有在採血的手臂使用藥物，否則測出的結果將會異常偏大且沒有參考價值，甚至超出儀器最大量程（有編者曾測出 E2>19856.78 pmol/L） {{< /notice >}}
 
 #### MtF 參考值
 
@@ -99,7 +100,7 @@ aliases: hormone-check
 
 ### 睪固酮（T）{#t}
 
-<u>是 HRT 中較為重要的內容。</u>
+<u>是 GAHT 中較為重要的內容。</u>
 
 **睪固酮**(T)，是類固醇激素，由睪丸分泌，腎上腺亦分泌少量睪固酮。睪固酮是人體主要的雄激素/蛋白同化類固醇。不論是男性或女性，對健康都有重要影響，包括性欲、力量、免疫功能、對抗骨質疏鬆症等功效。據統計，成年男性分泌睪固酮的分量是成年女性的分泌量的約 20 倍，體內含量是成年女性的 7~8 倍。
 
@@ -157,10 +158,10 @@ aliases: hormone-check
 
 **催乳素**（PRL）是一種由垂體前葉腺嗜酸細胞分泌蛋白質激素。主要作用為促進乳腺發育生長，刺激並維持泌乳。催乳素能刺激哺乳動物的乳腺發育或泌乳。在發育期，催乳素能與雌激素、孕激素及其他激素共同作用，促使乳腺發育。
 
-使用[色普龍（醋酸環丙孕酮）]({{< ref "cyproterone" >}})等孕激素會使該項水平偏高，可考慮減少用量。
+外源性雌、孕激素會使該項水平升高，其中色普龍（醋酸環丙孕酮）的提升作用顯著[^27]；超標時可考慮減少用量。此外，精神壓力、刺激乳房等因素也可能使催乳素升高[^28] [^29]。
 
 > - 女性參考範圍：4.79 – 23.3 ng/mL [^1]
-> - 如果催乳素高於正常值三倍，應降低孕激素劑量、換藥或排查催乳素瘤（復查 [腦部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)）[^2]
+> - 如果催乳素高於正常值三倍或以上，應密切觀察，酌情降低雌/孕激素劑量、換藥或排查催乳素瘤（複查 [腦部 MRI](https://zh.wikipedia.org/wiki/磁共振成像)）[^2] [^3]
 
 ### 肝功能值 (LFT) {#lft}
 
@@ -183,7 +184,7 @@ aliases: hormone-check
 [^1]: Esoterix/LabCorp. (2020). *Endocrinology Expected Values and S.I. Unit Conversion Tables.* \[[PDF 文檔](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
 [^2]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine People.* Transfeminine Science. 中譯本：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
 [^3]: Coleman, E., Radix, A.E., Bouman, W.P., et al. (2022). *Standards of Care for the Health of Transgender and Gender Diverse People, Version 8*. International Journal of Transgender Health, *23*(Suppl 1):S1–S259. \[DOI: <https://doi.org/10.1080/26895269.2022.2100644>]
-[^4]: Aly. (2020). *Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development.* Transfeminine Science. <https://transfemscience.org/articles/progestogens-breast-dev/>
+[^4]: Aly. (2020). *Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development.* Transfeminine Science. 譯文：《[關於孕激素在乳房發育過程中有何潛在作用及影響的隨筆](https://tfsci.mtf.wiki/articles/progestogens-breast-dev/)》
 [^5]: Aly. (2018). *Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects.* Transfeminine Science. 中譯本：《[口服孕酮及其引起的低孕酮水平與較弱效力的簡論](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
 [^6]: Aly. (2019). *Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People*. Transfeminine Science. 中譯本：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪固酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
 [^7]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中譯本：《[比卡魯胺在女性化激素治療方面的使用狀況，以及醫學界對其的接受情況](https://tfsci.mtf.wiki/articles/bica-adoption/)》
@@ -204,3 +205,8 @@ aliases: hormone-check
 [^22]: 劉兆宇, 李岩, 李學武, 等. (2022). *中國海南百歲女性老人性腺激素表達特徵及關聯因素的橫斷面分析*. 中南大學學報:醫學版, 47(1):45-51. \[DOI:[10.11817/j.issn.1672-7347.2022.210079](https://dx.doi.org/10.11817/j.issn.1672-7347.2022.210079)]
 [^23]: 李德繪, 梁自乾. (2003). *重度燒傷患者血清 PTH、鈣、無機磷測定及其臨床意義*. 廣西醫科大學學報, (03): 374-375. \[DOI:[10.16190/j.cnki.45-1211/r.2003.03.025](https://dx.doi.org/10.16190/j.cnki.45-1211/r.2003.03.025)]
 [^24]: 急性胰腺炎協作組. (2006). *中國 6223 例急性胰腺炎病因及病死率分析*. 胰腺病學, 6(6):321-325. \[DOI:[10.3760/cma.j.issn.1674-1935.2006.06.001](https://dx.doi.org/10.3760/cma.j.issn.1674-1935.2006.06.001)]
+[^25]: Power, M. L., Schulkin, J. (2008). Sex differences in fat storage, fat metabolism, and the health risks from obesity: possible evolutionary origins. *British Journal of Nutrition*, 99(5): 931-940. DOI: [10.1017/S0007114507853347](https://doi.org/10.1017/S0007114507853347)
+[^26]: Klaver, M., Dekker, M. J. H. J., de Mutsert, R., et al. (2016). Cross-­sex hormone therapy in transgender persons affects total body weight, body fat and lean body mass: a meta-analysis. *Andrologia*, 49(5): e12660. DOI: [10.1111/and.12660](https://doi.org/10.1111/and.12660)
+[^27]: Wilson, L. M., Baker, K. E., Sharma, R., et al. (2020). Effects of antiandrogens on prolactin levels among transgender women on estrogen therapy: A systematic review. *International Journal of Transgender Health*, 21(4): 391-402. DOI: [10.1080/15532739.2020.1819505](https://doi.org/10.1080/15532739.2020.1819505)
+[^28]: Lennartsson, A.-K., Jonsdottir, I. H. (2011). Prolactin in response to acute psychosocial stress in healthy men and women. *Psychoneuroendocrinology*, 36(10): 1530-1539. DOI: [10.1016/j.psyneuen.2011.04.007](https://doi.org/10.1016/j.psyneuen.2011.04.007)
+[^29]: Ratner, R. E., Sherry, S. H., Guay, A. T. (1982). Secretion of prolactin after acute and chronic stimulation of the breast: effect of timing during the menstrual cycle. *Fertility and Sterility*, 38(4): 410-414. DOI: [10.1016/S0015-0282(16)46572-6](https://doi.org/10.1016/S0015-0282(16)46572-6)
