@@ -4,7 +4,7 @@ title: 武汉｜李赋
 
 {{< tag/pos "初诊获得证明" >}} {{< tag/neg "18 岁以下需家长陪同" >}}
 
-医生姓名：[李赋](http://www.chinapsy.com/index.php/index-view-aid-1116.html)
+医生姓名：[李赋](https://www.chinapsy.com/view_125.html)
 
 所在医院：[武汉市精神卫生中心（二七院区）](https://amap.com/place/B0FFF49IMU)
 
