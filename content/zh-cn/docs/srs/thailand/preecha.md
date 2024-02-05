@@ -161,3 +161,4 @@ Tips:
 - [PAI Burin 手术 90 天后写下的手术 FAQ](https://github.com/project-trans/basket-relay/discussions/4)
 - 七七的SRS日记-PAI 布林 <https://t.me/srs77inpai>
 - 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
+- 另一位姐妹的 SRS 记录（Burin） <https://t.me/+_PBS1QLpQOkzMGQ9>
