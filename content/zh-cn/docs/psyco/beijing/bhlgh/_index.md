@@ -5,7 +5,7 @@ collapsible: true
 
 ## 概况
 
-[北京回龙观医院](https://bhlgh.com)（Beijing HuiLongGuan Hospital，BHLGH）位于 [北京市昌平区回龙观南店路 7 号](https://amap.com/place/B000A0989A)，是北京市卫生健康委、北京市医院管理中心直属的精神卫生专科医疗机构。
+[北京回龙观医院](https://bhlgh.com)（Beijing Huilongguan Hospital，BHLGH）位于 [北京市昌平区回龙观南店路 7 号](https://amap.com/place/B000A0989A)，是北京市卫生健康委、北京市医院管理中心直属的精神卫生专科医疗机构。
 
 ## 预约挂号 {#register}
 
