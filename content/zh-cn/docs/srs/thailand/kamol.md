@@ -145,4 +145,5 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 ## 内容参考
 
-[Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/gogo_became_a_cat/)
+- [Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/gogo_became_a_cat/)
+- 一位姐妹的SRS日记 <https://t.me/kamolzerodepthexperience>
