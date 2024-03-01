@@ -2,6 +2,14 @@
 title: 国际医学中心医院整形医院 | 郭树忠
 ---
 
+{{< notice error "提示" >}}
+
+目前有消息称郭树忠医生已经离开西安国际医学中心医院，前往深圳和睦家医院（私立医院）任职。
+
+相关消息仍待进一步核实与补充。
+
+{{< /notice >}}
+
 {{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[郭树忠](http://www.imc-xa.cn/detail-2987.aspx)
