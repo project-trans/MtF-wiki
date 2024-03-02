@@ -9,6 +9,8 @@ aliases: burin
 
 电话：{{< telephone "+662 715-0111" >}}
 
+与 PAI 合作的手术中介：[Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) - 不需要收取额外费用，需要基础英文沟通能力(面诊,复诊可配搭收费中文翻译)
+
 ## 手术技术
 
 ```csv
@@ -22,7 +24,7 @@ aliases: burin
 
 ## 翻译陪护
 
-- Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
+- Jessica/嘉嘉  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
 
     自身为 MtF，PAI官方认定 SRS 联络员。**据其本人反馈目前PAI不存在官方中文员工**<sup>2023-10-09</sup>
 
