@@ -1,6 +1,6 @@
 ---
 title: 澳大利亚
-weight: 8001
+weight: 10036
 ---
 
 - 澳大利亚HRT流程：<https://www.transhub.org.au/informed-consent>
