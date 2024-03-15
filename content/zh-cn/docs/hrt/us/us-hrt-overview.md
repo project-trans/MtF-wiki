@@ -28,14 +28,19 @@ weight: 1
 在美国开始 HRT 一般需要以下几步：
 
 1. 找一个可以进行 HRT 的诊所/医院（可以参考[这个链接](https://www.reddit.com/r/asktransgender/comments/d6p05q/i_compiled_every_single_informed_consent_clinic/)，也可以去搜搜看自己学校的 Student Health Center 可不可以开，还可以考虑大医院的 Gender Diversity/Gender Health Program 或者 Planned Parenthood 等机构）。
-1. 首次面诊，可能会有以下的情况
+2. 首次面诊，可能会有以下的情况
    1. 问一些关于性别方面的问题，给出性别不安/性别不一致的诊断
-   1. 给一份开始 HRT 的知情同意书，并让回家熟读后选择签字
-   1. 直接签知情同意书，并进行 HRT 前抽血化验
-1. 拿到诊断/签字之后进行 HRT 前的抽血化验（有些地方不需要）
-1. 开处方之后去药房拿药
-1. 开始 HRT 大约 2-3 周之后测激素水平
-1. 激素水平稳定后大约每 3 个月进行复查
+      1. 可能会问到的问题，大概不会影响后续结果：
+         - 在什么时候意识到“不符合指派性别”
+         - 家庭、学校、公司里是否有人知情，态度如何
+         - 有没有 HRT 过
+   2. 给一份开始 HRT 的知情同意书，并让回家熟读后选择签字
+   3. 直接签知情同意书，并进行 HRT 前抽血化验
+3. 拿到诊断/签字之后进行 HRT 前的抽血化验（有些地方不需要）
+4. 开处方之后去药房拿药
+5. 开始 HRT 大约 2-3 周之后测激素水平
+6. 激素水平稳定后大约每 3 个月进行复查
+
 
 绝大多数地方的 HRT 是按照 [UCSF Guideline](https://transcare.ucsf.edu/guidelines) 进行的，如有疑问可以参照。
 
