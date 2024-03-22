@@ -1,5 +1,6 @@
 ---
 title: 杭州｜杭州市第七人民医院
+draft: true
 ---
 
 医院：[杭州市第七人民医院](https://amap.com/place/B023B02359)
