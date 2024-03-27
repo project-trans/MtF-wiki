@@ -31,7 +31,7 @@ footer:
     - title: 动态
       links:
         - title: Twitter
-          link: https://mtf.wiki
+          link: https://twitter.com/MtFwiki
         - title: Telegram 频道
           link: https://t.me/MtFwiki
     - title: 联系
