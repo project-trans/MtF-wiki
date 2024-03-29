@@ -448,15 +448,15 @@ weight: 1001
 
 {{< expand "点击展开" >}}
 
+### 2023 年 9 月手术，术后 200 日拍摄
+
+{{< hiddenphoto "postoperative-6.jpg" >}}
+
 ### 2023 年 7 月手术
 
 - 术后 12 天拍摄
 
 {{< hiddenphoto "postoperative-4-1.jpg" >}}
-
-- 术后 21 天拍摄
-
-{{< hiddenphoto "postoperative-4-2.jpg" >}}
 
 - 术后 30 天拍摄
 
@@ -471,15 +471,7 @@ weight: 1001
 ### 2022 年 11 月手术，术后半年拍摄
 
 {{< hiddenphoto "postoperative-3-1.jpg" >}}
-{{< hiddenphoto "postoperative-3-2.jpg" >}}
-{{< hiddenphoto "postoperative-3-3.jpg" >}}
 {{< hiddenphoto "postoperative-3-4.jpg" >}}
-
-### 2022 年 10 月手术，术后半年拍摄
-
-{{< hiddenphoto "postoperative-2-1.jpg" >}}
-{{< hiddenphoto "postoperative-2-2.jpg" >}}
-{{< hiddenphoto "postoperative-2-3.jpg" >}}
 
 ### 2021 年 6 月手术，术后 7 个月拍摄
 
