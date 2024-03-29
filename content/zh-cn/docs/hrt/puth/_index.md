@@ -155,7 +155,7 @@ https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp
 
 应当在所有检查结果产生后前去就诊。启动当日所需材料如下图所示，这张清单在第一次就诊时医生会给出。
 
-**第二次就诊请勿忘携带「易性症」或其他类似诊断的病历或诊断证明。**
+**第二次就诊请务必携带「易性症」或其他类似诊断的病历或诊断证明。**
 
 {{< expand "激素治疗注意事项" >}}
 ![notice](notice.jpg)
