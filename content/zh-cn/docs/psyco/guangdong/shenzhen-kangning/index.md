@@ -4,20 +4,33 @@ title: 深圳市康宁医院
 
 {{< tag/neg "观察期" >}}
 
-{{< doctor-image src="wei-zhaoguo.png" >}}
+<p />
 
-医生姓名：[位照国](https://www.haodf.com/doctor/697566086.html)
-> 此医生需提前预约，一个月接诊 10 位
+{{< notice warning 未成年 >}}
 
-{{< doctor-image src="yang-huini.jpg" >}}
+深圳市康宁医院要求，未成年人就诊除急诊外所有门诊，必须监护人陪同。若无监护人陪同可能会被拒诊并退号。
 
-医生姓名：[杨惠妮](https://www.haodf.com/doctor/6964354469.html)
+{{< /notice >}}
+
+</p>
+
+- 医生姓名：[位照国](https://www.haodf.com/doctor/697566086.html)
+
+    {{< doctor-image src="wei-zhaoguo.png" >}}
+
+    > 此医生需提前预约，一个月接诊 10 位
+
+- 医生姓名：[杨惠妮](https://www.haodf.com/doctor/6964354469.html)
+
+    {{< doctor-image src="yang-huini.jpg" >}}
+
+- 医生姓名：张倩
 
 {{< doctor-image src="zhang-qian.png" >}}
 
-医生姓名：张倩
+</p>
 
-所在医院：[深圳市康宁医院](https://amap.com/place/B02F37VEIG)
+- 所在医院：[深圳市康宁医院](https://amap.com/place/B02F37VEIG)
 
 ## 挂号
 
