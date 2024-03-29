@@ -161,7 +161,7 @@ weight: 2
 
 对于服用药物或使用凝胶的女孩子，可以从国内携带，或者在泰国购买，非常方便。
 对于在医院进行针剂注射的女孩子，可以带上病历证明等，以及你的药品的照片，联系你的诊所：
-- 在PAI进行手术的女孩子，PAI诊所工作人员或者Charee可以帮忙预约Phyathai 2医院的妇科医生开单注射，费用为1860泰铢。
+- 在PAI进行手术的女孩子，PAI 诊所工作人员或者 Charee 可以帮忙预约 Phyathai 2 医院的妇科医生开单注射，费用为 1860 泰铢。
 - 在Kamol Hospital进行手术的女孩子，医院的工作人员可以帮助预约其他医院的妇科医生开具处方。（暂不确定是哪个医院）
 - 在Suporn Clinic进行手术的女孩子，复诊时诊所经理（Suporn医生的妻子）可以帮忙联系Samitivej医院。
 - 在水门诊所进行手术的女孩子，由于诊所不提供任何协助，可以自行联系Phyathai 2医院的国际部门，预约Unnop Jaisamrarn医生。预约方法参见<https://phyathai2international.com/en/make-an-appointment>，Phyathai 2医院是国际医院，提供中文翻译服务。（如果遇上诊所不提供HRT的情况也可以使用此方法联系Phyathai 2医院。）
