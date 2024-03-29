@@ -26,6 +26,7 @@ aliases:
 北京市,北京大学第三医院,[潘柏林]({{< ref "pan-bailin" >}}),1.5 万元,住院一天
 上海市,上海四一一医院,[赵烨德]({{< ref "sh411-tracheal-shave" >}}),约 6 千元,不能与 SRS 合并进行
 四川省成都市,四川大学华西医院,[许学文]({{< ref "xu-xuewen" >}}),,
+北京市,中国医学科学院整形外科医院,[焦虎]({{< ref "psh-tracheal-shave" >}}),约 1 万元,
 ```
 
 一般认为，能进行 [SRS]({{< ref "srs-overview-china" >}}) 或 [声带手术]({{< ref "vocal-surgery-overview" >}}) 的均可进行本手术。
