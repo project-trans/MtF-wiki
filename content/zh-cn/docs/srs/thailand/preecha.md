@@ -22,15 +22,25 @@ aliases: burin
 喉结切除术,3500 USD,,,可与SRS一起进行
 ```
 
-## 翻译陪护
+## 中介 / 翻译 / 陪护
+
+<!-- 你们PAI的官方认定联络员证书是批发的吗怎么人手一份 -->
 
 - Jessica/嘉嘉  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
 
-    自身为 MtF，PAI官方认定 SRS 联络员。**据其本人反馈目前PAI不存在官方中文员工**<sup>2023-10-09</sup>
+  手术陪护，自身为 MtF，PAI官方认定 SRS 联络员。**据其本人反馈** 目前PAI不存在官方中文员工<sup>2023-10-09</sup>
 
-    {{< expand "相关证明" >}}
+  {{< expand "相关证明" >}}
 ![Certification](/images/srs/thailand/preecha/Certification_of_Volunteer_Service_for_Jessica_Lee.jpg)
-    {{< /expand >}}
+  {{< /expand >}}
+
+- 李萍 {{< shields/wechat "liping8267758" >}}
+
+  PAI官方认定 SRS 联络员，中介服务费 2000 CNY。
+
+  {{< expand "相关证明" >}}
+![Certification](/images/srs/thailand/preecha/liping.png)
+  {{< /expand >}}
 
 <!-- 你们这个什么md解释器哦，强迫症快被这缩进逼死了 -->
 
