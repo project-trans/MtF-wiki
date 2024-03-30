@@ -9,8 +9,6 @@ aliases: burin
 
 电话：{{< telephone "+662 715-0111" >}}
 
-与 PAI 合作的手术中介：[Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) - 不需要收取额外费用，需要基础英文沟通能力(面诊,复诊可配搭收费中文翻译)
-
 ## 手术技术
 
 ```csv
@@ -21,28 +19,6 @@ aliases: burin
 乙状结肠（腹腔镜）,22000 USD,任何长度,BMI < 21,
 喉结切除术,3500 USD,,,可与SRS一起进行
 ```
-
-## 中介 / 翻译 / 陪护
-
-<!-- 你们PAI的官方认定联络员证书是批发的吗怎么人手一份 -->
-
-- Jessica/嘉嘉  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
-
-  手术陪护，自身为 MtF，PAI官方认定 SRS 联络员。**据其本人反馈** 目前PAI不存在官方中文员工<sup>2023-10-09</sup>
-
-  {{< expand "相关证明" >}}
-![Certification](/images/srs/thailand/preecha/Certification_of_Volunteer_Service_for_Jessica_Lee.jpg)
-  {{< /expand >}}
-
-- 李萍 {{< shields/wechat "liping8267758" >}}
-
-  PAI官方认定 SRS 联络员，中介服务费 2000 CNY。
-
-  {{< expand "相关证明" >}}
-![Certification](/images/srs/thailand/preecha/liping.png)
-  {{< /expand >}}
-
-<!-- 你们这个什么md解释器哦，强迫症快被这缩进逼死了 -->
 
 ## 医生
 
@@ -67,6 +43,31 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 ### Sutin Khobunsongserm（苏廷）
 
 类似于 Preecha<sup>[缺乏被引用信息]</sup>，较少接受亚洲人客户。
+
+## 中介 / 翻译 / 陪护
+
+<!-- 你们PAI的官方认定联络员证书是批发的吗怎么人手一份 -->
+
+- Jessica/嘉嘉  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
+
+  手术陪护，自身为 MtF，PAI官方认定 SRS 联络员。**据其本人反馈** 目前PAI不存在官方中文员工<sup>2023-10-09</sup>
+
+  {{< expand "相关证明" >}}
+![Certification](/images/srs/thailand/preecha/Certification_of_Volunteer_Service_for_Jessica_Lee.jpg)
+  {{< /expand >}}
+
+- 李萍 {{< shields/wechat "liping8267758" >}}
+
+  PAI官方认定 SRS 联络员，中介服务费 2000 CNY。
+
+  {{< expand "相关证明" >}}
+![Certification](/images/srs/thailand/preecha/liping.png)
+  {{< /expand >}}
+
+- [Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) \
+  英文中介，不需要收取额外费用，需要基础英文沟通能力(面诊,复诊可配搭收费中文翻译)
+
+<!-- 你们这个什么md解释器哦，强迫症快被这缩进逼死了 -->
 
 ## 费用
 
