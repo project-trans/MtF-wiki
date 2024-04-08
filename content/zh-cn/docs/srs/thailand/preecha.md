@@ -177,3 +177,4 @@ Tips:
 - 七七的SRS日记-PAI 布林 <https://t.me/srs77inpai>
 - 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
+- 凛娴的SRS日记-PAI 布林 <https://t.me/SRS_RinChord>
