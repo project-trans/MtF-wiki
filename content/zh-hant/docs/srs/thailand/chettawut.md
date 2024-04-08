@@ -13,7 +13,7 @@ title: Chettawut 醫生
 - 電話：{{< telephone "+66 0-2078-8919" >}}
 - LINE：{{< shields/line "wihhospital" >}}
 
-醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
 
 ## 手術費用和繳費方式 {#payment}
 
