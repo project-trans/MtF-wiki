@@ -48,24 +48,26 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 
 <!-- 你们PAI的官方认定联络员证书是批发的吗怎么人手一份 -->
 
-- Jessica/嘉嘉  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
+- Jessica/嘉嘉 {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
 
-  手术陪护，自身为 MtF，PAI官方认定 SRS 联络员。**据其本人反馈** 目前PAI不存在官方中文员工<sup>2023-10-09</sup>
+  手术陪护，自身为 MtF，PAI 官方认定 SRS 联络员。**据其本人反馈** 目前 PAI 不存在官方中文员工<sup>2023-10-09</sup>
 
   {{< expand "相关证明" >}}
-![Certification](/images/srs/thailand/preecha/Certification_of_Volunteer_Service_for_Jessica_Lee.jpg)
+  ![Certification](/images/srs/thailand/preecha/Certification_of_Volunteer_Service_for_Jessica_Lee.jpg)
   {{< /expand >}}
 
 - 李萍 {{< shields/wechat "liping8267758" >}}
 
-  PAI官方认定 SRS 联络员，中介服务费 2000 CNY。
+  PAI 官方认定 SRS 联络员，中介服务费 2000 CNY。
 
   {{< expand "相关证明" >}}
-![Certification](/images/srs/thailand/preecha/liping.png)
+  ![Certification](/images/srs/thailand/preecha/liping.png)
   {{< /expand >}}
 
 - [Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) \
   英文中介，不需要收取额外费用，需要基础英文沟通能力(面诊,复诊可配搭收费中文翻译)
+
+- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
 
 <!-- 你们这个什么md解释器哦，强迫症快被这缩进逼死了 -->
 
@@ -76,9 +78,9 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 1. 手术后在医院私人房间住宿 5 天；乙状结肠加项需住宿 6 天。不提供双人病房，但是可以在病房加床，一晚 {{< currency 300 THB >}}，病房的沙发也可以睡觉。<small>（通常租借全科医院的手术室进行手术，术后住院也会在医院而不是 PAI 诊所中进行，一家常被 PAI 诊所租借的医院是 Phyathai 2）</small>
 1. 手术室费用：手术室使用、恢复室、护工
 1. 住院期间一日三餐（最后一天为早餐，中餐看出院时间如果在下午就有）
-1. 实验室测试：血常规、尿常规、心电图、HIV 抗体、胸部 X 射线等程序所必需的（40 岁以上需要检查心内科。额外收费 {{< currency 100 USD >}}） *建议在国内提前检查以免空跑
+1. 实验室测试：血常规、尿常规、心电图、HIV 抗体、胸部 X 射线等程序所必需的（40 岁以上需要检查心内科。额外收费 {{< currency 100 USD >}}） \*建议在国内提前检查以免空跑
 1. 医疗设备和医疗用品、全身麻醉、麻醉前药物、麻醉和医用气体（氧气、一氧化二氮）
-1. PAI 的扩张器（1 & 2 号）；可额外购买其他尺寸扩张器。不论型号，购买一个的费用是 {{< currency 1500 THB >}}，三个的费用是 {{< currency 3500 THB >}}，五个的费用是 {{< currency 5500 THB >}}。有0、1、1.5、2、2.5、3一共6个型号。
+1. PAI 的扩张器（1 & 2 号）；可额外购买其他尺寸扩张器。不论型号，购买一个的费用是 {{< currency 1500 THB >}}，三个的费用是 {{< currency 3500 THB >}}，五个的费用是 {{< currency 5500 THB >}}。有 0、1、1.5、2、2.5、3 一共 6 个型号。
 <!-- 现在已经没有那种东西了，都是彩色的 -->
 1. 住院期间的护理和药品
 1. 带回家的药物和用品，一包绑带卫生巾、护理垫、甜甜圈坐垫、抗生素粉、生理盐水、碘伏
@@ -110,7 +112,7 @@ HIV 阳性需额外加收 50% 费用，CD4 必须超过 500 且病毒载量未�
 
 - 包皮与阴囊皮肤可用量（可用腹部皮肤移植补足）
 - 身高（腹腔可用深度）
-深度将极大取决于个人状况。经验数据为，术后 14 天时深度可达 5 ~ 7 英寸（12cm ~ 17cm）。
+  深度将极大取决于个人状况。经验数据为，术后 14 天时深度可达 5 ~ 7 英寸（12cm ~ 17cm）。
 
 以下为仅供参考的实际案例：
 
@@ -174,6 +176,6 @@ Tips:
 
 - 一位姐妹的 SRS 记录（Burin） <https://t.me/Hana_SRSviaBurin>
 - [PAI Burin 手术 90 天后写下的手术 FAQ](https://github.com/project-trans/basket-relay/discussions/4)
-- 七七的SRS日记-PAI 布林 <https://t.me/srs77inpai>
+- 七七的 SRS 日记-PAI 布林 <https://t.me/srs77inpai>
 - 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
