@@ -64,5 +64,5 @@ SRS 根据阴道再造的方式常可分为以下几种，包括
 
 ## 参考阅读
 
-[SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)
-[性别肯定手术 (男跨女)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_(%E7%94%B7%E8%B7%A8%E5%A5%B3))
+- [SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)
+- [性别肯定手术 (男跨女)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_(%E7%94%B7%E8%B7%A8%E5%A5%B3))
