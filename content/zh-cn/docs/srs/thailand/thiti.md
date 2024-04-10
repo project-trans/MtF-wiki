@@ -35,7 +35,7 @@ title: Thiti 医生
 
 ## 医疗中介
 
-- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
 
 - 曼谷雨 {{< shields/wechat "manguyu003" >}}
 

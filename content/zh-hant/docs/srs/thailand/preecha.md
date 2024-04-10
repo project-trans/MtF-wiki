@@ -13,6 +13,8 @@ aliases: burin
 
 與 PAI 合作的手術中介：[Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) - 不需要額外收費，需要基礎英文溝通能力(面診,復診可配搭收費中文翻譯)
 
+梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
+
 翻譯陪護：Jessica/嘉嘉 (自身為 MtF，可帶其他醫生) {{< shields/telegram "jessicalee85" >}}、{{< shields/wechat "JessicaLee9985" >}}、{{< shields/line "jessicalee74" >}}
 
 主要提供：
