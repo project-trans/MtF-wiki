@@ -21,7 +21,7 @@ title: Chettawut 医生
 
 ## 医疗中介
 
-- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
 
     从已知信息来看，大陆客人联系医院官方会被转交梁金，梁金处手术报价**低于**官方。
 
@@ -254,7 +254,7 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
   {{< hiddenphoto "/images/srs/thailand/chettawut/post-2-2.jpg" >}}
 
 - 2022 年 11 月
-  {{< hiddenphoto "/images/srs/thailand/chettawut/post-4.jpg" >}}  
+  {{< hiddenphoto "/images/srs/thailand/chettawut/post-4.jpg" >}}
 
 - 2022 年 1 月
   {{< hiddenphoto "/images/srs/thailand/chettawut/post-1.jpg" >}}
