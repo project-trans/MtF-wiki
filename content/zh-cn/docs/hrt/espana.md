@@ -32,7 +32,7 @@ weight: 10724
 抗雄：
 
 - [Androcur®]({{< ref "cyproterone" >}})
-- [螺内酯]{{< ref "spironolactone" >}}
+- [螺内酯]({{< ref "spironolactone" >}})
 
 ### 其他
 
