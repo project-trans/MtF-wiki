@@ -35,7 +35,7 @@ Burin 目前所使用的手術技術為自主研發的 **Diamond technique**，�
 
 第一個疤痕：恥骨上的垂直疤痕，長 2-3 釐米，隱藏在陰毛後面。
 第二道傷疤：兩側長 3-4 釐米的 V 形傷疤。疤痕位於一段時間後將隱藏在自然皮膚摺痕/褶皺中的區域。
-如果因為睪丸切除、HRT 和其他因素導致沒有足夠的陰囊皮膚的患者，將會取用腹部皮膚以補充材料。(額外收費)
+如果因為睪丸切除、HRT 和其他因素導致沒有足夠的陰囊皮膚的患者，將會取用腹部皮膚以補充材料。（額外收費）
 
 ![Pi](https://www.transgendersurgerythailand.com/images/3958_1152B3DE-0396-163D-0BE2-C7BA89904366.jpg)
 
@@ -68,7 +68,7 @@ Burin 目前所使用的手術技術為自主研發的 **Diamond technique**，�
   {{< /expand >}}
 
 - [Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) \
-  英文中介，不需要收取額外費用，需要基礎英文溝通能力(面診，複診可配搭收費中文翻譯)
+  英文中介，不需要收取額外費用，需要基礎英文溝通能力（面診，複診可配搭收費中文翻譯）
 
 - 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
 
