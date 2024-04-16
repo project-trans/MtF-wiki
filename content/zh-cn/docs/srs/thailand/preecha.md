@@ -68,7 +68,7 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
   {{< /expand >}}
 
 - [Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) \
-  英文中介，不需要收取额外费用，需要基础英文沟通能力(面诊,复诊可配搭收费中文翻译)
+  英文中介，不需要收取额外费用，需要基础英文沟通能力(面诊，复诊可配搭收费中文翻译)
 
 - 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
 
