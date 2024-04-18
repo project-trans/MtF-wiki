@@ -3,9 +3,15 @@ title: 西班牙
 weight: 10724
 ---
 
+{{<notice info "Self-ID" >}}
+
 西班牙各自治区的医保政策有所不同。
 
 西班牙已经于 2023 年通过《跨性别法》（Ley Trans 4/2023），支持 self-ID，修改性别和名字已经无需任何医疗材料，政策亦适用于外国人（需说明于原籍国对性别认同的承认具有困难与障碍[^1]）。
+
+[^1]: <https://www.instagram.com/p/C4fcB0RipOr/?img_index=3>
+
+{{</notice>}}
 
 ## 加泰罗尼亚
 
@@ -41,5 +47,3 @@ weight: 10724
 1. <https://catsalut.gencat.cat/ca/serveis-sanitaris/altres-serveis/model-atencio-salut-persones-trans/>
 1. <https://igualtat.gencat.cat/web/.content/Ambits/LGBTI/Servei_Atencio_Integral/11_La-salut-de-les-persones-trans-a-latencio-primaria.pdf>
 1. <https://scientiasalut.gencat.cat/bitstream/handle/11351/3275/catsalut_instruccio_14_2017.pdf>
-
-[^1]: <https://www.instagram.com/p/C4fcB0RipOr/?img_index=3>
