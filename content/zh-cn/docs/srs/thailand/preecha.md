@@ -133,7 +133,7 @@ HIV 阳性需额外加收 50% 费用，CD4 必须超过 500 且病毒载量未�
 1. 尿道成形术
 1. 阴唇成形术。主要和次要龟头（阴茎头）的一部分，连同其神经和血管，被转化为阴蒂。
 1. **尿道周围多余的勃起组织将去除**，以避免在性唤起期间勃起组织充血引起的症状。
-1. 医生会在手术时刮掉部分区域皮肤的发根，以避免术后阴道内生长毛发。因此手术前进行生殖器位置脱毛不是必须的。
+1. 医生会在手术时刮掉部分区域皮肤的发根，以避免术后阴道内生长毛发。因此手术前进行生殖器位置脱毛不是必须的。[^1]
 
 ## 手术日程 {#schedule-op}
 
@@ -183,3 +183,5 @@ Tips:
 - 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
 - 凛娴的SRS日记-PAI 布林 <https://t.me/SRS_RinChord>
+
+[^1]: <https://pai.co.th/service/penile-skin-inversion-scrotal-skin-graft-male-to-female-trans-women/>
