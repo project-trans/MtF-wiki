@@ -5,11 +5,7 @@ weight: 10724
 
 西班牙各自治区的医保政策有所不同。
 
-{{<notice info "Self-ID" >}}
-
 西班牙已经于 2023 年通过《跨性别法》（Ley Trans 4/2023），支持 self-ID，修改性别和名字已经无需任何医疗材料，政策亦适用于外国人（需说明于原籍国对性别认同的承认具有困难与障碍[^1]）。
-
-{{</notice>}}
 
 ## 加泰罗尼亚
 
@@ -17,7 +13,7 @@ weight: 10724
 
 为启动流程，需要拥有个人医疗卡（Targeta sanitària individual (TSI) ），此卡可以[在网络上申请](https://salut.gencat.cat/pls/rca/RCAPKTSI.SOLICITAR_TSI)，使用护照号申请需要提供居住证明（empadronament），也可以前往 CAP (centres d'atenció primària) 咨询。
 
-你需要向 CAP 预约（电话、现场、邮件）以向相关医疗人员咨询。医疗咨询将会从非病理化的角度出发并尊重个人认同，如确定需要，**可当即获得激素药物的处方**。
+你需要向对应的 _Trànsit_ 服务写邮件预约以向相关医疗人员咨询，联系方式见[这里](https://catsalut.gencat.cat/ca/serveis-sanitaris/altres-serveis/model-atencio-salut-persones-trans/)。医疗咨询将会从非病理化的角度出发并尊重个人认同，如确定需要，**可当即获得激素药物的处方**。如果你在来到加泰罗尼亚之前已经正在用药并有相关资料，也可以直接找 CAP 医生续处方。
 
 如果你启动激素治疗，_Trànsit_ 将会提供相关文件以在 CAP 进行各项检查，相关结果应该发回 _Trànsit_ 以供检视，必要时回诊。
 
