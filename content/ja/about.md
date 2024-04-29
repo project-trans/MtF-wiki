@@ -25,7 +25,7 @@ weight: 0
 参加したい場合はご連絡ください！
 ## 連絡
 
-Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
+Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 
 Twitter {{< shields/twitter MtFwikiJapan >}}
 

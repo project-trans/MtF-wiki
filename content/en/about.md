@@ -26,7 +26,7 @@ Contact us if u would like to join!
 
 ## Contact
 
-Through Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
+Through Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 

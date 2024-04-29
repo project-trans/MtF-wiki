@@ -12,7 +12,7 @@ QQ,跨兒音遊組,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0c
 Telegram,Backlight.Town 逆光小鎮,聯絡 {{< shields/telegram rikablossom >}} 加入
 Telegram,跨兒音遊組,{{< shields/telegram otoge_trans >}}
 Matrix,Arch 木桶飯,{{< shields/matrix arch-mtf matrix.malacology.net >}}
-Discord,MtF.wiki Official,{{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
+Discord,Project Trans Community,{{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 ```
 
 ## SRS 手術交流群

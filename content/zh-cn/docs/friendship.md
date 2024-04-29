@@ -20,7 +20,7 @@ Telegram,Trans in Academia! 交流群,{{< shields/telegram "+RKumk5Hl-rgxOTQx" >
 Telegram,跨儿音游组,{{< shields/telegram otoge_trans >}}
 Telegram,NixOS 木桶饭,{{< shields/telegram "nixos_mtf" >}}
 Matrix,Arch 木桶饭,{{< shields/matrix arch-mtf matrix.org >}}
-Discord,MtF.wiki Official,{{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
+Discord,Project Trans Community,{{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 ```
 
 ## SRS 手术交流群
