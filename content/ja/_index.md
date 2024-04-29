@@ -29,7 +29,7 @@ footer:
     - title: 連絡
       links:
         - title: Discord
-          link: https://link.mtf.wiki/discord-japan
+          link: https://link.mtf.wiki/discord
         - title: Twitter
           link: https://twitter.com/MtFwikiJapan
         - title: GitHub
