@@ -6,7 +6,7 @@ title: 西安｜张瑞国
 
 {{< tag/pos "便宜" >}}
 {{< tag/pos "挂号容易" >}}
-{{< tag/neg "可能更变为拒绝开证" >}}
+{{< tag/neg "可能拒绝开证" >}}
 
 医生姓名：[张瑞国](https://www.haodf.com/doctor/572246740.html)
 
