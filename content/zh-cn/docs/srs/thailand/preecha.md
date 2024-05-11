@@ -67,7 +67,7 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 
   手术陪护，自身为 MtF，PAI 官方认定 SRS 联络员。
   {{< expand "相关证明" >}}
-  ![Certification](/images/srs/thailand/preecha/Certification_of_Volunteer_Service_for_Jessica_Lee.jpg)
+  ![Certification](/images/srs/thailand/preecha/Jessica_Lee_Cert_20240501.jpg)
   {{< /expand >}}
 
 - 李萍 {{< shields/wechat "liping8267758" >}}
