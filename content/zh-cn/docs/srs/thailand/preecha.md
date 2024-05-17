@@ -72,7 +72,7 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 
 - 李萍 {{< shields/wechat "liping8267758" >}}
 
-  PAI 官方认定 SRS 联络员，中介服务费 2000 CNY。
+  PAI 官方认定 SRS 联络员。
   {{< expand "相关证明" >}}
   ![Certification](/images/srs/thailand/preecha/liping.png)
   {{< /expand >}}
