@@ -97,4 +97,4 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 小证, 大证, 假条?
 
-在[精神科医疗资源综述]({{<wiki "psyco-overview#collouialism">}})中的通俗用语一节有描述  
+在[精神科医疗资源综述]({{< ref "psyco-overview#colloquialism" >}})中的通俗用语一节有描述  
