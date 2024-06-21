@@ -51,7 +51,7 @@ weight: 10
 單用高劑量醋酸環丙孕酮,3–5 倍
 ```
 
-更多詳情可參見《[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》[^3]。
+更多詳情可參見《[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/zh-tw/articles/estrogens-blood-clots/)》[^3]。
 
 ### 雌激素相關資料
 
@@ -175,32 +175,32 @@ weight: 10
 以上未囊括所有可能存在相互作用的藥品類別。如有新的藥物相互作用資訊，可於 [GitHub](https://github.com/project-trans/MtF-wiki/issues/828) 提交報告。
 
 
-[^1]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/misc/estrofem/)
-[^2]: [戊酸雌二醇片（Progynova）說明書](https://tfsci.mtf.wiki/misc/progynova/)
-[^3]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：「[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)」
-[^4]: Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. *Transfeminine Science*. 譯文：「[口服孕酮及其引起的低孕酮水平與較弱效力之簡論](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)」
-[^5]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/misc/siterone-nz/)
-[^6]: [醋酸環丙孕酮（南非 Androcur）說明書](https://tfsci.mtf.wiki/misc/androcur-za/)
-[^7]: [醋酸環丙孕酮（台灣 Androcur）說明書](https://tfsci.mtf.wiki/misc/androcur-tw/)
-[^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. 譯文：「[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)」
-[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. 譯文：「[法國關於醋酸環丙孕酮和腦膜瘤風險的研究之最新進展以及對女性傾向跨性別者之影響](https://tfsci.mtf.wiki/articles/cpa-meningioma/)」
-[^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. 譯文：「[可蘇多（Casodex）說明書](https://tfsci.mtf.wiki/misc/casodex/)」
-[^11]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 譯文：「[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/)」
-[^12]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. 譯文：「[可蘇多在女性化激素治療上的使用與接受情況](https://tfsci.mtf.wiki/articles/bica-adoption/)」
-[^13]: [螺內酯片說明書](https://tfsci.mtf.wiki/misc/spiro-tablet/)
+[^1]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/zh-tw/misc/estrofem/)
+[^2]: [戊酸雌二醇片（Progynova）說明書](https://tfsci.mtf.wiki/zh-tw/misc/progynova/)
+[^3]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：「[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/zh-tw/articles/estrogens-blood-clots/)」
+[^4]: Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. *Transfeminine Science*. 譯文：「[口服孕酮及其引起的低孕酮水平與較弱效力之簡論](https://tfsci.mtf.wiki/zh-tw/articles/oral-p4-low-levels/)」
+[^5]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/zh-tw/misc/siterone-nz/)
+[^6]: [醋酸環丙孕酮（南非 Androcur）說明書](https://tfsci.mtf.wiki/zh-tw/misc/androcur-za/)
+[^7]: [醋酸環丙孕酮（台灣 Androcur）說明書](https://tfsci.mtf.wiki/zh-tw/misc/androcur-tw/)
+[^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. 譯文：「[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睾酮水平](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)」
+[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. 譯文：「[法國關於醋酸環丙孕酮和腦膜瘤風險的研究之最新進展以及對女性傾向跨性別者之影響](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)」
+[^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. 譯文：「[可蘇多（Casodex）說明書](https://tfsci.mtf.wiki/zh-tw/misc/casodex/)」
+[^11]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 譯文：「[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/)」
+[^12]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. 譯文：「[可蘇多在女性化激素治療上的使用與接受情況](https://tfsci.mtf.wiki/zh-tw/articles/bica-adoption/)」
+[^13]: [螺內酯片說明書](https://tfsci.mtf.wiki/zh-tw/misc/spiro-tablet/)
 [^14]: Solymoss, B., Classen, H. G., & Varga, S. (1969). Increased hepatic microsomal activity induced by spironolactone and other steroids. *Proceedings of the Society for Experimental Biology and Medicine*, 132(3): 940-941. \[DOI: [10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)]
-[^15]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：「[女性化激素療法與乳腺癌風險](https://tfsci.mtf.wiki/articles/breast-cancer/)」
+[^15]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：「[女性化激素療法與乳腺癌風險](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)」
 [^16]: ［中國］國家藥品監督管理局. (2020). [藥物警戒快訊第 4 期（總第 204 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html).
 [^17]: ［中國］國家藥品監督管理局. (2012). [藥物警戒快訊 2012 年第 11 期（總第 115 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20121130120001399.html).
 [^18]: ［中國］國家藥品監督管理局. (2020). [藥物警戒快訊第 3 期（總第 203 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20200416143701885.html).
 [^19]: Kattari, S. K., Kattari, L., Johnson, I., et al. (2020). Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan. *International Journal of Environmental Research and Public Health*, 17(18):6805. \[DOI: [10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
 [^20]: Pfizer. (2018). PROVERA&reg; U.S. Physician Prescribing Information. <https://labeling.pfizer.com/ShowLabeling.aspx?id=605>
-[^21]: Pfizer Lab. (2022). ALDACTONE&reg; U.S. Physician Prescribing Information. *Drugs@FDA*. 譯文：[螺內酯（Aldactone）說明書](https://tfsci.mtf.wiki/misc/aldactone/)
+[^21]: Pfizer Lab. (2022). ALDACTONE&reg; U.S. Physician Prescribing Information. *Drugs@FDA*. 譯文：[螺內酯（Aldactone）說明書](https://tfsci.mtf.wiki/zh-tw/misc/aldactone/)
 [^22]: Cockshott, I. D. (2004). Bicalutamide: Clinical Pharmacokinetics and Metabolism. *Clinical Pharmacokinetics*, 43(13): 855–878. \[DOI: [10.2165/00003088-200443130-00003](https://doi.org/10.2165/00003088-200443130-00003)]
-[^23]: Verity Pharmaceuticals Inc. (2023). TRELSTAR&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. 譯文：[帕莫酸曲普瑞林（美國 Trelstar）處方說明書](https://tfsci.mtf.wiki/misc/trelstar/)
-[^24]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. 譯文：「[對有關使用螺內酯的順性別男性、順性別女性和女性傾向跨性別者及其睪固酮水平的一系列研究的評述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)」
-[^25]: Aly. (2018). Discussion on Bicalutamide Dosage in Transfeminine People. *Transfeminine Science*. 原文已被删除，譯文：「[有關可蘇多用於女性傾向跨性別者所需劑量的討論](https://tfsci.mtf.wiki/articles/bica-dosage/)」
-[^26]: Aly. (2020). The Interactions of Sex Hormones with Sex Hormone-Binding Globulin and Relevance for Transfeminine Hormone Therapy. *Transfeminine Science*. 譯文：「[性激素與性激素結合球蛋白的相互作用及其對女性化激素療法的意義](https://tfsci.mtf.wiki/articles/shbg-unimportant/)」
+[^23]: Verity Pharmaceuticals Inc. (2023). TRELSTAR&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. 譯文：[帕莫酸曲普瑞林（美國 Trelstar）處方說明書](https://tfsci.mtf.wiki/zh-tw/misc/trelstar/)
+[^24]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. 譯文：「[對有關使用螺內酯的順性別男性、順性別女性和女性傾向跨性別者及其睪固酮水平的一系列研究的評述](https://tfsci.mtf.wiki/zh-tw/articles/spiro-testosterone/)」
+[^25]: Aly. (2018). Discussion on Bicalutamide Dosage in Transfeminine People. *Transfeminine Science*. 原文已被删除，譯文：「[有關可蘇多用於女性傾向跨性別者所需劑量的討論](https://tfsci.mtf.wiki/zh-tw/articles/bica-dosage/)」
+[^26]: Aly. (2020). The Interactions of Sex Hormones with Sex Hormone-Binding Globulin and Relevance for Transfeminine Hormone Therapy. *Transfeminine Science*. 譯文：「[性激素與性激素結合球蛋白的相互作用及其對女性化激素療法的意義](https://tfsci.mtf.wiki/zh-tw/articles/shbg-unimportant/)」
 [^27]: Viatris Specialty LLC. (2023). ZOLOFT&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019839s102,020990s059lbl.pdf>
 [^28]: European Medicines Agency. (2020). Restrictions in use of cyproterone due to meningioma risk. <https://www.ema.europa.eu/en/news/restrictions-use-cyproterone-due-meningioma-risk>
 [^29]: Health Canada. (2012). Antiandrogens and hepatotoxicity. *Canadian Adverse Reaction

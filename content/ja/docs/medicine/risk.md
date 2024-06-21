@@ -253,19 +253,19 @@ weight: 10
 上記には、相互作用の可能性のあるすべての種類の医薬品が含まれているわけではない。薬物相互作用に関する新しい情報をお持ちの方は、[GitHub](https://github.com/project-trans/MtF-wiki/issues/828) にレポートを送信すること。
 
 
-[^1]: [添付文書：エストラジオール錠（Estrofem）](https://tfsci.mtf.wiki/misc/estrofem/) （中国語）
-[^2]: [添付文書：吉草酸エストラジオール錠（Progynova）](https://tfsci.mtf.wiki/misc/progynova/) （中国語）
+[^1]: [添付文書：エストラジオール錠（Estrofem）](https://tfsci.mtf.wiki/zh-cn/misc/estrofem/) （中国語）
+[^2]: [添付文書：吉草酸エストラジオール錠（Progynova）](https://tfsci.mtf.wiki/zh-cn/misc/progynova/) （中国語）
 [^3]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. <https://transfemscience.org/articles/estrogens-blood-clots/>
 [^4]: Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. *Transfeminine Science*. <https://transfemscience.org/articles/oral-p4-low-levels/>
-[^5]: [添付文書：酢酸シプロテロン錠（Siterone）](https://tfsci.mtf.wiki/misc/siterone-nz/) （中国語）
-[^6]: [添付文書：酢酸シプロテロン錠（南アフリカ Androcur）](https://tfsci.mtf.wiki/misc/androcur-za/) （中国語）
-[^7]: [添付文書：酢酸シプロテロン錠（台湾 Androcur）](https://tfsci.mtf.wiki/misc/androcur-tw/) （中国語）
+[^5]: [添付文書：酢酸シプロテロン錠（Siterone）](https://tfsci.mtf.wiki/zh-cn/misc/siterone-nz/) （中国語）
+[^6]: [添付文書：酢酸シプロテロン錠（南アフリカ Androcur）](https://tfsci.mtf.wiki/zh-cn/misc/androcur-za/) （中国語）
+[^7]: [添付文書：酢酸シプロテロン錠（台湾 Androcur）](https://tfsci.mtf.wiki/zh-cn/misc/androcur-tw/) （中国語）
 [^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
 [^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/>
-[^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://tfsci.mtf.wiki/misc/casodex/>
+[^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://tfsci.mtf.wiki/zh-cn/misc/casodex/>
 [^11]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-intro/>
 [^12]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/bica-adoption/>
-[^13]: [添付文書：スピロノラクトン錠](https://tfsci.mtf.wiki/misc/spiro-tablet/) （中国語）
+[^13]: [添付文書：スピロノラクトン錠](https://tfsci.mtf.wiki/zh-cn/misc/spiro-tablet/) （中国語）
 [^14]: Solymoss, B., Classen, H. G., & Varga, S. (1969). Increased hepatic microsomal activity induced by spironolactone and other steroids. *Proceedings of the Society for Experimental Biology and Medicine*, 132(3): 940-941. \[DOI: [10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)]
 [^15]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/breast-cancer/>
 [^19]: Kattari, S. K., Kattari, L., Johnson, I., et al. (2020). Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan. *International Journal of Environmental Research and Public Health*, 17(18):6805. \[DOI: [10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
@@ -274,7 +274,7 @@ weight: 10
 [^22]: Cockshott, I. D. (2004). Bicalutamide: Clinical Pharmacokinetics and Metabolism. *Clinical Pharmacokinetics*, 43(13): 855–878. \[DOI: [10.2165/00003088-200443130-00003](https://doi.org/10.2165/00003088-200443130-00003)]
 [^23]: Verity Pharmaceuticals Inc. (2023). TRELSTAR&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/020715s045,021288s040,022437s020lbl.pdf>
 [^24]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/spiro-testosterone/>
-[^25]: Aly. \(2018). Discussion on Bicalutamide Dosage in Transfeminine People. *Transfeminine Science*. この文献が削除されたが、中国語訳は[こちら](https://tfsci.mtf.wiki/articles/bica-dosage/)
+[^25]: Aly. \(2018). Discussion on Bicalutamide Dosage in Transfeminine People. *Transfeminine Science*. この文献が削除されたが、中国語訳は[こちら](https://tfsci.mtf.wiki/zh-cn/articles/bica-dosage/)
 [^26]: Aly. (2020). The Interactions of Sex Hormones with Sex Hormone-Binding Globulin and Relevance for Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/shbg-unimportant/>
 [^27]: Viatris Specialty LLC. (2023). ZOLOFT&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019839s102,020990s059lbl.pdf>
 [^31]: Chung, W. G., & Buhler, D. R. (1994). The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs. *Toxicology and Applied Pharmacology*, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]

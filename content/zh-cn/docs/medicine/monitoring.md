@@ -178,26 +178,26 @@ aliases: hormone-check
 1. {{< wiki 黄体生成素 >}}
 
 [^1]: Esoterix/LabCorp. Endocrinology Expected Values and S.I. Unit Conversion Tables [EB/OL]. 2020. \[[PDF 文档](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
-[^2]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
+[^2]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/)》
 [^3]: Coleman E, Radix AE, Bouman WP, et al. Standards of Care for the Health of Transgender and Gender Diverse People, Version 8 [J]. *International Journal of Transgender Health*, 2022, *23*(Suppl 1):S1–S259. \[DOI: <https://doi.org/10.1080/26895269.2022.2100644>]
-[^4]: Aly. Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于孕激素在乳房发育过程中有何潜在作用及影响的随笔](https://tfsci.mtf.wiki/articles/progestogens-breast-dev/)》
-[^5]: Aly. Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
-[^6]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 中译本：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
-[^7]: Aly. Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
-[^8]: [戊酸雌二醇片（补佳乐）说明书](https://tfsci.mtf.wiki/misc/progynova/)
-[^9]: [戊酸雌二醇注射剂（Progynon Depot/富士日雌）说明书](https://tfsci.mtf.wiki/misc/progynon-depot/)
-[^10]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-tw)
-[^11]: Mitzi. Puberty Blockers: A Review of GnRH Analogues in Transgender Youth [EB/OL]. *Transfeminine Science*, 2022. 中译本：《[有关 GnRH 类似物作为青春期阻断剂用于跨性别青年的评述](https://tfsci.mtf.wiki/articles/puberty-blockers/)》
-[^12]: [螺内酯片说明书](https://tfsci.mtf.wiki/misc/spiro-tablet/)
-[^13]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
-[^14]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
-[^15]: [比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/)
-[^16]: Aly. Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
-[^17]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/misc/siterone-nz/)
-[^18]: [雌二醇片（Estrofem）说明书](https://tfsci.mtf.wiki/misc/estrofem/)
-[^19]: [雌二醇外用贴片（Estraderm）说明书](https://tfsci.mtf.wiki/misc/estraderm/)
+[^4]: Aly. Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于孕激素在乳房发育过程中有何潜在作用及影响的随笔](https://tfsci.mtf.wiki/zh-cn/articles/progestogens-breast-dev/)》
+[^5]: Aly. Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/zh-cn/articles/oral-p4-low-levels/)》
+[^6]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 中译本：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/zh-cn/articles/cpa-dosage/)》
+[^7]: Aly. Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/zh-cn/articles/bica-adoption/)》
+[^8]: [戊酸雌二醇片（补佳乐）说明书](https://tfsci.mtf.wiki/zh-cn/misc/progynova/)
+[^9]: [戊酸雌二醇注射剂（Progynon Depot/富士日雌）说明书](https://tfsci.mtf.wiki/zh-cn/misc/progynon-depot/)
+[^10]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/zh-cn/misc/androcur-tw/)
+[^11]: Mitzi. Puberty Blockers: A Review of GnRH Analogues in Transgender Youth [EB/OL]. *Transfeminine Science*, 2022. 中译本：《[有关 GnRH 类似物作为青春期阻断剂用于跨性别青年的评述](https://tfsci.mtf.wiki/zh-cn/articles/puberty-blockers/)》
+[^12]: [螺内酯片说明书](https://tfsci.mtf.wiki/zh-cn/misc/spiro-tablet/)
+[^13]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/)》
+[^14]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/zh-cn/articles/breast-cancer/)》
+[^15]: [比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/zh-cn/misc/casodex/)
+[^16]: Aly. Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 中译本：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/zh-cn/articles/cpa-meningioma/)》
+[^17]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/zh-cn/misc/siterone-nz/)
+[^18]: [雌二醇片（Estrofem）说明书](https://tfsci.mtf.wiki/zh-cn/misc/estrofem/)
+[^19]: [雌二醇外用贴片（Estraderm）说明书](https://tfsci.mtf.wiki/zh-cn/misc/estraderm/)
 [^20]: 郑全喜, 王昆, 刘超. 甲状腺功能减退导致高甘油三酯血症的分子机制的新认识 [J]. *中华内分泌代谢杂志*, 2014, 30(10):856-858. \[DOI: [10.3760/cma.j.issn.1000-6699.2014.10.09](https://rs.yiigle.com/cmaid/206059)]
-[^21]: [螺内酯（Aldactone）说明书](https://tfsci.mtf.wiki/misc/aldactone/)
+[^21]: [螺内酯（Aldactone）说明书](https://tfsci.mtf.wiki/zh-cn/misc/aldactone/)
 [^22]: 刘兆宇, 李岩, 李学武, 等. 中国海南百岁女性老人性腺激素表达特征及关联因素的横断面分析 [J]. *中南大学学报:医学版*, 2022, 47(1):45-51. \[DOI:[10.11817/j.issn.1672-7347.2022.210079](https://dx.doi.org/10.11817/j.issn.1672-7347.2022.210079)]
 [^23]: 李德绘, 梁自乾. 重度烧伤患者血清 PTH、钙、无机磷测定及其临床意义 [J]. *广西医科大学学报*, 2003(03): 374-375. \[DOI:[10.16190/j.cnki.45-1211/r.2003.03.025](https://dx.doi.org/10.16190/j.cnki.45-1211/r.2003.03.025)]
 [^24]: 急性胰腺炎协作组. 中国 6223 例急性胰腺炎病因及病死率分析 [J]. *胰腺病学*, 2006, 6(6):321-325. \[DOI:[10.3760/cma.j.issn.1674-1935.2006.06.001](https://dx.doi.org/10.3760/cma.j.issn.1674-1935.2006.06.001)]

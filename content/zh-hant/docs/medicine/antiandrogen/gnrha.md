@@ -45,12 +45,12 @@ GnRH 類似物常規可應用於性早熟兒童的治療，具有良好的可逆
 不提供用藥資訊，請諮詢專業醫生。
 {{< /notice >}}
 
-[^1]: Mitzi. (2022). Puberty Blockers: A Review of GnRH Analogues in Transgender Youth. *Transfeminine Science*. 中譯本：《[有關 GnRH 類似物作為青春期阻斷劑用於跨性別青年之評述](https://tfsci.mtf.wiki/articles/puberty-blockers/)》
+[^1]: Mitzi. (2022). Puberty Blockers: A Review of GnRH Analogues in Transgender Youth. *Transfeminine Science*. 中譯本：《[有關 GnRH 類似物作為青春期阻斷劑用於跨性別青年之評述](https://tfsci.mtf.wiki/zh-tw/articles/puberty-blockers/)》
 [^2]: Polly Carmichael, et al. (2021). Short-term outcomes of pubertal
 suppression in a selected cohort of 12 to
 15 year old young people with persistent
 gender dysphoria in the UK. *PLOS ONE*. <https://doi.org/10.1371/journal.pone.0243894>
-[^3]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 中譯本：《[女性傾向跨性別者之激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/#gnrh-agonists-and-antagonists)》
+[^3]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 中譯本：《[女性傾向跨性別者之激素治療簡介](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/#gnrh-agonists-and-antagonists)》
 [^4]: Wesley Jim Goedegebuure, et al. (2018). Cognition, Health-Related Quality of Life, and Psychosocial Functioning After GH/GnRHa Treatment in Young Adults Born SGA. *The Journal of Clinical Endocrinology & Metabolism*, *103*(11):3931–3938. <https://doi.org/10.1210/jc.2018-01463>
 [^5]: Cleveland Clinic. (2022). What Are Puberty Blockers? <https://health.clevelandclinic.org/what-are-puberty-blockers/>
 [^6]: 浙江省藥械採購平臺. (2022). 關於公佈浙江省公立醫療機構第三批藥品集中帶量採購中選結果的通知. <https://www.zjyxcg.cn/detail.html?infoId=5881&CatalogId=3>

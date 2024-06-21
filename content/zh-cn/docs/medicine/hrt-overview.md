@@ -151,7 +151,7 @@ slug: overview
 
 - [女性倾向跨性别者科学](https://transfemscience.org)（英文）
   + [“女性倾向跨性别者科学”中译文存档站](https://tfsci.mtf.wiki)
-  + [女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/) [^5]
+  + [女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/) [^5]
 - [内分泌学会临床实践指南（1）](https://zhuanlan.zhihu.com/p/41593599) (<https://archive.is/NvPrv>)
 - [内分泌学会临床实践指南（2）](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
 - [女性化激素治疗概述](https://zhuanlan.zhihu.com/p/39093796) (<https://archive.is/va760>)
@@ -175,26 +175,26 @@ slug: overview
 [^2]: Weinand J D, Safer J D. Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals [J]. *Journal of Clinical & Translational Endocrinology*, 2015, 2(2): 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>
 [^3]: 中国人大网. 中华人民共和国妇女权益保障法 [EB/OL]. (2022-10-30). <http://www.npc.gov.cn/npc/c2/c30834/202210/t20221030_320091.html>
 [^4]: Coleman E, Radix A E, Bouman W P, et al. Standards of Care for the Health of Transgender and Gender Diverse People, Version 8 [J]. *International Journal of Transgender Health*, 2022, *23*(Suppl 1): S1–S259. <https://doi.org/10.1080/26895269.2022.2100644>
-[^5]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 译文：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
+[^5]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 译文：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/)》
 [^6]: Esoterix/LabCorp. Endocrinology Expected Values and S.I. Unit Conversion Tables [EB/OL]. 2020. \[[PDF 文档](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
-[^7]: Aly. Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](https://tfsci.mtf.wiki/articles/sublingual-ev/)》
+[^7]: Aly. Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](https://tfsci.mtf.wiki/zh-cn/articles/sublingual-ev/)》
 [^8]: Aly. A Review of Studies on Estradiol Levels and Testosterone Suppression with High-Dose Transdermal Estradiol Gel and Ointment in Cisgender Men with Prostate Cancer [EB/OL]. *Transfeminine Science*, 2019. <https://transfemscience.org/articles/high-dose-transdermal-e2/>
-[^9]: Aly. An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations [EB/OL]. *Transfeminine Science*, 2021. 译文：《[有关雌二醇注射剂的雌二醇浓度曲线的一次非正式荟萃分析](https://tfsci.mtf.wiki/articles/injectable-e2-meta-analysis/)》
+[^9]: Aly. An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations [EB/OL]. *Transfeminine Science*, 2021. 译文：《[有关雌二醇注射剂的雌二醇浓度曲线的一次非正式荟萃分析](https://tfsci.mtf.wiki/zh-cn/articles/injectable-e2-meta-analysis/)》
 [^10]: Yin P, Li Y W, Chen Q L, et al. Diethylstilbestrol, flutamide and their combination impaired the spermatogenesis of male adult zebrafish through disrupting HPG axis, meiosis and apoptosis [J]. *Aquatic Toxicology*, 2017, 185(4): 129-137. <https://doi.org/10.1016/j.aquatox.2017.02.013>
 [^11]: Tsai P S, Kessler A E, Jones J T, et al. Alteration of the hypothalamic-pituitary-gonadal axis in estrogen- and androgen-treated adult male leopard frog, *Rana pipiens* [J]. *Reproductive Biology and Endocrinology*, 2005, 3(2). <https://doi.org/10.1186/1477-7827-3-2>
 [^12]: Ainsworth A J, Allyse M, Khan Z. Fertility Preservation for Transgender Individuals: A Review [J]. *Mayo Clinic Proceedings*, 2020, 95(4): 784-792. <https://doi.org/10.1016/j.mayocp.2019.10.040>
 [^13]: Adeleye A J, Reid G, Kao C N, et al. Semen Parameters Among Transgender Women With a History of Hormonal Treatment [J]. *Urology*, 2019, 124: 136-141. <https://doi.org/10.1016/j.urology.2018.10.005>
-[^14]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^14]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/)》
 [^15]: Nolan B J, & Cheung A S. Relationship Between Serum Estradiol Concentrations and Clinical Outcomes in Transgender Individuals Undergoing Feminizing Hormone Therapy: A Narrative Review [J]. *Transgender Health*, 2021, *6*(3): 125–131. <https://doi.org/10.1089/trgh.2020.0077>
-[^16]: Novartis. ESTRADERM&reg; Prescribing Information & Patient Information [EB/OL]. *Drugs@FDA*, 2017. 译文：《[雌二醇外用贴片（Estraderm）说明书](https://tfsci.mtf.wiki/misc/estraderm/)》
-[^17]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
+[^16]: Novartis. ESTRADERM&reg; Prescribing Information & Patient Information [EB/OL]. *Drugs@FDA*, 2017. 译文：《[雌二醇外用贴片（Estraderm）说明书](https://tfsci.mtf.wiki/zh-cn/misc/estraderm/)》
+[^17]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/zh-cn/articles/breast-cancer/)》
 [^18]: Cox L R, Crawford D E. Estrogens in the Treatment of Prostate Cancer [J]. *The Journal of Urology*, 1995, 154(6): 1991-1998. <https://doi.org/10.1016/S0022-5347(01)66670-9>
 [^19]: Nishiyama T. Serum testosterone levels after medical or surgical androgen deprivation: A comprehensive review of the literature [J]. *Urologic Oncology: Seminars and Original Investigations*, 2014, 32(1): 38.e17-38.e28. <https://doi.org/10.1016/j.urolonc.2013.03.007>
-[^20]: Mitzi. Puberty Blockers: A Review of GnRH Analogues in Transgender Youth [EB/OL]. *Transfeminine Science*, 2022. 译文：《[有关 GnRH 类似物作为青春期阻断剂用于跨性别青年的评述](https://tfsci.mtf.wiki/articles/puberty-blockers/)》
-[^21]: Aly. A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 译文：《[对有关使用螺内酯的顺性别男性、顺性别女性和女性倾向跨性别者及其睾酮水平的一系列研究的评述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)》
-[^22]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
+[^20]: Mitzi. Puberty Blockers: A Review of GnRH Analogues in Transgender Youth [EB/OL]. *Transfeminine Science*, 2022. 译文：《[有关 GnRH 类似物作为青春期阻断剂用于跨性别青年的评述](https://tfsci.mtf.wiki/zh-cn/articles/puberty-blockers/)》
+[^21]: Aly. A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 译文：《[对有关使用螺内酯的顺性别男性、顺性别女性和女性倾向跨性别者及其睾酮水平的一系列研究的评述](https://tfsci.mtf.wiki/zh-cn/articles/spiro-testosterone/)》
+[^22]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/zh-cn/articles/cpa-dosage/)》
 [^23]: Aly. Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development [EB/OL]. *Transfeminine Science*, 2020. <https://transfemscience.org/articles/progestogens-breast-dev/>
-[^24]: Aly. Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
+[^24]: Aly. Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/zh-cn/articles/cpa-meningioma/)》
 
 [^98]: 国家药品监督管理局. 关于发布药品网络销售禁止清单（第一版）的公告（2022年 第111号）[EB/OL]. (2022-11-30). <https://www.nmpa.gov.cn/xxgk/ggtg/ypggtg/ypqtggtg/20221130200847133.html>
 [^99]: 国家药监局综合司. 关于《药品网络销售禁止清单（第一版）》有关问题的复函 [EB/OL]. (2023-07-10). <https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/20230710110515153.html>

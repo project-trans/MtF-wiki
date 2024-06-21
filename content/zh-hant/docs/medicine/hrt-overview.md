@@ -140,7 +140,7 @@ _來源：北醫三院_
 
 - [女性傾向跨性別者科學](https://transfemscience.org)（英文）  
   + [“女性傾向跨性別者科學”中譯文存檔站](https://tfsci.mtf.wiki)
-  + [女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/) [^5]
+  + [女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/) [^5]
 - [内分泌学会临床实践指南（1）- 知乎](https://zhuanlan.zhihu.com/p/41593599) (<https://archive.is/NvPrv>)
 - [内分泌学会临床实践指南（2）- 知乎](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
 - [女性化激素治疗概述 - 知乎](https://zhuanlan.zhihu.com/p/39093796) (<https://archive.is/va760>)
@@ -152,23 +152,23 @@ _來源：北醫三院_
 [^1]: National LGBTQIA+ Health Education Center. (2021-07-13). Medical Care of Trans and Gender Diverse Adults. *Fenway Institute*. <https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/>
 [^2]: Weinand, J. D., Safer, J. D. (2015). Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals. *Journal of Clinical & Translational Endocrinology*, 2(2): 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>
 [^4]: Coleman, E., Radix, A. E., Bouman, W. P., et al. (2022). Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. *International Journal of Transgender Health*, *23*(Suppl 1): S1–S259. <https://doi.org/10.1080/26895269.2022.2100644>
-[^5]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 譯文：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
+[^5]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 譯文：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/)》
 [^6]: Esoterix/LabCorp. (2020). Endocrinology Expected Values and S.I. Unit Conversion Tables. \[[PDF 檔案](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
-[^7]: Aly. (2019). Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People. *Transfeminine Science*. 譯文：《[關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/articles/sublingual-ev/)》
+[^7]: Aly. (2019). Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People. *Transfeminine Science*. 譯文：《[關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-ev/)》
 [^8]: Aly. (2019). A Review of Studies on Estradiol Levels and Testosterone Suppression with High-Dose Transdermal Estradiol Gel and Ointment in Cisgender Men with Prostate Cancer. *Transfeminine Science*. <https://transfemscience.org/articles/high-dose-transdermal-e2/>
-[^9]: Aly. (2021). An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations. *Transfeminine Science*. 譯文：《[有關雌二醇注射劑的雌二醇濃度曲線的一次非正式薈萃分析](https://tfsci.mtf.wiki/articles/injectable-e2-meta-analysis/)》
+[^9]: Aly. (2021). An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations. *Transfeminine Science*. 譯文：《[有關雌二醇注射劑的雌二醇濃度曲線的一次非正式薈萃分析](https://tfsci.mtf.wiki/zh-tw/articles/injectable-e2-meta-analysis/)》
 [^10]: Yin, P., Li, Y. W., Chen, Q. L., et al. (2017). Diethylstilbestrol, flutamide and their combination impaired the spermatogenesis of male adult zebrafish through disrupting HPG axis, meiosis and apoptosis. *Aquatic Toxicology*, 185(4): 129-137. <https://doi.org/10.1016/j.aquatox.2017.02.013>
 [^11]: Tsai, P. S., Kessler, A. E., Jones, J. T., et al. (2005). Alteration of the hypothalamic-pituitary-gonadal axis in estrogen- and androgen-treated adult male leopard frog, *Rana pipiens*. *Reproductive Biology and Endocrinology*, 3(2). <https://doi.org/10.1186/1477-7827-3-2>
 [^12]: Ainsworth, A. J., Allyse, M., Khan, Z. (2020). Fertility Preservation for Transgender Individuals: A Review. *Mayo Clinic Proceedings*, 95(4): 784-792. <https://doi.org/10.1016/j.mayocp.2019.10.040>
 [^13]: Adeleye, A. J., Reid, G., Kao, C. N., et al. (2019). Semen Parameters Among Transgender Women With a History of Hormonal Treatment. *Urology*, 124: 136-141. <https://doi.org/10.1016/j.urology.2018.10.005>
-[^14]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：《[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^14]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：《[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/zh-tw/articles/estrogens-blood-clots/)》
 [^15]: Nolan, B. J., & Cheung, A. S. (2021). Relationship Between Serum Estradiol Concentrations and Clinical Outcomes in Transgender Individuals Undergoing Feminizing Hormone Therapy: A Narrative Review. *Transgender Health*, *6*(3): 125–131. <https://doi.org/10.1089/trgh.2020.0077>
-[^16]: Novartis. (2017). ESTRADERM&reg; Prescribing Information & Patient Information. *Drugs@FDA*. 譯文：《[雌二醇外用貼片（Estraderm）說明書](https://tfsci.mtf.wiki/misc/estraderm/)》
-[^17]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：《[關於女性化激素療法與乳腺癌風險的簡述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
+[^16]: Novartis. (2017). ESTRADERM&reg; Prescribing Information & Patient Information. *Drugs@FDA*. 譯文：《[雌二醇外用貼片（Estraderm）說明書](https://tfsci.mtf.wiki/zh-tw/misc/estraderm/)》
+[^17]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：《[關於女性化激素療法與乳腺癌風險的簡述](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)》
 [^18]: Cox, L. R., Crawford, D. E. (1995). Estrogens in the Treatment of Prostate Cancer. *The Journal of Urology*, 154(6): 1991-1998. <https://doi.org/10.1016/S0022-5347(01)66670-9>
 [^19]: Nishiyama T. (2014). Serum testosterone levels after medical or surgical androgen deprivation: A comprehensive review of the literature. *Urologic Oncology: Seminars and Original Investigations*, 32(1): 38.e17-38.e28. <https://doi.org/10.1016/j.urolonc.2013.03.007>
-[^20]: Mitzi. (2022). Puberty Blockers: A Review of GnRH Analogues in Transgender Youth. *Transfeminine Science*. 譯文：《[有關 GnRH 類似物作為青春期阻斷劑用於跨性別青年的評述](https://tfsci.mtf.wiki/articles/puberty-blockers/)》
-[^21]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. 譯文：《[對有關使用螺內酯的順性別男性、順性別女性和女性傾向跨性別者及其睪酮水平的一系列研究的評述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)》
-[^22]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. 譯文：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
+[^20]: Mitzi. (2022). Puberty Blockers: A Review of GnRH Analogues in Transgender Youth. *Transfeminine Science*. 譯文：《[有關 GnRH 類似物作為青春期阻斷劑用於跨性別青年的評述](https://tfsci.mtf.wiki/zh-tw/articles/puberty-blockers/)》
+[^21]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. 譯文：《[對有關使用螺內酯的順性別男性、順性別女性和女性傾向跨性別者及其睪酮水平的一系列研究的評述](https://tfsci.mtf.wiki/zh-tw/articles/spiro-testosterone/)》
+[^22]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. 譯文：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪酮水平](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)》
 [^23]: Aly. (2020). Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development. *Transfeminine Science*. <https://transfemscience.org/articles/progestogens-breast-dev/>
-[^24]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. 譯文：《[法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
+[^24]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. 譯文：《[法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)》

@@ -17,9 +17,9 @@ title: MtF.wiki 相关项目
 本存档站收录了 *[Transfeminine Science](https://transfemscience.org)* **部分原创文章的中文译本**，激素替代治疗（HRT）**常用药品的说明书（或其译文）**，以及其它对 MtF.wiki 的补充内容。
 
 *Transfeminine Science* 是由数名对跨性别医学抱有热忱之心的外语人士创立并撰稿的原创信息资源站，旨在为**女性化激素治疗**提供力所能及的指引。尽管撰稿人皆非医学专业出身，但其行文严谨、讨论细致、引经据典，使得原文具有相当的可信度。\
-传入中文社区 Limelight 之后，该网站名称被译作“**女性倾向跨性别者科学**”；先后有数位热心读者自发参与了[翻译项目](https://github.com/tfsci-sc/articles)。2022 年九月，出于[某些原因](https://tfsci.mtf.wiki/misc/announcement-mtfwiki/)，MtF.wiki 项目组决定为这些译文设立存档站；其中一位译者也来到了 MtF.wiki 项目组，整理译文，推陈出新。整理工作于 2022 年十二月基本完成，存档站遂正式向公众开放。
+传入中文社区 Limelight 之后，该网站名称被译作“**女性倾向跨性别者科学**”；先后有数位热心读者自发参与了[翻译项目](https://github.com/tfsci-sc/articles)。2022 年九月，出于[某些原因](https://tfsci.mtf.wiki/zh-cn/misc/announcement-mtfwiki/)，MtF.wiki 项目组决定为这些译文设立存档站；其中一位译者也来到了 MtF.wiki 项目组，整理译文，推陈出新。整理工作于 2022 年十二月基本完成，存档站遂正式向公众开放。
 
-更多详情可见“[关于本站](https://tfsci.mtf.wiki/about/)”页面。
+更多详情可见“[关于本站](https://tfsci.mtf.wiki/zh-cn/about/)”页面。
 
 ## 激励项目 {#inspired-projects}
 

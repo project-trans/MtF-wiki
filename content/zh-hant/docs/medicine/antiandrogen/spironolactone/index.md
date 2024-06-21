@@ -18,7 +18,7 @@ description: 螺內酯（Spironolactone）是雄激素受體拮抗劑，一種�
 
 - 藥品名稱：螺內酯片
 - 英文名稱：Spironolactone Tablets
-- [Aldactone&reg; 說明書](https://tfsci.mtf.wiki/misc/aldactone/)
+- [Aldactone&reg; 說明書](https://tfsci.mtf.wiki/zh-tw/misc/aldactone/)
 
 ## 注意事項
 
@@ -66,8 +66,8 @@ description: 螺內酯（Spironolactone）是雄激素受體拮抗劑，一種�
 
 {{< figure src="https://scimg.chem960.com/cas/0/52-01-7.png" width="40%" >}}
 
-[^1]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 中譯本：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/#spironolactone)》
+[^1]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 中譯本：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/#spironolactone)》
 [^2]: [維基百科：螺內酯的副作用（英文）](https://en.wikipedia.org/wiki/Spironolactone#Side_effects)
-[^3]: Pfizer Labs. (2022). Full Prescribing Information: Aldactone (spironolactone). *Drugs@FDA*. 中譯本：《[螺內酯（Aldactone）處方說明書](https://tfsci.mtf.wiki/misc/aldactone/)》
-[^4]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. 中譯本：《[對有關使用螺內酯的順性別男性、順性別女性和女性傾向跨性別者及其睪固酮水平的一系列研究的評述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)》
+[^3]: Pfizer Labs. (2022). Full Prescribing Information: Aldactone (spironolactone). *Drugs@FDA*. 中譯本：《[螺內酯（Aldactone）處方說明書](https://tfsci.mtf.wiki/zh-tw/misc/aldactone/)》
+[^4]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. 中譯本：《[對有關使用螺內酯的順性別男性、順性別女性和女性傾向跨性別者及其睪固酮水平的一系列研究的評述](https://tfsci.mtf.wiki/zh-tw/articles/spiro-testosterone/)》
 [^5]: Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. \[DOI: <https://doi.org/10.1080/26895269.2022.2100644>]

@@ -20,7 +20,7 @@ description: 外用雌二醇贴片，经皮吸收。
 - 规格：
    + 50、100 µg/天（Estraderm）
    + 25、50、75、100 µg/天（Estraderm MX）
-- 说明书：[英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019081s043lbl.pdf) | [中文译本](https://tfsci.mtf.wiki/misc/estraderm/)
+- 说明书：[英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019081s043lbl.pdf) | [中文译本](https://tfsci.mtf.wiki/zh-cn/misc/estraderm/)
 
 ### Estradot&reg;
 
@@ -63,7 +63,7 @@ description: 外用雌二醇贴片，经皮吸收。
 - 避免贴片受阳光直射。
 - 用药部位需轮换，间隔一个月以上。
 - **切勿置于乳房。** {{< tag/neg "可诱发乳腺癌！" >}}
-- 更多说明可见 [Estraderm 说明书的患者部分](https://tfsci.mtf.wiki/misc/estraderm/#how-and-where-to-apply)。
+- 更多说明可见 [Estraderm 说明书的患者部分](https://tfsci.mtf.wiki/zh-cn/misc/estraderm/#how-and-where-to-apply)。
 
 ## 副作用
 

@@ -34,7 +34,7 @@ description: 雌二醇錠
 1mg × 28 錠/盒,紅色薄膜衣錠 一面寫有 NOVO 282 字樣
 ```
 
-- 說明書：[英語原文](/documents/estrofem.pdf) | [中文譯本](https://tfsci.mtf.wiki/misc/estrofem/)
+- 說明書：[英語原文](/documents/estrofem.pdf) | [中文譯本](https://tfsci.mtf.wiki/zh-tw/misc/estrofem/)
 
 ### Ediol 伊黛歐膜衣錠
 
@@ -69,7 +69,7 @@ description: 雌二醇錠
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
 
-[^1]: Aly. (2020). Approximate Comparable Dosages of Estradiol by Different Routes. *Transfeminine Science*. 中譯本：《[雌二醇在不同途徑下之大致等效劑量](https://tfsci.mtf.wiki/articles/e2-equivalent-doses/)》
+[^1]: Aly. (2020). Approximate Comparable Dosages of Estradiol by Different Routes. *Transfeminine Science*. 中譯本：《[雌二醇在不同途徑下之大致等效劑量](https://tfsci.mtf.wiki/zh-tw/articles/e2-equivalent-doses/)》
 [^2]: [雌二醇（一種藥物）- 維基百科](https://en.wikipedia.org/wiki/Estradiol_(medication))（英文）
-[^3]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People. *Transfeminine Science*. 中譯本：《[對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇之探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem/)》
-[^4]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/misc/estrofem/)
+[^3]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People. *Transfeminine Science*. 中譯本：《[對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇之探索](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-e2-transfem/)》
+[^4]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/zh-tw/misc/estrofem/)

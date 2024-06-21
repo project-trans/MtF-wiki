@@ -43,7 +43,7 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 ```
 
 - [仿單（德文）](/documents/Androcur.pdf)
-- 仿單譯文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德國版](https://tfsci.mtf.wiki/misc/androcur-de/)
+- 仿單譯文：[南非版](https://tfsci.mtf.wiki/zh-tw/misc/androcur-za/) | [德國版](https://tfsci.mtf.wiki/zh-tw/misc/androcur-de/)
 
 ### Siterone<sup>&reg;</sup>
 
@@ -55,7 +55,7 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 - 廠商：REX
 - 產地：紐西蘭
 - 規格：50mg &times; 50 片，100mg &times; 50 片
-- [仿單（中文翻譯）](https://tfsci.mtf.wiki/misc/siterone-nz/)
+- [仿單（中文翻譯）](https://tfsci.mtf.wiki/zh-tw/misc/siterone-nz/)
 
 ### 特別貼士
 
@@ -91,16 +91,16 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 - CAS：427-51-0
 
 [^1]: Wikipedia. (2023-11-25). Chlormadinone acetate. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
-[^2]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. 譯文：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
+[^2]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. 譯文：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪酮水平](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)》
 [^3]: Paoletti, A. M., Floris, S., Mannias, M., et al. (2001). Evidence That Cyproterone Acetate Improves Psychological Symptoms and Enhances the Activity of the Dopaminergic System in Postmenopause. *The Journal of Clinical Endocrinology & Metabolism*, 86(2): 608–612. DOI: [10.1210/jcem.86.2.7179](https://doi.org/10.1210/jcem.86.2.7179)
 [^4]: Ramsay, I. D., Rushton, D. H. (1990). Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia. *Clinical and Experimental Dermatology*, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
-[^5]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/misc/siterone-nz/)
-[^6]: [醋酸環丙孕酮（臺灣 Androcur）說明書](https://tfsci.mtf.wiki/misc/androcur-tw/)
-[^7]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. 譯文：《[法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
+[^5]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/zh-tw/misc/siterone-nz/)
+[^6]: [醋酸環丙孕酮（臺灣 Androcur）說明書](https://tfsci.mtf.wiki/zh-tw/misc/androcur-tw/)
+[^7]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. 譯文：《[法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)》
 [^8]: Coleman, E., Radix, A. E., Bouman, W. P., et al. (2022). Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. *International Journal of Transgender Health*, *23*(Suppl 1): S1–S259. DOI: [10.1080/26895269.2022.2100644](https://doi.org/10.1080/26895269.2022.2100644) ——[中文譯本](https://project-trans.org/SOC-8)
 [^9]: Stahnke, N., Ilicki, A., Willig, R. P. (1979). Effect of Cyproterone Acetate (CA) on Growth and Endocrine Function in Precocious Puberty. *Acta Paediatrica*, 68(S277): 32–40. DOI: [10.1111/j.1651-2227.1979.tb06189.x](https://doi.org/10.1111/j.1651-2227.1979.tb06189.x)
 [^10]: Warzywoda, S., Fowler, J. A., Bisshop, F., et al. (2024-02-20). How low can you go? Titrating the lowest effective dose of cyproterone acetate for transgender and gender diverse people who request feminizing hormones. *International Journal of Transgender Health*, Published online. DOI: [10.1080/26895269.2024.2317395](https://doi.org/10.1080/26895269.2024.2317395)
-[^11]: Aly. (2020). Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development. *Transfeminine Science*. 譯文：《[關於孕激素在乳房發育過程中有何潛在作用及影響的隨筆](https://tfsci.mtf.wiki/articles/progestogens-breast-dev/)》
+[^11]: Aly. (2020). Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development. *Transfeminine Science*. 譯文：《[關於孕激素在乳房發育過程中有何潛在作用及影響的隨筆](https://tfsci.mtf.wiki/zh-tw/articles/progestogens-breast-dev/)》
 [^12]: Yuk, J-S. (2024-03-12). Relationship between menopausal hormone therapy and breast cancer: A nationwide population-based cohort study. *International Journal of Gynecology & Obstetrics*, Published online. DOI: [10.1002/ijgo.15461](https://doi.org/10.1002/ijgo.15461)
 [^13]: Seaman, H. E., de Vries, C. S., Farmer, R. D. T. (2003). The risk of venous thromboembolism in women prescribed cyproterone acetate in combination with ethinyl estradiol: a nested cohort analysis and case–control study. *Human Reproduction*, 18(3): 522–526. DOI: [10.1093/humrep/deg120](https://doi.org/10.1093/humrep/deg120)
 [^14]: Seaman, H. E., Langley, S. E. M., Farmer, R. D. T., et al. (2007). Venous thromboembolism and cyproterone acetate in men with prostate cancer: a study using the General Practice Research Database. *BJU International*, 99(6): 1398–1403. DOI: [10.1111/j.1464-410X.2007.06859.x](https://doi.org/10.1111/j.1464-410X.2007.06859.x)

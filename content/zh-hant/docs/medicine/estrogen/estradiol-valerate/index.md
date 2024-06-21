@@ -95,7 +95,7 @@ Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
 
 [^1]: Aly. (2019). Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People. *Transfeminine Science*. 譯文：「[關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-ev/)」
 [^2]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：「[關於女性化激素療法與乳腺癌風險之簡述](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)」
-[^3]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People. *Transfeminine Science*. 譯文：「[對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem/)」
-[^4]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：「[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)」
+[^3]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People. *Transfeminine Science*. 譯文：「[對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-e2-transfem/)」
+[^4]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：「[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/zh-tw/articles/estrogens-blood-clots/)」
 [^5]: Thai Ministry of Public Health. (2021). Details of Medicinal Product: Progynova&reg; 2 mg. <https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug.aspx?Newcode_U=U1DR1C1022640003811C>（泰文）
 [^6]: Jenapharm GmbH & Co KG. (2023). Gebrauchsinformation: Progynova&reg; 21. <https://www.jenapharm.de/download/14/116/2486.pdf>（德文）

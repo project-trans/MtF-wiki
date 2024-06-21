@@ -39,7 +39,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 产品名称：Oestrogel&reg;（爱斯妥）/ Gynokadin&reg; / EstroGel&reg;
 - 有效成分：雌二醇
 - 生产企业：比利时法杏制药厂
-- 说明书：[扫描件](/images/medicine/gel/estradiol-gel.jpg) | [电子版](https://tfsci.mtf.wiki/misc/oestrogel/)
+- 说明书：[扫描件](/images/medicine/gel/estradiol-gel.jpg) | [电子版](https://tfsci.mtf.wiki/zh-cn/misc/oestrogel/)
 - 药品规格：
   - 0.06% &times; 80g（含雌二醇 48mg）
   - 0.06% &times; 30g（含雌二醇 18mg）（限中国大陆包装）
@@ -65,7 +65,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 | **上市地域** | 美国 | 德国 | 西班牙 | 加拿大 | 英国、法国、韩国等 | 欧盟、英国、日本等 |
 | **生产企业** | ASCEND Therapeutics | 法杏制药 | SEID Lab | Organon Canada | Theramex Laboratory | Orion Pharma |
 | **规格** | 0.06% &times; 50g<br>定量按压 | 0.06% &times; 80g<br>定量按压 | 0.06% &times; 80g<br>铝塑管 | 0.06% &times; 80g<br>定量按压 | 0.1% &times; 50g<br>定量按压 | 0.1% &times; 0.5/1 g<br>每份独立包装<br>每盒 28/91 袋 |
-| **说明书** | [英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021166s018lbl.pdf)[^2]<br>[中文翻译](https://tfsci.mtf.wiki/misc/estrogel-us/) | [德语原文](https://service.besins-healthcare.de/gynokadin/fi/gynokadin-dosiergel-fachinformation-besins-healthcare.pdf)[^5] | [西班牙语原文](https://cima.aemps.es/cima/pdfs/es/p/59577/Prospecto_59577.html.pdf) | [患者说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)<br>[英语全文](https://pdf.hres.ca/dpd_pm/00072270.PDF) | 暂无 | [意大利语原文](https://www.orionpharma.it/siteassets/pdfs/foglio-illustrativo/sandrena---foglio-illustrativo.pdf) |
+| **说明书** | [英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021166s018lbl.pdf)[^2]<br>[中文翻译](https://tfsci.mtf.wiki/zh-cn/misc/estrogel-us/) | [德语原文](https://service.besins-healthcare.de/gynokadin/fi/gynokadin-dosiergel-fachinformation-besins-healthcare.pdf)[^5] | [西班牙语原文](https://cima.aemps.es/cima/pdfs/es/p/59577/Prospecto_59577.html.pdf) | [患者说明书](/images/medicine/gel/ESTROGEL-CI_E.pdf)<br>[英语全文](https://pdf.hres.ca/dpd_pm/00072270.PDF) | 暂无 | [意大利语原文](https://www.orionpharma.it/siteassets/pdfs/foglio-illustrativo/sandrena---foglio-illustrativo.pdf) |
 | **备注** | 法杏制药子公司 | | | | 每泵 0.5 g | |
 
 ### 自制教程
@@ -114,9 +114,9 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
 
-[^1]: [雌二醇凝胶（爱斯妥）说明书](https://tfsci.mtf.wiki/misc/oestrogel/)
-[^2]: ASCEND Therapeutics. Prescribing Information, Patient Information & Instructions for Use: Estrogel&reg; 0.06% [EB/OL]. *Drugs@FDA*, 2023. 译文：《[雌二醇凝胶（美国 EstroGel）说明书](https://tfsci.mtf.wiki/misc/estrogel-us/)》
-[^3]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^1]: [雌二醇凝胶（爱斯妥）说明书](https://tfsci.mtf.wiki/zh-cn/misc/oestrogel/)
+[^2]: ASCEND Therapeutics. Prescribing Information, Patient Information & Instructions for Use: Estrogel&reg; 0.06% [EB/OL]. *Drugs@FDA*, 2023. 译文：《[雌二醇凝胶（美国 EstroGel）说明书](https://tfsci.mtf.wiki/zh-cn/misc/estrogel-us/)》
+[^3]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/zh-cn/articles/estrogens-blood-clots/)》
 [^4]: 中华医学会妇产科学分会绝经学组. 雌二醇凝胶临床应用指导建议 [J]. *中国实用妇科与产科杂志*, 2017, 33(7): 709-710. DOI: [10.19538/j.fk2017070113](https://doi.org/10.19538/j.fk2017070113)
 [^5]: Besins Healthcare Germany GmbH. FACHINFORMATION: Gynokadin® Dosiergel [EB/OL]. (2023-07). <https://service.besins-healthcare.de/gynokadin/fi/gynokadin-dosiergel-fachinformation-besins-healthcare.pdf>
 [^6]: Järvinen A, Granander M, Nykänen S, et al. Steady-state pharmacokinetics of oestradiol gel in post-menopausal women: effects of application area and washing [J]. *British Journal of Obstetrics and Gynaecology*, 1997, 104(Suppl 16): 14-18. DOI: [10.1111/j.1471-0528.1997.tb11562.x](https://doi.org/10.1111/j.1471-0528.1997.tb11562.x)

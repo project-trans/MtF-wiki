@@ -182,26 +182,26 @@ aliases: hormone-check
 1. {{< wiki 黃體生成素 >}}
 
 [^1]: Esoterix/LabCorp. (2020). *Endocrinology Expected Values and S.I. Unit Conversion Tables.* \[[PDF 文檔](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
-[^2]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine People.* Transfeminine Science. 中譯本：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
+[^2]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine People.* Transfeminine Science. 中譯本：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/)》
 [^3]: Coleman, E., Radix, A.E., Bouman, W.P., et al. (2022). *Standards of Care for the Health of Transgender and Gender Diverse People, Version 8*. International Journal of Transgender Health, *23*(Suppl 1):S1–S259. \[DOI: <https://doi.org/10.1080/26895269.2022.2100644>]
-[^4]: Aly. (2020). *Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development.* Transfeminine Science. 譯文：《[關於孕激素在乳房發育過程中有何潛在作用及影響的隨筆](https://tfsci.mtf.wiki/articles/progestogens-breast-dev/)》
-[^5]: Aly. (2018). *Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects.* Transfeminine Science. 中譯本：《[口服孕酮及其引起的低孕酮水平與較弱效力的簡論](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
-[^6]: Aly. (2019). *Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People*. Transfeminine Science. 中譯本：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪固酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
-[^7]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中譯本：《[比卡魯胺在女性化激素治療方面的使用狀況，以及醫學界對其的接受情況](https://tfsci.mtf.wiki/articles/bica-adoption/)》
-[^8]: [戊酸雌二醇片（Progynova）說明書](https://tfsci.mtf.wiki/misc/progynova/)
-[^9]: [戊酸雌二醇註射劑（Progynon Depot/富士日雌）說明書](https://tfsci.mtf.wiki/misc/progynon-depot/)
-[^10]: [醋酸環丙孕酮（台灣安得卡錠）說明書](https://tfsci.mtf.wiki/misc/androcur-tw/)
-[^11]: Mitzi. (2022). *Puberty Blockers: A Review of GnRH Analogues in Transgender Youth.* Transfeminine Science. 中譯本：《[有關 GnRH 類似物作為青春期阻斷劑用於跨性別青年的評述](https://tfsci.mtf.wiki/articles/puberty-blockers/)》
-[^12]: [螺內酯片說明書](https://tfsci.mtf.wiki/misc/spiro-tablet/)
-[^13]: Aly. (2020). *Estrogens and Their Influences on Coagulation and Risk of Blood Clots.* Transfeminine Science. 中譯本：《[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
-[^14]: Aly. (2020). *Breast Cancer Risk with Hormone Therapy in Transfeminine People.* Transfeminine Science. 中譯本：《[關於女性化激素療法與乳腺癌風險的簡述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
-[^15]: [比卡魯胺（Casodex）說明書](https://tfsci.mtf.wiki/misc/casodex/)
-[^16]: Aly. (2020). *Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People.* Transfeminine Science. 中譯本：《[法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
-[^17]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/misc/siterone-nz/)
-[^18]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/misc/estrofem/)
-[^19]: [雌二醇外用貼片（Estraderm）說明書](https://tfsci.mtf.wiki/misc/estraderm/)
+[^4]: Aly. (2020). *Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development.* Transfeminine Science. 譯文：《[關於孕激素在乳房發育過程中有何潛在作用及影響的隨筆](https://tfsci.mtf.wiki/zh-tw/articles/progestogens-breast-dev/)》
+[^5]: Aly. (2018). *Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects.* Transfeminine Science. 中譯本：《[口服孕酮及其引起的低孕酮水平與較弱效力的簡論](https://tfsci.mtf.wiki/zh-tw/articles/oral-p4-low-levels/)》
+[^6]: Aly. (2019). *Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People*. Transfeminine Science. 中譯本：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪固酮水平](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)》
+[^7]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中譯本：《[比卡魯胺在女性化激素治療方面的使用狀況，以及醫學界對其的接受情況](https://tfsci.mtf.wiki/zh-tw/articles/bica-adoption/)》
+[^8]: [戊酸雌二醇片（Progynova）說明書](https://tfsci.mtf.wiki/zh-tw/misc/progynova/)
+[^9]: [戊酸雌二醇註射劑（Progynon Depot/富士日雌）說明書](https://tfsci.mtf.wiki/zh-tw/misc/progynon-depot/)
+[^10]: [醋酸環丙孕酮（台灣安得卡錠）說明書](https://tfsci.mtf.wiki/zh-tw/misc/androcur-tw/)
+[^11]: Mitzi. (2022). *Puberty Blockers: A Review of GnRH Analogues in Transgender Youth.* Transfeminine Science. 中譯本：《[有關 GnRH 類似物作為青春期阻斷劑用於跨性別青年的評述](https://tfsci.mtf.wiki/zh-tw/articles/puberty-blockers/)》
+[^12]: [螺內酯片說明書](https://tfsci.mtf.wiki/zh-tw/misc/spiro-tablet/)
+[^13]: Aly. (2020). *Estrogens and Their Influences on Coagulation and Risk of Blood Clots.* Transfeminine Science. 中譯本：《[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/zh-tw/articles/estrogens-blood-clots/)》
+[^14]: Aly. (2020). *Breast Cancer Risk with Hormone Therapy in Transfeminine People.* Transfeminine Science. 中譯本：《[關於女性化激素療法與乳腺癌風險的簡述](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)》
+[^15]: [比卡魯胺（Casodex）說明書](https://tfsci.mtf.wiki/zh-tw/misc/casodex/)
+[^16]: Aly. (2020). *Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People.* Transfeminine Science. 中譯本：《[法國關於醋酸環丙孕酮和腦膜瘤風險的研究的最新進展以及對女性傾向跨性別者的影響](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)》
+[^17]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/zh-tw/misc/siterone-nz/)
+[^18]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/zh-tw/misc/estrofem/)
+[^19]: [雌二醇外用貼片（Estraderm）說明書](https://tfsci.mtf.wiki/zh-tw/misc/estraderm/)
 [^20]: 鄭全喜, 王昆, & 劉超. (2014). *甲狀腺功能減退導致高甘油三酯血症的分子機制的新認識*. 中華內分泌代謝雜誌, 30(10):856-858. \[DOI: [10.3760/cma.j.issn.1000-6699.2014.10.09](https://rs.yiigle.com/cmaid/206059)]
-[^21]: [螺內酯（Aldactone）說明書](https://tfsci.mtf.wiki/misc/aldactone/)
+[^21]: [螺內酯（Aldactone）說明書](https://tfsci.mtf.wiki/zh-tw/misc/aldactone/)
 [^22]: 劉兆宇, 李岩, 李學武, 等. (2022). *中國海南百歲女性老人性腺激素表達特徵及關聯因素的橫斷面分析*. 中南大學學報:醫學版, 47(1):45-51. \[DOI:[10.11817/j.issn.1672-7347.2022.210079](https://dx.doi.org/10.11817/j.issn.1672-7347.2022.210079)]
 [^23]: 李德繪, 梁自乾. (2003). *重度燒傷患者血清 PTH、鈣、無機磷測定及其臨床意義*. 廣西醫科大學學報, (03): 374-375. \[DOI:[10.16190/j.cnki.45-1211/r.2003.03.025](https://dx.doi.org/10.16190/j.cnki.45-1211/r.2003.03.025)]
 [^24]: 急性胰腺炎協作組. (2006). *中國 6223 例急性胰腺炎病因及病死率分析*. 胰腺病學, 6(6):321-325. \[DOI:[10.3760/cma.j.issn.1674-1935.2006.06.001](https://dx.doi.org/10.3760/cma.j.issn.1674-1935.2006.06.001)]

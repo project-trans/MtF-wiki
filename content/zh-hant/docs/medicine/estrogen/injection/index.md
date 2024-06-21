@@ -21,7 +21,7 @@ libraries: [katex, mhchem]
 - 廠商：富士製藥
 - 規格：一盒 10 瓶，每瓶 1 mL，含有 10 mg 戊酸雌二醇
 - 外觀：微黃色澄清油性注射液
-- 說明書：[日語原文](/documents/progynon.pdf) | [中文譯本](https://tfsci.mtf.wiki/misc/progynon-depot/)
+- 說明書：[日語原文](/documents/progynon.pdf) | [中文譯本](https://tfsci.mtf.wiki/zh-tw/misc/progynon-depot/)
 
 ### 【停產】持田 Pelanin Depot
 
@@ -83,7 +83,7 @@ libraries: [katex, mhchem]
 - 性狀：無色或淡黃色透明液體
 - 生產商：Montage Laboratories Pvt. Ltd.
 - 銷售商：Modern Agencies（印度那格浦爾市）
-- [說明書](https://tfsci.mtf.wiki/misc/estraproval-depot/)
+- [說明書](https://tfsci.mtf.wiki/zh-tw/misc/estraproval-depot/)
 
 ## 使用方式與用量
 
@@ -114,8 +114,8 @@ libraries: [katex, mhchem]
 
 <small>
 
-(1) 不常用理由：注射間距過短（2 – 3 天），長期使用不便；雌二醇水平波動過大（3 日內差值可達 4 倍以上），可能影響療效、引起不必要的副作用和風險；現有跨性別健康指南無一推薦等。另見“參考資料”六的[分析](https://tfsci.mtf.wiki/articles/injectable-e2-meta-analysis/#estradiol-benzoate)章節。\
-(2) 不常用理由：僅見於注射用黃體素-動情素製劑，中國大陸無渠道。見“參考資料”六的[分析](https://tfsci.mtf.wiki/zh-cn/articles/injectable-e2-meta-analysis/#estradiol-enanthate)章節。
+(1) 不常用理由：注射間距過短（2 – 3 天），長期使用不便；雌二醇水平波動過大（3 日內差值可達 4 倍以上），可能影響療效、引起不必要的副作用和風險；現有跨性別健康指南無一推薦等。另見“參考資料”六的[分析](https://tfsci.mtf.wiki/zh-tw/articles/injectable-e2-meta-analysis/#estradiol-benzoate)章節。\
+(2) 不常用理由：僅見於注射用黃體素-動情素製劑，中國大陸無渠道。見“參考資料”六的[分析](https://tfsci.mtf.wiki/zh-tw/articles/injectable-e2-meta-analysis/#estradiol-enanthate)章節。
 
 </small>
 
@@ -126,4 +126,4 @@ libraries: [katex, mhchem]
 3. [環戊丙酸雌二醇 - 維基百科](https://en.wikipedia.org/wiki/Estradiol_cypionate) （英文）
 4. [苯甲酸雌二醇 - 維基百科](https://en.wikipedia.org/wiki/Estradiol_benzoate) （英文）
 5. [庚酸雌二醇 - 維基百科](https://en.wikipedia.org/wiki/Estradiol_enantate) （英文）
-6. [注射雌二醇後的血清濃度曲線分析 – 女性傾向跨性別者科學中文譯本](https://tfsci.mtf.wiki/articles/injectable-e2-meta-analysis/)
+6. [注射雌二醇後的血清濃度曲線分析 – 女性傾向跨性別者科學中文譯本](https://tfsci.mtf.wiki/zh-tw/articles/injectable-e2-meta-analysis/)

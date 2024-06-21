@@ -52,8 +52,8 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 - 分子式：C<sub>18</sub>H<sub>14</sub>N<sub>2</sub>O<sub>4</sub>F<sub>4</sub>S
 - 分子量：430.37
 
-[^1]: Aly. (2018). *Discussion on Bicalutamide Dosage in Transfeminine People.* Transfeminine Science. 中译本：《[有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/articles/bica-dosage/)》——*注意：原文已被删除*
-[^2]: [比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/)
-[^3]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
+[^1]: Aly. (2018). *Discussion on Bicalutamide Dosage in Transfeminine People.* Transfeminine Science. 中译本：《[有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/zh-cn/articles/bica-dosage/)》——*注意：原文已被删除*
+[^2]: [比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/zh-cn/misc/casodex/)
+[^3]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/zh-cn/articles/bica-adoption/)》
 [^4]: [维基百科：比卡鲁胺的副作用（英文）](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
-[^5]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine People.* Transfeminine Science. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
+[^5]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine People.* Transfeminine Science. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/)》
