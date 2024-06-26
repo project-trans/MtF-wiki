@@ -10,6 +10,12 @@ title: 国际医学中心医院整形医院 | 郭树忠
 
 {{< /notice >}}
 
+{{< notice error "提示" >}}
+
+注意：该院精神心理科表示不接诊性别不一致等诊断，建议另寻专科医院<sup>2024-06，杨来启</sup>。
+
+{{< /notice >}}
+
 {{< doctor-image src="doctor.jpg" >}}
 
 医生姓名：[郭树忠](http://www.imc-xa.cn/detail-2987.aspx)
