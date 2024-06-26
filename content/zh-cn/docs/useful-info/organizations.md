@@ -45,3 +45,13 @@ Facebook：<https://facebook.com/ynparallel>\
 微信公众号：「[云南平行](weixin://ynpx087163379065)」\
 电话：{{< telephone "+86 0871-6337-9065" >}}、{{< telephone "+86 180-6482-4919" >}}\
 QQ 群：{{< shields/qq 170530694 >}}
+
+### 多元性别家暴干预服务地图 {#map-page}
+
+（来源：微信公众号 - [同语II](weixin://tongyu2005-ii)）
+
+***最后更新时间： 2022 年 7 月 13 日 - 第五版***（[公众号文章](https://mp.weixin.qq.com/s/jzFVpU99rlFaxZZkqWDM0g)）
+
+![Figure 1](mappage1.png)
+
+![Figure 2](mappage2.png)
