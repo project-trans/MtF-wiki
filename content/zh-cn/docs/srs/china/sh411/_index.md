@@ -463,11 +463,17 @@ weight: 1001
 
 {{< hiddenphoto "postoperative-4-3.jpg" >}}
 
-### 2023 年 6 月手术，术后两月余拍摄
+### 2023 年 6 月手术
+
+- 术后两月余拍摄
 
 {{< hiddenphoto "postoperative-5-1.jpg" >}}
+
+- 术后一年拍摄
+
 {{< hiddenphoto "postoperative-5-2.jpg" >}}
 {{< hiddenphoto "postoperative-5-3.jpg" >}}
+{{< hiddenphoto "postoperative-5-4.jpg" >}}
 
 ### 2023 年 4 月手术，术后一年拍摄
 
