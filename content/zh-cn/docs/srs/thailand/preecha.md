@@ -185,10 +185,10 @@ Tips:
 
 {{< /expand >}}
 
-## 参考资料 {#references}
+## 另请参阅 {#references}
 
 - 一位姐妹的 SRS 记录（Burin） <https://t.me/Hana_SRSviaBurin>
-- [PAI Burin 手术 90 天后写下的手术 FAQ](https://github.com/project-trans/basket-relay/discussions/4)
+- [PAI Burin 手术 90 天后写下的手术常见问题 + 手术准备清单](https://github.com/project-trans/basket-relay/discussions/4)
 - 七七的 SRS 日记-PAI 布林 <https://t.me/srs77inpai>
 - 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
