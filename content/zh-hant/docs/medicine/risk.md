@@ -172,6 +172,23 @@ weight: 10
 
 無論如何，應在開始 HRT 治療或其它病症（如精神類）之治療之前**認真閱讀說明書**，尤其是有關藥物相互作用的資訊；治療期間也要不時回顧。如果懂一些英語，可以在 [Drugs.com](https://www.drugs.com/drug_interactions.html) 查詢兩種藥品（英文名稱）之間是否存在相互作用。如必須併用，請注意進行密切監測；併用期間出現任何不適或異常應隨診——讓醫生知悉一切並對症下藥，**千萬別隱瞞！**
 
+#### 附錄：可誘導或抑制 CYP3A4 之精神藥品 [^34]
+
+> **加粗：有強誘導或抑制作用**  
+> \* 有較弱誘導或抑制作用  
+> 其餘：作用顯著性不明
+
+```csv
+誘導剂,抑制剂
+**Asenapine？**,**Fluoxetine**
+**Carbamazepine**,Fluvoxamine
+**Modafinil**,**Paroxetine**
+**Phenobarbital**<br>Barbital 系藥品或類同,Perphenazine
+**Phenytoin**,Reboxetine\*
+**St. John's wolt（貫葉連翹）**,
+Topiramate,
+```
+
 以上未囊括所有可能存在相互作用的藥品類別。如有新的藥物相互作用資訊，可於 [GitHub](https://github.com/project-trans/MtF-wiki/issues/828) 提交報告。
 
 
@@ -209,3 +226,4 @@ Newsletter*, 22(4): 3-4.
 [^31]: Chung, W. G., & Buhler, D. R. (1994). The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs. *Toxicology and Applied Pharmacology*, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
 [^32]: Monroe, S. E., Levine, L., Chang, R. J., et al. (1981). Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas. *The Journal of Clinical Endocrinology & Metabolism*, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 [^33]: ANI Pharmaceuticals Inc. (2022). LITHOBID&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
+[^34]: Taylor, D. M., Barnes, T. R. E., Young, A. H. (2021). The Maudsley&reg; Prescribing Guidelines in Psychiatry. (14th ed.) Hoboken: John Wiley & Sons: 851-855.
