@@ -4,7 +4,7 @@ weight: 10
 ---
 
 {{< notice warning "用药安全提示" >}}
-“是药三分毒”，HRT 用药也不例外。须严格控制用药途径与剂量，在确保疗效的同时尽量降低用药风险。
+“是药三分毒”，GAHT 用药也不例外。须严格控制用药途径与剂量，在确保疗效的同时尽量降低用药风险。
 {{< /notice >}}
 
 ## 雌激素用药风险
@@ -130,14 +130,14 @@ weight: 10
 ## 药物相互作用 {#drug-interactions}
 
 {{< notice warning "警告" >}}
-**如需服用 HRT 以外的任何药物，务必就<u>药物相互作用</u>问题咨询医师，并查阅说明书相关内容！**
+**如需服用 GAHT 以外的任何药物，务必就<u>药物相互作用</u>问题咨询医师，并查阅说明书相关内容！**
 {{< /notice >}}
 
-诸 HRT 药物之间以及与其它药物之间的相互作用非常复杂，且强度不一，需要海量资料来建立其关系；目前只能通过各药品的说明书内容和药代动力学研究资料来做大致判断。考虑到 MtF 当中精神疾病的流行率较高[^19]，此处会特别指明与精神药品的关系。
+诸 GAHT 药物之间以及与其它药物之间的相互作用非常复杂，且强度不一，需要海量资料来建立其关系；目前只能通过各药品的说明书内容和药代动力学研究资料来做大致判断。考虑到 MtF 当中精神疾病的流行率较高[^19]，此处会特别指明与精神药品的关系。
 
 ### 肝酶代谢关系
 
-主要 HRT 用药均依赖或影响肝酶代谢：
+主要 GAHT 用药均依赖或影响肝酶代谢：
 
 | 类型 | 性质 |
 |-|-|
@@ -148,7 +148,7 @@ weight: 10
 | 比卡鲁胺 | (S)-对映体经 CYP3A4 代谢，(R)-对映体部分经此代谢[^22]<br>有抑制 CYP3A4 的潜力[^10]，但体内研究表明作用不明显[^22] |
 | GnRH 类似物 | 曲普瑞林很少被肝酶代谢[^23] |
 
-### HRT 用药之间的关系
+### GAHT 用药之间的关系
 
 可能存在相互作用的情况包括但不限于：
 
@@ -170,7 +170,24 @@ weight: 10
 - **共用 CYP3A4 代谢途径的药品：** 剂量较大时，相关副作用发生的风险可能增大[^7]。应以最低有效剂量服药。
 - **酒精：** 已知酒精可降低醋酸环丙孕酮的效力[^5] [^6] [^7]。
 
-无论如何，应在开始 HRT 治疗或其它疾病（如精神类）的治疗之前**认真阅读说明书**，尤其是有关药物相互作用的内容；治疗期间也要不时回顾。如果懂一些英语，可以在 [Drugs.com](https://www.drugs.com/drug_interactions.html) 查询两种药品（英文名称）之间是否存在相互作用。如必须并用，请注意进行密切监测；并用期间出现任何不适或异常应随诊——让医生知悉一切并对症下药，**千万别瞒着！**
+无论如何，应在开始 GAHT 治疗或其它疾病（如精神类）的治疗之前**认真阅读说明书**，尤其是有关药物相互作用的内容；治疗期间也要不时回顾。如果懂一些英语，可以在 [Drugs.com](https://www.drugs.com/drug_interactions.html) 查询两种药品（英文名称）之间是否存在相互作用。如必须并用，请注意进行密切监测；并用期间出现任何不适或异常应随诊——让医生知悉一切并对症下药，**千万别瞒着！**
+
+##### 附录：可诱导或抑制 CYP3A4 的精神药品 [^34]
+
+> **粗体：有强诱导或抑制作用**  
+> \* 有较弱诱导或抑制作用  
+> 其余：作用显著性不明
+
+```csv
+诱导剂,抑制剂
+**阿塞那平？**,**氟西汀**
+**卡马西平**,氟伏沙明
+**莫达芬尼**,**帕罗西汀**
+**苯巴比妥**<br>巴比妥类药或类同,奋乃静
+**苯妥英**,瑞波西汀\*
+**圣约翰草（贯叶连翘）**,
+托吡酯,
+```
 
 以上未囊括所有可能存在相互作用的药品类型。如有新的药物相互作用信息，可于 [GitHub](https://github.com/project-trans/MtF-wiki/issues/828) 提交报告。
 
@@ -209,3 +226,4 @@ Newsletter*, 2012, 22(4): 3-4.
 [^31]: Chung W G, Buhler D R. The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs [J]. *Toxicology and Applied Pharmacology*, 1994, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
 [^32]: Monroe S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas [J]. *The Journal of Clinical Endocrinology & Metabolism*, 1981, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 [^33]: ANI Pharmaceuticals Inc. LITHOBID&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2022. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
+[^34]: Taylor D M, Barnes T R E, Young A H. The Maudsley&reg; Prescribing Guidelines in Psychiatry [M]. 14th ed. Hoboken, US: John Wiley & Sons, 2021: 851-855.
