@@ -107,7 +107,7 @@ weight: 600
 省市,文件名称,相关条款,注意事项
 北京市,[《派出所办理常住户口登记工作规范（试行）》](https://zh.wikisource.org/wiki/%E6%B4%BE%E5%87%BA%E6%89%80%E5%8A%9E%E7%90%86%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%99%BB%E8%AE%B0%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89),,要求「提供本人书面申请、医院诊断证明、公证部门的公证书」
 上海市,[《上海市常住户口管理规定》](https://zh.wikisource.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A),第五十五、五十八、六十三条,学生集体户口等无法修改性别
-江苏省,[《江苏省常住户口登记管理规定》](http://gat.jiangsu.gov.cn/art/2016/11/1/art_6361_7689661.html),第一百三十九条,
+江苏省,[《江苏省常住户口登记管理规定》](https://zh.wikisource.org/wiki/%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%99%BB%E8%AE%B0%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A),第一百三十九条,
 浙江省,[《浙江省常住户口登记管理规定》](https://www.zj.gov.cn/zjservice/item/detail/lawtext.do?outLawId=d85c2ba4-5e0b-4039-8991-2143230de3fc),第七十七条,
 福建省,[《福建省户口居民身份证管理工作规定》](https://gat.fujian.gov.cn/zfxxgk/zfxxgkml/gfxwjml/xxyx/202111/t20211117_5775583.htm),第一百四十九条,
 ```
