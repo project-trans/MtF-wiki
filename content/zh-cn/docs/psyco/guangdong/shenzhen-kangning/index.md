@@ -24,7 +24,9 @@ title: 深圳市康宁医院
 
     {{< doctor-image src="yang-huini.jpg" >}}
 
-- 医生姓名：张倩（2024年7月有反馈称该医生停诊一年）
+- 医生姓名：张倩
+
+  有反馈称该医生停诊一年<sub>2024年7月</sub>
 
 {{< doctor-image src="zhang-qian.png" >}}
 
