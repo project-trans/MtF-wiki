@@ -50,7 +50,7 @@ weight: 200
 
 ### 法律依据 {#legal}
 
-根据 [《性别重置技术临床应用管理规范（2022 年版）》](http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml)
+根据 [《性别重置技术临床应用管理规范（2022 年版）》](https://project-trans.org/china-legal/spec/2022-04-20/srs/readme)
 
 > 三、技术管理基本要求
 >
