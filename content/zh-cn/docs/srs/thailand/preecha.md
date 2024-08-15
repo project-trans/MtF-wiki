@@ -193,5 +193,6 @@ Tips:
 - 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
 - 凛娴的SRS日记-PAI 布林 <https://t.me/SRS_RinChord>
+- PAI SRS 手术物品准备清单参考 <https://meiza.cc/pai-srs%E6%89%8B%E6%9C%AF%E7%89%A9%E5%93%81%E5%87%86%E5%A4%87%E6%B8%85%E5%8D%95%E5%8F%82%E8%80%83/>
 
 [^1]: <https://pai.co.th/service/penile-skin-inversion-scrotal-skin-graft-male-to-female-trans-women/>
