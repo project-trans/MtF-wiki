@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/9f54ac78-7ee0-4c18-824f-d4b68df4e696)---
 title: 嗓音训练已确认列表
 slug: confirmed
 weight: 2
@@ -8,7 +8,8 @@ weight: 2
 
 {{< notice warning "警告" >}}
 
-本页面所列内容与本网站均无经济利益往来，本网站亦不对其服务提供任何保障，请自行甄别。
+本页面所列内容与本网站均无经济利益往来，本网站亦不对任何培训机构或其服务质量做出保证或担保,本站点也并未验证其宣传内容的真实性和有效性。  
+在选择任何培训机构时建议保持谨慎,全面了解相关信息,优先根据自身情况选择专业医疗机构进行学习。  
 
 {{< /notice >}}
 
@@ -23,7 +24,17 @@ weight: 2
 广东省深圳市,深圳大学总医院,[王路]({{< ref "wang-lu" >}}),约 220 CNY/次,需诊断证明、父母同意
 湖南省长沙市,[中南大学湘雅二医院](https://www.xyeyy.com),[胡文倩]({{< ref "hu-wen-qian" >}}),约 200 CNY/次,
 天津市,天津医科大学第二医院,黄永望,200 CNY/次,一个疗程 5 节课
-线上,宁韵声音,宁韵声音,N/A,{{< shields/wechat "Ning-Yun_" >}}
+
+```
+
+
+其他医疗信息  
+
+```csv
+教学形式,来源,备注，联系方式
+线上,凯瑟琳奈,CC BY-NC-SA 4.0,教程[链接](https://rle.wiki/others/voice-feminisation-exercise/)
+线上,宁韵声音,N/A,与专业医疗机构的方法存在差异，建议谨慎选择{{< shields/wechat "Ning-Yun_" >}}
+
 ```
 
 对于更多尚未探索的医疗资源请参见 [未确认列表（嗓音女性化）]({{< ref "unconfirmed#vocal-therapy-prc" >}})
