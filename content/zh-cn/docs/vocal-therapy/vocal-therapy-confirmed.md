@@ -39,6 +39,7 @@ weight: 2
 ```csv
 来源,联系方式/获取途径
 凯瑟琳奈,教程[链接](https://rle.wiki/others/voice-feminisation-exercise/)
+佐倉 奈緒,[成为女孩子的声音！](https://vocal.mtf.wiki)
 宁韵声音,{{< shields/wechat "Ning-Yun_" >}}
 
 ```
