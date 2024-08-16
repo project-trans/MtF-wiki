@@ -1,5 +1,5 @@
 ---
-title: 嗓音训练已确认列表
+title: 嗓音训练已知资源
 slug: confirmed
 weight: 2
 ---
