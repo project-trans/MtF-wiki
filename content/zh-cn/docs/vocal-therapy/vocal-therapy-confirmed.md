@@ -1,10 +1,11 @@
-![image](https://github.com/user-attachments/assets/9f54ac78-7ee0-4c18-824f-d4b68df4e696)---
+---
 title: 嗓音训练已确认列表
 slug: confirmed
 weight: 2
 ---
 
 若无相关条目，大致流程可以参照 [陈臻]({{< ref "chen-zhen" >}})。
+
 
 {{< notice warning "警告" >}}
 
