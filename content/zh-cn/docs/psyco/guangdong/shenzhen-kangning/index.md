@@ -18,9 +18,11 @@ title: 深圳市康宁医院
 
     {{< doctor-image src="wei-zhaoguo.png" >}}
 
-    > 此医生需提前预约，一个月接诊 10 位
+  此医生需提前预约，一个月接诊 10 位
 
 - 医生姓名：[杨惠妮](https://www.haodf.com/doctor/6964354469.html)
+
+  有反馈称杨惠妮要求观察期期间必须每月复诊，不接受任何理由的缺诊，只要缺诊了就重新计算观察期。并且提到需要多位医生的诊断，建议外地来访的慎重考虑。
 
     {{< doctor-image src="yang-huini.jpg" >}}
 
