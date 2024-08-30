@@ -57,6 +57,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
+- 上市信息：11168, 9839
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
 
 ### 华典&reg;醋酸环丙孕酮片 {#huadian}
