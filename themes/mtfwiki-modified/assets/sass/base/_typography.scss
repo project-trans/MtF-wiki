@@ -2,30 +2,17 @@
  * Basic typography style for copy text
  */
 
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Noto+Sans+JP&family=IBM+Plex+Sans+Thai+Looped&family=IBM+Plex+Sans+Arabic:wght@600&display=swap");
-
-@font-face {
-  font-family: LXGWClearGothic;
-  src: url("../fonts/LXGWClearGothic-Regular.ttf");
-  font-display: swap;
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
   font-size: 1rem;
-  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial,
-    "IBM Plex Sans Thai Looped", $text-font-stack;
 }
 
-[lang="zh-cn"] * {
-  font-family: "Noto Sans SC", "Hiragino Sans GB", "华文细黑", "STHeiti",
-    "微软雅黑", "Microsoft YaHei", SimHei, "Helvetica Neue", Helvetica, Arial,
-    "IBM Plex Sans Thai Looped", $text-font-stack;
-}
 [lang="zh-hant"] * {
-  font-family: LXGWClearGothic, "微軟正黑體", "Microsoft JhengHei", "新細明體",
-    "PMingLiU", "細明體", "MingLiU", "蘋果儷中黑", "Apple LiGothic Medium",
-    "儷黑 Pro", "LiHei Pro Medium", "IBM Plex Sans Thai Looped",
-    $text-font-stack;
   h1,
   h2,
   h3,
@@ -39,27 +26,9 @@ body {
   }
 }
 
-[lang="ja"] * {
-  font-family: "Noto Sans JP", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro",
-    "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "MS Gothic",
-    "ＭＳ ゴシック", "Helvetica Neue", "IBM Plex Sans Thai Looped", Helvetica,
-    Arial, $text-font-stack;
-}
-
-[lang="ug"] * {
-  font-family: "IBM Plex Sans Arabic", "Noto Sans Arabic", $text-font-stack;
-}
-
-html {
-  font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
-
 code,
 pre {
   font-size: 0.85rem;
-  font-family: $code-font-stack;
 }
 
 .h1 {
