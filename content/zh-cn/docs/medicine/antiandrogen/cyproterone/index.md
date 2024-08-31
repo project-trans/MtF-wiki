@@ -20,8 +20,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 | 中国内地 | 无                                                           |
 | 台湾     | 卫署药输字第 012554 号                                       |
 | 香港     | HK-46443                                                     |
-| 土耳其   | [8699546011667](https://www.rxreasoner.com/drugs/androcur)   |
-
+| 土耳其   | [88/77](https://titck.gov.tr/storage/Archive/2024/kubKtAttachments/ANDROCUR50mgKB_5a468428-5f66-4d87-8ab5-8b36c5de2127.pdf)   |
 
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
@@ -34,6 +33,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [说明书（繁体中文）](/documents/androcur-zh.pdf) [（简体中文释义）](https://tfsci.mtf.wiki/misc/androcur-tw/)
 
 ### Androcur&reg;
+
 由拜尔德国分公司生产、销售的Androcur&reg;，简称德色。
 
 ```csv
@@ -44,7 +44,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 分销商（品牌）,axicorp Pharma (Bayer)<br>Jenapharm<br>Kohlpharma (Bayer),Jenapharm<br>Kohlpharma (Bayer)
 ```
 
-- [上市信息：02579062](https://www.rote-liste.de/suche/praep/7189-0/Androcur%C2%AE%2010%C2%A0mg%20Tabletten)
+- [上市信息：2956.00.00](https://portal.dimdi.de/amguifree/am/docoutput/jpadocdisplay.xhtml?globalDocId=4E7A05B119CF44578188377529E83BE6&directdisplay=true&docid=7)
 - [说明书（德文）](/documents/Androcur.pdf)
 - 说明书译文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德国版](https://tfsci.mtf.wiki/misc/androcur-de/)
 
@@ -58,7 +58,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
-- 上市信息：[11168, 9839](https://www.rxreasoner.com/drugs/siterone)
+- [上市信息](/documents/siterone.pdf)
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
 
 ### 华典&reg;醋酸环丙孕酮片 {#huadian}
@@ -106,7 +106,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 分子量：416.94
 - CAS：427-51-0
 
-[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
+[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. [2023-11-25](2024-05-01). <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 [^2]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
 [^3]: Paoletti A M, Floris S, Mannias M, et al. Evidence That Cyproterone Acetate Improves Psychological Symptoms and Enhances the Activity of the Dopaminergic System in Postmenopause [J]. *The Journal of Clinical Endocrinology & Metabolism*, 2001, 86(2): 608–612. DOI: [10.1210/jcem.86.2.7179](https://doi.org/10.1210/jcem.86.2.7179)
 [^4]: Ramsay I D, Rushton D H. Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia [J]. *Clinical and Experimental Dermatology*, 1990, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
