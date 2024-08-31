@@ -13,12 +13,13 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 
 ### Estrofem<sup>&copy;</sup> 诺坤复
 
-```csv
-地区,上市状态
-中国内地,无
-香港,HK-34267
-新加坡,是
-```
+| 地区     | 上市状态    |
+|----------|-------------|
+| 中国内地 | 无           |
+| 香港     | HK-34267    |
+| 新加坡   | 是           |
+| 泰国   | [U1DR1C1022390023111C](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug_ex.aspx?Newcode=U1DR1C1022390023111C)  |
+
 
 ![土诺包装](/images/medicine/estradiol/estrofem.png)
 
