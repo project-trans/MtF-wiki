@@ -106,7 +106,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 分子量：416.94
 - CAS：427-51-0
 
-[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. [2023-11-25](2024-05-01). <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
+[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 [^2]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
 [^3]: Paoletti A M, Floris S, Mannias M, et al. Evidence That Cyproterone Acetate Improves Psychological Symptoms and Enhances the Activity of the Dopaminergic System in Postmenopause [J]. *The Journal of Clinical Endocrinology & Metabolism*, 2001, 86(2): 608–612. DOI: [10.1210/jcem.86.2.7179](https://doi.org/10.1210/jcem.86.2.7179)
 [^4]: Ramsay I D, Rushton D H. Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia [J]. *Clinical and Experimental Dermatology*, 1990, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
