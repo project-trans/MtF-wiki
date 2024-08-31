@@ -15,13 +15,13 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 ### Androcur&reg;（安得卡）
 
-```csv
-地区,上市状态
-中国内地,无
-台湾,卫署药输字第 012554 号
-香港,HK-46443
-土耳其,"[8699546011667](https://www.rxreasoner.com/drugs/androcur)"
-```
+| 地区     | 上市状态                                                     |
+|----------|--------------------------------------------------------------|
+| 中国内地 | 无                                                           |
+| 台湾     | 卫署药输字第 012554 号                                       |
+| 香港     | HK-46443                                                     |
+| 土耳其   | [8699546011667](https://www.rxreasoner.com/drugs/androcur)   |
+
 
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
