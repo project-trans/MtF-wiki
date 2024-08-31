@@ -20,7 +20,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 中国内地,无
 台湾,卫署药输字第 012554 号
 香港,HK-46443
-土耳其,8699546011667
+土耳其,[8699546011667](https://www.rxreasoner.com/drugs/androcur)
 ```
 
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
@@ -44,6 +44,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 分销商（品牌）,axicorp Pharma (Bayer)<br>Jenapharm<br>Kohlpharma (Bayer),Jenapharm<br>Kohlpharma (Bayer)
 ```
 
+- [上市信息：02579062](https://www.rote-liste.de/suche/praep/7189-0/Androcur%C2%AE%2010%C2%A0mg%20Tabletten)
 - [说明书（德文）](/documents/Androcur.pdf)
 - 说明书译文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德国版](https://tfsci.mtf.wiki/misc/androcur-de/)
 
@@ -57,7 +58,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
-- 上市信息：11168, 9839
+- 上市信息：[11168, 9839](https://www.rxreasoner.com/drugs/siterone)
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
 
 ### 华典&reg;醋酸环丙孕酮片 {#huadian}
