@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-weight: 10
+weight: 12000
 ---
 
 {{<notice info "提示" >}}

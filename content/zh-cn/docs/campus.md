@@ -1,6 +1,6 @@
 ---
 title: 校园指南
-weight: 9
+weight: 11000
 ---
 
 民间有对各个大学的生活质量的问卷结果可以在 <https://colleges.chat> 查阅
