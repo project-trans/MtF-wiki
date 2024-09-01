@@ -15,12 +15,12 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 ### Androcur&reg;（安得卡）
 
-```csv
-地区,上市状态
-中国内地,无
-台湾,卫署药输字第 012554 号
-香港,HK-46443
-```
+| 地区     | 上市状态                                                     |
+|----------|--------------------------------------------------------------|
+| 中国内地 | 无                                                           |
+| 台湾     | 卫署药输字第 012554 号                                       |
+| 香港     | HK-46443                                                     |
+| 土耳其   | [88/77](https://titck.gov.tr/storage/Archive/2024/kubKtAttachments/ANDROCUR50mgKB_5a468428-5f66-4d87-8ab5-8b36c5de2127.pdf)   |
 
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
@@ -33,6 +33,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [说明书（繁体中文）](/documents/androcur-zh.pdf) [（简体中文释义）](https://tfsci.mtf.wiki/misc/androcur-tw/)
 
 ### Androcur&reg;
+
 由拜尔德国分公司生产、销售的Androcur&reg;，简称德色。
 
 ```csv
@@ -43,6 +44,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 分销商（品牌）,axicorp Pharma (Bayer)<br>Jenapharm<br>Kohlpharma (Bayer),Jenapharm<br>Kohlpharma (Bayer)
 ```
 
+- [上市信息：2956.00.00](https://portal.dimdi.de/amguifree/am/docoutput/jpadocdisplay.xhtml?globalDocId=4E7A05B119CF44578188377529E83BE6&directdisplay=true&docid=7)
 - [说明书（德文）](/documents/Androcur.pdf)
 - 说明书译文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德国版](https://tfsci.mtf.wiki/misc/androcur-de/)
 
@@ -56,6 +58,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
+- [上市信息](/documents/siterone.pdf)
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
 
 ### 华典&reg;醋酸环丙孕酮片 {#huadian}
