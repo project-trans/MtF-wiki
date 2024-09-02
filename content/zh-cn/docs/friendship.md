@@ -16,7 +16,7 @@ weight: 12000
 QQ,Arch 木桶饭（暂时停止新成员入群）,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipzyj" >}}
 QQ,跨儿音游组,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0cbS4" >}}
 Telegram,Backlight.Town 逆光小镇,联系 {{< shields/telegram rikablossom >}} 加入
-Telegram,Trans in Academia! 交流群,{{< shields/telegram "+RKumk5Hl-rgxOTQx" >}}
+Telegram,One Group! 跨儿骄傲联合广播 讨论群,{{< shields/telegram "+RKumk5Hl-rgxOTQx" >}}
 Telegram,跨儿音游组,{{< shields/telegram otoge_trans >}}
 Telegram,NixOS 木桶饭,{{< shields/telegram "nixos_mtf" >}}
 Matrix,Arch 木桶饭,{{< shields/matrix arch-mtf matrix.org >}}
