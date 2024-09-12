@@ -1,6 +1,6 @@
 ---
 title: 證件變更指引
-weight: 600
+weight: 5
 ---
 
 ## 臺灣

@@ -23,7 +23,7 @@ weight: 700
 {{< /notice >}}
 
 {{<expand "新闻截图">}}
-![新闻截图](/images/srs/news.jpg)
+![新闻截图](/images/document-updates/news.jpg)
 {{</expand>}}
 
 新闻要点：
