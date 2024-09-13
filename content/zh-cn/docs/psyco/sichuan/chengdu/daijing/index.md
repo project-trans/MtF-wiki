@@ -4,7 +4,7 @@ title: 成都市第四人民医院｜戴静
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/neg "初诊获得证明/假条" >}}
+{{< tag/pos "初诊获得证明" >}}
 
 医生姓名：戴静
 
