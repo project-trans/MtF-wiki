@@ -18,8 +18,7 @@ weight: 700
 ## 学历修改（已毕业）
 
 {{< notice warning "注意事项" >}}
-据[相关消息](https://github.com/project-trans/MtF-wiki/pull/891#issuecomment-1751964049)，毕业学历已无法进行修改\
-建议在大学本科教育前完成 SRS 并完成[证件变更]({{< ref "id-card" >}})
+据[相关消息](https://github.com/project-trans/MtF-wiki/pull/891#issuecomment-1751964049)，毕业学历已无法进行修改。
 {{< /notice >}}
 
 {{<expand "新闻截图">}}
@@ -49,6 +48,8 @@ weight: 700
 ---
 
 ### 申请修改学历（存档）
+
+{{< expand "点击展开" >}}
 
 {{< mtf-wiki >}} 暂未检索到相关部门对“禁止毕业学历修改”的明文规定。以下是原“学历修改”内容：
 
@@ -107,6 +108,8 @@ weight: 700
 
 - [跨性别者手术后：历时半年终于修改学历 就业遭歧视](https://www.sohu.com/a/362100660_120146415) (<https://archive.is/b5tXl>)
 - [经验分享 | 跨儿术后学历和学位的修改攻略](https://mp.weixin.qq.com/s/MP3ib9IAj99XpkZJ5U1ckA) (<https://archive.is/eT9NC>)
+
+{{< /expand >}}
 
 ## 考试与证书相关
 
