@@ -4,7 +4,7 @@ title: 广州｜李启荣
 
 {{< doctor-image src="doctor.webp" >}}
 
-{{< tag/neg "可速通大证" >}}
+{{< tag/pos "可速通大证" >}}
 
 医生姓名：[李启荣](https://health.baidu.com/doctordec/dochome/55257)
 
