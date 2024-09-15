@@ -1,5 +1,6 @@
 ---
 title: 伊丽莎白医院
+collapsible: true
 ---
 
  {{< tag/neg "提供 HRT 指导" >}} {{< tag/neg "需家长同意" >}}
