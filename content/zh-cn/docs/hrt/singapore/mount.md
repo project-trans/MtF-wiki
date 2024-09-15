@@ -15,7 +15,7 @@ collapsible: true
 
 电话预约: + (65) 6734 6116\
 What’s App: + (65) 9424 4294\
-传真: + (65) 6235 1005\
+传真: + (65) 6235 1005
 
 Dr Alex Fok: alexfok@ymail.com\
 Webmaster: alexfok.endocrinology@gmail.com
