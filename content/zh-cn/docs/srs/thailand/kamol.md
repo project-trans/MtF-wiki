@@ -138,11 +138,6 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 1. 必须至少三个月不性交。
 1. 必须每周与医生预约复查一次，为期一个月，以保证手术的满意结果。
 
-## 术后评价
-
-- 腹膜 2021 年
-  {{< hiddenphoto "/images/srs/thailand/kamol/post1.jpg" >}}
-
 ## 内容参考
 
 - [Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/gogo_became_a_cat/)
