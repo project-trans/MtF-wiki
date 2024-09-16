@@ -52,6 +52,6 @@ QQ 群：{{< shields/qq 170530694 >}}
 
 ***最后更新时间： 2022 年 7 月 13 日 - 第五版***（[公众号文章](https://mp.weixin.qq.com/s/jzFVpU99rlFaxZZkqWDM0g)）
 
-![Figure 1](mappage1.png)
+![Figure 1](./mappage1.png)
 
-![Figure 2](mappage2.png)
+![Figure 2](./mappage2.png)
