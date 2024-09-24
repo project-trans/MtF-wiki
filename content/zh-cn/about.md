@@ -36,7 +36,7 @@ GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 ## 致谢
 
-本项目目前采用 [Hugo][hugo-url] 部署在 [GitHub Pages][pages-url]．主题使用 [zdoc][zdoc-url]，对此表示感谢！
+本项目目前采用 [Hugo][hugo-url] 部署在 [Cloudflare Pages][pages-url]．主题使用 [zdoc][zdoc-url]，对此表示感谢！
 
 本项目在编写过程中参考了诸多资料，在此一并致谢。
 
@@ -46,4 +46,4 @@ GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.github.com
+[pages-url]: https://pages.cloudflare.com

@@ -36,7 +36,7 @@ Por correo electrónico <hi@mtf.wiki>
 
 ## Agradecimiento
 
-Ejecutamos [Hugo][hugo-url] en GitHub Pages. Tema visual [zdoc][zdoc-url]. Muchas gracias.
+Ejecutamos [Hugo][hugo-url] en Cloudflare Pages. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
 En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
 
