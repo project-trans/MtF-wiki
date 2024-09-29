@@ -1,5 +1,5 @@
 <link rel="me" href="https://mastodon.social/@MtFwiki">
-{{- if contains .Site.BaseURL "mtf.wiki" }}
+{{- if strings.Contains .Site.BaseURL "mtf.wiki" }}
 {{- else }}
   <meta name="robots" content="noindex, nofollow">
 {{- end }}
