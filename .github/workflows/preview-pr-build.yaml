@@ -41,7 +41,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
-          projectName: mtf-wiki
+          projectName: mtfwiki-preview
           directory: public
 
       - name: 评论 PR 部署链接
