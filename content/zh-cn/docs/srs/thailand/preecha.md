@@ -194,5 +194,6 @@ Tips:
 - 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
 - 凛娴的SRS日记-PAI 布林 <https://t.me/SRS_RinChord>
+- 于PAI的性别重置手术（SRS）流程 <https://zhuanlan.zhihu.com/p/733798080>
 
 [^1]: <https://pai.co.th/service/penile-skin-inversion-scrotal-skin-graft-male-to-female-trans-women/>
