@@ -4,13 +4,11 @@ title: Thiti 醫生
 
 醫生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
 
-所在醫院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
-
 手術費用：
 
 ```csv
 手術方式,價格
-皮瓣,{{< currency 260000 THB >}}
+皮瓣,{{< currency 290000 THB >}}
 ```
 
 醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}

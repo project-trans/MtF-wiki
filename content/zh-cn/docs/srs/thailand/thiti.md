@@ -8,9 +8,9 @@ title: Thiti 医生
 
 {{< /notice >}}
 
-医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
+医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti), 通过医生本人联系的手术会安排在与其合作的几个医院。
 
-所在医院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
+[Bumrungrad International Hospital](https://g.page/bumrungradthailand) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。
 
 ## 手术费用
 
@@ -21,7 +21,7 @@ title: Thiti 医生
 皮瓣（非功能性阴道）,{{< currency 280000 THB >}}
 皮瓣（功能性阴道）,{{< currency 290000 THB >}}
 结肠（传统技术）,{{< currency 380000 THB >}}
-结肠（腹腔镜技术）,{{< currency 570000 THB >}}
+结肠（腹腔镜技术）,{{< currency 550000 THB >}}
 腹膜技术,{{< currency 570000 THB >}}
 ```
 
