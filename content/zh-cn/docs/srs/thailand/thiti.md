@@ -8,9 +8,9 @@ title: Thiti 医生
 
 {{< /notice >}}
 
-医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
+医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti), 通过医生本人联系的手术会安排在与其合作的几个医院。
 
-该医生在 [Bumrungrad International Hospital](https://g.page/bumrungradthailand) 坐诊，但手术可能会安排在其它医院进行。
+[Bumrungrad International Hospital](https://g.page/bumrungradthailand) 有聘请Thiti医生坐诊，但是在该医院的手术费用会更高。
 
 ## 手术费用
 
