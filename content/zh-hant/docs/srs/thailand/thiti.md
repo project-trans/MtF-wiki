@@ -4,8 +4,6 @@ title: Thiti 醫生
 
 醫生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
 
-所在醫院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
-
 手術費用：
 
 ```csv
