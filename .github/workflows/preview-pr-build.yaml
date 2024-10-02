@@ -26,6 +26,15 @@ jobs:
         run: |
           sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
 
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install npm dependencies
+        run: npm install
+
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
         with:
