@@ -22,9 +22,9 @@ jobs:
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
           git checkout -qf FETCH_HEAD
 
-      - name: 配置 baseURL
-        run: |
-          sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
+      # - name: 配置 baseURL
+      #   run: |
+      #     sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
 
       - name: Install Node.js
         uses: actions/setup-node@v4
@@ -42,7 +42,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify --enableGitInfo
+        run: hugo --minify --enableGitInfo --baseURL "/"
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
