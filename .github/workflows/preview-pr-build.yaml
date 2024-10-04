@@ -22,9 +22,9 @@ jobs:
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
           git checkout -qf FETCH_HEAD
 
-      - name: 配置 baseURL
-        run: |
-          sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
+      # - name: 配置 baseURL
+      #   run: |
+      #     sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
 
       - name: Install Node.js
         uses: actions/setup-node@v4
@@ -42,7 +42,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify --enableGitInfo
+        run: hugo --minify --enableGitInfo --baseURL "/"
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
@@ -59,10 +59,30 @@ jobs:
           script: |
             const prNumber = context.payload.pull_request.number;
             const previewUrl = `${{ steps.deploy.outputs.url }}`;
-            const comment = `🚀 预览部署完成！ 访问链接: ${previewUrl}/zh-cn/`;
-            github.rest.issues.createComment({
+            const commentBody = `🚀 预览部署完成！ 访问链接: ${previewUrl}`;
+            // 获取现有评论
+            const { data: comments } = await github.rest.issues.listComments({
               issue_number: prNumber,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: comment,
             });
+            // 查找评论的关键词
+            const existingComment = comments.find(comment =>
+              comment.body.includes('🚀 预览部署完成！'));
+            if (existingComment) {
+              // 如果已经有评论，更新评论
+              await github.rest.issues.updateComment({
+                comment_id: existingComment.id,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: commentBody,
+              });
+            } else {
+              // 如果没有评论，创建新的评论
+              await github.rest.issues.createComment({
+                issue_number: prNumber,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: commentBody,
+              });
+            }
