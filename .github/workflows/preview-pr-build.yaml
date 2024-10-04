@@ -58,7 +58,7 @@ jobs:
         with:
           script: |
             const prNumber = context.payload.pull_request.number;
-            const previewUrl = `{{ steps.deploy.outputs.url }}`;
+            const previewUrl = `${{ steps.deploy.outputs.url }}`;
             const commentBody = `🚀 预览部署完成！ 访问链接: ${previewUrl}`;
             // 获取现有评论
             const { data: comments } = await github.rest.issues.listComments({
