@@ -5,6 +5,10 @@ on:
     types: [opened, synchronize, reopened, ready_for_review]
     paths:
       - 'content/**'
+      - 'config/**'
+      - 'static/**'
+      - 'themes/**'
+      - 'package.json'
 
 jobs:
   deploy:
