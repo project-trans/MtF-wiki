@@ -13,6 +13,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    outputs:
+      preview_url: ${{ steps.deploy.outputs.url }}
     steps:
       - name: 检出主仓库代码
         uses: actions/checkout@v4
@@ -56,37 +58,10 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
           projectName: mtfwiki-preview
           directory: public
-
-      - name: 评论 PR 部署链接
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const prNumber = context.payload.pull_request.number;
-            const previewUrl = `${{ steps.deploy.outputs.url }}`;
-            const commentBody = `🚀 预览部署完成！ 访问链接: ${previewUrl}`;
-            // 获取现有评论
-            const { data: comments } = await github.rest.issues.listComments({
-              issue_number: prNumber,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-            });
-            // 查找评论的关键词
-            const existingComment = comments.find(comment =>
-              comment.body.includes('🚀 预览部署完成！'));
-            if (existingComment) {
-              // 如果已经有评论，更新评论
-              await github.rest.issues.updateComment({
-                comment_id: existingComment.id,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                body: commentBody,
-              });
-            } else {
-              // 如果没有评论，创建新的评论
-              await github.rest.issues.createComment({
-                issue_number: prNumber,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                body: commentBody,
-              });
-            }
+  # 获取预览链接并发送到PR
+  comment_on_pr:
+    needs: deploy
+    uses: project-trans/actions/.github/workflows/comment-pr-preview-link.yml@main
+    secrets: inherit
+    with:
+          previewUrl: ${{ needs.deploy.outputs.preview_url }}
