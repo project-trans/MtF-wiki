@@ -37,11 +37,11 @@ a.github-profile {
   }
 }
 .csv-table {
-  width: max-content;
-  max-width: max-content !important;
-  white-space: nowrap;
   th {
     text-align: center;
+  }
+  th, td {
+    min-width: 9ch;
   }
 }
 .mtf-wiki > {
