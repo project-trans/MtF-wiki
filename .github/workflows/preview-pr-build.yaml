@@ -5,10 +5,16 @@ on:
     types: [opened, synchronize, reopened, ready_for_review]
     paths:
       - 'content/**'
+      - 'config/**'
+      - 'static/**'
+      - 'themes/**'
+      - 'package.json'
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    outputs:
+      preview_url: ${{ steps.deploy.outputs.url }}
     steps:
       - name: 检出主仓库代码
         uses: actions/checkout@v4
@@ -22,9 +28,18 @@ jobs:
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
           git checkout -qf FETCH_HEAD
 
-      - name: 配置 baseURL
-        run: |
-          sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
+      # - name: 配置 baseURL
+      #   run: |
+      #     sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install npm dependencies
+        run: npm install
 
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
@@ -33,7 +48,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify --enableGitInfo
+        run: hugo --minify --enableGitInfo --baseURL "/"
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
@@ -43,17 +58,10 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
           projectName: mtfwiki-preview
           directory: public
-
-      - name: 评论 PR 部署链接
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const prNumber = context.payload.pull_request.number;
-            const previewUrl = `${{ steps.deploy.outputs.url }}`;
-            const comment = `🚀 预览部署完成！ 访问链接: ${previewUrl}/zh-cn/`;
-            github.rest.issues.createComment({
-              issue_number: prNumber,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: comment,
-            });
+  # 获取预览链接并发送到PR
+  comment_on_pr:
+    needs: deploy
+    uses: project-trans/actions/.github/workflows/comment-pr-preview-link.yml@main
+    secrets: inherit
+    with:
+          previewUrl: ${{ needs.deploy.outputs.preview_url }}
