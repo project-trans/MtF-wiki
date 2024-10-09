@@ -51,6 +51,10 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 [本站板块]({{< ref "hrt-overview" >}})
 [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
 
+## DIY HRT
+
+指在没有医生处方的情况下自行进行 HRT。包括在无医生指导下购买药物服用和使用自制药两种情况。
+
 ## SRS
 
 {{< wiki 性别重置手术 >}}（{{< wiki "Sex reassignment surgery" en >}}）
