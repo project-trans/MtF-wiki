@@ -150,3 +150,9 @@ weight: 600
 基本都可凭「公安出具的公民主项信息变更证明」和「新身份证」进行更改。
 
 具体请参考[实名信息变更指引]({{< ref "real-name-info" >}})。
+
+## 拓展阅读
+
+- [中国大陆跨性别相关法律法规变迁](https://project-trans.org/china-legal/)
+- [海外证件信息修改]({{< ref "document-updates" >}})
+- [常见法律问题]({{< ref "legal-faq" >}})
