@@ -27,20 +27,17 @@
 
 MtF.wiki へようこそ！ここは、トランスジェンダー女性のある種の助けになるかもしれません。
 
-MtF（Male-to-Female）、トランスジェンダー女性とは、生まれた時の性別が男性である女性のことである。
-（ウィキペディアで assigned sex の定義は、「出生時に性別の特徴を確認して決定される、割り当てられた性」です。）
+MtF（Male-to-Female）、トランスジェンダー女性とは、[出生時に割り当てられた性別](https://lgbtq.fandom.com/ja/wiki/%E5%87%BA%E7%94%9F%E6%99%82%E3%81%AB%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6%E3%82%89%E3%82%8C%E3%81%9F%E6%80%A7%E5%88%A5)が男性である女性のことである。
 
-MtF.wiki は、トランスジェンダー関連の医療情報、生活ガイドを学べる、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
+MtF.wiki は、トランスジェンダー関連の医療情報、ガイドを学べる、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
 現在の MtF.wiki は発展途上のものです。各種資料が未完成であったり、誤りがある場合もあります。熱心なお姉妹方の参加と MtF.wiki への投稿を歓迎します。
 
-このサイトを構築した当初の意図としては、大多数の MtF グループに知識のプラットフォームを提供することに加え、他の人々にも性転換の設定を肯定してもらうことを切望しています。
-
-> 不安や憂鬱に身を委ねてはいけない、いずれはこの世界に自分の居場所ができる。
+このサイトを構築した当初の意図としては、コミュニティーに知識のプラットフォームを提供することに加え、他の人々にも性転換の設定を肯定してもらうことを切望しています。
 
 ## 感謝
 
-[GitHub Pages][wiki-url] で、テーマ[zdoc][zdoc-url]を使用して、[Hugo][hugo-url]を実行します。 彼らに感謝します。
+[Cloudflare Pages][pages-url]で、テーマ[zdoc][zdoc-url]を使用して、[Hugo][hugo-url]を実行します。 彼らに感謝します。
 
 執筆の過程で多くの資料を参考されました。ここでありがとうと言いたいです。
 
@@ -71,7 +68,7 @@ Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwikiJapan)
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
-Email <hi@mtf.wiki>
+Email <mtfwiki@project-trans.org>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
@@ -83,3 +80,4 @@ Email <hi@mtf.wiki>
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
+[pages-url]: https://pages.cloudflare.com

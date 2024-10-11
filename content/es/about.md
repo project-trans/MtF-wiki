@@ -26,17 +26,17 @@ y los otros queridos que nos dan ayuda y información.
 
 ## Contacto
 
-Por Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
+Por Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
 Por GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-Por correo electrónico <hi@mtf.wiki>
+Por correo electrónico <mtfwiki@project-trans.org>
 
 ## Agradecimiento
 
-Ejecutamos [Hugo][hugo-url] en Cloudflare Pages. Tema visual [zdoc][zdoc-url]. Muchas gracias.
+Ejecutamos [Hugo][hugo-url] en [Cloudflare Pages][pages-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
 En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
 
@@ -46,3 +46,4 @@ En la elaboración de este proyecto se han hecho numerosas referencias, que se a
 
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
+[pages-url]: https://pages.cloudflare.com

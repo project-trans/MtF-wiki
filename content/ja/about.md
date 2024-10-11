@@ -23,21 +23,22 @@ weight: 0
 そして吾輩に助けと情報を与えてくれる他の素敵な人たち。
 
 参加したい場合はご連絡ください！
+
 ## 連絡
 
-Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
+Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}} 日本語のチャンネルあり。
 
 Twitter {{< shields/twitter MtFwikiJapan >}}
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-Email <hi@mtf.wiki>
+Email <mtfwiki@project-trans.org>
 
 ## 感謝
 
 日本語版に特別な感謝：<http://wasadasan.com/voice2/hormon-byouin/>
 
-Cloudflare Pages で、テーマ[zdoc][zdoc-url]を使用して、[Hugo][hugo-url]を実行します。 彼らに感謝します。
+[Cloudflare Pages][pages-url]で、テーマ[zdoc][zdoc-url]を使用して、[Hugo][hugo-url]を実行します。 彼らに感謝します。
 
 執筆の過程で多くの資料を参考されました。ここでありがとうと言いたいです。
 
@@ -47,3 +48,4 @@ Cloudflare Pages で、テーマ[zdoc][zdoc-url]を使用して、[Hugo][hugo-ur
 
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
+[pages-url]: https://pages.cloudflare.com

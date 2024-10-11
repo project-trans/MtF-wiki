@@ -15,23 +15,21 @@ This site was founded initially for mainland China's transgender people. However
 
 ## Content
 
-Welcome to the MtF.wiki. This is a place that may provide help for some transgender women.
+Welcome to the MtF.wiki. This is a place that may provide help for some [transfeminine](https://lgbtqia.fandom.com/wiki/Transfeminine).
 
-MtF (Male-to-Female) or transgender female refers to a person who was assigned male at birth but is a woman.
+MtF (Male-to-Female) or trans female, refers to a female who was [assigned](https://en.wikipedia.org/wiki/Sex_assignment) male at birth. (P.S. MtF is known to be a doubtful and outdated naming, however, is popular among Chinese and Japanese community; as this project origins from and aims on east-asian community, the name is kept _per se_.)
 
-MtF.wiki is committed to evolving into a free, open, and constantly updated platform for the integration of transgender knowledge, offering insights into various medical information and everyday living guidelines important to transgender individuals and their experiences.
+MtF.wiki is committed to evolving into a free, open, and constantly updated platform for the integration of transgender knowledge, offering insights into various medical information and other guides important to transgender individuals and our experiences.
 
-The MtF.wiki is currently in its early stages of development. Various resources may have not been included, and there may even be some errors. All enthusiastic contributors are welcome to join us and commit to the MtF.wiki project.
+The current MtF.wiki is in its infancy. Various resources may have not been included, and there may even be some errors. All enthusiastic contributors are welcome to join us and commit to the MtF.wiki project.
 
 The original intention behind building this website is to provide a knowledge platform for the MtF community and to promote awareness and acceptance of gender transition among others.
 
-> Never surrender to anxiety and depression, we will eventually have our place in this world.
-
 ## Acknowledgement
 
-This project is deployed on [GitHub Pages][wiki-url] using [Hugo][hugo-url]  and theme [zdoc][zdoc-url]. Thanks for them.
+This project is deployed on [Cloudflare Pages][pages-url] using [Hugo][hugo-url] and theme [zdoc][zdoc-url]. Thanks for them.
 
-Many materials were referred to during the process of writing this project, we would like to say thank you here.
+Many materials were referred to during the process of writing this project, we would like to express our gratitude.
 
 ## Copyrights
 
@@ -62,7 +60,7 @@ Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
-E-mail <hi@mtf.wiki>
+E-mail <mtfwiki@project-trans.org>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
@@ -76,3 +74,4 @@ E-mail <hi@mtf.wiki>
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
+[pages-url]: https://pages.cloudflare.com

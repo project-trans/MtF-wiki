@@ -34,7 +34,7 @@ Twitter {{< shields/twitter MtFwiki >}}
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-電郵 <hi@mtf.wiki>
+電郵 <mtfwiki@project-trans.org>
 
 ## 致謝
 

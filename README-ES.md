@@ -15,23 +15,23 @@ Aunque este sitio fue fundado inicialmente para las trans chinas, proporcionamos
 
 ## Contenido
 
-Bienvenida a MtF.wiki. Hay aquí un lugar que podría echar una mano a la comunidad de mujeres trans.
+Bienvenida a MtF.wiki. Hay aquí un lugar que podría echar una mano a la comunidad de mujeres trans y [personas transfemininas](https://lgbt.fandom.com/es/wiki/Transfeminidad).
 
-MtF(Male-to-Female), mujer trans, se refiere a las personas que, a pesar de haber sido asignados al género masculino al nacer, sitúan su identidad dentro de lo femenino.
+MtF(Male-to-Female), persona feminina trans o mujer trans, se refiere a las personas que sitúan su identidad dentro de lo femenino, a pesar de haber sido [asignados](https://es.wikipedia.org/wiki/Asignaci%C3%B3n_de_sexo) al género masculino al nacer.
 
-Nos comprometemos a ser un sitio de integración de conocimientos transgénero gratuito, abierto y continuamente actualizado, donde se puede aprender sobre todo tipo de información médica y guías de la vida cotidiana relacionadas con la transexualidad.
+(MtF no es popular en la comunidad de habla hispana, y parece un término dudoso y obsoleto. Sin embargo, se usa frequentemente en la comunidad trans china y japonesa. Debido a que este proyecto se origina y está dirigido a la comunidad asiática oriental, este nombre se mantiene _per se_)
 
-La MtF.wiki está en sus inicios, y la información puede no estar completa, e incluso puede haber algunos errores, por lo que damos la bienvenida a todas las hermanas entusiastas para que os unáis a nosotras y contribuyáis al desarrollo de la MtF.wiki.
+Nos comprometemos a ser un sitio de integración de conocimientos transgénero gratuito, abierto y continuamente actualizado, donde se puede aprender sobre todo tipo de información médica y otras guías relacionadas con la vida trans.
 
-En cuanto al propósito original de construir este sitio, además de proporcionar una plataforma de conocimiento para la comunidad más amplia de MtF, es también un deseo de que otros afirmen el transexualismo.
+El MtF.wiki está en sus inicios, y la información puede no estar completa, e incluso puede haber algunos errores, por lo que damos la bienvenida a tod@s entusiastas para que os unáis a nosotr@s y contribuyáis al desarrollo del MtF.wiki.
 
-> No te rindas a la ansiedad y la depresión, el mundo acabará teniendo un lugar para nosotros.
+En cuanto al propósito original de construir este sitio, además de proporcionar una plataforma de conocimiento para la comunidad, es también un deseo de que otros afirmen el transexualismo.
 
 ## Agradecimiento
 
-Ejecutamos [Hugo][hugo-url] en [GitHub Pages][wiki-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
+Ejecutamos [Hugo][hugo-url] en[Cloudflare Pages][pages-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
-En la elaboración de este proyecto se han hecho numerosas referencias, que se agradecen.
+En la elaboración de este proyecto se han hecho numerosas referencias, damos el agradecimiento.
 
 ## Propriedad
 
@@ -62,7 +62,7 @@ Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
-E-mail <hi@mtf.wiki>
+E-mail <mtfwiki@project-trans.org>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
@@ -76,3 +76,4 @@ E-mail <hi@mtf.wiki>
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
+[pages-url]: https://pages.cloudflare.com

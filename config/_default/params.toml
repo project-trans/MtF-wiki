@@ -28,7 +28,7 @@ taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 enableContactUs = true
-email = "hi@mtf.wiki"
+email = "mtfwiki@project-trans.org"
 
 github = "https://github.com/project-trans/MtF-wiki"
 
