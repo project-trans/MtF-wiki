@@ -37,7 +37,7 @@ MtF.wiki は、トランスジェンダー関連の医療情報、ガイドを�
 
 ## 感謝
 
-[Cloudflare Pages][pages-url]で、テーマ[zdoc][zdoc-url]を使用して、[Hugo][hugo-url]を実行します。 彼らに感謝します。
+[Cloudflare Pages][pages-url] で、テーマ [zdoc][zdoc-url] を使用して、[Hugo][hugo-url]を実行します。 彼らに感謝します。
 
 執筆の過程で多くの資料を参考されました。ここでありがとうと言いたいです。
 

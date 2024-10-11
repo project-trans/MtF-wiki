@@ -29,7 +29,7 @@ En cuanto al propósito original de construir este sitio, además de proporciona
 
 ## Agradecimiento
 
-Ejecutamos [Hugo][hugo-url] en[Cloudflare Pages][pages-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
+Ejecutamos [Hugo][hugo-url] en [Cloudflare Pages][pages-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
 
 En la elaboración de este proyecto se han hecho numerosas referencias, damos el agradecimiento.
 
