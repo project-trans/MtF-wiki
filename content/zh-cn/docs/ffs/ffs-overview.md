@@ -80,6 +80,9 @@ FFS 的本质是整容医美手术的一部分。因此考虑 FFS 时候可以�
 北京市,北京圣嘉新医疗美容医院,张笑天,
 上海市,复旦大学附属华山医院,穆雄铮<br>潘思妲,长期从事颅颌面外科工作<br>对头颅部、颜面部、五官的各项整复<br>和美容手术有着丰富的临床经验
 上海市,上海市第九人民医院,韦敏,眉骨女性化手术
+美国,Northwestern Medicine,Dr. Marco Ellis,不接受保险
+美国,Northwestern Medicine,Dr. Andrea Battistini,接受保险
+美国,Northwestern Medicine,Dr. James Wang,接受保险，需打电话预约[312-695-8182](tel:312-695-8182)
 ```
 
 以 **医疗美容医院** 结尾的医院均为“民营医院 - [专科医院](http://www.nhc.gov.cn/yzygj/s3576/201706/4d84820f321144c290ddaacba53cb590.shtml)”

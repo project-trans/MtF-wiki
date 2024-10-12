@@ -12,7 +12,7 @@ weight: 2
 
 {{< /notice >}}
 
-## 医疗资源  
+## 医疗资源
 
 ```csv
 省市,医院名称,医生名称,费用,备注
@@ -25,11 +25,13 @@ weight: 2
 广东省深圳市,深圳大学总医院,[王路]({{< ref "wang-lu" >}}),约 220 CNY/次,需诊断证明、父母同意
 湖南省长沙市,[中南大学湘雅二医院](https://www.xyeyy.com),[胡文倩]({{< ref "hu-wen-qian" >}}),约 200 CNY/次,
 天津市,天津医科大学第二医院,黄永望,200 CNY/次,一个疗程 5 节课
+美国,UCI Health Speech Therapy,Jennifer Kim,一个疗程10节课,CPT® code 92507。
+美国,Northwestern Medicine,Jonelyn Langenstein (Chicago DT) <br> Sarah Penzell <br> Nathan Waller (Evanston),"预约电话：[312-695-8182](tel:312-695-8182) (Chicago DT) <br> [847-491-3165](tel:847-491-3165) (Evanston)",打电话时请 request to schedule with an ENT，以便后续保险报销。
 ```
 
 对于更多尚未探索的医疗资源请参见 [未确认列表（嗓音女性化）]({{< ref "unconfirmed#vocal-therapy-prc" >}})
 
-## 其他资源  
+## 其他资源
 
 {{< notice warning "警告" >}}
 
