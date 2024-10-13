@@ -8,7 +8,7 @@ title: 临汾市中心医院｜董燕
 
 医生姓名：[董燕](https://linfench.com/?p=expertshow&lanmu=13&id=16&sid=285)
 
-所在医院：[临汾市中心医院](https://linfench.com/index.php)
+所在医院：[临汾市中心医院](https://linfench.com/)
 
 问诊参考：<https://github.com/project-trans/MtF-wiki/issues/748>
 
