@@ -115,6 +115,7 @@ https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp
 
 {{< notice warning "检查单注意事项" >}}
 如果 PTH 组合中「全段甲状旁腺素」指标偏高，潘柏林处无法开具处方，反而会开具一些不必要的检查，请直接去找刘烨！
+
 不过现在因为刘烨特需门诊出诊时间移至周二晚，所以如果周二晚前往就诊遇到内分泌相关问题可能可以得到“会诊”待遇。
 {{< /notice >}}
 
