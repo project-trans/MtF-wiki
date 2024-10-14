@@ -8,3 +8,4 @@ resources/
 .idea
 
 node_modules
+.Rproj.user
