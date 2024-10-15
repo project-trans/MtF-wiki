@@ -1,0 +1,11 @@
+public/
+resources/
+
+*.DS_Store
+
+.hugo_build.lock
+
+.idea
+
+node_modules
+.Rproj.user
