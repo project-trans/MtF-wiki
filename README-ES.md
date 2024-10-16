@@ -10,6 +10,18 @@ Sitio hermano: [FtM.wiki](https://ftm.wiki)
 
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
+[![GitHub Contributors][badge-contributors]][gh-contributors]
+[![GitHub Last Commit][badge-last-commit]][gh-history]
+[![GitHub Commit Activity (by Year)][badge-activity]][gh-commit-activity]
+
+[badge-gh-stars]: https://img.shields.io/github/stars/project-trans/mtf-wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/project-trans/mtf-wiki.svg?style=flat-square&label=Watch
+[badge-contributors]: https://img.shields.io/github/contributors/project-trans/mtf-wiki?style=flat-square
+[badge-last-commit]: https://img.shields.io/github/last-commit/project-trans/mtf-wiki?style=flat-square
+[badge-activity]: https://img.shields.io/github/commit-activity/y/project-trans/mtf-wiki?style=flat-square
+[gh-contributors]: https://github.com/project-trans/MtF-wiki/graphs/contributors?style=flat-square
+[gh-history]: https://github.com/project-trans/MtF-wiki/commits/master?style=flat-square
+[gh-commit-activity]: https://github.com/project-trans/MtF-wiki/graphs/commit-activity?style=flat-square
 
 Aunque este sitio fue fundado inicialmente para las trans chinas, proporcionamos esta página en español para nuestra visibilidad. Pero también, si quieres contribuir información para trans en tu región, sigue por favor.
 
@@ -37,7 +49,7 @@ En la elaboración de este proyecto se han hecho numerosas referencias, damos el
 
 [![CC][cc-img]][cc-url]
 
-Aparte de especial declaración, el contenido (menos el cógido) del sitio es publicado bajo [Reconocimiento-CompartirIgual BY-SA 4.0][cc-url].
+Aparte de especial declaración, el contenido (menos el cógido) del sitio es publicado bajo [(Creative Commons BY-SA 4.0) Atribución/Reconocimiento-CompartirIgual 4.0 Internacional][cc-url].
 
 Usted es libre de compartir y adaptar, Usted debe dar crédito de manera adecuada y compartir bajo la lamisma licencia sin restricciones adicionales.
 
@@ -65,10 +77,8 @@ GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-
 E-mail <mtfwiki@project-trans.org>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
-[badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
-[badge-gh-stars]: https://img.shields.io/github/stars/project-trans/mtf-wiki.svg?style=flat-square&label=Stars
-[badge-gh-watch]: https://img.shields.io/github/watchers/project-trans/mtf-wiki.svg?style=flat-square&label=Watch
 [badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
+[badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
 [hugo-url]: https://github.com/gohugoio/hugo
