@@ -1,32 +1,38 @@
 ---
-title: Yanhee 醫院
+title: Yanhee 医院
 ---
 
-所在醫院：[Yanhee Hospital](https://goo.gl/maps/2mYsALRVJe3xjPEeA)
+所在医院：[Yanhee Hospital](https://goo.gl/maps/2mYsALRVJe3xjPEeA)
 
-醫生：
+官方网站: <https://www.yanhee.net/>
 
-- Dr. Juta
+医生：
 
-聯絡電話：{{< telephone "+66 86-386-1299" >}}
+<!-- 这两没找到 -->
+<!-- - Dr. Juta
+- [Greechart Pornsinsirirak]({{< ref "greechart" >}}) -->
 
-聯絡郵箱：<china@yanhee.net>
+- [Dr.Worapon-Ratanalert](https://www.yanhee.net/doctors/dr-worapon-ratanalert/)
+- [Dr.Kittichai-Sipiyarak](https://www.yanhee.net/doctors/dr-kittichai-sipiyarak/)
 
-## 價格
+联系电话：{{< telephone "+66 86-386-1299" >}}
 
-```csv
-手術方式,價格,備註
-皮瓣（PI）,{{< currency 345000 THB >}},包含 9 晚住院
-結腸,{{< currency 430000 THB >}},包含 7 晚住院
-```
+联系邮箱：<china@yanhee.net>
+
+## 价格
+
+**细心的你应该已经发现了，这个医院官方网站的中文有机翻痕迹，且信息滞后**
+
+- [英文价格表](https://www.yanhee.net/cosmetic-services/sex-reassignment-surgery/male-to-female-surgery/)
+- [中文价格表](https://www.yanhee.net/cn/sex-reassignment-surgery-thailand/)
 
 ## 要求
 
-要進行男轉女性別重置手術（SRS MtF）的術前評估，你需要達到法定年齡，身體健康，並提交以下必要檔案:
+要进行男转女性别重置手术（SRS MtF）的术前评估，你需要达到法定年龄，身体健康，并提交以下必要文件:
 
-1. 精神科醫師出具的推薦信（一封來自患者當地的精神科醫師，一封來自泰國精神科醫師），說明以下情況:
-   - 明確診斷性別認同障礙
-   - 申明患者已經以女性身份在現實中成功生活至少一年以上
-1. 醫療記錄 包含詳細的激素治療記錄
-   - 激素必須由有執照的醫師開具處方並監督服用
-   - 已服用激素達到 1 年
+1. 精神科医师出具的推荐信（一封来自患者当地的精神科医师，一封来自泰国精神科医师），说明以下情况:
+   - 明确诊断性别认同障碍
+   - 申明患者已经以女性身份在现实中成功生活至少一年以上
+1. 医疗记录 包含详细的激素治疗记录
+   - 激素必须由有执照的医师开具处方并监督服用
+   - 已服用激素达到 1 年
