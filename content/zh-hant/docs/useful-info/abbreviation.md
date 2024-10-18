@@ -1,90 +1,117 @@
 ---
-title: 縮寫詞語表
+title: 缩写词语表
 ---
 
 ## LGBT+
 
-{{< wiki LGBT >}} 是下列性少數單詞首字母的合稱
+{{< wiki LGBT en >}} 是下列性少数单词首字母的合称
 
 ```csv
-詞彙,翻譯
-{{< wiki Lesbian en >}},女同性戀
-{{< wiki "Gay man" en >}},男同性戀
-{{< wiki Bisexuality en >}},雙性戀
-{{< wiki Transgender en >}},跨性別
-{{< wiki Queer en >}},酷兒
-{{< wiki Intersex en >}},雙性人
-{{< wiki Asexuality en >}},無性戀
-{{< wiki Pansexuality en >}},泛性戀
+词汇,翻译
+{{< wiki Lesbian en >}},女同性恋
+{{< wiki "Gay man" en >}},男同性恋
+{{< wiki Bisexuality en >}},双性恋
+{{< wiki Transgender en >}},跨性别
+{{< wiki Queer en >}},酷儿
+{{< wiki Intersex en >}},双性人
+{{< wiki Asexuality en >}},无性恋
+{{< wiki Pansexuality en >}},泛性恋
 ```
 
 ## 衍生概念
 
 ```csv
-縮寫,翻譯
-cis,順性別（Cisgender）
-cisF,順性別女性
-cisM,順性別男性
-trans,跨性別（Transgender）
-transF,跨性別女性
-transM,跨性別男性
-transles,跨性別女同性戀（即其中一方為 transF）
-transgay,跨性別男同性戀（即其中一方為 transM）
-"FtX, MtX",認為自己不屬於指派性別，同時也不完全屬於另一個性別
+缩写,翻译
+cis,顺性别（Cisgender）
+cisF,顺性别女性
+cisM,顺性别男性
+trans,跨性别（Transgender）
+transF,跨性别女性
+transM,跨性别男性
+transles,跨性别女同性恋（即其中一方为 transF）
+transgay,跨性别男同性恋（即其中一方为 transM）
+"FtX, MtX",认为自己不属于指派性别，同时也不完全属于另一个性别
 FtM,女跨男（Female-to-Male）
 MtF,男跨女（Male-to-Female）
-TS,變性者（Transsexual）
+TS,变性者（Transsexual）
 ```
 
-FtX, MtX 的 X 借自日語 {{< wiki Xジェンダー ja >}}，即 non-binary 非二元
+FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary 非二元
 
 ## RLE
 
-{{< wiki 實際生活體驗 >}}（{{< wiki "Real-life experience" en >}}）
-指跨性別者全天候地按照其所認同的性別角色來生活
+{{< wiki 实际生活体验 >}}（{{< wiki "Real-life experience" en >}}）
+指跨性别者全天候地按照其所认同的性别角色来生活
 
 ## HRT
 
-激素替代療法（{{< wiki "Hormone replacement therapy" en >}}）
-從 2022 年開始將會被 {{< wiki 性別肯定激素治療 >}}（Gender-Affirming Hormone Therapy） 逐步取代
+{{< wiki 性别肯定激素治疗 >}}（{{< wiki "Hormone replacement therapy" en >}}） 从 2022
+年开始将会被 性别肯定激素治疗（Gender-affirming hormone therapy） 逐步取代
 
-[本站板塊]({{< ref "hrt-overview" >}})
+[本站板块]({{< ref "hrt-overview" >}}) [跨性别激素治疗 -
+百度百科](https://baike.baidu.com/item/跨性别激素治疗)
+
+## DIY HRT
+
+指在没有医生处方的情况下自行进行 HRT。包括在无医生指导下购买药物服用和使用自制药两种情况。
 
 ## SRS
 
-{{< wiki 性別重置手術 >}}（{{< wiki "Sex reassignment surgery" en >}}）
-有時也會被稱之為：GRS (gender reassignment surgery) 、性別確認手術（Gender Confirmation Surgery ）、性別還原手術
+{{< wiki 性别重置手术 >}}（{{< wiki "Sex reassignment surgery" en >}}） 有时也会被称之为：GRS
+(Gender reassignment surgery) 、性别确认手术（Gender confirmation surgery）、性别还原手术
 
-[本站板塊]({{< ref "srs-faq" >}})
+[本站板块]({{< ref "srs-overview-china" >}})
+[百度百科](https://baike.baidu.com/item/性别重置手术)
 
 ## SRT
 
-{{< wiki 性別重置療法 >}}（{{< wiki "Sex reassignment therapy" en >}}），包含 HRT 和 SRS 等
+{{< wiki 性别重置疗法 >}}（{{< wiki "Sex reassignment therapy" en >}}），包含 HRT 和 SRS 等
 
 ## FFS
 
-面部女性化手術（Facial feminization surgery）
+面部女性化手术（Facial feminization surgery）
 
-[維基百科](https://zh.wikipedia.org/wiki/性別重置療法#其他療法)
+[维基百科](https://zh.wikipedia.org/wiki/性别重置疗法#其他疗法)
+
+北医三院：[跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ)
+(<https://archive.is/cenPo>)
+
+## AM
+
+[隆胸手术](https://zh.wikipedia.org/wiki/隆乳)（Augmentation Mammoplasty），此缩写使用于 Suporn
+诊所。
+
+注意：隆胸手术可能有多种缩写，请不要局限于本条。
 
 ## VFS
 
-聲音女性化手術（Voice feminization surgery）
+声音女性化手术（Voice feminization surgery）
+
+[嗓音女性化手术]({{< ref "vocal-surgery" >}}) [嗓音女性化训练]({{< ref "vocal-therapy" >}})
 
 ## AG
 
-幻想變性性興奮理論（AutoGynephilia），一般認為是過時的理論
+幻想变性性兴奋理论（{{< wiki Autogynephilia en >}}），一般认为是过时的理论
+
+驳 AG 论：<https://blog.mtf.wiki/posts/case-against-autogynephilia/>
 
 ## CD
 
-{{< wiki 異裝 >}}（{{< wiki "Cross-dressing" en >}}）
+{{< wiki 异装 >}}（{{< wiki "Cross-dressing" en >}}）
 
-異裝舊稱為易裝，是一個男女二元性別框架下的概念，指人們出於不同的原因，選擇在特定文化語境下通常與另一性別相關的打扮和行為模式，如男性選擇偏女性氣質的打扮，或女性選擇偏男性氣質的打扮等。
-異裝癖指伴隨性滿足的異裝。將異裝癖等同於異裝，是對異裝的汙名化。
-異裝指的是這種行為本身，是一種性別表達，而不是一種性傾向，也不是一種性別認同，因此異裝不等同於同性戀，也不等同於跨性別。
+异装旧称为易装，是一个男女二元性别框架下的概念，指人们出于不同的原因，选择在特定文化语境下通常与另一性别相关的打扮和行为模式，如男性选择偏女性气质的打扮，或女性选择偏男性气质的打扮等。
+异装癖指伴随性满足的异装。将异装癖等同于异装，是对异装的污名化。
+异装指的是这种行为本身，是一种性别表达，而不是一种性倾向，也不是一种性别认同，因此异装不等同于同性恋，也不等同于跨性别。
+我国的法律与政策中，虽未明确提及异装的概念，但有多个条款提到不同性别应享有同等权利、禁止基于性别的歧视。包括异装在内的性别平等是全面性教育和实现社会公平的重要内容之一。
+
+[百度百科](https://baike.baidu.com/item/异装)
 
 ## WPATH
 
-WPATH（世界跨性別人士健康專業協會） 為 World Professional Association for Transgender Health 的縮寫
+WPATH（世界跨性别人士健康专业协会） 为 World Professional Association for Transgender Health 的缩写
 
-官網：<https://www.wpath.org>
+官网：<https://www.wpath.org>
+
+## TGD
+
+transgender and gender diverse，跨性别与性别多元群体

@@ -1,283 +1,301 @@
 ---
-title: HRT による副作用・リスク
-weight: 10
+title: 用药风险 weight: 10
 ---
 
-{{< notice warning "警告" >}}
-**GAHT（HRT）使用期間、エストロゲン剤・抗アンドロゲン剤の投与形態及び投与量を慎重に考慮し、予想される効果を維持し、リスクを控えて下さい。**  
-**医薬品を使用し、体調不良が現れた場合、我慢せずに直ちに医師の診察を受け、指示に従って下さい。**
-{{< /notice >}}
+{{< notice warning "用药安全提示" >}} “是药三分毒”，GAHT
+用药也不例外。须严格控制用药途径与剂量，在确保疗效的同时尽量降低用药风险。 {{< /notice >}}
 
-## エストロゲンによる副作用・リスク
+## 雌激素用药风险
 
-> **重大な副作用** [^2] [^3] [^15]
+雌激素最常见的药物不良反应有：**乳房紧张/乳房疼痛、腹痛、水肿与头痛。** [^1]\
+最严重的不良反应有：**静脉血栓（严重时可导致心肌梗塞与中风）与乳腺癌**[^2] [^3] [^15]。口服雌二醇或人工合成雌激素（如炔雌醇）的这项风险更大。
 
-- **動・静脈血栓症**（冠動脈性心疾患・卒中に至ることがある）
-- **乳癌**
-
-> **発生頻度が高い副作用** [^1]
-
-- 乳房緊満感、乳房痛、乳頭痛
-- 心窩部痛
-- 浮腫
-- 頭痛
-
-下記は経口エストラジオール製剤「F」の[添付文書](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/670109_2473001F1036_1_01.pdf)に表示された副作用：
-
-|  | 5%以上 | 1～5%未満 | 1%未満 | 頻度不明 |
-|-|-|-|-|-|
-| 生殖器 | *性器分泌物* \* | *性器出血* \* | 外陰・腟不快感<br>*子宮頸管ポリープ* \* | *月経困難症* \*<br>女性陰部そう痒症<br>腟真菌症 |
-| 乳房 | 乳房不快感 | 乳房痛、乳頭痛 |  | 乳房のう胞<br>乳房障害（乳腺症） |
-| 消化器 |  | 腹部膨満<br>腹痛<br>悪心 | 便秘<br>腹部不快感<br>下痢<br>胃炎 |  |
-| 精神神経系 |  | 浮動性めまい | 頭痛<br>不眠症<br>感覚減退<br>（四肢のしびれ感等） |  |
-| 循環器 |  |  | 血圧上昇<br>動悸 |  |
-| 電解質代謝 |  | 浮腫 |  |  |
-| 内分泌・代謝系 |  | 血中トリグリセリド増加 | 甲状腺ホルモン（TSH）増加 |  |
-| 筋・骨格系 |  | 背部痛<br>筋骨格硬直<br>（肩又は手のこわばり等） |  |  |
-| 皮膚 |  |  | 湿疹 |  |
-| その他 |  |  |  | 倦怠感 |
-
-\* 標記された件は、トランスジェンダー女性（MtF）に現れないべきである。
-
-### エストロゲンと血栓症の危険性
-
-下記はエストロゲンによる血栓症の危険性のハザード比 [^3]：
+下表为口服戊酸雌二醇片“[补佳乐]({{< ref "estradiol-valerate" >}})”说明书列出的各不良反应 [^2]：
 
 ```csv
-エストロゲンの種類,血栓になるハザード比
-経口エストラジオール &le;1 mg/1日,1.2 倍
-経口エストラジオール &gt;1 mg/1日,1.4 倍
-経口エストラジオール約 1 mg/1日、黄体ホルモンと併用,1.4–1.8 倍
-経皮吸収エストラジオール &le;50 μg/1日,0.9 倍
-経皮吸収エストラジオール &gt;50 μg/1日,1.1 倍
-経口結合型エストロゲン &le;0.625 mg/1日,1.4 倍
-経口結合型エストロゲン &gt;0.625 mg/1日,1.7 倍
-経口結合型エストロゲン約 0.625 mg/1日、黄体ホルモンと併用,1.5–2.4 倍
-販売されている避妊薬、例えば、ダイアン-35<br>（低用量エチニルエストラジオール・黄体ホルモンを含有）,4.2 倍
-販売終了された避妊薬<br>（高用量エチニルエストラジオールなどを含有）,4–10 倍
-高用量エストラジオールポリ燐酸エステル（筋注）,2.1 倍
-高用量経口合成エストロゲン製剤,5.7–10 倍
-選択的エストロゲン受容体調整剤<br>（タモキシフェン、ラロキシフェンなど）,約 1.5–3 倍
-高用量酢酸シプロテロンの単独投与,3–5 倍
+系统器官分类,常见,不常见,罕见
+**免疫系统疾病**,,超敏反应,
+**代谢和营养类疾病**,体重变化<br>（体重增加或减轻）,,
+**精神病类**,,抑郁症,焦虑症、性欲增强或减弱
+**神经系统疾病**,头痛,眩晕,偏头痛
+**眼部疾病**,,视觉障碍,隐形眼镜不耐受
+**心脏疾病**,,心悸,
+**胃肠道疾病**,恶心、腹泻,消化不良、食欲增加,气胀、呕吐
+**皮肤和皮下组织疾病**,皮疹、瘙痒,黄褐斑、<br>荨麻疹、<br>多形性红斑、<br>结节性红斑、<br>血管性紫癜,多毛症、痤疮、脱发
+**肌肉骨骼和结缔组织疾病**,,,肌肉痛性痉挛
+**生殖系统和乳房疾病**,*月经出血特征变化*、<br>*撤退性出血增强或减弱*、<br>*经间期出血*,乳房发紧感和疼痛,*痛经*、<br>*阴道分泌物改变*、<br>经前综合征、<br>乳房增大
+**全身疾病和给药部位症状**,,水肿,疲劳
 ```
 
-詳細は「Transfeminine Science」に掲載された文章「[エストロゲンと血液凝固能・血栓症の危険性との関係について](https://transfemscience.org/articles/estrogens-blood-clots/)」を示す [^3]。
+### 雌激素与血栓风险的关系 {#blood-clots-risk}
 
-## 黄体ホルモン剤による副作用・リスク
-
-経口プロゲステロン（天然の黄体ホルモンの一種類）は、神経ホルモン系物質になって代謝され、アルコール様副作用を示すことが認められている[^4]。  
-非経口プロゲステロン（例えば、筋肉注射剤）の副作用は未だ認められなかった。
-
-その他の黄体ホルモン剤については下記を示す。
-
-
-## 抗アンドロゲン剤による副作用・リスク
-
-### 酢酸シプロテロン
-
-> **重大な副作用** [^7]
-
-- **肝臓毒性**
-- **肝臓癌**（腹腔内出血が発生し、死亡に至ることがある）
-- **髄膜腫**
-- **動・静脈血栓症**
-
-> **発生頻度が高い副作用** [^5] [^6] [^7]
-
-- 体重の増加、又は減少
-- 抑うつの発生・悪化
-- 性欲の減退、性機能障害、精子量の減少（投与中止後には可逆）
-
-本剤は日本で承認されていない。下記はニュージーランドで販売された「シテロン&reg;」の[添付文書](https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf)に表示された副作用：
-
-|  | 10%以上 | 1～10%未満 | 0.1〜1%未満 | 0.01〜0.1%未満 | 0.01%未満 | 頻度不明 |
-|-|-|-|-|-|-|-|
-| 良性・悪性腫瘍 |  |  |  |  | 肝臓の良性・悪性腫瘍 | 髄膜腫 |
-| 血液・リンパ系 |  |  |  |  |  | 貧血 |
-| 免疫系 |  |  |  | 過敏症 |  |  |
-| 電解質代謝 |  | 体重増加<br>体重減少 |  |  |  |  |
-| 精神神経系 | 性欲の減退<br>勃起不全 | 抑うつ<br>一時的興奮<br>体力の減少 |  |  |  |  |
-| 循環器 |  |  |  |  |  | 血栓症 |
-| 呼吸器 |  | 息切れ |  |  |  |  |
-| 消化器 |  |  |  |  |  | 腹腔内出血 |
-| 肝臓・胆嚢 |  | 肝臓毒性<br>（黄疸、肝炎、肝機能の減退を含む） |  |  |  |  |
-| 皮膚 |  |  | 湿疹 |  |  |  |
-| 筋・骨格系 |  |  |  |  |  | 骨粗鬆症 |
-| 生殖器 | 精子量の減少<br>（可逆） | 女性化乳房 |  |  |  |  |
-| 全身・投与部位 |  | 疲労感<br>潮紅<br>発汗 |  |  |  |  |
-
-### メドロキシプロゲステロン酢酸エステル
-
-> **重大な副作用**
-
-- **血栓症**
-- **うっ血性心不全**
-- **アナフィラキシー**
-- **乳頭水腫**
-
-> **発生頻度が高い副作用**
-
-- 耐糖能異常。
-
-下記は経口メドロキシプロゲステロン酢酸エステル錠「F」の[添付文書](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/670109_2478002F3064_1_02.pdf)に表示された副作用：
-
-|  | 5%以上 | 1～5%未満 | 1%未満 | 頻度不明 |
-|-|-|-|-|-|
-| 内分泌 | *満月様顔貌* \* | *子宮出血* \* | 乳房痛 | *クッシング様症状*<br>*月経異常* \*<br>*帯下の変化* \*<br>脱毛<br>多毛<br>乳汁漏出<br>*無月経* \* |
-| 糖代謝 | 耐糖能異常<br>糖尿病悪化 | 糖尿<br>糖尿病性白内障増悪 | | |
-| 精神神経系 |  |  | 体重増加<br>倦怠感 | 食欲亢進<br>発熱<br>疲労感 |
-| 全身症状 |  |  | 筋痙攣 | 意識低下、興奮、錯乱様、しびれ、集中困難、神経過敏、振戦、頭痛、多幸症、眠気、不眠、無関心、めまい、抑うつ |
-| 眼 |  |  |  | 視覚障害 |
-| 肝臓 |  | AST上昇<br>ALT上昇 |  | LDH上昇、胆汁うっ滞性黄疸 |
-| 循環器 |  | 動悸 | 血圧上昇 | 頻脈 |
-| 消化器 |  | 口渇<br>悪心・嘔吐 | 便秘<br>下痢 | 食欲不振<br>腹痛 |
-| 皮膚・粘膜 |  | ざ瘡<br>そう痒感<br>発疹 | 発汗 | じん麻疹 |
-| その他 |  | 嗄声、潮紅 | 息切れ、熱感 |  |
-
-\* 標記された件は、MtF に現れないべきである。
-
-### ビカルタミド
-
-> **重大な副作用** [^11] [^12]
-
-- **肝臓毒性**（劇症肝炎、肝機能障害、黄疸）
-- **肺臓毒性**（間質性肺炎）
-- **白血球減少、血小板減少**
-- **心不全、心筋梗塞**
-
-> **発生頻度が高い副作用** [^10]
-
-潮紅、痛感、倦怠感、便秘、感染、悪心、周辺的浮腫、息切れ、下痢、血尿、尿失禁、貧血。
-
-下記は経口ビカルタミド錠「ファイザー」の[添付文書](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/672212_4291009F1241_2_01.pdf)に表示された副作用：
+下表列出了不同雌激素类型、暴露量所引起的血栓相对风险率 [^3]：
 
 ```csv
-,頻度不明
-内分泌,乳房腫脹、乳房圧痛、ほてり
-生殖器,勃起力低下
-肝臓,AST（GOT）上昇、ALT（GPT）上昇、Al-P上昇、γ-GTP上昇、LDH上昇
-泌尿器,腎機能障害（クレアチニン上昇、BUN上昇）、血尿、夜間頻尿
-皮膚,そう痒、発疹、発汗、皮膚乾燥、脱毛、多毛、光線過敏症
-精神神経系,性欲減退、頭痛、めまい、不眠、抑うつ状態、傾眠
-循環器,心電図異常
-消化器,便秘、食欲不振、下痢、悪心、嘔吐、口渇、消化不良、鼓腸放屁、腹痛
-筋・骨格系,胸痛、骨盤痛
-過敏症,血管浮腫、蕁麻疹
-その他,貧血、浮腫、総コレステロール上昇、中性脂肪上昇、倦怠感、無力症、疲労、高血糖、体重増加・減少、さむけ
+雌激素,血栓风险率
+口服雌二醇 &le;1 mg/天,1.2 倍
+口服雌二醇 &gt;1 mg/天,1.4 倍
+口服雌二醇约 1 mg/天合并孕激素,1.4–1.8 倍
+透皮雌二醇 &le;50 μg/天,0.9 倍
+透皮雌二醇 &gt;50 μg/天,1.1 倍
+口服结合雌激素 &le;0.625 mg/天,1.4 倍
+口服结合雌激素 &gt;0.625 mg/天,1.7 倍
+口服结合雌激素约 0.625 mg/天合并孕激素,1.5–2.4 倍
+现代避孕药，如*达英-35*<br>（炔雌醇与孕激素）,4.2 倍
+早期避孕药<br>（高剂量炔雌醇与孕激素）,4–10 倍
+高剂量聚磷酸雌二醇注射剂,2.1 倍
+高剂量口服人工雌激素<br>（乙烯雌酚、炔雌醇或磷酸雌莫司汀）,5.7–10 倍
+选择性雌激素受体调节剂<br>（他莫昔芬、雷洛昔芬）,约 1.5–3 倍
+单用高剂量醋酸环丙孕酮,3–5 倍
 ```
 
-### スピロノラクトン
+更多详情可参见《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》[^3]。
 
-> **重大な副作用** [^11] [^21]
+### 雌激素相关资料
 
-- **電解質異常**（**高カリウム血症**、低ナトリウム血症、代謝性アシドーシス等）
-- **急性腎不全**
-- **中毒性表皮壊死融解症、皮膚粘膜眼症候群**（Stevens-Johnson症候群）
-
-> **発生頻度が高い副作用** [^13] [^11] [^21]
-
-**高カリウム血症、消化器症状（例えば、悪心、嘔吐、下痢、腹痛など）。**
-
-次の背景を有する患者は注意して使用すること：
-
-- 高齢者
-- 腎機能障害
-- 血中ナトリウムを上昇させる薬剤（カリウム製剤、カリウム保持性利尿剤など）の同時投与（禁忌の一種）
+> **EMA 确认高强度雌二醇乳膏的使用时间不超过四周** [^16] [^30]
+> 
+> PRAC
+> 审查了关于高强度**雌二醇乳膏**用于治疗绝经期妇女阴道萎缩症状的安全性和有效性的现有数据。这些数据表明，绝经后妇女使用这些乳膏后，血液中的雌二醇水平高于正常绝经后的水平。PRAC
+> 的结论是，雌二醇在血液中的吸收值得关注，可能导致与激素替代疗法（HRT）相似的副作用，口服或经皮肤（作为贴片）使用 HRT
+> 的副作用包括静脉血栓栓塞（静脉血栓形成）、中风、子宫内膜癌和乳腺癌。此外，关于长期使用高强度**雌二醇乳膏**的安全性数据有限。 基于这些原因，PRAC
+> 建议这些乳膏一个疗程最多只能使用 4 周。
 
 
-## 相互作用 {#drug-interactions}
+## 孕激素用药风险
+
+### 口服与非口服天然孕酮（黄体酮）
+
+已知口服孕酮与类似于酒精的神经甾体副作用有关[^4]。\
+非口服孕酮无任何已知副作用。
+
+### 人工合成孕激素（如醋酸环丙孕酮）
+
+详见“抗雄激素用药风险”。
 
 
-{{< notice warning "警告" >}}
-**ホルモン製剤とその他の医薬品を併用する場合には、医師・薬剤師等に相談し、指示に従って下さい。**
-{{< /notice >}}
 
+## 抗雄激素制剂用药风险
 
-上記とその他の薬剤は、複雑で、強さが異なる相互作用の可能性があり、その関係は、添付文書・臨床成績の調査に基づいて確定するべきである。なお、MtF において、精神疾患の発現率が高くなることが認められたので[^19]、抗うつ薬などとの相互作用は下記を示す。
+### 醋酸环丙孕酮
 
-### 代謝酵素との相互作用
+醋酸环丙孕酮（色谱龙）最常见的副作用有：**_阴道点状出血_、体重增加或减轻、抑郁、性欲降低、勃起功能障碍和精子产量减少（停药后可逆）**[^5] [^6]
+[^7]。\
+最严重的副作用有：**肝毒性、良性与恶性肝脏肿瘤（可能引起致命性腹内出血）、脑膜瘤与血栓栓塞形成**[^8] [^9]。
 
-投与されているホルモン製剤は主に薬物代謝酵素 CYP3A4 で代謝される。詳細は下記。
-
-| 種類 | 機序 |
-|-|-|
-| エストラジオール、<br>及びそのエステル | CYP3A4で代谢される[^1] [^2]。 |
-| プロゲスチン系薬物：<br>メドロキシプロゲステロン、及び酢酸シプロテロンなど | CYP3A4で代谢される[^6] [^7] [^20]。 |
-| スピロノラクトン | CYP3A4を誘導する[^21] [^14]。<br>また、その他の代謝酵素（CYP2C11など）を阻害する可能性がある[^31]。 |
-| ビカルタミド | (S)-異性体がCYP3A4で代谢され、(R)-異性体はCYP3A4で一部代谢される[^22]<br>CYP3A4を阻害する可能性があるが[^10]、その効果は臨床試験で明らかにならなかった[^22]。 |
-| GnRH 類似体 | 肝酵素ではほとんど代謝されない[^23]。 |
-
-### ホルモン製剤との相互作用
-
-| 薬剤名等 | 機序 |
-|-|-|
-| エストラジオール、<br>及びスピロノラクトン | 男性において、スピロノラクトンの投与により、血中エストラジオール濃度は僅かに上昇し、或は変動がなく、尿中に排泄されたエストロゲンが増加したとの報告がある[^24]。 |
-| エストラジオール、<br>及びビカルタミド | 血中テストステロンはビカルタミドに増加させられ、芳香族化として代謝され、エストラジオールを増加させると考えられる[^25]。 |
-| プロゲスチン系薬物、<br>及びビカルタミド | ビカルタミドはプロゲスチン系薬物の代謝酵素（CYP3A4）を阻害すると考えられる。 |
-| GnRH 類似体、<br>及びプロゲスチン系薬物 | GnRH 類似体の添付文書により、プロゲスチン系薬物は高プロラクチン血症を誘発し、GnRH 受容体を減少させるので、その併用は遠慮するべきである[^23]。<br>ただし、臨床試験の結果、高プロラクチン血症と脳下垂体腺腫を有する患者において、GnRH への反応は上昇するとの報告がある[^32]。<br>GnRH 類似体を投与した場合、その他の抗アンドロゲン剤は必要ではない。 |
-
-### ホルモン製剤とその他の医薬品との相互作用
-
-| 薬剤名等 | 機序 |
-|-|-|
-| スピロノラクトン、<br>及びカリウム製剤、カリウム保持性利尿剤など | 高カリウム血症を誘発する恐れがある[^21]。 |
-| スピロノラクトン、<br>及びリチウム製剤 | リチウム製剤の排出を抑制し、リチウム毒性を増加させる恐れがある[^21] [^33]。 |
-| スピロノラクトン、<br>及び三環系・SSRI 系抗うつ薬 | 低ナトリウム血症を誘発する恐れがある[^21] [^27]。 |
-| スピロノラクトン、<br>及びその他の薬剤 | CYP3A4、又はCYP2C11で代謝される薬剤を影響すると考えられる[^21] [^31]。 |
-| ビカルタミド、<br>及びその他の薬剤 | CYP3A4で代謝される薬剤を影響する恐れがある[^10] [^22]。<br>抗凝固剤の効果を影響する恐れがある。 |
-| エストラジオール、プロゲスチン系薬物、<br>及び肝酵素を及ぼす薬剤 | 肝酵素誘導・阻害により、エストラジオール、及びプロゲスチン系薬物の代謝・効果を影響すると考えられる[^2] [^6]。 |
-| スピロノラクトン、プロゲスチン系薬物、<br>及び血清蛋白 | 蛋白結合率が高いので[^6] [^20] [^21]、アルブミンに対し、その他の薬剤の結合を競合的に阻害すると考えられる。その結果、薬剤の血中フリー濃度（非結合率）が高くなり、効果・副作用が明らかになることがある。<br>併用の場合、投与量を調節するなど注意すること。 |
-| エストラジオール、<br>及び血清蛋白 | 蛋白結合率が高いので[^2] [^26]、アルブミンに対し、その他の薬剤の結合を競合的に阻害すると考えられる。 |
-| CYP3A4で代谢される薬剤の併用 | 高用量の場合、代謝変化率が低くなり、副作用が明らかになると考えられる[^7]。<br>これらの薬剤は、必要最小限に使用すること。 |
-| アルコール | 酢酸シプロテロンの作用が減弱する恐れがある[^5] [^6] [^7]。 |
-
-如何なる場合でも、GAHT、及びその他の療法の併用前・併用期間、薬剤の添付文書（特に相互作用に関する情報）を十分に理解し、医師や薬剤師の指示に従うこと。英語のサイト [Drugs.com](https://www.drugs.com/drug_interactions.html) により、相互作用に関する情報は検索可能である。併用期間、観察を十分に行い、異常が認められた場合には直ちに投与を中止し、医師の診察を受けること。
-
-#### 付録：CYP3A4 を誘導・阻害し、精神的活性がある物質 [^34]
-
-> **筆太：強い誘導・阻害作用がある**  
-> \* 標記：弱い誘導・阻害作用がある  
-> その他：作用の強さが不明
+下表为台湾 Androcur 说明书列出的各不良反应 [^7]：
 
 ```csv
-誘導剤,抑制剤
-**アセナピン？**,**フルオキセチン**
-**カルバマゼピン**,フルボキサミン
-**モダフィニール**,**パロキセチン**
-**フェノバルビタール**<br>及びその他のバルビタール系物質,ペルフェナジン
-**フェニトイン**,レボキセチン\*
-**St.John's Wort**,
-トピラマート,
+系统器官分类,非常常见,常见,不常见,罕见,非常罕见,频率不详
+**良性、恶性或不明肿瘤**,,,,,良性与恶性肝脏肿瘤,脑膜瘤
+**血液与淋巴系统疾病**,,,,,,贫血
+**免疫系统疾病**,,,,过敏反应,,
+**代谢和营养类疾病**,,体重增加；体重减少,,,,
+**精神病类**,性欲减退、勃起功能障碍,抑郁心境、短暂性躁动,,,,
+**血管疾病**,,,,,,血栓栓塞形成
+**呼吸、胸部和纵隔疾病**,,呼吸困难,,,,
+**胃肠道疾病**,,,,,,腹内出血
+**肝胆疾病**,,药物性肝损伤、肝毒性、肝炎,黄疸、肝衰竭,,,
+**皮肤和皮下组织疾病**,,,皮疹,,,
+**肌肉骨骼和结缔组织疾病**,,,,,,骨质疏松
+**生殖系统和乳房疾病**,精子产量减少,男性乳房发育,,,,
+**全身疾病和给药部位症状**,,疲劳、潮热、发汗,,,,
 ```
 
-上記には、相互作用の可能性のあるすべての種類の医薬品が含まれているわけではない。薬物相互作用に関する新しい情報をお持ちの方は、[GitHub](https://github.com/project-trans/MtF-wiki/issues/828) にレポートを送信すること。
+### 比卡鲁胺
+
+比卡鲁胺最常见的不良反应有：**潮热、疼痛、乏力、便秘、感染、恶心、外周性水肿、呼吸急促、腹泻、尿血、遗尿与贫血**[^10]。\
+最严重的不良反应有：**肝毒性、肝衰竭；也与极罕见的肺毒性**[^11] [^12]。
+
+### 螺内酯
+
+螺内酯最常见的不良反应有：**高钾血症，胃肠道反应（如恶心、呕吐、胃痉挛和腹泻）**[^13] [^11] [^21]。\
+最严重的不良反应：**高钾血症（高风险者可引起猝死）**[^11] [^21]。
+
+高年龄、肾功能不全、同时服用利钾药、钾补剂或含钾代用盐者属于高钾血症风险人群，须格外注意[^11]。
+
+### 抗雄激素相关资料
+
+> **加拿大公布抗雄激素药物安全性评估结果** [^17] [^29]
+> 
+> 在临床文献中，也有对使用抗雄激素药物存在肝毒性风险的描述。
+> 尽管类固醇类和非类固醇类抗雄激素药物都与肝毒性相关，但这些不良反应的发生频率及其临床特征，在不同药品间似乎有所不同。例如，观察性研究结果显示，使用**氟他胺**的患者出现肝毒性事件的发生频率高于那些使用**醋酸环丙孕酮**的患者（15.3%比
+> 9.5%，p=0.034）。 此外，这项研究发现在严重的肝毒性（定义为肝酶水平升高大于 6 倍正常值上限）事件中，使用**氟他胺**者占
+> 4.8%，使用**醋酸环丙孕酮**者占 3.8%。在严重肝毒性事件中，使用**比卡鲁胺**和**尼鲁米特**者罕有报告。
 
 
-[^1]: [添付文書：エストラジオール錠（Estrofem）](https://tfsci.mtf.wiki/misc/estrofem/) （中国語）
-[^2]: [添付文書：吉草酸エストラジオール錠（Progynova）](https://tfsci.mtf.wiki/misc/progynova/) （中国語）
-[^3]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. <https://transfemscience.org/articles/estrogens-blood-clots/>
-[^4]: Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. *Transfeminine Science*. <https://transfemscience.org/articles/oral-p4-low-levels/>
-[^5]: [添付文書：酢酸シプロテロン錠（Siterone）](https://tfsci.mtf.wiki/misc/siterone-nz/) （中国語）
-[^6]: [添付文書：酢酸シプロテロン錠（南アフリカ Androcur）](https://tfsci.mtf.wiki/misc/androcur-za/) （中国語）
-[^7]: [添付文書：酢酸シプロテロン錠（台湾 Androcur）](https://tfsci.mtf.wiki/misc/androcur-tw/) （中国語）
-[^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
-[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/>
-[^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://tfsci.mtf.wiki/misc/casodex/>
-[^11]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-intro/>
-[^12]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/bica-adoption/>
-[^13]: [添付文書：スピロノラクトン錠](https://tfsci.mtf.wiki/misc/spiro-tablet/) （中国語）
-[^14]: Solymoss, B., Classen, H. G., & Varga, S. (1969). Increased hepatic microsomal activity induced by spironolactone and other steroids. *Proceedings of the Society for Experimental Biology and Medicine*, 132(3): 940-941. \[DOI: [10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)]
-[^15]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/breast-cancer/>
-[^19]: Kattari, S. K., Kattari, L., Johnson, I., et al. (2020). Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan. *International Journal of Environmental Research and Public Health*, 17(18):6805. \[DOI: [10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
-[^20]: Pfizer. (2018). PROVERA&reg; U.S. Physician Prescribing Information. <https://labeling.pfizer.com/ShowLabeling.aspx?id=605>
-[^21]: Pfizer Lab. (2022). ALDACTONE&reg; U.S. Physician Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/012151s079lbl.pdf>
-[^22]: Cockshott, I. D. (2004). Bicalutamide: Clinical Pharmacokinetics and Metabolism. *Clinical Pharmacokinetics*, 43(13): 855–878. \[DOI: [10.2165/00003088-200443130-00003](https://doi.org/10.2165/00003088-200443130-00003)]
-[^23]: Verity Pharmaceuticals Inc. (2023). TRELSTAR&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/020715s045,021288s040,022437s020lbl.pdf>
-[^24]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/spiro-testosterone/>
-[^25]: Aly. \(2018). Discussion on Bicalutamide Dosage in Transfeminine People. *Transfeminine Science*. この文献が削除されたが、中国語訳は[こちら](https://tfsci.mtf.wiki/articles/bica-dosage/)
-[^26]: Aly. (2020). The Interactions of Sex Hormones with Sex Hormone-Binding Globulin and Relevance for Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/shbg-unimportant/>
-[^27]: Viatris Specialty LLC. (2023). ZOLOFT&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019839s102,020990s059lbl.pdf>
-[^31]: Chung, W. G., & Buhler, D. R. (1994). The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs. *Toxicology and Applied Pharmacology*, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
-[^32]: Monroe, S. E., Levine, L., Chang, R. J., et al. (1981). Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas. *The Journal of Clinical Endocrinology & Metabolism*, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
-[^33]: ANI Pharmaceuticals Inc. (2022). LITHOBID&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
-[^34]: Taylor, D. M., Barnes, T. R. E., Young, A. H. (2021). The Maudsley&reg; Prescribing Guidelines in Psychiatry. 14th ed. Hoboken: John Wiley & Sons: 851-855.
+> **欧盟因脑膜瘤风险限制环丙孕酮的使用** [^18] [^28]
+> 
+> 现有数据并未表明含有 1 或 2
+> 毫克的低剂量**环丙孕酮**与**炔雌醇**或**雌二醇**联用治疗痤疮、多毛症、避孕或激素替代疗法的风险。然而，作为预防措施，这些药物不应用于**脑膜瘤患者**或有**脑膜瘤病史**者。
+> 含高剂量环丙孕酮的药物已有该限制。
+
+
+## 药物相互作用 {#drug-interactions}
+
+{{< notice warning "警告" >}} **如需服用 GAHT
+以外的任何药物，务必就<u>药物相互作用</u>问题咨询医师，并查阅说明书相关内容！** {{< /notice >}}
+
+诸 GAHT
+药物之间以及与其它药物之间的相互作用非常复杂，且强度不一，需要海量资料来建立其关系；目前只能通过各药品的说明书内容和药代动力学研究资料来做大致判断。考虑到
+MtF 当中精神疾病的流行率较高[^19]，此处会特别指明与精神药品的关系。
+
+### 肝酶代谢关系
+
+主要 GAHT 用药均依赖或影响肝酶代谢：
+
+| 类型       | 性质                                                                             |
+| -------- | ------------------------------------------------------------------------------ |
+| 雌二醇、雌二醇酯 | 依赖 CYP3A4 代谢[^1] [^2]                                                          |
+| 醋酸环丙孕酮   | 依赖 CYP3A4 代谢[^6] [^7]                                                          |
+| 醋酸甲羟孕酮   | 依赖 CYP3A4 代谢[^20]                                                              |
+| 螺内酯      | 有诱导 CYP3A4 的作用[^21] [^14]<br>另可能抑制其它 CYP3A 酶系和 CYP2C11[^31]                    |
+| 比卡鲁胺     | (S)-对映体经 CYP3A4 代谢，(R)-对映体部分经此代谢[^22]<br>有抑制 CYP3A4 的潜力[^10]，但体内研究表明作用不明显[^22] |
+| GnRH 类似物 | 曲普瑞林很少被肝酶代谢[^23]                                                               |
+
+### GAHT 用药之间的关系
+
+可能存在相互作用的情况包括但不限于：
+
+- **雌二醇与螺内酯：** 现有文献评述中，螺内酯单药用于顺性别男性时，雌二醇水平不变或小幅增加，雌激素尿排出量增加[^24]。
+- **雌二醇与比卡鲁胺：** 由于比卡鲁胺使睾酮增加，而睾酮可被芳香化成为雌二醇，使雌二醇同步增加[^25]，故难以判断比卡鲁胺是否会抑制雌二醇代谢。
+- **人工孕激素与比卡鲁胺：** 理论上比卡鲁胺会抑制人工孕激素代谢。不建议并用。
+- **GnRH 类似物与人工孕激素：** 据曲普瑞林说明书，由于高泌乳素血症可导致 GnRH
+  受体减少，故不建议将其与可诱发高泌乳素水平的药物并用[^23]；但是，临床研究中高泌乳素血症和垂体腺瘤患者对 GnRH
+  的反馈有所增强[^32]。此类药物含醋酸环丙孕酮等孕激素[^8]。实际上，在已使用 GnRH 类似物的情况下，是无需采取额外抗雄手段的。
+
+### 与其它药物的关系
+
+与部分药品存在相互作用的情况包括但不限于：
+
+- **螺内酯与促血钾药品：** 二者并用导致高钾血症的风险增大 [^21]。
+- **螺内酯与部分精神药品：** 抑制锂剂排出，锂毒性可能增加[^21] [^33]；与三环类、SSRI 类抗抑郁药并用可能导致低钠血症[^21]
+  [^27]。另外可能影响经 CYP3A4（CYP3A 酶系）和 CYP2C11 代谢的药物[^21] [^31]。
+- **比卡鲁胺与部分药品：** 可能影响经 CYP3A4 代谢的药物；可能影响抗凝剂的疗效[^10] [^22]。
+- **雌二醇、人工孕激素和影响肝酶的药品：** 代谢可能受到 CYP3A4 抑制剂或诱导剂的影响[^2]
+  [^6]。其中抑制剂使其代谢减慢；诱导剂使其代谢加快、疗效减弱。
+- **螺内酯、人工孕激素和血浆蛋白：** 由于这两种抗雄制剂均与血浆白蛋白高度结合[^6] [^20]
+  [^21]，不能排除其会跟其它强结合药物竞争白蛋白的可能。与此类药物并用时，二者的游离血药浓度均可能增加，导致其作用和副作用增强。可能需要降低其中一种强结合药物的剂量。这类药物包括抗抑郁药舍曲林[^27]。
+- **雌二醇与血浆蛋白：** 生理水平下的雌二醇绝大部分与血浆蛋白结合，其中多数结合于白蛋白，少数结合于性激素结合球蛋白（SHBG）[^2]
+  [^26]。虽然其会受到竞争白蛋白的其它药物影响，但由于雌二醇也会引起 SHBG 增加[^26]，故游离浓度变数可能较大。
+- **共用 CYP3A4 代谢途径的药品：** 剂量较大时，相关副作用发生的风险可能增大[^7]。应以最低有效剂量服药。
+- **酒精：** 已知酒精可降低醋酸环丙孕酮的效力[^5] [^6] [^7]。
+
+无论如何，应在开始 GAHT
+治疗或其它疾病（如精神类）的治疗之前**认真阅读说明书**，尤其是有关药物相互作用的内容；治疗期间也要不时回顾。如果懂一些英语，可以在
+[Drugs.com](https://www.drugs.com/drug_interactions.html)
+查询两种药品（英文名称）之间是否存在相互作用。如必须并用，请注意进行密切监测；并用期间出现任何不适或异常应随诊——让医生知悉一切并对症下药，**千万别瞒着！**
+
+##### 附录：可诱导或抑制 CYP3A4 的精神药品 [^34]
+
+> **粗体：有强诱导或抑制作用**\
+> \* 有较弱诱导或抑制作用\
+> 其余：作用显著性不明
+
+```csv
+诱导剂,抑制剂
+**阿塞那平？**,**氟西汀**
+**卡马西平**,氟伏沙明
+**莫达芬尼**,**帕罗西汀**
+**苯巴比妥**<br>巴比妥类药或类同,奋乃静
+**苯妥英**,瑞波西汀\*
+**圣约翰草（贯叶连翘）**,
+托吡酯,
+```
+
+以上未囊括所有可能存在相互作用的药品类型。如有新的药物相互作用信息，可于
+[GitHub](https://github.com/project-trans/MtF-wiki/issues/828) 提交报告。
+
+
+[^1]: [雌二醇片（Estrofem）说明书](https://tfsci.mtf.wiki/misc/estrofem/)
+[^2]: [戊酸雌二醇片（Progynova）说明书](https://tfsci.mtf.wiki/misc/progynova/)
+[^3]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots
+[EB/OL]. *Transfeminine Science*, 2020.
+译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^4]: Aly. Oral Progesterone Achieves Very Low Levels of Progesterone and Has
+Only Weak Progestogenic Effects [EB/OL]. *Transfeminine Science*, 2018.
+译文：《[口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
+[^5]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/misc/siterone-nz/) [^6]:
+[醋酸环丙孕酮（南非 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-za/) [^7]:
+[醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-tw/) [^8]: Aly.
+Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone
+Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019.
+译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
+[^9]: Aly. Recent Developments on Cyproterone Acetate and Meningioma Risk Out of
+France and Implications for Transfeminine People [EB/OL]. *Transfeminine
+Science*, 2020.
+译文：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
+[^10]: AstraZeneca. CASODEX® U.S. Physicians Prescribing Information [EB/OL].
+*Drugs@FDA*, 2017. 译文：《[比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/)
+》 [^11]: Aly. An Introduction to Hormone Therapy for Transfeminine People
+[EB/OL]. *Transfeminine Science*, 2018.
+译文：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》 [^12]:
+Aly. Bicalutamide and its Adoption by the Medical Community for Use in
+Transfeminine Hormone Therapy [EB/OL]. *Transfeminine Science*, 2020.
+译文：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
+[^13]: [螺内酯片说明书](https://tfsci.mtf.wiki/misc/spiro-tablet/) [^14]: Solymoss B,
+Classen H G, Varga S. Increased hepatic microsomal activity induced by
+spironolactone and other steroids [J]. *Proceedings of the Society for
+Experimental Biology and Medicine*, 1969, 132(3): 940-941. \[DOI:
+[10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)] [^15]:
+Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL].
+*Transfeminine Science*, 2020.
+译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》 [^16]:
+国家药品监督管理局. [药物警戒快讯第 4 期（总第 204
+期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html)
+[EB/OL]. 2020-06-12. [^17]: 国家药品监督管理局. [药物警戒快讯 2012 年第 11 期（总第 115
+期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20121130120001399.html)
+[EB/OL]. 2012-11-30. [^18]: 国家药品监督管理局. [药物警戒快讯第 3 期（总第 203
+期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200416143701885.html)
+[EB/OL]. 2020-04-16. [^19]: Kattari S K, Kattari L, Johnson I, et al.
+Differential Experiences of Mental Health among Trans/Gender Diverse Adults in
+Michigan [J]. *International Journal of Environmental Research and Public
+Health*, 2020, 17(18):6805. \[DOI:
+[10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
+[^20]: Pfizer. PROVERA® U.S. Physician Prescribing Information [EB/OL]. 2018.
+<https://labeling.pfizer.com/ShowLabeling.aspx?id=605> [^21]: Pfizer Lab.
+ALDACTONE® U.S. Physician Prescribing Information [EB/OL]. *Drugs@FDA*, 2022.
+译文：《[螺内酯（Aldactone）说明书](https://tfsci.mtf.wiki/misc/aldactone/)》 [^22]:
+Cockshott I D. Bicalutamide: Clinical Pharmacokinetics and Metabolism [J].
+*Clinical Pharmacokinetics*, 2004, 43(13): 855–878. \[DOI:
+[10.2165/00003088-200443130-00003](https://doi.org/10.2165/00003088-200443130-00003)]
+[^23]: Verity Pharmaceuticals Inc. TRELSTAR® U.S. Physicians Prescribing
+Information [EB/OL]. *Drugs@FDA*, 2023. 译文：《[帕莫酸曲普瑞林（美国
+Trelstar）处方说明书](https://tfsci.mtf.wiki/misc/trelstar/)》 [^24]: Aly. A Review of
+Studies on Spironolactone and Testosterone Suppression in Cisgender Men,
+Cisgender Women, and Transfeminine People [EB/OL]. *Transfeminine Science*,
+2018.
+译文：《[对有关使用螺内酯的顺性别男性、顺性别女性和女性倾向跨性别者及其睾酮水平的一系列研究的评述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)》
+[^25]: Aly. Discussion on Bicalutamide Dosage in Transfeminine People [EB/OL].
+*Transfeminine Science*, 2018.
+原文已被删除，译文：《[有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/articles/bica-dosage/)》
+[^26]: Aly. The Interactions of Sex Hormones with Sex Hormone-Binding Globulin
+and Relevance for Transfeminine Hormone Therapy [EB/OL]. *Transfeminine
+Science*, 2020.
+译文：《[性激素与性激素结合球蛋白的相互作用及其对女性化激素疗法的意义](https://tfsci.mtf.wiki/articles/shbg-unimportant/)》
+[^27]: Viatris Specialty LLC. ZOLOFT® U.S. Physicians Prescribing Information
+[EB/OL]. *Drugs@FDA*, 2023.
+<https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019839s102,020990s059lbl.pdf>
+[^28]: European Medicines Agency. Restrictions in use of cyproterone due to
+meningioma risk [EB/OL]. 2020-02-14.
+<https://www.ema.europa.eu/en/news/restrictions-use-cyproterone-due-meningioma-risk>
+[^29]: Health Canada. Antiandrogens and hepatotoxicity [J]. *Canadian Adverse
+Reaction Newsletter*, 2012, 22(4): 3-4. [^30]: European Medicines Agency. PRAC
+confirms four-week limit for use of high-strength estradiol creams [EB/OL].
+2020-01-17.
+<https://www.ema.europa.eu/en/news/prac-confirms-four-week-limit-use-high-strength-estradiol-creams>
+[^31]: Chung W G, Buhler D R. The Effect of Spironolactone Treatment on the
+Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by
+Hepatic Microsomes from Rats and Guinea Pigs [J]. *Toxicology and Applied
+Pharmacology*, 1994, 127(2): 314–319. \[DOI:
+[10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)] [^32]: Monroe
+S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V,
+Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary
+Adenomas [J]. *The Journal of Clinical Endocrinology & Metabolism*, 1981, 52(6):
+1171–1178. \[DOI:
+[10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)] [^33]: ANI
+Pharmaceuticals Inc. LITHOBID® U.S. Physicians Prescribing Information [EB/OL].
+*Drugs@FDA*, 2022.
+<https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
+[^34]: Taylor D M, Barnes T R E, Young A H. The Maudsley® Prescribing Guidelines
+in Psychiatry [M]. 14th ed. Hoboken, US: John Wiley & Sons, 2021: 851-855.
