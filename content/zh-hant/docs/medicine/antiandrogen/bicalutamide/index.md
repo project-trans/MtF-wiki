@@ -1,51 +1,61 @@
 ---
-title: 比卡魯胺片
-description: 比卡魯胺（Bicalutamide）是雄激素受體拮抗劑，一種非甾體類抗雄激素。
+title: 比卡鲁胺片 description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种非甾体类抗雄激素。
 ---
 
-{{< notice warning "用藥安全提示" >}}
-請仔細閱讀說明書並在醫師指導下使用藥物。
-{{< /notice >}}
+{{< notice warning "用药安全提示" >}} 请仔细阅读说明书并在医师指导下使用药物。 {{< /notice >}}
 
-## 基本資訊
+## 基本信息
 
-- 藥品通用名稱: 比卡魯胺片
-- 藥品商品名稱: 康士得/CASODEX
-- 藥品英文名稱: Bicalutamide Tablets
-- 生產企業名稱：CORDEN PHARMA GMBH
-- 性狀: 白色薄膜衣片，除去包衣後顯白色
-- 規格: 50mg 每片 &times; 28 或 150mg 每片 &times; 28
+```csv
+地区,上市状态
+中国内地,是
+香港,是
+新加坡,是
+```
 
-## 注意事項
+- 药品通用名称：比卡鲁胺片
+- 药品商品名称：康士得 / CASODEX
+- 药品英文名称：Bicalutamide Tablets
+- 生产企业名称：CORDEN PHARMA GMBH
+- 性状：白色薄膜衣片，除去包衣后显白色
+- 规格：50mg × 28 片，150mg × 28 片
+- [说明书](./bicalutamide_zh.pdf)
 
-中、重度肝損害的病人應慎用；
-在開始使用前應當檢測血清轉氨酶水平，並在服藥開始 6 個月內定期監測[^5]；
-有遺傳性半乳糖不耐受、Lapp 乳糖酶缺乏症或葡萄糖-半乳糖吸收障礙的患者不得服用；
-不可與特非那定、阿司咪唑或西沙比利聯合使用。
+## 注意事项
 
-## 使用方式與用量
+中、重度肝损害的病人应慎用； 在开始使用前应当检测血清转氨酶水平，并在服药开始 6 个月内定期监测[^5]； 有遗传性半乳糖不耐受、Lapp
+乳糖酶缺乏症或葡萄糖-半乳糖吸收障碍的患者不得服用； 不可与特非那定、阿司咪唑或西沙比利联合使用。
+
+## 使用方式与用量
 
 口服，每日 50mg[^1]
 
 ## 副作用
 
-- **嚴重肝臟損傷**[^3] [^5] {{< tag/neg "如發現請立即停藥！" >}}
-  - 多發生於服藥開始的 6 個月內。主要表現為肝轉氨酶水平升高，嚴重時可引起肝衰竭甚至死亡[^3]。
-  - 其它跡象包括：惡心、嘔吐、腹痛、疲倦、食欲不振、類似流感的症狀（發熱）、茶色尿、黃疸（皮膚/眼球發黃）等[^5] [^2]。
-- **肺毒性**：極罕見，但可能發展成間質性肺炎、嗜酸性肺炎等嚴重症狀[^3] [^5]。
-  - 亞洲人種的這項風險遠高於其他人種[^5]。
-  - 相關跡象包括：氣喘或氣短、咳嗽、咽喉炎（通常表現為咽痛）等[^5]。
-- **其它症狀**：腹瀉、便秘、頭暈、乾皮、瘙癢、皮疹、乏力、水腫、皮膚光線敏感度改變、尿血、尿頻、貧血（腎衰竭）等[^4] [^2]。
+- **严重肝脏损伤**[^3] [^5] {{< tag/neg "如发现请立即停药！" >}}
+  - 多发生于服药开始的 6 个月内。主要表现为肝转氨酶水平升高，严重时可引起肝衰竭甚至死亡[^3]。
+  - 其它迹象包括：恶心、呕吐、腹痛、疲倦、食欲不振、类似流感的症状（发热）、小便黄赤、黄疸（皮肤/眼球发黄）等[^5] [^2]。
+- **肺毒性**：极罕见，但可能发展成间质性肺炎、嗜酸性肺炎等严重症状[^2] [^3] [^5]。
+  - 亚洲人种的这项风险远高于其他人种[^5]。
+  - 相关迹象包括：气喘或气短、咳嗽、咽喉炎（通常表现为咽痛）等[^5]。
+- **其它症状**：腹泻、便秘、头晕、干皮、瘙痒、皮疹、乏力、水肿、皮肤光线敏感度改变、尿血、尿频、贫血（肾衰竭）等[^4] [^2]。
 
-## 成分資訊
+## 成分信息
 
-- 有效成分：比卡魯胺（Bicalutamide）
-- 化學名稱：(±)–N-[4-氰基-3-(三氟甲基)苯基]-3-[(4-氟苯基)磺醯基]-2-羥基-2-甲基丙醯胺
+- 有效成分：比卡鲁胺
+- 化学名称：(±)–N-[4-氰基-3-(三氟甲基)苯基]-3-[(4-氟苯基)磺酰基]-2-羟基-2-甲基丙酰胺
 - 分子式：C<sub>18</sub>H<sub>14</sub>N<sub>2</sub>O<sub>4</sub>F<sub>4</sub>S
 - 分子量：430.37
 
-[^1]: Aly. (2018). *Discussion on Bicalutamide Dosage in Transfeminine People.* Transfeminine Science. 中譯本：《[有關比卡魯胺用於女性傾向跨性別者所需劑量的討論](https://tfsci.mtf.wiki/articles/bica-dosage/)》——*注意：原文已被刪除*
-[^2]: [比卡魯胺（Casodex）說明書](https://tfsci.mtf.wiki/misc/casodex/)
-[^3]: Aly. (2020). *Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy.* Transfeminine Science. 中譯本：《[比卡魯胺在女性化激素治療方面的使用狀況，以及醫學界對其的接受情況](https://tfsci.mtf.wiki/articles/bica-adoption/)》
-[^4]: [維基百科：比卡魯胺的副作用（英文）](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
-[^5]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine People.* Transfeminine Science. 中譯本：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
+[^1]: Aly. (2018). *Discussion on Bicalutamide Dosage in Transfeminine People.*
+Transfeminine Science.
+中译本：《[有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/articles/bica-dosage/)》——*注意：原文已被删除*
+[^2]: [比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/) [^3]: Aly.
+(2020). *Bicalutamide and its Adoption by the Medical Community for Use in
+Transfeminine Hormone Therapy.* Transfeminine Science.
+中译本：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
+[^4]:
+[维基百科：比卡鲁胺的副作用（英文）](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
+[^5]: Aly. (2018). *An Introduction to Hormone Therapy for Transfeminine
+People.* Transfeminine Science.
+中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
