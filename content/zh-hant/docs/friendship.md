@@ -1,31 +1,52 @@
 ---
-title: 友情連結
-weight: 10
+title: 友情链接 weight: 12000
 ---
 
-## 生活興趣交流群
+{{<notice info "提示" >}}
+
+本页所列群组非本站管理，请自行甄别。
+
+{{</notice>}}
+
+## 生活兴趣交流群
 
 ```csv
-平臺,名稱,加入方式
-QQ,Arch 木桶飯,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipzyj" >}}
-QQ,跨兒音遊組,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0cbS4" >}}
-Telegram,Backlight.Town 逆光小鎮,聯絡 {{< shields/telegram rikablossom >}} 加入
-Telegram,跨兒音遊組,{{< shields/telegram otoge_trans >}}
-Matrix,Arch 木桶飯,{{< shields/matrix arch-mtf matrix.malacology.net >}}
+平台,名称,加入方式
+QQ,Arch 木桶饭（暂时停止新成员入群）,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipzyj" >}}
+QQ,跨儿音游组,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0cbS4" >}}
+Telegram,Backlight.Town 逆光小镇,联系 {{< shields/telegram rikablossom >}} 加入
+Telegram,One Group! 跨儿骄傲联合广播 讨论群,{{< shields/telegram "+RKumk5Hl-rgxOTQx" >}}
+Telegram,跨儿音游组,{{< shields/telegram otoge_trans >}}
+Telegram,NixOS 木桶饭,{{< shields/telegram "nixos_mtf" >}}
+Matrix,Arch 木桶饭,{{< shields/matrix arch-mtf matrix.org >}}
 Discord,Project Trans Community,{{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 ```
 
-## SRS 手術交流群
+## SRS 手术交流群
 
-- **[泰國]({{< ref "thailand" >}}) 手術交流群**（QQ 與 Telegram 群組）
+- **[411]({{< ref "sh411" >}}) 手术交流群**
 
-  已預約、正在泰國 或 已經在泰國手術 的姐妹，
-  請傳送郵件至 <mtfwiki@estela.cn> 請註明你的醫生。
+  已预约 或 已经完成手术 的姐妹， 请发送邮件至 <srs-411@mtf.wiki> 请注明你的手术时间，床号，以及要加入的即时通讯平台（QQ
+  群组，Telegram群组，微信群组）。
+
+- **[泰国]({{< ref "srs-overview-thailand" >}}) 手术交流群**
+
+  已预约、正在泰国 或 已经在泰国手术 的姐妹， 请发送邮件至 <srs-th@mtf.wiki> 请注明你的医生，以及要加入的即时通讯平台（QQ 与
+  Telegram 群组）。
+
+## 跨性别相关放送
+
+本 bot
+是社群伙伴自发建立的民间公益平台。目前由单人运营，以非营利、扎根跨性别立场为基本原则，以广大跨性别群体的立场为基本立场，支持跨性别相关的科普、辟谣、生活投稿、公益推广等业务。为避免反跨恐跨人士围攻举报，本
+bot 内容请在合理范围内扩散。
+
+- QQ号：{{< shields/qq 811993805 >}}，主要更新在QQ空间
 
 ## awesome trans <i class="trans-flag"></i> (Twitter) {#awesome-trans}
 
-跨性別文件整理，資訊轉發。歡迎私信、郵件，或者在 Twitter 上提到我們。
+跨性别文档整理，资讯转发。欢迎私信、邮件，或者在 Twitter 上提到我们。
 
+- GitHub：{{< shields/github-issue "awesometrans/awesometrans_zh" >}}
 - Twitter：{{< shields/twitter awesometrans_zh >}}
 - Telegram：{{< shields/telegram awesometrans_zh >}}
-- 郵箱：<awesome-trans@outlook.com>
+- 邮箱：<awesome-trans@outlook.com>
