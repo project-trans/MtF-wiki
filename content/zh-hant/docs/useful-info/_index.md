@@ -1,5 +1,3 @@
 ---
-title: 實用資訊
-weight: 9
-collapsible: true
+title: 实用信息 weight: 10000 collapsible: true
 ---
