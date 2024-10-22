@@ -1,5 +1,3 @@
 ---
-title: 泰國
-weight: 2000
-collapsible: true
+title: 泰国 weight: 2000 collapsible: true
 ---
