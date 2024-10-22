@@ -1,5 +1,3 @@
 ---
-title: SRS 性別重置手術
-weight: 4
-collapsible: true
+title: SRS 性别重置手术 weight: 4000 collapsible: true
 ---
