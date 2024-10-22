@@ -1,5 +1,5 @@
 ---
-title: 政府性別認同診所
+title: 政府性别认同诊所 draft: true
 ---
 
-詳見 [此處](/zh-hant/docs/srs/hongkong/gov/)
+详见[此处](/zh-hant/srs/docs/hongkong/gov/)
