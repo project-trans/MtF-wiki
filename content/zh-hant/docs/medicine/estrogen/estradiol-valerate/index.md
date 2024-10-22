@@ -1,101 +1,121 @@
 ---
-title: 戊酸雌二醇錠
-description: 戊酸雌二醇是一種人工合成的經化學修飾的雌激素，由雌二醇經戊酸酯化而成；在體內快速水解為雌二醇。
-aliases: progynova
-libraries: katex
+title: 戊酸雌二醇片 description: 戊酸雌二醇（Estradiol
+valerate）是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；在体内快速水解为雌二醇。
 ---
 
-{{< notice warning "注意事項" >}}
-請仔細閱讀說明書並在醫師指導下使用藥品。
-{{< /notice >}}
+{{< notice warning "注意事项" >}} 请仔细阅读说明书并在医师指导下使用药物。 {{< /notice >}}
 
-戊酸雌二醇是一種人工合成的經化學修飾的雌激素，由雌二醇經戊酸酯化而成；其進入體內後，會快速經酯酶水解為雌二醇，從而發揮雌激素活性（酯酶多見於肝臟，也見於血液等各組織）。
-Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
+戊酸雌二醇（Estradiol
+valerate）是一种人工合成的经化学修饰的雌激素，由雌二醇经戊酸酯化而成；其进入体内后，会快速经酯酶水解为雌二醇，从而发挥雌激素活性（酯酶多见于肝脏，也见于血液等各组织）。
+[补佳乐](https://tfsci.mtf.wiki/zh-cn/misc/progynova/#form) /
+[克龄蒙](https://tfsci.mtf.wiki/zh-cn/misc/climen/#form) 的主要成分为戊酸雌二醇，包衣含有蔗糖，故入口味甜。
 
-## 基本資訊
+## 基本信息
 
-### Progynova<sup>&reg;</sup> 普女榮
+### Progynova<sup>®</sup> 补佳乐®
 
-| 地區 | 上架狀態                       |
-| ---- | ------------------------------ |
-| 臺灣 | 已註銷                         |
-| 香港 | HK-49511(1mg)<br>HK-49512(2mg) |
+|                          中国包装                           |                         泰国包装 (2mg)                          |
+| :-----------------------------------------------------: | :---------------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg) |
 
-![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg)
+|                            德国包装                            |                            印度包装                            |
+| :--------------------------------------------------------: | :--------------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/progynova-de.png) | ![!](/images/medicine/estradiol-valerate/progynova-in.png) |
 
-- 藥品名稱：Progynova<sup>&reg;</sup> 普女榮
-- 簡稱：補
-- 廠商：拜耳
-- 常見規格：
+- 药品名称：戊酸雌二醇片（Progynova® 补佳乐®）
+- 药品类型：单方制剂
+- 药品成分：戊酸雌二醇（Estradiol valerate）
+- 简称：补
+- 批准文号（中国版）:
+  [H20160679](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9YzliMmRmMTVhMGQ4MDkxZjk4MTkzMTcwOThhMzE2NGEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
+- 批准文号（泰国版）:
+  [U1DR1C1022640003811C](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug_ex.aspx?Newcode=U1DR1C1022640003811C)
+- 厂商：拜耳
+- 常见规格：
 
 ```csv
-規格,外觀
-1mg × 21 片/盒,黃糖衣錠
-2mg × 28 片 × 3 板/盒,藍色糖衣錠（旧批次）<br>白色包衣錠（新批次）
+版本,规格,性状
+中国包装（国补）,1mg &times; 21 片/盒,淡黄色糖衣片，去除糖衣显白色
+泰国包装（泰补）,2mg &times; 28 片 &times; 3 板/盒,蓝色糖衣片（旧批次）<br>白色包衣片（新批次）
 ```
 
-> 註：據[報告](https://github.com/project-trans/MtF-wiki/issues/906)自 2021 年十一月起，泰國分銷的 Progynova 2 mg 改為白色包衣[^5]；德國等其它地區亦然[^6]。市場上新舊產品可能共存，注意分辨。
+- 说明书：[扫描件](/documents/ev-zh.pdf) |
+  [电子版](https://tfsci.mtf.wiki/misc/progynova/)
 
-### Estrade 益斯得錠
+{{< notice warning "注意事项" >}}
+拜耳原厂和合作生产商的产品有一致的生产规范和性状。如发现任何与原厂产品性状不符之处，应向拜耳公司或当地分销商申诉。 {{< /notice >}}
 
-| 地區 | 上架狀態 |
-| ---- | -------- |
-| 臺灣 | 健保藥品 |
-| 香港 | HK-48266 |
+> 注：据[报告](https://github.com/project-trans/MtF-wiki/issues/906)自 2021
+> 年十一月起，泰国分销的补佳乐 2 mg 剂型改为白色包衣[^5]；德国等其它地区亦然[^6]。市场上新旧产品可能共存，注意分辨。
 
-![!](/images/medicine/estradiol-valerate/estrace-tw.jpg)
+### Climen<sup>®</sup> 克龄蒙®
 
-- 商品名稱：Estrade，益斯得錠
-- 內含量 2mg/tab
-- 商品外觀：白色圓型錠, $\frac{\text{SYN}}{\text{2}}$
-- [說明書](https://www1.ndmctsgh.edu.tw/pharm/pic/medinsert/005EST02.pdf)
+|                      中国包装 (2mg)                      |
+| :--------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/climen.png) |
 
-### Estra 愛仕達錠
+- 药品名称：戊酸雌二醇片/雌二醇环丙孕酮复合包装（Climen® 克龄蒙®）
+- 药品类型：复方制剂
+- 药品成分：戊酸雌二醇（Estradiol valerate）/醋酸环丙孕酮（Cyproterone Acetate）
+- 批准文号: [国药准字
+  HJ20160683](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9MzRiOTM3MzcxNjY0OTY4MjliOWIzMmRiYzJiMTdiYmEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
+- 厂商：拜耳
+- 常见规格：
 
-| 地區 | 上架狀態 |
-| ---- | -------- |
-| 臺灣 | 健保藥品 |
+```csv
+规格,性状,定量
+戊酸雌二醇片 2 mg,白色糖衣片，去除包衣后显白色,11 片/盒
+戊酸雌二醇 2 mg / 醋酸环丙孕酮 1 mg 复合片,粉红色糖衣片，去除包衣后显白色,10 片/盒
+```
 
-- 藥品名稱：Estra Tablet，愛仕達錠
-- 製造商名稱：政德製藥股份有限公司
+{{< notice warning "提示" >}} “克龄蒙”所含醋酸环丙孕酮的剂量极低（1 mg/粒），且每盒仅有 10
+粒复方片剂，不足以确保充分的抗雄激素效力。推荐剂量见《[色普龙]({{< ref "cyproterone" >}})》。 {{< /notice >}}
 
-## 使用方式與用量
+## 使用方式与用量
 
-- 服用方式：口服（味甜）
-  （亦可含服，含服吸收應更佳，但相關證據仍很有限[^1] [^3]）
-- 使用劑量：2 mg 至 6 mg
-- 吸收情況：據說明書，單次 1 mg Progynova 約能提供 15 pg/mL 的**峰值**血清濃度（持續服用可維持），Climen（2 mg）可達到 30 pg/mL 峰值，均遠低於 100 pg/mL；
-  生物利用率隨個體差異。
+- 服用方式：口服（味甜） （亦可含服，含服吸收应更佳，但相关证据仍很有限[^1] [^3]）
+- 使用剂量：2 mg 至 6 mg
+- 吸收情况：据说明书，单次 1 mg 补佳乐约能提供 15 pg/mL 的**峰值**血清浓度（持续服用可维持），克龄蒙（2 mg）可达到 30 pg/mL
+  峰值，均远低于 100 pg/mL； 生物利用率随个体差异。
 
 ## 副作用
 
-- **靜脈血栓栓塞**（可於常規健康檢查時一並檢查凝血）[^4]
-- 惡心、腹痛、腹脹等胃腸道不適
-- 乳房觸痛
-- 體重變化
-- 性功能減退、不育
-- 乳腺癌風險增加
-  - 用藥到一定年限時（如在 50 歲以上）應對乳腺癌進行排查[^2]。
+- **静脉血栓栓塞**（可于常规健康检查时一并检查凝血）[^4]
+- 恶心、腹痛、腹胀等胃肠道不适
+- 乳房触痛
+- 体重变化
+- 性功能减退、不育
+- 乳腺癌风险增加
+  - 用药到一定年限时（如在 50 岁以上）应对乳腺癌进行筛查[^2]。
 
-{{< notice warning "注意" >}}
-如攝入過量，以上副作用可能更明顯，因此需定期監測激素水平，按需調整劑量。
-{{< /notice >}}
+{{< notice warning "注意" >}} 如摄入过量，以上副作用可能更明显，因此需定期监测激素水平，按需调整剂量。 {{< /notice >}}
 
-## 成分資訊
+## 成分信息
 
 - 有效成分：戊酸雌二醇（{{< wiki "Estradiol valerate" en >}}）
 - 生物利用率：
   - 口服：3~5%
-  - 含服：6~25%（推定）[^3]
+  - 含服：6~25%（推测）[^3]
 - 半衰期（同雌二醇）：
-  - 口服：12~20 小時
-  - 含服：8~18 小時
+  - 口服：12~20 小时
+  - 含服：8~18 小时
 - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50
 
-[^1]: Aly. (2019). Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People. *Transfeminine Science*. 譯文：「[關於女性傾向跨性別者舌下含服戊酸雌二醇錠劑的簡介](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-ev/)」
-[^2]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：「[關於女性化激素療法與乳腺癌風險之簡述](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)」
-[^3]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People. *Transfeminine Science*. 譯文：「[對女性傾向跨性別者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem/)」
-[^4]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：「[雌激素對凝血功能與血栓風險的影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)」
-[^5]: Thai Ministry of Public Health. (2021). Details of Medicinal Product: Progynova&reg; 2 mg. <https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug.aspx?Newcode_U=U1DR1C1022640003811C>（泰文）
-[^6]: Jenapharm GmbH & Co KG. (2023). Gebrauchsinformation: Progynova&reg; 21. <https://www.jenapharm.de/download/14/116/2486.pdf>（德文）
+[^1]: Aly. Sublingual Administration of Oral Estradiol Valerate Tablets for
+Transfeminine People [EB/OL]. *Transfeminine Science*, 2019.
+译文：《[关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](https://tfsci.mtf.wiki/articles/sublingual-ev/)》
+[^2]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People
+[EB/OL]. *Transfeminine Science*, 2020.
+译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》 [^3]:
+Sam. An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol
+in Transfeminine People [EB/OL]. *Transfeminine Science*, 2021.
+译文：《[对女性倾向跨性别者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem/)》
+[^4]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots
+[EB/OL]. *Transfeminine Science*, 2020.
+译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^5]: Thai Ministry of Public Health. Details of Medicinal Product: Progynova® 2
+mg [EB/OL]. 2021-11-25.
+<https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug.aspx?Newcode_U=U1DR1C1022640003811C>（泰语）
+[^6]: Jenapharm GmbH & Co KG. Gebrauchsinformation: Progynova® 21 [EB/OL].
+2023-08. <https://www.jenapharm.de/download/14/116/2486.pdf>（德文）
