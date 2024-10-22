@@ -1,27 +1,25 @@
 ---
-title: Greechart 醫生
+title: Greechart 医生
 ---
 
-醫生名字：Greechart Pornsinsirirak
+医生名字：Greechart Pornsinsirirak
 
-**疑似回到[Yanhee]({{< ref "yanhee" >}})執業，請諮詢確認**
+医院：[米兰达整形医院（Milada Cosmetic Surgery Hospital）](https://g.page/milada_hospital)
 
-醫院：[米蘭達整形醫院（Milada Cosmetic Surgery Hospital）](https://g.page/milada_hospital)
+官方网站：<https://www.miladahospital.com>（泰语）
 
-官方網站：<http://www.miladahospital.com/products/view.php?id=104>（泰語）
+邮箱：<miladahospital@gmail.com> LINE ID：{{< shields/line "miladahospital" >}}
 
-中文熱線：{{< telephone "+66 89-794-0811" >}}
+<!-- 没找到出处 -->
+<!-- 中文热线：{{< telephone "+66 89-794-0811" >}} -->
+<!-- <china_info@miladahospital.com> -->
+<!-- 官方网站的微信是个纯贴图，就离谱 -->
+<!-- 微信：{{< shields/wechat "Milada0897940811" >}} -->
 
-郵箱：<china_info@miladahospital.com>、<miladahospital@gmail.com>
+## 手术技术
 
-LINE ID：{{< shields/line "miladahospital" >}}
+Greechart 可以进行结肠和改进 PI 方法进行的 SRS．其颜色、质地和大致的结构等都尚可，但小阴唇下方和 Kamol 一样相对不自然。
 
-微信：{{< shields/wechat "Milada0897940811" >}}
-
-## 手術技術
-
-Greechart 可以進行結腸和改進 PI 方法進行的 SRS．其顏色、質地和大致的結構等都尚可，但小陰唇下方和 Kamol 一樣相對不自然。
-
-## 術後效果
+## 术后效果
 
 {{< hiddenphoto "/images/srs/thailand/greechart/post-1.jpg" >}}
