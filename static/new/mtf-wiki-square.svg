@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="267px" height="244px" viewBox="0 0 267 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 267 244">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
   <defs>
     <style>
       .st0 {
@@ -79,38 +80,42 @@
       }
 
       .st19 {
-        clip-path: url(#clippath-1);
+        clip-path: url(#clippath-22);
       }
 
       .st20 {
-        clip-path: url(#clippath-3);
+        clip-path: url(#clippath-1);
       }
 
       .st21 {
-        clip-path: url(#clippath-4);
+        clip-path: url(#clippath-3);
       }
 
       .st22 {
-        clip-path: url(#clippath-2);
+        clip-path: url(#clippath-4);
       }
 
       .st23 {
-        clip-path: url(#clippath-7);
+        clip-path: url(#clippath-2);
       }
 
       .st24 {
-        clip-path: url(#clippath-6);
+        clip-path: url(#clippath-7);
       }
 
       .st25 {
-        clip-path: url(#clippath-9);
+        clip-path: url(#clippath-6);
       }
 
       .st26 {
-        clip-path: url(#clippath-8);
+        clip-path: url(#clippath-9);
       }
 
       .st27 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st28 {
         clip-path: url(#clippath-5);
       }
 
@@ -118,74 +123,11 @@
         fill: #afbcd8;
       }
 
-      .st28 {
+      .st29 {
         clip-path: url(#clippath);
       }
     </style>
     <clipPath id="clippath">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-1">
-      <rect class="st0" x="194.8" y="182.4" width="65.5" height="24.9"/>
-    </clipPath>
-    <clipPath id="clippath-2">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-3">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-4">
-      <rect class="st0" x="130.9" y="207.8" width="28.4" height="28.4"/>
-    </clipPath>
-    <clipPath id="clippath-5">
-      <path class="st0" d="M131.1,221.9c0,7.7,6.3,14,14,14s14-6.3,14-14-6.3-14-14-14-14,6.3-14,14"/>
-    </clipPath>
-    <clipPath id="clippath-6">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-7">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-8">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-9">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-10">
-      <rect class="st0" x="113.8" y="175.6" width="60.3" height="26.1"/>
-    </clipPath>
-    <clipPath id="clippath-11">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-12">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-13">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-14">
-      <rect class="st0" x="0" y="139.8" width="26.3" height="103.9"/>
-    </clipPath>
-    <clipPath id="clippath-15">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-16">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-17">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-18">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-19">
-      <rect class="st0" x="36.6" y="139.8" width="62.3" height="65.6"/>
-    </clipPath>
-    <clipPath id="clippath-20">
-      <rect class="st0" x="0" y="139.8" width="267" height="104.2"/>
-    </clipPath>
-    <clipPath id="clippath-21">
       <path class="st0" d="M0,14.6v74C0,95.2,4.5,101,10.9,102.7l25.8,6.8c1.2.3,2.4.5,3.7.5,8,0,14.6-6.5,14.6-14.6V21.3c0-6.6-4.5-12.4-10.9-14.1L18.3.5C17.1.2,15.8,0,14.6,0,6.5,0,0,6.5,0,14.6M104.7.5l-25.8,6.8c-6.4,1.7-10.9,7.5-10.9,14.1v74c0,1.2.2,2.5.5,3.7,2,7.8,10,12.4,17.8,10.4l25.8-6.8c6.4-1.7,10.9-7.5,10.9-14.1V14.6c0-1.2-.2-2.5-.5-3.7C120.8,4.3,114.9,0,108.4,0s-2.5.2-3.7.5"/>
     </clipPath>
     <radialGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" cx="-366.6" cy="618.3" fx="-366.6" fy="618.3" r=".9" gradientTransform="translate(81529 48279.1) rotate(90) scale(131.8)" gradientUnits="userSpaceOnUse">
@@ -194,70 +136,140 @@
       <stop offset=".5" stop-color="#eaacb8"/>
       <stop offset="1" stop-color="#7acbf5"/>
     </radialGradient>
+    <clipPath id="clippath-1">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st0" x="194.8" y="182.4" width="65.5" height="24.9"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="st0" x="130.9" y="207.8" width="28.4" height="28.4"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <path class="st0" d="M131.1,221.9c0,7.7,6.3,14,14,14s14-6.3,14-14-6.3-14-14-14-14,6.3-14,14"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="st0" x="113.8" y="175.6" width="60.3" height="26.1"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="st0" y="139.8" width="26.3" height="103.9"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="st0" x="36.6" y="139.8" width="62.3" height="65.6"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="st0" y="139.8" width="267" height="104.2"/>
+    </clipPath>
   </defs>
+  <g class="st29">
+    <rect class="st4" x="-21.3" y="-27.2" width="165.6" height="165.9" transform="translate(-21.3 61.7) rotate(-46.3)"/>
+  </g>
   <g class="st6">
-    <g class="st28">
+    <g class="st20">
       <path class="st2" d="M253.1,164.8h-50.1c-7.4,0-13.3-5.6-13.3-12.5s5.9-12.5,13.3-12.5h50.1c7.3,0,13.3,5.6,13.3,12.5s-6,12.5-13.3,12.5"/>
     </g>
-    <g class="st19">
-      <g class="st22">
-        <path class="st2" d="M248.9,207.3h-42.8c-6.3,0-11.4-5.6-11.4-12.5s5.1-12.5,11.4-12.5h42.8c6.3,0,11.4,5.6,11.4,12.5s-5.1,12.5-11.4,12.5"/>
+    <g class="st5">
+      <g class="st23">
+        <g class="st21">
+          <g class="st22">
+            <path class="st2" d="M248.9,207.3h-42.8c-6.3,0-11.4-5.6-11.4-12.5s5.1-12.5,11.4-12.5h42.8c6.3,0,11.4,5.6,11.4,12.5s-5.1,12.5-11.4,12.5"/>
+          </g>
+        </g>
       </g>
     </g>
-    <g class="st20">
+    <g class="st28">
       <path class="st2" d="M189.7,230.7v-76.8c0-7.2,5.9-13,13.2-13s13.2,5.8,13.2,13v76.8c0,7.2-5.9,13-13.2,13s-13.2-5.8-13.2-13"/>
     </g>
-    <g class="st21">
-      <g class="st27">
-        <g class="st24">
+    <g class="st25">
+      <g class="st24">
+        <g class="st27">
           <path class="st3" d="M143.8,155.6c7,0,12.6,5.6,12.6,12.6v54.6c0,7-5.6,12.6-12.6,12.6s-12.6-5.6-12.6-12.6v-54.6c0-7,5.6-12.6,12.6-12.6"/>
         </g>
-        <g class="st23">
+        <g class="st26">
           <path class="st3" d="M131.2,224.6c0-6.3,6.1-11.4,13.7-11.4h8.1c7.6,0,13.7,5.1,13.7,11.4s-6.1,11.4-13.7,11.4h-8.1c-7.6,0-13.7-5.1-13.7-11.4"/>
         </g>
       </g>
     </g>
-    <g class="st26">
+    <g class="st12">
       <path class="st3" d="M132.4,223.1c.7-6.4,7.6-10.9,15.3-10l8.2.9c7.7.9,13.4,6.8,12.6,13.2-.7,6.4-7.6,10.9-15.3,10l-8.2-.9c-7.7-.9-13.4-6.8-12.6-13.2"/>
     </g>
     <g class="st5">
-      <g class="st25">
-        <g class="st12">
-          <g class="st9">
+      <g class="st9">
+        <g class="st16">
+          <g class="st14">
             <path class="st3" d="M126.9,175.6h34.2c7.2,0,13.1,5.9,13.1,13.1s-5.9,13.1-13.1,13.1h-34.2c-7.2,0-13.1-5.9-13.1-13.1s5.9-13.1,13.1-13.1"/>
           </g>
         </g>
       </g>
     </g>
-    <g class="st16">
+    <g class="st15">
       <path class="st3" d="M144.1,152.4c7.2,0,13,5.8,13,13v55.9c0,7.2-5.8,13-13,13s-13-5.8-13-13v-55.9c0-7.2,5.8-13,13-13Z"/>
     </g>
     <g class="st5">
-      <g class="st14">
-        <g class="st15">
-          <g class="st13">
-            <path class="st1" d="M13.2,139.8c7.3,0,13.2,5.9,13.2,13.2v77.6c0,7.3-5.9,13.2-13.2,13.2S0,237.8,0,230.5v-77.6C0,145.7,5.9,139.8,13.2,139.8"/>
+      <g class="st13">
+        <g class="st10">
+          <g class="st7">
+            <path class="st1" d="M13.2,139.8c7.3,0,13.2,5.9,13.2,13.2v77.6c0,7.3-5.9,13.2-13.2,13.2s-13.2-5.9-13.2-13.2v-77.6c0-7.3,5.9-13.2,13.2-13.2"/>
           </g>
         </g>
       </g>
     </g>
-    <g class="st10">
+    <g class="st11">
       <path class="st1" d="M58.2,202c5-4.4,5.4-12.1,1-17.1l-36.1-40.6c-4.8-5.4-12.9-6.1-18.6-1.6-.2.2-.4.3-.5.5-5,4.4-5.4,12.1-1,17.1l36.1,40.6c4.8,5.4,12.9,6.1,18.6,1.6.2-.2.4-.3.5-.5"/>
     </g>
-    <g class="st7">
+    <g class="st8">
       <path class="st1" d="M85.7,139.8c-7.3,0-13.2,5.9-13.2,13.2v77.6c0,7.3,5.9,13.2,13.2,13.2s13.2-5.9,13.2-13.2v-77.6c0-7.3-5.9-13.2-13.2-13.2"/>
     </g>
     <g class="st5">
-      <g class="st11">
-        <g class="st8">
-          <g class="st17">
+      <g class="st17">
+        <g class="st18">
+          <g class="st19">
             <path class="st1" d="M40.6,202c-5-4.4-5.4-12.1-1-17.1l36.1-40.6c4.8-5.4,12.9-6.1,18.6-1.6.2.2.4.3.5.5,5,4.4,5.4,12.1,1,17.1l-36.1,40.6c-4.8,5.4-12.9,6.1-18.6,1.6-.2-.2-.4-.3-.5-.5"/>
           </g>
         </g>
       </g>
     </g>
-  </g>
-  <g class="st18">
-    <rect class="st4" x="-21.3" y="-27.2" width="165.6" height="165.9" transform="translate(-21.3 61.7) rotate(-46.3)"/>
   </g>
 </svg>
