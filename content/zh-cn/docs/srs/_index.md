@@ -14,6 +14,6 @@ collapsible: true
 
 但是在大陆的习惯性语境下，大部分人仍然通常将性别肯定手术/性别重置手术等同于跨性别相关的生殖器区域手术。为了方便条目的分类索引，我们将性别肯定手术的内容按手术部位分为数个版块，该板块下的条目用于专门记录跨性别相关的生殖器区域手术。
 
-[^1]: 性别重置技术临床应用管理规范（2022 年版）<https://github.com/project-trans/legal-spec/blob/main/SRS/README.md>
+[^1]: 性别重置技术临床应用管理规范（2022 年版）<https://project-trans.org/china-legal/spec/2022-04-20/srs/readme>
 [^2]: 跨性别和多元性别人群健康照护指南第八版 第十三章 手术及术后护理 <https://project-trans.org/SOC-8/soc8cn/section13>
 [^3]: 跨性别和多元性别人群健康照护指南第八版 附录E 性别肯定手术干预 <https://project-trans.org/SOC-8/soc8cn/appendixE>
