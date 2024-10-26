@@ -8,16 +8,13 @@ slug: overview
 
 {{< meme/baidu-hrt >}}
 
-**性别肯定激素治疗（GAHT，传统上称“跨性别激素替代治疗”即 HRT）**，是肯定跨性别者性别认同的一种卫生保健服务，旨在调整跨性别者体内的激素状态，使之符合其性别认同，并使得身体特征与其性别表达和他人对该性别的普遍印象相符，有助于改善其生活质量和精神状态[^1] [^4]。尽管激素治疗不是跨性别者的必选项，但对有需求的跨性别者来说，激素治疗是缓解性别不安，接纳和认可自我必要的医疗介入。
+**性别肯定激素治疗（GAHT，传统上称“跨性别激素替代治疗”即 HRT）**，是一种激素治疗。其被认为是肯定跨性别者性别认同的一种卫生保健服务，旨在调整跨性别者体内的激素状态，使之符合其性别认同，并使得身体特征与其性别表达和他人对该性别的普遍印象相符，有助于改善其生活质量和精神状态[^1] [^4]。尽管激素治疗不是跨性别者的必选项，但对有需求的跨性别者来说，激素治疗是缓解性别不安，接纳和认可自我必要的医疗介入。
 
 目前的研究表明，在专业医生的指导和风险把控下进行激素治疗是安全的[^2]。[联合国人权高专办](https://www.ohchr.org/zh) 发起的自由平等倡议（[UN Free &amp; Equal](https://www.unfe.org)）和国际文件《{{< wiki 日惹原则 >}}》（[The Yogyakarta Principles](https://yogyakartaprinciples.org)）都呼吁各国提供与性别肯定相关的卫生保健服务，保障跨性别者的人权。
-
-我国的法律政策虽未明确提及性别肯定激素治疗的概念，但有多个条款提到不同性别应享有同等权利、禁止基于性别的歧视[^3]。然而，针对性别肯定激素治疗的政策支持和医疗服务的缺乏，是导致跨性别者缺乏专业医生指导，增加身体健康风险，以及造成焦虑和抑郁的重要原因；因此，建立正规的激素治疗体系就具有重要的现实意义[^4] [^100]。
 
 {{< notice warning "请根据自身情况进行" >}}
 虽然随着医学领域日益发展成熟，越来越多的跨性别者选择了进行激素和手术治疗，但是这只是这些治疗选项的其中之一。虽然由于「{{< wiki 幸存者偏差 >}}」效应的存在，经激素治疗、手术治疗的跨性别者在我们的视野之内会更加明显，但不能否认的是，有的人并不需要激素转变，有的则完全无需转变；**需先明确自己的实际需求，切忌盲目跟风**。
 {{< /notice >}}
-
 
 ## 注意事项
 
@@ -78,7 +75,7 @@ slug: overview
 {{< /notice >}}
 
 - SRS 后，人体激素状态与绝经后或切除卵巢的女性相当[^5] [^19]；不能停止雌激素的使用，否则会出现更年期症状、骨质疏松等[^16]。
-- 动物实验表明，雌激素会抑制下丘脑—垂体—性腺轴（HPG 轴）功能，使精原细胞和精母细胞数目减少，从而对雄性生育力造成一定损伤[^10] [^11]。  
+- 动物实验表明，雌激素会抑制下丘脑—垂体—性腺轴（HPG 轴）功能，使精原细胞和精母细胞数目减少，从而对雄性生育力造成一定损伤[^10] [^11]。
   对于人类，未切除性腺的情况下，长期使用雌激素后性功能减弱、生育力下降[^18]，停药后数月内性功能和精子形成有一定恢复；已有关于 MtF 进行生育力保存的研究，其中停用激素 3～6 个月后的群体有约 24% 恢复正常精子生成，但精子量中位数不及从未治疗者，而未停药时精子量较未治疗者减少 95% 以上[^12] [^13]。
 - 口服雌激素，尤其是合成雌激素，会提高**血栓**风险；其中，合成雌激素（常见于避孕药）的长期副作用如血栓等的风险远大于天然雌二醇，故不适用于 GAHT（见[用药风险]({{< ref "risk#blood-clots-risk" >}})）[^4] [^14]。合成雌激素药物有：
   - 炔雌醇（Ethinylestradiol）及含炔雌醇复方药，包括“达英-35”（Diane-35；但允许临时替代），“优思明”和“{{< wiki 妈富隆 >}}”等。
@@ -159,15 +156,15 @@ slug: overview
 - [HRT.Cafe](https://hrtcafe.net/)（英语）
 - [DIY HRT](https://diyhrt.wiki)（英语）
 - [DIY HRT (frama)](https://diyhrt.frama.io)（英语）
-- [雌激素](https://en.wikipedia.org/wiki/Estrogen)（英语）  
-  [女性化激素疗法](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)（英语）  
+- [雌激素](https://en.wikipedia.org/wiki/Estrogen)（英语）
+  [女性化激素疗法](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy)（英语）
   [高剂量雌激素 (HDE)](https://en.wikipedia.org/wiki/High-dose_estrogen)（英语）
-- [雌二醇](https://en.wikipedia.org/wiki/Estradiol)（英语）  
-  [雌二醇（药物）](https://en.wikipedia.org/wiki/Estradiol_%28medication%29)（英语）  
-  [雌二醇的药效学](https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol)（英语）  
+- [雌二醇](https://en.wikipedia.org/wiki/Estradiol)（英语）
+  [雌二醇（药物）](https://en.wikipedia.org/wiki/Estradiol_%28medication%29)（英语）
+  [雌二醇的药效学](https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol)（英语）
   [雌二醇的药代动力学](https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol)（英语）
-- [醋酸环丙孕酮](https://en.wikipedia.org/wiki/Cyproterone_acetate)（英语）  
-  [醋酸环丙孕酮的副作用](https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate)（英语）  
+- [醋酸环丙孕酮](https://en.wikipedia.org/wiki/Cyproterone_acetate)（英语）
+  [醋酸环丙孕酮的副作用](https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate)（英语）
   [醋酸环丙孕酮的药理](https://en.wikipedia.org/wiki/Pharmacology_of_cyproterone_acetate)（英语）
 - [螺内酯](https://en.wikipedia.org/wiki/Spironolactone)（英语）
 
