@@ -95,8 +95,8 @@ slug: overview
   - [GnRH 類似物]({{< ref "gnrha" >}})（一般用於青春期阻斷）
   - 高濃度雌二醇單方治療
 - 受體拮抗
-  - [螺內酯片]({{< ref "spironolactone" >}})（Spironolactone；略不推薦）
-  - [可蘇多]({{< ref "bicalutamide" >}})（比卡魯胺，Bicalutamide）
+  - [螺內酯片]({{< ref "spironolactone" >}})（Spironolactone） {{< tag/neg "略不推薦" >}}
+  - [可蘇多]({{< ref "bicalutamide" >}})（比卡魯胺，Bicalutamide） {{< tag/neg "不推薦常規應用" >}}
 
 此外，理論上任何人工黃體素製劑均可作為替代，但臨床上缺乏用於跨性別者的經驗或記載，副作用可能更為嚴重，或者成本較高；其餘受體拮抗劑（如氟他胺）亦然[^5]。
 
