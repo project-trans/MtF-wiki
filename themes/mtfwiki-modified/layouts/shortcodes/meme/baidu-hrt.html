@@ -1,4 +1,4 @@
-{{- $custom_style := resources.Get "baidu-hrt.scss" | resources.ToCSS | resources.Minify -}}
+{{- $custom_style := resources.Get "baidu-hrt.scss" | css.Sass | resources.Minify -}}
 <link rel="stylesheet" href="{{ $custom_style.RelPermalink }}">
 <div class="baidu-hrt">
   <div class="op_dict_content">
