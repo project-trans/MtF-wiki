@@ -111,3 +111,11 @@ function tableMerge(rows) {
   }
   refs.clear()
 }
+
+// #turn grey on 20th november
+document.addEventListener("DOMContentLoaded", () => {
+  const today = new Date();
+  if (today.getMonth() === 10 && today.getDate() === 20) {
+    document.body.style.filter = 'grayscale(1)';
+  }
+});
