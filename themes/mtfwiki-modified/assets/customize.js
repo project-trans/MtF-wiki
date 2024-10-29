@@ -9,7 +9,7 @@
     const navbar = document.querySelector(".navbar__wrapper");
     const element = document.querySelector(decodeURIComponent(location.hash));
     const rect = element.getBoundingClientRect();
-    const marginTop = Number.parseInt(getComputedStyle(element).marginTop, 10)
+    const marginTop = Number.parseInt(getComputedStyle(element).marginTop, 10);
     scrollTo({
       top: rect.top + scrollY - marginTop - navbar.clientHeight,
       behavior: "smooth",
@@ -74,48 +74,48 @@ document.addEventListener(
 
 // #endregion
 
-document.querySelectorAll('table').forEach((table) => {
-  if (table.hasAttribute('merge')) tableMerge(table.rows)
-})
+document.querySelectorAll("table").forEach((table) => {
+  if (table.hasAttribute("merge")) tableMerge(table.rows);
+});
 
 function tableMerge(rows) {
-  const refs = new Map()
+  const refs = new Map();
   // Merge cells in a *column* first.
   for (let cellIndex = 0; cellIndex < rows[0].cells.length; cellIndex++) {
     for (let rowIndex = 1; rowIndex < rows.length; rowIndex++) {
-      const cell = rows[rowIndex].cells[cellIndex]
-      const prevCell = rows[rowIndex - 1].cells[cellIndex]
-      if (cell.innerHTML !== prevCell.innerHTML) continue
-      const mergedTo = refs.get(prevCell) || prevCell
-      refs.set(cell, mergedTo)
-      mergedTo.rowSpan += cell.rowSpan
-      cell.hidden = true
+      const cell = rows[rowIndex].cells[cellIndex];
+      const prevCell = rows[rowIndex - 1].cells[cellIndex];
+      if (cell.innerHTML !== prevCell.innerHTML) continue;
+      const mergedTo = refs.get(prevCell) || prevCell;
+      refs.set(cell, mergedTo);
+      mergedTo.rowSpan += cell.rowSpan;
+      cell.hidden = true;
     }
   }
   // Merge cells in a *row* then.
   for (const row of rows) {
     for (let cellIndex = 1; cellIndex < row.cells.length; cellIndex++) {
-      const cell = row.cells[cellIndex]
-      const prevCell = row.cells[cellIndex - 1]
-      if (refs.has(cell) || refs.has(prevCell)) continue
-      if (cell.innerHTML !== prevCell.innerHTML) continue
-      const mergedTo = refs.get(prevCell) || prevCell
-      if (cell.rowSpan !== mergedTo.rowSpan) continue
-      mergedTo.colSpan += cell.colSpan
-      refs.set(cell, mergedTo)
-      cell.hidden = true
+      const cell = row.cells[cellIndex];
+      const prevCell = row.cells[cellIndex - 1];
+      if (refs.has(cell) || refs.has(prevCell)) continue;
+      if (cell.innerHTML !== prevCell.innerHTML) continue;
+      const mergedTo = refs.get(prevCell) || prevCell;
+      if (cell.rowSpan !== mergedTo.rowSpan) continue;
+      mergedTo.colSpan += cell.colSpan;
+      refs.set(cell, mergedTo);
+      cell.hidden = true;
     }
   }
   for (const cell of refs.keys()) {
-    cell.remove()
+    cell.remove();
   }
-  refs.clear()
+  refs.clear();
 }
 
 // #turn grey on 20th november
 document.addEventListener("DOMContentLoaded", () => {
   const today = new Date();
   if (today.getMonth() === 10 && today.getDate() === 20) {
-    document.body.style.filter = 'grayscale(1)';
+    document.body.classList.add("memorial");
   }
 });

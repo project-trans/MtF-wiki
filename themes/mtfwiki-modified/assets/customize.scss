@@ -40,7 +40,8 @@ a.github-profile {
   th {
     text-align: center;
   }
-  th, td {
+  th,
+  td {
     min-width: 9ch;
   }
 }
@@ -230,16 +231,24 @@ div.hidden-photo {
 div.watermark {
   display: grid;
 }
-div.watermark>img{
+div.watermark > img {
   grid-area: 1 / 1;
 }
 div.watermark::after {
   grid-area: 1 / 1;
-  content: '仅供参考，勿作他用';
-  color: #0000FF;
+  content: "仅供参考，勿作他用";
+  color: #0000ff;
   font-size: 50px;
   text-align: center;
   align-self: center;
   opacity: 0.3;
   transform: rotate(-45deg);
+}
+
+.memorial {
+  .home__landing,
+  .navbar,
+  .footer{
+    filter: grayscale(100%);
+  }
 }
