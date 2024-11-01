@@ -10,7 +10,10 @@ copyright = "<img src='/new/mtf-wiki-long.svg' style='height:1em;display:inline;
 timeout = "1m"
 enableEmoji = true
 enableRobotsTXT = true
-paginate = 13
+
+[pagination]
+pagerSize = 13
+
 rssLimit = 100
 
 googleAnalytics = ""
