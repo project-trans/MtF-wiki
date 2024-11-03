@@ -41,7 +41,7 @@ title: 西澳大学 UWA / University of Western Australia
 注意，默认情况下开具的是补佳乐类似物，需要凝胶/贴片请主动和医生说。  
 
 **处方样例：**
-![处方样例](https://github.com/Baizhi-Angelica/MtF-wiki-20240710/assets/52900290/15f48247-07b7-41ea-9ec9-13543a60268f)
+![处方样例](prescription.jpg)
 
 ## 药房
 在澳大利亚获取处方以后可以前往药房购买你的药品，但是需要凭借处方单原件。而且原件以及购买后的黄色单子需要保存好，这样才能重复购买。  
@@ -52,7 +52,7 @@ title: 西澳大学 UWA / University of Western Australia
 通常你的OSHC保险有一个免赔额，超过免赔额的费用是可以报销的。题主购买两盒的情况下，可以报销超过免赔额30以上的全部费用，年限额1000。这取决于你的保险公司以及项目类别不同有所不同。  
 
 **开具的贴片:**
-![开具的贴片](https://github.com/Baizhi-Angelica/MtF-wiki-20240710/assets/52900290/c720e605-cf57-47fc-aca4-938d9cafcdc1)
+![开具的贴片](medication.jpg)
 
 
 ## 相关文档
