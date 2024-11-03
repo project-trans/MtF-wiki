@@ -1,0 +1,51 @@
+name: Preview PR Build
+
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - '.github/workflows/deploy.yml'
+      - 'content/**'
+      - 'config/**'
+      - 'static/**'
+      - 'themes/**'
+      - 'package.json'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: true
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install npm dependencies
+        run: npm install
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+
+      - name: Build site
+        run: hugo --minify --enableGitInfo --baseURL "/"
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        id: deploy
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
+          projectName: mtfwiki
+          directory: public
