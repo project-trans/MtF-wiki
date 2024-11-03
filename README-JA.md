@@ -29,7 +29,7 @@
 
 本ウィキは当初、中国のトランスジェンダーの相互扶助と福祉のために設立されたものですが、後に日本用のページを開設したものですから、翻訳は全体的に未完成です（お許しください）。特に医療系の情報などについては、[中国版](https://mtf.wiki/zh-cn/)からの翻訳が多数必要ですから、もしお手伝いがご希望な場合、心より感謝いたします。
 
-翻訳含め、ご投稿は <hi@mtf.wiki> より、GitHub が使える方は[公式レポジトリ](https://github.com/project-trans/MtF-wiki) での PR でも構いません。翻訳やお住まいの地域のトランスに関する情報のご提供を、楽しみにしております。
+翻訳含め、ご投稿は <mtfwiki@project-trans.org> より、GitHub が使える方は[公式レポジトリ](https://github.com/project-trans/MtF-wiki) での PR でも構いません。翻訳やお住まいの地域のトランスに関する情報のご提供を、楽しみにしております。
 
 MtF.wiki へようこそ！ここは、トランスジェンダー女性、トランスフェミニンや女性的な性別移行をしている方にとって、ある種の助けになれるかもしれないようなウィキです。
 
@@ -71,7 +71,7 @@ MtF.wiki は、トランス関連の医療と生活情報が手に入れる、�
 
 ## 連絡先
 
-Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
+Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord) 日本語のチャンネルあり。
 
 Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwikiJapan)
 
