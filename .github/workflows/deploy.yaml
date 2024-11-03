@@ -1,4 +1,4 @@
-name: Preview PR Build
+name: 部署到 Cloudflare
 
 on:
   push:
