@@ -18,7 +18,7 @@ slug: overview
 
 ## 注意事项
 
-{{< alert theme=warning >}}
+{{< alert theme="danger" >}}
 **发现任何健康问题，请立即就医！**
 {{< /alert >}}
 
@@ -46,14 +46,18 @@ slug: overview
 - [针剂肌肉注射]({{< ref "injection" >}})
 - 皮下埋入
 
-{{< notice info "小提示" >}}
-根据 血清{{< wiki 雌二醇 >}}浓度，[补佳乐]({{< ref "estradiol-valerate" >}})/克龄蒙的效果比起其他几种要稍弱（同剂量下浓度少 25%），条件允许时宜考虑其它选项。[^7]
-{{< /notice >}}
+{{< alert theme="info" >}}
+**小提示**
+{{< /alert >}}
 
-{{< notice warning "关于高剂量雌二醇单药的说明" >}}
-[高剂量雌激素治疗](https://zh.wikipedia.org/wiki/高剂量雌激素治疗)要求*始终* 维持雌二醇水平在 200 pg/mL 以上，此时睾酮也将被充分抑制，但是过高的雌二醇水平可能会带来更高的血栓风险（尤其是针剂可能带来的过大的雌二醇水平浮动），因此使用该疗法前应充分权衡利弊；推荐使用**多个透皮贴片或针剂**（**不推荐**使用苯甲酸雌二醇针剂，详见《[针剂]({{< ref "injection" >}})》）[^5] [^8] [^9]。\
-由于生物利用度低，无论剂量有多高，口服途径、透皮凝胶途径皆**不适用**于高剂量雌二醇单方治疗，尤其是口服（见[用药风险]({{< ref "risk" >}})）[^5] [^8]。
-{{< /notice >}}
+- 由血清{{< wiki 雌二醇 >}}浓度检查结果来看，[补佳乐]({{< ref "estradiol-valerate" >}})/克龄蒙的效果比起其他几种要稍弱（同剂量下浓度少 25%），条件允许时宜考虑其它选项。[^7]
+
+{{< alert theme="warning" >}}
+**关于高剂量雌二醇单药的说明**
+{{< /alert >}}
+
+- [高剂量雌激素治疗](https://zh.wikipedia.org/wiki/高剂量雌激素治疗)要求*始终* 维持雌二醇水平在 200 pg/mL 以上，此时睾酮也将被充分抑制，但是过高的雌二醇水平可能会带来更高的血栓风险（尤其是针剂可能带来的过大的雌二醇水平浮动），因此使用该疗法前应充分权衡利弊；推荐使用**多个透皮贴片或针剂**（**不推荐**使用苯甲酸雌二醇针剂，详见《[针剂]({{< ref "injection" >}})》）[^5] [^8] [^9]。
+- 由于生物利用度低，无论剂量有多高，口服途径、透皮凝胶途径皆**不适用**于高剂量雌二醇单方治疗，尤其是口服（见[用药风险]({{< ref "risk" >}})）[^5] [^8]。
 
 ### 雌激素对 MtF 的作用 [^1] [^5]
 
@@ -164,6 +168,10 @@ slug: overview
   [醋酸环丙孕酮的副作用](https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate)（英语）
   [醋酸环丙孕酮的药理](https://en.wikipedia.org/wiki/Pharmacology_of_cyproterone_acetate)（英语）
 - [螺内酯](https://en.wikipedia.org/wiki/Spironolactone)（英语）
+
+{{< alert theme=info >}}
+{{< meme/onimai-zh >}}
+{{< /alert >}}
 
 [^1]: National LGBTQIA+ Health Education Center. Medical Care of Trans and Gender Diverse Adults [EB/OL]. *Fenway Institute*, 2021-07-13. <https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/>
 [^2]: Weinand J D, Safer J D. Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals [J]. *Journal of Clinical & Translational Endocrinology*, 2015, 2(2): 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>

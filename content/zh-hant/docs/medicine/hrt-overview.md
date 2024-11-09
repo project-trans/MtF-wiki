@@ -44,16 +44,18 @@ slug: overview
 - [針劑肌肉注射]({{< ref "injection" >}})
 - 皮下埋入
 
-{{< notice info "小貼士" >}}
-{{< /notice >}}
+{{< alert theme="info" >}}
+**小貼士**
+{{< /alert >}}
 
-根據 血清{{< wiki 雌二醇 >}}濃度，戊酸雌二醇錠的效果比起其他幾種要稍弱（同劑量下濃度少 25%），條件允許時宜考慮其它選項。[^7]
+- 由血清{{< wiki 雌二醇 >}}濃度檢查結果來看，[戊酸雌二醇錠]({{< ref "estradiol-valerate" >}})效果比起其他幾種要稍弱（同劑量下濃度少 25%），條件允許時宜考慮其它選項。[^7]
 
-{{< notice warning "關於高劑量雌二醇單藥之說明" >}}
-{{< /notice >}}
+{{< alert theme="warning" >}}
+**關於高劑量雌二醇單藥的說明**
+{{< /alert >}}
 
-[高劑量雌激素治療](https://en.wikipedia.org/wiki/High-dose_estrogen)要求*始終* 維持雌二醇水平在 200 pg/mL 以上，此時睪酮也將被充分抑制，但是過高的雌二醇水平可能會帶來更高的血栓風險（尤其是針劑可能帶來的過大的雌二醇水平浮動），因此使用該療法前應充分權衡利弊；推薦使用**多個透皮貼片或針劑**（**不推薦**使用苯甲酸雌二醇針劑，詳見《[針劑]({{< ref "injection" >}})》）[^5] [^8] [^9]。\
-由於生物利用度低，無論劑量有多高，口服途徑、透皮凝膠途徑皆**不適用**於高劑量雌二醇單方治療，尤其是口服（見[用藥風險]({{< ref "risk" >}})）[^5] [^8]。
+- [高劑量雌激素治療](https://en.wikipedia.org/wiki/High-dose_estrogen)要求*始終* 維持雌二醇水平在 200 pg/mL 以上，此時睪酮也將被充分抑制，但是過高的雌二醇水平可能會帶來更高的血栓風險（尤其是針劑可能帶來的過大的雌二醇水平浮動），因此使用該療法前應充分權衡利弊；推薦使用**多個透皮貼片或針劑**（**不推薦**使用苯甲酸雌二醇針劑，詳見《[針劑]({{< ref "injection" >}})》）[^5] [^8] [^9]。
+- 由於生物利用度低，無論劑量有多高，口服途徑、透皮凝膠途徑皆**不適用**於高劑量雌二醇單方治療，尤其是口服（見[用藥風險]({{< ref "risk" >}})）[^5] [^8]。
 
 #### 雌激素對 MtF 的作用 [^1] [^5]
 
@@ -148,6 +150,10 @@ _來源：北醫三院_
 - [HRT.Cafe](https://hrt.cafe)（英語）
 - [DIY HRT](https://diyhrt.wiki)（英語）
 - [DIY HRT (frama)](https://diyhrt.frama.io)（英語）
+
+{{< alert theme=info >}}
+{{< meme/onimai-zh >}}
+{{< /alert >}}
 
 [^1]: National LGBTQIA+ Health Education Center. (2021-07-13). Medical Care of Trans and Gender Diverse Adults. *Fenway Institute*. <https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/>
 [^2]: Weinand, J. D., Safer, J. D. (2015). Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals. *Journal of Clinical & Translational Endocrinology*, 2(2): 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>
