@@ -3,7 +3,7 @@ name: 部署到 Cloudflare
 on:
   push:
     branches:
-      - 'main'
+      - 'master'
     paths:
       - '.github/workflows/deploy.yaml'
       - 'content/**'
