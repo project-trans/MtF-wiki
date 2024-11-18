@@ -6,6 +6,7 @@ title: 贡献者指南
 
 1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "project-trans/mtf-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
 1. 发送邮件到 <mtfwiki@project-trans.org>
+1. 直接在每个页面下方的意见反馈中投递
 
 ## 基本原则 {#basic-principle}
 
