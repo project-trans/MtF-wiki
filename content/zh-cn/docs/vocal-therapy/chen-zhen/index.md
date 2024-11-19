@@ -12,11 +12,7 @@ title: 上海市长宁区精神卫生中心｜陈臻
 
 所属医院：[上海市长宁区精神卫生中心](https://amap.com/place/B00156YKF5)
 
-好大夫二维码：
-
-```qrcode
-http://weixin.qq.com/q/02yGYFklBxcwm10000g07l
-```
+好大夫页面：<https://www.haodf.com/doctor/6070455513.html>
 
 首次问诊需要通过「电话咨询」或微信视频的方式进行，以便于确定是否用于需要“面诊”
 
