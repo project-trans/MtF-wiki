@@ -110,7 +110,6 @@ weight: 600
 江苏省,[《江苏省常住户口登记管理规定》](https://zh.wikisource.org/wiki/%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%99%BB%E8%AE%B0%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A),第一百三十九条,
 浙江省,[《浙江省常住户口登记管理规定》](https://www.zj.gov.cn/zjservice/item/detail/lawtext.do?outLawId=d85c2ba4-5e0b-4039-8991-2143230de3fc),第七十七条,
 福建省,[《福建省户口居民身份证管理工作规定》](https://gat.fujian.gov.cn/zfxxgk/zfxxgkml/gfxwjml/xxyx/202111/t20211117_5775583.htm),第一百四十九条,
-成都市,,,学生集体户口可能无法变更姓名
 ```
 
 <!-- 云南省,[《云南省公安机关户籍业务服务指南》](http://weixi.diqing.gov.cn/zfxxgk_weixi_gaj/zhengcewenjian/gfxwjgk/xxgfxwj/xxgfxwjk/202101/20210101_159792.html),第三十二条, -->
