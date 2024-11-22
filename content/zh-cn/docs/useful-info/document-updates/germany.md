@@ -5,21 +5,24 @@ weight: 10100
 
 ## 证件修改程序
 
-目前，德国 self-ID 法案[^2]已通过。同时，按照现行程序，只有德国公民、持有永久居留许可的个体、以及难民能够更改证件上的性别标识[^1]。也就是说，如果您只是在德国学习，则无法修改证件的性别标记。值得注意的是，提交司法申请与医疗程序无关，获取激素治疗或进行手术依然需要遵循相关流程。
+2024 年 11 月 1 日，德国 self-ID 法案[^2]已通过。按照现行程序，只有：
+
+- 德国公民
+- 或 持有永久居留许可
+- 或 拥有可续签的非永久居留许可且合法居留
+- 或 拥有欧盟蓝卡的个体
+
+能够更改证件上的性别标识[^1] 至「男性、女性、多元化、无」其中之一。
+
+值得注意的是，提交司法申请与医疗程序无关，获取激素治疗或进行手术依然需要遵循相关流程。
 
 对于符合条件的个体，根据 [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/queerpolitik-und-geschlechtliche-vielfalt/gesetz-ueber-die-selbstbestimmung-in-bezug-auf-den-geschlechtseintrag-sbgg--199332)，更改性别标记的流程如下：
 
-根据德国《性别登记自我认定法》（Selbstbestimmungsgesetz, SBGG），要修改性别标记和姓名的具体流程如下：
-
 1. 在正式提交声明前，申请者必须在三个月前向户籍登记处进行口头或书面通知。如果在通知后的六个月内未提交正式声明，原通知将失效，必须重新开始该过程。
-1. 个人需要向户籍登记处提交正式声明，表明其希望更改性别标记。
-   - 这一声明必须包括个人确认所选择的性别标记或性别标记的取消最能反映其性别认同。此外，声明中还需确认个人了解此决定所带来的法律后果。
-   - 在声明中还需确定其希望今后使用的姓名。而且所选择的姓名应与所选择的性别标记一致。如果之前使用的姓名已经与新选择的性别标记一致，可以选择保留原姓名。
-1. 在三个月的等待期结束后，如果声明未被撤回，则变更将立即生效。此时，性别标记和姓名的更改将正式记录在案，并相应更新所有相关的官方文件。
+2. 个人需要向户籍登记处提交正式声明，表明其希望更改性别标记。
+3. 在三个月的等待期结束后，如果声明未被撤回，则变更将立即生效。此时，性别标记和姓名的更改将正式记录在案，并相应更新所有相关的官方文件（即原身份证件失效，需重新申请）。相关的证书可向颁发机构申请更新。
 
-关于未成年人：
-- 对于14岁以下的未成年人，法定监护人必须代表他们提交更改声明，且需在提交声明时获得未成年人的同意（如果未成年人已满5岁）。声明还必须在未成年人在场的情况下提交。
-- 14岁及以上的未成年人可以自行提交声明，但仍需得到法定监护人的同意。如果监护人不同意，可以通过家庭法院进行裁决，裁决的标准是以未成年人的利益为重。
+对于 14 岁以下的未成年人，变更需本人在场、声明且由法定监护人代为提交。对于 14 岁及以上的未成年人，变更可自行提交，但仍需法定监护人的同意。具体细节请参阅 SBGG 文本。
 
 ## dgti 补充身份证明
 
@@ -27,7 +30,7 @@ weight: 10100
 
 ## 致谢
 
-本文由 [Arts Suraimu 史莱姆](https://t.me/artssuraimu) 贡献。内容整理自史莱姆的直播，已获得授权。录播内容可以在以下平台观看： [Youtube](https://www.youtube.com/watch?v=QWJM5D8MeuE), [Bilibili](https://www.bilibili.com/video/BV1Vk4y1U7Bd).
+本文整理自 [Arts Suraimu 史莱姆](https://t.me/artssuraimu) 的直播，已获得授权。录播内容可以在以下平台观看： [Youtube](https://www.youtube.com/watch?v=QWJM5D8MeuE), [Bilibili](https://www.bilibili.com/video/BV1Vk4y1U7Bd).
 
-[^1]: https://www.gesetze-im-internet.de/tsg/BJNR016540980.html
-[^2]: https://en.wikipedia.org/wiki/Self-Determination_Act_(Germany)
+[^1]: <https://www.gesetze-im-internet.de/tsg/BJNR016540980.html>
+[^2]: <https://en.wikipedia.org/wiki/Self-Determination_Act_(Germany)>
