@@ -7,7 +7,7 @@ weight: 10100
 
 2024 年 11 月 1 日，德国 Self-ID 法案已生效。根据 [SBGG §1](https://www.gesetze-im-internet.de/sbgg/__1.html) 其适用于：
 
-- 有永久居留权
+- 有 永久居留权
 - 或 拥有可续签的非永久居留许可且合法居留
 - 或 拥有欧盟蓝卡的个体
 
