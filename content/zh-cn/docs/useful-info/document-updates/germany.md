@@ -11,7 +11,7 @@ weight: 10100
 - 或 拥有可续签的非永久居留许可且合法居留
 - 或 拥有欧盟蓝卡的个体
 
-能够更改证件上的性别标识 至「男性、女性、多元化、无」其中之一。
+能够更改证件上的性别标识至「男性、女性、多元化、无」其中之一。
 
 正式版法案已替换了 SBGG 草案，即 [Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)](https://www.gesetze-im-internet.de/sbgg/) 扩大了适用范围、简化了自我声明的要求、确认了对证件（身份证护照）立即申请更新的义务、确认了其它证件是可以被更新的、确认了之前获得的证书可以向颁发机构申请更新。**建议阅读原文以获取最新信息，同时，[SBGG FAQ](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/queerpolitik-und-geschlechtliche-vielfalt/gesetz-ueber-die-selbstbestimmung-in-bezug-auf-den-geschlechtseintrag-sbgg--199332) 也对常见问题作了回答，可以快速查阅。**
 
