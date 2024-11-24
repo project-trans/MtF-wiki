@@ -18,6 +18,8 @@ title: Kamol
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
+中国籍员工：{{< shields/wechat "amtflkx" >}}
+
 ## 医疗中介
 
 这里的微信均为中文中介，均不为医院在职员工，[点击前往相关讨论页面](https://github.com/project-trans/MtF-wiki/issues/760)。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院，目前已知的中文员工为 Baifern<sup>2023-10-08</sup>。
@@ -68,12 +70,10 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 手术费用不包括：
 
 1. 实验室检查费用：
-   价格：{{< currency 5600 THB >}}
+   价格：{{< currency 5300 THB >}}
    检查项目：CBC、电解质、HIV、HBV、HCV、EKG、胸部 X 光片等
 1. 两位泰国精神科医生的证明：
    价格：{{< currency 4000 THB >}}
-1. 核酸检测费用（似乎已经不要求）：
-   价格：{{< currency 5900 THB >}}
 
 ## 手术介绍
 
