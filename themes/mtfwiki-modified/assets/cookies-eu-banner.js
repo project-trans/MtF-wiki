@@ -84,22 +84,26 @@ SOFTWARE.
           ? dnt && dnt !== "yes" && dnt !== 1 && dnt !== "1"
           : true;
 
+      var isShow = null;
+
       // Do nothing if it is a bot
       // If DoNotTrack is activated, do nothing too
       if (isBot || !isToTrack || this.hasConsent() === false) {
         this.removeBanner(0);
-        return false;
+        isShow = false;
       }
 
       // User has already consent to use cookies to tracking
-      if (this.hasConsent() === true) {
+      if (isShow === null && this.hasConsent() === true) {
         // Launch user custom function
         this.launchFunction();
-        return true;
+        isShow = false;
+      } else {
+        isShow = true;
       }
 
       // If it's not a bot, no DoNotTrack and not already accept, so show banner
-      this.showBanner();
+      this.showBanner(isShow);
 
       if (!this.waitAccept) {
         // Accept cookies by default for the next page
@@ -110,7 +114,7 @@ SOFTWARE.
     /*
      * Show banner at the top of the page
      */
-    showBanner: function () {
+    showBanner: function (isShow) {
       var _this = this,
         getElementById = document.getElementById.bind(document),
         banner = getElementById("cookies-eu-banner"),
@@ -125,6 +129,12 @@ SOFTWARE.
         addClickListener = this.addClickListener,
         removeBanner = _this.removeBanner.bind(_this, waitRemove);
 
+      banner.className = isShow
+        ? "cookies-eu-banner-fixed"
+        : "cookies-eu-banner-remove";
+
+      if (rejectButton) rejectButton.style.visibility = isShow ? "visible" : "hidden";
+      if (acceptButton) acceptButton.style.visibility = isShow ? "visible" : "hidden";
       banner.style.display = "block";
 
       if (moreLink) {
@@ -195,7 +205,7 @@ SOFTWARE.
      */
     hasConsent: function () {
       var cookieName = this.cookieName;
-      if(this.useLocalStorage){
+      if (this.useLocalStorage) {
         return this.getWithExpiry(cookieName);
       }
       var isCookieSetTo = function (value) {
@@ -254,11 +264,17 @@ SOFTWARE.
      * to specify their own transition effects
      */
     removeBanner: function (wait) {
-      var banner = document.getElementById("cookies-eu-banner");
+      var getElementById = document.getElementById.bind(document);
+      var banner = getElementById("cookies-eu-banner");
       banner.classList.add("cookies-eu-banner--before-remove");
       setTimeout(function () {
         if (banner && banner.parentNode) {
-          banner.parentNode.removeChild(banner);
+          banner.className = "cookies-eu-banner-removed";
+
+          var rejectButton = getElementById("cookies-eu-reject");
+          var acceptButton = getElementById("cookies-eu-accept");
+          if (rejectButton) rejectButton.style.visibility = "hidden";
+          if (acceptButton) acceptButton.style.visibility = "hidden";
         }
       }, wait);
     },
@@ -267,26 +283,27 @@ SOFTWARE.
   return CookiesEuBanner;
 });
 
-window.document.addEventListener("DOMContentLoaded", function() {
+window.document.addEventListener("DOMContentLoaded", function () {
   const banner = window.document.createElement("div");
   banner.id = "cookies-eu-banner";
-  banner.style.display = "none"; // 默认隐藏
+  banner.style.display = "none";
 
-  const langCode = window.location.pathname.split('/')[1].toLowerCase(); // 获取路径的第一部分
+  const langCode = window.location.pathname.split("/")[1].toLowerCase(); // 获取路径的第一部分
   let contentText = null;
-  let button1=null;
-  let button2=null;
-  if(langCode==='zh-cn'){
-    contentText = "MtF.Wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。"
-    button1='免责声明';
-    button2='知道了';
+  let button1 = null;
+  let button2 = null;
+  if (langCode === "zh-cn") {
+    contentText =
+      "MtF.Wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。";
+    button1 = "免责声明";
+    button2 = "知道了";
+  } else if (langCode === "zh-hant") {
+    contentText =
+      "MtF.Wiki 的內容僅供參考，可能存在過時或不準確的信息，請謹慎甄別。";
+    button1 = "免責聲明";
+    button2 = "知道了";
   }
-  else if (langCode==='zh-hant'){
-    contentText = "MtF.Wiki 的內容僅供參考，可能存在過時或不準確的信息，請謹慎甄別。"
-    button1='免責聲明';
-    button2='知道了';
-  }
-  if(contentText!=null){
+  if (contentText != null) {
     banner.innerHTML = `
     ${contentText}
     <a href="/zh-cn/about/disclaimer/" id="cookies-eu-more">${button1}</a>
@@ -296,9 +313,6 @@ window.document.addEventListener("DOMContentLoaded", function() {
     // 将横幅添加到页面 body 的末尾
     window.document.body.appendChild(banner);
 
-    new CookiesEuBanner(function() {
-
-    }, true, true);
+    new CookiesEuBanner(function () {}, true, true);
   }
-
 });

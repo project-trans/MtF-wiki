@@ -24,17 +24,24 @@ SOFTWARE.
 
 */
 
+.cookies-eu-banner-remove {
+  display: block;
+}
+
+.cookies-eu-banner-fixed {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index:10;
+}
+
 #cookies-eu-banner {
   background: #444;
   color: #fff;
   padding: 6px;
   font-size: 13px;
   text-align: center;
-
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
 }
 #cookies-eu-more,
 #cookies-eu-accept,
