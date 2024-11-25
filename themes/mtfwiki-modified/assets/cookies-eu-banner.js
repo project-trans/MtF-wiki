@@ -286,12 +286,12 @@ window.document.addEventListener("DOMContentLoaded", function () {
   let button2 = null;
   if (langCode === "zh-cn") {
     contentText =
-      "MtF.Wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。";
+      "MtF.wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。";
     button1 = "免责声明";
     button2 = "知道了";
   } else if (langCode === "zh-hant") {
     contentText =
-      "MtF.Wiki 的內容僅供參考，可能存在過時或不準確的信息，請謹慎甄別。";
+      "MtF.wiki 的內容僅供參考，可能存在過時或不準確的信息，請謹慎甄別。";
     button1 = "免責聲明";
     button2 = "知道了";
   }
