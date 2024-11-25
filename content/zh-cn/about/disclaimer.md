@@ -39,4 +39,4 @@ MtF.wiki 中提及的任何机构、服务或产品相关内容仅供参考，�
 
 ## 其它
 
-如果您有任何疑问或需要帮助，请发送电子邮件到 <mtfwiki@project-trans.org>
+如果您有任何疑问或需要帮助，请联系 <mtfwiki@project-trans.org>
