@@ -89,7 +89,6 @@ SOFTWARE.
       // Do nothing if it is a bot
       // If DoNotTrack is activated, do nothing too
       if (isBot || !isToTrack || this.hasConsent() === false) {
-        this.removeBanner(0);
         isShow = false;
       }
 
@@ -136,12 +135,6 @@ SOFTWARE.
       if (rejectButton) rejectButton.style.visibility = isShow ? "visible" : "hidden";
       if (acceptButton) acceptButton.style.visibility = isShow ? "visible" : "hidden";
       banner.style.display = "block";
-
-      if (moreLink) {
-        addClickListener(moreLink, function () {
-          _this.deleteCookie(_this.cookieName);
-        });
-      }
 
       if (acceptButton) {
         addClickListener(acceptButton, function () {
@@ -266,7 +259,6 @@ SOFTWARE.
     removeBanner: function (wait) {
       var getElementById = document.getElementById.bind(document);
       var banner = getElementById("cookies-eu-banner");
-      banner.classList.add("cookies-eu-banner--before-remove");
       setTimeout(function () {
         if (banner && banner.parentNode) {
           banner.className = "cookies-eu-banner-removed";
