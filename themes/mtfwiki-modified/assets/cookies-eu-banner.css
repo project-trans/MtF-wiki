@@ -1,0 +1,78 @@
+/* modify from https://github.com/Alex-D/Cookies-EU-banner/blob/master/css/cookies-eu-banner.default.css
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Alexandre Demode
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+*/
+
+#cookies-eu-banner {
+  background: #444;
+  color: #fff;
+  padding: 6px;
+  font-size: 13px;
+  text-align: center;
+
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+#cookies-eu-more,
+#cookies-eu-accept,
+#cookies-eu-reject {
+  text-decoration: none;
+  background: #222;
+  color: #fff;
+  border: 1px solid #000;
+  cursor: pointer;
+  padding: 4px 7px;
+  margin: 2px 0;
+  font-size: 13px;
+  font-weight: bold;
+  transition: background 0.07s, color 0.07s, border-color 0.07s;
+}
+#cookies-eu-more:hover,
+#cookies-eu-more:focus,
+#cookies-eu-accept:hover,
+#cookies-eu-accept:focus {
+  background: #fff;
+  color: #222;
+}
+#cookies-eu-more {
+  margin-left: 7px;
+}
+
+#cookies-eu-reject {
+  background: none;
+  font-weight: normal;
+  color: #ccc;
+  cursor: pointer;
+  padding: 4px 7px;
+  margin: 2px 0;
+  border: 1px solid #666;
+}
+#cookies-eu-reject:hover,
+#cookies-eu-reject:focus {
+  border-color: #fff;
+  background: #222;
+  color: #fff;
+}
