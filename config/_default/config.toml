@@ -23,12 +23,14 @@ disableKinds = ["taxonomy"]
 [params]
 hostName = "https://mtf.wiki"
 custom_css = [
-  "customize.scss"
+  "customize.scss",
+  "cookies-eu-banner.css"
 ]
 custom_js = [
   "sweetalert.min.js",
   "qrcode.min.js",
-  "customize.js"
+  "customize.js",
+  "cookies-eu-banner.js"
 ]
 
 [markup]
