@@ -1,3 +1,7 @@
+---
+title: 悉尼 Sydney
+---
+
 ## 介绍
 
 悉尼对HRT非常友好，可以走概论提到的[informed consent](https://www.transhub.org.au/informed-consent)流程进行HRT，一般如果可以约到GP（家庭医生）的话，那么只需要等待第一次看GP的时间+复诊时间（一般不超过15-20天）即可获取HRT资源。如果约不到GP也可以走Endo（内分泌科医生）的流程，大概需要25-30天(和友跨GP，一定一定和诊所确认好医生友跨）。
