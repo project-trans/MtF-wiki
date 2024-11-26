@@ -20,9 +20,9 @@ title: 悉尼 Sydney
 
 [TransHub Doctor List](https://www.transhub.org.au/doctors)
 
-# 走GP进行informed consent的流程
+## 走GP进行informed consent的流程
 
-## 初诊
+### 初诊
 
 首先在[HotDoc](https://www.hotdoc.com.au/)上预约自己想看的医生，这里以Caran为例（因为我亲自去看过，基本流程不会差太多）。一般可以约到5-7天后的时间。如果你想bulk bill（医保全包），那你想多了……因为一般都不会open patient book或者排队时间超过6个月，完全不值得因此延误HRT。
 
@@ -34,11 +34,11 @@ title: 悉尼 Sydney
 
 **如果医生以非生理相关的理由在这里卡你，包括但不限于BMI，生殖能力保存，pass度，声音等，你可能被gatekeep了。建议不要再继续面诊，并更换医生。** 
 
-### 查血单样板
+#### 查血单样板
 
 ![blood test form](./bloodtest.png)
 
-## 复诊
+### 复诊
 
 拿到baseline结果后就可以去复诊了，可以打电话确定有没有拿到结果。记住：**如果没有拿到结果，去复诊也没用**，因为没有baseline level，开不了处方。
 
@@ -50,25 +50,25 @@ title: 悉尼 Sydney
 
 然后医生会介绍各种药物的形态以及使用方法。在澳洲有以下药物可供选择（价格均为2024-11-26查询，基于Chemist Warehouse网站）：
 
-### 雌二醇口服
+#### 雌二醇口服
 
 [Progynova](https://www.chemistwarehouse.com.au/buy/7279/progynova-2mg-tablets-56-estradiol): 也就是补佳乐。56x2mg，$10.99，一般一天3片，折合一个月$18.25。
 
 [Zumenon](https://www.chemistwarehouse.com.au/buy/57557/zumenon-2mg-tablets-56-estradiol)：相当于诺坤复。56x2mg，$9.99，一般一天3片，折合一个月$16.59。
 
-### 雌二醇凝胶
+#### 雌二醇凝胶
 
 [Estrogel](https://www.chemistwarehouse.com.au/buy/95280/estrogel-0-06-gel-pump-80g-estradiol)：也就是凝胶。64x（1.25gx0.06%），$30.99，一般一天2泵，折合一个月$30.02。
 
 [Sandrena](https://www.chemistwarehouse.com.au/buy/7517/sandrena-1mg-gel-sachet-28-estradiol)：袋装的凝胶，既可以有凝胶的好处又方便携带，防止爆柜。28x1mg，$16.99，一般一天2包，折合一个月33.98。
 
-### 雌二醇贴片
+#### 雌二醇贴片
 
 不建议，因为经常缺货。但是还是打出来给大家参考。我不知道用法用量，因为没用过。
 
 [Estradot](https://www.chemistwarehouse.com.au/buy/54256/estraderm-mx-25mcg-patches-8-estradiol)
 
-### 抗雄
+#### 抗雄
 
 与雌激素同时进行。因为澳洲没有针剂，单靠雌激素不太现实，所以抗雄还是需要的。
 
@@ -78,13 +78,13 @@ title: 悉尼 Sydney
 
 根据个人需求自己选择就行了。医生随后会给你开处方，一般会给6个repeat。可以选择纸质处方或电子处方（临时签证需要申请[IHI](https://www.servicesaustralia.gov.au/how-to-get-individual-healthcare-identifier?context=22591)，PR可以直接要）。如果是临时签证且需要IHI，建议提前申请好IHI。
 
-### 处方样板
+#### 处方样板
 
 ![prescription](./script.png)
 
 恭喜！到这里你美妙的HRT旅程就可以开始了！
 
-# 走Endo（内分泌科医生）进行informed consent的流程
+## 走Endo（内分泌科医生）进行informed consent的流程
 
 如果实在找不到informed consent的GP或极其不方便，也可以走这个流程。后面所述的implant必须走endo。
 
@@ -104,21 +104,21 @@ title: 悉尼 Sydney
 
 恭喜！到这里你美妙的HRT旅程就可以开始了！
 
-# 后续随诊
+## 后续随诊
 
 建议每2-3个月去看一次医生，要新的查血单。医生会根据你的性激素水平进行对HRT适当的调整。
 
-# 进阶治疗
+## 进阶治疗
 
-## 孕激素
+### 孕激素
 
 如果医生觉得你的女性第二青春期达到一定水平，会开具孕激素来帮助你的发育。你也可以自己提出想要孕激素。医生会和第一次复诊一样确定你的意愿，然后开具处方。处方样板和上文相同。
 
-### 孕激素药物
+#### 孕激素药物
 
 [Prometrium](https://www.chemistwarehouse.com.au/buy/81825/prometrium-100mg-soft-capsules-30-progesterone)，100mgx30，$38.99。一般一天一颗。这个价格也是每个月的价格。
 
-## 皮下埋植
+### 皮下埋植
 
 在澳洲，一种很方便的HRT方法是进行雌二醇皮下埋植(estrogen implant)。相当于在你身体里植入了卵巢，可以不需要每天吃药，多舒服！
 
@@ -140,7 +140,7 @@ title: 悉尼 Sydney
 
 在打电话咨询后，将你的处方邮寄（或将电子处方**截图**（也就是上述处方界面））给合成药物的厂家。合成药物厂家会给你制作皮下埋植，并寄给你（也可以寄到医生那里，省去麻烦）。你收到（或医生收到）后就可以预约复诊并植入了。
 
-### 合成药厂
+#### 合成药厂
 
 [Stenlake](https://www.stenlake.com.au/)
 
