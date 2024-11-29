@@ -32,7 +32,7 @@ title: 悉尼 Sydney
 
 查血方法很简单，前往查血中心（一般诊所里就有，但如果没有，谷歌地图搜索blood test），会给你抽血。抽完血叫你签个名就可以走了。你看完了以后可能诊所里的或者隔壁的查血点已经关门了，这样的话这里推荐[Darlinghurst Medical Centre](https://www.darlinghurstmedical.com.au/)，7天都开（一般查血点只有工作日开）所以可以第二天查。
 
-**如果医生以非生理相关的理由在这里卡你，包括但不限于BMI，生殖能力保存，pass度，声音等，你可能被gatekeep了。建议不要再继续面诊，并更换医生。** 
+**如果医生以非生理相关的理由在这里卡你，包括但不限于BMI，生殖能力保存，pass度，声音等，你可能被gatekeep了。建议不要再继续面诊，并更换医生。**
 
 #### 查血单样板
 
@@ -92,7 +92,7 @@ title: 悉尼 Sydney
 
 [Dr Jon Hayes](https://www.healthdirect.gov.au/australian-health-services/healthcare-service/st-leonards-2065-nsw/dr-jonathan-garth-hayes-endocrinologist/endocrinology-service/e482a024-2b01-2049-9892-e4cbfce102b8)
 
-> 位于St Leonards，可以坐车到同名火车站或Crows Nest地铁站，下车走5分钟就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
+> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 254 巴士往 McMahons Point Wharf 坐 3 站就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
 
 这个列表上的医生我没看过，但据说都很友跨并可以提供informed consent。
 
@@ -100,7 +100,7 @@ title: 悉尼 Sydney
 
 去你最方便的GP那里说明自己想跨性别的意愿，并要求refer到endo那里。然后过程就和GP差不多了，两次查血后会给你开处方。
 
-**如果任意一位医生以非生理相关的理由在这里卡你，包括但不限于BMI，生殖能力保存，pass度，声音等，你可能被gatekeep了。建议不要再继续面诊，并更换医生。** 
+**如果任意一位医生以非生理相关的理由在这里卡你，包括但不限于BMI，生殖能力保存，pass度，声音等，你可能被gatekeep了。建议不要再继续面诊，并更换医生。**
 
 恭喜！到这里你美妙的HRT旅程就可以开始了！
 
@@ -128,7 +128,7 @@ title: 悉尼 Sydney
 
 [Dr Jon Hayes](https://www.healthdirect.gov.au/australian-health-services/healthcare-service/st-leonards-2065-nsw/dr-jonathan-garth-hayes-endocrinologist/endocrinology-service/e482a024-2b01-2049-9892-e4cbfce102b8)
 
-> 位于St Leonards，可以坐车到同名火车站或Crows Nest地铁站，下车走5分钟就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
+> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 254 巴士往 McMahons Point Wharf 坐 3 站就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
 
 这个列表上的部分医生可开具并植入皮下埋植雌二醇。选择相应选项(Estrogen implant insertion)即可。
 
