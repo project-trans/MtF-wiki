@@ -39,7 +39,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify --enableGitInfo --baseURL "/"
+        run: hugo --minify --enableGitInfo
 
       - name: Deploy to Cloudflare Pages
         id: deploy
