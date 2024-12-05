@@ -16,6 +16,10 @@ title: 悉尼 Sydney
 
 > 位于Mascot Medical，可以乘坐T8/350/420前往也可以开车（免费停车一个半小时，足够用），非常方便。
 
+[Dr Andrew Crossman](https://www.sydney.edu.au/students/health-wellbeing/health-services.html)
+
+> 悉尼大学的校医，人非常友善，而且对悉尼大学学生免费，非常方便！在Wentworth Building 3楼，从Food hub右转走到头就是了。
+
 这个列表上的医生我没看过，但据说都很友跨并可以提供informed consent，不用再refer endocrinologist。
 
 [TransHub Doctor List](https://www.transhub.org.au/doctors)
