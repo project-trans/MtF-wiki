@@ -13,8 +13,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    outputs:
-      preview_url: ${{ steps.deploy.outputs.deployment-url }}
     steps:
       - name: 检出主仓库代码
         uses: actions/checkout@v4
@@ -58,10 +56,12 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
           command: pages deploy public --project-name=mtfwiki-preview
 
-  # 获取预览链接并发送到PR
-  comment_on_pr:
-    needs: deploy
-    uses: project-trans/actions/.github/workflows/comment-pr-preview-link.yml@main
-    secrets: inherit
-    with:
-          previewUrl: ${{ needs.deploy.outputs.preview_url }}
+      - name: pr preview action
+        uses: project-trans/pr-preview-action@v1.0.0
+        with:
+          previewUrl: ${{ steps.deploy.outputs.deployment-url }}
+          BOT_APP_ID: ${{ vars.BOT_APP_ID }}
+          BOT_APP_SECRET: ${{ secrets.BOT_APP_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REMOVE_PREFIX: content
+          REMOVE_SUFFIX: .md
