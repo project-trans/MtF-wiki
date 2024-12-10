@@ -71,8 +71,8 @@ jobs:
             # 处理文件路径，拼接成完整的 URL
             for file in $files; do
               if [[ $file == *.md ]]; then
-                # 去掉路径前的 "docs/" 和后缀 ".md"
-                modified_file="${file#docs/}"   # 删除路径前的 "docs/"
+                # 去掉路径前的 "content/" 和后缀 ".md"
+                modified_file="${file#content/}"   # 删除路径前的 "content/"
                 modified_file="${modified_file%.md}"  # 删除路径后面的 ".md"
 
                 # 拼接 URL
