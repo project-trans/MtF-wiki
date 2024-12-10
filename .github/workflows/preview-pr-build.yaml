@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       preview_url: ${{ steps.deploy.outputs.deployment-url }}
+      pageUrls: ${{ steps.url.outputs.all_file_urls }}
     steps:
       - name: 检出主仓库代码
         uses: actions/checkout@v4
@@ -58,6 +59,31 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
           command: pages deploy public --project-name=mtfwiki-preview
 
+      - name: List PR files using GitHub CLI
+        id: url
+        run: |
+            # 使用 GitHub CLI 获取 PR 文件列表并提取文件路径
+            files=$(gh api \
+              -H "Accept: application/vnd.github+json" \
+              /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files \
+              | jq -r '.[].filename')  # 使用 -r 获取原始文本输出
+
+            # 处理文件路径，拼接成完整的 URL
+            for file in $files; do
+              if [[ $file == *.md ]]; then
+                # 去掉路径前的 "docs/" 和后缀 ".md"
+                modified_file="${file#docs/}"   # 删除路径前的 "docs/"
+                modified_file="${modified_file%.md}"  # 删除路径后面的 ".md"
+
+                # 拼接 URL
+                file_url="${{ steps.deploy.outputs.deployment-url }}/${modified_file}"
+                all_file_urls="${all_file_urls}\n${file_url}"
+              fi
+            done
+            echo "all_file_urls=$all_file_urls" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   # 获取预览链接并发送到PR
   comment_on_pr:
     needs: deploy
@@ -65,3 +91,4 @@ jobs:
     secrets: inherit
     with:
           previewUrl: ${{ needs.deploy.outputs.preview_url }}
+          pageUrls: ${{ needs.deploy.outputs.pageUrls }}
