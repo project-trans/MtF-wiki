@@ -13,9 +13,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    outputs:
-      preview_url: ${{ steps.deploy.outputs.deployment-url }}
-      pageUrls: ${{ steps.url.outputs.all_file_urls }}
     steps:
       - name: 检出主仓库代码
         uses: actions/checkout@v4
