@@ -5,19 +5,22 @@ slug: overview
 ---
 
 > **歡迎來到 HRT 和藥物介紹板塊。在這裡妳將瞭解到：**
-> - 什麼是 HRT，HRT 可以帶來的用處有哪些？
+> - 什麼是 HRT，HRT 對我們有什麼意義？
+> - HRT 可以帶來的用處有哪些？
 > - HRT 需要哪些藥物和干預手段？
 > - HRT 有哪些值得注意的事項？
 
 ## 常規性別肯定激素治療 {#intro}
 
-HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦的說法，即“**性別肯定激素治療**”，簡稱 **GAHT**。對於 MtF，其運用雌激素、孕激素、抗雄性素等各種藥物，實現激素狀態和身體特徵的女性化、去男性化，從而緩解性別不安的目的；同時，也有助於改善生活質量和精神狀態[^1] [^4]。目前的研究表明，在專業醫生的指導和風險把控下進行激素治療是安全的[^2]。在接納和認可自身存在的道路上，運用 HRT 雖未必是所有 MtF 的必經之路，但如有需要，其可以起到莫大作用。
+HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦的說法，即“**性別肯定激素治療**”，簡稱 **GAHT**。對於 MtF，其運用雌激素、孕激素、抗雄性素等各種藥物，實現激素狀態和身體特徵的女性化、去男性化，從而緩解性別不安的目的[^1] [^4]；同時，也有助於改善生活質量和精神狀態[^43]。目前的研究表明，在專業醫生的指導和風險把控下進行激素治療是安全的[^2]。在接納和認可自身存在的道路上，運用 HRT 雖未必是所有 MtF 的必經之路，但如有需要，其可以起到莫大作用。
 
 ### 事先說明 {#top-notes}
 
-需要理解激素治療的目的和效果，理性預期，**激素不是魔法**；對已結束青春期的大齡者而言尤甚。在一些人身上，激素治療所帶來的心理安慰作用遠甚於身體反應。如有必要，可同時採取整容、手術等非激素手段以達到女性化目的。
+需要理解激素治療的目的和效果，理性預期，**激素不是魔法**；對已結束青春期的大齡者而言尤甚。某些已經完成男性化的特徵是沒辦法藉助 HRT 扭轉的，例如骨骼、聲帶、體毛等。在一些人身上，激素治療所帶來的心理安慰作用可能遠甚於身體反應。如有必要，可同時採取整容、手術等非激素手段以達到女性化目的。
 
-雖然由於「{{< wiki 倖存者偏差 >}}」效應的存在，經激素治療、手術治療的跨性別者在我們的視野之內會更加明顯，但不能否認的是，有的人並不需要激素轉變，有的則完全無需轉變；我們建議：**應先明確自己的實際需求，依自身情況決定是否尋求醫療幫助，切忌盲目跟風**。
+由於「{{< wiki 倖存者偏差 >}}」效應的存在，經激素治療、手術治療的跨性別者在我們的視野之內會更加明顯；同時，調查報告顯示從未接受醫學干預的 MtF 群體中有 82.0% 希望接受 HRT 或手術[^97]。但也不能否認，有少數人並不需要激素轉變（正如報告所展示的那樣），甚至有個別人完全無需轉變。不管怎樣，有證據表明，成年跨性別者採取激素治療後出現反悔意願的機率非常低；經過青春期阻斷的，也有絕大部分轉入了後續的激素治療[^8]。我們建議：**應先明確自己的實際需求，依自身情況決定是否尋求醫療幫助**。
+
+**本 wiki 儘可能以簡潔、親切的語言來普及 HRT 相關知識，但因篇幅所限，本 wiki 無法做到面面俱到，也不能代替權威的醫學指導。** 如有可能，**儘量尋求正規治療途徑並規範用藥**。
 
 {{< notice info "請留意" >}}
 以下一般以 **HRT** 代指此類治療，但為避免歧義，可能改用 **GAHT** 來指代。
@@ -34,10 +37,10 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 我們不時看到的一個片語“**激素六項**”，正是以上激素水平在檢查報告裡的體現。那麼牠們具體發揮哪些作用？
 
 - **雌激素主要促進女性化**：包括乳房發育、皮膚軟化且更細膩、脂肪分佈女性化等。在青春期人群中，也有引導骨骼生長女性化的作用，體現於鎖骨形狀、骨架較窄、髖骨較寬等。同時，也有維持骨骼強度之功效。
-- **孕激素在女性化和青春期發育過程中沒有明確的作用**；但是，近期有研究表明黃體酮可以改善乳房發育滿意程度[^25]。
+- **孕激素在女性化和青春期發育過程中沒有明確的作用**。近期有研究表明，黃體酮可以改善受試者對乳房發育的滿意程度[^25]；但是，研究沒有檢查乳房情況，沒有披露黃體酮是否確實改變了乳房發育的結果，所以仍不能判斷黃體酮作用如何。
 - **雄激素促成男性化**：其效果包括陰莖增大、肩膀及肋骨（骨架）擴張、肌肉增加、聲音變得低沉、體毛生長等；也阻止雌激素引導的乳房發育過程。不過，其也有維持骨骼強度這樣的益處。
 
-性激素還會作用於大腦，**影響認知、情緒和行為**[^5]；接受 HRT 以後，無一例外都會感受到認知和行為模式的循序漸進的改變，其中非常直觀的是性慾的改變。
+性激素還會作用於大腦，**影響認知、情緒和行為**[^43] [^5]；接受 HRT 以後，無一例外都會感受到認知和行為模式的循序漸進的改變，其中非常直觀的是性慾的改變。
 
 雌激素和雄激素還可以**調控性腺激素釋放素的分泌，從而影響來自性腺的激素產出量**。妳可能聽說過打“日雌”（一種戊酸雌二醇針劑）來同時實現提高雌二醇水平、抑制睪酮水平之目的；其正是透過很高的雌二醇水平（通常達 200 pg/mL 以上）對來自腦垂體的性腺激素釋放素之分泌形成負反饋，減少分泌量，從而中止性腺的睪酮分泌。性腺激素釋放素包括黃體生成素 (LH) 和濾泡刺激素 (FSH)，一些醫院也會檢查。
 
@@ -72,7 +75,7 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 
 ### 治療內容和檢查方法 {#therapy}
 
-女性化激素治療的目的是**使雌二醇和睪酮水平達到正常女性範圍**。我們之前談到，實現這個目的需要運用雌激素、孕激素和抗雄性素藥物，以單藥或聯合運用的形式使用。
+女性化激素治療的目的是**使雌二醇和睪酮水平達到女性正常範圍**。我們之前談到，實現這個目的需要運用雌激素、孕激素和抗雄性素藥物，以單藥或聯合運用的形式使用。
 
 如果妳正處於青春期，也可考慮[青春期阻斷治療]({{< ref "#puberty-blockers" >}})。
 
@@ -155,11 +158,11 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 - [Cyproterone acetate]({{< ref "cyproterone" >}})（CPA，大陸稱“醋酸環丙孕酮”，也稱“色普龍”）
 - [Medroxyprogesterone acetate]({{< ref "medroxyprogesterone" >}})（MPA，大陸稱“醋酸甲羥孕酮”）
 
-**孕激素藥物用於 MtF 的記錄較少，且存在爭議**[^4]。一方面，有近期研究顯示，口服黃體酮、注射 MPA 等可改善對乳房發育的滿意程度，且可能和精神狀態的改善有關[^25]；另一方面，口服黃體酮被認為效果較差，不足以促進乳腺增生[^31] [^32]。還有人認為，在 HRT 當中過早引入孕激素可能導致乳房發育不理想[^23]。一般來講，除非有抗雄這樣的特別需要，否則是無需加用孕激素的。
+**孕激素藥物用於 MtF 的記錄較少，且存在爭議**[^4]。一方面，有近期研究顯示，口服黃體酮、注射 MPA 等可改善對乳房發育的滿意程度，且可能和精神狀態的改善有關[^25]；另一方面，口服黃體酮被認為效果較差，不足以促進乳腺增生[^31] [^32]。還有人認為，在 HRT 當中過早引入孕激素可能導致乳房發育不理想[^23]。一般來講，**除非有抗雄這樣的特別需要，否則是無需加用孕激素的。**
 
 MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#antiandrogens" >}})。
 
-此外，雖然理論上任何人工孕激素製劑均可作為替代，但臨床上缺乏用於跨性別者的經驗或記載，副作用可能更為嚴重，或者成本較高；故不建議採用。
+此外，雖然理論上任何人工孕激素製劑均可作為替代，但臨床上缺乏用於跨性別者的經驗或記載，副作用可能更為嚴重，或者成本較高[^5]；故不建議採用。
 
 #### 抗雄性素藥物的運用 {#antiandrogens}
 
@@ -171,7 +174,7 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 - [Cyproterone acetate]({{< ref "cyproterone" >}})（CPA，大陸稱“醋酸環丙孕酮”，也稱“色普龍”）
 - [Medroxyprogesterone acetate]({{< ref "medroxyprogesterone" >}})（MPA，大陸稱“醋酸甲羥孕酮”）
 - [GnRH 類似物]({{< ref "#puberty-blockers" >}})，一般用於青春期阻斷，詳見下文
-- 高劑量雌激素單藥治療，如[注射]({{< ref "injection" >}})
+- 高劑量雌激素單藥治療，如[注射]({{< ref "injection" >}})，一般无需再加用其他抗雄药物
    + 以上可**減少雄激素合成、降低雄激素水平**。檢查報告可直觀反映其效果。
 - [Spironolactone]({{< ref "spironolactone" >}})，大陸稱“螺內酯” {{< tag/neg "略不推薦" >}}
 - [Bicalutamide]({{< ref "bicalutamide" >}})，大陸稱“比卡魯胺” {{< tag/neg "不推薦常規應用" >}}
@@ -298,12 +301,12 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 
 [^1]: Thompson, J,, Hopwood, R. A., de Normand, S., et al. (2021). Medical Care of Trans and Gender Diverse Adults. *Fenway Health*. <https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/>
 [^2]: Weinand, J. D., Safer, J. D. (2015). Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals. *Journal of Clinical & Translational Endocrinology*, 2(2), 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>
-[^3]: Stricker, R., Eberhart, R., Chevailler, M., et al. (2006). Establishment of detailed reference values for luteinizing hormone, follicle stimulating hormone, estradiol, and progesterone during different phases of the menstrual cycle on the Abbott ARCHITECT® analyzer. *Clinical Chemistry and Laboratory Medicine (CCLM)*, 44(7), 883–887. \[DOI:[10.1515/cclm.2006.160](https://doi.org/10.1515/CCLM.2006.160)]
+[^3]: Stricker, R., Eberhart, R., Chevailler, M., et al. (2006). Establishment of detailed reference values for luteinizing hormone, follicle stimulating hormone, estradiol, and progesterone during different phases of the menstrual cycle on the Abbott ARCHITECT® analyzer. *Clinical Chemistry and Laboratory Medicine*, 44(7), 883–887. <https://doi.org/10.1515/CCLM.2006.160>
 [^4]: Coleman, E., Radix, A. E., Bouman, W. P., et al. (2022). Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. *International Journal of Transgender Health*, *23*(Suppl 1), S1–S259. <https://doi.org/10.1080/26895269.2022.2100644>
 [^5]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-intro/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/)】
-[^6]: Esoterix/LabCorp. (2020). Endocrinology Expected Values and S.I. Unit Conversion Tables. \[[PDF 文件](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
+[^6]: Esoterix/LabCorp. (2020). Endocrinology Expected Values and S.I. Unit Conversion Tables. \[[PDF 檔案](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
 [^7]: Aly. (2020). Approximate Comparable Dosages of Estradiol by Different Routes. *Transfeminine Science*. <https://transfemscience.org/articles/e2-equivalent-doses/> 【[譯文](https://tfsci.mtf.wiki/articles/e2-equivalent-doses/)】
-[^8]: Aly. (2019). A Review of Studies on Estradiol Levels and Testosterone Suppression with High-Dose Transdermal Estradiol Gel and Ointment in Cisgender Men with Prostate Cancer. *Transfeminine Science*. <https://transfemscience.org/articles/high-dose-transdermal-e2/>
+[^8]: Jorgensen, S. C. J. (2023). Transition Regret and Detransition: Meanings and Uncertainties. *Archives of Sexual Behavior*, 52(5), 2173–2184. <https://doi.org/10.1007/s10508-023-02626-2>
 [^9]: Aly. (2021). An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations. *Transfeminine Science*. <https://transfemscience.org/articles/injectable-e2-meta-analysis/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/injectable-e2-meta-analysis/)】
 [^10]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/bica-adoption/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/bica-adoption/)】
 [^11]: REX Medical Ltd. (2020). New Zealand Datasheet: SITERONE. *Medsafe*. <https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/siterone-nz/)】
@@ -320,21 +323,24 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 [^22]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)】
 [^23]: Aly. (2020). A Comprehensive Review of the Potential of Progestogens for Enhancing Breast Development in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/progestogens-breast-dev/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/progestogens-breast-dev/)】
 [^24]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)】
-[^25]: Bahr, C., Ewald, J., Dragovich, R., et al. (2024). Effects of progesterone on gender affirmation outcomes as part of feminizing hormone therapy. *Journal of the American Pharmacists Association*, 64(1), 268-272. DOI: [10.1016/j.japh.2023.08.001](https://doi.org/10.1016/j.japh.2023.08.001)
+[^25]: Bahr, C., Ewald, J., Dragovich, R., et al. (2024). Effects of progesterone on gender affirmation outcomes as part of feminizing hormone therapy. *Journal of the American Pharmacists Association*, 64(1), 268-272. <https://doi.org/10.1016/j.japh.2023.08.001>
 [^26]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People.  *Transfeminine Science*. <https://transfemscience.org/articles/sublingual-e2-transfem/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-e2-transfem/)】
-[^27]: Rueda, C., Osorio, A. M., Avellaneda, A. C., et al. (2017). The efficacy and safety of estriol to treat vulvovaginal atrophy in postmenopausal women: a systematic literature review.  *Climacteric*, 20(4), 321–330. DOI: [10.1080/13697137.2017.1329291](https://doi.org/10.1080/13697137.2017.1329291)
-[^28]: Takahashi, K., Manabe, A., Okada, M., et al. (2000). Efficacy and safety of oral estriol for managing postmenopausal symptoms. *Maturitas*, 34(2), 169-177. DOI: [10.1016/S0378-5122(99)00108-5](https://doi.org/10.1016/S0378-5122(99)00108-5)
-[^29]: Holtorf, K. (2009). The Bioidentical Hormone Debate: Are Bioidentical Hormones (Estradiol, Estriol, and Progesterone) Safer or More Efficacious than Commonly Used Synthetic Versions in Hormone Replacement Therapy?. *Postgraduate Medicine*, 121(1), 73–85. DOI: [10.3810/pgm.2009.01.1949](https://doi.org/10.3810/pgm.2009.01.1949)
-[^30]: Stege, R., Gunnarsson, P. O., Johansson, C., et al. (1996). Pharmacokinetics and testosterone suppression of a single dose of polyestradiol phosphate (Estradurin®) in prostatic cancer patients. *The Prostate*, 28(5), 307–310. \[DOI:[10.1002/(sici)1097-0045(199605)28:5<307::aid-pros6>3.0.co;2-8](https://doi.org/10.1002/(SICI)1097-0045(199605)28:5<307::AID-PROS6>3.0.CO;2-8)]
+[^27]: Rueda, C., Osorio, A. M., Avellaneda, A. C., et al. (2017). The efficacy and safety of estriol to treat vulvovaginal atrophy in postmenopausal women: a systematic literature review.  *Climacteric*, 20(4), 321–330. <https://doi.org/10.1080/13697137.2017.1329291>
+[^28]: Takahashi, K., Manabe, A., Okada, M., et al. (2000). Efficacy and safety of oral estriol for managing postmenopausal symptoms. *Maturitas*, 34(2), 169-177. <https://doi.org/10.1016/S0378-5122(99)00108-5>
+[^29]: Holtorf, K. (2009). The Bioidentical Hormone Debate: Are Bioidentical Hormones (Estradiol, Estriol, and Progesterone) Safer or More Efficacious than Commonly Used Synthetic Versions in Hormone Replacement Therapy?. *Postgraduate Medicine*, 121(1), 73–85. <https://doi.org/10.3810/pgm.2009.01.1949>
+[^30]: Stege, R., Gunnarsson, P. O., Johansson, C., et al. (1996). Pharmacokinetics and testosterone suppression of a single dose of polyestradiol phosphate (Estradurin®) in prostatic cancer patients. *The Prostate*, 28(5), 307–310. <https://doi.org/10.1002/(SICI)1097-0045(199605)28%3A5%3C307%3A%3AAID-PROS6%3E3.0.CO%3B2-8>
 [^31]: Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. *Transfeminine Science*. <https://transfemscience.org/articles/oral-p4-low-levels/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/oral-p4-low-levels/)】
-[^32]: Kuhl, H., & Schneider, H. P. G. (2013). Progesterone – promoter or inhibitor of breast cancer. *Climacteric*, 16(Suppl 1), 54–68. DOI: [10.3109/13697137.2013.768806](https://doi.org/10.3109/13697137.2013.768806)
-[^33]: Zitzmann, M., Rohayem, J., Raidt, J., et al. (2017). Impact of various progestins with or without transdermal testosterone on gonadotropin levels for non-invasive hormonal male contraception: a randomized clinical trial. *Andrology*, 5(3), 516–526. DOI: [10.1111/andr.12328](https://doi.org/10.1111/andr.12328)
-[^34]: Fung, R., Hellstern-Layefsky, M., & Lega, I. (2017). Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?. *International Journal of Transgenderism*, 18(2), 123–128. DOI: [10.1080/15532739.2017.1290566](https://doi.org/10.1080/15532739.2017.1290566)
-[^35]: Irwig, M. S. (2021). Is there a role for 5α‐reductase inhibitors in transgender individuals?. *Andrology*, 9(6), 1729–1731. DOI: [10.1111/andr.12881](https://doi.org/10.1111/andr.12881)
-[^36]: Yang, W., Hong, T., Chang, X., et al. (2024). The efficacy of and user satisfaction with different antiandrogens in Chinese transgender women. *International Journal of Transgender Health*, 25(3), 471–482. DOI: [10.1080/26895269.2024.2323514](https://doi.org/10.1080/26895269.2024.2323514)
-[^37]: Angus, L. M., Nolan, B. J., Zajac, J. D., et al. (2021). A systematic review of antiandrogens and feminization in transgender women. *Clinical Endocrinology*, 94(5), 743–752. DOI: [10.1111/cen.14329](https://doi.org/10.1111/cen.14329)
+[^32]: Kuhl, H., & Schneider, H. P. G. (2013). Progesterone – promoter or inhibitor of breast cancer. *Climacteric*, 16(Suppl 1), 54–68. <https://doi.org/10.3109/13697137.2013.768806>
+[^33]: Zitzmann, M., Rohayem, J., Raidt, J., et al. (2017). Impact of various progestins with or without transdermal testosterone on gonadotropin levels for non-invasive hormonal male contraception: a randomized clinical trial. *Andrology*, 5(3), 516–526. <https://doi.org/10.1111/andr.12328>
+[^34]: Fung, R., Hellstern-Layefsky, M., & Lega, I. (2017). Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?. *International Journal of Transgenderism*, 18(2), 123–128. <https://doi.org/10.1080/15532739.2017.1290566>
+[^35]: Irwig, M. S. (2021). Is there a role for 5α‐reductase inhibitors in transgender individuals?. *Andrology*, 9(6), 1729–1731. <https://doi.org/10.1111/andr.12881>
+[^36]: Yang, W., Hong, T., Chang, X., et al. (2024). The efficacy of and user satisfaction with different antiandrogens in Chinese transgender women. *International Journal of Transgender Health*, 25(3), 471–482. <https://doi.org/10.1080/26895269.2024.2323514>
+[^37]: Angus, L. M., Nolan, B. J., Zajac, J. D., et al. (2021). A systematic review of antiandrogens and feminization in transgender women. *Clinical Endocrinology*, 94(5), 743–752. <https://doi.org/10.1111/cen.14329>
 [^38]: AstraZeneca. (2017). CASODEX&reg; Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020498s028lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/casodex/)】
-[^39]: Neyman, A., Fuqua, J. S., & Eugster, E. A. (2019). Bicalutamide as an Androgen Blocker With Secondary Effect of Promoting Feminization in Male-to-Female Transgender Adolescents. *Journal of Adolescent Health*, 64(4), 544-546. DOI: [10.1016/j.jadohealth.2018.10.296](https://doi.org/10.1016/j.jadohealth.2018.10.296)
+[^39]: Neyman, A., Fuqua, J. S., & Eugster, E. A. (2019). Bicalutamide as an Androgen Blocker With Secondary Effect of Promoting Feminization in Male-to-Female Transgender Adolescents. *Journal of Adolescent Health*, 64(4), 544-546. <https://doi.org/10.1016/j.jadohealth.2018.10.296>
 [^40]: Pfizer. (2022). Prescribing Information: ALDACTONE&reg;. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/012151s079lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/aldactone/)】
 [^41]: Aly. (2020). Clinical Guidelines with Information on Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-hormone-guidelines/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/transfem-hormone-guidelines/)】
 [^42]: Aly. (2019). An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/nonbinary-transfem-overview/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/nonbinary-transfem-overview/)】
+[^43]: van Leerdam, T. R., Zajac, J. D., & Cheung, A. S. (2023). The Effect of Gender-Affirming Hormones on Gender Dysphoria, Quality of Life, and Psychological Functioning in Transgender Individuals: A Systematic Review. *Transgender Health*, 8(1), 6-21. <https://doi.org/10.1089/trgh.2020.0094>
+
+[^97]: 北同文化. (2021-12-26). \[中國大陸] 2021 全國跨性別健康調研報告. 【[PDF 檔案](https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf)】
