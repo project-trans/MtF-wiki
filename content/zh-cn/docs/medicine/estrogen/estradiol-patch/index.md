@@ -1,5 +1,5 @@
 ---
-title: 雌二醇贴片
+title: 外用雌二醇贴片
 description: 外用雌二醇贴片，经皮吸收。
 ---
 
@@ -7,7 +7,7 @@ description: 外用雌二醇贴片，经皮吸收。
 雌二醇贴片与其他药物性质不同，用法用量要由医生按体质确定。请仔细阅读说明书，并在医师指导下使用药物。
 {{< /notice >}}
 
-雌二醇贴片可经皮肤吸收，使用方便，且可完全避免肝脏的首过效应，安全性更高。目前在中国大陆未被批准上市，且缺乏使用记录（多见于海外）；开销较口服药物偏高。
+雌二醇贴片可经皮肤吸收，使用方便，且可完全避免肝脏的首过效应，安全性更高。目前在中国大陆尚未被正式批准，且缺乏使用记录（多见于海外），开销亦较其它途径偏高；尽管如此，在中国各大电商平台均已有进口贴片产品在售，也有社群伙伴证实了其有效性。
 
 ## 药物信息
 
@@ -20,7 +20,8 @@ description: 外用雌二醇贴片，经皮吸收。
 - 规格：
    + 50、100 µg/天（Estraderm）
    + 25、50、75、100 µg/天（Estraderm MX）
-- 说明书：[英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019081s043lbl.pdf) | [中文译本](https://tfsci.mtf.wiki/misc/estraderm/)
+- 说明书：[英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019081s043lbl.pdf) | [中文译本](https://tfsci.mtf.wiki/zh-cn/misc/estraderm/)
+- 单片（100 µg/天）理论疗效：雌二醇测定，平均 67 pg/mL
 
 ### Estradot&reg;
 
@@ -28,8 +29,20 @@ description: 外用雌二醇贴片，经皮吸收。
 
 - 商品名：{{< wiki "Estradot patch" >}}（英国、爱尔兰、新西兰等）
 - 厂商：{{< wiki Novartis en >}}
-- 规格：25、50、75、100 µg/天
+- 规格：25、37.5、50、75、100 µg/天
 - 说明书：[英语原文](https://www.medsafe.govt.nz/consumers/cmi/e/estradot.pdf)
+- 单片（100 µg/天）理论疗效：雌二醇测定，平均 84 pg/mL
+
+### Estramon&reg;
+
+{{< figure src="/images/medicine/estradiol-patch/estramon-de.jpg" width="50%" >}}
+
+- 商品名：Estramon&reg;（欧盟、英国、澳大利亚等上市，有进口）
+- 厂商：**Hexal AG**
+- 规格：25、50、75、100 µg/天
+- 患者用说明书：100 µg/天[英语原文](https://rowex.ie/wp-content/uploads/2024/08/EN_de-pl-ESTRAMON%C2%AE-100-%C2%B5g-24-h-transdermal-patch.pdf)
+- 单片（100 µg/天）理论疗效：雌二醇测定，平均 81 pg/mL，最高 118 pg/mL
+   + 已有两名本站读者分别于使用两贴后次日、两贴后第三日测出 659.90 pg/mL、150+ pg/mL 的报告。
 
 ### Progynova&reg; TS / Climara&reg;
 
@@ -37,23 +50,27 @@ description: 外用雌二醇贴片，经皮吸收。
 
 - 商品名：Progynova&reg; TS（英国）/ Climara&reg;（美国等）
 - 厂商：{{< wiki Bayer en >}}
-- 规格：50、100 µg/天
-- 说明书：[英语原文](https://www.medicines.org.uk/emc/files/pil.1617.pdf)
+- 规格：25、37.5、50、60、75、100 µg/天
+- 说明书：[英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020375s049s050lbl.pdf)
+- 单片（100 µg/天）理论疗效：
+   + 腹部：雌二醇测定，平均 87 pg/mL，最高 147 pg/mL
+   + 臀部：雌二醇测定，平均 106 pg/mL，最高 174 pg/mL
 
 ### Estrana&reg; Tapes
 
 {{< figure src="/images/medicine/estradiol-patch/estrana-tape.png" width="50%" >}}
 
-- 商品名：Estrana&reg; Tapes（日本）
+- 商品名：Estrana&reg; Tapes（日本，有进口）
 - 厂商：{{< wiki 久光製薬 ja >}}株式会社
 - 规格：0.09、0.18、0.36、0.72 mg
-- 说明书：[日语原文](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/000000003134.pdf)
+- 说明书：[日语原文](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/000000003134.pdf) | [中文翻译](https://tfsci.mtf.wiki/zh-cn/misc/estrana-tapes/)
+- 单片（0.72 mg）理论疗效：雌二醇测定，平均 52.0～53.8 pg/mL
 
 
 ## 用法用量
 
-**谨遵医嘱使用。**\
-据 Estraderm&reg; 说明书，一份 0.1 mg/天（100 µg/天）的贴片可将雌二醇血药水平平均增加 67 pg/mL；与基础雌二醇相加后基本可满足 [HRT 建议范围的下限]({{< ref "monitoring" >}})（100 pg/mL 左右）。低于此剂量的可能不适用于已成年的 MtF。一般每周使用两片（Estrana&reg; Tapes 为每两日一片）。
+**谨遵医嘱或说明书使用。** 一般每周使用两片（Estrana&reg; Tapes 为每两日一片；Climara 为每周一片），贴于大腿内侧、臀部或腹部（臀部稍好于腹部）。贴敷时可正常游泳、沐浴，无需事先取下。\
+以上所示理论疗效取自药品说明书，仅供参考，而且每个人之间的疗效也不尽相同，甚至有零星报告显示单片可能达到极大的血药浓度；**应以实际验血结果为准**。采用一张 100 µg/天的贴片时，叠加内源的雌二醇，有可能实现 [HRT 建议范围的下限]({{< ref "monitoring" >}})（100 pg/mL 左右）；低于此剂量的可能不适用于已成年的 MtF。不管怎样，应以自身具体情况灵活调整剂量，防止更多潜在风险。
 
 其他补充说明：
 
@@ -87,6 +104,6 @@ description: 外用雌二醇贴片，经皮吸收。
 
 - 有效成分：{{< wiki 雌二醇 >}}（{{< wiki Estradiol en >}}）\
    部分制剂以雌二醇半水合物的形式存在
-- 半衰期：贴片使用时以恒定速率给予雌二醇，故无法测得半衰期；移除贴片后，半衰期约为 1 小时
+- 半衰期：贴片使用时以恒定速率给予雌二醇，故无法测得半衰期；移除贴片后，半衰期约为 1～2 小时
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
