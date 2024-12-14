@@ -278,14 +278,15 @@ MPA 和 CPA 实际上更多作为抗雄药物使用，详见[下文]({{< ref "#a
 
 - 用药的原则是在**维持效果的情况下尽量减少用量**。应用激素应当逐步加量，停药应当逐步减量。
 - 长期 HRT 会减弱性功能、使生育力受损[^18]。如希望**保存生育力**，建议在 HRT 开始前进行。即使已接受 HRT，停药后数月内生育力也会缓慢恢复[^12] [^13]——但停药反应，尤其是精神上的不适可能较明显，需谨慎安排。
-- 如不存在血栓风险等特殊情况，一般需**长期服用雌二醇**；即使切除了性腺（SRS）以后亦然[^19]。否则将出现骨质疏松、盗汗等一系列更年期症状[^16]。
-- 没有必要将睾酮控制得过低，达到女性正常范围（0.05–0.55 ng/mL）即可[^5] [^6]。
-- 除青春期阻断之外，一般不建议长期（一个月以上）单用抗雄制剂，这样会导致雌二醇与睾酮“双低”。另外对于青春期阻断，应注意骨密度变化[^20]。详见《[治疗期间的监测]({{< ref "monitoring" >}})》。
+- 不宜同时出现雌激素和雄激素“双低”的情况：长此以往，将引起骨质疏松、盗汗等一系列更年期症状[^16]。要保持骨密度，需至少确保其中一种激素居于主导。因此需要留意：
+  + 如不存在血栓风险等特殊情况，一般需**长期服用雌二醇**；即使切除了性腺（SRS）以后亦然[^19]。
+  + 除青春期阻断之外，一般不建议长期（一个月以上）单用抗雄制剂，这样会导致雌二醇与睾酮“双低”。另外对于青春期阻断，应注意骨密度变化[^20]。详见《[治疗期间的监测]({{< ref "monitoring" >}})》。
+  + 非二元性别伙伴可留意[下文]({{< ref "#non-binary" >}})，其中推荐以雷洛昔芬等作为雌激素替代，以保持骨密度。
 - 激素治疗期间，请勿吸烟，酌情饮酒，适量运动。
 
 ## 非常规的治疗手段 {#non-binary}
 
-我们注意到有一些自我认同为非二元性别的伙伴希望服用雌激素，但又不希望引起明显的女性化效果（如乳房发育）。此时可以考虑[选择性雌激素受体调节剂]({{< ref "SERMs" >}})，如[雷洛昔芬]({{< ref "raloxifene" >}})[^42]。
+我们注意到有一些自我认同为非二元性别的伙伴希望服用雌激素，但又不希望引起明显的女性化效果（如乳房发育）；此时可以考虑[选择性雌激素受体调节剂]({{< ref "SERMs" >}})，如[雷洛昔芬]({{< ref "raloxifene" >}})[^42]。此类药物不仅抑制女性化，也有改善骨密度的功效（作为适应症之一）[^44]，适合作为雌激素的替代选项。
 
 ## 法律法规上的支持和约束 {#legitimacy}
 
@@ -360,6 +361,7 @@ MPA 和 CPA 实际上更多作为抗雄药物使用，详见[下文]({{< ref "#a
 [^41]: Aly. Clinical Guidelines with Information on Transfeminine Hormone Therapy [EB/OL]. *Transfeminine Science*, 2020. <https://transfemscience.org/articles/transfem-hormone-guidelines/> 【[译文](https://tfsci.mtf.wiki/zh-cn/articles/transfem-hormone-guidelines/)】
 [^42]: Aly. An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. <https://transfemscience.org/articles/nonbinary-transfem-overview/> 【[译文](https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/)】
 [^43]: van Leerdam T R, Zajac J D, Cheung A S. The Effect of Gender-Affirming Hormones on Gender Dysphoria, Quality of Life, and Psychological Functioning in Transgender Individuals: A Systematic Review [J]. *Transgender Health*, 2023, 8(1): 6-21. <https://doi.org/10.1089/trgh.2020.0094>
+[^44]: Eli Lilly and Company. EVISTA&reg; Prescribing Information [EB/OL]. *Drugs@FDA*, 2018. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf> 【[译文](https://tfsci.mtf.wiki/zh-cn/misc/evista/)】
 
 [^97]: 核桃, 安非, Daisy, 等. 2021 全国跨性别健康调研报告 [EB/OL]. *北同文化*, (2021-12-26). 【[PDF 文档](https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf)】
 [^98]: 国家药品监督管理局. 关于发布药品网络销售禁止清单（第一版）的公告（2022年 第111号）[EB/OL]. (2022-11-30). <https://www.nmpa.gov.cn/xxgk/ggtg/ypggtg/ypqtggtg/20221130200847133.html>
