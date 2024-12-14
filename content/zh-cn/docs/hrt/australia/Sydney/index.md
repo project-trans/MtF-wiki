@@ -151,3 +151,13 @@ title: 悉尼 Sydney
 [Complementary Compounding Services](https://custommedicine.com.au/)
 
 两家药厂对不同的身体适应程度不同。如果雌激素水平太低，可能需要做2个皮下埋植。
+
+# 生殖能力保存
+
+如果有需要可以在HRT前/暂停HRT来进行生殖能力保存。注意**暂停HRT需要医学detrans 90天左右**，需要花费额外的精力来遮盖反雄的效果，所以建议之前就做好。
+
+## 生殖能力保存机构
+
+[IVF Australia](https://www.ivf.com.au/treatments/fertility-preservation/male-fertility-preservation)
+[Rainbow Fertility](https://www.rainbowfertility.com.au/contact-us/find-a-consulting-room/sydney/) （性/别多元化群体为服务主体的机构）
+[Adora](https://www.adorafertility.com.au/locations/sydney/) (目前正在看，后续会有更新)
