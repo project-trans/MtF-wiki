@@ -132,7 +132,7 @@ title: 悉尼 Sydney
 
 [Dr Jon Hayes](https://www.healthdirect.gov.au/australian-health-services/healthcare-service/st-leonards-2065-nsw/dr-jonathan-garth-hayes-endocrinologist/endocrinology-service/e482a024-2b01-2049-9892-e4cbfce102b8)
 
-> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 254 巴士往 McMahons Point Wharf 坐 3 站就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
+> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 144 巴士往 Chatswood 坐 3 站就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
 
 这个列表上的部分医生可开具并植入皮下埋植雌二醇。选择相应选项(Estrogen implant insertion)即可。
 
