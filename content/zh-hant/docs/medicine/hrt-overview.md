@@ -213,7 +213,7 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 
 ### HRT 治療預期效果 {#expected-effects}
 
-資料來自北醫三院和多份醫學指南[^1] [^4]。
+資料來自多份醫學指南[^1] [^4]。
 
 ```csv
 作用效果,預計出現時間,預計穩定時間
@@ -271,14 +271,15 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 
 - 用藥的原則是在**維持效果的情況下儘量減少用量**。應用激素應當逐步加量，停藥應當逐步減量。
 - 長期 HRT 會減弱性功能、使生育力受損[^18]。如希望**儲存生育力**，建議在 HRT 開始前進行。即使已接受 HRT，停藥後數月內生育力也會緩慢恢復[^12] [^13]——但停藥反應，尤其是精神上的不適可能較明顯，需謹慎安排。
-- 如不存在血栓風險等特殊情況，一般需**長期服用雌二醇**；即使切除了性腺（SRS）以後亦然[^19]。否則將出現骨質疏鬆、盜汗等一系列更年期症狀[^16]。
-- 沒有必要將睪酮控制得過低，達到女性正常範圍（0.05–0.55 ng/mL）即可[^5] [^6]。
-- 除青春期阻斷之外，一般不建議長期（一個月以上）單用抗雄製劑，這樣會導致雌二醇與睪酮“雙低”。另外對於青春期阻斷，應注意骨密度變化[^20]。詳見《[治療期間的監測]({{< ref "monitoring" >}})》。
+- 不宜同時出現雌激素和雄激素“雙低”的情況：長此以往，將引起骨質疏鬆、盜汗等一系列更年期症狀[^16]。要維持骨密度，需至少確保其中一種激素居於主導。因此需要留意：
+  + 如不存在血栓風險等特殊情況，一般需**長期服用雌二醇**；即使切除了性腺（SRS）以後亦然[^19]。
+  + 除青春期阻斷之外，一般不建議長期（一個月以上）單用抗雄製劑，這樣會導致雌二醇與睪酮“雙低”。另外對於青春期阻斷，應注意骨密度變化[^20]。詳見《[治療期間的監測]({{< ref "monitoring" >}})》。
+  + 非二元（non-binary）夥伴可留意[下文]({{< ref "#non-binary" >}})，其中推薦以 Raloxifene 等作為雌激素替代，以保持骨密度。
 - 激素治療期間，請勿吸菸，酌情飲酒，適量運動。
 
 ## 非常規的治療手段 {#non-binary}
 
-我們注意到有一些自我認同為非二元性別的夥伴希望服用雌激素，但又不希望引起明顯的女性化效果（如乳房發育）。此時可以考慮**選擇性雌激素受容體調節劑**，如雷洛昔芬（Raloxifene）[^42]。
+我們注意到有一些自我認同為非二元性別的夥伴希望服用雌激素，但又不希望引起明顯的女性化效果（如乳房發育）。此時可以考慮**選擇性雌激素受容體調節劑**，如雷洛昔芬（Raloxifene）[^42]。此類藥物不僅抑制女性化，也有改善骨密度的功效（作為適應症之一）[^44]，適合作為雌激素的替代選項。
 
 ## 延伸閱讀 {#further-info}
 
@@ -342,5 +343,6 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 [^41]: Aly. (2020). Clinical Guidelines with Information on Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-hormone-guidelines/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/transfem-hormone-guidelines/)】
 [^42]: Aly. (2019). An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/nonbinary-transfem-overview/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/nonbinary-transfem-overview/)】
 [^43]: van Leerdam, T. R., Zajac, J. D., & Cheung, A. S. (2023). The Effect of Gender-Affirming Hormones on Gender Dysphoria, Quality of Life, and Psychological Functioning in Transgender Individuals: A Systematic Review. *Transgender Health*, 8(1), 6-21. <https://doi.org/10.1089/trgh.2020.0094>
+[^44]: Eli Lilly and Company. EVISTA&reg; Prescribing Information [EB/OL]. *Drugs@FDA*, 2018. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/evista/)】
 
 [^97]: 北同文化. (2021-12-26). \[中國大陸] 2021 全國跨性別健康調研報告. 【[PDF 檔案](https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf)】

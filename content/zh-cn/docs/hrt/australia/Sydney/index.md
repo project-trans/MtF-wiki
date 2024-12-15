@@ -96,7 +96,7 @@ title: 悉尼 Sydney
 
 [Dr Jon Hayes](https://www.healthdirect.gov.au/australian-health-services/healthcare-service/st-leonards-2065-nsw/dr-jonathan-garth-hayes-endocrinologist/endocrinology-service/e482a024-2b01-2049-9892-e4cbfce102b8)
 
-> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 254 巴士往 McMahons Point Wharf 坐 3 站就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
+> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 144 巴士往 Chatswood 坐 3 站就到（旁边有公园）。注意前台有点凶，说话最好语气缓和一点，但他人很好。
 
 这个列表上的医生我没看过，但据说都很友跨并可以提供informed consent。
 
@@ -132,7 +132,7 @@ title: 悉尼 Sydney
 
 [Dr Jon Hayes](https://www.healthdirect.gov.au/australian-health-services/healthcare-service/st-leonards-2065-nsw/dr-jonathan-garth-hayes-endocrinologist/endocrinology-service/e482a024-2b01-2049-9892-e4cbfce102b8)
 
-> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 254 巴士往 McMahons Point Wharf 坐 3 站就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
+> 位于St Leonards，可以坐车到同名火车站，下车走 5 分钟就到。或坐 M1 线到 Crows Nest 地铁站后下车倒 144 巴士往 Chatswood 坐 3 站就到。注意前台有点凶，说话最好语气缓和一点，但他人很好。
 
 这个列表上的部分医生可开具并植入皮下埋植雌二醇。选择相应选项(Estrogen implant insertion)即可。
 
@@ -151,3 +151,13 @@ title: 悉尼 Sydney
 [Complementary Compounding Services](https://custommedicine.com.au/)
 
 两家药厂对不同的身体适应程度不同。如果雌激素水平太低，可能需要做2个皮下埋植。
+
+# 生殖能力保存
+
+如果有需要可以在HRT前/暂停HRT来进行生殖能力保存。注意**暂停HRT需要医学detrans 90天左右**，需要花费额外的精力来遮盖反雄的效果，所以建议之前就做好。
+
+## 生殖能力保存机构
+
+[IVF Australia](https://www.ivf.com.au/treatments/fertility-preservation/male-fertility-preservation)
+[Rainbow Fertility](https://www.rainbowfertility.com.au/contact-us/find-a-consulting-room/sydney/) （性/别多元化群体为服务主体的机构）
+[Adora](https://www.adorafertility.com.au/locations/sydney/) (目前正在看，后续会有更新)
