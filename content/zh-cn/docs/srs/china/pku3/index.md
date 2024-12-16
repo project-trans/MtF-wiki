@@ -12,7 +12,7 @@ weight: 2001
 - [杨欣](https://www.haodf.com/doctor/10835.html)
 - [常旭]({{< ref "chang-xu" >}})
 
-[跨性别女性（MTF）生殖器手术须知](https://m.haodf.com/neirong/wenzhang/9392204745.html)
+[跨性别女性（MTF）生殖器手术须知](https://www.sar.com.cn/huiyin/yxp/13021.html)
 
 ## 前置条件
 
