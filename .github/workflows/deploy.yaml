@@ -23,6 +23,8 @@ jobs:
           fetch-depth: 0
           submodules: true
 
+      - uses: DeterminateSystems/nix-installer-action@main
+
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
@@ -32,14 +34,8 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
-      - name: Set up Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: latest
-          extended: true
-
       - name: Build site
-        run: hugo --minify --enableGitInfo
+        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo
 
       - name: Deploy to Cloudflare Pages
         id: deploy
