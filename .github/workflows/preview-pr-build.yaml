@@ -21,6 +21,8 @@ jobs:
           fetch-depth: 0
           submodules: true
 
+      - uses: DeterminateSystems/nix-installer-action@main
+
       - name: 检出 PR 修改的部分
         run: |
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
@@ -39,14 +41,8 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
-      - name: Set up Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: latest
-          extended: true
-
       - name: Build site
-        run: hugo --minify --enableGitInfo --baseURL "/"
+        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo --baseURL "/"
 
       - name: Deploy to Cloudflare Pages
         id: deploy
