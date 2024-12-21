@@ -295,7 +295,7 @@ window.document.addEventListener("DOMContentLoaded", function () {
     button1 = "免責聲明";
     button2 = "知道了";
   }
-  if (contentText != null) {
+  if (contentText != null && window.location.pathname !== "/zh-cn/about/disclaimer/") {
     banner.innerHTML = `
     ${contentText}
     <a href="/zh-cn/about/disclaimer/" id="cookies-eu-more">${button1}</a>
