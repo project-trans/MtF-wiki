@@ -27,6 +27,7 @@ weight: 2
 天津市,天津医科大学第二医院,黄永望,200 CNY/次,一个疗程 5 节课
 美国,UCI Health Speech Therapy,Jennifer Kim,一个疗程10节课,CPT® code 92507。
 美国,Northwestern Medicine,Jonelyn Langenstein (Chicago DT) <br> Sarah Penzell <br> Nathan Waller (Evanston),"预约电话：[312-695-8182](tel:312-695-8182) (Chicago DT) <br> [847-491-3165](tel:847-491-3165) (Evanston)",打电话时请 request to schedule with an ENT，以便后续保险报销。
+加拿大,The Speech People,Julia Cohen,$145/hr(2024),网站：https://thespeechpeople.ca
 ```
 
 对于更多尚未探索的医疗资源请参见 [未确认列表（嗓音女性化）]({{< ref "unconfirmed#vocal-therapy-prc" >}})
