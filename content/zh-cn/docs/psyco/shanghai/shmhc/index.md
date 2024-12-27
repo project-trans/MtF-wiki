@@ -64,6 +64,8 @@ P.S. 实际上只要去就诊就会在系统里有「易性症」的诊断病历
 
 ## 证明样式 {#proof}
 
+{{< watermark "proof_2024.jpg" >}}
+
 {{< watermark "proof.jpg" >}}
 
 ## 「四宫格」 {#self-review}
