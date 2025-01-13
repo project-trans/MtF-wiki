@@ -29,7 +29,7 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 - 廠商：拜耳
 - 產地：土耳其
 - 規格：50mg &times; 50 片，100mg &times; 30 片
-- [仿單（正體中文）](androcur-zh.pdf)
+- [仿單（正體中文）](/documents/androcur-zh.pdf)
 
 ### Androcur®
 由拜爾德國分公司生產、銷售的Androcur®，簡稱德色。
