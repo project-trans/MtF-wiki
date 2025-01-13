@@ -92,7 +92,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 幻想变性性兴奋理论（{{< wiki Autogynephilia en >}}），一般认为是过时的理论
 
-驳 AG 论：<https://blog.mtf.wiki/posts/case-against-autogynephilia/>
+驳 AG 论这篇论文对一性欲倒错模型进行了深入的批判。[驳 AG 论中文译本 PDF 下载](https://digital.transchinese.org/%E5%AD%A6%E6%9C%AF%E6%96%87%E7%8C%AE/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/The_Case_Against_Autogynephilia_%E9%A9%B3AG_%E8%AE%BA.pdf)
 
 ## CD
 
