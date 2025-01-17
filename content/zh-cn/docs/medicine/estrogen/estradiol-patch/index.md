@@ -42,7 +42,6 @@ description: 外用雌二醇贴片，经皮吸收。
 - 规格：25、50、75、100 µg/天
 - 患者用说明书：100 µg/天[英语原文](https://rowex.ie/wp-content/uploads/2024/08/EN_de-pl-ESTRAMON%C2%AE-100-%C2%B5g-24-h-transdermal-patch.pdf)
 - 单片（100 µg/天）理论疗效：雌二醇测定，平均 81 pg/mL，最高 118 pg/mL
-   + 已有两名本站读者分别于使用两贴后次日、两贴后第三日测出 659.90 pg/mL、150+ pg/mL 的报告。
 
 ### Progynova&reg; TS / Climara&reg;
 
@@ -53,8 +52,8 @@ description: 外用雌二醇贴片，经皮吸收。
 - 规格：25、37.5、50、60、75、100 µg/天
 - 说明书：[英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020375s049s050lbl.pdf)
 - 单片（100 µg/天）理论疗效：
-   + 腹部：雌二醇测定，平均 87 pg/mL，最高 147 pg/mL
-   + 臀部：雌二醇测定，平均 106 pg/mL，最高 174 pg/mL
+  - 腹部：雌二醇测定，平均 87 pg/mL，最高 147 pg/mL
+  - 臀部：雌二醇测定，平均 106 pg/mL，最高 174 pg/mL
 
 ### Estrana&reg; Tapes
 
@@ -65,7 +64,6 @@ description: 外用雌二醇贴片，经皮吸收。
 - 规格：0.09、0.18、0.36、0.72 mg
 - 说明书：[日语原文](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/000000003134.pdf) | [中文翻译](https://tfsci.mtf.wiki/zh-cn/misc/estrana-tapes/)
 - 单片（0.72 mg）理论疗效：雌二醇测定，平均 52.0～53.8 pg/mL
-
 
 ## 用法用量
 
