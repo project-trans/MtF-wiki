@@ -99,7 +99,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 ## 副作用
 
 - **脑膜瘤风险**：色普龙可能诱发脑膜瘤，风险与剂量和使用时长正相关。建议尽可能以更小剂量服用；如累积剂量已很大（高于 10 g），建议进行核磁共振扫描（MRI）[^7]。
-- **抑郁**：色普龙会导致抑郁风险升高[^3]。主要原因是色普龙对于生理男性起到了抗雄激素和潜在的糖皮质激素作用，并可能诱发维生素 B<sub>12</sub> 缺乏[^4]。有必要适量补充维生素 B<sub>12</sub>。
+- **精神疾病**：色普龙可能导致抑郁风险升高。主要原因是色普龙对于生理男性起到了抗雄激素和潜在的糖皮质激素作用，并可能诱发维生素 B<sub>12</sub> 缺乏[^4]，而维生素 B<sub>12</sub> 的缺乏和多种精神/情绪状况的改变有关，包括抑郁[^3]。有必要适量补充维生素 B<sub>12</sub>。
 - **高血压**与**高血糖**：色普龙可能会提高体内胰岛素抗性，从而引起血糖偏高[^9]。糖尿病患者应慎用，用药时抗糖尿病制剂或胰岛素的需求可能改变；并发血管病变时禁用[^6]。
 - **血栓**与**乳腺癌风险**：与雌激素合用时可一定程度提高其风险[^12] [^13]。此外，也有色普龙单药引起更高的血栓风险之报告[^14]。
 - **高泌乳素水平**：可明显增加泌乳素水平，且随剂量上升，严重时可引起**垂体泌乳素瘤**。应定期检查泌乳素水平[^2]。
@@ -116,7 +116,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 [^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 [^2]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
-[^3]: Paoletti A M, Floris S, Mannias M, et al. Evidence That Cyproterone Acetate Improves Psychological Symptoms and Enhances the Activity of the Dopaminergic System in Postmenopause [J]. *The Journal of Clinical Endocrinology & Metabolism*, 2001, 86(2): 608–612. DOI: [10.1210/jcem.86.2.7179](https://doi.org/10.1210/jcem.86.2.7179)
+[^3]: Sadock B J, Ahmad S, Sadock V A. Kaplan and Sadock's Pocket Handbook of Clinical Psychiatry [M]. 6th ed. Philadelphia, US: Wolters Kluwer, 2018: 92.
 [^4]: Ramsay I D, Rushton D H. Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia [J]. *Clinical and Experimental Dermatology*, 1990, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
 [^5]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/misc/siterone-nz/)
 [^6]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-tw/)

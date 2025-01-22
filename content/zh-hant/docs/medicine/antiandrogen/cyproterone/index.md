@@ -75,7 +75,7 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 ## 副作用
 
 - **腦膜瘤風險**：色普龍可能誘發腦膜瘤，風險與劑量和使用時長正相關。建議儘可能以更小劑量服用；如累積劑量已很大（高於 10 g），建議進行核磁共振掃描（MRI）[^7]。
-- **憂鬱**：色普龍會導致憂鬱風險升高[^3]。主要原因是色普龍對於生理男性起到了抗雄激素和潛在的糖皮質激素作用，並可能誘發維他命 B<sub>12</sub> 缺乏[^4]。有必要適量補充維他命 B<sub>12</sub>。
+- **憂鬱**：色普龍可能導致憂鬱風險升高。主要原因是色普龍對於生理男性起到了抗雄激素和潛在的糖皮質激素作用，並可能誘發維他命 B<sub>12</sub> 缺乏[^4]，而維他命 B<sub>12</sub> 的缺乏和多種精神/情緒狀況的改變有關，包括憂鬱[^3]。有必要適量補充維他命 B<sub>12</sub>。
 - **高血壓**與**高血糖**：色普龍可能會提高體內胰島素抗性，從而引起血糖偏高[^9]。糖尿病患者應慎用，用藥時抗糖尿病製劑或胰島素的需求可能改變；併發血管病變時停用[^6]。
 - **血栓**與**乳腺癌風險**：與動情素合用時可一定程度提高其風險[^12] [^13]。此外，也有色普龍單藥引起更高的血栓風險之報告[^14]。
 - **高催乳素水平**：色譜龍可明顯增加催乳素水平，且隨劑量上升，嚴重時可引起**垂體催乳素瘤**。應定期檢查催乳素水平[^2]。
@@ -92,7 +92,7 @@ description: 醋酸環丙孕酮（Cyproterone Acetate），是一種常用的抗
 
 [^1]: Wikipedia. (2023-11-25). Chlormadinone acetate. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 [^2]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. 譯文：《[低劑量的醋酸環丙孕酮足以最大限度地抑制女性傾向跨性別者的睪酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
-[^3]: Paoletti, A. M., Floris, S., Mannias, M., et al. (2001). Evidence That Cyproterone Acetate Improves Psychological Symptoms and Enhances the Activity of the Dopaminergic System in Postmenopause. *The Journal of Clinical Endocrinology & Metabolism*, 86(2): 608–612. DOI: [10.1210/jcem.86.2.7179](https://doi.org/10.1210/jcem.86.2.7179)
+[^3]: Sadock, B. J., Ahmad, S., & Sadock, V. A. (2018). Kaplan and Sadock's Pocket Handbook of Clinical Psychiatry, 6th Edition (pp. 92). Philadelphia: Wolters Kluwer.
 [^4]: Ramsay, I. D., Rushton, D. H. (1990). Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia. *Clinical and Experimental Dermatology*, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
 [^5]: [醋酸環丙孕酮（紐西蘭 Siterone）說明書](https://tfsci.mtf.wiki/misc/siterone-nz/)
 [^6]: [醋酸環丙孕酮（臺灣 Androcur）說明書](https://tfsci.mtf.wiki/misc/androcur-tw/)
