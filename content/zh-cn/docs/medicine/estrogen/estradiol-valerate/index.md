@@ -68,9 +68,25 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 “克龄蒙”所含醋酸环丙孕酮的剂量极低（1 mg/粒），且每盒仅有 10 粒复方片剂，不足以确保充分的抗雄激素效力。推荐剂量见《[色普龙]({{< ref "cyproterone" >}})》。
 {{< /notice >}}
 
+### 仙琚 仙静&reg;
+
+|                    仅限中国大陆                   |
+| :--------------------------------------------------: |
+| ![!](/images/medicine/estradiol-valerate/xianjing.jpg) |
+
+- 内含：单方戊酸雌二醇片
+- 性状：薄膜衣片，其余不明
+- 规格：1 mg/片，21 片/盒
+- 厂商：浙江仙琚制药
+- [国药准字 H20244319](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZDk5MTgwNmYyYjNiYzBkMDkyMDNhOTE0ZjQwZTc2OTcmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm)
+
+{{< notice warning "提示" >}}
+此产品系新近上市，可能在你所在的城市尚不可用；是否适用于舌下含服尚未可知，需进一步调查。欢迎提供相关线索。
+{{< /notice >}}
+
 ## 使用方式与用量
 
-- 服用方式：口服（味甜）
+- 服用方式：口服
   （亦可含服，含服吸收应更佳，但相关证据仍很有限[^1] [^3]）
 - 使用剂量：2 mg 至 6 mg
 - 吸收情况：据说明书，单次 1 mg 补佳乐约能提供 15 pg/mL 的**峰值**血清浓度（持续服用可维持），克龄蒙（2 mg）可达到 30 pg/mL 峰值，均远低于 100 pg/mL；
