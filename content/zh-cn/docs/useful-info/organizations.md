@@ -46,6 +46,15 @@ Facebook：<https://facebook.com/ynparallel>\
 电话：{{< telephone "+86 0871-6337-9065" >}}、{{< telephone "+86 180-6482-4919" >}}\
 QQ 群：{{< shields/qq 170530694 >}}
 
+## 出色伙伴
+
+出色伙伴（英语：TRUESELF），原名“同性恋亲友会（PFLAG China）”，是一个关注 LGBT 群体自我认同与家庭接纳的公益组织。引自[维基百科](https://zh.wikipedia.org/wiki/%E5%87%BA%E8%89%B2%E4%BC%99%E4%BC%B4)
+
+地区：全国 \
+微信公众号：「[出色伙伴](weixin://trueself2008)」\
+微博：[出色伙伴TrueSelf](https://weibo.com/u/1715958523) \
+bilibili：[出色伙伴Trueself](https://space.bilibili.com/23223438)
+
 ### 多元性别家暴干预服务地图 {#map-page}
 
 （来源：微信公众号 - [同语II](weixin://tongyu2005-ii)）
