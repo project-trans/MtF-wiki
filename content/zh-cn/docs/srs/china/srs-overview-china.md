@@ -10,7 +10,7 @@ slug: overview
 
 ## 法律依据 {#legal}
 
-依据 [《性别重置技术临床应用管理规范（2022 版）》](https://project-trans.org/china-legal/spec/2022-04-20/srs/readme)
+依据 [《性别重置技术临床应用管理规范（2022 年版）》](https://project-trans.org/china-legal/spec/2022-04-20/srs/readme)
 
 > 三、技术管理基本要求
 >
@@ -36,7 +36,7 @@ slug: overview
 
 相较于 2017 版具体修订内容请查看 <https://link.mtf.wiki/srs/legal-spec>
 
-具体前置条件以院方要求为准，本文仅列出在中国大陆实施 SRS 所需的合规性条件。
+具体前置条件以院方要求为准，这里仅列出在中国大陆实施 SRS 所需的合规性条件。
 
 其他实际影响手术实施因素：
 
@@ -45,7 +45,7 @@ slug: overview
 
 ## 术前公证 {#pre-notarization}
 
-原则上需要对「手术同意书」进行公证以保证该事项的合法性
+可能需要对「手术同意书」进行公证以保证该事项的合法性
 
 具体参见：[术前公证]({{< ref "notarization" >}})
 
@@ -55,7 +55,7 @@ slug: overview
 
 ## 费用预期 {#fee}
 
-中位数预期为 50000 CNY
+中位数预期为 70000 CNY
 
 <!-- 需要一般化不同手术术式的中位数预期 -->
 
