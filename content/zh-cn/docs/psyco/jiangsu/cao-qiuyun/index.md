@@ -4,7 +4,7 @@ title: 南京｜曹秋云
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "和蔼" >}} {{< tag/pos "一次过" >}} {{< tag/neg "开大证需家属介入" >}}
+{{< tag/pos "和蔼" >}} {{< tag/neg "开大证需家属介入" >}}
 
 医生姓名：[曹秋云](https://www.haodf.com/doctor/24012.html)
 
