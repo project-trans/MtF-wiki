@@ -1,7 +1,6 @@
 ---
 title: 澳大利亚 HRT 综述
 weight: 1000
-collapsible: true
 ---
 
 - 澳大利亚HRT流程：<https://www.transhub.org.au/informed-consent>
