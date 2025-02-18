@@ -45,7 +45,7 @@ slug: overview
 
 ## 术前公证 {#pre-notarization}
 
-可能需要对「手术同意书」进行公证以保证该事项的合法性
+一些医院可能要求对「手术同意书」进行公证。
 
 具体参见：[术前公证]({{< ref "notarization" >}})
 
