@@ -24,7 +24,7 @@ weight: 1
 
 ## 仅开具 HRT 处方 {#prescription}
 
-目前国内能合法开具的 HRT 处方主要有如下药品
+目前能开具 HRT 处方的主要有如下药品
 
 - 雌二醇药品
   - [补佳乐&reg;戊酸雌二醇片]({{< ref estradiol-valerate >}})
