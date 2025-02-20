@@ -12,6 +12,12 @@ Saran教授是PAI的股东之一，是朱拉隆功大學的医学教授，并且
 
 Wansiri医院官网：<https://www.wansirihospital.com>
 
+## 翻译陪护
+
+- Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
+
+    自身为 MtF，对suporn可以陪护，但不负责联系。
+
 ## 手术细节
 
 ### 手术前
