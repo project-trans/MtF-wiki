@@ -10,7 +10,7 @@ title: Saran教授
 
 Saran教授是PAI的股东之一，是朱拉隆功大學的医学教授哦，手术效果类似于布林，目前具术后人士描述，术后疤痕较小，并且是Wansiri医院的院长。
 
-Wansiri医院官网：<https://www.wansirihospital.com/>
+Wansiri医院官网：<https://www.wansirihospital.com>
 
 ## 手术细节
 
