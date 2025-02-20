@@ -6,17 +6,9 @@ title: Saran教授
 目前该医生没有中文中介，只有英文中介Charee，目前该医院案例较少，建议进行充分的咨询
 {{< /notice >}}
 
-## 医生介绍
-
-Saran教授是PAI的股东之一，是朱拉隆功大學的医学教授，并且是Wansiri医院的院长，手术效果类似于布林，目前具术后人士描述，术后疤痕较小。
-
 Wansiri医院官网：<https://www.wansirihospital.com>
 
 ## 翻译陪护
-
-- Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
-
-    自身为 MtF，对suporn可以陪护，但不负责联系。
 
 ## 手术细节
 
