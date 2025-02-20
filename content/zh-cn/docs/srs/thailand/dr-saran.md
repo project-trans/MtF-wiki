@@ -1,15 +1,6 @@
 ---
 title: Saran教授
 ---
-
-{{< notice warning "注意" >}}
-目前该医生没有中文中介，只有英文中介Charee，目前该医院案例较少，建议进行充分的咨询
-{{< /notice >}}
-
-Wansiri医院官网：<https://www.wansirihospital.com>
-
-## 翻译陪护
-
 ## 手术细节
 
 ### 手术前
