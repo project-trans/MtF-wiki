@@ -2,6 +2,14 @@
 title: Saran教授
 ---
 
+医生姓名：Saran Wannachamras
+
+所在医院：[Wansiri Hospital](https://maps.app.goo.gl/MeiVuPNTQvJvzon36)
+
+官方网站：<https://www.wansirihospital.com/en/male-to-female/>
+
+邮箱：<info@wansirihospital.com>
+
 # 手术价格
 
 ```csv
