@@ -8,6 +8,8 @@ title: Saran教授
 手术方式,价格
 0 深度,{{< currency 320000 THB >}}
 阴囊皮瓣,{{< currency 350000 THB >}}
+乙状结肠,{{< currency 450000 THB >}}
+乙状结肠（内视镜）,{{< currency 620000 THB >}}
 ```
 
 ## 手术细节
