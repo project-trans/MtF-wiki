@@ -1,5 +1,5 @@
 ---
-title: Saran教授
+title: Saran 医生
 ---
 
 医生姓名：Saran Wannachamras
