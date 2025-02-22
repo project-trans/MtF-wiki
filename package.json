@@ -10,7 +10,7 @@
   "author": "",
   "private": true,
   "dependencies": {
-    "@project-trans/suggestion-box": "^0.4.3"
+    "@project-trans/suggestion-box": "^0.5.0"
   },
-  "packageManager": "npm@10.8.3+sha512.d08425c8062f56d43bb8e84315864218af2492eb769e1f1ca40740f44e85bd148969382d651660363942e5909cb7ffcbef7ca0ae963ddc2c57a51243b4da8f56"
+  "packageManager": "npm@11.1.0+sha512.acf301ad9b9ddba948fcb72341e2f0fcae477f56a95cc2a092934d133a7461062633cefbf93d5934a3dc0768674e2edee9f04dcfcc4bb4c327ff0e3a7d552a1b"
 }
