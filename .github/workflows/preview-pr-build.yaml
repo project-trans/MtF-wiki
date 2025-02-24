@@ -27,6 +27,7 @@ jobs:
         run: |
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
           git checkout -qf FETCH_HEAD
+          git submodule update
 
       # - name: 配置 baseURL
       #   run: |
