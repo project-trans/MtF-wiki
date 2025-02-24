@@ -2,6 +2,7 @@
 title: "Acerca de nosotras"
 description: "La MtF.wiki se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,"
 weight: 0
+hidden-timeliness: true
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
