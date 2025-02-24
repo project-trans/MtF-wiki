@@ -252,3 +252,16 @@ div.watermark::after {
     filter: grayscale(100%);
   }
 }
+
+.last-modified {
+  font-size: 0.8rem;
+}
+
+.theme__light .last-modified {
+  color: oklch(0.551 0.027 264.364);
+}
+
+.theme__dark .last-modified {
+  color: oklch(0.707 0.022 261.325);
+}
+

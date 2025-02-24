@@ -14,7 +14,7 @@ other = "修改于"
 other = "阅读时间"
 
 [summary-dateformat]
-other = "2006年01月02日"
+other = "2006年1月2日"
 
 [reading-time]
 other = "分钟阅读量"
@@ -27,4 +27,7 @@ other = "编辑此页面"
 
 [click-to-show]
 other = "点击查看"
+
+[last-modified]
+other = "最近更新于 "
 
