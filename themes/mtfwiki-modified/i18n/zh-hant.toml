@@ -6,3 +6,9 @@ other = "聯繫我們"
 
 [click-to-show]
 other = "點擊檢視"
+
+[summary-dateformat]
+other = "2006年1月2日"
+
+[last-modified]
+other = "最近更新於 "
