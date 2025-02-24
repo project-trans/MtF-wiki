@@ -10,7 +10,6 @@ copyright = "<img src='/new/mtf-wiki-long.svg' style='height:1em;display:inline;
 timeout = "1m"
 enableEmoji = true
 enableRobotsTXT = true
-enableGitInfo = true
 
 [pagination]
 pagerSize = 13
