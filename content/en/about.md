@@ -2,6 +2,7 @@
 title: "About us"
 description: "MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
 weight: 0
+hidden-timeliness: true
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">

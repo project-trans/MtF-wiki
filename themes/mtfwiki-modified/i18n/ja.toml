@@ -6,3 +6,9 @@ other = "お問い合わせ"
 
 [click-to-show]
 other = "クリックすると表示されます"
+
+[summary-dateformat]
+other = "2006年1月2日"
+
+[last-modified]
+other = "最終更新日 "

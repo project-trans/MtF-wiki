@@ -2,6 +2,7 @@
 title: "MtF.wiki について"
 description: "MtF.wiki は、トランス関連の医療と生活情報が手に入れる、フリー・オープン継続的に更新される知識統合サイトになることを目指しています。"
 weight: 0
+hidden-timeliness: true
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">

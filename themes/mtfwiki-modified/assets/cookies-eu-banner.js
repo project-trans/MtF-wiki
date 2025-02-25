@@ -298,7 +298,7 @@ window.document.addEventListener("DOMContentLoaded", function () {
   if (contentText != null && window.location.pathname !== "/zh-cn/about/disclaimer/") {
     banner.innerHTML = `
     ${contentText}
-    <a href="/zh-cn/about/disclaimer/" id="cookies-eu-more">${button1}</a>
+    <button onclick="window.location.href='/zh-cn/about/disclaimer/';" id="cookies-eu-more">${button1}</button>
     <button id="cookies-eu-accept">${button2}</button>
 `;
 
