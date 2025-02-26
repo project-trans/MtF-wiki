@@ -10,9 +10,9 @@ title: Saran 医生
 
 邮箱：<info@wansirihospital.com>
 
-# 中介和翻译
+# 中介
 
-Cheraa官方网站：<https://www.transgendersurgerythailand.com/>
+- [Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/)
 
 # 手术价格
 
