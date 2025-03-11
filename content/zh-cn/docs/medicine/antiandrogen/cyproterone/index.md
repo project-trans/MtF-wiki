@@ -32,6 +32,14 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 规格：50mg &times; 50 片，100mg &times; 30 片
 - [说明书（繁体中文）](/documents/androcur-zh.pdf) [（简体中文释义）](https://tfsci.mtf.wiki/misc/androcur-tw/)
 
+{{< notice info >}}
+
+在土耳其生产的Androcur可以通过土耳其药品追踪系统查询信息：
+
+<https://www.its.gov.tr/its/ilac_sorgula>
+
+{{< /notice >}}
+
 ### Androcur&reg;
 
 由拜尔德国分公司生产、销售的Androcur&reg;，简称德色。
