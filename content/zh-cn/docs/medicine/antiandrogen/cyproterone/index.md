@@ -83,17 +83,31 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 ### 特別提示
 
-- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性[^1]，但并非醋酸环丙孕酮，请不要误用
+{{< notice warning >}}
+
+- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性[^1]，但并非醋酸环丙孕酮，请不要误。
+
+[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
+
+{{< /notice >}}
 
 ## 使用方式与用量
 
+{{< notice warning >}}
+
+本章节内容仅针对同时使用雌激素制剂的女性倾向跨性别者。
+
+长期仅使用醋酸环丙孕酮单方制剂的跨性别者与多元性别群体相关的资料较少，尚待进一步研究与整理。有此类需求的群体请寻求执业医师的专业指导。
+
+{{< /notice >}}
+
 - 服用方式：口服（无明显味道）
 - 建议使用剂量：**10 mg/天**[^2]
-  - 多项研究发现 10 mg/天左右剂量已可最大程度抑制睾酮，且效果与高剂量一致[^2]。最新发布的《跨性别和多元性别人群健康照护指南》第八版（SOC 8）亦建议 10 mg/天的剂量[^8]。
+  - 多项研究发现，在与雌二醇同时使用时 10 mg/天左右剂量已可最大程度抑制睾酮，且效果与高剂量一致[^2]。最新发布的《跨性别和多元性别人群健康照护指南》第八版（SOC 8）亦建议 10 mg/天的剂量[^8]。
   - 超出建议剂量会有更大的副作用与健康风险（见下）；低于建议剂量可能会使睾酮抑制效果不充分。
 - 进一步研究则发现，每周两次 12.5 mg（等效约 3.5 mg/天）的超低剂量同样可以实现睾酮水平的充分抑制[^10]。达到效果的情况下尽量减少用量。
   - 可用切药器切为四片（即每份 12.5 mg），每 1 ~ 3 日一服。
-- 部分情况下可能会出现 10 mg/天 的剂量无法完全抑制睾酮的情况，请首先检查雌激素血药浓度是否足够，必要时详询医师。
+- 若出现 10 mg/天 的剂量无法完全抑制睾酮的情况，请首先检查雌激素血药浓度是否足够，必要时咨询执业医师。
 - 建议适量补充维生素 B<sub>12</sub>。
 - 停药时须逐步减药。
 
@@ -115,7 +129,6 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 分子量：416.94
 - CAS：427-51-0
 
-[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 [^2]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
 [^3]: Sadock B J, Ahmad S, Sadock V A. Kaplan and Sadock's Pocket Handbook of Clinical Psychiatry [M]. 6th ed. Philadelphia, US: Wolters Kluwer, 2018: 92.
 [^4]: Ramsay I D, Rushton D H. Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia [J]. *Clinical and Experimental Dermatology*, 1990, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
