@@ -10,9 +10,7 @@ weight: 10
 出诊时刻：<https://www.haodf.com/doctor/scheduletips/297218.html>
 
 {{< notice info >}}
-
 在李革临处进行声带手术需要任意三甲医院的**跨性别相关医疗资料**，可以是易性症诊断病历或诊断证明；或精神科持续就诊三个月以上，且有相关诊断的病历。并且需要家长知情。
-
 {{< /notice >}}
 
 ## 费用参考
@@ -46,7 +44,6 @@ weight: 10
 ## 全流程攻略（仅供参考）
 
 {{< notice info >}}
-
 编者于 2025-02-28 手术，遇到有姐妹术前住院不止一天，等待时间较长的情况。
 
 编者不建议购买饭卡（据称 3 天 200 元），因为可以在医院小程序订餐（编者没试过），且儿科楼一层门口有外卖架，点外卖很方便。
@@ -124,6 +121,7 @@ weight: 10
 
 一般此时安排出院。
 
+1. 拆除留置针；腕带可自行留作纪念
 1. 做喉镜检查及发声测试，检查缝线情况
 1. 医生开具抗生素药物，交代术后第一次复查时间等
 1. 到**内科楼**住院服务中心办理出院，退结剩余款项
@@ -167,3 +165,4 @@ weight: 10
 
 - [手术日志: 202202 北京友谊医院 声带+喉结 手术 (实例供参考) · Issue #384 · project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki/issues/384)
 - [北京友谊医院 手术记录 (供参考) · Issue #425 · project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki/issues/425)
+- [ada 等人的手术交流微信群（通过邮件联系加入）](mailto:yangzheh22@gmail.com)
