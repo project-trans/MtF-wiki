@@ -197,5 +197,6 @@ Tips:
 - 于PAI的性别重置手术（SRS）流程 <https://zhuanlan.zhihu.com/p/733798080>
 - 托比Todiher的泰国SRS日记 <https://www.xiaohongshu.com/board/671a5a49000000000e002417>
 - srs泰国-布林 <https://pizyj.notion.site/srs-1720fc25eba28059af1dd5e02973d2b1>
+- 击剑带师🤺的SRS之旅 <https://t.me/Jtldmio>
 
 [^1]: <https://pai.co.th/service/penile-skin-inversion-scrotal-skin-graft-male-to-female-trans-women/>
