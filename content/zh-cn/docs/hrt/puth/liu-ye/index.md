@@ -31,6 +31,10 @@ aliases:
 
 后续复诊可换用3月缓释制剂，可减少注射频率，药物花费约每3月 3000元。
 
+{{< watermark "prescription-gnrha.jpg" 处方 >}}
+
+{{< watermark "injection-gnrha.jpg" 院外注射证明 >}}
+
 {{<gallery pattern="gnrha-*">}}
 
 ## 问诊细节
