@@ -54,7 +54,7 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 
 圖中虛線是整個週期內雌二醇水平的平均值，接近於 100 pg/mL。我們接受 HRT 同樣以 100 pg/mL 為目標：多份醫學指南都推薦了將雌二醇水平期望值設於 100～200 pg/mL 之間[^1] [^4]；但在實際操作中，短時處於卵泡期範圍內（30 pg/mL 以上）也是足可容忍的——不宜一直處於低位，見[下文]({{< ref "#precautions" >}})。
 
-**檢查結果該怎麼看呢？** 主要觀察**雌二醇和睪酮**；泌乳素（PRL）和 LH、FSH 酌情觀察，詳情在[這裡]({{< ref "monitoring" >}})可見；黃體酮基本沒有參考意義。下面是成年女性及男性的激素水平參考範圍[^6]：
+**檢查結果該怎麼看呢？** 主要觀察**雌二醇和睪酮**；推薦觀察催乳素（PRL），發現升高時密切隨訪，詳情在[這裡]({{< ref "monitoring" >}})可見；LH、FSH 僅推薦於青春期阻斷治療期間觀察；黃體酮基本沒有參考意義。下面是成年女性及男性的激素水平參考範圍[^6]：
 
 | 參考指標 | pg/mL | pmol/L |
 |-|-|-|
@@ -66,6 +66,7 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 |-|-|-|
 | 睪酮（絕經前女性） | 0.10 – 0.55 | 0.35 – 1.91 |
 | 睪酮（男性） | 2.64 – 9.16 | 9.15 – 31.76 |
+| 催乳素（女性） | 4.79 – 23.3 | |
 
 以上參考值可能與檢查報告單所示不同，此時以報告單為準。
 
@@ -140,7 +141,7 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 
 ![curve](/images/medicine/pep-e2-t-curves.png)
 
-可以看到，當雌二醇水平上升到並維持於 200 pg/mL 以上時，睪酮水平被抑制到順性別女性參考範圍內（55 pg/mL 以下）。而從上表可以得知，無論何種途徑都需要很高劑量來達到 200 pg/mL 的目標[^7]；除注射劑以外，不僅成本飆升，使用上的不便也會越發顯著。因此我們僅推薦將針劑用於雌二醇單藥治療。
+可以看到，當雌二醇水平上升到並維持於 200 pg/mL 以上時，睪酮水平被抑制到順性別女性參考範圍內（55 ng/mL 以下）。而從上表可以得知，無論何種途徑都需要很高劑量來達到 200 pg/mL 的目標[^7]；除注射劑以外，不僅成本飆升，使用上的不便也會越發顯著。因此我們僅推薦將針劑用於雌二醇單藥治療。
 
 除注射劑以外，一般推薦加用一種抗雄性素藥物，詳見[下文]({{< ref "#antiandrogens" >}})。
 
@@ -166,7 +167,7 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 
 #### 抗雄性素藥物的運用 {#antiandrogens}
 
-一般而言，對於尚留有性腺的 MtF，建議將一種抗雄性素藥物與雌激素合用，來達到理想的女性化效果[^4]。舉個例子，我們從上文的圖表知道，雌二醇一旦低於 200 pg/mL，便不能完全阻止來自性腺的睪酮分泌[^5] [^30]；而“色普龍”本身最多能夠抑制 50～70%[^22] [^33]；二者合用時，睪酮可減少 95%，落入女性範圍內[^22] [^34]。這就是合用的魅力。  
+一般而言，對於尚留有性腺的 MtF，建議將一種抗雄性素藥物與雌激素合用，來達到理想的女性化效果[^4]。舉個例子，我們從上文的圖表知道，雌二醇一旦低於 200 pg/mL，便不能完全阻止來自性腺的睪酮分泌[^5] [^30]；而“色普龍”本身最多能夠抑制 50～70%[^22] [^33]；二者合用時，睪酮可減少 95%，落入女性範圍內[^22] [^34]。這就是合用的魅力。
 經手術切除睪丸（SRS）以後，一般無需加用抗雄藥物。
 
 目前主要應用的抗雄性素藥物有：
@@ -175,10 +176,10 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 - [Medroxyprogesterone acetate]({{< ref "medroxyprogesterone" >}})（MPA，大陸稱“醋酸甲羥孕酮”）
 - [GnRH 類似物]({{< ref "#puberty-blockers" >}})，一般用於青春期阻斷，詳見下文
 - 高劑量雌激素單藥治療，如[注射]({{< ref "injection" >}})，一般无需再加用其他抗雄药物
-   + 以上可**減少雄激素合成、降低雄激素水平**。檢查報告可直觀反映其效果。
+   + 以上可**減少雄激素合成、降低雄激素水平**。睪酮檢查報告可直觀反映其效果。注意在用藥初期，睪酮下降需要數日方可完成[^45]，不宜操之過急。
 - [Spironolactone]({{< ref "spironolactone" >}})，大陸稱“螺內酯” {{< tag/neg "略不推薦" >}}
 - [Bicalutamide]({{< ref "bicalutamide" >}})，大陸稱“比卡魯胺” {{< tag/neg "不推薦常規應用" >}}
-   + 以上可**作用於雄激素受容體，直接阻斷雄激素活動**。檢查報告不能反映此類藥物的效果。
+   + 以上可**作用於雄激素受容體，直接阻斷雄激素活動**。睪酮檢查報告不能反映此類藥物的效果。
 
 同樣地，以上也設定了傳送門，點選檢視詳情。這裡簡要介紹其中三種：
 
@@ -344,5 +345,6 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 [^42]: Aly. (2019). An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/nonbinary-transfem-overview/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/nonbinary-transfem-overview/)】
 [^43]: van Leerdam, T. R., Zajac, J. D., & Cheung, A. S. (2023). The Effect of Gender-Affirming Hormones on Gender Dysphoria, Quality of Life, and Psychological Functioning in Transgender Individuals: A Systematic Review. *Transgender Health*, 8(1), 6-21. <https://doi.org/10.1089/trgh.2020.0094>
 [^44]: Eli Lilly and Company. EVISTA&reg; Prescribing Information [EB/OL]. *Drugs@FDA*, 2018. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/evista/)】
+[^45]: Rost, A., Schmidt‐Gollwitzer, M., Hantelmann, W., & Brosig, W. (1981). Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer. *The Prostate*, 2(3), 315-322. <https://doi.org/10.1002/pros.2990020310>
 
 [^97]: 北同文化. (2021-12-26). \[中國大陸] 2021 全國跨性別健康調研報告. 【[PDF 檔案](https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf)】
