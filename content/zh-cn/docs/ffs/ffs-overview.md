@@ -87,6 +87,8 @@ FFS 的本质是整容医美手术的一部分。因此考虑 FFS 时候可以�
 
 以 **医疗美容医院** 结尾的医院均为“民营医院 - [专科医院](http://www.nhc.gov.cn/yzygj/s3576/201706/4d84820f321144c290ddaacba53cb590.shtml)”
 
+[TransSurgeriesWiki](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/usa) 整理了大量美国各州 FFS 医生的位置以及过往患者在 Reddit 上发表的反馈帖子
+
 ## 参考资料 {#references}
 
 - [北医三院：跨性别女性如何让面部更柔美？](https://mp.weixin.qq.com/s/U11GPVQ8jKapB35auN6xAQ) (<https://archive.is/cenPo>)
@@ -94,3 +96,4 @@ FFS 的本质是整容医美手术的一部分。因此考虑 FFS 时候可以�
 - <http://www.chet-plasticsurgery.com/zh-hans/脸部女性化手术/>
 - <https://www.kamolhospital.com/zh/service/face-feminization/>
 - <http://www.bangkokplasticsurgery.com/?page_id=779&lang=zh-hans>
+- <https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/usa>
