@@ -1,4 +1,4 @@
-baseURL = "https://mtf.wiki"
+baseURL = "https://mtf.wiki/"
 title = "MtF.wiki"
 theme = ["mtfwiki-modified", "zdoc"]
 
@@ -10,7 +10,10 @@ copyright = "<img src='/new/mtf-wiki-long.svg' style='height:1em;display:inline;
 timeout = "1m"
 enableEmoji = true
 enableRobotsTXT = true
-paginate = 13
+
+[pagination]
+pagerSize = 13
+
 rssLimit = 100
 
 googleAnalytics = ""
@@ -20,12 +23,14 @@ disableKinds = ["taxonomy"]
 [params]
 hostName = "https://mtf.wiki"
 custom_css = [
-  "customize.scss"
+  "customize.scss",
+  "cookies-eu-banner.css"
 ]
 custom_js = [
   "sweetalert.min.js",
   "qrcode.min.js",
-  "customize.js"
+  "customize.js",
+  "cookies-eu-banner.js"
 ]
 
 [markup]

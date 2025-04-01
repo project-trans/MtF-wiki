@@ -15,12 +15,12 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 ### Androcur&reg;（安得卡）
 
-```csv
-地区,上市状态
-中国内地,无
-台湾,卫署药输字第 012554 号
-香港,HK-46443
-```
+| 地区     | 上市状态                                                     |
+|----------|--------------------------------------------------------------|
+| 中国内地 | 无                                                           |
+| 台湾     | 卫署药输字第 012554 号                                       |
+| 香港     | HK-46443                                                     |
+| 土耳其   | [88/77](https://titck.gov.tr/storage/Archive/2024/kubKtAttachments/ANDROCUR50mgKB_5a468428-5f66-4d87-8ab5-8b36c5de2127.pdf)   |
 
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
@@ -32,7 +32,16 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 规格：50mg &times; 50 片，100mg &times; 30 片
 - [说明书（繁体中文）](/documents/androcur-zh.pdf) [（简体中文释义）](https://tfsci.mtf.wiki/misc/androcur-tw/)
 
+{{< notice info >}}
+
+在土耳其生产的Androcur可以通过土耳其药品追踪系统查询信息：
+
+<https://www.its.gov.tr/its/ilac_sorgula>
+
+{{< /notice >}}
+
 ### Androcur&reg;
+
 由拜尔德国分公司生产、销售的Androcur&reg;，简称德色。
 
 ```csv
@@ -43,6 +52,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 分销商（品牌）,axicorp Pharma (Bayer)<br>Jenapharm<br>Kohlpharma (Bayer),Jenapharm<br>Kohlpharma (Bayer)
 ```
 
+- [上市信息：2956.00.00](https://portal.dimdi.de/amguifree/am/docoutput/jpadocdisplay.xhtml?globalDocId=4E7A05B119CF44578188377529E83BE6&directdisplay=true&docid=7)
 - [说明书（德文）](/documents/Androcur.pdf)
 - 说明书译文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德国版](https://tfsci.mtf.wiki/misc/androcur-de/)
 
@@ -56,6 +66,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 厂商：REX
 - 产地：新西兰
 - 规格：50mg &times; 50 片，100mg &times; 50 片
+- [上市信息](/documents/siterone.pdf)
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
 
 ### 华典&reg;醋酸环丙孕酮片 {#huadian}
@@ -70,25 +81,50 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [说明书（PDF）](./huadian-zh.pdf)
 - [说明书（网页）](https://tfsci.mtf.wiki/zh-cn/misc/cpa-hd/)
 
+厂商提供的销售渠道：
+
+```csv
+城市,药店,备注
+南京,南京市秦淮区文昌巷13号邻客智慧药房,可以快递发货
+合肥,合肥市蜀山区宿松路3666号国控宿繁店,
+```
+
 ### 特別提示
 
-- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性[^1]，但并非醋酸环丙孕酮，请不要误用
+{{< notice info >}}
+
+- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性[^1]，但并非醋酸环丙孕酮，请不要误用。
+
+[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)\[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
+
+{{< /notice >}}
 
 ## 使用方式与用量
 
+{{< notice warning >}}
+
+本章节内容仅适用于同时使用雌激素制剂的女性倾向跨性别者。
+
+{{< /notice >}}
+
+长期仅使用醋酸环丙孕酮单方制剂的跨性别者与多元性别群体相关的资料较少，尚待进一步研究与整理。有此类需求的群体请寻求医师的专业指导。
+
+CPA 单药治疗时，即使在最大推荐剂量（10～12.5 mg/d）下，也不能实现睾酮水平的完全抑制[^1]；只有在和雌激素合用时方可实现[^2]。
+
 - 服用方式：口服（无明显味道）
-- 建议使用剂量：**5 ~ 12.5 mg/天**[^2]
-  - 多项研究发现 10 mg/天左右剂量已可最大程度抑制睾酮，且效果与高剂量一致[^2]。进一步研究则发现，每周两次 12.5 mg（等效约 3.5 mg/天）的超低剂量同样可以实现睾酮水平的充分抑制[^10]。最新发布的《跨性别和多元性别人群健康照护指南》第八版（SOC 8）亦建议 10 mg/天的剂量[^8]。
-  - 超出建议剂量会有更大的副作用与健康风险（见下）；低于建议剂量可能会使睾酮抑制效果不充分。
+- 建议使用剂量：**10 ~ 12.5 mg/天**[^8]
+  - 多项研究发现，在与雌二醇同时使用时 10 mg/天左右剂量已可最大程度抑制睾酮，且效果与高剂量一致[^2]。WPATH最新发布的《跨性别和多元性别人群健康照护指南》第八版（SOC-8）亦建议 10 mg/天的剂量[^8]。
+  - 超出建议剂量会有更大的副作用与健康风险（见下副作用章节）；低于建议剂量可能会使睾酮抑制效果不显著。
+- 进一步研究则发现，每周两次 12.5 mg（等效约 3.5 mg/天）的超低剂量同样可以实现睾酮水平的充分抑制[^10]。**在推荐剂量达到效果后，尽可能减少用量至 5～6.25 mg/d**。由于研究资料有限，暂不推荐减至 5 mg/d 以下。
   - 可用切药器切为四片（即每份 12.5 mg），每 1 ~ 3 日一服。
-- 达到效果的情况下尽量减少用量。
+- 若在推荐剂量（10 mg/天）下血清睾酮水平仍较高，请首先检查雌激素血药浓度是否足够高，必要时咨询相关专业医师。
 - 建议适量补充维生素 B<sub>12</sub>。
 - 停药时须逐步减药。
 
 ## 副作用
 
 - **脑膜瘤风险**：色普龙可能诱发脑膜瘤，风险与剂量和使用时长正相关。建议尽可能以更小剂量服用；如累积剂量已很大（高于 10 g），建议进行核磁共振扫描（MRI）[^7]。
-- **抑郁**：色普龙会导致抑郁风险升高[^3]。主要原因是色普龙对于生理男性起到了抗雄激素和潜在的糖皮质激素作用，并可能诱发维生素 B<sub>12</sub> 缺乏[^4]。有必要适量补充维生素 B<sub>12</sub>。
+- **精神疾病**：色普龙可能导致抑郁风险升高。主要原因是色普龙对于生理男性起到了抗雄激素和潜在的糖皮质激素作用，并可能诱发维生素 B<sub>12</sub> 缺乏[^4]，而维生素 B<sub>12</sub> 的缺乏和多种精神/情绪状况的改变有关，包括抑郁[^3]。有必要适量补充维生素 B<sub>12</sub>。
 - **高血压**与**高血糖**：色普龙可能会提高体内胰岛素抗性，从而引起血糖偏高[^9]。糖尿病患者应慎用，用药时抗糖尿病制剂或胰岛素的需求可能改变；并发血管病变时禁用[^6]。
 - **血栓**与**乳腺癌风险**：与雌激素合用时可一定程度提高其风险[^12] [^13]。此外，也有色普龙单药引起更高的血栓风险之报告[^14]。
 - **高泌乳素水平**：可明显增加泌乳素水平，且随剂量上升，严重时可引起**垂体泌乳素瘤**。应定期检查泌乳素水平[^2]。
@@ -103,9 +139,8 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 分子量：416.94
 - CAS：427-51-0
 
-[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 [^2]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
-[^3]: Paoletti A M, Floris S, Mannias M, et al. Evidence That Cyproterone Acetate Improves Psychological Symptoms and Enhances the Activity of the Dopaminergic System in Postmenopause [J]. *The Journal of Clinical Endocrinology & Metabolism*, 2001, 86(2): 608–612. DOI: [10.1210/jcem.86.2.7179](https://doi.org/10.1210/jcem.86.2.7179)
+[^3]: Sadock B J, Ahmad S, Sadock V A. Kaplan and Sadock's Pocket Handbook of Clinical Psychiatry [M]. 6th ed. Philadelphia, US: Wolters Kluwer, 2018: 92.
 [^4]: Ramsay I D, Rushton D H. Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia [J]. *Clinical and Experimental Dermatology*, 1990, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
 [^5]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/misc/siterone-nz/)
 [^6]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-tw/)
@@ -118,3 +153,5 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 [^13]: Seaman H E, de Vries C S, Farmer R D T. The risk of venous thromboembolism in women prescribed cyproterone acetate in combination with ethinyl estradiol: a nested cohort analysis and case–control study [J]. *Human Reproduction*, 2003, 18(3): 522–526. DOI: [10.1093/humrep/deg120](https://doi.org/10.1093/humrep/deg120)
 [^14]: Seaman H E, Langley S E M, Farmer R D T, et al. Venous thromboembolism and cyproterone acetate in men with prostate cancer: a study using the General Practice Research Database [J]. *BJU International*, 2007, 99(6): 1398–1403. DOI: [10.1111/j.1464-410X.2007.06859.x](https://doi.org/10.1111/j.1464-410X.2007.06859.x)
 [^15]: Kumari G L, Das R P, Madoiya K K, et al. Effect of short-term cyclic administration of cyproterone acetate on pituitary-ovarian function in the human [J]. *Fertility and sterility*, 1977, 28(11): 1168–1174. DOI: [10.1016/S0015-0282(16)42912-2](https://doi.org/10.1016/S0015-0282(16)42912-2)
+[^16]: Rost A, Schmidt-Gollwitzer M, Hantelmann W, et al. Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer [J]. The Prostate, 1981, 2(3): 315-322. <https://doi.org/10.1002/pros.2990020310>
+[^17]: Fung R, Hellstern-Layefsky M, Lega I. Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses? [J]. International Journal of Transgenderism, 2017, 18(2): 123–128. https://doi.org/10.1080/15532739.2017.1290566

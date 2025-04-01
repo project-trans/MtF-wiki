@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-weight: 10
+weight: 12000
 ---
 
 {{<notice info "提示" >}}
@@ -9,14 +9,21 @@ weight: 10
 
 {{</notice>}}
 
+## PLCT实验室
+
+PLCT实验室是中科院软件所智能软件研究中心下属的一个工程团队，聚焦于编译器、虚拟机、模拟器等基础软件的开发和开源社区的维护。
+
+少数群体STEM支持：甲辰计划实习项目提供至少 20% 岗位数量为女性工程师预留。PLCT实验室为女性及少数群体预留 50% 名额。
+
+＊ PLCT 实验室实习生火热招新中：<https://github.com/plctlab/weloveinterns/blob/master/open-internships.md>
+
 ## 生活兴趣交流群
 
 ```csv
 平台,名称,加入方式
-QQ,Arch 木桶饭（暂时停止新成员入群）,{{< shields/qq 782820926 "https://jq.qq.com/?_wv=1027&k=aVZipzyj" >}}
 QQ,跨儿音游组,{{< shields/qq 717099350 "https://jq.qq.com/?_wv=1027&k=byC0cbS4" >}}
 Telegram,Backlight.Town 逆光小镇,联系 {{< shields/telegram rikablossom >}} 加入
-Telegram,Trans in Academia! 交流群,{{< shields/telegram "+RKumk5Hl-rgxOTQx" >}}
+Telegram,One Group! 跨儿骄傲联合广播 讨论群,{{< shields/telegram "+RKumk5Hl-rgxOTQx" >}}
 Telegram,跨儿音游组,{{< shields/telegram otoge_trans >}}
 Telegram,NixOS 木桶饭,{{< shields/telegram "nixos_mtf" >}}
 Matrix,Arch 木桶饭,{{< shields/matrix arch-mtf matrix.org >}}

@@ -2,6 +2,7 @@
 title: "About us"
 description: "MtF.wiki is committed to becoming a free, open, and continuously updated transgender knowledge integration site."
 weight: 0
+hidden-timeliness: true
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
@@ -26,17 +27,17 @@ Contact us if u would like to join!
 
 ## Contact
 
-Through Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
+Through Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
 Through GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-Via Email <hi@mtf.wiki>
+Via Email <mtfwiki@project-trans.org>
 
 ## Acknowledgement
 
-We run a [Hugo][hugo-url] on GitHub Pages with theme [zdoc][zdoc-url]. Thanks for them.
+We run a [Hugo][hugo-url] on [Cloudflare Pages][pages-url] with theme [zdoc][zdoc-url]. Thanks for them.
 
 Many materials were referred to during the process of writing this project, we would like to say thank you here.
 
@@ -46,3 +47,4 @@ Many materials were referred to during the process of writing this project, we w
 
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
+[pages-url]: https://pages.cloudflare.com

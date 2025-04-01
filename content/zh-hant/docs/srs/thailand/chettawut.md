@@ -19,11 +19,11 @@ title: Chettawut 醫生
 
 ```csv
 手術方式,價格
-零深度,{{< currency 330000 THB >}}
-皮瓣,{{< currency 350000 THB >}}
-結腸,{{< currency 450000 THB >}}
+零深度,{{< currency 340000 THB >}}
+皮瓣,{{< currency 360000 THB >}}
+結腸,{{< currency 550000 THB >}}
 結腸（腹腔鏡）,{{< currency 650000 THB >}}
-腹膜,{{< currency 530000 THB >}}
+腹膜,{{< currency 700000 THB >}}
 ```
 
 {{< notice info "備註" >}}

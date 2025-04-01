@@ -37,11 +37,12 @@ a.github-profile {
   }
 }
 .csv-table {
-  width: max-content;
-  max-width: max-content !important;
-  white-space: nowrap;
   th {
     text-align: center;
+  }
+  th,
+  td {
+    min-width: 9ch;
   }
 }
 .mtf-wiki > {
@@ -230,16 +231,37 @@ div.hidden-photo {
 div.watermark {
   display: grid;
 }
-div.watermark>img{
+div.watermark > img {
   grid-area: 1 / 1;
 }
 div.watermark::after {
   grid-area: 1 / 1;
-  content: '仅供参考，勿作他用';
-  color: #0000FF;
+  content: "仅供参考，勿作他用";
+  color: #0000ff;
   font-size: 50px;
   text-align: center;
   align-self: center;
   opacity: 0.3;
   transform: rotate(-45deg);
 }
+
+.memorial {
+  .home__landing,
+  .navbar,
+  .footer{
+    filter: grayscale(100%);
+  }
+}
+
+.last-modified {
+  font-size: 0.8rem;
+}
+
+.theme__light .last-modified {
+  color: #6a7282;
+}
+
+.theme__dark .last-modified {
+  color: #99a1af;
+}
+

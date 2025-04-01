@@ -2,7 +2,13 @@
 /content/zh-cn/docs/srs/thailand @project-trans/srs-thai
 /content/zh-cn/docs/medicine @project-trans/medicine
 /content/zh-cn/docs/srs/id-card.md @project-trans/legal
+/content/zh-cn/docs/srs/education.md @project-trans/legal
+/content/zh-cn/docs/srs/real-name-info.md @project-trans/legal
 /content/zh-cn/docs/srs/apply-for-changes.pdf @project-trans/legal
-/content/zh-cn/docs/useful-info/name-change.md @project-trans/legal
+/content/zh-cn/docs/useful-info/document-updates @project-trans/legal
 /content/zh-cn/docs/useful-info/legal-faq.md @project-trans/legal
-/ontent/ja @project-trans/mtfwiki-jp-editors
+/content/zh-cn/about/disclaimer.md @project-trans/legal
+/content/ja @project-trans/mtfwiki-jp-editors
+
+/.github/ @project-trans/developers
+/.github/CODEOWNERS @project-trans/chairs

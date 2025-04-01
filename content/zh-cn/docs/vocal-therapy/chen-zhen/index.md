@@ -1,16 +1,18 @@
 ---
-title: 上海同仁医院｜陈臻
+title: 上海市长宁区精神卫生中心｜陈臻
 ---
+
+{{< notice success 巡回 >}}
+
+这个条目曾经被条目人物巡回过。~~终于{{< mtf-wiki>}}也到了足够让公式前来巡回的知名度了吗！？~~
+
+{{< /notice >}}
 
 医生姓名：[陈臻](https://www.haodf.com/doctor/6070455513.html)
 
-所属医院：[上海交通大学医学院附属同仁医院](https://amap.com/place/B00156YKF5)
+所属医院：[上海市长宁区精神卫生中心](https://amap.com/place/B00156YKF5)
 
-好大夫二维码：
-
-```qrcode
-http://weixin.qq.com/q/02yGYFklBxcwm10000g07l
-```
+好大夫页面：<https://www.haodf.com/doctor/6070455513.html>
 
 首次问诊需要通过「电话咨询」或微信视频的方式进行，以便于确定是否用于需要“面诊”
 

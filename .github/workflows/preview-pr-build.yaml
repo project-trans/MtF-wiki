@@ -1,0 +1,64 @@
+name: Preview PR Build
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - 'content/**'
+      - 'config/**'
+      - 'static/**'
+      - 'themes/**'
+      - 'package.json'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出主仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+          fetch-depth: 0
+          submodules: true
+
+      - uses: DeterminateSystems/nix-installer-action@main
+
+      - name: 检出 PR 修改的部分
+        run: |
+          git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
+          git checkout -qf FETCH_HEAD
+          git submodule update
+
+      # - name: 配置 baseURL
+      #   run: |
+      #     sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install npm dependencies
+        run: npm install
+
+      - name: Build site
+        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo --baseURL "/"
+
+      - name: Deploy to Cloudflare Pages
+        id: deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
+          command: pages deploy public --project-name=mtfwiki-preview
+
+      - name: pr preview action
+        uses: project-trans/pr-preview-action@v1.0.0
+        with:
+          previewUrl: ${{ steps.deploy.outputs.deployment-url }}
+          BOT_APP_ID: ${{ vars.BOT_APP_ID }}
+          BOT_APP_SECRET: ${{ secrets.BOT_APP_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REMOVE_PREFIX: content
+          REMOVE_SUFFIX: .md

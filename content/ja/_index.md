@@ -7,7 +7,8 @@ landing:
   title:
     - MtF.wiki
   text:
-    - MtF.wiki へようこそ。 吾輩は、トランスジェンダー女性に関する情報を整理して要約し、より良い支援を提供するよう努めています〜
+    - MtF.wiki へようこそ。 吾輩は、女性的なトランスジェンダーに関する情報を整理して要約し、より良い支援を提供するよう努めています〜
+  # the use of 吾輩 is intended, being a salute to the work "I am a cat" by Natsume Souseki
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -35,13 +36,13 @@ footer:
         - title: GitHub
           link: https://github.com/project-trans
         - title: E-mail
-          link: mailto:hi@mtf.wiki
+          link: mailto:mtfwiki@project-trans.org
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
       {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
-      &copy; 2020-2024 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+      &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
-      > あなたが私の名前を覚えれば、皆さんが私の名前を覚えれば、もしかしたら、私は、あるいは「私たち」は、いつか自由に生きられるようになるかもしれません。
+      > 私たちの存在は、悪意への最大の反抗である。
 ---

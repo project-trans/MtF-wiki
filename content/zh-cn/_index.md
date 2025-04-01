@@ -7,7 +7,7 @@ landing:
   title:
     - MtF.wiki
   text:
-    - 欢迎来到 MtF.wiki．我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
+    - 欢迎来到 MtF.wiki．我们试图整理汇总女性倾向跨性别的相关资料，为大家提供更好的帮助~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -45,13 +45,13 @@ footer:
         - title: GitHub
           link: https://github.com/project-trans
         - title: 电子邮件
-          link: mailto:hi@mtf.wiki
+          link: mailto:mtfwiki@project-trans.org
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
       {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
-      &copy; 2020-2024 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+      &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
-      > 如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。
+      > 我们的存在，就是对恶意最大的反抗。
 ---

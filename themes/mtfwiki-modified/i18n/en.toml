@@ -24,3 +24,6 @@ other = "WRITTEN BY"
 
 [click-to-show]
 other = "Click to Show"
+
+[last-modified]
+other = "Last Modified "

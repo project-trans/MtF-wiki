@@ -5,7 +5,8 @@ title: 贡献者指南
 ## 贡献方式 {#method}
 
 1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "project-trans/mtf-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
-1. 发送邮件到 <hi@mtf.wiki>
+1. 发送邮件到 <mtfwiki@project-trans.org>
+1. 直接在每个页面下方的意见反馈中投递
 
 ## 基本原则 {#basic-principle}
 
@@ -20,6 +21,13 @@ title: 贡献者指南
 [inclusive-language]: https://www.un.org/zh/gender-inclusive-language/guidelines.shtml
 
 ## HRT/诊断证明 {#proof}
+
+### 投稿前注意
+
+1. 医生对开证有清晰的条件，医生本人知晓开证是在干什么。医生了解诊断证明乃手术条件之一，知晓开证可能会被家长闹事。
+1. 医生本人愿意接诊更多跨性别。
+1. 明确只有能开诊断证明的精神科才有收录的必要。
+1. 对于 HRT 医生，医生知晓自己在给跨性别者提供激素治疗，而不是顺手开药（点菜）。
 
 ### 撰稿要素
 
@@ -59,7 +67,7 @@ title: 贡献者指南
 
 如果图片为对纸质材料的拍摄，请使用 Microsoft Lens (fbk Office Lens) 进行处理以便于提供更好的阅读体验，当然，如果有条件的话建议提供扫描件。
 照片中的 {{< wiki Exif >}} 信息可能包含设备型号、拍摄时间和地理位置等信息。建议您在上传前[移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。
-如果您不会相关的后处理，可以将该图片提交至 <hi@mtf.wiki> 由我们脱敏后进行上传。
+如果您不会相关的后处理，可以将该图片提交至 <mtfwiki@project-trans.org> 由我们脱敏后进行上传。
 
 [Microsoft Lens (Android)](https://coolapk.com/apk/com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)

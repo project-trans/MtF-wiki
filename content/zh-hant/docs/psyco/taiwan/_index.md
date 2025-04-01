@@ -2,6 +2,10 @@
 title: 臺灣
 ---
 
+{{< alert theme="warning" >}}
+此處內容可能缺乏時效性，建議優先參考[台灣本地社群相關內容](https://transgender.tapcpr.org/archives/11189)。相關內容連結僅供參考，不代表本站觀點與立場。
+{{< /alert >}}
+
 > Google Maps: <https://link.mtf.wiki/maps/tw>
 
 ```csv

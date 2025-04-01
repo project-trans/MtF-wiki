@@ -10,25 +10,34 @@
 
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
+[![GitHub Contributors][badge-contributors]][gh-contributors]
+[![GitHub Last Commit][badge-last-commit]][gh-history]
+[![GitHub Commit Activity (by Year)][badge-activity]][gh-commit-activity]
+
+[badge-gh-stars]: https://img.shields.io/github/stars/project-trans/mtf-wiki.svg?style=flat-square&label=Stars
+[badge-gh-watch]: https://img.shields.io/github/watchers/project-trans/mtf-wiki.svg?style=flat-square&label=Watch
+[badge-contributors]: https://img.shields.io/github/contributors/project-trans/mtf-wiki?style=flat-square
+[badge-last-commit]: https://img.shields.io/github/last-commit/project-trans/mtf-wiki?style=flat-square
+[badge-activity]: https://img.shields.io/github/commit-activity/y/project-trans/mtf-wiki?style=flat-square
+[gh-contributors]: https://github.com/project-trans/MtF-wiki/graphs/contributors?style=flat-square
+[gh-history]: https://github.com/project-trans/MtF-wiki/commits/master?style=flat-square
+[gh-commit-activity]: https://github.com/project-trans/MtF-wiki/graphs/commit-activity?style=flat-square
 
 ## 內容
 
-歡迎來到 MtF.wiki．這裡是一個或許可以給部分跨性別女性提供幫助的地方。
+歡迎來到 MtF.wiki．這裡是一個或許可以給部分跨性別女性與非常規性別群體提供幫助的地方。
 
-MtF （Male-to-Female），跨性別女性，是指出生時指定性別是男性的女性。
-(P.S.：在維基百科中關於指定性別的定義是“指定性別（Assigned sex），是根據出生時檢查性別特徵以確定的性別。”）
+MtF（Male-to-Female），跨性別女性，是指出生時[指派性別](https://zh.wikipedia.org/zh-tw/性別指定)是男性的女性。
 
-MtF.wiki 致力於成為一個免費開放且持續更新的跨性別知識整合站點，大家可以在這裡瞭解到與跨性別相關的醫療資訊與生活指南。
+MtF.wiki 致力於成為一個免費開放且持續更新的女性傾向跨性別知識整合站點，大家可以在這裡瞭解到與跨性別相關的醫療資訊與各類指南。
 
-現在的 MtF.wiki 正處於起步階段，各種資料或許並不齊全，甚至可能還有部分錯誤，歡迎各位熱心的姐妹加入我們，為 MtF.wiki 的發展做出貢獻。
+現在的 MtF.wiki 正處於起步階段，各種資料或許並不齊全，甚至可能還有部分錯誤，歡迎各位熱心的社群夥伴加入我們，為 MtF.wiki 的發展做出貢獻。
 
-至於建設本網站的初衷，除了為廣大 MtF 群體提供一個知識平臺外，也是渴望他人對轉換性別的設定的肯定。接納每個人在性傾向、性別身份、性別表達等方面享有平等的選擇權，不受汙名、歧視和暴力，將幫助發展平等尊重的價值觀，創造更友好的社會。
-
-> 不向焦慮與抑鬱投降，這個世界終會有我們存在的地方
+至於建設本網站的初衷，除了為廣大跨女群體提供一個知識平臺外，也是渴望他人對轉換性別的設定的肯定。接納每個人在性傾向、性別身份、性別表達等方面享有平等的選擇權，不受汙名、歧視和暴力，將幫助發展平等尊重的價值觀，創造更友好的社會。
 
 ## 致謝
 
-本專案目前採用 [Hugo][hugo-url] 部署在 [GitHub Pages][wiki-url]。主題使用 [zdoc][zdoc-url]，對此表示感謝！
+本專案目前採用 [Hugo][hugo-url] 部署在 [Cloudflare Pages][pages-url]。主題使用 [zdoc][zdoc-url]，對此表示感謝！
 
 本專案在編寫過程中參考了諸多資料，在此一併致謝。
 
@@ -61,12 +70,10 @@ Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
-E-mail <hi@mtf.wiki>
+E-mail <mtfwiki@project-trans.org>
 
 [badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
-[badge-gh-stars]: https://img.shields.io/github/stars/project-trans/mtf-wiki.svg?style=flat-square&label=Stars
-[badge-gh-watch]: https://img.shields.io/github/watchers/project-trans/mtf-wiki.svg?style=flat-square&label=Watch
 [badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
@@ -75,3 +82,4 @@ E-mail <hi@mtf.wiki>
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
+[pages-url]: https://pages.cloudflare.com

@@ -1,6 +1,6 @@
 ---
 title: MtF.wiki
-description: MtF.wiki, a place that may help some transgender women.
+description: MtF.wiki, a place that may help some transfeminine
 date: 2020-10-29T04:15:05+08:00
 draft: false
 landing:
@@ -9,7 +9,7 @@ landing:
   title:
     - MtF.wiki
   text:
-    - Welcome to the MtF.wiki. We are trying to organize the relevant information of transgender women to provide you with better help~
+    - Welcome to the MtF.wiki. We are trying to organize the relevant information of transfeminine to provide you with better help ^_^
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -37,13 +37,13 @@ footer:
         - title: GitHub
           link: https://github.com/project-trans
         - title: Email
-          link: mailto:hi@mtf.wiki
+          link: mailto:mtfwiki@project-trans.org
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
       {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
-      &copy; 2020-2024 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+      &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
-      > If you can remember my name, if you can all remember my name, maybe I or "we", will be able to live freely one day.
+      > Our existence is resistance.
 ---

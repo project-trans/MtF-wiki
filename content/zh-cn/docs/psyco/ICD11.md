@@ -87,7 +87,7 @@ ICD-11 和 DSM-5 之间最重要的区别在于，后者保留了与性别认同
 
 [《性别重置技术临床应用管理规范（2022 版）》][spec] 中增加了「性别不一致」的称呼、删除了扭转治疗的内容、下调年龄至 18 岁
 
-[spec]: http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml
+[spec]: https://project-trans.org/china-legal/spec/2022-04-20/srs/readme
 
 <!-- markdownlint-disable ol-prefix -->
 

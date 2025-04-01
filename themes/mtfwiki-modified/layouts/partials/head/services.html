@@ -1,9 +1,10 @@
 <link rel="me" href="https://mastodon.social/@MtFwiki">
-{{- if ne .Site.BaseURL "https://mtf.wiki/" }}
-<meta name="robots" content="noindex, nofollow">
+{{- if strings.Contains .Site.BaseURL "mtf.wiki" }}
+{{- else }}
+  <meta name="robots" content="noindex, nofollow">
 {{- end }}
 {{- if hugo.IsProduction }}
-{{- with resources.Get "gtag.ts" | js.Build | minify | fingerprint }}
-<script src="{{ .Permalink }}" async defer></script>
-{{- end }}
+  {{- with resources.Get "gtag.ts" | js.Build | minify | fingerprint }}
+    <script src="{{ .Permalink }}" async defer></script>
+  {{- end }}
 {{- end }}

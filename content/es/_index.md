@@ -1,13 +1,13 @@
 ---
 title: MtF.wiki
-description: MtF.wiki, un lugar que podría echar una mano a mujeres trans.
+description: MtF.wiki, un lugar que podría echar una mano a mujeres trans y personas transfemininas
 landing:
   height: 700
   image:  new/mtf-wiki-square.svg
   title:
     - MtF.wiki
   text:
-    - Bienvenida a MtF.wiki. Tratamos de organizar la información relevante de mujeres trans para daros mejor ayuda~
+    - Bienvenida a MtF.wiki. Tratamos de organizar la información relevante de transfeminidad para daros mejor ayuda ^_^
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -35,13 +35,13 @@ footer:
         - title: GitHub
           link: https://github.com/project-trans
         - title: Email
-          link: mailto:hi@mtf.wiki
+          link: mailto:mtfwiki@project-trans.org
   contents:
     align: left
     applySinglePageCss: true
     markdown: >
       {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
-      &copy; 2020-2024 <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+      &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
 
-      > Si puedes recordar mi nombre, si todos podéis recordarlo, tal vez yo o «nosotras», un día, vivamos libres.
+      > Nuestra existencia es resistencia.
 ---
