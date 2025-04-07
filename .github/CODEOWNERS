@@ -2,8 +2,8 @@
 /content/zh-cn/docs/srs/thailand @project-trans/srs-thai
 /content/zh-cn/docs/medicine @project-trans/medicine
 /content/zh-cn/docs/srs/id-card.md @project-trans/legal
-/content/zh-cn/docs/srs/education.md @project-trans/legal
-/content/zh-cn/docs/srs/real-name-info.md @project-trans/legal
+/content/zh-cn/docs/useful-info/education.md @project-trans/legal
+/content/zh-cn/docs/useful-info/real-name-info.md @project-trans/legal
 /content/zh-cn/docs/srs/apply-for-changes.pdf @project-trans/legal
 /content/zh-cn/docs/useful-info/document-updates @project-trans/legal
 /content/zh-cn/docs/useful-info/legal-faq.md @project-trans/legal

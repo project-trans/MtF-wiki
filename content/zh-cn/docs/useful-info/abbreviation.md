@@ -1,5 +1,6 @@
 ---
 title: 缩写词语表
+weight: 600
 ---
 
 ## LGBT+

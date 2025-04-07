@@ -36,7 +36,9 @@ title: 北京｜郝树伟
   - 诊断名为「跨性别」
   - 总计费用 60 + 113 = 173 元
 
-## 证明样式
+## 参考样式
+
+{{< watermark "records.jpg" >}}
 
 {{< watermark "proof.jpg" >}}
 
