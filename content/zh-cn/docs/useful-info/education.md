@@ -1,6 +1,6 @@
 ---
 title: 学籍学历变更指引
-weight: 9200
+weight: 200
 ---
 
 {{< alert theme="info" >}}
