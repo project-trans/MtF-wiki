@@ -7,7 +7,6 @@ title: 山东省精神卫生中心
 医生列表：
 
 - [胡蕾](https://www.haodf.com/doctor/293557.html) {{< tag/pos 可劝家长 >}}
-- [张敬悬](https://www.haodf.com/doctor/119561.html) {{< tag/neg "需家属介入" >}}
 - [曹秉玉](https://www.haodf.com/doctor/119528.html) {{< tag/neg "需家属介入" >}}
 - [陈忠](https://www.haodf.com/doctor/6964430516.html)
 - [王洪军](https://www.haodf.com/doctor/3133959974.html)
