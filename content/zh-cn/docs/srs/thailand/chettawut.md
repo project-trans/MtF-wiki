@@ -1,5 +1,5 @@
 ---
-title: Chettawut 医生
+title: Chettasak 医生
 ---
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
@@ -12,7 +12,7 @@ title: Chettawut 医生
 
 ## 医生简介 {#intro}
 
-- 医生姓名：Chettawut，蔡达武
+- 医生姓名：Chettasak（曾用名 Chettawut，蔡达武）
 - 所在医院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
 - 官方网站: [WIH International hospital](https://wihhospital.com/en/)
 - 邮箱：<info@wihhospital.com>
