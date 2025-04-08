@@ -1,12 +1,12 @@
 ---
-title: Chettawut 醫生
+title: Chettasak 醫生
 ---
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
 
 ## 醫生簡介 {#intro}
 
-- 醫生姓名：Chettawut，蔡達武 {{< tag/pos "WPATH 成員" >}}
+- 醫生姓名：Chettasak（曾用名 Chettawut，蔡達武）
 - 所在醫院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
 - 官方網站: [WIH International hospital](https://wihhospital.com/en/)
 - 郵箱：<info@wihhospital.com>
@@ -76,7 +76,7 @@ Chet 術後出現肉芽是非常常見的現象，通常會在術後復診的時
 
 ## 預約事項 {#precautions-order}
 
-1. 為了保證手術質量，正常情況下 Chettawut 醫生作為唯一的主刀醫師每天只會安排一個手術，因此確認手術日期時間會稍長。
+1. 為了保證手術質量，正常情況下 Chettasak 醫生作為唯一的主刀醫師每天只會安排一個手術，因此確認手術日期時間會稍長。
 
 1. **一旦雙方確認了手術日期，顧客需要在 10 天內支付 20% 的訂金。** 如果訂金沒有按時支付，手術日期將被延後。
 
