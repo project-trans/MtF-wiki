@@ -17,11 +17,11 @@ title: 上海市精神卫生中心
 医生列表：
 
 - [陆峥](https://www.smhc.org.cn/MedicalGuide/contents/1262/23.html)（500 元）
-- [王飚](https://www.smhc.org.cn/MedicalGuide/contents/1263/49.html)（300 元）
 - [张毅](https://www.smhc.org.cn/MedicalGuide/contents/1263/51.html)
 - [刘娜](https://www.smhc.org.cn/MedicalGuide/contents/1264/453.html)
 - [徐逸](https://www.smhc.org.cn/MedicalGuide/contents/1265/738.html)（25元）
 - 吕钦谕
+- ~~[王飚](https://www.smhc.org.cn/MedicalGuide/contents/1263/49.html)（300 元）~~（已退休）
 
 所在医院：[上海市精神卫生中心（徐汇院区）](https://amap.com/place/B0HR6N4LN1)
 
@@ -49,7 +49,6 @@ P.S. 实际上只要去就诊就会在系统里有「易性症」的诊断病历
 
 ## 注意事项 {#caveats}
 
-- 初诊 前往导医台可能会先要求挂号 王飚，如果你抢到了 其他医生 的初诊号，可以不去导医台直接前往挂号窗口交费取号。
 - 如果对自身条件足够自信，可以尝试初诊直接挂陆峥。陆峥可能会开一些MMPI之类的检查，完成检查后要求你现在随便去挂一个其他医生的号开诊断，再回去就能得到陆峥的诊断证明。最好情况下可以半天速通。
 - 初诊 可能会被开 [四宫格]({{< ref "#self-review" >}}) 打发。
 - 如果有抑郁问题，非常可能开抗抑郁药打发，以刷证为目的请避免表现出抑郁问题。（大概率不看 MMPI 的 Mf 分）
@@ -60,7 +59,7 @@ P.S. 实际上只要去就诊就会在系统里有「易性症」的诊断病历
 - 由其他医院转诊至 陆峥 处有一定几率免除再去找第二个医生的步骤。
 - 吕钦谕 有给16周岁跨儿开证明的记录。有报告称其较为友好。
 - 如果家长不坚定支持，慎重考虑前往陆峥处就诊。
-- 王飚 似乎拒绝接诊未满 20 周岁的跨性别。已满20周岁复诊选择该医生可能不会要求确认家长意愿。
+- 王飚 已经退休，返聘后不再接诊易性症相关患者。
 
 ## 证明样式 {#proof}
 
