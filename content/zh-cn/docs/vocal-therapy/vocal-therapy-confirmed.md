@@ -36,7 +36,7 @@ weight: 2
 
 {{< notice warning "警告" >}}
 
-以下信息的提供方均没有医疗资质，本站点并未验证其宣传内容的真实性和有效性，请自行甄别。
+据我们所知，以下信息的提供方均**未**按《[医疗机构管理条例](https://zh.wikisource.org/wiki/%E5%8C%BB%E7%96%97%E6%9C%BA%E6%9E%84%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B)》领取“医疗机构执业许可证”，**不**属于具备资质的医疗机构，本站点并未验证其宣传内容的真实性和有效性，请自行甄别。
 
 {{< /notice >}}
 
@@ -45,4 +45,5 @@ weight: 2
 凯瑟琳奈,[基于医学研究的嗓音女性化练习](https://rle.wiki/others/voice-feminisation-exercise/)
 佐倉 奈緒,[成为女孩子的声音！](https://vocal.mtf.wiki)
 宁韵声音,{{< shields/wechat "Ning-Yun_" >}}
+上海跨音医疗咨询有限公司,{{< shields/wechat "KuaYinzx" >}}
 ```

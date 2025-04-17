@@ -30,7 +30,7 @@ Google Maps：<https://link.mtf.wiki/maps/th>
 | 醫生/醫院                            |   PI    |  非 PI  |  結腸   |  腹膜   |
 | :----------------------------------- | :-----: | :-----: | :-----: | :-----: |
 | [PAI/Burin]({{< ref "preecha" >}})   | &#9989; |         | &#9989; |         |
-| [Chettawut]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
+| [Chettasak]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
 | [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
 | [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
 | [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
