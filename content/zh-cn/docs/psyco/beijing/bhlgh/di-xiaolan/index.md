@@ -129,13 +129,17 @@ title: 邸晓兰
 
 病历可能会根据就诊者情况掉落多种不同诊断，包括但不限于「易性症」「易性症待诊」「易性症？」「性别认同障碍」「性别不一致」「双重异装症可能大」「非二元可能大」。
 
-{{< watermark "proof.jpg" >}}
+{{< watermark "record.jpg" >}}
 
 目前医生已不再签名，改为电子签名。
 
-{{< watermark "proof-twice.jpg" >}}
+{{< watermark "record-twice.jpg" >}}
 
 另外，自助机上似乎可以打印电子版病历（尚未测试）。
+
+诊断证明书如下。
+
+{{< watermark "proof.jpg" >}}
 
 ## 出诊时刻表
 
