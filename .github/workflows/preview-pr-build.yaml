@@ -62,4 +62,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REMOVE_PREFIX: content
           REMOVE_SUFFIX: .md,_index,index
-
