@@ -54,11 +54,12 @@ jobs:
           command: pages deploy public --project-name=mtfwiki-preview
 
       - name: pr preview action
-        uses: project-trans/pr-preview-action@v1.0.0
+        uses: project-trans/pr-preview-action@v1.0.1
         with:
           previewUrl: ${{ steps.deploy.outputs.deployment-url }}
           BOT_APP_ID: ${{ vars.BOT_APP_ID }}
           BOT_APP_SECRET: ${{ secrets.BOT_APP_SECRET }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REMOVE_PREFIX: content
-          REMOVE_SUFFIX: .md
+          REMOVE_SUFFIX: .md,_index,index
+
