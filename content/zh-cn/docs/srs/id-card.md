@@ -28,6 +28,7 @@ weight: 600
 ```csv
 户籍地,要求
 北京市,如选择方案 B，可能仍会被要求提供国内三级医院出具的性别鉴定证明
+上海市,根据[《上海市常住户口管理规定》](https://zh.wikisource.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A)，学生集体户口等无法修改性别
 广东省,境外接受手术的可能无法选择方案 A
 吉林省,如选择方案 A，可能要求性别鉴定证明必须由国内三级甲等医院出具
 ```
@@ -100,18 +101,7 @@ weight: 600
 
 1. [《公安部治安管理局关于公民手术变性后变更户口登记性别项目有关问题的批复 （公治〔2008〕478 号）》](https://project-trans.org/china-legal/spec/2008-10-23/mps-2008-478)
 1. [《户口居民身份证管理工作规范（试行）》](https://project-trans.org/china-legal/spec/2021-07-24/mps-2021-12) 第五十四条
-1. 户籍所在地的户口管理规定（若部分地市无该类政策文件，请以前两条为准）
-
-```csv
-省市,文件名称,相关条款,注意事项
-北京市,[《派出所办理常住户口登记工作规范（试行）》](https://zh.wikisource.org/wiki/%E6%B4%BE%E5%87%BA%E6%89%80%E5%8A%9E%E7%90%86%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%99%BB%E8%AE%B0%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89),,要求「提供本人书面申请、医院诊断证明、公证部门的公证书」
-上海市,[《上海市常住户口管理规定》](https://zh.wikisource.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A),第五十五、五十八、六十三条,学生集体户口等无法修改性别
-江苏省,[《江苏省常住户口登记管理规定》](https://zh.wikisource.org/wiki/%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%B8%B8%E4%BD%8F%E6%88%B7%E5%8F%A3%E7%99%BB%E8%AE%B0%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A),第一百三十九条,
-浙江省,[《浙江省常住户口登记管理规定》](https://www.zj.gov.cn/zjservice/item/detail/lawtext.do?outLawId=d85c2ba4-5e0b-4039-8991-2143230de3fc),第七十七条,
-福建省,[《福建省户口居民身份证管理工作规定》](https://gat.fujian.gov.cn/zfxxgk/zfxxgkml/gfxwjml/xxyx/202111/t20211117_5775583.htm),第一百四十九条,
-```
-
-<!-- 云南省,[《云南省公安机关户籍业务服务指南》](http://weixi.diqing.gov.cn/zfxxgk_weixi_gaj/zhengcewenjian/gfxwjgk/xxgfxwj/xxgfxwjk/202101/20210101_159792.html),第三十二条, -->
+1. [户籍所在地的户口管理规定](https://project-trans.org/china-legal/details/local-rule)（若部分地市无该类政策文件，请以前两条为准）
 
 所需材料（以户籍所在地派出所的要求为准）：
 
