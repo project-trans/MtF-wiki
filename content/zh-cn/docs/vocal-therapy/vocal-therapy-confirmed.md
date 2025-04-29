@@ -32,6 +32,15 @@ weight: 2
 
 对于更多尚未探索的医疗资源请参见 [未确认列表（嗓音女性化）]({{< ref "unconfirmed#vocal-therapy-prc" >}})
 
+## 相关资料
+
+```csv
+标题,网页链接
+《成为女孩子的声音！》 佐倉 奈緒,<https://vocal.mtf.wiki>
+TransVoice Wiki,<https://transvoice-wiki.mtf.wiki/>
+RLE.wiki 相关资源,<https://rle.wiki/others/>
+```
+
 ## 其他资源
 
 {{< notice warning "警告" >}}
@@ -42,8 +51,7 @@ weight: 2
 
 ```csv
 来源,联系方式/获取途径
-凯瑟琳奈,[基于医学研究的嗓音女性化练习](https://rle.wiki/others/voice-feminisation-exercise/)
-佐倉 奈緒,[成为女孩子的声音！](https://vocal.mtf.wiki)
+凯瑟琳奈,[基于医学研究的嗓音女性化练习](https://voice.cntt.uk/)
 宁韵声音,{{< shields/wechat "Ning-Yun_" >}}
 上海跨音医疗咨询有限公司,{{< shields/wechat "KuaYinzx" >}}
 ```
