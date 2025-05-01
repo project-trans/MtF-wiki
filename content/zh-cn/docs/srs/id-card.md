@@ -213,6 +213,7 @@ weight: 600
 ## 拓展阅读
 
 - [中国大陆跨性别相关法律法规变迁](https://project-trans.org/china-legal/)
+  - [性别变更相关地方性法规](https://project-trans.org/china-legal/details/local-rule)
 - [海外证件信息修改]({{< ref "document-updates" >}})
 - [常见法律问题]({{< ref "legal-faq" >}})
 - [境外变性后更新中国公民信息: 法律与现实的落差](https://carolyn.sh/blog/comments-on-updating-id-after-srs)
