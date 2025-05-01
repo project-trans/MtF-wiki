@@ -4,8 +4,6 @@ title: 北京｜郝树伟
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
 
-{{< tag/pos "初诊开证" >}}
-
 医生姓名：郝树伟
 所在医院：[北京大学第三医院]({{< ref "puth" >}})
 
@@ -19,7 +17,7 @@ title: 北京｜郝树伟
 
 ## 问诊细节
 
-- 一次性开证可能与 [pass]({{< ref "colloquialism#pass" >}})，[RLE]({{< ref "abbreviation#rle" >}})有关。
+<!-- - 一次性开证可能与 [pass]({{< ref "colloquialism#pass" >}})，[RLE]({{< ref "abbreviation#rle" >}})有关。-->
 - 开始就诊时会要求交心理治疗费 113 元，直接可以在同层的自助机缴费
 - 可能询问的内容：
   - 性别不一致的开始时间
@@ -30,11 +28,12 @@ title: 北京｜郝树伟
   - 是否有计划使用激素
   - ······
 - 可以使用[邸晓兰]({{< ref "di-xiaolan" >}})医生的病历。
-- 仅开小证不需要 [pass]({{< ref "colloquialism#pass" >}})、[RLE]({{< ref "abbreviation#rle" >}})、家长知情和到场（可能与年龄与 DIY HRT 经历有关），但这种情况不能直接开大证
+- 开小证不需要 [pass]({{< ref "colloquialism#pass" >}})、[RLE]({{< ref "abbreviation#rle" >}})、家长知情和到场（可能与年龄与 DIY HRT 经历有关）
   - 小证可以用于本院 HRT
   - 流程极快， ~~不忘记报到的话也不用长时间白白等候~~，约 10 分钟，会比想象中容易轻松很多，基本形式就是跟着医生的询问自述，医生输入自述文本到病历上，不会过多询问无关细节
   - 诊断名为「跨性别」
   - 总计费用 60 + 113 = 173 元
+- 目前似乎已经不再开具诊断证明（俗称“大证”），仅可开具病历（俗称“小证”）在本院进行 HRT。
 
 ## 参考样式
 
