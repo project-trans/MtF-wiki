@@ -1,5 +1,6 @@
 ---
 title: 深圳大学总医院｜王路
+draft: true
 ---
 
 医生姓名：[王路](https://sugh.szu.edu.cn/Html/Doctors/Main/Index_648.html)
