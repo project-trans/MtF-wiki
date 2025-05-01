@@ -22,7 +22,6 @@ weight: 2
 广东省广州市,[南方医科大学南方医院](weixin://Nanfang_Hospital),李衍菲,约 300 CNY/次,
 广东省广州市,广东省妇幼保健院,蒙朦,约 500 CNY/次,第一次医生建议线下，以后可网课
 广东省广州市,广东省人民医院,[葛平江]({{< ref "ge-pingjiang" >}}),挂号费 30 CNY，约 170 CNY/次，初诊约 170 CNY,4 次嗓音训练的费用约为 660 CNY
-广东省深圳市,深圳大学总医院,[王路]({{< ref "wang-lu" >}}),约 220 CNY/次,需诊断证明、父母同意
 湖南省长沙市,[中南大学湘雅二医院](https://www.xyeyy.com),[胡文倩]({{< ref "hu-wen-qian" >}}),约 200 CNY/次,
 天津市,天津医科大学第二医院,黄永望,200 CNY/次,一个疗程 5 节课
 美国,UCI Health Speech Therapy,Jennifer Kim,一个疗程10节课,CPT® code 92507。
