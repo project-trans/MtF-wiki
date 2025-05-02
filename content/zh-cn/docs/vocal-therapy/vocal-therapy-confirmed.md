@@ -22,7 +22,6 @@ weight: 2
 广东省广州市,[南方医科大学南方医院](weixin://Nanfang_Hospital),李衍菲,约 300 CNY/次,
 广东省广州市,广东省妇幼保健院,蒙朦,约 500 CNY/次,第一次医生建议线下，以后可网课
 广东省广州市,广东省人民医院,[葛平江]({{< ref "ge-pingjiang" >}}),挂号费 30 CNY，约 170 CNY/次，初诊约 170 CNY,4 次嗓音训练的费用约为 660 CNY
-广东省深圳市,深圳大学总医院,[王路]({{< ref "wang-lu" >}}),约 220 CNY/次,需诊断证明、父母同意
 湖南省长沙市,[中南大学湘雅二医院](https://www.xyeyy.com),[胡文倩]({{< ref "hu-wen-qian" >}}),约 200 CNY/次,
 天津市,天津医科大学第二医院,黄永望,200 CNY/次,一个疗程 5 节课
 美国,UCI Health Speech Therapy,Jennifer Kim,一个疗程10节课,CPT® code 92507。
@@ -31,6 +30,15 @@ weight: 2
 ```
 
 对于更多尚未探索的医疗资源请参见 [未确认列表（嗓音女性化）]({{< ref "unconfirmed#vocal-therapy-prc" >}})
+
+## 相关资料
+
+```csv
+标题,网页链接
+《成为女孩子的声音！》 佐倉 奈緒,<https://vocal.mtf.wiki>
+TransVoice Wiki,<https://transvoice-wiki.mtf.wiki/>
+RLE.wiki 相关资源,<https://rle.wiki/others/>
+```
 
 ## 其他资源
 
@@ -42,8 +50,7 @@ weight: 2
 
 ```csv
 来源,联系方式/获取途径
-凯瑟琳奈,[基于医学研究的嗓音女性化练习](https://rle.wiki/others/voice-feminisation-exercise/)
-佐倉 奈緒,[成为女孩子的声音！](https://vocal.mtf.wiki)
+凯瑟琳奈,[基于医学研究的嗓音女性化练习](https://voice.cntt.uk/)
 宁韵声音,{{< shields/wechat "Ning-Yun_" >}}
 上海跨音医疗咨询有限公司,{{< shields/wechat "KuaYinzx" >}}
 ```
