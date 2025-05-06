@@ -2,7 +2,7 @@
 title: Saran 医生
 ---
 
-![Doctor](/images/srs/thailand/saran/saran-doctor.jpg)
+![Doctor](/images/srs/thailand/saran/doctor.jpg)
 
 医生姓名：Saran Wannachamras
 
