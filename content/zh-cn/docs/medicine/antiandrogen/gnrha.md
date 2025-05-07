@@ -40,9 +40,13 @@ GnRH 类似物常规可应用于性早熟儿童的治疗，具有良好的可逆
   1. [复旦大学附属儿童医院]({{< ref "fudan-ch" >}})
   1. [广州暨南一院｜高绿芬]({{< ref "jnuh1" >}})
 
+## 用药细节
+
 {{< notice error "提示" >}}
-不提供用药信息，请咨询专业医生。
+本细节仅供参考，请根据自身实际情况咨询专业医生。
 {{< /notice >}}
+
+在开始的两个星期内可能出现勃起现象更加明显的情况，这个情况是正常的，到服用了三个月左右**可能**出现睡不着（失眠）、没有食欲、情绪激动易怒的状况，这可能是因为激素双低（通俗点说就是雄激素被降下去，但是没有雌激素补充），如果此时家长的态度还是不支持激素治疗，但是医生也可能会建议用小量的雌激素药物（如凝胶等等）。
 
 [^1]: Mitzi. Puberty Blockers: A Review of GnRH Analogues in Transgender Youth [EB/OL]. *Transfeminine Science*, 2022. 中译本：《[有关 GnRH 类似物作为青春期阻断剂用于跨性别青年的评述](https://tfsci.mtf.wiki/articles/puberty-blockers/)》
 [^2]: Polly Carmichael, et al. Short-term outcomes of pubertal
