@@ -81,14 +81,6 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [说明书（PDF）](./huadian-zh.pdf)
 - [说明书（网页）](https://tfsci.mtf.wiki/zh-cn/misc/cpa-hd/)
 
-厂商提供的销售渠道：
-
-```csv
-城市,药店,备注
-南京,南京市秦淮区文昌巷13号邻客智慧药房,可以快递发货
-合肥,合肥市蜀山区宿松路3666号国控宿繁店,
-```
-
 ### 特別提示
 
 {{< notice info >}}
