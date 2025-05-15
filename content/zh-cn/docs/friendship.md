@@ -42,7 +42,7 @@ Discord,Project Trans Community,{{< shields/discord 883004164760801320 "Project 
 - **[泰国]({{< ref "srs-overview-thailand" >}}) 手术交流群**
 
   已预约、正在泰国 或 已经在泰国手术 的姐妹，
-  请发送邮件至 <srs-th@mtf.wiki> 请注明你的医生，预约或完成手术的相关证明，以及要加入的即时通讯平台（QQ 与 Telegram 群组）。
+  请发送邮件至 <srs-th@mtf.wiki> 请注明你的医生，以及要加入的即时通讯平台（QQ 与 Telegram 群组），并提供预约或完成手术的相关证明。
 
 ## 跨性别相关放送
 
