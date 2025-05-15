@@ -99,7 +99,7 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 术后第十五天复诊时，诊所会提供两个扩张器；可额外购买其他尺寸扩张器。不论型号：
 
 ```csv
-Dilator Size,Prize (THB)
+尺寸,价格 (THB)
 22 mm,1200
 24 mm,1200
 26 mm (no. 1),1200
