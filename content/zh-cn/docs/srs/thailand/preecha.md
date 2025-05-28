@@ -209,8 +209,7 @@ Tips:
 - [PAI Burin 手术 90 天后写下的手术常见问题 + 手术准备清单](https://github.com/project-trans/basket-relay/discussions/4)
 - [PAI SRS 手术物品准备清单参考](https://meiza.cc/pai-srs%E6%89%8B%E6%9C%AF%E7%89%A9%E5%93%81%E5%87%86%E5%A4%87%E6%B8%85%E5%8D%95%E5%8F%82%E8%80%83/)
 - 一位姐妹的 SRS 记录（Burin） <https://t.me/Hana_SRSviaBurin>
-- 七七的 SRS 日记-PAI 布林 <https://t.me/srs77inpai>
-- 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
+- 凌莞的 SRS 记录 <https://t.me/+juHjVxNKsIhkYjll>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
 - 凛娴的SRS日记-PAI 布林 <https://t.me/SRS_RinChord>
 - 于PAI的性别重置手术（SRS）流程 <https://zhuanlan.zhihu.com/p/733798080>
