@@ -28,7 +28,6 @@ aliases: burin
 
 Burin 目前所使用的手術技術為自主研發的 **Diamond technique**，此術式以其手術介面為命名。利用此技術創造了體積大的小陰唇，儘可能深地延伸到後側小陰唇。外陰微微張開，看起來較自然。
 
-
 術前請和醫師充分溝通手術方案説明自己的需求，例如不希望深度超過 x 釐米。目前收到過姐妹術前提出希望零深度但術後發現陰道深度達到近 10 釐米，醫師建議她術後護理需要通最小號模具的案例。
 
 #### 疤痕狀況
@@ -177,7 +176,6 @@ Tips:
 
 - 一位姐妹的 SRS 記錄（Burin） <https://t.me/Hana_SRSviaBurin>
 - [PAI Burin 手術 90 天后寫下的手術 FAQ](https://github.com/project-trans/basket-relay/discussions/4)
-- 七七的 SRS 日記-PAI 布林 <https://t.me/srs77inpai>
 - 凌莞的 SRS 記錄 <https://t.me/ClanstySRS>
 - 另一位姐妹的 SRS 記錄（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
 - 凜嫺的SRS日記-PAI 布林 <https://t.me/SRS_RinChord>
