@@ -1,5 +1,5 @@
 ---
-title: 广州医科大学附属脑科医院｜赵素华
+title: 广州｜赵素华
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
