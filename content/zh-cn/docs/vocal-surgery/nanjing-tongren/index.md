@@ -103,6 +103,6 @@ Tips：
 
 ## 参考资料 {#reference}
 
-- [七云洛在南京同仁的 VFS 日记](https://t.me/vfs7yunluo)
+- [七七在南京同仁的 VFS 日记](https://t.me/+70mTbMfjQvc0OTU1)
 - [南京同仁耳鼻喉科证书 1](tongren-certification1.jpg)
 - [南京同仁耳鼻喉科证书 2](tongren-certification2.jpg)
