@@ -29,17 +29,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Update source submodule to PR #${{ github.event.pull_request.number }}" || true
+               
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: '10.10.0'
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: 'pnpm'
-          
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: '10.10.0'
             
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
