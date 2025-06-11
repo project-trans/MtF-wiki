@@ -5,53 +5,78 @@ on:
     types: [opened, synchronize, reopened, ready_for_review]
     paths:
       - 'content/**'
-      - 'config/**'
       - 'static/**'
-      - 'themes/**'
-      - 'package.json'
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    name: Deploy to Cloudflare Pages
+    
     steps:
-      - name: 检出主仓库代码
+      - name: 克隆 Next-MtF-wiki 仓库
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.base.ref }}
+          repository: project-trans/Next-MtF-wiki
           fetch-depth: 0
           submodules: true
 
-      - uses: DeterminateSystems/nix-installer-action@main
-
-      - name: 检出 PR 修改的部分
+      - name: 更新 source submodule 为 PR 的 ref 版本
         run: |
+          cd source
+          git remote set-url origin https://github.com/${{ github.event.pull_request.head.repo.full_name }}.git
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
           git checkout -qf FETCH_HEAD
-          git submodule update
+          cd ..
+          git add source
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update source submodule to PR #${{ github.event.pull_request.number }}" || true
 
-      # - name: 配置 baseURL
-      #   run: |
-      #     sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
-
-      - name: Install Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
-          cache: 'npm'
-
-      - name: Install npm dependencies
-        run: npm install
-
-      - name: Build site
-        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo --baseURL "/"
-
+          node-version: '20'
+          
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: '10.10.0'
+          
+      - name: Get pnpm store directory
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+          
+      - name: Setup pnpm cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+            
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+        
+      - name: Build project
+        run: pnpm run build
+        env:
+          SITE_URL: '/'
+          ROBOTS_ALLOW: 'false'
+          INCLUDE_SITEMAP: 'false'
+          NEXT_PUBLIC_DEPLOY_TIME: ${{ github.event.head_commit.timestamp }}
+          NEXT_PUBLIC_SERVER_BUILD_INDEX: 'true'
+          NEXT_PUBLIC_BANNER_TEXT: 'banner-text-disclaimer-preview'
+        
       - name: Deploy to Cloudflare Pages
         id: deploy
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
-          command: pages deploy public --project-name=mtfwiki-preview
+          command: pages deploy --project-name=mtfwiki-preview
+          workingDirectory: apps/wiki
+          packageManager: pnpm
 
       - name: pr preview action
         uses: project-trans/pr-preview-action@v1.0.1
