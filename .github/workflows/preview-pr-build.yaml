@@ -43,6 +43,10 @@ jobs:
             
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+
+      - name: Generate timestamp
+        id: gen_ts
+        run: echo "TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
         
       - name: Build project
         run: pnpm run build
@@ -50,7 +54,7 @@ jobs:
           SITE_URL: '/'
           ROBOTS_ALLOW: 'false'
           INCLUDE_SITEMAP: 'false'
-          NEXT_PUBLIC_DEPLOY_TIME: ${{ github.event.head_commit.timestamp }}
+          NEXT_PUBLIC_DEPLOY_TIME: ${{ steps.gen_ts.outputs.TIMESTAMP }}
           NEXT_PUBLIC_SERVER_BUILD_INDEX: 'true'
           NEXT_PUBLIC_BANNER_TEXT: 'banner-text-disclaimer-preview'
         
