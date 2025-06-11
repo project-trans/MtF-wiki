@@ -9,9 +9,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-    name: Deploy to Cloudflare Pages
-    
+    runs-on: ubuntu-latest    
     steps:
       - name: 克隆 Next-MtF-wiki 仓库
         uses: actions/checkout@v4
