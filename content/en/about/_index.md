@@ -37,14 +37,9 @@ Via Email <mtfwiki@project-trans.org>
 
 ## Acknowledgement
 
-We run a [Hugo][hugo-url] on [Cloudflare Pages][pages-url] with theme [zdoc][zdoc-url]. Thanks for them.
-
 Many materials were referred to during the process of writing this project, we would like to say thank you here.
 
 ---
 
 [![CC](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
 
-[hugo-url]: https://github.com/gohugoio/hugo
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com
