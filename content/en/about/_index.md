@@ -42,4 +42,3 @@ Many materials were referred to during the process of writing this project, we w
 ---
 
 [![CC](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
-
