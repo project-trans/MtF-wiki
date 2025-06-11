@@ -27,7 +27,7 @@ weight: 0
 
 ## 联系方式
 
-Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
+Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
@@ -37,14 +37,9 @@ GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 ## 致谢
 
-本项目目前采用 [Hugo][hugo-url] 部署在 [Cloudflare Pages][pages-url]．主题使用 [zdoc][zdoc-url]，对此表示感谢！
-
 本项目在编写过程中参考了诸多资料，在此一并致谢。
 
 ---
 
 [![知识共享许可协议](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[hugo-url]: https://github.com/gohugoio/hugo
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com
