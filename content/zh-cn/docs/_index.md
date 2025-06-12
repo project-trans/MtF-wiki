@@ -28,7 +28,7 @@ MtF（Male-to-Female），跨性别女性，是指出生时[指派性别](https:
 
 如果你对 声音焦虑 则可以通过阅读 [嗓音训练综述]({{< ref "vocal-therapy-overview" >}}) 和 [嗓音手术综述]({{< ref "vocal-surgery-overview" >}}) 了解更多关于 嗓音女性化 的内容
 
-如果您想要改善本wiki的内容，则可以阅读 [贡献者指南]({{< ref "contributor-guide.md" >}})
+如果您想要改善本wiki的内容，则可以阅读 [贡献者指南]({{< ref "contributor-guide" >}})
 
 [^2]: <https://github.com/project-trans>
 [^3]: <https://lgbtqia.fandom.com/wiki/Transfeminine>
