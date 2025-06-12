@@ -21,7 +21,7 @@ jobs:
       - name: 更新 source submodule 为 PR 的 ref 版本
         run: |
           cd source
-          git remote set-url origin https://github.com/${{ github.event.pull_request.head.repo.full_name }}.git
+          git remote set-url origin https://github.com/${{ github.repository }}.git
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
           git checkout -qf FETCH_HEAD
           cd ..
