@@ -4,6 +4,8 @@ collapsible: false
 weight: 700
 ---
 
+{{< notice warning "谨慎前往" >}}近期多次收到反馈“未能开到处方”，且2025年4月中旬医生本人表示“本院没有处方资质，故已暂停开具处方”。
+
 医生姓名：段炼
 
 所在医院：[重庆医科大学附属第三医院](https://amap.com/place/B0FFGPSPQC)
