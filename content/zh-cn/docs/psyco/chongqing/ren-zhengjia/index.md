@@ -82,8 +82,5 @@ http://qrcenter.hsyuntai.com:7777/hs-med-qrcenter/r/60210/100?hosId=100039
 
 {{< watermark "zhengming.jpg" >}}
 
-## HRT 处方
-
-获得诊断证明后可在本院医生 [段炼]({{< ref "duan-lian">}}) 处开具 HRT 处方。
 
 
