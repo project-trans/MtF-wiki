@@ -27,7 +27,7 @@ hidden-timeliness: true
 
 ## 連絡先
 
-Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}} 日本語のチャンネルあり。
+Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}} 日本語のチャンネルあり。
 
 Twitter {{< shields/twitter MtFwikiJapan >}}
 

@@ -27,7 +27,7 @@ y los otros queridos que nos dan ayuda y información.
 
 ## Contacto
 
-Por Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}}
+Por Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 

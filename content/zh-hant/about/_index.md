@@ -29,7 +29,7 @@ hidden-timeliness: true
 
 ## 社群聯絡
 
-Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}}
+Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
