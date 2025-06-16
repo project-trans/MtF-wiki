@@ -66,15 +66,12 @@ Si quieres citar este GitHub repo, puedes usar el bibtex：
 
 ## Contacto
 
-Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
-
-Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
+E-mail <mtfwiki@project-trans.org>
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
-E-mail <mtfwiki@project-trans.org>
+Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
-[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png

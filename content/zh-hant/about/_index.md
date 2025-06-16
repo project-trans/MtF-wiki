@@ -29,13 +29,11 @@ hidden-timeliness: true
 
 ## 社群聯絡
 
-Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
-
-Twitter {{< shields/twitter MtFwiki >}}
+電郵 <mtfwiki@project-trans.org>
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-電郵 <mtfwiki@project-trans.org>
+Twitter {{< shields/twitter MtFwiki >}}
 
 ## 致謝
 
