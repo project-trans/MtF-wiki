@@ -39,8 +39,6 @@ The original intention behind building this website is to provide a knowledge pl
 
 ## Acknowledgement
 
-This project is deployed on [Cloudflare Pages][pages-url] using [Hugo][hugo-url] and theme [zdoc][zdoc-url]. We are grateful for their support.
-
 We referred to many materials during the process of writing this project and would like to express our gratitude.
 
 ## Copyrights
@@ -79,9 +77,6 @@ E-mail <mtfwiki@project-trans.org>
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
-[hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com

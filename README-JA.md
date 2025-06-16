@@ -46,8 +46,6 @@ MtF.wiki は、トランス関連の医療と生活情報が手に入れる、�
 
 ## 感謝
 
-[Cloudflare Pages][pages-url] で、テーマ [zdoc][zdoc-url] を使用して、[Hugo][hugo-url]を実行しています。 開発者様に感謝いたします。
-
 執筆の過程で多くの資料を参考することができました。資料の作者様にも感謝いたします。
 
 ## 著作権表示
@@ -84,9 +82,6 @@ Email <mtfwiki@project-trans.org>
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
-[hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com
