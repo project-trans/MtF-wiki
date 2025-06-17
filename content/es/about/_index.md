@@ -27,13 +27,11 @@ y los otros queridos que nos dan ayuda y información.
 
 ## Contacto
 
-Por Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
-
-Twitter {{< shields/twitter MtFwiki >}}
+Por correo electrónico <mtfwiki@project-trans.org>
 
 Por GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-Por correo electrónico <mtfwiki@project-trans.org>
+Twitter {{< shields/twitter MtFwiki >}}
 
 ## Agradecimiento
 
