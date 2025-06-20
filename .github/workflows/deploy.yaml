@@ -53,13 +53,13 @@ jobs:
       - name: Build project
         run: pnpm run build
         env:
-          SITE_URL: 'https://mtf.wiki/'
-          ROBOTS_ALLOW: 'true'
-          INCLUDE_SITEMAP: 'true'
+          NEXT_PUBLIC_SITE_URL: 'https://mtf.wiki/'
+          NEXT_PUBLIC_ROBOTS_ALLOW: 'true'
+          NEXT_PUBLIC_INCLUDE_SITEMAP: 'true'
           NEXT_PUBLIC_DEPLOY_TIME: ${{ steps.gen_ts.outputs.TIMESTAMP }}
           NEXT_PUBLIC_SERVER_BUILD_INDEX: 'true'
           NEXT_PUBLIC_BANNER_TEXT: 'banner-text-disclaimer'
-          EDIT_LINK_GITHUB_URL: "https://github.com/project-trans/MtF-wiki/tree/master/"
+          NEXT_PUBLIC_EDIT_LINK_GITHUB_URL: "https://github.com/project-trans/MtF-wiki/tree/master/"
           NEXT_PUBLIC_OG_BASE_URL: "https://mtf.wiki/"
 
       - name: Deploy to Cloudflare Pages
