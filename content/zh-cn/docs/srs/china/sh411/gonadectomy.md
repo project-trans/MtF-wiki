@@ -137,10 +137,10 @@ hide: true
 
 ### 术后第二天下午换药时拍摄
 
-{{< hiddenphoto "../gonadectomy-1.jpg" >}}
+{{< hiddenphoto "gonadectomy-1.jpg" >}}
 
 ### 术后一个月拍摄
 
-{{< hiddenphoto "../gonadectomy-2.jpg" >}}
+{{< hiddenphoto "gonadectomy-2.jpg" >}}
 
 {{< /expand >}}
