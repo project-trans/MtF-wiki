@@ -1,8 +1,0 @@
-{{- $message := .Get 0 -}}
-{{- $qs := querify "label" "Telegram" "logo" "Telegram" "message" $message "color" "blue" "style" "flat-square" -}}
-<a class="shields" href="https://t.me/{{ $message }}">
-  <img
-    alt="Telegram {{ $message }}"
-    src="https://img.shields.io/static/v1?{{ $qs | safeURL }}"
-  >
-</a>
