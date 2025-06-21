@@ -1,5 +1,5 @@
 ---
-title: 術前小知識
+title: 術前科普
 slug: faq
 weight: 100
 ---
