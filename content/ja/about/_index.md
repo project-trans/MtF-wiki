@@ -27,26 +27,18 @@ hidden-timeliness: true
 
 ## 連絡先
 
-Discord {{< shields/discord 883004164760801320 "Project Trans Community" "<https://link.mtf.wiki/discord>" >}} 日本語のチャンネルあり。
-
-Twitter {{< shields/twitter MtFwikiJapan >}}
+Email <mtfwiki@project-trans.org>
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-Email <mtfwiki@project-trans.org>
+Twitter {{< shields/twitter MtFwikiJapan >}}
 
 ## 感謝
 
 日本語版に特別な感謝：<http://wasadasan.com/voice2/hormon-byouin/>
-
-[Cloudflare Pages][pages-url]で、テーマ[zdoc][zdoc-url]を使用して、[Hugo][hugo-url]を実行しています。 開発者様に感謝いたします。
 
 執筆の過程で多くの資料を参考することができました。資料の作者様にも感謝いたします。
 
 ---
 
 [![CC](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
-
-[hugo-url]: https://github.com/gohugoio/hugo
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com

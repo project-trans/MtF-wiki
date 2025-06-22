@@ -32,8 +32,6 @@ jobs:
                
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: '10.10.0'
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -51,12 +49,14 @@ jobs:
       - name: Build project
         run: pnpm run build
         env:
-          SITE_URL: '/'
-          ROBOTS_ALLOW: 'false'
-          INCLUDE_SITEMAP: 'false'
+          NEXT_PUBLIC_SITE_URL: '/'
+          NEXT_PUBLIC_ROBOTS_ALLOW: 'false'
+          NEXT_PUBLIC_INCLUDE_SITEMAP: 'false'
           NEXT_PUBLIC_DEPLOY_TIME: ${{ steps.gen_ts.outputs.TIMESTAMP }}
           NEXT_PUBLIC_SERVER_BUILD_INDEX: 'true'
           NEXT_PUBLIC_BANNER_TEXT: 'banner-text-disclaimer-preview'
+          NEXT_PUBLIC_EDIT_LINK_GITHUB_URL: "https://github.com/project-trans/MtF-wiki/tree/master/"
+          NEXT_PUBLIC_OG_BASE_URL: "https://mtf.wiki/"
         
       - name: Deploy to Cloudflare Pages
         id: deploy
