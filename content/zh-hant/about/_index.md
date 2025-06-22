@@ -29,24 +29,16 @@ hidden-timeliness: true
 
 ## 社群聯絡
 
-Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
-
-Twitter {{< shields/twitter MtFwiki >}}
+電郵 <mtfwiki@project-trans.org>
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-電郵 <mtfwiki@project-trans.org>
+Twitter {{< shields/twitter MtFwiki >}}
 
 ## 致謝
-
-本網站目前使用 [Hugo][hugo-url] 部署於 [Cloudflare Pages][pages-url]，並使用 [zdoc][zdoc-url] 主題，在此表示感謝！
 
 本資料庫在編輯過程中參考了諸多資料，在此一併致謝。
 
 ---
 
 [![創用 CC 許可協議](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-[hugo-url]: https://github.com/gohugoio/hugo
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com

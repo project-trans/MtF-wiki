@@ -41,8 +41,6 @@ En cuanto al propósito original de construir este sitio, además de proporciona
 
 ## Agradecimiento
 
-Ejecutamos [Hugo][hugo-url] en [Cloudflare Pages][pages-url]. Tema visual [zdoc][zdoc-url]. Muchas gracias.
-
 En la elaboración de este proyecto se han hecho numerosas referencias, damos el agradecimiento.
 
 ## Propriedad
@@ -68,22 +66,16 @@ Si quieres citar este GitHub repo, puedes usar el bibtex：
 
 ## Contacto
 
-Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
-
-Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
+E-mail <mtfwiki@project-trans.org>
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
-E-mail <mtfwiki@project-trans.org>
+Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
-[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
-[hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com
