@@ -1,8 +1,0 @@
-{{- $message := .Get 0 -}}
-{{- $qs := querify "label" "Twitter" "logo" "Twitter" "message" $message "color" "blue" "style" "flat-square" -}}
-<a class="shields" href="https://twitter.com/{{ $message }}">
-  <img
-    alt="Twitter @{{ $message }}"
-    src="https://img.shields.io/static/v1?{{ $qs | safeURL }}"
-  >
-</a>
