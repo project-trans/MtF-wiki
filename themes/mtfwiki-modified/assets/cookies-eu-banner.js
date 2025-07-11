@@ -294,17 +294,36 @@ window.document.addEventListener("DOMContentLoaded", function () {
       "MtF.wiki 的內容僅供參考，可能存在過時或不準確的信息，請謹慎甄別。";
     button1 = "免責聲明";
     button2 = "知道了";
+  } else if (langCode === "en") {
+    contentText =
+      "The content in MtF.wiki are for informational purposes only, it may or may not be outdated or inaccurate. Please exercise caution while discerning";
+    button1 = "Disclaimer";
+    button2 = "Acknowledge";
   }
-  if (contentText != null && window.location.pathname !== "/zh-cn/about/disclaimer/") {
+  if (contentText != null && window.location.pathname !== "/zh-cn/about/disclaimer/" && langCode === "zh-cn" || "zh-hant") {
     banner.innerHTML = `
     ${contentText}
     <button onclick="window.location.href='/zh-cn/about/disclaimer/';" id="cookies-eu-more">${button1}</button>
     <button id="cookies-eu-accept">${button2}</button>
+
 `;
 
     // 将横幅添加到页面 body 的末尾
     window.document.body.appendChild(banner);
 
     new CookiesEuBanner(function () {}, true, true);
-  }
+  } 
+  if (contentText != null && window.location.pathname !== "/en/about/disclaimer/" && langCode === "en") {
+    banner.innerHTML = `
+    ${contentText}
+    <button onclick="window.location.href='/en/about/disclaimer/';" id="cookies-eu-more">${button1}</button>
+    <button id="cookies-eu-accept">${button2}</button>
+   `;
+
+    // 将横幅添加到页面 body 的末尾
+    window.document.body.appendChild(banner);
+
+    new CookiesEuBanner(function () {}, true, true);
+  } 
+
 });
