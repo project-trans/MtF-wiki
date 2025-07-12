@@ -1,9 +1,0 @@
-{{- $name := .Get 0 -}}
-{{- $fqdn := .Get 1 -}}
-{{- $qs := querify "server_fqdn" $fqdn "style" "flat-square" "label" "matrix" -}}
-<a class="shields" href="https://matrix.to/#/#{{ $name }}:{{ $fqdn }}">
-  <img
-    alt="Matrix #{{ $name }}:{{ $fqdn }}"
-    src="https://img.shields.io/matrix/{{ $name | safeURL }}?{{ $qs | safeURL }}"
-  >
-</a>
