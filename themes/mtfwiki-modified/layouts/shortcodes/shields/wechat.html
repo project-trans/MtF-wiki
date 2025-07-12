@@ -1,9 +1,0 @@
-{{- $message := .Get 0 -}}
-{{ $label := cond (eq $.Site.Language.Lang "zh-cn") "微信" "WeChat" }}
-{{- $qs := querify "label" $label "logo" "WeChat" "message" $message "color" "07C160" "style" "flat-square" -}}
-<a class="shields">
-  <img
-    alt="{{ $label }} {{ $message }}"
-    src="https://img.shields.io/static/v1?{{ $qs | safeURL }}"
-  >
-</a>
