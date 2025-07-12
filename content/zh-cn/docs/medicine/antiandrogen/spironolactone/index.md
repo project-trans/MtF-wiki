@@ -14,11 +14,11 @@ description: 螺内酯（Spironolactone）是雄激素受体拮抗剂，一种�
 
 |    一种常见的国产螺内酯片    |
 | :--------------------------: |
-| ![20 mg](spironolactone.jpg) |
+| ![20 mg](/images/medicine/spironolactone/minsheng.jpg) |
 
 - 药品名称：螺内酯片
 - 英文名称：Spironolactone Tablets
-- [说明书](./spironolactone-zh.pdf)
+- [说明书](/documents/spironolactone-zh.pdf)
 
 ## 注意事项
 
@@ -64,7 +64,7 @@ description: 螺内酯（Spironolactone）是雄激素受体拮抗剂，一种�
 - CAS：[52-01-7](https://commonchemistry.cas.org/detail?cas_rn=52-01-7)
 - 化学结构式：
 
-{{< figure src="https://scimg.chem960.com/cas/0/52-01-7.png" width="40%" >}}
+{{< figure src="/images/medicine/spironolactone/structural-formula.png" width="40%" >}}
 
 [^1]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/#spironolactone)》
 [^2]: [维基百科：螺内酯的副作用（英文）](https://en.wikipedia.org/wiki/Spironolactone#Side_effects)
