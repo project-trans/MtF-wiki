@@ -6,7 +6,7 @@ title: 贡献者指南
 
 1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "project-trans/mtf-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
    {{< notice warning "注意事项" >}}
-   如果你在Github网页上编辑，Github默认是会把你注册GitHub用的电邮地址放在你编辑的内容上的commit message里面的，一旦编辑完了提交了“pull request”请求，**所有人都可以看得到**，如果说你不想让你注册的电邮的地址被别人看到的话，你可以在开始编辑**之前**在Github网页上点击页面右上角你的头像进入"Settings"（设置），然后点击页面左边的 “Emails”选项启用“Keep my email addresses private”以及“Block command line pushes that expose my email”这两个选项。这样一来，你的commit message上就会显示一个github随机指派上面有你的github用户名的电子邮件地址，而非你注册用的电子邮件地址。
+   如果你在Github网页上编辑，Github默认会把你注册用的电邮地址放在你编辑的内容上的“commit message”里面；一旦编辑完并提交了“pull request”请求，**所有人都可以看得到这个地址**
    {{< /notice >}}
 1. 发送邮件到 <mtfwiki@project-trans.org>
 1. 直接在每个页面下方的意见反馈中投递
