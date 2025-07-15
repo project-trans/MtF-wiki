@@ -14,7 +14,7 @@ description: 螺內酯（Spironolactone）是雄激素受體拮抗劑，一種�
 
 | 一種常見的中國產螺內酯片 | Aldactone&reg; |
 | :--: | :--: |
-| ![20 mg](spironolactone.jpg) | ![100 mg](aldactone.jpg) |
+| ![20 mg](/images/medicine/spironolactone/minsheng.jpg) | ![100 mg](/images/medicine/spironolactone/aldactone.jpg) |
 
 - 藥品名稱：螺內酯片
 - 英文名稱：Spironolactone Tablets
@@ -64,7 +64,7 @@ description: 螺內酯（Spironolactone）是雄激素受體拮抗劑，一種�
 - CAS：[52-01-7](https://commonchemistry.cas.org/detail?cas_rn=52-01-7)
 - 化學構造式：
 
-{{< figure src="https://scimg.chem960.com/cas/0/52-01-7.png" width="40%" >}}
+{{< figure src="/images/medicine/spironolactone/structural-formula.png" width="40%" >}}
 
 [^1]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. 中譯本：《[女性傾向跨性別者的激素治療簡介](https://tfsci.mtf.wiki/articles/transfem-intro/#spironolactone)》
 [^2]: [維基百科：螺內酯的副作用（英文）](https://en.wikipedia.org/wiki/Spironolactone#Side_effects)
