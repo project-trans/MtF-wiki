@@ -70,4 +70,4 @@ UHIP 保险范围和 OHIP 比起来还是有限的。比如说：25 岁以下的
 
 **UTSU (UofT Only)**: UTSU是由Greenshield负责的，同样也是私营的商业险。作为补充保险，它可以报销 UHIP 不覆盖的处方药费用，最高只报销 80% 但是也非常足够了。我的处方是 12.5mg/d 色 + Estradot 100 贴片，每个月大概要花 {{< currency 8 CAD >}}。处方药保险每年报销限额是$5000，并且一款药品能的报销的金额被限定在相同仿制药的价格，不过通常原研药的厂商（可能是出于与仿制药竞争）会提供折扣，让最终你需要付的钱和仿制药差不多。折算折扣之类的是通常是药房处理的不需要你操作什么。
 
-另外UTSU的保险也覆盖一部分的处方药之外的性别肯定医疗，一生除了处方药以外所有的性别肯定医疗加起来的报销额度最高 $5000，具体报销的项目可以在 [这里](https://www.studentcare.ca/RTEContent/Document/GAC/EN_Gender_Affirmation_Care_Eligible_Procedures.pdf) 查看。
+另外UTSU的保险也覆盖一部分的处方药之外的性别肯定医疗，一生除了处方药以外所有的性别肯定医疗加起来的报销额度最高 $5000，具体报销的项目可以在 [Studentcare 网站](https://www.studentcare.ca/RTEContent/Document/GAC/EN_Gender_Affirmation_Care_Eligible_Procedures.pdf) 查看。
