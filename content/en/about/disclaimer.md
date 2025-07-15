@@ -12,7 +12,7 @@ NOW THEREFORE, IT IS HEREBY EXPRESSLY STATED THAT,
 
 We cannot guarantee any and all contents of the Website, including but not limited to its completeness, accuracy, reliability, applicability, truthfulness, correctness, logical validity, lawfulness nor reasonableness; 
 
-All of the contents on MtF.wiki are for informational purposes ONLY and **DO NOT CONSTITUTE PROFESSIONAL ADVICE OF ANY AND ALL KINDS** \（including but not limited to legal, medical, and psychiatric\); 
+All of the contents on MtF.wiki are for informational purposes ONLY and **DO NOT CONSTITUTE PROFESSIONAL ADVICE OF ANY AND ALL KINDS** \(including but not limited to legal, medical, and psychiatric\); 
 
 **MtF.wiki, or any person in relation to it, are NOT RESPONSIBLE for any and all consequences in relation to the comprehension or use of this Website**
 
