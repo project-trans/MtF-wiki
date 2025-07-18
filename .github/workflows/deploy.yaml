@@ -61,6 +61,7 @@ jobs:
           NEXT_PUBLIC_BANNER_TEXT: 'banner-text-disclaimer'
           NEXT_PUBLIC_EDIT_LINK_GITHUB_URL: "https://github.com/project-trans/MtF-wiki/tree/master/"
           NEXT_PUBLIC_OG_BASE_URL: "https://mtf.wiki/"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Cloudflare Pages
         id: deploy

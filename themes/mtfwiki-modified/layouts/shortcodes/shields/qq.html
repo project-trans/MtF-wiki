@@ -1,9 +1,0 @@
-{{- $message := .Get 0 -}}
-{{- $href := .Get 1 -}}
-{{- $qs := querify "label" "QQ" "logo" "Tencent QQ" "message" $message "color" "blue" "style" "flat-square" -}}
-<a class="shields" {{ with $href }} href="{{ . }}" {{ end }}>
-  <img
-    alt="QQ {{ $message }}"
-    src="https://img.shields.io/static/v1?{{ $qs | safeURL }}"
-  >
-</a>
