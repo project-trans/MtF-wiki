@@ -3,7 +3,7 @@ title: 上海市精神卫生中心
 ---
 
 {{< notice warning "隐私提醒" >}}
-上海市精神卫生中心存在未经同意将跨性别患者资料用于研究及透露给第三方的情况。
+在上海市精神卫生中心挂号（添加就诊人时）必须同意广泛知情告知书，同意将你的诊疗数据、生物样本材料及相关数据用于未来可能的临床研究。依告知书，签署后可拨打院方电话撤回同意。
 {{< /notice >}}
 
 {{< notice info "谨慎前往" >}}
@@ -16,8 +16,8 @@ title: 上海市精神卫生中心
 
 医生列表：
 
-- [陆峥](https://www.smhc.org.cn/MedicalGuide/contents/1262/23.html)（500 元）
-- [王飚](https://www.smhc.org.cn/MedicalGuide/contents/1263/49.html)（300 元）
+- [陆峥](https://www.smhc.org.cn/MedicalGuide/contents/1262/23.html)（800 元）
+- [王飚](https://www.smhc.org.cn/MedicalGuide/contents/1263/49.html)（400 元）
 - [张毅](https://www.smhc.org.cn/MedicalGuide/contents/1263/51.html)
 - [刘娜](https://www.smhc.org.cn/MedicalGuide/contents/1264/453.html)
 - [徐逸](https://www.smhc.org.cn/MedicalGuide/contents/1265/738.html)（25元）
