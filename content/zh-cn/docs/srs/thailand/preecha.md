@@ -58,9 +58,9 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 
 {{</notice>}}
 
-- 蓝莓 [联系方式](https://qwwq.org/)、<qwq@qwwq.org>
+- 蓝莓 [联系方式](https://qwwq.org/)、{{< shields/telegram "chiba2333" >}}、{{< shields/wechat "Strawberry960" >}}、<qwq@qwwq.org>
 
-  手术陪护，自身为术后 MtF，费用约为人民币 1 万元 + **合理**（机票仅需经济舱）交通费用。
+  手术陪护，自身为术后 MtF，可按天陪护。
 
 - Jessica/嘉嘉 {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
 

@@ -8,8 +8,14 @@ title: Greechart 医生
 
 官方网站：<https://www.miladahospital.com>（泰语）
 
-邮箱：<miladahospital@gmail.com>
-LINE ID：{{< shields/line "miladahospital" >}}
+中文官方邮箱：<sc87holl@gmail.com>、[中文twitter](https://x.com/sakusakura233)、{{< shields/wechat "SakuSakura0" >}}
+
+英文邮箱：<miladahospital@gmail.com>
+英文LINE ID：{{< shields/line "miladahospital" >}}
+
+{{< expand "相关证明" >}}
+![Certification](/images/srs/thailand/greechart/YUAN-miladaCertification.jpg)
+{{< /expand >}}
 
 <!-- 没找到出处 -->
 <!-- 中文热线：{{< telephone "+66 89-794-0811" >}} -->
