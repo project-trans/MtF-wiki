@@ -67,6 +67,12 @@ https://a.app.qq.com/o/simple.jsp?pkgname=com.founder.bysypatientapp
 
 线下预约挂号可使用医院内的自助机或到人工窗口，其号源与北医三院 APP、北医三院服务号共享，同有同无。
 
+{{<notice warning "16岁以下的来诊者" >}}
+
+因近期北医三院整体预约挂号系统调整，16岁以下的来诊者首诊时需使用家长身份证注册ID号、使用家长姓名预约挂号，其他情况预约挂号方式不变。参阅 [通知](https://mp.weixin.qq.com/s/xvoG9DQ6HWRsYVuRcJyTMg)
+
+{{</notice>}}
+
 ### 取号就诊
 
 - 采用前两种方式挂号的**非医保**用户，原则上不必领取挂号单，可凭电子就诊卡（二维码）直接到对应诊区报到/登记[^3]
