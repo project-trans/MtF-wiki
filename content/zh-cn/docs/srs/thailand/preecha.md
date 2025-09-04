@@ -46,43 +46,6 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 
 类似于 Preecha<sup>[缺乏被引用信息]</sup>，较少接受亚洲人客户。
 
-## 中介 / 翻译 / 陪护
-
-<!-- 你们PAI的官方认定联络员证书是批发的吗怎么人手一份 -->
-
-{{<notice warning 医疗建议 >}}
-
-除特殊说明外，任何翻译/中介/陪护均无医学相关执业资质，医疗相关问题请向正规医院和/或执业医师寻求帮助，除执业医师外的任何人发表的任何言论不能构成有效力的医疗建议。
-
-如遇突发情况，请自行斟酌经济条件后寻求正规医疗帮助，或紧急医疗服务。
-
-{{</notice>}}
-
-- 蓝莓 [联系方式](https://qwwq.org/)、{{< shields/telegram "chiba2333" >}}、{{< shields/wechat "Strawberry960" >}}、<qwq@qwwq.org>
-
-  手术陪护，自身为术后 MtF，可按天陪护。
-
-- Jessica/嘉嘉 {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
-
-  手术陪护，自身为 MtF，PAI 官方认定 SRS 联络员。
-  {{< expand "相关证明" >}}
-  ![Certification](/images/srs/thailand/preecha/Jessica_Lee_Cert_20240501.jpg)
-  {{< /expand >}}
-
-- 李萍 {{< shields/wechat "liping8267758" >}}
-
-  PAI 官方认定 SRS 联络员。
-  {{< expand "相关证明" >}}
-  ![Certification](/images/srs/thailand/preecha/liping.png)
-  {{< /expand >}}
-
-- [Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) \
-  英文中介，不需要收取额外费用，需要基础英文沟通能力（面诊，复诊可配搭收费中文翻译）。
-
-- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
-
-<!-- 你们这个什么md解释器哦，强迫症快被这缩进逼死了 -->
-
 ## 费用
 
 主要手术费用列于上表，包括：

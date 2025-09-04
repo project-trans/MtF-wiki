@@ -20,24 +20,6 @@ WhatsApp：{{< telephone "+34 676-956-831" >}}
 
 中文员工：{{< shields/wechat "amtflkx" >}}<sup>2024-11</sup>、{{< shields/wechat "BAIFERNNPK" >}}（苏琦，在官网提交问询表单后可能会被加微信）<sup>2025-2</sup>
 
-## 医疗中介
-
-这里的微信均为中文中介，均不为医院在职员工，具体可参考[相关讨论页面](https://github.com/project-trans/MtF-wiki/issues/760)。鉴于该医院有中文员工，建议若要考虑 kamol 可直接联系医院，无特别需要可能不必通过中介联系。
-
-- {{< shields/wechat "wuyanlii" >}}
-
-    据 [讨论](https://github.com/project-trans/MtF-wiki/issues/760) 存在手术前几天临时加价、且拒绝加价则威胁扣留签证的行为。参考阅读上面的讨论页面。建议谨慎交出签证原件。
-
-- {{< shields/wechat "xiaofeitum2" >}}
-
-    据反馈存在加价以在预后差时不管客人的案例。
-
-## 翻译陪护
-
-- Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
-
-    自身为 MtF
-
 ## 手术费用
 
 含宿与术前费用
@@ -114,6 +96,8 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 - 心脏病专家探访
   价格：{{< currency 1000 THB >}} ~ {{< currency 5000 THB >}}
   这些疾病所需的药物或任何治疗费用不包括在手术费用中（睡眠检查，CTA 冠状动脉检查，肺部检查，甲状腺检查等）
+
+该医院有中文员工，建议若要考虑 kamol 可直接联系医院，无特别需要可能不必通过中介联系。
 
 ## 手术日程
 
