@@ -76,6 +76,8 @@ weight: 10
 
 ## 抗雄激素制剂用药风险
 
+睾酮具有缩短 QT 间期（QTc）的作用[^35]，任何雄激素去除治疗（ADT），都可能会因睾酮下降/被阻断而出现 QTc 延长，而性腺功能不全者也观察到了 QTc 延长[^35][^36]。考虑到 GAHT 与 ADT 存在相当交集，在 GAHT 应关注 QTc 延长的情况，谨慎使用可能引起 QTc 延长的药物。
+
 ### 醋酸环丙孕酮
 
 醋酸环丙孕酮（色谱龙）最常见的副作用有：**_阴道点状出血_、体重增加或减轻、抑郁、性欲降低、勃起功能障碍和精子产量减少（停药后可逆）**[^5] [^6] [^7]。\
@@ -167,6 +169,7 @@ weight: 10
 - **雌二醇、人工孕激素和影响肝酶的药品：** 代谢可能受到 CYP3A4 抑制剂或诱导剂的影响[^2] [^6]。其中抑制剂使其代谢减慢；诱导剂使其代谢加快、疗效减弱。
 - **螺内酯、人工孕激素和血浆蛋白：** 由于这两种抗雄制剂均与血浆白蛋白高度结合[^6] [^20] [^21]，不能排除其会跟其它强结合药物竞争白蛋白的可能。与此类药物并用时，二者的游离血药浓度均可能增加，导致其作用和副作用增强。可能需要降低其中一种强结合药物的剂量。这类药物包括抗抑郁药舍曲林[^27]。
 - **雌二醇与血浆蛋白：** 生理水平下的雌二醇绝大部分与血浆蛋白结合，其中多数结合于白蛋白，少数结合于性激素结合球蛋白（SHBG）[^2] [^26]。虽然其会受到竞争白蛋白的其它药物影响，但由于雌二醇也会引起 SHBG 增加[^26]，故游离浓度变数可能较大。
+- **抗雄激素与可能引起 QT间期（QTc）延长的药品：** 与已知会延长 QT 间期或能诱导尖端扭转型室性心动过速的药物的合并用药进行仔细评价，如 IA 类（如奎尼丁、丙吡胺）或 III 类（如胺碘酮、索他洛尔、多非利特、伊布利特）抗心律失常药、美沙酮、莫西沙星、抗精神病药等[^10]。
 - **共用 CYP3A4 代谢途径的药品：** 剂量较大时，相关副作用发生的风险可能增大[^7]。应以最低有效剂量服药。
 - **酒精：** 已知酒精可降低醋酸环丙孕酮的效力[^5] [^6] [^7]。
 
@@ -227,3 +230,5 @@ Newsletter*, 2012, 22(4): 3-4.
 [^32]: Monroe S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas [J]. *The Journal of Clinical Endocrinology & Metabolism*, 1981, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 [^33]: ANI Pharmaceuticals Inc. LITHOBID&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2022. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
 [^34]: Taylor D M, Barnes T R E, Young A H. The Maudsley&reg; Prescribing Guidelines in Psychiatry [M]. 14th ed. Hoboken, US: John Wiley & Sons, 2021: 851-855.
+[^35]：Gheorghe G S, Hodorogea A S, Ciobanu A, et al. Androgen deprivation therapy, hypogonadism and cardiovascular toxicity in men with advanced prostate cancer[J]. Current Oncology, 2021, 28(5): 3331-3346. https://doi.org/10.3390/curroncol28050289
+[^36]：Gagliano-Jucá T, Travison T G, Kantoff P W, et al. Androgen deprivation therapy is associated with prolongation of QTc interval in men with prostate cancer[J]. Journal of the Endocrine Society, 2018, 2(5): 485-496. https://doi.org/10.1210/js.2018-00039
