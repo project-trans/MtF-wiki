@@ -76,7 +76,7 @@ weight: 10
 
 ## 抗雄激素制剂用药风险
 
-睾酮具有缩短 QT 间期（QTc）的作用[^35]，任何雄激素去除治疗（ADT），都可能会因睾酮下降/被阻断而出现 QTc 延长，而性腺功能不全者也观察到了 QTc 延长[^35][^36]。考虑到 GAHT 与 ADT 存在相当交集，在 GAHT 应关注 QTc 延长的情况，谨慎使用可能引起 QTc 延长的药物。
+睾酮具有缩短 QT 间期（QTc）的作用[^35]，任何雄激素去除治疗（ADT），都可能会因睾酮下降/被阻断而出现 QTc 延长，而性腺功能不全者也观察到了 QTc 延长[^35] [^36]。考虑到 GAHT 与 ADT 存在相当交集，在 GAHT 应关注 QTc 延长的情况，谨慎使用可能引起 QTc 延长的药物。
 
 ### 醋酸环丙孕酮
 
@@ -230,5 +230,5 @@ Newsletter*, 2012, 22(4): 3-4.
 [^32]: Monroe S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas [J]. *The Journal of Clinical Endocrinology & Metabolism*, 1981, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 [^33]: ANI Pharmaceuticals Inc. LITHOBID&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2022. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
 [^34]: Taylor D M, Barnes T R E, Young A H. The Maudsley&reg; Prescribing Guidelines in Psychiatry [M]. 14th ed. Hoboken, US: John Wiley & Sons, 2021: 851-855.
-[^35]：Gheorghe G S, Hodorogea A S, Ciobanu A, et al. Androgen deprivation therapy, hypogonadism and cardiovascular toxicity in men with advanced prostate cancer[J]. Current Oncology, 2021, 28(5): 3331-3346. https://doi.org/10.3390/curroncol28050289
-[^36]：Gagliano-Jucá T, Travison T G, Kantoff P W, et al. Androgen deprivation therapy is associated with prolongation of QTc interval in men with prostate cancer[J]. Journal of the Endocrine Society, 2018, 2(5): 485-496. https://doi.org/10.1210/js.2018-00039
+[^35]：Gheorghe G S, Hodorogea A S, Ciobanu A, et al. Androgen deprivation therapy, hypogonadism and cardiovascular toxicity in men with advanced prostate cancer[J]. Current Oncology, 2021, 28(5): 3331-3346.https://doi.org/10.3390/curroncol28050289
+[^36]：Gagliano-Jucá T, Travison T G, Kantoff P W, et al. Androgen deprivation therapy is associated with prolongation of QTc interval in men with prostate cancer[J]. Journal of the Endocrine Society,2018,2(5):485-496.https://doi.org/10.1210/js.2018-00039
