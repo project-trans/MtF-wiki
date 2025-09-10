@@ -100,7 +100,7 @@ weight: 1
 
 | **表面去毛** | **牵引性脱毛** | **光学/能量脱毛** | **电解脱毛** |
 |-|-|-|-|
-|　T式刮毛器；<br>旋转式刮毛器；<br>化学脱毛剂　|　拔毛器/镊子　|　IPL（家用和医用）；<br>激光脱毛（laser）　|　Thermolysis（RF/AC）；<br>Galvanic（DC）；<br>Blend　|
+|T式刮毛器；<br>旋转式刮毛器；<br>化学脱毛剂　|拔毛器/镊子　|IPL（家用和医用）；<br>激光脱毛（laser）　|Thermolysis（RF/AC）；<br>Galvanic（DC）；<br>Blend　|
 
 ## 3. 能量/光学脱毛治疗指南
 
