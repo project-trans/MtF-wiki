@@ -20,7 +20,7 @@ weight: 1
 
 ### 解剖结构
 
-首先来了解**毛囊单位**，它指共享一个开口及附属结构（皮脂腺、立毛肌）的**一簇毛囊** (不同部位数目不同；胡须/腋/阴部更常多根)。
+首先来了解**毛囊单位**，它指共享一个开口及附属结构（皮脂腺、立毛肌）的**一簇毛囊**（不同部位数目不同，胡须/腋/阴部更常多根）。
 
 **区段**（自表至深）
 
@@ -46,7 +46,7 @@ weight: 1
 
 #### 术语澄清
 
-- **永久毛发减少**：指**在完成一个疗程后**，于**6/9/12 个月**随访观察到**再生毛发数量的长期、稳定下降**；**不等同**于“所有毛发永不再生”。[^1] [^2]
+- **永久毛发减少**：指**在完成一个疗程后**，于**6/9/12 个月**随访观察到**再生毛发数量的长期、稳定下降**；**不等同**于“所有毛发永不再生”[^1] [^2]。
 - **永久脱毛**：特指电解脱毛。
 ---
 
@@ -54,7 +54,7 @@ weight: 1
 
 > 实现**永久毛发减少**的常见手段
 
-- 通过使黑色素吸收特定波段的激光并转化为热能，自毛球向隆起区扩散，造成**不可逆细胞损伤**，从而抑制再生。[^5]
+- 通过使黑色素吸收特定波段的激光并转化为热能，自毛球向隆起区扩散，造成**不可逆细胞损伤**，从而抑制再生[^5]。
 
 - **阶段敏感性**：**生长期毛发** 黑色素多、毛球位置深、导热更易到达关键结构，此为**最佳时机**。
 
@@ -114,17 +114,17 @@ weight: 1
 
 **按部位安排的复诊间隔**
 
-> 总体节律可参考 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)（上唇**4–8 周**、背部**12–16 周**），以及 [American Academy of Dermatology (AAD)](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs)（多数人**4–6 周**）。[ASLMS](https://www.aslms.org/for-the-public/treatments-using-lasers-and-energy-based-devices/laser-hair-removal) 明确指出：临床多采用**4–8 周**的节律，并**以疗效导向**为主，而非严格按部位或所谓“精确窗口”排程。
+> 总体节律可参考 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)（上唇**4–8 周**、背部**12–16 周**），以及 [American Academy of Dermatology (AAD)](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs)（多数人**4–6 周**）。[ASLMS](https://www.aslms.org/for-the-public/treatments-using-lasers-and-energy-based-devices/laser-hair-removal) 明确指出：临床多采用**4–8 周**的节律，并**以疗效导向**为主，而非严格按部位或所谓‘精确窗口’排程。
 
 - 上唇/下颌：**每 4–8 周**[^17]
 - 腋窝/比基尼：**每 4–6 周**[^18]
 - 前臂/小腿：**每 8–10 周**[^19]
 - 背部/躯干：**每 12–16 周**[^20]
 
-**理想设置下（合适波长/脉宽/光斑与冷却、覆盖充分、依从性好）的起步疗程与预期**
+**理想设置下（合适波长/脉宽/光斑与冷却、覆盖充分、依从性好）的起步疗程与预期。**
 
-- **多数部位**：起步**2–6 次**；首次治疗通常减量10-25%。([AAD](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs "Laser hair removal: FAQs"))
-- **面部/激素敏感区**：**往往需要更多次（常 ≥6次）**，并可能需要维护；**个别**可达**9 次**（参见[Cleveland Clinic](https://health.clevelandclinic.org/10-things-know-laser-hair-removal "Laser Hair Removal: Is It Worth It?"), [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190465/ "Laser Treatment in Hirsutism: An Update - PMC")）。
+- **多数部位**：起步**2–6 次**；首次治疗通常减量10-25%([AAD](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs "Laser hair removal: FAQs"))。
+- **面部/激素敏感区**：**往往需要更多次（常≥6次）**，并可能需要维护；**个别**可达**9次**（参见[Cleveland Clinic](https://health.clevelandclinic.org/10-things-know-laser-hair-removal "Laser Hair Removal: Is It Worth It?"), [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190465/ "Laser Treatment in Hirsutism: An Update - PMC")）。
 
 ### 选择正确的仪器
 
@@ -149,7 +149,7 @@ weight: 1
 
 ### 禁忌
 
-主要涉及皮肤健康状况、全身疾病、药物(光敏性药物如四环素类、维A酸类、一些抗凝药物)等方面，请在就医时将个人情况告知医生。
+主要涉及皮肤健康状况、全身疾病、药物（光敏性药物如四环素类、维A酸类、一些抗凝药物）等方面，请在就医时将个人情况告知医生。
 
 ### 术前准备共识
 
