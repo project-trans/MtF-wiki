@@ -20,7 +20,7 @@ weight: 1
 
 ### 解剖结构
 
-首先来了解**毛囊单位**，它指共享一个开口及附属结构（皮脂腺、立毛肌）的**一簇毛囊** (不同部位数目不同；胡须/腋/阴部更常多根)
+首先来了解**毛囊单位**，它指共享一个开口及附属结构（皮脂腺、立毛肌）的**一簇毛囊** (不同部位数目不同；胡须/腋/阴部更常多根)。
 
 **区段**（自表至深）
 
@@ -80,7 +80,7 @@ weight: 1
 
 - 通过**机械牵引**拔出毛干；处于**生长期** 时毛球与外根鞘黏附紧密，而处于**休止期**的毛发为**棒状毛**，更易整体拔出[^6]。
 
-- **不良反应风险**：牵引与剪切可致毛囊口微损伤与**毛发倒刺/细菌性毛囊炎**[^7] [^8] [^9]；少数可出现**绿脓杆菌毛囊炎暴发**或会阴/外阴**严重感染**等并发症[^11] [^12] [^13]
+- **不良反应风险**：牵引与剪切可致毛囊口微损伤与**毛发倒刺/细菌性毛囊炎**[^7] [^8] [^9]；少数可出现**绿脓杆菌毛囊炎暴发**或会阴/外阴**严重感染**等并发症[^11] [^12] [^13]。
 
 - **与后续能量疗法的相互作用**：拔/蜡会移除**含黑色素的靶结构**并扰动毛周期，降低 **laser/IPL** 的耦合效率；权威机构普遍建议**治疗前至少 4–6 周**避免拔/蜡，疗程内以**剃毛**替代[^14] [^15]。
 
@@ -124,7 +124,7 @@ weight: 1
 **理想设置下（合适波长/脉宽/光斑与冷却、覆盖充分、依从性好）的起步疗程与预期**
 
 - **多数部位**：起步**2–6 次**；首次治疗通常减量10-25%。([AAD](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs "Laser hair removal: FAQs"))
-- **面部/激素敏感区**：**往往需要更多次（常 ≥6次）**，并可能需要维护；**个别**可达 **9 次**。（参见[Cleveland Clinic](https://health.clevelandclinic.org/10-things-know-laser-hair-removal "Laser Hair Removal: Is It Worth It?"), [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190465/ "Laser Treatment in Hirsutism: An Update - PMC")）
+- **面部/激素敏感区**：**往往需要更多次（常 ≥6次）**，并可能需要维护；**个别**可达**9 次**（参见[Cleveland Clinic](https://health.clevelandclinic.org/10-things-know-laser-hair-removal "Laser Hair Removal: Is It Worth It?"), [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190465/ "Laser Treatment in Hirsutism: An Update - PMC")）。
 
 ### 选择正确的仪器
 
@@ -153,8 +153,8 @@ weight: 1
 
 ### 术前准备共识
 
-- **避免拔毛/蜜蜡脱毛/电解脱毛**：至少提前**4–6 周**停止。（参见[Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)、[StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK507861/)）
-- **术前约24小时剃毛**：治疗前留**轻微短茬**，避免外露长毛；**避免紧贴治疗前现剃**，这样容易增加表皮刺激/红斑； 一般**不推荐术前<6–12小时**以及**术前>48–72小时**剃毛。（参见[StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK507861/)、 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)）
+- **避免拔毛/蜜蜡脱毛/电解脱毛**：至少提前**4–6 周**停止（参见[Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)、[StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK507861/)）。
+- **术前约24小时剃毛**：治疗前留**轻微短茬**，避免外露长毛；**避免紧贴治疗前现剃**，这样容易增加表皮刺激/红斑； 一般**不推荐术前<6–12小时**以及**术前>48–72小时**剃毛（参见[StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK507861/)、 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)）。
 
 ### 术后护理共识
 
@@ -180,7 +180,7 @@ weight: 1
 
 家用设备多为IPL, 较医院设备能量低黑色素选择性差, 即使有效也效果有限; 用于激光脱毛的Ⅲ类医疗器械受到监管, 只能在医院做。
 
-#### 激光脱毛次数越多/频繁, 越好?
+#### 激光脱毛次数越多/频繁越好?
 
 应大致按[毛发生长周期](#预期效果和疗程)来。
 
