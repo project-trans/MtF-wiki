@@ -73,7 +73,7 @@ weight: 2
 
 <p>
 {{<local zh-cn>}}
-国行 Android 手机启用 Play Store [下载](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手机本来内置谷歌服务）
+国行 Android 手机启用 Play Store <a href="https://m.apkpure.com/google-play-store/com.android.vending/download">下载</a>（需要手机本来内置谷歌服务）
 {{</local>}}
 </p>
 
