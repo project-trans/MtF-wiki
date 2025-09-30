@@ -9,19 +9,19 @@ hidden-timeliness: true
 
 <img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
-{{< project-trans >}} が運営する {{< mtf-wiki >}} は、トランス関連の医療と生活情報が手に入れる、フリー・オープン継続的に更新される知識統合サイトになることを目指しています。。
+{{< project-trans >}} が運営する {{< mtf-wiki >}} は、トランス関連の医療と生活情報が手に入れる、フリー・オープン継続的に更新される知識統合サイトになることを目指しています。
 
-計画の <i class="bi bi-github" aria-label="GitHub"></i> GitHub レポジトリ：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
+私達の <i class="bi bi-github" aria-label="GitHub"></i> GitHub レポジトリ：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：<https://MtF.wiki>
+<i class="bi bi-link-45deg" aria-label="Website"></i> 私達のサイト：<https://MtF.wiki>
 
-関連ウィキとして、男性的な性別移行ウィキ：<https://FtM.wiki> があります。
+関連ウィキとして、男性への性別移行ウィキ：<https://FtM.wiki> があります。
 
 これらの GitHub の貢献者に感謝します：
 
 {{< github/contributors >}}
 
-そして吾輩に助けと情報を与えてくれる他の素敵な人たち。
+そして私に助けと情報を与えてくれる他の素敵な人たち。
 
 参加したい場合はご連絡ください！
 
@@ -35,9 +35,9 @@ Twitter {{< shields/twitter MtFwikiJapan >}}
 
 ## 感謝
 
-日本語版に特別な感謝：<http://wasadasan.com/voice2/hormon-byouin/>
+日本語版の作成にあたって特に感謝：<http://wasadasan.com/voice2/hormon-byouin/>
 
-執筆の過程で多くの資料を参考することができました。資料の作者様にも感謝いたします。
+執筆の過程で多くの資料を参考にすることができました。資料の作者様にも感謝いたします。
 
 ---
 
