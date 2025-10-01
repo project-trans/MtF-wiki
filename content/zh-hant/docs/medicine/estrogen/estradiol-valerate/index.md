@@ -19,7 +19,7 @@ Progynova（普女榮）的包衣含有蔗糖，故入口味甜。
 | 地區 | 上架狀態                       |
 | ---- | ------------------------------ |
 | 臺灣 | 已註銷                         |
-| 香港 | HK-49511(1mg)<br>HK-49512(2mg) |
+| 香港 | 已註銷 |
 
 ![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg)
 

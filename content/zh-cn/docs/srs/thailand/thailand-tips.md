@@ -66,16 +66,14 @@ weight: 2
 泰王国驻青岛总领事馆,山东省
 ```
 
-{{</local>}}
 {{< /expand >}}
+{{</local>}}
 
 ## 实用 APP {#app}
 
-<p>
 {{<local zh-cn>}}
 国行 Android 手机启用 Play Store [下载](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手机本来内置谷歌服务）
 {{</local>}}
-</p>
 
 购物平台 ThisShop [下载](https://thisshop.com/)
 

@@ -37,8 +37,6 @@ MtF.wiki 致力於成為一個免費開放且持續更新的女性傾向跨性�
 
 ## 致謝
 
-本專案目前採用 [Hugo][hugo-url] 部署在 [Cloudflare Pages][pages-url]。主題使用 [zdoc][zdoc-url]，對此表示感謝！
-
 本專案在編寫過程中參考了諸多資料，在此一併致謝。
 
 ## 版權宣告
@@ -64,22 +62,16 @@ MtF.wiki 致力於成為一個免費開放且持續更新的女性傾向跨性�
 
 ## 聯絡方式
 
-Discord [![Discord][badge-discord]](https://link.mtf.wiki/discord)
-
-Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
+E-mail <mtfwiki@project-trans.org>
 
 GitHub [![GitHub issues][badge-gh-issues]](https://github.com/project-trans/MtF-wiki/issues/new/choose)
 
-E-mail <mtfwiki@project-trans.org>
+Twitter [![Twitter][badge-twitter]](https://twitter.com/MtFwiki)
 
-[badge-discord]: https://img.shields.io/discord/883004164760801320?style=flat-square
 [badge-gh-issues]: https://img.shields.io/github/issues/project-trans/mtf-wiki?style=flat-square
 [badge-twitter]: https://img.shields.io/twitter/follow/MtFwiki?style=flat-square
 [cc-img]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [cc-url]: https://creativecommons.org/licenses/by-sa/4.0
-[hugo-url]: https://github.com/gohugoio/hugo
 [logo-long]: ./static/new/mtf-wiki-long.svg
 [repo]: https://github.com/project-trans/MtF-wiki
 [wiki-url]: https://mtf.wiki
-[zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.cloudflare.com

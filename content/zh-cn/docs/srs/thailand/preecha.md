@@ -28,7 +28,6 @@ aliases: burin
 
 Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，此术式以其手术接口为命名。利用此技术创造了体积大的小阴唇，尽可能深地延伸到后侧小阴唇。外阴微微张开，看起来较自然。
 
-
 术前请和医师充分沟通手术方案说明自己的需求，例如不希望深度超过 x 厘米。目前收到过姐妹术前提出希望零深度但术后发现阴道深度达到近 10 厘米，医师建议她术后护理需要通最小号模具的案例。
 
 #### 疤痕状况
@@ -47,43 +46,6 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 
 类似于 Preecha<sup>[缺乏被引用信息]</sup>，较少接受亚洲人客户。
 
-## 中介 / 翻译 / 陪护
-
-<!-- 你们PAI的官方认定联络员证书是批发的吗怎么人手一份 -->
-
-{{<notice warning 医疗建议 >}}
-
-除特殊说明外，任何翻译/中介/陪护均无医学相关执业资质，医疗相关问题请向正规医院和/或执业医师寻求帮助，除执业医师外的任何人发表的任何言论不能构成有效力的医疗建议。
-
-如遇突发情况，请自行斟酌经济条件后寻求正规医疗帮助，或紧急医疗服务。
-
-{{</notice>}}
-
-- 蓝莓 [联系方式](https://qwwq.org/)、<qwq@qwwq.org>
-
-  手术陪护，自身为术后 MtF，费用约为人民币 1 万元 + **合理**（机票仅需经济舱）交通费用。
-
-- Jessica/嘉嘉 {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
-
-  手术陪护，自身为 MtF，PAI 官方认定 SRS 联络员。
-  {{< expand "相关证明" >}}
-  ![Certification](/images/srs/thailand/preecha/Jessica_Lee_Cert_20240501.jpg)
-  {{< /expand >}}
-
-- 李萍 {{< shields/wechat "liping8267758" >}}
-
-  PAI 官方认定 SRS 联络员。
-  {{< expand "相关证明" >}}
-  ![Certification](/images/srs/thailand/preecha/liping.png)
-  {{< /expand >}}
-
-- [Estetica Thailandia (Charee)](https://www.transgendersurgerythailand.com/) \
-  英文中介，不需要收取额外费用，需要基础英文沟通能力（面诊，复诊可配搭收费中文翻译）。
-
-- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
-
-<!-- 你们这个什么md解释器哦，强迫症快被这缩进逼死了 -->
-
 ## 费用
 
 主要手术费用列于上表，包括：
@@ -93,12 +55,32 @@ Burin 目前所使用的手术技术为自主研发的 **Diamond technique**，�
 1. 住院期间一日三餐（最后一天为早餐，中餐看出院时间如果在下午就有）。
 1. 实验室测试：血常规、尿常规、心电图、HIV 抗体、胸部 X 射线等程序所必需的（40 岁以上需要检查心内科。额外收费 {{< currency 100 USD >}}）。 \*建议在国内提前检查以免空跑
 1. 医疗设备和医疗用品、全身麻醉、麻醉前药物、麻醉和医用气体（氧气、一氧化二氮）。
-1. PAI 的扩张器（1 & 2 号）；可额外购买其他尺寸扩张器。不论型号，购买一个的费用是 {{< currency 1500 THB >}}，三个的费用是 {{< currency 3500 THB >}}，五个的费用是 {{< currency 5500 THB >}}。有 0、1、1.5、2、2.5、3 一共 6 个型号。<!-- 现在已经没有那种东西了，都是彩色的 -->
 1. 住院期间的护理和药品。
 1. 带回家的药物和用品，一包绑带卫生巾、护理垫、甜甜圈坐垫、抗生素粉、生理盐水、碘伏。
 1. 交通接送，接机送机、来回诊所及医院的接送。
 
-麻醉类型：全身麻醉（如果之前做过声带手术，那只能腰麻）
+术后第十五天复诊时，诊所会提供两个扩张器；可额外购买其他尺寸扩张器。不论型号：
+
+```csv
+尺寸,价格 (THB)
+22 mm,1200
+24 mm,1200
+26 mm (no. 1),1200
+28 mm (no. 1.5),1200
+30 mm (no. 2),1200
+32 mm (no. 2.5),1200
+34 mm (no. 3),1500
+```
+
+- 购买 3 个扩张器的价格为 {{< currency 3500 THB >}}
+- 购买 4 个扩张器的价格为 {{< currency 4500 THB >}}
+- 购买 5 个扩张器的价格为 {{< currency 5500 THB >}}
+
+如有纳入式性交的需求，建议至少购买到 30 mm (no. 2) 以上的模具，统计上大部分男性的阴茎直径大于 30mm.
+
+麻醉类型：插管全身麻醉。
+
+如果之前做过声带手术，需要咨询相关医生以了解全麻手术所推荐的氧气管大小（例如北京友谊医院的推荐是 6.5 mm 或 7.0 mm，建议可视喉镜或者纤维喉镜引导下插管），并且告知诊所，在 Phyathai 2 手术前护士也会再次确认氧气管大小。
 
 入院前和出院后应该住在离**诊所**约一公里以内的酒店。超过一公里的话，诊所可能不提供接送，但可以自行打车并由诊所报销打车费用。
 
@@ -190,8 +172,7 @@ Tips:
 - [PAI Burin 手术 90 天后写下的手术常见问题 + 手术准备清单](https://github.com/project-trans/basket-relay/discussions/4)
 - [PAI SRS 手术物品准备清单参考](https://meiza.cc/pai-srs%E6%89%8B%E6%9C%AF%E7%89%A9%E5%93%81%E5%87%86%E5%A4%87%E6%B8%85%E5%8D%95%E5%8F%82%E8%80%83/)
 - 一位姐妹的 SRS 记录（Burin） <https://t.me/Hana_SRSviaBurin>
-- 七七的 SRS 日记-PAI 布林 <https://t.me/srs77inpai>
-- 凌莞的 SRS 记录 <https://t.me/ClanstySRS>
+- 凌莞的 SRS 记录 <https://t.me/+juHjVxNKsIhkYjll>
 - 另一位姐妹的 SRS 记录（Burin） <https://t.me/+WLC7BVdzMNw5NmVl>
 - 凛娴的SRS日记-PAI 布林 <https://t.me/SRS_RinChord>
 - 于PAI的性别重置手术（SRS）流程 <https://zhuanlan.zhihu.com/p/733798080>

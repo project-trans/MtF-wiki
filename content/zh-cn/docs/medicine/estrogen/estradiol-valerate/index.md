@@ -26,7 +26,7 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 - 药品类型：单方制剂
 - 药品成分：戊酸雌二醇（Estradiol valerate）
 - 简称：补
-- 批准文号（中国版）: [H20160679](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9YzliMmRmMTVhMGQ4MDkxZjk4MTkzMTcwOThhMzE2NGEmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
+- 批准文号（中国版）: [H20160679](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9NTViNDJkN2UwYzBkOTE5NDYxMWU3OGY1MTUwMjA5ODcmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4NjY1NzExODAw)
 - 批准文号（泰国版）: [U1DR1C1022640003811C](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug_ex.aspx?Newcode=U1DR1C1022640003811C)
 - 厂商：拜耳
 - 常见规格：
@@ -79,6 +79,7 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 - 规格：1 mg/片，21 片/盒
 - 厂商：浙江仙琚制药
 - [国药准字 H20244319](https://www.nmpa.gov.cn/datasearch/search-info.html?nmpa=aWQ9ZDk5MTgwNmYyYjNiYzBkMDkyMDNhOTE0ZjQwZTc2OTcmaXRlbUlkPWZmODA4MDgxODNjYWQ3NTAwMTg0MDg4MWY4NDgxNzlm)
+- 说明书：[扫描件](/documents/evt-xianjing-zh.pdf)
 
 {{< notice warning "提示" >}}
 此产品系新近上市，可能在你所在的城市尚不可用；是否适用于舌下含服尚未可知，需进一步调查。欢迎提供相关线索。

@@ -7,35 +7,61 @@ on:
     paths:
       - '.github/workflows/deploy.yaml'
       - 'content/**'
-      - 'config/**'
       - 'static/**'
-      - 'themes/**'
-      - 'package.json'
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出代码
+      - name: 克隆 Next-MtF-wiki 仓库
         uses: actions/checkout@v4
         with:
+          repository: project-trans/Next-MtF-wiki
           fetch-depth: 0
           submodules: true
 
-      - uses: DeterminateSystems/nix-installer-action@main
+      - name: 更新 source submodule 为 master 最新内容
+        run: |
+          cd source
+          git remote set-url origin https://github.com/${{ github.repository }}.git
+          git fetch origin master
+          git checkout -qf FETCH_HEAD
+          cd ..
+          git add source
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update source submodule to master" || true
+          git checkout -B master
 
-      - name: Install Node.js
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: 'npm'
+          cache: 'pnpm'
 
-      - name: Install npm dependencies
-        run: npm install
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
-      - name: Build site
-        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo
+      - name: Generate timestamp
+        id: gen_ts
+        run: echo "TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
+
+      - name: Build project
+        run: pnpm run build
+        env:
+          NEXT_PUBLIC_SITE_URL: 'https://mtf.wiki/'
+          NEXT_PUBLIC_ROBOTS_ALLOW: 'true'
+          NEXT_PUBLIC_INCLUDE_SITEMAP: 'true'
+          NEXT_PUBLIC_DEPLOY_TIME: ${{ steps.gen_ts.outputs.TIMESTAMP }}
+          NEXT_PUBLIC_SERVER_BUILD_INDEX: 'true'
+          NEXT_PUBLIC_BANNER_TEXT: 'banner-text-disclaimer'
+          NEXT_PUBLIC_EDIT_LINK_GITHUB_URL: "https://github.com/project-trans/MtF-wiki/tree/master/"
+          NEXT_PUBLIC_OG_BASE_URL: "https://mtf.wiki/"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Cloudflare Pages
         id: deploy
@@ -43,5 +69,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
-          command: pages deploy public --project-name=mtfwiki
+          command: pages deploy --project-name=mtfwiki
+          workingDirectory: apps/wiki
+          packageManager: pnpm
 

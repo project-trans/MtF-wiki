@@ -58,17 +58,14 @@ weight: 2
 泰王國駐南寧總領事館,廣西壯族自治區
 泰王國駐青島總領事館,山東省
 ```
-
-{{</local>}}
 {{< /expand >}}
+{{</local>}}
 
 ## 實用 APP {#app}
 
-<p>
 {{<local zh-cn>}}
-國行 Android 手機啟用 Play Store [下載](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手機本來內建谷歌服務）
+陸版 Android 手機啟用 Play Store [下載](https://m.apkpure.com/google-play-store/com.android.vending/download)（需要手機本來內建谷歌服務）
 {{</local>}}
-</p>
 
 購物平臺 ThisShop [下載](https://thisshop.com/)
 

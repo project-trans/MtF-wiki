@@ -5,53 +5,69 @@ on:
     types: [opened, synchronize, reopened, ready_for_review]
     paths:
       - 'content/**'
-      - 'config/**'
       - 'static/**'
-      - 'themes/**'
-      - 'package.json'
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest    
     steps:
-      - name: 检出主仓库代码
+      - name: 克隆 Next-MtF-wiki 仓库
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.base.ref }}
+          repository: project-trans/Next-MtF-wiki
           fetch-depth: 0
           submodules: true
 
-      - uses: DeterminateSystems/nix-installer-action@main
-
-      - name: 检出 PR 修改的部分
+      - name: 更新 source submodule 为 PR 的 ref 版本
         run: |
+          cd source
+          git remote set-url origin https://github.com/${{ github.repository }}.git
           git fetch origin +refs/pull/${{ github.event.pull_request.number }}/merge
           git checkout -qf FETCH_HEAD
-          git submodule update
+          cd ..
+          git add source
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update source submodule to PR #${{ github.event.pull_request.number }}" || true
+               
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
 
-      # - name: 配置 baseURL
-      #   run: |
-      #     sed -i 's|baseURL = "https://mtf.wiki/"|baseURL = "/"|' config/_default/config.toml
-
-      - name: Install Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: 'npm'
+          cache: 'pnpm'
+            
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
-      - name: Install npm dependencies
-        run: npm install
-
-      - name: Build site
-        run: nix run github:nixos/nixpkgs/nixos-24.11#hugo -- --minify --enableGitInfo --baseURL "/"
-
+      - name: Generate timestamp
+        id: gen_ts
+        run: echo "TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
+        
+      - name: Build project
+        run: pnpm run build
+        env:
+          NEXT_PUBLIC_SITE_URL: '/'
+          NEXT_PUBLIC_ROBOTS_ALLOW: 'false'
+          NEXT_PUBLIC_INCLUDE_SITEMAP: 'false'
+          NEXT_PUBLIC_DEPLOY_TIME: ${{ steps.gen_ts.outputs.TIMESTAMP }}
+          NEXT_PUBLIC_SERVER_BUILD_INDEX: 'true'
+          NEXT_PUBLIC_BANNER_TEXT: 'banner-text-disclaimer-preview'
+          NEXT_PUBLIC_EDIT_LINK_GITHUB_URL: "https://github.com/project-trans/MtF-wiki/tree/master/"
+          NEXT_PUBLIC_OG_BASE_URL: "https://mtf.wiki/"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
       - name: Deploy to Cloudflare Pages
         id: deploy
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
-          command: pages deploy public --project-name=mtfwiki-preview
+          command: pages deploy --project-name=mtfwiki-preview
+          workingDirectory: apps/wiki
+          packageManager: pnpm
 
       - name: pr preview action
         uses: project-trans/pr-preview-action@v1.0.1

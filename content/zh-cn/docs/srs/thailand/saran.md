@@ -2,6 +2,8 @@
 title: Saran 医生
 ---
 
+![Doctor](/images/srs/thailand/saran/doctor.jpg)
+
 医生姓名：Saran Wannachamras
 
 所在医院：[Wansiri Hospital](https://maps.app.goo.gl/MeiVuPNTQvJvzon36)

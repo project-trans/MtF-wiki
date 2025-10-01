@@ -1,7 +1,0 @@
-{{- $pattern := .Get "pattern" }}
-{{- $resources := .Page.Resources.Match $pattern }}
-<section class="gallery">
-{{- range $resources }}
-<img src="{{ .Permalink }}" width="{{ .Width }}" height="{{ .Height }}">
-{{- end }}
-</section>
