@@ -10,7 +10,6 @@ title: 滑铁卢大学 uWaterloo / University of Waterloo
 
 先打学校的[health service](https://uwaterloo.ca/campus-wellness/health-services)电话(519-888-4096)进行预约(直接说预约gender affirming care即可)，无需国内处方。
 
-
 我们学校的hrt是informed consent，并不需要有性别焦虑的诊断。第一次面诊会问一些比较general的问题，并且向你解释hrt的时间线和一些可能的副作用。在结束之后会给你refer一个验血。参考下面验血的章节。
 
 第二次根据验血的结果可以马上开出抗雄。倘若你想要在hrt之前储存精子，那么你需要在第一次或者第二次appointment的时候和医生说明，然后自己寻找一家fertility clinic或者请求医生帮助referring。这个环节取决于你所去的fertility clinic，可能长达半年。其精子储存费用不会被UHIP或者OHIP覆盖。
@@ -21,11 +20,11 @@ title: 滑铁卢大学 uWaterloo / University of Waterloo
 
 在你的药物剂量稳定下来之后，医生会建议每三个月进行一次验血和复查。这种情况下你应该在药物吃完前一到两个月预约（health service不接受过早的提前预约，比如说提前三到四个月）。
 
-
 ## 医生
-学校目前有两个gender affirming的医生。两者抗雄都会默认开螺内酯，但是都可以在要求下开色谱龙。不过比卡鲁胺和GNRH都无法开出来。
 
-这两个医生在2024年2月的时候依然没有协调工作，也就是说，当你第一次预约的是其中一个医生的话，你应该总是去与这个医生复诊。
+学校目前有三个gender affirming的医生。抗雄都会默认开螺内酯，但是都可以在要求下开色谱龙。不过比卡鲁胺和GNRH都无法开出来。
+
+这些医生在诊疗流程上可能有所不同，当你第一次预约的是其中一个医生的话，建议总是去与这个医生复诊以保持连续性。
 
 ### Tabitha Zindel
 
@@ -40,6 +39,10 @@ title: 滑铁卢大学 uWaterloo / University of Waterloo
 所以推荐你在每次和她的appointment之后在前台确认你有一个新的验血requisition。同时在当天或者一天后与药房确认你有新的prescription。倘若你的prescription没有得到refill，那么你可以打电话给health service或者到health service去和前台确认。她们会给Benedet留一张字条。
 
 在第二次appointment倘若你要求开色谱龙，个人得到的剂量是50mg每日。这个剂量是偏高的，所以倘若你想要调整剂量，请在appointment当场确认她所开出的色谱龙剂量。
+
+### Dr. Joanna Wielgosz
+
+*（2024年更新信息）* 新加入的 gender affirming 医生，目前反馈良好。第一次开药剂量为每日2mg雌二醇舌下含服 + 12.5mg色谱龙。流程相对简化，第一次见医生后即可进行抽血，第二次复诊就能拿到处方。
 
 ## 药物
 
@@ -57,7 +60,9 @@ Tabitha 之前没有开过prog（孕激素），但她可以开。
 
 ## 验血
 
-一般来说验血在学校的lab做即可 (Zindel会帮你去预约, 但Benedet不知道)，推荐在appointment前1-1.5周去做。常规情况下lab开放时间可查看学校[health service网站](https://uwaterloo.ca/campus-wellness/health-services)。
+*（2024年更新）* 目前学校health service的验血在工作日都开放。一般来说验血在学校的lab做即可，部分医生会帮你预约。推荐在appointment前1-1.5周去做。常规情况下lab开放时间可查看学校[health service网站](https://uwaterloo.ca/campus-wellness/health-services)。
+
+根据最新反馈，第一次见医生后就可以进行抽血，第二次复诊即可拿到处方，流程相比之前有所简化。
 
 第一次验血需要空腹，之后就不需要了。倘若学校的lab不开门（节假日或者突发情况），那么可以去65 university ave的lifelab去做（或者其他任意lifelab）。具体流程为先去学校health service的前台请求打印你的"requisition for bloodwork"，然后前往65 university ave。记得携带你的身份证明和UHIP电子卡。
 
