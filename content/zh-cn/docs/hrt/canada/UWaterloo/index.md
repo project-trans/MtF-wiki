@@ -42,7 +42,7 @@ title: 滑铁卢大学 uWaterloo / University of Waterloo
 
 ### Dr. Joanna Wielgosz
 
-*（2024年更新信息）* 新加入的 gender affirming 医生，目前反馈良好。第一次开药剂量为每日2mg雌二醇舌下含服 + 12.5mg色谱龙。流程相对简化，第一次见医生后即可进行抽血，第二次复诊就能拿到处方。
+目前反馈良好。第一次开药剂量为每日2mg雌二醇舌下含服 + 12.5mg色谱龙。流程相对简化，第一次见医生后即可进行抽血，第二次复诊就能拿到处方。
 
 ## 药物
 
@@ -60,7 +60,7 @@ Tabitha 之前没有开过prog（孕激素），但她可以开。
 
 ## 验血
 
-*（2024年更新）* 目前学校health service的验血在工作日都开放。一般来说验血在学校的lab做即可，部分医生会帮你预约。推荐在appointment前1-1.5周去做。常规情况下lab开放时间可查看学校[health service网站](https://uwaterloo.ca/campus-wellness/health-services)。
+学校 health service 的验血在工作日都开放。一般来说验血在学校的lab做即可，部分医生会帮你预约。推荐在appointment前1-1.5周去做。常规情况下lab开放时间可查看学校[health service网站](https://uwaterloo.ca/campus-wellness/health-services)。
 
 根据最新反馈，第一次见医生后就可以进行抽血，第二次复诊即可拿到处方，流程相比之前有所简化。
 
