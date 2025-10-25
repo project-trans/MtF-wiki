@@ -45,7 +45,7 @@ Discord,Project Trans Community,{{< shields/discord 883004164760801320 "Project 
   已预约 或 已经完成手术 的姐妹，
   请发送邮件至 <srs-411@mtf.wiki> 请注明你的手术时间，床号，以及要加入的即时通讯平台（QQ 群组，Telegram群组，微信群组）。
 
-  已预约手术也可直接加入QQ群组：{{< shields/qq 794763266 >}}
+  有意向在411手术、咨询预约与术前准备相关事宜，或已在411预约手术也可直接加入QQ群组：{{< shields/qq 794763266 >}}
 
 - **[泰国]({{< ref "srs-overview-thailand" >}}) 手术交流群**
 
