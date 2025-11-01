@@ -2,7 +2,7 @@
 title: 浙大二院｜卢蕴容
 ---
 
-{{< doctor-image src="doctor.png" >}}
+{{< doctor-image src="docter.png" >}}
 
 {{< tag/neg "部分信息不确定" >}}
 
