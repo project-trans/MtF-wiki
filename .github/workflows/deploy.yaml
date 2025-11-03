@@ -13,6 +13,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: 克隆 Next-MtF-wiki 仓库
         uses: actions/checkout@v4
@@ -20,6 +22,7 @@ jobs:
           repository: project-trans/Next-MtF-wiki
           fetch-depth: 0
           submodules: true
+          persist-credentials: false
 
       - name: 更新 source submodule 为 master 最新内容
         run: |
@@ -35,13 +38,12 @@ jobs:
           git checkout -B master
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@9fd676a19091d4595eefd76e4bd31c97133911f1 # v4.2.0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          cache: 'pnpm'
+        run: |
+          curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
+          sudo apt-get install -y nodejs
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -65,7 +67,7 @@ jobs:
 
       - name: Deploy to Cloudflare Pages
         id: deploy
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@da0e0dfe58b7a431659754fdf3f186c529afbe65 # v3.14.1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
