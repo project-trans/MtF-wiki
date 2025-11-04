@@ -8,7 +8,7 @@ title: 胡瀞暄 醫師
 
 所在醫院：桃園長庚醫院
 
-網站：{{< website "https://drhu.tw" >}}
+網站：[胡醫師官方網站](https://drhu.tw/)
 
 ## 手術費用
 
