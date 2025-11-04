@@ -2,8 +2,6 @@
 title: 胡瀞暄 醫師
 ---
 
-![Doctor](https://drhu.tw/drhu_image.jpg)
-
 醫師姓名：[胡瀞暄](https://www.cgmh.org.tw/tw/Services/DoctorInfo/7995)
 
 所在醫院：桃園長庚醫院
