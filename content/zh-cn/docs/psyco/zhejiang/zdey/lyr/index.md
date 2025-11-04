@@ -1,5 +1,5 @@
 ---
-title: 浙大二院｜卢蕴容
+title: 卢蕴容
 ---
 
 {{< doctor-image src="doctor.png" >}}
