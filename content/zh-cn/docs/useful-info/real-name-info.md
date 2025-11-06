@@ -38,7 +38,7 @@ weight: 100
 
 办理完成以后会获得类似如下的凭证，办理社保卡时可携带该凭证。
 
-![ssn-table](/images/useful-info/ssn-change-table.png)
+![社会保险业务核定表](/images/useful-info/ssn-change-table.png)
 
 #### 社保卡和《上海市居民病历》
 
