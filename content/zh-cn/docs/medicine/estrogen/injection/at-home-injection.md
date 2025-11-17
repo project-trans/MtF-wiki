@@ -41,7 +41,6 @@ hide: true
 
 可以参考：[文表（多语言，WHO，卫生与感染安全）](https://www.who.int/publications/i/item/9789241599252)，[文表（英文，CDC，卫生与感染安全）](https://restoredcdc.org/www.cdc.gov/infection-control/hcp/core-practices/index.html)，[文表（英文，CDC，卫生与感染安全）](https://restoredcdc.org/www.cdc.gov/injection-safety/hcp/clinical-safety/index.html)
 
-
 - 消毒后的表面和皮肤不能用手触摸，若意外触碰，需重新消毒并等待完全干燥。
 - 皮肤或橡胶塞用酒精消毒后，应让其自然风干约 30 秒；不要吹干、擦干、或摇扇。
 - 使用时，针头和针管不得接触任何非无菌表面；若**怀疑**污染，应一并丢弃整套注射器和其中的药物。{{< tag/pos "怀疑污染则应整套丢弃" >}}
@@ -312,54 +311,44 @@ hide: true
 - WHO Best Practices for Injections and Related Procedures Toolkit, https://www.who.int/publications/i/item/9789241599252
 - CDC's Core Infection Prevention and Control Practices for Safe Healthcare Delivery in All Settings, https://restoredcdc.org/www.cdc.gov/infection-control/hcp/core-practices/index.html
 
-无菌操作原理：
-
-注射器选择、药物准备、注射部位和注射给药过程：
+无菌操作原理、注射器选择、药物准备、注射部位和注射给药过程：
 - Fundamentals of Nursing, 11th Ed, Unit 5 "Foundations for Nursing Practice", Chapter 31 "Medication Administration"
-- Kozier & Erb’s Fundamentals of Nursing, 11th Ed, Unit 8 "Integral Components of Client Care", Chapter 35 "Medication Administration"
+- Kozier & Erb’s Fundamentals of Nursing, 11th Ed, Unit 8 "Integral Components of Client Care", Chapter 35 "Medication Administration", Section "Parenteral Medications"
 - Fundamentals of Nursing: The Art and Science of Person-Centered Care, 10th Ed, Unit 5 "Actions Basic to Nursing Care", Chapter 30 "Medications", Box "Nursing Process for Administering Medications", Section "Administering Parenteral Medications"
+- （注：如果你有兴趣或想要更多参考，编者较推荐 Kozier & Erb）
 
 患者自我注射的患者教育和建议：
 - Fenway Health "Transgender Health Injection Guide", https://fenwayhealth.org/wp-content/uploads/MG-6_TransHealth_InjectionGuide.pdf
 - U.S. Veterans Health Administration "How to Give Yourself an Intramuscular Injection", https://www.youtube.com/watch?v=fMEZdNodGM0
 
 注射部位反应：
+- Figueiredo MG, Gagliano-Jucá T, Basaria S. Testosterone Therapy With Subcutaneous Injections: A Safe, Practical, and Reasonable Option. J Clin Endocrinol Metab. 2022 Feb 17;107(3):614-626. doi: 10.1210/clinem/dgab772. PMID: 34698352; PMCID: PMC9006970.
+- Kim PJ, Lansang RP, Vender R. A Systematic Review and Meta-Analysis of Injection Site Reactions in Randomized-Controlled Trials of Biologic Injections. J Cutan Med Surg. 2023 Jul-Aug;27(4):358-367. doi: 10.1177/12034754231188444. Epub 2023 Aug 2. PMID: 37533141; PMCID: PMC10486173.
+- 对于非正规药厂生产的药物，编者使用 Google 与 Reddit 评估社群报告。出于对隐私性保护的关心，编者在此没有列出具体贴文链接。
+- （注：雌激素相关研究较少，可能由于其应用较少，故编者主要参考了对睾酮的研究）
 
 感染症状：
+- Mandell, Douglas, and Bennett's Principles and Practice of Infective Diseases, 9th Ed 的诸多章节
+- Wikipedia "Cellulitis", https://en.wikipedia.org/wiki/Cellulitis
 
-国内可获取的注射器的型号：
-- 编者总结自多款网购平台商品简介
-
-注射器的获取：
-- 编者总结自自我生活经验
-
-国内锐器丢弃处的缺乏：
-- 编者总结自自我生活经验
-
-对肌肉与皮下注射吸收性，和患者自我皮下给药的报告与研究：
-
-液滴大小：
-- 编者自我使用精度秤称量
-
-注射部位过敏局部反应图片：
-- 编者取自社群报告
+对肌肉与皮下注射吸收性、药代学，和患者自我皮下给药的报告与研究：
+- Figueiredo MG, Gagliano-Jucá T, Basaria S. Testosterone Therapy With Subcutaneous Injections: A Safe, Practical, and Reasonable Option. J Clin Endocrinol Metab. 2022 Feb 17;107(3):614-626. doi: 10.1210/clinem/dgab772. PMID: 34698352; PMCID: PMC9006970.
+- Zuidema J, Kadir F, Titulaer HA, Oussoren C. Release and absorption rates of intramuscularly and subcutaneously injected pharmaceuticals (II). Int J Pharm. 1994 May 9;105(3):189-207. doi: 10.1016/0378-5173(94)90103-1.
+- Turner L, Ly LP, Desai R, Singh GKS, Handelsman TD, Savkovic S, Fennell C, Jayadev V, Conway A, Handelsman DJ. Pharmacokinetics and Acceptability of Subcutaneous Injection of Testosterone Undecanoate. J Endocr Soc. 2019 Jun 28;3(8):1531-1540. doi: 10.1210/js.2019-00134. PMID: 31384715; PMCID: PMC6676071.
+- （注：雌激素相关研究较少，可能由于其应用较少，故编者主要参考了对睾酮的研究）
 
 糖皮质类固醇的选择：
+- 糖皮质激素急诊应用共识专家组. 糖皮质激素急诊应用专家共识. 中华急诊医学杂志. 2020 Jun 10;29(6):765-772. doi: 10.3760/cma.j.issn.1671-0282.2020.06.005.
+- 丁香园 "糖皮质激素总是分不清？这一张表帮你搞定！", https://endo.dxy.cn/article/639596
+- 丁香园 "糖皮质激素怎么用？掌握这 5 点就够了", https://chest.dxy.cn/article/805490
 
 单手挑起法：
+- Kozier & Erb’s Fundamentals of Nursing, 11th Ed, Unit 8 "Integral Components of Client Care", Chapter 35 "Medication Administration", Section "Parenteral Medications", Box 35.8 "Avoiding Puncture Injuries"
 
 感染治疗的过度复杂性，及自我治疗的过度危险性：
 - 编者阅读 Mandell, Douglas, and Bennett's Principles and Practice of Infective Diseases, 9th Ed 的自我总结
 - 编者阅读 Oxford Textbook of Critical Care, 2nd Ed 的自我总结
-
-简单局部过敏的自我处置：
-
-针头折断的极端罕见性：
-- placeholder
-- 编者总结自几乎所有患者教育材料均未提及针头折断的事实
-- （注：编者见 FtM.wiki 相应页面提及此可能，但经查证，认为无证据支持此警告）
-
-空气栓塞所需的极端空气剂量：
+- 编者阅读 Oxford Textbook of Medicine, 6th Ed 的自我总结
 
 关于肌肉注射的回血检查：
 
@@ -373,9 +362,39 @@ hide: true
 
 故本文档推荐总是进行回血检查，然而提醒在股外侧肌打到血管概率仍较小，故忘记时不需担心。编者个人曾在社群社交媒体上看见多例忘记回血检查后焦虑的情况，包括一例焦虑地提及拔针后血液流出的情况，因此亦在文档中特别指出，肌肉注射后见到血液流出是正常的。
 
+国内可获取的注射器的型号：
+- 编者总结自多款网购平台商品简介
+
+注射器的获取：
+- 编者总结自自我生活经验
+
+国内锐器丢弃处的缺乏：
+- 编者总结自自我生活经验
+
+液滴大小：
+- 编者自我使用精度秤称量
+
+注射部位过敏局部反应图片：
+- 编者取自社群报告
+
+简单局部过敏的自我处置：
+- 非处方抗组胺药和外用糖皮质类固醇的用途
+
+关于常见的不合理担心：
+- 针头折断的极端罕见性
+- 空气栓塞所需的极端静脉空气剂量
+
+针头折断的极端罕见性：
+- 编者总结自所有指南，和参考的所有其它患者教育材料，均未提及针头折断的事实，及所有相关研究的缺失，及编者所自我拆解的注射器针头部分的结构。
+- （注：编者见 FtM.wiki 相应页面强调此可能，但经查证，认为无证据支持此警告）
+
+空气栓塞所需的极端空气剂量：
+- 通常的共识是静脉注射数毫升的空气并不会造成伤害。然而，关于制造栓塞所需的量，编者无法找到相关资料，除一个常引用的数量级（数十毫升可致害，数百毫升可致死）。处死实验动物使用的剂量通常远过量（相当于 70 kg 的成人 500 mL 以上），以最小化痛苦，故编者认为不适用。注意到有不可靠的来源提示，此研究有可能仅在纳粹德国集中营中进行过（为囚犯注射巨大量空气和轻质汽油及石脑油以酷刑处决）。
+- 同时，由许多肌肉注射的药物本身已不溶于水，以及过去曾被推荐、雄激素类固醇社群中常用的“air-lock technique”，大概可推知注入少量空气应更加无害。
+
 不现实的改进：
 - 如有带保护装置针头，应使用之。国内无售。
 - 如有医用滤过针头，从安玻瓶中抽药时应使用之。国内无售。
-- 如有特小号无菌纱布薄片或安玻瓶开瓶器，应用之替代纸巾，开安玻瓶。一般药店无售。
+- 如有特小号无菌纱布薄片或安玻瓶开瓶器，应用之替代纸巾，开安玻瓶。国内无售。
 
 {{< /expand >}}
