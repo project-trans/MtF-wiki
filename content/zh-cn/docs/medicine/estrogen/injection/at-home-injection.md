@@ -1,7 +1,6 @@
 ---
 title: 自我注射
 description: 安全、有效地给自己打针
-hide: true
 ---
 
 ## 基础
