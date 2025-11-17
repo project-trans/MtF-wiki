@@ -214,7 +214,7 @@ hide: true
 
 *轻轻*向外回抽 5-10 秒。不应该看到有血液回血。如有，则说明打到静脉了，应该拔出重打。{{< tag/neg "浓稠、不溶于水的油性药液可栓塞血管！" >}}
 
-~~其实忘了也没事~~，不用焦虑，继续打完就好了。 {{< tag/pos "在检查回血的问题上，现在的指南存在争议。" >}}{{< tag/pos "许多当前的指南认为，并无证据显示经常有人在臀大肌外的安全注射部位打到过血管。" >}}
+~~其实忘了也没事~~。如果已经推了一半，发现忘记回抽，不用惊慌或焦虑，继续打完就好了。股外侧肌中间缺乏较大的血管，真正完全在静脉内的实际概率极小；但是下次最好记住。详见参考与引用。{{< tag/pos "在检查回血的问题上，现在的指南存在争议。" >}}{{< tag/pos "许多当前的指南认为，并无证据显示经常有人在臀大肌外的安全注射部位打到过血管。" >}}
 
 #### 推药
 
@@ -361,6 +361,17 @@ hide: true
 注意到，尽管此研究样本量较小，其仍报告了大量回血案例，且在一些常被认为安全的部位，包括三角肌，也有可能的回血的报告（尽管护士的记忆不一定准确）。
 
 故本文档推荐总是进行回血检查，然而提醒在股外侧肌打到血管概率仍较小，故忘记时不需担心。编者个人曾在社群社交媒体上看见多例忘记回血检查后焦虑的情况，包括一例焦虑地提及拔针后血液流出的情况，因此亦在文档中特别指出，肌肉注射后见到血液流出是正常的。
+
+关于浓稠、不溶于水的油性药液可栓塞血管的警告，编者并未找到因此发生严重肺栓塞的案例，而大部分案例主要为在不安全部位行肌肉注射后，微栓塞所致急性而短暂的呼吸不适。此警告主要是针对误行静脉推注的极端案例，此前编者曾在中文社群社交媒体上看到过。
+
+关于微栓塞所致呼吸不适的报告：
+- Adam JA, Pastuszak AW, Christensen MB, Spencer R, Sandberg A, Hotaling JM, Lipshultz LI. Occurrence of pulmonary oil microembolism (POME) with intramuscular testosterone undecanoate injection: literature review. Int J Impot Res. 2023 Aug;35(5):439-446. doi: 10.1038/s41443-022-00585-1. Epub 2022 May 24. PMID: 35610506.
+- Meyer RJ, Mann M. Pulmonary oil micro-embolism (POME) syndrome: a review and summary of a large case series. Curr Med Res Opin. 2015 Apr;31(4):837-41. doi: 10.1185/03007995.2015.1012254. Epub 2015 Mar 26. PMID: 25686650.
+- Russell M, Storck A, Ainslie M. Acute respiratory distress following intravenous injection of an oil-steroid solution. Can Respir J. 2011 Jul-Aug;18(4):e59-61. doi: 10.1155/2011/743151. PMID: 22059184; PMCID: PMC3205107.
+
+关于古老报告中极大量注射异物（橄榄油、液态单质汞等）所致的死亡：
+- Grossmann ME. Pulmonary oil embolism. Br J Radiol. 1946 May;19(221):178‑80. doi: 10.1259/0007-1285-19-221-178.
+- Fatal oil embolism from subcutaneous injection of olive‑oil—Leube’s method. JAMA. 1900;35(6):358. doi: 10.1001/jama.1900.02460320028005.
 
 国内可获取的注射器的型号：
 - 编者总结自多款网购平台商品简介
