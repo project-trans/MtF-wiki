@@ -303,3 +303,79 @@ hide: true
 你应该在保证人身安全的前提下，尽可能向医生透露与治疗相关的真实医学信息，例如如实际注射部位、时间、症状演变等。
 
 如果有人身安全风险，但遇到感染，请不要避免看医生。自己提前编好一套故事，每一个细节面面俱到，能融得进你的真实生活；不要有个主意，但不合常理或不一定经得住问；然后一口咬死，理直气壮。例如课桌上的钉子：当时自己没去校医消毒而是去卫生间洗了，怪不了学校，而且那个桌子已经被搬去修理了，死无对证；而当时没敢告诉家长，是因为怕被打骂。{{< tag/neg "保命要紧！" >}}{{< tag/neg "宁愿炸柜也别死！" >}}
+
+## 参考与引用
+
+{{< expand "参考与引用" >}}
+
+卫生与感染预防：
+- WHO Best Practices for Injections and Related Procedures Toolkit, https://www.who.int/publications/i/item/9789241599252
+- CDC's Core Infection Prevention and Control Practices for Safe Healthcare Delivery in All Settings, https://restoredcdc.org/www.cdc.gov/infection-control/hcp/core-practices/index.html
+
+无菌操作原理：
+
+注射器选择、药物准备、注射部位和注射给药过程：
+- Fundamentals of Nursing, 11th Ed, Unit 5 "Foundations for Nursing Practice", Chapter 31 "Medication Administration"
+- Kozier & Erb’s Fundamentals of Nursing, 11th Ed, Unit 8 "Integral Components of Client Care", Chapter 35 "Medication Administration"
+- Fundamentals of Nursing: The Art and Science of Person-Centered Care, 10th Ed, Unit 5 "Actions Basic to Nursing Care", Chapter 30 "Medications", Box "Nursing Process for Administering Medications", Section "Administering Parenteral Medications"
+
+患者自我注射的患者教育和建议：
+- Fenway Health "Transgender Health Injection Guide", https://fenwayhealth.org/wp-content/uploads/MG-6_TransHealth_InjectionGuide.pdf
+- U.S. Veterans Health Administration "How to Give Yourself an Intramuscular Injection", https://www.youtube.com/watch?v=fMEZdNodGM0
+
+注射部位反应：
+
+感染症状：
+
+国内可获取的注射器的型号：
+- 编者总结自多款网购平台商品简介
+
+注射器的获取：
+- 编者总结自自我生活经验
+
+国内锐器丢弃处的缺乏：
+- 编者总结自自我生活经验
+
+对肌肉与皮下注射吸收性，和患者自我皮下给药的报告与研究：
+
+液滴大小：
+- 编者自我使用精度秤称量
+
+注射部位过敏局部反应图片：
+- 编者取自社群报告
+
+糖皮质类固醇的选择：
+
+单手挑起法：
+
+感染治疗的过度复杂性，及自我治疗的过度危险性：
+- 编者阅读 Mandell, Douglas, and Bennett's Principles and Practice of Infective Diseases, 9th Ed 的自我总结
+- 编者阅读 Oxford Textbook of Critical Care, 2nd Ed 的自我总结
+
+简单局部过敏的自我处置：
+
+针头折断的极端罕见性：
+- placeholder
+- 编者总结自几乎所有患者教育材料均未提及针头折断的事实
+- （注：编者见 FtM.wiki 相应页面提及此可能，但经查证，认为无证据支持此警告）
+
+空气栓塞所需的极端空气剂量：
+
+关于肌肉注射的回血检查：
+
+我们曾建议在任何肌肉注射前进行回血检查。然而，后续的文献评估显示，证据不支持在三角肌注射是存在回血的风险。随后，CDC 在于 2018 和 2021 的疫苗注射指南中去除了回血检查的推荐。然而，是否应在三角肌外的肌肉注射中使用回血检查的证据仍不明确。
+
+一例 2016 年的研究（[2016, Thomas, Mraz, Rajcam](https://pubmed.ncbi.nlm.nih.gov/25784149/)）调查了 164 名注册护士。显示，绝大部分护士仍会进行回血检查，且 40 % 的护士曾见过 1 次以上的回血，其中 6 人遇到过至少 13 次回血。
+
+在调查回血时具体注射部位时，31 % 不记得具体的部位；随后 15 % 报告了臀后侧（注意到，由于此部位存在大血管及主要神经，通常已不建议在此注射），12 % 报告了三角肌，6 % 报告了臀外侧，4 % 报告了股外侧肌，1 % 报告了股直肌。
+
+注意到，尽管此研究样本量较小，其仍报告了大量回血案例，且在一些常被认为安全的部位，包括三角肌，也有可能的回血的报告（尽管护士的记忆不一定准确）。
+
+故本文档推荐总是进行回血检查，然而提醒在股外侧肌打到血管概率仍较小，故忘记时不需担心。编者个人曾在社群社交媒体上看见多例忘记回血检查后焦虑的情况，包括一例焦虑地提及拔针后血液流出的情况，因此亦在文档中特别指出，肌肉注射后见到血液流出是正常的。
+
+不现实的改进：
+- 如有带保护装置针头，应使用之。国内无售。
+- 如有医用滤过针头，从安玻瓶中抽药时应使用之。国内无售。
+- 如有特小号无菌纱布薄片或安玻瓶开瓶器，应用之替代纸巾，开安玻瓶。一般药店无售。
+
+{{< /expand >}}
