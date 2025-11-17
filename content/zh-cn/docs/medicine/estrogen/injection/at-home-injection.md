@@ -59,7 +59,7 @@ description: 安全、有效地给自己打针
 - 5 mL，3.2 cm / 0.7 mm（7号，深灰色）
 - 10 mL，3.2 cm / 0.8 mm（8号，青绿色）
 
-“死腔”指困在针管和针头连接处的空间。低死腔注射器，则专门设计得减少这个空间里浪费掉的药液
+“死腔”指困在针管和针头连接处的空间。低死腔注射器，则专门设计得减少这个空间里浪费掉的药液。
 
 规则：\
 如果你的药物装在多次使用的橡胶塞瓶里，则需要 1 mL 的注射器，才能精确地衡量剂量。 \
@@ -84,7 +84,7 @@ description: 安全、有效地给自己打针
 ## 注射教程
 
 建议观看：[视频（英文，VA，肌肉注射）](https://www.youtube.com/watch?v=fMEZdNodGM0)，[视频（粤语，香港血友病协会，皮下注射）](https://www.youtube.com/watch?v=s_20-g15v54)\
-可以参考：[图文（英文，Fenway Health，肌肉及皮下注射）](https://fenwayhealth.org/wp-content/uploads/MG-6_TransHealth_InjectionGuide.pdf)，[图文（英文，开安玻瓶）](https://www.tcichemicals.com/US/en/product/container/ampule)，[图文（英文，开安玻瓶）](https://www.bristol.ac.uk/media-library/sites/vetscience/documents/clinical-skills/How%20to%20Open%20a%20Glass%20Vial.pdf)。
+可以参考：[图文（英文，Fenway Health，肌肉及皮下注射）](https://fenwayhealth.org/wp-content/uploads/MG-6_TransHealth_InjectionGuide.pdf)，[图文（英文，开安瓿瓶）](https://www.tcichemicals.com/US/en/product/container/ampule)，[图文（英文，开安瓿瓶）](https://www.bristol.ac.uk/media-library/sites/vetscience/documents/clinical-skills/How%20to%20Open%20a%20Glass%20Vial.pdf)。
 
 ### 1. 准备工作空间
 
@@ -96,7 +96,7 @@ description: 安全、有效地给自己打针
 
 ### 3. 打开药物
 
-#### 如果是安玻瓶装的一次性使用药物：如何正确的打开瓶子
+#### 如果是安瓿瓶装的一次性使用药物：如何正确地打开瓶子
 
 先弹一弹瓶子，让瓶颈上方的药水尽量留到下方。虽然，剩余一点气泡也无所谓。
 
@@ -110,7 +110,7 @@ description: 安全、有效地给自己打针
 
 接下来，向外掰，用力，大胆一点…… 砰，瓶子就安全地打开了。{{< tag/pos "好耶！🎊" >}}
 
-安玻瓶装的药物不应重复使用。如果一次需要的剂量小于一瓶的量，剩余的必须丢弃。
+安瓿瓶装的药物不应重复使用。如果一次需要的剂量小于一瓶的量，剩余的必须丢弃。
 
 #### 如果是橡胶塞瓶装的药物
 
@@ -134,7 +134,7 @@ description: 安全、有效地给自己打针
 
 ### 5. 抽药
 
-#### 如果是安玻瓶
+#### 如果是安瓿瓶
 
 先打开注射器包装，拔掉针头护套。
 
@@ -144,7 +144,7 @@ description: 安全、有效地给自己打针
 
 #### 如果是橡胶塞瓶
 
-按自己需要的剂量抽。比如，瓶子里是的浓度是 40 mg/mL，而自己需要 8 mg，则抽 `8 / 40 = 0.2 mL` 的药。
+按自己需要的剂量抽。比如，瓶子里的浓度是 40 mg/mL，而自己需要 8 mg，则抽 `8 / 40 = 0.2 mL` 的药。
 
 先往针筒里吸入等量的空气，拔掉针头护套。
 
@@ -207,7 +207,7 @@ description: 安全、有效地给自己打针
 
 #### 皮下注射
 
-用手捏起一块约 3 cm 宽皮肤，但不要捏的太紧。如果用长针的话，45º 进针可能会容易一点；否则垂直进针。大约扎进 1 cm (垂直)-1.5 cm (45º) 的深度。
+用手捏起一块约 3 cm 宽皮肤，但不要捏的太紧。如果用长针的话，45° 进针可能会容易一点；否则垂直进针。大约扎进 1 cm (垂直)-1.5 cm (45°) 的深度。
 
 #### 肌肉注射：检查无回血
 
@@ -307,8 +307,8 @@ description: 安全、有效地给自己打针
 {{< expand "参考与引用" >}}
 
 卫生与感染预防：
-- WHO Best Practices for Injections and Related Procedures Toolkit, https://www.who.int/publications/i/item/9789241599252
-- CDC's Core Infection Prevention and Control Practices for Safe Healthcare Delivery in All Settings, https://restoredcdc.org/www.cdc.gov/infection-control/hcp/core-practices/index.html
+- WHO "WHO Best Practices for Injections and Related Procedures Toolkit", https://www.who.int/publications/i/item/9789241599252
+- CDC "CDC's Core Infection Prevention and Control Practices for Safe Healthcare Delivery in All Settings", https://restoredcdc.org/www.cdc.gov/infection-control/hcp/core-practices/index.html
 
 无菌操作原理、注射器选择、药物准备、注射部位和注射给药过程：
 - Fundamentals of Nursing, 11th Ed, Unit 5 "Foundations for Nursing Practice", Chapter 31 "Medication Administration"
@@ -353,9 +353,9 @@ description: 安全、有效地给自己打针
 
 关于肌肉注射的回血检查：
 
-我们曾建议在任何肌肉注射前进行回血检查。然而，后续的文献评估显示，证据不支持在三角肌注射是存在回血的风险。随后，CDC 在于 2018 和 2021 的疫苗注射指南中去除了回血检查的推荐。然而，是否应在三角肌外的肌肉注射中使用回血检查的证据仍不明确。
+我们曾建议在任何肌肉注射前进行回血检查。然而，后续的文献评估显示，证据不支持在三角肌注射时存在回血的风险。随后，CDC 在于 2018 和 2021 的疫苗注射指南中去除了回血检查的推荐。然而，是否应在三角肌外的肌肉注射中使用回血检查的证据仍不明确。
 
-一例 2016 年的研究（[2016, Thomas, Mraz, Rajcam](https://pubmed.ncbi.nlm.nih.gov/25784149/)）调查了 164 名注册护士。显示，绝大部分护士仍会进行回血检查，且 40 % 的护士曾见过 1 次以上的回血，其中 6 人遇到过至少 13 次回血。
+一例 2016 年的研究（[2016, Thomas, Mraz, Rajcan](https://pubmed.ncbi.nlm.nih.gov/25784149/)）调查了 164 名注册护士。显示，绝大部分护士仍会进行回血检查，且 40 % 的护士曾见过 1 次以上的回血，其中 6 人遇到过至少 13 次回血。
 
 在调查回血时具体注射部位时，31 % 不记得具体的部位；随后 15 % 报告了臀后侧（注意到，由于此部位存在大血管及主要神经，通常已不建议在此注射），12 % 报告了三角肌，6 % 报告了臀外侧，4 % 报告了股外侧肌，1 % 报告了股直肌。
 
@@ -406,7 +406,7 @@ description: 安全、有效地给自己打针
 
 不现实的改进：
 - 如有带保护装置针头，应使用之。国内无售。
-- 如有医用滤过针头，从安玻瓶中抽药时应使用之。国内无售。
-- 如有特小号无菌纱布薄片或安玻瓶开瓶器，应用之替代纸巾，开安玻瓶。国内无售。
+- 如有医用滤过针头，从安瓿瓶中抽药时应使用之。国内无售。
+- 如有特小号无菌纱布薄片或安瓿瓶开瓶器，应用之替代纸巾，开安瓿瓶。国内无售。
 
 {{< /expand >}}
