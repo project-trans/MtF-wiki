@@ -329,8 +329,8 @@ description: 安全、有效地给自己打针
 感染症状：
 - Mandell, Douglas, and Bennett's Principles and Practice of Infective Diseases, 9th Ed 的诸多章节
 - Wikipedia "Cellulitis", https://en.wikipedia.org/wiki/Cellulitis
-- MSD Manuals "Panniculitis" https://www.msdmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/panniculitis
-- StatPearls "Cellulitis" https://www.ncbi.nlm.nih.gov/books/NBK549770/
+- MSD Manuals "Panniculitis", https://www.msdmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/panniculitis
+- StatPearls "Cellulitis", https://www.ncbi.nlm.nih.gov/books/NBK549770/
 
 对肌肉与皮下注射吸收性、药代学，和患者自我皮下给药的报告与研究：
 - Figueiredo MG, Gagliano-Jucá T, Basaria S. Testosterone Therapy With Subcutaneous Injections: A Safe, Practical, and Reasonable Option. J Clin Endocrinol Metab. 2022 Feb 17;107(3):614-626. doi: 10.1210/clinem/dgab772. PMID: 34698352; PMCID: PMC9006970.
@@ -355,7 +355,7 @@ description: 安全、有效地给自己打针
 
 我们曾建议在任何肌肉注射前进行回血检查。然而，后续的文献评估显示，证据不支持在三角肌注射时存在回血的风险。随后，CDC 在于 2018 和 2021 的疫苗注射指南中去除了回血检查的推荐。然而，是否应在三角肌外的肌肉注射中使用回血检查的证据仍不明确。
 
-一例 2016 年的研究（[2016, Thomas, Mraz, Rajcan](https://pubmed.ncbi.nlm.nih.gov/25784149/)）调查了 164 名注册护士。显示，绝大部分护士仍会进行回血检查，且 40 % 的护士曾见过 1 次以上的回血，其中 6 人遇到过至少 13 次回血。
+一例 2016 年的研究（[Thomas, Mraz, Rajcan, 2016](https://pubmed.ncbi.nlm.nih.gov/25784149/)）调查了 164 名注册护士。显示，绝大部分护士仍会进行回血检查，且 40 % 的护士曾见过 1 次以上的回血，其中 6 人遇到过至少 13 次回血。
 
 在调查回血时具体注射部位时，31 % 不记得具体的部位；随后 15 % 报告了臀后侧（注意到，由于此部位存在大血管及主要神经，通常已不建议在此注射），12 % 报告了三角肌，6 % 报告了臀外侧，4 % 报告了股外侧肌，1 % 报告了股直肌。
 
@@ -373,6 +373,16 @@ description: 安全、有效地给自己打针
 关于古老报告中极大量注射异物（橄榄油、液态单质汞等）所致的死亡：
 - Grossmann ME. Pulmonary oil embolism. Br J Radiol. 1946 May;19(221):178‑80. doi: 10.1259/0007-1285-19-221-178.
 - Fatal oil embolism from subcutaneous injection of olive‑oil—Leube’s method. JAMA. 1900;35(6):358. doi: 10.1001/jama.1900.02460320028005.
+
+编者对 Z 型肌注法的考虑：
+
+Z 型肌注法是指在肌肉注射时，用辅助手的掌尺侧（外侧）将皮肤拉向一侧。完成注射后松手，此时皮肤和脂肪复位，使得肌肉中与脂肪组织中的针道不重合，因此药液难以流出。因为复位后里外两条针道呈 Z 字的两横状错开，故得名。在注射有组织刺激性的药物时，这种技巧可以缓解不适，且编者参考的护理教材中也有指导。
+
+编者考虑了 Z 型肌注法，但后来决定放弃。原因如下：Z 型肌注法需要稍用力将皮肤推向一侧；注意到，教材上的指南主要针对为他人注射，这种情况下，一般用臀大肌臀外侧或三角肌；同时考虑到，多数指南都表示，如肌肉量少，可以捏起腿部的肌肉注射，这说明非三角肌或臀大肌的肌肉，尤其是腿部的肌肉，可以被轻易移位；再加上编者自身的类似体验；所以担心在大腿注射时，安全的肌肉被推开、移位的可能。
+
+因为存在疑虑，且风险未知，于是在此仿照大多数其它患者教育材料中的方法，采用“拉紧皮肤”的表述，这样应该比较保险，不易推开肌肉。而且考虑到，“拉紧皮肤”本身也容易带来（尽管较小的）移位，由此推测这种做法可能已经比直接注射要好。且激素类药物也不太刺激组织，毕竟本身就可以打皮下。
+
+不过，这只是编者出于谨慎的无证据担心和从众行为。如果你发现较好的证据显示此担心不合理，那欢迎参与编辑改正。
 
 国内可获取的注射器的型号：
 - 编者总结自多款网购平台商品简介
