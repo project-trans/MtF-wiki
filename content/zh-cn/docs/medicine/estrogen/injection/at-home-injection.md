@@ -339,6 +339,8 @@ description: 安全、有效地给自己打针
 - Wikipedia "Cellulitis", https://en.wikipedia.org/wiki/Cellulitis
 - MSD Manuals "Panniculitis", https://www.msdmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-reactive-skin-disorders/panniculitis
 - StatPearls "Cellulitis", https://www.ncbi.nlm.nih.gov/books/NBK549770/
+- Wikipedia "Pyomyositis", https://en.wikipedia.org/wiki/Pyomyositis
+- Wikipedia "Necrotizing fasciitis", https://en.wikipedia.org/wiki/Necrotizing_fasciitis
 
 对肌肉与皮下注射吸收性、药代学，和患者自我皮下给药的报告与研究：
 - Figueiredo MG, Gagliano-Jucá T, Basaria S. Testosterone Therapy With Subcutaneous Injections: A Safe, Practical, and Reasonable Option. J Clin Endocrinol Metab. 2022 Feb 17;107(3):614-626. doi: 10.1210/clinem/dgab772. PMID: 34698352; PMCID: PMC9006970.
