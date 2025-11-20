@@ -27,7 +27,7 @@ weight: 10724
 
 雌激素：
 
-- 口服[戊酸雌二醇]({{< ref estradiol-valerate >}}
+- 口服[戊酸雌二醇]({{< ref estradiol-valerate >}})
 - 贴片（Evopad STT®）
 - 喷雾（Lenzetto®）
 
