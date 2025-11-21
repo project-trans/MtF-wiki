@@ -7,7 +7,7 @@ weight: 1001
 
 医生姓名：[赵烨德](https://www.haodf.com/doctor/6964528056.html)[^1]
 
-所在医院：[中国融通上海四一一医院</small>](https://amap.com/place/B0FFKP410J)（曾用名：中国人民解放军第 411 医院、海军军医大学附属长海医院虹口院区）
+所在医院：[上海大学附属四一一医院</small>](https://amap.com/place/B0FFKP410J) <small>（亦称：中国融通上海四一一医院；曾用名：中国人民解放军第 411 医院、长海医院虹口院区）</small>
 
 ## 开展的手术项目：
 
