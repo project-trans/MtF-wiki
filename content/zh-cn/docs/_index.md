@@ -22,7 +22,7 @@ MtF（Male-to-Female），跨性别女性，是指出生时[指派性别](https:
 - **关于性别重置手术 (SRS)**：如有考虑，请阅读 [SRS 术前科普]({{< ref "srs-faq" >}})。
 - **关于外貌焦虑**：如果你有外貌焦虑，可以通过阅读 [FFS 综述]({{< ref "ffs-overview" >}}) 了解更多关于面部女性化手术的内容。[喉结整形术]({{< ref "tracheal-shave" >}})、脱毛等项目也包含在这一章节中。
 - **关于声音焦虑**：如果你对自己的声音不满意，可以通过阅读 [嗓音训练综述]({{< ref "vocal-therapy-overview" >}}) 和 [嗓音手术综述]({{< ref "vocal-surgery-overview" >}}) 了解更多关于嗓音女性化的内容。
-- **参与贡献**：如果你想要改善本 Wiki 的内容，请阅读 [贡献者指南]({{< ref "contributor-guide" >}})。
+- **参与贡献**：如果你想要改善 {{< mtf-wiki >}} 的内容，请阅读 [贡献者指南]({{< ref "contributor-guide" >}})。
 
 [^2]: <https://github.com/project-trans>
 [^3]: <https://lgbtqia.fandom.com/wiki/Transfeminine>
