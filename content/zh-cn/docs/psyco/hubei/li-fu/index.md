@@ -20,7 +20,7 @@ title: 武汉｜李赋
 
 ## 挂号
 
-公众号：武汉市心理医院（二七院区）
+公众号：[武汉市精神卫生中心](weixin://wuhanjingweizhongxin)
 
 ## 出诊时刻
 
