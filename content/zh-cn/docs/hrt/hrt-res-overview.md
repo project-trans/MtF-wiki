@@ -29,7 +29,7 @@ weight: 1
 - 雌二醇药品
   - 戊酸雌二醇片 [补佳乐®]({{< ref estradiol-valerate >}})
   - 雌二醇凝胶
-    [爱斯妥]({{< ref "gel#oestrogel" >}}) / [健民雌二醇凝胶]({{< ref "gel#jian-min" >}})
+    [爱斯妥]({{< ref "gel#oestrogel" >}})/[健民雌二醇凝胶]({{< ref "gel#jian-min" >}})
 - 抗雄激素药品
   - 醋酸环丙孕酮
     [华典]({{< ref "cyproterone#huadian" >}})
