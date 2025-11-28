@@ -14,7 +14,10 @@ title: 武汉｜李赋
 
 医生姓名：[李赋](https://www.chinapsy.com/view_125.html)
 
-所在医院：[武汉市精神卫生中心](https://surl.amap.com/4L4TecL3vdAh)
+所在医院：[武汉市精神卫生中心](https://www.chinapsy.com/)
+
+- 六角亭院区：[武汉市硚口区游艺路93号](https://www.amap.com/place/B0LAMRCIBH)
+- 二七院区：[武汉市江岸区工农兵路92号](https://www.amap.com/place/B0FFF49IMU)
 
 **该医生近期受到患儿家长质疑和投诉，医院目前要求在患儿直系亲属明确支持的情况下陪同就诊，或在已完成手术公证情况下评估开具有关诊断证明。**
 
