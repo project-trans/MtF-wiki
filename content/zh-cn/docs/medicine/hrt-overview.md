@@ -184,7 +184,7 @@ MPA 和 CPA 实际上更多作为抗雄药物使用，详见[下文]({{< ref "#a
   - 以上可**减少雄激素合成、降低雄激素水平**。睾酮检查报告可直观反映其效果。注意在用药初期，睾酮下降需要数日方可完成[^45]，不宜操之过急。
 - [螺内酯]({{< ref "spironolactone" >}}) {{< tag/neg "略不推荐" >}}
 - [比卡鲁胺]({{< ref "bicalutamide" >}}) {{< tag/neg "不推荐常规应用" >}}
-  - 以上可**作用于雄激素受体，直接阻断雄激素活动**。睾酮检查报告不能反映此类药物的效果。
+  - 以上可**作用于雄激素受体，直接抑制雄激素生物效应**。对于单用比卡鲁胺而未使用雌激素的个体，可能导致睾酮与雌二醇水平较前上升[^46]。睾酮检查报告不能反映此类药物的效果。
 
 同样地，以上也设置了传送门，点击查看详情。这里简要介绍其中三种：
 
@@ -366,7 +366,8 @@ MPA 和 CPA 实际上更多作为抗雄药物使用，详见[下文]({{< ref "#a
 [^42]: Aly. An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. <https://transfemscience.org/articles/nonbinary-transfem-overview/> 【[译文](https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/)】
 [^43]: van Leerdam T R, Zajac J D, Cheung A S. The Effect of Gender-Affirming Hormones on Gender Dysphoria, Quality of Life, and Psychological Functioning in Transgender Individuals: A Systematic Review [J]. *Transgender Health*, 2023, 8(1): 6-21. <https://doi.org/10.1089/trgh.2020.0094>
 [^44]: Eli Lilly and Company. EVISTA&reg; Prescribing Information [EB/OL]. *Drugs@FDA*, 2018. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf> 【[译文](https://tfsci.mtf.wiki/zh-cn/misc/evista/)】
-[^45]: Rost A, Schmidt-Gollwitzer M, Hantelmann W, et al. Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer [J]. *The Prostate*, 1981, 2(3): 315-322. <https://doi.org/10.1002/pros.2990020310>
+[^45]: Rost A, Schmidt-Gollwitzer M, Hantelmann W, et al. Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer [J]. *The Prostate*, 1981, 2(3): 315-322. <https://doi.org/10.1002/pros.2990020310>  
+[^46]: Strauss III JF, Barbieri RL (28 August 2013). Yen & Jaffe's Reproductive Endocrinology: Physiology, Pathophysiology, and Clinical Management. Elsevier Health Sciences. pp. 688–.<https://web.archive.org/web/20230114143128/https://books.google.com/books?id=TTCwAAAAQBAJ&pg=PA688#v=onepage&q&f=false>
 
 [^97]: 核桃, 安非, Daisy, 等. 2021 全国跨性别健康调研报告 [EB/OL]. *北同文化*, (2021-12-26). 【[PDF 文档](https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf)】
 [^98]: 国家药品监督管理局. 关于发布药品网络销售禁止清单（第一版）的公告（2022年 第111号）[EB/OL]. (2022-11-30). <https://www.nmpa.gov.cn/xxgk/ggtg/ypggtg/ypqtggtg/20221130200847133.html>
