@@ -60,6 +60,7 @@ weight: 10
 > PRAC 审查了关于高强度**雌二醇乳膏**用于治疗绝经期妇女阴道萎缩症状的安全性和有效性的现有数据。这些数据表明，绝经后妇女使用这些乳膏后，血液中的雌二醇水平高于正常绝经后的水平。PRAC 的结论是，雌二醇在血液中的吸收值得关注，可能导致与激素替代疗法（HRT）相似的副作用，口服或经皮肤（作为贴片）使用 HRT 的副作用包括静脉血栓栓塞（静脉血栓形成）、中风、子宫内膜癌和乳腺癌。此外，关于长期使用高强度**雌二醇乳膏**的安全性数据有限。
 > 基于这些原因，PRAC 建议这些乳膏一个疗程最多只能使用 4 周。
 
+
 ## 孕激素用药风险
 
 ### 口服与非口服天然孕酮（黄体酮）
@@ -70,6 +71,8 @@ weight: 10
 ### 人工合成孕激素（如醋酸环丙孕酮）
 
 详见“抗雄激素用药风险”。
+
+
 
 ## 抗雄激素制剂用药风险
 
@@ -117,10 +120,12 @@ weight: 10
 > 尽管类固醇类和非类固醇类抗雄激素药物都与肝毒性相关，但这些不良反应的发生频率及其临床特征，在不同药品间似乎有所不同。例如，观察性研究结果显示，使用**氟他胺**的患者出现肝毒性事件的发生频率高于那些使用**醋酸环丙孕酮**的患者（15.3%比 9.5%，p=0.034）。
 > 此外，这项研究发现在严重的肝毒性（定义为肝酶水平升高大于 6 倍正常值上限）事件中，使用**氟他胺**者占 4.8%，使用**醋酸环丙孕酮**者占 3.8%。在严重肝毒性事件中，使用**比卡鲁胺**和**尼鲁米特**者罕有报告。
 
+
 > **欧盟因脑膜瘤风险限制环丙孕酮的使用** [^18] [^28]
 >
 > 现有数据并未表明含有 1 或 2 毫克的低剂量**环丙孕酮**与**炔雌醇**或**雌二醇**联用治疗痤疮、多毛症、避孕或激素替代疗法的风险。然而，作为预防措施，这些药物不应用于**脑膜瘤患者**或有**脑膜瘤病史**者。
 > 含高剂量环丙孕酮的药物已有该限制。
+
 
 ## 药物相互作用 {#drug-interactions}
 
@@ -169,8 +174,8 @@ weight: 10
 
 ##### 附录：可诱导或抑制 CYP3A4 的精神药品 [^34]
 
-> **粗体：有强诱导或抑制作用**  
-> \* 有较弱诱导或抑制作用  
+> **粗体：有强诱导或抑制作用**
+> \* 有较弱诱导或抑制作用
 > 其余：作用显著性不明
 
 ```csv
@@ -186,38 +191,39 @@ weight: 10
 
 以上未囊括所有可能存在相互作用的药品类型。如有新的药物相互作用信息，可于 [GitHub](https://github.com/project-trans/MtF-wiki/issues/828) 提交报告。
 
+
 [^1]: [雌二醇片（Estrofem）说明书](https://tfsci.mtf.wiki/misc/estrofem/)
 [^2]: [戊酸雌二醇片（Progynova）说明书](https://tfsci.mtf.wiki/misc/progynova/)
-[^3]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. _Transfeminine Science_, 2020. 译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
-[^4]: Aly. Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects [EB/OL]. _Transfeminine Science_, 2018. 译文：《[口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
+[^3]: Aly. Estrogens and Their Influences on Coagulation and Risk of Blood Clots [EB/OL]. *Transfeminine Science*, 2020. 译文：《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》
+[^4]: Aly. Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects [EB/OL]. *Transfeminine Science*, 2018. 译文：《[口服孕酮及其引起的低孕酮水平与较弱效力的简论](https://tfsci.mtf.wiki/articles/oral-p4-low-levels/)》
 [^5]: [醋酸环丙孕酮（新西兰 Siterone）说明书](https://tfsci.mtf.wiki/misc/siterone-nz/)
 [^6]: [醋酸环丙孕酮（南非 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-za/)
 [^7]: [醋酸环丙孕酮（台湾 Androcur）说明书](https://tfsci.mtf.wiki/misc/androcur-tw/)
-[^8]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. _Transfeminine Science_, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
-[^9]: Aly. Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People [EB/OL]. _Transfeminine Science_, 2020. 译文：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
-[^10]: AstraZeneca. CASODEX&reg; U.S. Physicians Prescribing Information [EB/OL]. _Drugs@FDA_, 2017. 译文：《[比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/) 》
-[^11]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. _Transfeminine Science_, 2018. 译文：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
-[^12]: Aly. Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy [EB/OL]. _Transfeminine Science_, 2020. 译文：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
+[^8]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
+[^9]: Aly. Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[法国关于醋酸环丙孕酮和脑膜瘤风险的研究的最新进展以及对女性倾向跨性别者的影响](https://tfsci.mtf.wiki/articles/cpa-meningioma/)》
+[^10]: AstraZeneca. CASODEX&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2017. 译文：《[比卡鲁胺（Casodex）说明书](https://tfsci.mtf.wiki/misc/casodex/) 》
+[^11]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 译文：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
+[^12]: Aly. Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy [EB/OL]. *Transfeminine Science*, 2020. 译文：《[比卡鲁胺在女性化激素治疗方面的使用状况，以及医学界对其的接受情况](https://tfsci.mtf.wiki/articles/bica-adoption/)》
 [^13]: [螺内酯片说明书](https://tfsci.mtf.wiki/misc/spiro-tablet/)
-[^14]: Solymoss B, Classen H G, Varga S. Increased hepatic microsomal activity induced by spironolactone and other steroids [J]. _Proceedings of the Society for Experimental Biology and Medicine_, 1969, 132(3): 940-941. \[DOI: [10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)]
-[^15]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. _Transfeminine Science_, 2020. 译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
+[^14]: Solymoss B, Classen H G, Varga S. Increased hepatic microsomal activity induced by spironolactone and other steroids [J]. *Proceedings of the Society for Experimental Biology and Medicine*, 1969, 132(3): 940-941. \[DOI: [10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)]
+[^15]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
 [^16]: 国家药品监督管理局. [药物警戒快讯第 4 期（总第 204 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html) [EB/OL]. 2020-06-12.
 [^17]: 国家药品监督管理局. [药物警戒快讯 2012 年第 11 期（总第 115 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20121130120001399.html) [EB/OL]. 2012-11-30.
 [^18]: 国家药品监督管理局. [药物警戒快讯第 3 期（总第 203 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200416143701885.html) [EB/OL]. 2020-04-16.
-[^19]: Kattari S K, Kattari L, Johnson I, et al. Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan [J]. _International Journal of Environmental Research and Public Health_, 2020, 17(18):6805. \[DOI: [10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
+[^19]: Kattari S K, Kattari L, Johnson I, et al. Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan [J]. *International Journal of Environmental Research and Public Health*, 2020, 17(18):6805. \[DOI: [10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
 [^20]: Pfizer. PROVERA&reg; U.S. Physician Prescribing Information [EB/OL]. 2018. <https://labeling.pfizer.com/ShowLabeling.aspx?id=605>
-[^21]: Pfizer Lab. ALDACTONE&reg; U.S. Physician Prescribing Information [EB/OL]. _Drugs@FDA_, 2022. 译文：《[螺内酯（Aldactone）说明书](https://tfsci.mtf.wiki/misc/aldactone/)》
-[^22]: Cockshott I D. Bicalutamide: Clinical Pharmacokinetics and Metabolism [J]. _Clinical Pharmacokinetics_, 2004, 43(13): 855–878. \[DOI: [10.2165/00003088-200443130-00003](https://doi.org/10.2165/00003088-200443130-00003)]
-[^23]: Verity Pharmaceuticals Inc. TRELSTAR&reg; U.S. Physicians Prescribing Information [EB/OL]. _Drugs@FDA_, 2023. 译文：《[帕莫酸曲普瑞林（美国 Trelstar）处方说明书](https://tfsci.mtf.wiki/misc/trelstar/)》
-[^24]: Aly. A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People [EB/OL]. _Transfeminine Science_, 2018. 译文：《[对有关使用螺内酯的顺性别男性、顺性别女性和女性倾向跨性别者及其睾酮水平的一系列研究的评述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)》
-[^25]: Aly. Discussion on Bicalutamide Dosage in Transfeminine People [EB/OL]. _Transfeminine Science_, 2018. 原文已被删除，译文：《[有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/articles/bica-dosage/)》
-[^26]: Aly. The Interactions of Sex Hormones with Sex Hormone-Binding Globulin and Relevance for Transfeminine Hormone Therapy [EB/OL]. _Transfeminine Science_, 2020. 译文：《[性激素与性激素结合球蛋白的相互作用及其对女性化激素疗法的意义](https://tfsci.mtf.wiki/articles/shbg-unimportant/)》
-[^27]: Viatris Specialty LLC. ZOLOFT&reg; U.S. Physicians Prescribing Information [EB/OL]. _Drugs@FDA_, 2023. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019839s102,020990s059lbl.pdf>
+[^21]: Pfizer Lab. ALDACTONE&reg; U.S. Physician Prescribing Information [EB/OL]. *Drugs@FDA*, 2022. 译文：《[螺内酯（Aldactone）说明书](https://tfsci.mtf.wiki/misc/aldactone/)》
+[^22]: Cockshott I D. Bicalutamide: Clinical Pharmacokinetics and Metabolism [J]. *Clinical Pharmacokinetics*, 2004, 43(13): 855–878. \[DOI: [10.2165/00003088-200443130-00003](https://doi.org/10.2165/00003088-200443130-00003)]
+[^23]: Verity Pharmaceuticals Inc. TRELSTAR&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2023. 译文：《[帕莫酸曲普瑞林（美国 Trelstar）处方说明书](https://tfsci.mtf.wiki/misc/trelstar/)》
+[^24]: Aly. A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 译文：《[对有关使用螺内酯的顺性别男性、顺性别女性和女性倾向跨性别者及其睾酮水平的一系列研究的评述](https://tfsci.mtf.wiki/articles/spiro-testosterone/)》
+[^25]: Aly. Discussion on Bicalutamide Dosage in Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 原文已被删除，译文：《[有关比卡鲁胺用于女性倾向跨性别者所需剂量的讨论](https://tfsci.mtf.wiki/articles/bica-dosage/)》
+[^26]: Aly. The Interactions of Sex Hormones with Sex Hormone-Binding Globulin and Relevance for Transfeminine Hormone Therapy [EB/OL]. *Transfeminine Science*, 2020. 译文：《[性激素与性激素结合球蛋白的相互作用及其对女性化激素疗法的意义](https://tfsci.mtf.wiki/articles/shbg-unimportant/)》
+[^27]: Viatris Specialty LLC. ZOLOFT&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2023. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019839s102,020990s059lbl.pdf>
 [^28]: European Medicines Agency. Restrictions in use of cyproterone due to meningioma risk [EB/OL]. 2020-02-14. <https://www.ema.europa.eu/en/news/restrictions-use-cyproterone-due-meningioma-risk>
-[^29]: Health Canada. Antiandrogens and hepatotoxicity [J]. _Canadian Adverse Reaction
-Newsletter_, 2012, 22(4): 3-4.
+[^29]: Health Canada. Antiandrogens and hepatotoxicity [J]. *Canadian Adverse Reaction
+Newsletter*, 2012, 22(4): 3-4.
 [^30]: European Medicines Agency. PRAC confirms four-week limit for use of high-strength estradiol creams [EB/OL]. 2020-01-17. <https://www.ema.europa.eu/en/news/prac-confirms-four-week-limit-use-high-strength-estradiol-creams>
-[^31]: Chung W G, Buhler D R. The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs [J]. _Toxicology and Applied Pharmacology_, 1994, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
-[^32]: Monroe S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas [J]. _The Journal of Clinical Endocrinology & Metabolism_, 1981, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
-[^33]: ANI Pharmaceuticals Inc. LITHOBID&reg; U.S. Physicians Prescribing Information [EB/OL]. _Drugs@FDA_, 2022. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
+[^31]: Chung W G, Buhler D R. The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs [J]. *Toxicology and Applied Pharmacology*, 1994, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
+[^32]: Monroe S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas [J]. *The Journal of Clinical Endocrinology & Metabolism*, 1981, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
+[^33]: ANI Pharmaceuticals Inc. LITHOBID&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2022. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
 [^34]: Taylor D M, Barnes T R E, Young A H. The Maudsley&reg; Prescribing Guidelines in Psychiatry [M]. 14th ed. Hoboken, US: John Wiley & Sons, 2021: 851-855.
