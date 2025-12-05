@@ -19,11 +19,9 @@ weight: 500
 
 ~~这样可以完美避免说话询问~~
 
-![路线1](pathfinder1.jpg)
-
-![路线2](pathfinder2.jpg)
-
-![路线3](pathfinder3.jpg)
+{{< expand "路线照片" >}}
+{{< gallery pattern="pathfinder*" />}}
+{{< /expand >}}
 
 ## 问诊细节
 
