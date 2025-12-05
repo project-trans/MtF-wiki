@@ -166,4 +166,4 @@ weight: 10
 
 - [手术日志: 202202 北京友谊医院 声带+喉结 手术 (实例供参考) · Issue #384 · project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki/issues/384)
 - [北京友谊医院 手术记录 (供参考) · Issue #425 · project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki/issues/425)
-- [ada 等人的手术交流微信群（通过邮件联系加入）](mailto:yangzheh22@gmail.com)
+- [ada 等人的手术交流微信群（通过邮件联系加入）](mailto:adamanteye@disroot.org)
