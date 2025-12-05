@@ -10,6 +10,8 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 醋酸甲羟孕酮（Medroxyprogesterone Acetate, MPA），是一种类固醇孕激素，具有抗促性腺激素作用，可以抑制体内雄激素水平。[^1] 在无法获取到 [醋酸环丙孕酮（色谱龙）]({{< ref cyproterone >}}) 时可作为替代品服用，但效果稍差。[^2] [^3] [^11]  
 关于 MPA 对睾酮水平的抑制作用，可参考[下文]({{< ref "#testosterone-suppression" >}})。
 
+除作为 MtF HRT 的一部分抑制雄激素水平外，也可用于未成年人的青春期阻断治疗，相比 GnRH 类似物价格更低廉。[^14]旧时也用于治疗早发育，但由于不能抑制早发育对骨的影响，现已被 GnRH 类似物替代。[^15]用于青春期阻断无此考虑。
+
 > **大中华区上市状况**
 
 ```csv
@@ -87,3 +89,5 @@ description: 醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类�
 [^11]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 译文：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/)》
 [^12]: Meyer W J, Walker P A, Emory L E, et al. Physical, metabolic, and hormonal effects on men of long-term therapy with medroxyprogesterone acetate [J]. *Fertility and Sterility*, 1985, 43(1): 102-109. DOI: [10.1016/S0015-0282(16)48326-3](https://www.sciencedirect.com/science/article/pii/S0015028216483263)
 [^13]: Pfizer. Prescribing Information: PROVERA&reg; [EB/OL]. Drugs@FDA, 2024. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/011839s083lbl.pdf> 【[译文](https://tfsci.mtf.wiki/misc/provera/)】
+[^14]: Lynch, M. M., Khandheria, M. M., & Meyer, W. J. (2015). Retrospective Study of the Management of Childhood and Adolescent Gender Identity Disorder Using Medroxyprogesterone Acetate. International Journal of Transgenderism, 16(4), 201–208. https://doi.org/10.1080/15532739.2015.1080649
+[^15]: Wheeler MD, Styne DM. Diagnosis and management of precocious puberty. Pediatr Clin North Am. 1990 Dec;37(6):1255-71. doi: [10.1016/s0031-3955(16)37010-9](https://doi.org/10.1016/S0031-3955(16)37010-9). PMID: 2147987.
