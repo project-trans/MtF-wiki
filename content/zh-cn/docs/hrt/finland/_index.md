@@ -14,10 +14,7 @@ weight: 10246
   - 若您有职业医疗保险，您可以联系您的职业健康医生，请求其意见或转诊。大部分情况下会在 HUS（赫尔辛基大学医院）获得 HRT 初始处方。后续处方更新可以从职业医疗保险处更新。
 - 若您未成年，则可以尝试联系学校或自行联系社工服务，但被拒绝的可能性较大。即，芬兰很难对未成年人提供 HRT、或仅提供短时期的 HRT 且无法更新处方。
 
-
 药物及报销后价格可以在[KELA 网站](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en)查到。
-
-
 
 {{<notice warning "注意" >}}
 

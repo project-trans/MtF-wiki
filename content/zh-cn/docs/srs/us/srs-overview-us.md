@@ -4,6 +4,7 @@ weight: 1
 slug: overview
 ---
 
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 *注：本综述以已经在北美地区（拥有美国的私人医疗保险）的跨性别群体为主要受众*
 
 ## 术前科普

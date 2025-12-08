@@ -18,8 +18,8 @@ description: 外用雌二醇贴片，经皮吸收。
 - 商品名：Estraderm&reg;（美国）/ Estraderm MX&reg;（英国、澳大利亚等）
 - 制造商：{{< wiki Novartis en >}}
 - 规格：
-   + 50、100 µg/天（Estraderm）
-   + 25、50、75、100 µg/天（Estraderm MX）
+  - 50、100 µg/天（Estraderm）
+  - 25、50、75、100 µg/天（Estraderm MX）
 - 说明书：[英语原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019081s043lbl.pdf) | [中文译本](https://tfsci.mtf.wiki/zh-cn/misc/estraderm/)
 - 单片（100 µg/天）理论疗效：雌二醇测定，平均 67 pg/mL
 

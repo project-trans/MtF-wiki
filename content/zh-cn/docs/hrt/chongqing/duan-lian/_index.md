@@ -40,4 +40,3 @@ weight: 700
 
 {{< watermark "bingli1.jpg" >}}
 {{< watermark "bingli2.jpg" >}}
-
