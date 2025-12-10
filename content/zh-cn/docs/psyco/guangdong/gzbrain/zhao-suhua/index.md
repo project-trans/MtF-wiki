@@ -10,7 +10,7 @@ title: 赵素华
 
 医生姓名: [赵素华](https://www.gzbrain.cn/myzj/info.aspx?itemid=5375)
 
-所在医院: [广州医科大学附属脑科医院]({{< ref "gabrain" >}})
+所在医院: [广州医科大学附属脑科医院]({{< ref "gzbrain" >}})
 
 ## 出诊时间
 
