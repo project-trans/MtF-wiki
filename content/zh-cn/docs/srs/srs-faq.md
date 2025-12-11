@@ -4,7 +4,7 @@ slug: faq
 weight: 100
 ---
 
-{{< notice info >}}
+{{<notice info >}}
 
 本页面整理自[SRS FAQ (v1.1) · Fluorescence - 知乎](https://zhuanlan.zhihu.com/p/480695175)。
 
