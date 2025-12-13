@@ -51,7 +51,10 @@ title: 深圳｜毕波
 - 医生友跨，可以放心与之交流
 - 中大八院不能开具 HRT 相关药物处方
 
-## 证明样式
+## 病历样式
 
 {{< watermark "record.jpg" >}}
+
+## 证明样式
+
 {{< watermark "proof.jpg" >}}
