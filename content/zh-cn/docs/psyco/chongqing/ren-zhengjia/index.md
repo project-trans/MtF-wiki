@@ -81,6 +81,3 @@ http://qrcenter.hsyuntai.com:7777/hs-med-qrcenter/r/60210/100?hosId=100039
 开出的证明是「易性症」。
 
 {{< watermark "zhengming.jpg" >}}
-
-
-

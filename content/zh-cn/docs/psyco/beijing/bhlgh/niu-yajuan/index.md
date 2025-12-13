@@ -58,6 +58,7 @@ title: 牛雅娟
 1. 32 项轻躁狂症状清单（HCL-32）
 1. 眼动检查（EM）
 
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 **所有检查项目均位于 3 层东侧，第 1 ~ 8 项位于【门诊心理测量中心】(40min)，第 9 项位于【眼动图室】**
 
 结束就诊后牛老师应该会指示前往门诊服务台[复印病历]({{< ref "bhlgh#copy" >}})，预计初诊总费用约 580 元。

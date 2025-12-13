@@ -1,5 +1,4 @@
 <!-- markdownlint-disable-next-line -->
-
 [![MtF-wiki][logo-long]][wiki-url]
 
 Sitio hermano: [FtM.wiki](https://ftm.wiki)

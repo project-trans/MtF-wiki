@@ -15,7 +15,9 @@ title: 渥太华大学 uOttawa / University of Ottawa
 blood test 在学校有一个 [Dynacare](https://www.dynacare.ca/specialpages/secondarynav/find-a-location/ottawa-(4).aspx?dst=1.3) 的 blood lab 可以直接去，UHIP 免费。
 
 ## 医生
+
 ### Dr. Irena Druce
+
 诊所地址在 4270 Innes Road (渥太华东边 Orleans)，路程比较远，有条件建议打车去。诊所在 Real Canadian Superstore 进门右拐最里面。有3个 reception，reception 会贴是负责哪些医生的，找贴有 Dr. Druce 的那个。
 
 问诊大约 15 分钟，但是绝大多数情况不会准时开始但是会要求你**提前15分钟** check in(~~Welcome to Canada~~)。会有护士先带领测量身高体重和血压，然后等医生过来。我第一次没有多问什么东西也没有填量表，开了 blood test 和 新的处方。问了我有没有 bottom surgery 的打算(我说暂时没有)，并且如果想 ffs 可以提出让医生帮忙预约。但是医生明确了 ffs 是**自费**项目。

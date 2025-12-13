@@ -21,6 +21,7 @@ title: Yanhee 医院
 
 ## 价格
 
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 **细心的你应该已经发现了，这个医院官方网站的中文有机翻痕迹，且信息滞后**
 
 - [英文价格表](https://www.yanhee.net/cosmetic-services/sex-reassignment-surgery/male-to-female-surgery/)
