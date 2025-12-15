@@ -10,7 +10,7 @@ weight: 1
 
 - [毛发生长的原理](#解剖结构)
 - [不同脱毛方式的原理及效果](#不同脱毛方法如何作用深层结构)
-- [常见脱毛方法的分类](#2-常见脱毛方法)
+- [常见脱毛方法的分类](#2-常见脱毛方法原理)
 - [医用光学/能量脱毛的治疗流程和注意事项](#3-能量光学脱毛治疗指南)
 - [常见误区和疑问](#4-常见误区qa)
 
@@ -48,6 +48,7 @@ weight: 1
 
 - **永久毛发减少**：指**在完成一个疗程后**，于**6/9/12 个月**随访观察到**再生毛发数量的长期、稳定下降**；**不等同**于“所有毛发永不再生”[^1] [^2]。
 - **永久脱毛**：特指电解脱毛。
+
 ---
 
 #### A. 激光/强脉冲光（Laser / IPL）
@@ -112,6 +113,7 @@ weight: 1
 以下为**未接受 HRT**的一般接受**医疗级激光脱毛**人群数据；跨性别女性在接受雌激素/抗雄后，体毛会逐步变细变慢，实际达到**永久毛发减少**所需疗程常更短。
 {{< /alert >}}
 
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 **按部位安排的复诊间隔**
 
 > 总体节律可参考 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)（上唇**4–8 周**、背部**12–16 周**），以及 [American Academy of Dermatology (AAD)](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs)（多数人**4–6 周**）。[ASLMS](https://www.aslms.org/for-the-public/treatments-using-lasers-and-energy-based-devices/laser-hair-removal) 明确指出：临床多采用**4–8 周**的节律，并**以疗效导向**为主，而非严格按部位或所谓‘精确窗口’排程。
@@ -164,35 +166,33 @@ weight: 1
 
 ## 4. 常见误区QA
 
-#### 激光脱毛能达到无毛效果?
+### 激光脱毛能达到无毛效果?
 
 不能, 能达到长期毛发减少, 见[永久毛发减少](#术语澄清)。
 
-#### 蜜蜡脱毛和部分脱毛膏声称的抑毛效果是否为真?
+### 蜜蜡脱毛和部分脱毛膏声称的抑毛效果是否为真?
 
 从原理上, 它们的首要作用只是暂时去除已有毛发, 对毛发生长没有长期抑制作用。
 
-#### 激光脱毛波长越大越好吗?
+### 激光脱毛波长越大越好吗?
 
 波长越长穿透更深，但黑色素吸收下降, 需根据肤色和毛囊深度/黑色素多少[选择合适波长](#选择正确的仪器)。
 
-#### 家用脱毛仪真的有效吗?
+### 家用脱毛仪真的有效吗?
 
 家用设备多为IPL, 较医院设备能量低黑色素选择性差, 即使有效也效果有限; 用于激光脱毛的Ⅲ类医疗器械受到监管, 只能在医院做。
 
-#### 激光脱毛次数越多/频繁越好?
+### 激光脱毛次数越多/频繁越好?
 
 应大致按[毛发生长周期](#预期效果和疗程)来。
-
-
 
 [^1]: FDA 510(k) K140631：对 _permanent hair reduction_ 的操作化定义为“在完成疗程后 6、9、12 个月测量时再生毛发数量的**长期稳定下降**”（PDF）([https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140631.pdf](https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140631.pdf))
 
 [^2]: FDA 510(k) K181019：同样给出 _permanent hair reduction_ 的 6/9/12 个月稳定下降定义（PDF）([https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181019.pdf](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181019.pdf))
 
-[^3]: 21 CFR 878.5350（eCFR）：_Needle-type epilator_ 的法律定义——"通过在**dermal papilla** 施加电流来**破坏**它的装置"，电流可为 HF AC/AC+DC/DC ([https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350))
+<!-- FIXME link-image-reference-definitions [^3]: 21 CFR 878.5350（eCFR）：_Needle-type epilator_ 的法律定义——"通过在**dermal papilla** 施加电流来**破坏**它的装置"，电流可为 HF AC/AC+DC/DC ([https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350))
 
-[^4]: Cleveland Clinic（患者教育）：_Electrolysis_ 可实现 **permanent hair removal** 的说明页 ([https://my.clevelandclinic.org/health/treatments/8306-electrolysis](https://my.clevelandclinic.org/health/treatments/8306-electrolysis))
+[^4]: Cleveland Clinic（患者教育）：_Electrolysis_ 可实现 **permanent hair removal** 的说明页 ([https://my.clevelandclinic.org/health/treatments/8306-electrolysis](https://my.clevelandclinic.org/health/treatments/8306-electrolysis)) -->
 
 [^5]: Anderson & Parrish, _Science_ 1983：Selective Photothermolysis 原典（PubMed）([https://pubmed.ncbi.nlm.nih.gov/6836297/](https://pubmed.ncbi.nlm.nih.gov/6836297/))
 
@@ -204,7 +204,7 @@ weight: 1
 
 [^9]: Ogunbiyi A. _Pseudofolliculitis barbae; current treatment options._ **Int J Womens Dermatol.** 2019.（PFB 机制与管理，适用于剃/拔/蜡后的倒毛范式）([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6585396/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6585396/))
 
-[^10]: Davis EC, Callender VD. _Postinflammatory hyperpigmentation: a review of the epidemiology, clinical features, and treatment options in skin of color._ **Cutis.** 2010.（深色肤质 PIH 的流行病学与顽固性）([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/))
+<!-- FIXME  [^10]: Davis EC, Callender VD. _Postinflammatory hyperpigmentation: a review of the epidemiology, clinical features, and treatment options in skin of color._ **Cutis.** 2010.（深色肤质 PIH 的流行病学与顽固性）([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/)) -->
 
 [^11]: Watts AM, et al. _Pseudomonas folliculitis after waxing of the legs._ **Med J Aust.** 1986.（小腿脱蜡后 **Pseudomonas** 毛囊炎暴发）([https://pubmed.ncbi.nlm.nih.gov/3945206/](https://pubmed.ncbi.nlm.nih.gov/3945206/))
 

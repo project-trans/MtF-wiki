@@ -1,5 +1,4 @@
 <!-- markdownlint-disable-next-line -->
-
 [![MtF-wiki][logo-long]][wiki-url]
 
 兄弟站：[FtM.wiki](https://ftm.wiki)

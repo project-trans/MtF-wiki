@@ -70,7 +70,6 @@ weight: 10
 
 その他の黄体ホルモン剤については下記を示す。
 
-
 ## 抗アンドロゲン剤による副作用・リスク
 
 ### 酢酸シプロテロン
@@ -184,14 +183,11 @@ weight: 10
 - 腎機能障害
 - 血中ナトリウムを上昇させる薬剤（カリウム製剤、カリウム保持性利尿剤など）の同時投与（禁忌の一種）
 
-
 ## 相互作用 {#drug-interactions}
-
 
 {{< notice warning "警告" >}}
 **ホルモン製剤とその他の医薬品を併用する場合には、医師・薬剤師等に相談し、指示に従って下さい。**
 {{< /notice >}}
-
 
 上記とその他の薬剤は、複雑であり、強さが異なる相互作用の可能性があり、その関係は、添付文書・臨床成績の調査に基づいて確定するべきである。なお、MtF において、精神疾患の発現率が高くなることが認められたので[^19]、抗うつ薬などとの相互作用は下記の通りである。
 
@@ -252,7 +248,6 @@ weight: 10
 
 上記には、相互作用の可能性のあるすべての種類の医薬品が含まれているわけではない。薬物相互作用に関する新しい情報をお持ちの方は、[GitHub](https://github.com/project-trans/MtF-wiki/issues/828) にレポートを送信すること。
 
-
 [^1]: [添付文書：エストラジオール錠（Estrofem）](https://tfsci.mtf.wiki/misc/estrofem/) （中国語）
 [^2]: [添付文書：吉草酸エストラジオール錠（Progynova）](https://tfsci.mtf.wiki/misc/progynova/) （中国語）
 [^3]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. <https://transfemscience.org/articles/estrogens-blood-clots/>
@@ -260,8 +255,8 @@ weight: 10
 [^5]: [添付文書：酢酸シプロテロン錠（Siterone）](https://tfsci.mtf.wiki/misc/siterone-nz/) （中国語）
 [^6]: [添付文書：酢酸シプロテロン錠（南アフリカ Androcur）](https://tfsci.mtf.wiki/misc/androcur-za/) （中国語）
 [^7]: [添付文書：酢酸シプロテロン錠（台湾 Androcur）](https://tfsci.mtf.wiki/misc/androcur-tw/) （中国語）
-[^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
-[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/>
+<!-- FIXME link-image-reference-definitions [^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
+[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/> -->
 [^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://tfsci.mtf.wiki/misc/casodex/>
 [^11]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-intro/>
 [^12]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/bica-adoption/>

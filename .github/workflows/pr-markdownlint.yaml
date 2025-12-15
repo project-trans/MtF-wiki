@@ -1,0 +1,22 @@
+name: 'pr-markdownlint'
+
+on:
+  pull_request_target:
+    paths: ['**/*.md']
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
+      - run: nix run nixpkgs#markdownlint-cli2 -- "**/*.md" --fix
+      - uses: parkerbxyz/suggest-changes@v2
+        with:
+          comment: 'Please commit the suggested changes from markdownlint.'
+          event: 'COMMENT'
