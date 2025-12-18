@@ -1,28 +1,16 @@
 ---
-title: 广州｜李启荣
+title: 李启荣
 ---
 
-{{< notice warning "无法开具诊断证明" >}}
-由于广州医科大学附属脑科医院的最新政策，导诊台不会给普通精神科门诊开具的含有“易性症”的诊断证明盖章，该页面所记录的部分信息已过时。
-
-如果你是为“易性症”诊断证明而来，请挂[赵素华](https://mtf.wiki/zh-cn/docs/psyco/guangdong/zhao-suhua)医生的特需门诊号（较为昂贵）。
-{{< /notice >}}
-
-{{< notice info "谨慎前往" >}}
-由于广州医科大学附属脑科医院的最新政策，含有“易性症”诊断的病历开具受到限制，请在前往就诊前综合考虑自身家长态度、家长是否陪诊等情况。
+{{< notice error "无法开具诊断证明" >}}
+请注意阅读医院综述页面：[广州医科大学附属脑科医院]({{< ref "gzbrain" >}})
 {{< /notice >}}
 
 {{< doctor-image src="doctor.webp" >}}
 
 医生姓名：[李启荣](https://health.baidu.com/doctordec/dochome/55257)
 
-所在医院：[广州医科大学附属脑科医院](https://health.baidu.com/doctordec/hospital/1008521)
-
-信息参考：<https://x.com/TsumetaiAme2003/status/1816446409647747244>
-
-## 医生主页
-
-{{< watermark "zhuye.jpg" >}}
+所在医院：[广州医科大学附属脑科医院]({{< ref "gzbrain" >}})
 
 ## 出诊时刻
 
@@ -53,6 +41,7 @@ title: 广州｜李启荣
 出示量表的情况下无其他检查项目与附加费用。否则会要求做心理量表，医生可能会关注量表 `Mf分` 得分。\
 医生会在谈话中关注是否存在任何明显的精神症状（如强迫症，抑郁状态）。
 
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 *医生本人年轻且友跨，请放心交流*
 
 ## 注意事项
@@ -65,6 +54,9 @@ title: 广州｜李启荣
 - `Mf` 分数可能不是必要项，似乎只要出示量表就行。
 
 ## 证明样式
+
 {{< watermark "proof2025.jpg" >}}
 {{< watermark "record2025.jpg" >}}
 {{< watermark "proof.jpg" >}}
+
+信息参考：<https://x.com/TsumetaiAme2003/status/1816446409647747244>

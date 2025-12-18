@@ -38,7 +38,6 @@ title: 多伦多大学 UofT
 
 抽完血大概一周后医生会发给你结果，然后第二次问诊与我讨论了这个结果，并问了我去哪个 {{< ruby 药店 "pharmacy" >}} 取药最方便之类的。医生默认要给我开 {{< ruby 螺内酯 "Spironolactone" >}} 和口服雌，我问了让医生换成 {{< ruby 色谱龙 "Cyproterone" >}} 和 {{< ruby 雌激素贴片 "Estradiol patches" >}}，然后医生说了下注意事项就结束了。挂掉视频电话之后给我发消息说把处方传真过去了，最后我拿到的是 {{< ruby 仿制药 "generic drug" >}} 的色谱龙和 Estradot 100 贴片，你也可以选择 {{< ruby 原研药 "branding drug" >}} ，但是原研药与仿制药之间价格可能存在差异。消息里面同时给我发了一个月之后第二次抽血的请求单，上面只有 E2 和 T。
 
-
 ![Prescription Chat Message](img_prescription_faxed.png)
 
 然后药店给我打了电话，过一天去取，然后就可以啦。取决于你的保险覆盖情况你可能需要自付一部分的药费（通常总价在 {{< currency 30 CAD >}}以内）。第一次买药我因为怕遇到恐跨药店所以专门选了 ~~多伦多 LGBT 街~~ Church St 的 The Village Pharmacy。Church & Wellesley 两条街的交叉点周围又叫做 "The Village"，是一个到处都可以看到彩虹旗跨旗的地方。之后搬到离这里远一点的地方就换成 Rexall Pharmacy 啦，普普通通哪里都有的连锁药店，不过也没有遇到恐跨。你也可以选择让医生把处方发送至你觉得最最近的药房。

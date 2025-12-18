@@ -190,9 +190,9 @@ weight: 1
 
 [^2]: FDA 510(k) K181019：同样给出 _permanent hair reduction_ 的 6/9/12 个月稳定下降定义（PDF）([https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181019.pdf](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181019.pdf))
 
-[^3]: 21 CFR 878.5350（eCFR）：_Needle-type epilator_ 的法律定义——"通过在**dermal papilla** 施加电流来**破坏**它的装置"，电流可为 HF AC/AC+DC/DC ([https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350))
+<!-- FIXME link-image-reference-definitions [^3]: 21 CFR 878.5350（eCFR）：_Needle-type epilator_ 的法律定义——"通过在**dermal papilla** 施加电流来**破坏**它的装置"，电流可为 HF AC/AC+DC/DC ([https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-878/subpart-F/section-878.5350))
 
-[^4]: Cleveland Clinic（患者教育）：_Electrolysis_ 可实现 **permanent hair removal** 的说明页 ([https://my.clevelandclinic.org/health/treatments/8306-electrolysis](https://my.clevelandclinic.org/health/treatments/8306-electrolysis))
+[^4]: Cleveland Clinic（患者教育）：_Electrolysis_ 可实现 **permanent hair removal** 的说明页 ([https://my.clevelandclinic.org/health/treatments/8306-electrolysis](https://my.clevelandclinic.org/health/treatments/8306-electrolysis)) -->
 
 [^5]: Anderson & Parrish, _Science_ 1983：Selective Photothermolysis 原典（PubMed）([https://pubmed.ncbi.nlm.nih.gov/6836297/](https://pubmed.ncbi.nlm.nih.gov/6836297/))
 
@@ -204,7 +204,7 @@ weight: 1
 
 [^9]: Ogunbiyi A. _Pseudofolliculitis barbae; current treatment options._ **Int J Womens Dermatol.** 2019.（PFB 机制与管理，适用于剃/拔/蜡后的倒毛范式）([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6585396/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6585396/))
 
-[^10]: Davis EC, Callender VD. _Postinflammatory hyperpigmentation: a review of the epidemiology, clinical features, and treatment options in skin of color._ **Cutis.** 2010.（深色肤质 PIH 的流行病学与顽固性）([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/))
+<!-- FIXME  [^10]: Davis EC, Callender VD. _Postinflammatory hyperpigmentation: a review of the epidemiology, clinical features, and treatment options in skin of color._ **Cutis.** 2010.（深色肤质 PIH 的流行病学与顽固性）([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921758/)) -->
 
 [^11]: Watts AM, et al. _Pseudomonas folliculitis after waxing of the legs._ **Med J Aust.** 1986.（小腿脱蜡后 **Pseudomonas** 毛囊炎暴发）([https://pubmed.ncbi.nlm.nih.gov/3945206/](https://pubmed.ncbi.nlm.nih.gov/3945206/))
 

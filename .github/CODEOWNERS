@@ -12,3 +12,4 @@
 
 /.github/ @project-trans/developers
 /.github/CODEOWNERS @project-trans/chairs
+/.markdownlint.json @project-trans/chairs
