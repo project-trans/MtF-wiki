@@ -373,7 +373,7 @@ weight: 1001
 
 - 示意图仅供参考，可能与实际情况存在出入
 
-{{< photo "change dressing.jpg" >}}
+{{< watermark "change dressing.jpg" >}}
 
 {{< /expand >}}
 
