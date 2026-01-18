@@ -2,7 +2,7 @@
 title: 重庆｜任正伽
 ---
 
-{{< doctor-image src="doctor.jpg" >}}
+{{< doctor-image src="doctor.jpeg" >}}
 
 {{< tag/pos "可与家长沟通" >}}
 
