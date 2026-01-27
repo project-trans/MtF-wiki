@@ -18,7 +18,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: DeterminateSystems/nix-installer-action@main
-      - uses: DeterminateSystems/magic-nix-cache-action@main
       - run: nix run nixpkgs#markdownlint-cli2 -- "**/*.md" --fix
         id: markdownlint
       - uses: tj-actions/verify-changed-files@v20
