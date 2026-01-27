@@ -5,6 +5,12 @@ weight: 300
 
 {{< doctor-image src="doctor.jpg" >}}
 
+{{< notice success 巡回 >}}
+
+这个条目曾经被条目人物巡回过。终于{{< mtf-wiki>}}也到了足够让公式前来巡回的知名度了吗！？
+
+{{< /notice >}}
+
 医生姓名：[高绿芬](https://h.jd120.com/Reserve/Doctor/21056)
 
 所在医院：[暨南大学附属第一医院（广州华侨医院）](https://amap.com/place/B00140US6O)
