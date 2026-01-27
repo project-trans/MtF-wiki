@@ -65,8 +65,8 @@ ICD-11 和 DSM-5 之间最重要的区别在于，后者保留了与性别认同
 ## 扩展阅读 {#reading}
 
 <!-- 按发布时间倒序排序 -->
-- [【跨性别门诊医生】新规解读！变性门槛降低了吗？（上）](https://www.bilibili.com/video/BV1GF411P7Z3)
 
+- [【跨性别门诊医生】新规解读！变性门槛降低了吗？（上）](https://www.bilibili.com/video/BV1GF411P7Z3)
 - [上个月新出的 DSM-5-TR 对“性别烦躁”的诊断与补充](https://zhuanlan.zhihu.com/p/492886380) (<https://archive.is/VouJP>)
 - [“性别不一致”去精神病化的思考](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2021.11.10) \[[PDF](https://web.archive.org/web/20230321063130/https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2021-11-10.pdf)]
 - [对于国内各医院对“性别不一致”的诊断流程的一些看法](https://zhuanlan.zhihu.com/p/101582151) (<https://archive.is/HTtCN>)
