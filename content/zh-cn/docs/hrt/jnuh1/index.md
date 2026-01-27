@@ -98,7 +98,7 @@ weight: 300
 - [补佳乐]({{< ref estradiol-valerate >}})
   可开出3盒，因医院限制单次开出1盒，但能以“因慢性病长期用药”为理由开出3盒。
 - [雌二醇凝胶]({{< ref "gel#oestrogel" >}})（爱斯妥）
-- 含有 CPA（即 [色普龙]({{< ref "cyproterone" >}}) 成分）与-*炔雌醇&#9888;** 的「达英-35」
+- 含有 CPA（即 [色普龙]({{< ref "cyproterone" >}}) 成分）与 **炔雌醇&#9888;** 的「达英-35」
   其理由是医院方面无法开出其它含 CPA 的药品，并且其作为避孕药「总体安全」。
   但如若患者自备 CPA（如安得卡），将不再开出。[为什么不推荐达英-35？]({{< ref "hrt-overview#dosing-warnings" >}})
 - [螺内酯]({{< ref "spironolactone" >}}) —— 不常用
