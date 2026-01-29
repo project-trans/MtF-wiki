@@ -74,7 +74,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 - [雌二醇凝胶自制教程](https://github.com/lydlid/estrogel-diy-guide-zh_CN)
 - [可能更优的凝胶配方及可能更适用于相对大批量制作的方法](https://github.com/Bluse-liu50/DIY-Estradiol-Gel-Guide)
 
-## 使用方式与用量
+## 使用方式与用量 {#usage}
 
 {{< notice info "教程" >}}
 {{< expand "爱斯妥用法用量说明卡" >}}
