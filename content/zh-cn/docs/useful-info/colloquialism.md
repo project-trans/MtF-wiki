@@ -28,21 +28,21 @@ MtF：跨性别女性。
 
 形容词。指性别表达取得第三者视角认同。
 
-通过 [HRT]({{< ref "hrt-overview" >}}) 可改善 pass 焦虑，具体可见 [HRT 效果参考]({{< ref "hrt-overview#effects" >}})
+通过 [HRT]({{< ref "hrt-overview" >}}) 等手段可改善 pass 焦虑，具体可见 [HRT 效果参考]({{< ref "hrt-overview#effects" >}}) 。
 
 ## GD {#gd}
 
-GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百度百科](https://baike.baidu.com/item/性别不安) | [维基百科](https://zh.wikipedia.org/wiki/性別不一致)）
+GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百度百科](https://baike.baidu.com/item/性别不安) | [维基百科](https://zh.wikipedia.org/wiki/性別不一致)） 。
 
-或可参见 [这就是性别烦躁，供参考](https://genderdysphoria.fyi/zh/)
+或可参见 [这就是性别烦躁，供参考](https://genderdysphoria.fyi/zh/) 。
 
 ## 糖
 
-指代 [激素治疗]({{< ref "hrt-overview" >}}) 所使用的药物。
+名词。指代 [激素治疗]({{< ref "hrt-overview" >}}) 所使用的药物。
 
 ## 家长党
 
-名词。取得家长充分理解并予以支持的跨儿。
+名词。取得家长充分理解和支持的跨儿。
 
 ## 年龄党
 
@@ -52,7 +52,9 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 名词。具有一定天赋的人，特指先天身体条件更靠近性别认同的跨儿。
 
-**天残党**：指先天身体条件与性别认同差距较大的跨儿。与「天赋党」相对
+## 天残党
+
+名词。指先天身体条件与性别认同差距较大的跨儿。与「天赋党」相对。
 
 ## 手术党、术娘
 
@@ -80,7 +82,7 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 药娘头
 
-名词，指发型由男性长发向女性短发转变的过渡过程的一种发型，是 [RLE]({{< ref "abbreviation#rle" >}}) 的必经步骤
+名词，指发型由男性长发向女性短发转变的过渡过程的一种发型，是 [RLE]({{< ref "abbreviation#rle" >}}) 的必经步骤。
 
 备注：有经济能力或者家长支持的也可以考虑通过理发店美容接发的过程缩短这一阶段。
 
@@ -98,4 +100,4 @@ GD 即为 Gender Dysphoria 的缩写，意为性别不安、性别焦虑（[百�
 
 ## 小证, 大证, 假条?
 
-在[精神科医疗资源综述]({{< ref "psyco-overview#colloquialism" >}})中的通俗用语一节有描述  
+在[精神科医疗资源综述]({{< ref "psyco-overview#colloquialism" >}})中的通俗用语一节有描述。
