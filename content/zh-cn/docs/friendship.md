@@ -23,9 +23,9 @@ PLCT实验室是中科院软件所智能软件研究中心下属的一个工程�
 
 - 微信公众： {{< shields/wechat "transnews2026" >}}
 
-- QQ号：{{< shields/qq 811993805 "<https://qm.qq.com/q/P6LhILXfMe">}} 点击即可跳转链接
+- QQ号：{{< shields/qq 811993805 "<https://qm.qq.com/q/6i5xCH1N9m">}} 点击即可跳转链接
 
-- QQ群：{{< shields/qq 766278461 "<https://qm.qq.com/q/ymWh8sFs6y">}} 点击即可跳转链接
+- QQ群：{{< shields/qq 284274989 "<https://qm.qq.com/q/IULCWoFrgY">}} 点击即可跳转链接
 
 ## 跨儿文学小组
 
