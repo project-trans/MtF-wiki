@@ -476,7 +476,7 @@ weight: 1001
 
 {{< hiddenphoto "postoperative-8-1.jpg" >}}
 
-- 术后 110 天拍摄
+- 术后一年拍摄
 
 {{< hiddenphoto "postoperative-8-2.jpg" >}}
 
