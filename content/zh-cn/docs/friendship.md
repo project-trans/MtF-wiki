@@ -9,14 +9,6 @@ weight: 12000
 
 {{</notice>}}
 
-## PLCT实验室
-
-PLCT实验室是中科院软件所智能软件研究中心下属的一个工程团队，聚焦于编译器、虚拟机、模拟器等基础软件的开发和开源社区的维护。
-
-少数群体STEM支持：甲辰计划实习项目提供至少 20% 岗位数量为女性工程师预留。PLCT实验室为女性及少数群体预留 50% 名额。
-
-＊ PLCT 实验室实习生火热招新中：<https://github.com/plctlab/weloveinterns/blob/master/open-internships.md>
-
 ## 跨性别相关放送
 
 您可以称呼我们为墙/放送，我们是社群伙伴自发建立的非营利性民间公益平台，目前仅在qq运营。三年来，以广大跨性别、性少数群体的立场为基本立场，支持相关科普、辟谣、生活、社群活动等投稿，已建立一个长期稳定，千人规模的社群，欢迎您的加入。
@@ -71,3 +63,19 @@ Discord,Project Trans Community,{{< shields/discord 883004164760801320 "Project 
 - Twitter：{{< shields/twitter awesometrans_zh >}}
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 邮箱：<awesome-trans@outlook.com>
+
+## PLCT实验室（已过时）
+
+{{< notice >}}
+因上级调整，PLCT实验室将被逐渐淡化。本条目仅作为纪念保留。
+
+[甲辰计划](https://rv2036.org/)可能仍有[实习生岗位](https://github.com/lazyparser/weloveinterns/blob/master/open-internships.md)。
+
+> 不向x86与arm投降，这个世界终将有我们存在的地方。
+{{< /notice >}}
+
+PLCT实验室是中科院软件所智能软件研究中心下属的一个工程团队，聚焦于编译器、虚拟机、模拟器等基础软件的开发和开源社区的维护。
+
+少数群体STEM支持：甲辰计划实习项目提供至少 20% 岗位数量为女性工程师预留。PLCT实验室为女性及少数群体预留 50% 名额。
+
+＊ PLCT 实验室实习生火热招新中：<https://github.com/plctlab/weloveinterns/blob/master/open-internships.md>
