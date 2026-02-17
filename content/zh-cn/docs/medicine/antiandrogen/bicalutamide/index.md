@@ -36,7 +36,7 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 
 | 生产企业 | 上海朝晖 | 浙江海正 |
 |-|:-:|:-:|
-| 样图 | ![朝晖](/images/medicine/bicalutamide/b.jpg) | ![海正官网](/images/medicine/bicalutamide/c.jpg) |
+| 样图 | ![朝晖](https://www.zhpharma.com/uploads/65110b10/bikalu.jpg) | ![海正官网](https://www.hisunpharm.com/main/upload/2021-09-06/1630890122459ff8080817ba41e19736017bb8a05cdb1ec3.JPG) |
 | 性状 | 不明 | 不明 |
 | 规格 | 50 mg &times; 14 片 | 50mg &times; 28 片 |
 | 批准文号 | 国药准字 H20064085 | 国药准字 H20073877 |
