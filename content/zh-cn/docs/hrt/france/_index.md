@@ -90,7 +90,7 @@ Secteur 1 全科医生诊金一般为 30 欧元左右。
 
 获得医保卡之后可以申请 ALD（长期病补助），具体参考法国医保局 [ameli](https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/affection-longue-duree-ald/affection-longue-duree-maladie-chronique)。
 
-原则上可以**百分之百**报销费用，甚至于就医交通费，尤其是使用较昂贵的 GnRH 类似物时，有很大帮助。根据2021年提出，2025年卫生局重申并加强的要求，ALD **不需要**精神科诊断。
+原则上可以**百分之百**报销费用，甚至于就医交通费，尤其是使用较昂贵的 GnRHa 时，有很大帮助。根据2021年提出，2025年卫生局重申并加强的要求，ALD **不需要**精神科诊断。
 
 需注意： ALD 属于个人医疗情况，在法国**申请贷款**等少数情况下需要披露，但不用担心影响医保：法国公立保险给所有人平等报销，补充险也采取费用统一的社区定价（tarification communautaire）。
 
