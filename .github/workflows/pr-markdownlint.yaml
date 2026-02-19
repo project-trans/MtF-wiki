@@ -18,15 +18,42 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: DeterminateSystems/nix-installer-action@main
-      - run: nix run nixpkgs#markdownlint-cli2 -- "**/*.md" --fix
+      - name: Warm up markdownlint-cli2 via nix
+        run: nix run nixpkgs#markdownlint-cli2 -- --version
+      - name: Run markdownlint
         id: markdownlint
+        run: |
+          set +e
+          OUTPUT=$(nix run nixpkgs#markdownlint-cli2 -- "**/*.md" --fix 2>&1)
+          EXIT_CODE=$?
+          echo "exit_code=$EXIT_CODE" >> "$GITHUB_OUTPUT"
+          {
+            echo 'output<<EOF'
+            echo "$OUTPUT"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+          exit $EXIT_CODE
       - uses: tj-actions/verify-changed-files@v20
         id: verify-changed-files
         if: always()
         with:
           fail-if-changed: 'true'
+      - name: Approve PR if markdownlint passed
+        if: success() && steps.verify-changed-files.outcome == 'success'
+        run: |
+          gh pr review ${{ github.event.number }} --approve --body \
+            'markdownlint passed, styles LGTM!'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: parkerbxyz/suggest-changes@v3
         if: failure() && steps.verify-changed-files.outcome == 'failure'
         with:
-          comment: 'Please commit the suggested changes from markdownlint.'
+          comment: |
+            Please commit the suggested changes from markdownlint.
+
+            markdownlint output:
+
+            ```
+            ${{ steps.markdownlint.outputs.output }}
+            ```
           event: 'REQUEST_CHANGES'

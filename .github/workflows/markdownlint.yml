@@ -5,8 +5,6 @@ on:
   push:
     branches:
       - master
-  pull_request:
-    paths: ['**/*.md']
 
 jobs:
   lint:
