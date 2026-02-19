@@ -38,8 +38,17 @@ jobs:
         if: always()
         with:
           fail-if-changed: 'true'
-      - name: Approve PR if markdownlint passed
+      - name: Check if already approved by bot
+        id: check-approved
         if: success() && steps.verify-changed-files.outcome == 'success'
+        run: |
+          LATEST_STATE=$(gh pr view ${{ github.event.number }} --json reviews \
+            --jq '[.reviews[] | select(.author.login == "github-actions")] | last | .state')
+          echo "latest_state=$LATEST_STATE" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Approve PR if markdownlint passed
+        if: success() && steps.verify-changed-files.outcome == 'success' && steps.check-approved.outputs.latest_state != 'APPROVED'
         run: |
           gh pr review ${{ github.event.number }} --approve --body \
             'markdownlint passed, styles LGTM!'
