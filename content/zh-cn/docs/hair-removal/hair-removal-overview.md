@@ -38,9 +38,9 @@ weight: 1
 
 - **生长期**：毛母质细胞高度增殖、色素活跃、毛囊深且「湿」。**此时装置治疗最「好打」**。
 - **退行期**：快速凋亡回缩，球部上移，色素减少。
-- **休止期**[^21]：形成**棒状毛**，位置较浅、代谢低。随后**脱落**。
+- **休止期**[^21]：形成**棒状毛**，位置较浅、代谢低，随后**脱落**。
 
-同时处于**理想阶段（生长期）**的**比例有限**，毛囊单位内兄弟毛囊会在局部竞争信号解除且自身毛乳头激活时进入生长期，这决定了永久整体毛发减少/永久脱毛都必须通过**多次覆盖**。
+**同时处于理想阶段（生长期）的比例有限**，毛囊单位内兄弟毛囊会在局部竞争信号解除且自身毛乳头激活时进入生长期，这决定了永久整体毛发减少/永久脱毛都必须通过**多次覆盖**。
 
 ### 不同脱毛方法如何作用深层结构
 
@@ -73,13 +73,13 @@ weight: 1
 - **Galvanic (DC)**：电解产生氢氧化钠，波及**真皮乳头**与邻近干细胞龛。
 - **Blend**：RF 提升温度与离子迁移率，**增强 DC 产碱**并协同热损伤。
 
-**阶段敏感性**：**生长期毛发** 更理想（毛囊更深、组织含水量更利于在乳头区聚集能量与/或离子产物）。
+**阶段敏感性**：**生长期毛发**更理想（毛囊更深、组织含水量更利于在乳头区聚集能量与/或离子产物）。
 
 ---
 
 #### C. 拔毛/蜜蜡
 
-- 通过**机械牵引**拔出毛干；处于**生长期** 时毛球与外根鞘黏附紧密，而处于**休止期**的毛发为**棒状毛**，更易整体拔出[^6]。
+- 通过**机械牵引**拔出毛干；处**生长期**时毛球与外根鞘黏附紧密，而处于**休止期**的毛发为**棒状毛**，更易整体拔出[^6]。
 
 - **不良反应风险**：牵引与剪切可致毛囊口微损伤与**毛发倒刺/细菌性毛囊炎**[^7] [^8] [^9]；少数可出现**绿脓杆菌毛囊炎暴发**或会阴/外阴**严重感染**等并发症[^11] [^12] [^13]。
 
@@ -115,7 +115,7 @@ weight: 1
 
 #### 按部位安排的复诊间隔
 
-> 总体节律可参考 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)（上唇 **4–8 周**、背部 **12–16 周**），以及 [American Academy of Dermatology (AAD)](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs)（多数人 **4–6 周**）。[ASLMS](https://www.aslms.org/for-the-public/treatments-using-lasers-and-energy-based-devices/laser-hair-removal) 明确指出：临床多采用 **4–8 周**的节律，并**以疗效导向**为主，而非严格按部位或所谓「精确窗口」排程。
+> 总体节律可参考 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)（上唇 **4–8 周**、背部 **12–16 周**），以及 [American Academy of Dermatology (AAD)](https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs)（多数人 **4–6 周**）。[ASLMS](https://www.aslms.org/for-the-public/treatments-using-lasers-and-energy-based-devices/laser-hair-removal) 明确指出：临床多采用 **4–8 周**的节律，并**以疗效导向**，而非严格按部位或所谓「精确窗口」排程。
 
 - 上唇/下颌：**每 4–8 周**[^17]
 - 腋窝/比基尼：**每 4–6 周**[^18]
@@ -139,7 +139,7 @@ weight: 1
 
 依据 OMLC 谱线, 以下是三个波长进行激光脱毛的效果简述[^26]：
 
-- 755 nm：黑色素强吸收、Hb、水低，最具「黑色素选择性」
+- 755 nm：黑色素强吸收、Hb 低、水低，最具「黑色素选择性」
 - 810 nm：黑色素中等、Hb 低、水低，是「效率×安全」的全球主流
 - 1064 nm：黑色素低、Hb 低、水升，穿透深/深肤色安全，但对黑色素的「命中率」最低，需要以更高能量/更长脉宽等手段补偿
 
@@ -155,13 +155,13 @@ weight: 1
 ### 术前准备共识
 
 - **避免拔毛/蜜蜡脱毛/电解脱毛**：至少提前 **4–6 周**停止（参见 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)、[StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK507861/)）。
-- **术前约 24 小时剃毛**：治疗前留**轻微短茬**，避免外露长毛；**避免紧贴治疗前现剃**，这样容易增加表皮刺激/红斑； 一般**不推荐术前 < 6–12 小时**以及**术前 > 48–72 小时**剃毛（参见 [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK507861/)、 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)）。
+- **术前约 24 小时剃毛**：治疗前留**轻微短茬**，避免外露长毛；**避免紧贴治疗前现剃**，这样容易增加表皮刺激/红斑；一般**不推荐术前 < 6–12 小时**以及**术前 > 48–72 小时**剃毛（参见 [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK507861/)、 [Mayo Clinic](https://www.mayoclinic.org/tests-procedures/laser-hair-removal/about/pac-20394555)）。
 
 ### 术后护理共识
 
 **色素改变**与**水疱/烧灼感**是主要并发症[^22] ，此时应**避免日晒**并**充分冷却**[^23]。
 
-冰敷+每日防晒[^24]+避热/避摩擦（≥ 48 h）[^25]+温和护肤+只剃不拔，并留意异常，如有需求及时就医。
+冰敷 + 每日防晒[^24] + 避热/避摩擦（≥ 48 h）[^25] + 温和护肤 + 只剃不拔，并留意异常，如有需求及时就医。
 
 ## 4. 常见误区 QA
 
