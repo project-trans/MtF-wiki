@@ -18,6 +18,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: DeterminateSystems/nix-installer-action@main
+      - name: Warm up markdownlint-cli2 via nix
+        run: nix run nixpkgs#markdownlint-cli2 -- --version
       - name: Run markdownlint
         id: markdownlint
         run: |
@@ -49,12 +51,9 @@ jobs:
           comment: |
             Please commit the suggested changes from markdownlint.
 
-            <details>
-            <summary>markdownlint output</summary>
+            markdownlint output:
 
             ```
             ${{ steps.markdownlint.outputs.output }}
             ```
-
-            </details>
           event: 'REQUEST_CHANGES'
