@@ -21,7 +21,7 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 新加坡,上市（SIN09772P）
 ```
 
-![package](/images/medicine/bicalutamide/a.jpg)
+![康士得的外包装](/images/medicine/bicalutamide/a.jpg)
 
 - 药品通用名称：比卡鲁胺片
 - 药品英文名称：Bicalutamide Tablets
@@ -36,7 +36,7 @@ description: 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种�
 
 | 生产企业 | 上海朝晖 | 浙江海正 |
 |-|:-:|:-:|
-| 样图 | ![朝晖](/images/medicine/bicalutamide/b.jpg) | ![海正官网](/images/medicine/bicalutamide/c.jpg) |
+| 样图 | ![朝晖先的外包装](/images/medicine/bicalutamide/b.jpg) | ![艾易达的外包装](/images/medicine/bicalutamide/c.jpg) |
 | 性状 | 不明 | 不明 |
 | 规格 | 50 mg &times; 14 片 | 50mg &times; 28 片 |
 | 批准文号 | 国药准字 H20064085 | 国药准字 H20073877 |
