@@ -122,7 +122,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 - 有效成分：{{< wiki 雌二醇 >}}（{{< wiki Estradiol en >}}）
 - 吸收率：10%[^1]
 - 半衰期：36.5 小时（经皮）[^7]
-- 分子式：C₁₈H₂₄O₂
+- 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
 
 [^1]: [雌二醇凝胶（爱斯妥）说明书](https://tfsci.mtf.wiki/misc/oestrogel/)
