@@ -11,7 +11,7 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 
 ## 基本信息
 
-### Estrofem<sup>&copy;</sup> 诺坤复
+### Estrofem&copy; 诺坤复
 
 | 地区     | 上市状态    |
 |----------|-------------|
@@ -22,7 +22,7 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 
 ![土诺包装](/images/medicine/estradiol/estrofem.png)
 
-- 药品名称：Estrofem<sup>&copy;</sup> 诺坤复
+- 药品名称：Estrofem&copy; 诺坤复
 - 药品成分：雌二醇（Estradiol）
 - 简称：诺
 - 厂商：诺和诺德 (Novo Nordisk)（丹麦）
@@ -37,13 +37,13 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 
 - 说明书：[英语原文](/documents/estrofem.pdf) | [中文译本](https://tfsci.mtf.wiki/misc/estrofem/)
 
-### Femoston<sup>&copy;</sup> 芬吗通<sup>&copy;</sup>
+### Femoston&copy; 芬吗通&copy;
 
 |                  中国包装 (1mg)                   |                  中国包装 (2mg)                   |
 | :-----------------------------------------------: | :-----------------------------------------------: |
 | ![!](/images/medicine/estradiol/femoston-1mg.jpg) | ![!](/images/medicine/estradiol/femoston-2mg.jpg) |
 
-- 药品名称：雌二醇片/雌二醇地屈孕酮片复合包装（Femoston<sup>&copy;</sup> 芬吗通<sup>&copy;</sup>）
+- 药品名称：雌二醇片/雌二醇地屈孕酮片复合包装（Femoston&copy; 芬吗通&copy;）
 - 药品类型：复方制剂
 - 药品成分：雌二醇（Estradiol）/地屈孕酮（Dydrogesterone）
 - 批准文号: [H20150346 (1mg)][H20150346] [H20150345 (2mg)][H20150345]
@@ -63,11 +63,11 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 
 ### 说明
 
-- 芬吗通<sup>&copy;</sup> 部分片剂中所含地屈孕酮为女性化激素疗法的口服药物[^1]。属于孕激素类成分，但无法确保能够提供完全孕激素效力[^2] [^4]，不具有抗雄作用[^3]，且风险尚不明确，请谨慎使用。
+- 芬吗通&copy; 部分片剂中所含地屈孕酮为女性化激素疗法的口服药物 [^1]。属于孕激素类成分，但无法确保能够提供完全孕激素效力 [^2] [^4]，不具有抗雄作用 [^3]，且风险尚不明确，请谨慎使用。
 
 ## 不良反应
 
-最常见的不良反应有抑郁、头痛、腹痛/恶心、水肿、体重增加等[^8]。详见[用药风险]({{< ref "risk" >}})。
+最常见的不良反应有抑郁、头痛、腹痛/恶心、水肿、体重增加等 [^8]。详见[用药风险]({{< ref "risk" >}})。
 
 ## 使用方式与用量
 
@@ -79,7 +79,7 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 
 - 有效成分：{{< wiki 雌二醇 >}}（{{< wiki Estradiol en >}}）
 - 半衰期：13～20 小时（吞服）；8～18 小时（舌下含服）[^6]
-- 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
+- 分子式：C₁₈H₂₄O₂
 - 分子量：272.38
 
 [^1]: [女性化激素疗法 - 维基百科](https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95#%E8%8D%AF%E7%89%A9)
