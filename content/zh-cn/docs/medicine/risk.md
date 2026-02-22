@@ -4,9 +4,7 @@ weight: 10
 ---
 
 {{< notice warning "用药安全提示" >}}
-
 「是药三分毒」，GAHT 用药也不例外。须严格控制用药途径与剂量，在确保疗效的同时尽量降低用药风险。
-
 {{< /notice >}}
 
 ## 雌激素用药风险
@@ -236,5 +234,5 @@ Newsletter*, 2012, 22(4): 3-4.
 [^32]: Monroe S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas [J]. *The Journal of Clinical Endocrinology & Metabolism*, 1981, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 [^33]: ANI Pharmaceuticals Inc. LITHOBID&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2022. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
 [^34]: Taylor D M, Barnes T R E, Young A H. The Maudsley&reg; Prescribing Guidelines in Psychiatry [M]. 14th ed. Hoboken, US: John Wiley & Sons, 2021: 851-855.
-[^35]：王红霞，殷咏梅，胡夕春. 中国乳腺癌患者BRCA1/2基因检测与临床应用专家共识（2025年版） [J]. 中国癌症杂志, 2025, 35 (7): 710-734. <https://newdrugs.dxy.cn/js/web/viewer.html?file=/preview/ymf_G_JeTzP00DuqILwpKkw>
-[^36]：Zhao, L., Cheng, H., He, D. et al. Decoding male breast cancer: epidemiological insights, cutting-edge treatments, and future perspectives. Discov Onc 16, 360 (2025). \[DOI: [10.1007/s12672-025-02140-y](https://doi.org/10.1007/s12672-025-02140-y)]
+[^35]: 王红霞，殷咏梅，胡夕春. 中国乳腺癌患者BRCA1/2基因检测与临床应用专家共识（2025年版） [J]. 中国癌症杂志, 2025, 35 (7): 710-734. <https://newdrugs.dxy.cn/js/web/viewer.html?file=/preview/ymf_G_JeTzP00DuqILwpKkw>
+[^36]: Zhao, L., Cheng, H., He, D. et al. Decoding male breast cancer: epidemiological insights, cutting-edge treatments, and future perspectives. Discov Onc 16, 360 (2025). \[DOI: [10.1007/s12672-025-02140-y](https://doi.org/10.1007/s12672-025-02140-y)]
