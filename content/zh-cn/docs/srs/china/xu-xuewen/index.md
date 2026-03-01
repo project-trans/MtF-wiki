@@ -14,7 +14,7 @@ title: 四川大学华西医院｜许学文
 
 该院于 2020 年 10 月取得「性别重置手术」资质
 
-全文请参见：<http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/10/20/be6a18c65f8f4ab29c52d8b682947f18.shtml> (<https://archive.is/9a2p1>)
+全文请参见：<http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/10/20/be6a18c65f8f4ab29c52d8b682947f18.shtml> (<https://web.archive.org/web/20220915084717/http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/10/20/be6a18c65f8f4ab29c52d8b682947f18.shtml>)
 
 {{< /notice >}}
 
