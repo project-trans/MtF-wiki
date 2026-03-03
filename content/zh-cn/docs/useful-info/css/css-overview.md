@@ -64,5 +64,5 @@ weight: 1
 
 ## 参考资料 {#references}
 
-- [锁骨缩短手术](<https://futarino.moe/t/%E9%94%81%E9%AA%A8%E7%BC%A9%E7%9F%AD%E6%89%8B%E6%9C%AF/1836>)
+- [锁骨缩短手术](<https://web.archive.org/web/20230221054234/https://limelight.moe/t/topic/6801>)
 - <https://web.archive.org/web/20230916180906/https://shoko.love/home/>
