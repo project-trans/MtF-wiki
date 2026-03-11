@@ -9,11 +9,12 @@ weight: 10
 
 ## 雌激素用药风险
 
-雌激素最常见的药物不良反应有：**乳房紧张/乳房疼痛、腹痛、水肿与头痛。** [^1]
+雌激素最常见的药物不良反应有：**乳房紧张/乳房疼痛、腹痛、水肿与头痛** [^1]。
 
-最严重的不良反应有：**静脉血栓（严重时可导致心肌梗塞与中风）与乳腺癌** [^2] [^3] [^15]。口服雌二醇或人工合成雌激素（如炔雌醇）的这项风险更大。
+最严重的不良反应有：
 
-有乳腺癌（尤其是携带 BRCA1/2 致病变异）家族史的个体罹患乳腺癌的风险将**显著增加**，且罹患乳腺癌的这部分患者往往分期较高、分化较差 [^35] [^36]；**高水平雌激素同样与乳腺癌的发病密切相关** [^36]。此类个体 GAHT 中**雌激素类药物用药风险显著更高**，请务必就此咨询专业医疗机构，必要时避免使用雌激素类药物或在专业指导下使用 [SERMs](https://mtf.wiki/zh-cn/docs/medicine/SERMs)。
+- **静脉血栓（严重时可导致心肌梗塞与中风）** [^2] [^3]，口服雌二醇或人工合成雌激素（如炔雌醇）的这项风险更大。
+- **乳腺癌**，有乳腺癌家族史的个体应尤为注意 [^15] [^37]。
 
 下表为口服戊酸雌二醇片「[补佳乐]({{< ref "estradiol-valerate" >}})」说明书列出的各不良反应 [^2]：
 
@@ -55,6 +56,13 @@ weight: 10
 ```
 
 更多详情可参见《[雌激素对凝血功能与血栓风险的影响](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》[^3]。
+
+### 雌激素与乳腺癌风险的关系
+
+- **高水平雌激素与乳腺癌的发病密切相关** [^36]。接受性别肯定激素治疗的跨性别女性的乳腺癌风险是顺性别男性的 46 倍，但仍低于顺性别女性 [^37]。
+- 对于接受激素治疗的跨性别者而言，遵循与顺性别者相同的筛查指南即可。
+- 有乳腺癌（尤其是携带 BRCA1/2 致病变异）家族史的个体罹患乳腺癌的风险将**显著增加**，且罹患乳腺癌的这部分患者往往分期较高、分化较差 [^35] [^36]；跨性别者如果因家族遗传倾向而增加患乳腺癌的风险，**建议接受与近亲女性相同的乳腺健康状态监测策略** [^37]。
+- 年龄较大的跨性别者可以考虑停止激素治疗，以降低患乳腺癌的风险 [^37]。
 
 ### 雌激素相关资料
 
@@ -236,3 +244,4 @@ Newsletter*, 2012, 22(4): 3-4.
 [^34]: Taylor D M, Barnes T R E, Young A H. The Maudsley&reg; Prescribing Guidelines in Psychiatry [M]. 14th ed. Hoboken, US: John Wiley & Sons, 2021: 851-855.
 [^35]: 王红霞，殷咏梅，胡夕春. 中国乳腺癌患者BRCA1/2基因检测与临床应用专家共识（2025年版） [J]. 中国癌症杂志, 2025, 35 (7): 710-734. <https://newdrugs.dxy.cn/js/web/viewer.html?file=/preview/ymf_G_JeTzP00DuqILwpKkw>
 [^36]: Zhao, L., Cheng, H., He, D. et al. Decoding male breast cancer: epidemiological insights, cutting-edge treatments, and future perspectives. Discov Onc 16, 360 (2025). \[DOI: [10.1007/s12672-025-02140-y](https://doi.org/10.1007/s12672-025-02140-y)]
+[^37]: de Blok C J M, Wiepjes C M, Nota N M, van Engelen K, Adank M A, Dreijerink K M A et al. Breast cancer risk in transgender people receiving hormone treatment: nationwide cohort study in the Netherlands BMJ 2019; 365 :l1652 \[DOI: [10.1136/bmj.l1652](https://doi.org/10.1136/bmj.l1652)]
