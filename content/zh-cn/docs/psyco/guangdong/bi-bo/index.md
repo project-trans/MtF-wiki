@@ -1,7 +1,6 @@
-<!-- 
-应毕波医生本人要求，隐藏其相关页面
 ---
 title: 深圳｜毕波
+draft: ture
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
@@ -61,5 +60,3 @@ title: 深圳｜毕波
 ## 证明样式
 
 {{< watermark "proof.jpg" >}}
-
--->
