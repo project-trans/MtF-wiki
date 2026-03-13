@@ -11,16 +11,16 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 [补佳乐](https://tfsci.mtf.wiki/zh-cn/misc/progynova/#form) / [克龄蒙](https://tfsci.mtf.wiki/zh-cn/misc/climen/#form) 的主要成分为戊酸雌二醇，包衣含有蔗糖，故入口味甜。
 
 ## 基本信息
+<!-- markdownlint-disable MD033 -->
+### Progynova<sup>&reg;</sup> 补佳乐<sup>&reg;</sup>
+<!-- markdownlint-enable MD033 -->
+|                           中国包装                           |                        泰国包装 (2mg)                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| {{< figure src="/images/medicine/estradiol-valerate/progynova.jpg" width="350" height="279" >}} | {{< figure src="/images/medicine/estradiol-valerate/progynova-2mg.jpg" width="350" height="350" >}} |
 
-### Progynova<sup>&reg;</sup> 补佳乐&reg;
-
-|                        中国包装                         |                       泰国包装 (2mg)                       |
-| :-----------------------------------------------------: | :--------------------------------------------------------: |
-| ![!](/images/medicine/estradiol-valerate/progynova.jpg) | ![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg) |
-
-|                        德国包装                            |                       印度包装                              |
-| :--------------------------------------------------------: | :--------------------------------------------------------: |
-| ![!](/images/medicine/estradiol-valerate/progynova-de.png) | ![!](/images/medicine/estradiol-valerate/progynova-in.png) |
+|                           德国包装                           |                           印度包装                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| {{< figure src="/images/medicine/estradiol-valerate/progynova-de.png" width="350" height="350" >}} | {{< figure src="/images/medicine/estradiol-valerate/progynova-in.png" width="350" height="350" >}} |
 
 - 药品名称：戊酸雌二醇片（Progynova&reg; 补佳乐&reg;）
 - 药品类型：单方制剂
@@ -44,12 +44,12 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 {{< /notice >}}
 
 > 注：据[报告](https://github.com/project-trans/MtF-wiki/issues/906)自 2021 年十一月起，泰国分销的补佳乐 2 mg 剂型改为白色包衣[^5]；德国等其它地区亦然[^6]。市场上新旧产品可能共存，注意分辨。
-
-### Climen<sup>&reg;</sup> 克龄蒙&reg;
-
-|                    中国包装 (2mg)                    |
-| :--------------------------------------------------: |
-| ![!](/images/medicine/estradiol-valerate/climen.png) |
+<!-- markdownlint-disable MD033 -->
+### Climen<sup>&reg;</sup> 克龄蒙<sup>&reg;</sup>
+<!-- markdownlint-ensable MD033 -->
+|                        中国包装 (2mg)                        |
+| :----------------------------------------------------------: |
+| {{< figure src="/images/medicine/estradiol-valerate/climen.png" >}} |
 
 - 药品名称：戊酸雌二醇片/雌二醇环丙孕酮复合包装（Climen&reg; 克龄蒙&reg;）
 - 药品类型：复方制剂
@@ -68,11 +68,11 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 “克龄蒙”所含醋酸环丙孕酮的剂量极低（1 mg/粒），且每盒仅有 10 粒复方片剂，不足以确保充分的抗雄激素效力。推荐剂量见《[色普龙]({{< ref "cyproterone" >}})》。
 {{< /notice >}}
 
-### 仙琚 仙静&reg;
+### 仙琚 仙静<sup>&reg;</sup>
 
-|                    仅限中国大陆                   |
-| :--------------------------------------------------: |
-| ![!](/images/medicine/estradiol-valerate/xianjing.jpg) |
+|                         仅限中国大陆                         |
+| :----------------------------------------------------------: |
+| {{< figure src="/images/medicine/estradiol-valerate/xianjing.jpg" width="350" height="460" >}} |
 
 - 内含：单方戊酸雌二醇片
 - 性状：薄膜衣片，其余不明
@@ -108,7 +108,7 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 {{< /notice >}}
 
 ## 成分信息
-
+<!-- markdownlint-disable MD033 -->
 - 有效成分：戊酸雌二醇（{{< wiki "Estradiol valerate" en >}}）
 - 生物利用率：
   - 口服：3~5%
@@ -118,7 +118,7 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
   - 含服：8~18 小时
 - 分子式：C<sub>23</sub>H<sub>32</sub>O<sub>3</sub>
 - 分子量：356.50
-
+<!-- markdownlint-enable MD033 -->
 [^1]: Aly. Sublingual Administration of Oral Estradiol Valerate Tablets for Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介](https://tfsci.mtf.wiki/articles/sublingual-ev/)》
 [^2]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
 [^3]: Sam. An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People [EB/OL]. *Transfeminine Science*, 2021. 译文：《[对女性倾向跨性别者舌下含服雌二醇以取代口服雌二醇的探索](https://tfsci.mtf.wiki/articles/sublingual-e2-transfem/)》
