@@ -22,7 +22,7 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 
 ![土诺包装](/images/medicine/estradiol/estrofem.png)
 
-- 药品名称：Estrofem&copy; 诺坤复
+- 药品名称：Estrofem<sup>&copy;</sup> 诺坤复
 - 药品成分：雌二醇（Estradiol）
 - 简称：诺
 - 厂商：诺和诺德 (Novo Nordisk)（丹麦）
@@ -43,7 +43,7 @@ description: 雌二醇片一般是半水合雌二醇，不同于 戊酸雌二醇
 | :-----------------------------------------------: | :-----------------------------------------------: |
 | ![!](/images/medicine/estradiol/femoston-1mg.jpg) | ![!](/images/medicine/estradiol/femoston-2mg.jpg) |
 
-- 药品名称：雌二醇片/雌二醇地屈孕酮片复合包装（Femoston&copy; 芬吗通&copy;）
+- 药品名称：雌二醇片/雌二醇地屈孕酮片复合包装（Femoston<sup>&copy;</sup> 芬吗通<sup>&copy;</sup>）
 - 药品类型：复方制剂
 - 药品成分：雌二醇（Estradiol）/地屈孕酮（Dydrogesterone）
 - 批准文号: [H20150346 (1mg)][H20150346] [H20150345 (2mg)][H20150345]
