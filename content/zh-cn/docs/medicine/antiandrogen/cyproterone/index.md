@@ -7,13 +7,13 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸环丙孕酮（Cyproterone Acetate，俗称「色普龙/色谱龙」）是一种常用的抗雄药物，多用于男性前列腺癌的治疗、女性因高雄激素引起的痤疮、脱发等症状治疗 [^5] [^6]；现为女性化激素治疗中使用最多的抗雄药物之一 [^8]。常见的商品名有 Androcur&reg;（安得卡），Siterone&reg; 等。
+醋酸环丙孕酮（Cyproterone Acetate，俗称「色普龙/色谱龙」）是一种常用的抗雄药物，多用于男性前列腺癌的治疗、女性因高雄激素引起的痤疮、脱发等症状治疗 [^5] [^6]；现为女性化激素治疗中使用最多的抗雄药物之一 [^8]。常见的商品名有 Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup> 等。
 
 该药具有极强的孕激素作用，抑制卵巢功能 [^15]，故也用于复方避孕药，如「达英-35」（*Diane-35*）。
 
 ## 基本信息
 
-### Androcur&reg;（安得卡）
+### Androcur<sup>&reg;</sup>（安得卡）
 
 | 地区     | 上市状态                                                     |
 |----------|--------------------------------------------------------------|
@@ -25,7 +25,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
 
-- 商品名：Androcur&reg;
+- 商品名：Androcur<sup>&reg;</sup>
 - 简称：土色、台色（在台湾销售的 Androcur）
 - 厂商：拜耳
 - 产地：土耳其
@@ -42,7 +42,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 ### Androcur&reg;
 
-由拜尔德国分公司生产、销售的Androcur&reg;，简称德色。
+由拜尔德国分公司生产、销售的Androcur<sup>&reg;</sup>，简称德色。
 
 ```csv
 规格,10mg,50mg
