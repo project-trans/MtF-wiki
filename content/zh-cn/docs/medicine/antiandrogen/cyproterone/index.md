@@ -40,7 +40,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 {{< /notice >}}
 
-### Androcur&reg;
+### Androcur<sup>&reg;</sup>
 
 由拜尔德国分公司生产、销售的Androcur<sup>&reg;</sup>，简称德色。
 
@@ -56,12 +56,12 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [说明书（德文）](/documents/Androcur.pdf)
 - 说明书译文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德国版](https://tfsci.mtf.wiki/misc/androcur-de/)
 
-### Siterone&reg;
+### Siterone<sup>&reg;</sup>
 
 {{< figure src="/images/medicine/cyproterone/siterone-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/siterone-100.jpg" width="50%" >}}
 
-- 商品名：Siterone&reg;
+- 商品名：Siterone<sup>&reg;</sup>
 - 简称：新色
 - 厂商：REX
 - 产地：新西兰
@@ -69,11 +69,11 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [上市信息](/documents/siterone.pdf)
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
 
-### 华典&reg;醋酸环丙孕酮片 {#huadian}
+### 华典<sup>&reg;</sup> 醋酸环丙孕酮片 {#huadian}
 
 ![Huadian](huadian.jpg)
 
-- 商品名：华典&reg;
+- 商品名：华典<sup>&reg;</sup>
 - 简称：国色
 - 厂商：武汉九珑人福药业有限责任公司
 - 批准文号：国药准字 H20056637
