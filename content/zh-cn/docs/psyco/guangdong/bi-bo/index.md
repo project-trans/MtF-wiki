@@ -1,5 +1,6 @@
 ---
 title: 深圳｜毕波
+draft: ture
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
