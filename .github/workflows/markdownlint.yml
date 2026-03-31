@@ -1,0 +1,15 @@
+name: Run markdownlint
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DeterminateSystems/nix-installer-action@main
+      - run: nix run nixpkgs#markdownlint-cli2 -- "**/*.md"

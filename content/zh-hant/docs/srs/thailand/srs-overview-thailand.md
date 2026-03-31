@@ -14,14 +14,10 @@ Google Maps：<https://link.mtf.wiki/maps/th>
 
 依據 [《醫學委員會關於變性手術治療的醫療行業規定的倫理條例（佛曆 2552 年 ）》](https://www.tmc.or.th/download/jul09-02.pdf) 與 [《醫學委員會關於為性身份困惑或希望透過接受變性手術進行治療的人提供指導的公告》](http://www.thailawforum.com/Guidelines-sex-change-operations.html)，在泰國接受性別重置手術，需要：
 
-<!-- markdownlint-disable -->
-
 1. 1. 年滿 18 歲，但未滿 20 歲，必須得到合法父母或授權監護人的同意
    1. 已滿 20 歲
-1. 至少兩名精神科醫生的鑑定，對於已有精神科證明的外國人，則必須在手術前接受至少一名泰國精神科醫生的評估
-1. 至少度過了一年的女性生活（[RLE]({{< ref "abbreviation#rle" >}})）
-
-<!-- markdownlint-enable -->
+2. 至少兩名精神科醫生的鑑定，對於已有精神科證明的外國人，則必須在手術前接受至少一名泰國精神科醫生的評估
+3. 至少度過了一年的女性生活（[RLE]({{< ref "abbreviation#rle" >}})）
 
 ## 手術術式 {#tech}
 

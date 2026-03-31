@@ -1,8 +1,13 @@
 {
+  "default": true,
   "single-h1": true,
   "no-inline-html": false,
-  "no-duplicate-header": false,
+  "no-duplicate-heading": {
+    "siblings_only": true
+  },
   "no-emphasis-as-header": false,
   "line-length": false,
-  "frontmatter": false
+  "table-column-style": false,
+  "no-blanks-blockquote": false,
+  "no-alt-text": false
 }

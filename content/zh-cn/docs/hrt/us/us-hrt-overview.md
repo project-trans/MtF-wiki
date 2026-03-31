@@ -69,7 +69,6 @@ Disclaimer：不构成法律意见或建议
 5. 开始 HRT 大约 2-3 周之后测激素水平
 6. 激素水平稳定后大约每 3 个月进行复查
 
-
 绝大多数地方的 HRT 是按照 [UCSF Guideline](https://transcare.ucsf.edu/guidelines) 进行的，如有疑问可以参照。
 
 ## HRT 常用药物
@@ -100,4 +99,5 @@ Disclaimer：不构成法律意见或建议
 一般来说，有正常的保险的话开始 HRT 的费用不会很高。去看 HRT 医生属于 Office Visit 或 Specialist Visit 的范围，Copayment 通常在 {{< currency 10 USD >}}-{{< currency 35 USD >}}之间。去药房拿药的话，按一种药30天的量来算，有保险的话大概需要 {{< currency 5 USD >}} - {{< currency 20 USD >}}。
 
 ## 其他
-- 建议大家勤跑校医院，找到自己熟悉的PCP（Primary Care Provider）。不一定要找医生（MD），有的州Nurse Practioner也有处方权，而且时间上更好约。PCP们能帮你很多忙（有的语音治疗师需要转介信，有的生育力保存中心需要体检报告和一些传染病血检报告，有的保险公司报销生育力保存项目需要医学必要性论证文书，这些你的PCP也都会很乐意帮你开具），
+
+- 建议大家勤跑校医院，找到自己熟悉的PCP（Primary Care Provider）。不一定要找医生（MD），有的州Nurse Practioner也有处方权，而且时间上更好约。PCP们能帮你很多忙（有的语音治疗师需要转介信，有的生育力保存中心需要体检报告和一些传染病血检报告，有的保险公司报销生育力保存项目需要医学必要性论证文书，这些你的PCP也都会很乐意帮你开具）

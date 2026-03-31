@@ -60,7 +60,6 @@ weight: 10
 > PRAC 審查了關於高強度**雌二醇乳膏**用於治療絕經期婦女陰道萎縮症狀的安全性和有效性的現有資料。這些資料表明，絕經後婦女使用這些乳膏後，血液中的雌二醇水平高於正常絕經後的水平。PRAC 的結論是，雌二醇在血液中的吸收值得關注，可能導致與激素替代療法（HRT）相似的副作用，口服或經皮膚（作為貼片）使用 HRT 的副作用包括靜脈血栓栓塞（靜脈血栓形成）、中風、子宮內膜癌和乳腺癌。此外，關於長期使用高強度**雌二醇乳膏**的安全性資料有限。
 > 基於這些原因，PRAC 建議這些乳膏一個療程最多隻能使用 4 周。
 
-
 ## 黃體素用藥風險
 
 ### 口服與非口服天然黃體酮
@@ -72,13 +71,11 @@ weight: 10
 
 詳見“抗雄性素用藥風險”。
 
-
-
 ## 抗雄性素用藥風險
 
 ### 醋酸環丙孕酮
 
-[醋酸環丙孕酮]({{< ref "cyproterone" >}})（安得卡，cyproterone acetate）最常見的副作用有：**_陰道出血_、體重增加或減輕、憂鬱、性欲降低、勃起功能障礙和精子形成抑制（停藥後可逆）**[^5] [^6] [^7]。\
+[醋酸環丙孕酮]({{< ref "cyproterone" >}})（安得卡，cyproterone acetate）最常見的副作用有：***陰道出血* 、體重增加或減輕、憂鬱、性欲降低、勃起功能障礙和精子形成抑制（停藥後可逆）**[^5] [^6] [^7]。\
 最嚴重的副作用有：**肝毒性、良性與惡性肝臟腫瘤（可能引起致命性腹內出血）、腦膜瘤與血栓栓塞形成**[^8] [^9]。
 
 下表為台灣 Androcur 說明書列出的各不良反應 [^7]：
@@ -120,12 +117,10 @@ weight: 10
 > 盡管類固醇類和非類固醇類抗雄性素藥物都與肝毒性相關，但這些不良反應的發生頻率及其臨床特征，在不同藥品間似乎有所不同。例如，觀察性研究結果顯示，使用**氟他胺**的患者出現肝毒性事件的發生頻率高於那些使用**醋酸環丙孕酮**的患者（15.3%比 9.5%，p=0.034）。
 > 此外，這項研究發現在嚴重的肝毒性（定義為肝酵素水平升高大於 6 倍正常值上限）事件中，使用**氟他胺**者占 4.8%，使用**醋酸環丙孕酮**者占 3.8%。在嚴重肝毒性事件中，使用**可蘇多**和**尼魯米特**者罕有報告。
 
-
 > **歐盟因腦膜瘤風險限制環丙孕酮的使用** [^18] [^28]
 >
 > 現有資料並未表明含有 1 或 2 毫克的低劑量**環丙孕酮**與**炔雌醇**或**雌二醇**聯用治療痤瘡、多毛症、避孕或激素替代療法的風險。然而，作為預防措施，這些藥物不應用於**腦膜瘤患者**或有**腦膜瘤病史**者。
 > 含高劑量環丙孕酮的藥物已有該限定。
-
 
 ## 藥物相互作用 {#drug-interactions}
 
@@ -191,7 +186,6 @@ Topiramate,
 
 以上未囊括所有可能存在相互作用的藥品類別。如有新的藥物相互作用資訊，可於 [GitHub](https://github.com/project-trans/MtF-wiki/issues/828) 提交報告。
 
-
 [^1]: [雌二醇片（Estrofem）說明書](https://tfsci.mtf.wiki/misc/estrofem/)
 [^2]: [戊酸雌二醇片（Progynova）說明書](https://tfsci.mtf.wiki/misc/progynova/)
 [^3]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. 譯文：「[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)」
@@ -225,5 +219,5 @@ Newsletter*, 22(4): 3-4.
 [^30]: European Medicines Agency. (2020). PRAC confirms four-week limit for use of high-strength estradiol creams. <https://www.ema.europa.eu/en/news/prac-confirms-four-week-limit-use-high-strength-estradiol-creams>
 [^31]: Chung, W. G., & Buhler, D. R. (1994). The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs. *Toxicology and Applied Pharmacology*, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
 [^32]: Monroe, S. E., Levine, L., Chang, R. J., et al. (1981). Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas. *The Journal of Clinical Endocrinology & Metabolism*, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
-[^33]: ANI Pharmaceuticals Inc. (2022). LITHOBID&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
+<!-- FIXME link-image-reference-definitions [^33]: ANI Pharmaceuticals Inc. (2022). LITHOBID&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf> -->
 [^34]: Taylor, D. M., Barnes, T. R. E., Young, A. H. (2021). The Maudsley&reg; Prescribing Guidelines in Psychiatry. (14th ed.) Hoboken: John Wiley & Sons: 851-855.

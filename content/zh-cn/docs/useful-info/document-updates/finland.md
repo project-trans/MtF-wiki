@@ -14,6 +14,7 @@ weight: 10246
 如果希望一并更改性别，请参考 [Confirmation of gender - DVV](https://dvv.fi/en/confirmation-of-gender)，在更改性别后，可以免费更改姓名。但记得，更改性别后一定要在 **30 天后，6 个月以前再次确认**。
 
 可使用如下方法提交申请：
+
 - 有强身分认证（如银行、MobileID等）可使用在线服务
 - 下载并填写表格，确认后，可以：
   1. 列印，寄送至规定地址，
@@ -24,6 +25,7 @@ weight: 10246
 #### 更改姓名
 
 见官方网页：
+
 - [更改名 (forename)](https://dvv.fi/en/changing-forename)
 - [希望更改姓 (surname) - DVV](https://dvv.fi/en/changing-forename)。
 
@@ -43,6 +45,7 @@ weight: 10246
 4. 其他原因。
 
 举例：
+
 - 如果您 preferred name 在 [Name service - DVV](https://dvv.fi/en/name-service) 中查询，已经有 >5 人使用，则可以使用第一种方法。
 - 如使用拼音等汉语拉丁化方法来合理化您的名字，可以使用第二种方法。
 

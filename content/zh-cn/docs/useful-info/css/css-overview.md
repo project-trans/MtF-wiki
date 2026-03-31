@@ -45,7 +45,8 @@ weight: 1
 
 再其次才是选医生。去找该医生的术后效果观看。
 
-肩宽手术目前在国内并没有成熟的指南和手术方案，手术风险和后果很多尚未明确，已知的风险包括：  
+肩宽手术目前在国内并没有成熟的指南和手术方案，手术风险和后果很多尚未明确，已知的风险包括：
+
 1. 肩胛骨的外旋和后倾  
 1. 肩关节活动受限  
 1. 无法提起重物  
@@ -63,5 +64,5 @@ weight: 1
 
 ## 参考资料 {#references}
 
-- [锁骨缩短手术](<https://forum.limonnur.party/t/topic/6801>)
+- [锁骨缩短手术](<https://web.archive.org/web/20230221054234/https://limelight.moe/t/topic/6801>)
 - <https://web.archive.org/web/20230916180906/https://shoko.love/home/>

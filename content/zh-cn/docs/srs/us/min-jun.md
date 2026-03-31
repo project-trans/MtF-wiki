@@ -9,6 +9,7 @@ title: Min Jun
 电子邮件: <info@junsurgical.com>
 
 Min Jun 在纽约大学医学院从 Dr. Rachel Bluebond-Langner 学习了机器人辅助阴道成形术的技术。他提供 SRS 及 SRS 修复的手术服务。Min Jun 现时 <sub>2025 年 11 月</sub>的手术地点位于 California Pacific Medical Center, Sequoia Hospital, UCSF Hyde Hospital中任意一个。他现在的诊所位于3301 El Camino Real. STE 101, Atherton CA 94027。
+
 ## 特点
 
 Min Jun 所使用的技术为 Da Vinci 机器人辅助的腹膜阴道成形术。该技术从下腹开出 4-6 个 2cm 左右的刀口，并将机器人放进去，从腹部开始游离腹膜。他使用阴囊皮肤作为外部阴道皮肤以及阴唇皮肤；阴茎皮肤及龟头作为阴蒂附近的皮肤和阴蒂。这样的好处是因为阴蒂周围的皮肤得以保留，阴蒂的完整性和美观性可以得到增强。机器人接下来从内部缝合腹膜和皮肤的衔接部位，并完成手术。
@@ -56,54 +57,52 @@ Min Jun 所使用的技术为 Da Vinci 机器人辅助的腹膜阴道成形术�
 
 ## 推荐信要求（英文）
 
-
 - For the majority of our U.S. patients, insurance usually requires 3 letters from the following per SOC 7 guidelines:
 
   - Mental health professional holding an advanced degree. This is often a doctorate level degree (e.g. Ph.D., Psy.D., M.D., D.O., etc)  
 
-  - Mental health professional performing an evaluative role 
+  - Mental health professional performing an evaluative role
 
-  - Hormone provider (primary care provider, specialist, etc.) 
+  - Hormone provider (primary care provider, specialist, etc.)
 
-- For some of our U.S. patients, insurance usually requires 2 letters of the following per SOC 8 guidelines: 
+- For some of our U.S. patients, insurance usually requires 2 letters of the following per SOC 8 guidelines:
 
   - Mental health professional
 
-  - Hormone provider (primary care provider, specialist, etc.) 
+  - Hormone provider (primary care provider, specialist, etc.)
 
+### Mental Health Letter Requirements
 
-**Mental Health Letter Requirements**
+- Identifying information: Patient’s legal name, preferred name (if different), and date of birth
 
-- Identifying information: Patient’s legal name, preferred name (if different), and date of birth 
+- The mental health provider must state their qualifications in the diagnosis and treatment of gender dysphoria.
 
-- The mental health provider must state their qualifications in the diagnosis and treatment of gender dysphoria. 
+- Diagnosis: A statement that the patient has been diagnosed with persistent, well-documented gender dysphoria, including:
 
-- Diagnosis: A statement that the patient has been diagnosed with persistent, well-documented gender dysphoria, including: 
+- The desire to live and be accepted as a member of the gender identity, including the desire to make their body as congruent as possible with the gender identity through surgery
 
-- The desire to live and be accepted as a member of the gender identity, including the desire to make their body as congruent as possible with the gender identity through surgery 
+- The transgender identity has been present persistently for at least two years; and
 
-- The transgender identity has been present persistently for at least two years; and 
+- Gender dysphoria is not a symptom of another mental health disorder; and
 
-- Gender dysphoria is not a symptom of another mental health disorder; and 
-
-- The gender dysphoria causes clinically significant distress or impairment in social, occupational, or other important areas of functioning. 
+- The gender dysphoria causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
 
 - 12 continuous months of living in a gender role that is congruent with their gender identity.  
 
-- 12 continuous months of hormone therapy as appropriate to the patient’s gender goals (unless the patient has a medical contraindication or is otherwise unable or unwilling to take hormones). 
+- 12 continuous months of hormone therapy as appropriate to the patient’s gender goals (unless the patient has a medical contraindication or is otherwise unable or unwilling to take hormones).
 
-- The patient has the capacity to make a fully informed decision and to consent for treatment. 
+- The patient has the capacity to make a fully informed decision and to consent for treatment.
 
-- The patient can comply with long term follow-up requirements and post-operative expectations have been addressed. 
+- The patient can comply with long term follow-up requirements and post-operative expectations have been addressed.
 
-- If significant medical or mental health concerns are present, they must be well controlled. 
+- If significant medical or mental health concerns are present, they must be well controlled.
 
+### Hormone Provider Letter Requirement
 
-**Hormone Provider Letter Requirement**
-- Identifying information: Patient’s legal name, preferred name (if different), and date of birth 
+- Identifying information: Patient’s legal name, preferred name (if different), and date of birth
 
 - The start date of the patient-provider relationship and frequency of meeting.  
 
-- 12 continuous months of hormone therapy as appropriate to the patient’s gender goals (unless the patient has a medical contraindication or is otherwise unable or unwilling to take hormones). 
+- 12 continuous months of hormone therapy as appropriate to the patient’s gender goals (unless the patient has a medical contraindication or is otherwise unable or unwilling to take hormones).
 
-- Explicit start date should be included along with specific regimen. 
+- Explicit start date should be included along with specific regimen.

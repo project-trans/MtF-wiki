@@ -6,7 +6,6 @@ title: 大连医科大学附属第二医院｜张霞
 
 所在医院：[大连医科大学附属第二医院](https://www.amap.com/place/B019B0AOZE)
 
-
 ## 出诊时刻
 
 ```csv

@@ -9,21 +9,24 @@ weight: 12000
 
 {{</notice>}}
 
-## PLCT实验室
-
-PLCT实验室是中科院软件所智能软件研究中心下属的一个工程团队，聚焦于编译器、虚拟机、模拟器等基础软件的开发和开源社区的维护。
-
-少数群体STEM支持：甲辰计划实习项目提供至少 20% 岗位数量为女性工程师预留。PLCT实验室为女性及少数群体预留 50% 名额。
-
-＊ PLCT 实验室实习生火热招新中：<https://github.com/plctlab/weloveinterns/blob/master/open-internships.md>
-
 ## 跨性别相关放送
 
 您可以称呼我们为墙/放送，我们是社群伙伴自发建立的非营利性民间公益平台，目前仅在qq运营。三年来，以广大跨性别、性少数群体的立场为基本立场，支持相关科普、辟谣、生活、社群活动等投稿，已建立一个长期稳定，千人规模的社群，欢迎您的加入。
 
-- QQ号：{{< shields/qq 811993805 "<https://qm.qq.com/q/P6LhILXfMe">}}> 点击即可跳转链接
+- 微信公众： {{< shields/wechat "transnews2026" >}}
+<!-- markdownlint-disable-next-line -->
+- QQ号：{{< shields/qq 811993805 "https://qm.qq.com/q/6i5xCH1N9m" >}} 点击即可跳转链接
+<!-- markdownlint-disable-next-line -->
+- QQ群：{{< shields/qq 284274989 "https://qm.qq.com/q/IULCWoFrgY" >}} 点击即可跳转链接
 
-- QQ群：{{< shields/qq 766278461 "<https://qm.qq.com/q/ymWh8sFs6y">}}> 点击即可跳转链接
+## 跨儿文学小组
+
+跨儿文学小组/文学彗星是一个于2025/11/11正式成立的文学综合社团。我们会定期投送以文学和跨儿元素为主的文章，期待我们的文字可以成为彗星，划过这片漆黑的夜。在这里，每个人都有发声的权利，欢迎更多小伙伴加入我们。
+
+<!-- markdownlint-disable-next-line -->
+- QQ号：{{< shields/qq 3802698058 "https://qm.qq.com/q/d944Viq5EI" >}} 点击即可跳转链接
+
+- 投稿邮箱：<literarycomet@gmail.com>
 
 ## 生活兴趣交流群
 
@@ -60,3 +63,19 @@ Discord,Project Trans Community,{{< shields/discord 883004164760801320 "Project 
 - Twitter：{{< shields/twitter awesometrans_zh >}}
 - Telegram：{{< shields/telegram awesometrans_zh >}}
 - 邮箱：<awesome-trans@outlook.com>
+
+## PLCT实验室（已过时）
+
+{{< notice >}}
+因上级调整，PLCT实验室将被逐渐淡化。本条目仅作为纪念保留。
+
+[甲辰计划](https://rv2036.org/)可能仍有[实习生岗位](https://github.com/lazyparser/weloveinterns/blob/master/open-internships.md)。
+
+> 不向x86与arm投降，这个世界终将有我们存在的地方。
+{{< /notice >}}
+
+PLCT实验室是中科院软件所智能软件研究中心下属的一个工程团队，聚焦于编译器、虚拟机、模拟器等基础软件的开发和开源社区的维护。
+
+少数群体STEM支持：甲辰计划实习项目提供至少 20% 岗位数量为女性工程师预留。PLCT实验室为女性及少数群体预留 50% 名额。
+
+＊ PLCT 实验室实习生火热招新中：<https://github.com/plctlab/weloveinterns/blob/master/open-internships.md>

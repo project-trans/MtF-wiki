@@ -22,6 +22,8 @@ hidden-timeliness: true
     border-image-outset: 0px;
   }
 </style>
+
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 **計算會在你的電腦上完成，不會向伺服器回傳任何資料**
 
 1. 請準備一條量身軟尺，面向鏡子，要能看到胸部

@@ -1,5 +1,4 @@
 <!-- markdownlint-disable-next-line -->
-
 [![MtF-wiki][logo-long]][wiki-url]
 
 このウィキは女性的な性別移行（いわゆるMtF、トランスフェミニンなどを包括する）のためのものです。

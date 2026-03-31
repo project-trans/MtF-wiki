@@ -14,7 +14,7 @@ title: 四川大学华西医院｜许学文
 
 该院于 2020 年 10 月取得「性别重置手术」资质
 
-全文请参见：<http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/10/20/be6a18c65f8f4ab29c52d8b682947f18.shtml> (<https://archive.is/9a2p1>)
+全文请参见：<http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/10/20/be6a18c65f8f4ab29c52d8b682947f18.shtml> (<https://web.archive.org/web/20220915084717/http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/10/20/be6a18c65f8f4ab29c52d8b682947f18.shtml>)
 
 {{< /notice >}}
 
@@ -44,13 +44,13 @@ title: 四川大学华西医院｜许学文
 
 ## 挂号 {#register}
 
-可以在微信公众号「[四川大学华西医院](weixin://WestChina_Hospital)」或「华医通」APP 的 整形外科 中找到 许学文 或 谢海涛 医生
+可以在微信公众号「[四川大学华西医院](weixin://WestChina_Hospital)」或「华医通」APP 的 整形外科 中找到 许学文 医生 <!--或 肖海涛 医生（因援非停诊） -->
 
 门诊号源预约周期为 7 天，每天早上 8:00 开放第 7 天的号源
 
-许学文主任每周二上午出诊，肖海涛副主任每周四下午出诊
+许学文主任每周二上午出诊 <!--，肖海涛副主任每周四下午出诊 （因援非停诊）-->
 
-挂这两名医生的号均可以开取入院证，且入院后效果等同
+<!-- 挂这两名医生的号均可以开取入院证，且入院后效果等同 -->
 
 ## 入院手术 {#pre-operative}
 

@@ -22,6 +22,8 @@ hidden-timeliness: true
     border-image-outset: 0px;
   }
 </style>
+
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 **运算都在您的本地完成，不收集任何数据**
 
 1. 请准备一根软尺并面对镜子，看得到胸部

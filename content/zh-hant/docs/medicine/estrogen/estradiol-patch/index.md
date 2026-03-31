@@ -18,8 +18,8 @@ description: 外用雌二醇貼片，經皮吸收。
 - 商品名：Estraderm&reg;（美國）/ Estraderm MX&reg;（英國、澳大利亞等）
 - 製造商：{{< wiki Novartis en >}}
 - 規格：
-   + 50、100 µg/天（Estraderm）
-   + 25、50、75、100 µg/天（Estraderm MX）
+  - 50、100 µg/天（Estraderm）
+  - 25、50、75、100 µg/天（Estraderm MX）
 - 仿單：[英語原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019081s043lbl.pdf) | [中文譯本](https://tfsci.mtf.wiki/zh-tw/misc/estraderm/)
 - 單片（100 µg/天）理論療效：雌二醇測定，平均 67 pg/mL
 
@@ -42,7 +42,7 @@ description: 外用雌二醇貼片，經皮吸收。
 - 規格：25、50、75、100 µg/天
 - 患者用仿單：100 µg/天[英語原文](https://rowex.ie/wp-content/uploads/2024/08/EN_de-pl-ESTRAMON%C2%AE-100-%C2%B5g-24-h-transdermal-patch.pdf)
 - 單片（100 µg/天）理論療效：雌二醇測定，平均 81 pg/mL，最高 118 pg/mL
-   + 已有兩名本站讀者分別於使用兩貼後次日、兩貼後第三日測出 659.90 pg/mL 和 150+ pg/mL 的報告。
+  - 已有兩名本站讀者分別於使用兩貼後次日、兩貼後第三日測出 659.90 pg/mL 和 150+ pg/mL 的報告。
 
 ### Progynova&reg; TS / Climara&reg;
 
@@ -53,8 +53,8 @@ description: 外用雌二醇貼片，經皮吸收。
 - 規格：25、37.5、50、60、75、100 µg/天
 - 仿單：[英語原文](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020375s049s050lbl.pdf)
 - 單片（100 µg/天）理論療效：
-   + 腹部：雌二醇測定，平均 87 pg/mL，最高 147 pg/mL
-   + 臀部：雌二醇測定，平均 106 pg/mL，最高 174 pg/mL
+  - 腹部：雌二醇測定，平均 87 pg/mL，最高 147 pg/mL
+  - 臀部：雌二醇測定，平均 106 pg/mL，最高 174 pg/mL
 
 ### Estrana&reg; Tapes
 
@@ -64,7 +64,6 @@ description: 外用雌二醇貼片，經皮吸收。
 - 廠商：{{< wiki 久光製薬 ja >}}株式會社
 - 規格：0.09、0.18、0.36、0.72 mg
 - 仿單：[日語原文](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/000000003134.pdf) | [中文翻譯](https://tfsci.mtf.wiki/zh-tw/misc/estrana-tapes/)
-
 
 ## 用法用量
 

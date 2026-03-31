@@ -4,10 +4,10 @@ title: 安大略省金斯敦（Kingston）
 
 ## 可提供 HRT 的地點
 
-* 女王大學 - 學生健康服務（SWS, Student Wellness Service） [[鏈接]](https://www.queensu.ca/studentwellness/)（僅向在女王大學就讀的學生提供服務）
-* 金斯敦社區健康中心 - 跨性別健康計劃 [[鏈接]](https://kchc.ca/weller-avenue/transgender-health-care/)（無案例）
+- 女王大學 - 學生健康服務（SWS, Student Wellness Service） [[鏈接]](https://www.queensu.ca/studentwellness/)（僅向在女王大學就讀的學生提供服務）
+- 金斯敦社區健康中心 - 跨性別健康計劃 [[鏈接]](https://kchc.ca/weller-avenue/transgender-health-care/)（無案例）
 
-## SWS 
+## SWS
 
 SWS 使用 **Informed Consent** 模式提供 HRT 治療：
 在告之可能的治療方案、效果及副作用後，**僅需本人同意**，
@@ -24,13 +24,13 @@ HRT 過程中會定期開具 肝腎功能 及 睾/孕酮水平 的血檢．
 
 ### 可開具的藥物
 
-* 抗雄藥物
-  + 色譜龍
-  + 羅內酯（無案例）
-* 雌激素藥物
-  + 雌二醇片劑
-  + 雌二醇貼片（無案例）
-  + 雌二醇凝膠（無案例）
+- 抗雄藥物
+  - 色譜龍
+  - 羅內酯（無案例）
+- 雌激素藥物
+  - 雌二醇片劑
+  - 雌二醇貼片（無案例）
+  - 雌二醇凝膠（無案例）
 
 已知无法开具的药物包括 針劑 和 戊酸雌二醇片劑．
 
@@ -39,8 +39,8 @@ HRT 過程中會定期開具 肝腎功能 及 睾/孕酮水平 的血檢．
 SWS 可直接將處方發送至校內的 DrugSmart 藥房．
 參考價格如下：
 
-* 25 \* 50mg 色譜龍 $53.99
-* 240 \* 1mg 雌二醇 $78.60
+- 25 \* 50mg 色譜龍 $53.99
+- 240 \* 1mg 雌二醇 $78.60
 
 據信，色譜龍不存在其他單片劑量，雌二醇另存在 2mg/片 之規格．
 
