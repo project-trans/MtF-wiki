@@ -48,4 +48,5 @@ If you participate in an institution for males while presenting as a female, you
 These regions of China have different processes, so you will need to contact the local authorities to determine how to change your gender.
 
 # Medical Treatment
+
 Once your legal gender is changed, you can see the process on the Chinese language sections for further information. These do not have English translations at the moment.
