@@ -39,6 +39,7 @@ Some countries issue passports with an X gender marker. Pursuant to [ICAO regula
 Generally, China does not discriminate against transgender people. However, you may be detained, harassed, or arrested in the border control of other countries if the sex marker on your passport does not match your actual appearance. Some countries may impose punishments up to the death penalty for those who are caught being transgender. If you choose to travel outside of China, this is at your own risk. However, you will be safe in China.
 
 ## Gender Segregated Institutions
+
 Gender segregated institutions in China use your legal gender. If you live in a country that does not allow you to update your legal gender, it would be best to avoid these. You may be able to ask for accommodations if you are unable to update your legal gender, but this is not guaranteed.
 
 If you participate in an institution for males while presenting as a female, you may run into trouble. So, it is best to avoid this.
