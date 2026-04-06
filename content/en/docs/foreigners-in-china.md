@@ -45,6 +45,7 @@ Gender segregated institutions in China use your legal gender. If you live in a 
 If you participate in an institution for males while presenting as a female, you may run into trouble. So, it is best to avoid this.
 
 ## Hong Kong, Macao, Taiwan
+
 These regions of China have different processes, so you will need to contact the local authorities to determine how to change your gender.
 
 # Medical Treatment
