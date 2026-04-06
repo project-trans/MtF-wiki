@@ -1,6 +1,8 @@
 ---
 title: "外国人在中国 / Foreigners in China"
 description: "Information for foreigners in China"
+slug: foreigners-in-china
+weight: 2
 ---
 
 This article describes the process for foreigners in China.
