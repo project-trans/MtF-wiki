@@ -32,6 +32,7 @@ Note: Despite what is shown in the picture, the United States does not allow gen
 You may be able to do this process remotely, or you may need to return to your home country first. In certain situations, you may also need to hire a lawyer in your home country.
 
 ## X Gender Marker
+
 Some countries issue passports with an X gender marker. Pursuant to [ICAO regulations](https://www.icao.int/sites/default/files/publications/DocSeries/9303_p7_cons_en.pdf#page=15), this is valid. However, China generally does not recognize a third gender. If you are intersex or non-binary, you will generally need to select a binary gender, but some institutions may also allow you to select X as a gender.
 
 ## Discrimination
