@@ -7,7 +7,7 @@ weight: 2
 
 This article describes the process for foreigners in China.
 
-# Change your legal gender
+## Change your legal gender
 
 In China, your legal gender is determined by the gender that is on your passport. To update derivative records, such as your residence permit or ID card, you will need to first contact the embassy or consulate of the country you live in. Then, you can update your Chinese records.
 
@@ -31,23 +31,24 @@ Note: Despite what is shown in the picture, the United States does not allow gen
 
 You may be able to do this process remotely, or you may need to return to your home country first. In certain situations, you may also need to hire a lawyer in your home country.
 
-## X Gender Marker
+### X Gender Marker
 
 Some countries issue passports with an X gender marker. Pursuant to [ICAO regulations](https://www.icao.int/sites/default/files/publications/DocSeries/9303_p7_cons_en.pdf#page=15), this is valid. However, China generally does not recognize a third gender. If you are intersex or non-binary, you will generally need to select a binary gender, but some institutions may also allow you to select X as a gender.
 
-## Discrimination
+### Discrimination
+
 Generally, China does not discriminate against transgender people. However, you may be detained, harassed, or arrested in the border control of other countries if the sex marker on your passport does not match your actual appearance. Some countries may impose punishments up to the death penalty for those who are caught being transgender. If you choose to travel outside of China, this is at your own risk. However, you will be safe in China.
 
-## Gender Segregated Institutions
+### Gender Segregated Institutions
 
 Gender segregated institutions in China use your legal gender. If you live in a country that does not allow you to update your legal gender, it would be best to avoid these. You may be able to ask for accommodations if you are unable to update your legal gender, but this is not guaranteed.
 
 If you participate in an institution for males while presenting as a female, you may run into trouble. So, it is best to avoid this.
 
-## Hong Kong, Macao, Taiwan
+### Hong Kong, Macao, Taiwan
 
 These regions of China have different processes, so you will need to contact the local authorities to determine how to change your gender.
 
-# Medical Treatment
+## Medical Treatment
 
 Once your legal gender is changed, you can see the process on the Chinese language sections for further information. These do not have English translations at the moment.
