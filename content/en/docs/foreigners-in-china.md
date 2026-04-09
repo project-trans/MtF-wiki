@@ -13,7 +13,7 @@ In China, your legal gender is determined by the gender that is on your passport
 
 Every embassy will have different rules, however, you should expect that the laws of your home country will determine what rights you have as a transgender person.
 
-Once your gender is updated on your passport, the relevant authorities should recognize your new gender on your passport.
+Once your gender is updated on your passport, the relevant authorities should recognize your new gender on your passport. Each institution will have a different process for doing this. Some institutions may have more friction than others.
 
 Below is the level of gatekeeping across different countries:
 
@@ -29,7 +29,7 @@ Below is the level of gatekeeping across different countries:
 
 Note: Despite what is shown in the picture, the United States does not allow gender identification on passports, regardless of the state you were born in. You must use your "biological" [sex at birth](https://storage.courtlistener.com/recap/gov.uscourts.mad.280559/gov.uscourts.mad.280559.140.0_1.pdf). This information is current [as of April 2026](https://travel.state.gov/content/travel/en/passports/passport-help/sex-marker.html).
 
-You may be able to do this process remotely, or you may need to return to your home country first. In certain situations, you may also need to hire a lawyer in your home country.
+You may be able to do this process remotely, or you may need to return to your home country first. In certain situations, you may also need to hire a lawyer in your home country. When you are given a replacement passport, the embassy or consulate will usually issue a linkage letter or endorsement linking your old passport to your new passport.
 
 ### X Gender Marker
 
@@ -52,3 +52,5 @@ These regions of China have different processes, so you will need to contact the
 ## Medical Treatment
 
 Once your legal gender is changed, you can see the process on the Chinese language sections for further information. These do not have English translations at the moment.
+
+China generally follows the [transmedicalism](https://en.wikipedia.org/wiki/Transmedicalism) model of transgender healthcare. However, restrictions have been lifted over time. The model of transgender healthcare used in China is heavily adapted from [WPATH Version 6](https://www.cpath.ca/wp-content/uploads/2009/12/WPATHsocv6.pdf), published in February 2001. Additional requirements have been added, such as a requirement for consent from family members before SRS surgery can begin.
