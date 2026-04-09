@@ -7,13 +7,13 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸环丙孕酮（Cyproterone Acetate，俗称“色普龙/色谱龙”）是一种常用的抗雄药物，多用于男性前列腺癌的治疗、女性因高雄激素引起的痤疮、脱发等症状治疗[^5] [^6]；现为女性化激素治疗中使用最多的抗雄药物之一[^8]。常见的商品名有 Androcur&reg;（安得卡），Siterone&reg;等。
+醋酸环丙孕酮（Cyproterone Acetate，俗称「色普龙/色谱龙」）是一种常用的抗雄药物，多用于男性前列腺癌的治疗、女性因高雄激素引起的痤疮、脱发等症状治疗[^5] [^6]；现为女性化激素治疗中使用最多的抗雄药物之一[^8]。常见的商品名有 Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup> 等。
 
-该药具有极强的孕激素作用，抑制卵巢功能[^15]，故也用于复方避孕药，如“达英-35”（*Diane-35*）。
+该药具有极强的孕激素作用，抑制卵巢功能[^15]，故也用于复方避孕药，如「达英-35」（*Diane-35*）。
 
 ## 基本信息
 
-### Androcur&reg;（安得卡）
+### Androcur<sup>&reg;</sup>（安得卡）
 
 | 地区     | 上市状态                                                     |
 |----------|--------------------------------------------------------------|
@@ -25,7 +25,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
 
-- 商品名：Androcur&reg;
+- 商品名：Androcur<sup>&reg;</sup>
 - 简称：土色、台色（在台湾销售的 Androcur）
 - 厂商：拜耳
 - 产地：土耳其
@@ -40,9 +40,9 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 {{< /notice >}}
 
-### Androcur&reg;
+### Androcur<sup>&reg;</sup>
 
-由拜尔德国分公司生产、销售的Androcur&reg;，简称德色。
+由拜尔德国分公司生产、销售的Androcur<sup>&reg;</sup>，简称德色。
 
 ```csv
 规格,10mg,50mg
@@ -56,12 +56,12 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [说明书（德文）](/documents/Androcur.pdf)
 - 说明书译文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德国版](https://tfsci.mtf.wiki/misc/androcur-de/)
 
-### Siterone&reg;
+### Siterone<sup>&reg;</sup>
 
 {{< figure src="/images/medicine/cyproterone/siterone-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/siterone-100.jpg" width="50%" >}}
 
-- 商品名：Siterone&reg;
+- 商品名：Siterone<sup>&reg;</sup>
 - 简称：新色
 - 厂商：REX
 - 产地：新西兰
@@ -69,11 +69,11 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - [上市信息](/documents/siterone.pdf)
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
 
-### 华典&reg;醋酸环丙孕酮片 {#huadian}
+### 华典<sup>&reg;</sup> 醋酸环丙孕酮片 {#huadian}
 
 ![Huadian](huadian.jpg)
 
-- 商品名：华典&reg;
+- 商品名：华典<sup>&reg;</sup>
 - 简称：国色
 - 厂商：武汉九珑人福药业有限责任公司
 - 批准文号：国药准字 H20056637
@@ -85,7 +85,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 {{< notice info >}}
 
-- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性[^1]，但并非醋酸环丙孕酮，请不要误用。
+- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性 [^1]，但并非醋酸环丙孕酮，请不要误用。
 
 [^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)\[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 
