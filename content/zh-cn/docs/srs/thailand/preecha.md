@@ -155,6 +155,10 @@ Tips:
 
 {{< expand "点击展开" >}}
 
+- 2024 年 8 月
+
+  {{< hiddenphoto "/images/srs/thailand/preecha/post-3.jpg" >}}
+
 - 2023 年 11 月（零深度）
 
   {{< hiddenphoto "/images/srs/thailand/preecha/post-1-1.webp" >}}
