@@ -9,7 +9,7 @@ This article describes the process for foreigners in China.
 
 ## Change your legal gender
 
-In China, your legal gender is determined by the gender that is on your passport. To update derivative records, such as your residence permit or ID card, you will need to first contact the embassy or consulate of the country you live in. Then, you can update your Chinese records.
+In China, your legal gender is determined by the gender that is on your passport. To update derivative records, such as your residence permit or ID card, you will need to first contact the embassy or consulate of the country you are a national of. Then, you can update your Chinese records.
 
 Every embassy will have different rules, however, you should expect that the laws of your home country will determine what rights you have as a transgender person.
 
@@ -55,4 +55,4 @@ Once your legal gender is changed, you can see the process on the Chinese langua
 
 China generally follows the [transmedicalism](https://en.wikipedia.org/wiki/Transmedicalism) model of transgender healthcare. However, restrictions have been lifted over time. The model of transgender healthcare used in China is heavily adapted from [WPATH Version 6](https://www.cpath.ca/wp-content/uploads/2009/12/WPATHsocv6.pdf), published in February 2001. Additional requirements have been added, such as a requirement for consent from family members before SRS surgery can begin.
 
-The gatekeeping requirements were mostly removed in [WPATH Version 8](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644) from September 2022. However, China has kept most of the requirements from WPATH Version 6 as of this current time.
+The gatekeeping requirements were mostly removed in [WPATH Version 8](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644) from September 2022. However, China has kept most of the requirements from WPATH Version 6 as of this current time. It is possible that China may remove gatekeeping requirements in the future to match WPATH 8.
