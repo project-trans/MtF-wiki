@@ -24,7 +24,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 
 ## 基本信息
 
-### Oestrogel&reg;（爱斯妥） {#oestrogel}
+### Oestrogel<sup>&reg;</sup>（爱斯妥） {#oestrogel}
 
 |                     中国大陆包装                     |                      国际包装（旧）                       | 国际包装（新） |
 | :----------------------------------------------: | :-------------------------------------------------: | :-: |
@@ -37,7 +37,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 | 香港 | HK-34023 |
 | 泰国 | [U1DR1C1022640000111C](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/pop-up_drug_ex.aspx?Newcode=U1DR1C1022640000111C) |
 
-- 产品名称：Oestrogel&reg;（爱斯妥）/ Gynokadin&reg; / EstroGel&reg;
+- 产品名称：Oestrogel<sup>&reg;</sup>（爱斯妥）/ Gynokadin<sup>&reg;</sup> / EstroGel<sup>&reg;</sup>
 - 有效成分：雌二醇
 - 生产企业：比利时法杏制药厂
 - 说明书：[扫描件](/images/medicine/gel/estradiol-gel.jpg) | [电子版](https://tfsci.mtf.wiki/misc/oestrogel/)
@@ -60,7 +60,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 
 在其它国家/地区可获取的凝胶包括但不限于：
 
-| **品牌** | EstroGel&reg; | Gynokadin&reg; | Oestraclin&reg; | Organon Estrogel | Estreva&reg; | Sandrena&reg; |
+| **品牌** | EstroGel<sup>&reg;</sup> | Gynokadin<sup>&reg;</sup> | Oestraclin<sup>&reg;</sup> | Organon Estrogel | Estreva<sup>&reg;</sup> | Sandrena<sup>&reg;</sup> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **样品** | ![Estrogel](/images/medicine/gel/estrogel-us-a.jpg) | ![Gynokadin](/images/medicine/gel/gynokadin-de.jpg) | ![Oestraclin](/images/medicine/gel/oestraclin-es.jpg) | ![加拿大产](/images/medicine/gel/Estrogel-Estradiol-upscaled.jpg) | ![Estreva](/images/medicine/gel/estreva-kr.jpg) | ![Sandrena](/images/medicine/gel/sandrena-uk-1mg.png) |
 | **上市地域** | 美国 | 德国 | 西班牙 | 加拿大 | 英国、法国、韩国等 | 欧盟、英国、日本等 |
@@ -87,22 +87,22 @@ description: 外用雌二醇凝胶，经皮吸收。
 - **用法：皮肤外用**，涂抹于易于吸收且方便日常活动的部位（如手臂、腹部、臀部或大腿内侧）[^1]。以上部位的吸收率大致等同[^12]。无需揉搓，药品干燥后不污染衣物。
   虽然诸说明书均推荐用于较大面积的皮肤或尽量摊薄[^1] [^2] [^5]，但文献上缺乏直接支持<sup>（例如体外研究[^10]和睾酮凝胶研究[^11]）</sup>；有体内研究表明，小面积用药后的吸收率要高于大面积（摊薄）用药，体现在雌二醇浓度峰值和累积剂量更高[^6]。
   关于用药部位之轮换，现有说明书仅提示涂于手臂，或未明确作出推荐[^1] [^2] [^5]；但据[报告](https://github.com/project-trans/MtF-wiki/pull/889)也有医师推荐轮换。无论如何，部位的选择和用药面积应以**是否易受身体活动影响、皮肤或身体是否感到舒适**为准。
-- **用量：每天 1～2 计量尺（2～4 泵），即 2.5～5 g 凝胶** [^5]。
+- **用量：每天 1～2 计量尺（2～4 泵），即 2.5～5 g 凝胶**[^5]。
   在较低剂量（约半尺或一泵）下，也可与[补佳乐]({{< ref "estradiol-valerate" >}})等口服片剂合用；此时其更多作为托底之用，可有效避免雌二醇水平回落过低。
-  资料中每日使用 1 计量尺（2.5 g），雌二醇的稳态血浆浓度**平均**为 60～80 pg/mL[^1] [^5] [^7]，实际可能稍高或略低[^8]。
+  资料中每日使用 1 计量尺（2.5 g），雌二醇的稳态血浆浓度**平均**为 60～80 pg/mL [^1] [^5] [^7]，实际可能稍高或略低[^8]。
 - **挤压方式：** 首先，确保药管开口完全打开；从计量尺卡槽一端开始缓慢且持续地挤压到卡槽另一端，使凝胶呈圆柱状饱满地铺满整个卡槽。
 
 **注意：**
 
 - **不应涂抹于粘膜。** 粘膜可能会受酒精刺激。
 - **不应涂抹于乳房周围。** {{< tag/neg "可诱发乳腺癌！" >}} [^1] [^2] [^5]
-- 凝胶含有酒精（乙醇），故有少许酒精气味；注意避开有伤口的部位使用，否则可能刺激伤口、引起阵痛。未干燥时远离明火。[^2]
+- 凝胶含有酒精（乙醇），故有少许酒精气味；注意避开有伤口的部位使用，否则可能刺激伤口、引起阵痛。未干燥时远离明火[^2]。
 - 涂抹后应待凝胶干燥再着衣，以免衣物误触[^2]。
 - 用后至少一小时避免触水，或涂抹防晒霜等化妆品，以免影响吸收[^2] [^6]。
 - 如在采血前在其周围（如上臂）涂抹过凝胶，可能导致雌二醇检测值错误偏大。
 - 如发现药物效果太强或太弱，请向医生咨询，以调整剂量。
 
-## 副作用 [^1] [^2] [^7]
+## 副作用[^1] [^2] [^7]
 
 - **静脉血栓栓塞** {{< tag/pos "远弱于口服片剂" >}}[^3]
 - 恶心、腹泻、腹痛、腹胀等胃肠道不适
@@ -120,7 +120,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 ## 成分信息
 
 - 有效成分：{{< wiki 雌二醇 >}}（{{< wiki Estradiol en >}}）
-- 吸收率：10%[^1]
+- 吸收率：10% [^1]
 - 半衰期：36.5 小时（经皮）[^7]
 - 分子式：C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>
 - 分子量：272.38
