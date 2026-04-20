@@ -1,5 +1,5 @@
 ---
-title: 大连｜刘宏
+title: 刘宏
 ---
 
 {{< doctor-image src="doctor.jpg" >}}

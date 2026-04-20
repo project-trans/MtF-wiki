@@ -1,5 +1,5 @@
 ---
-title: 北京｜唐宏宇
+title: 唐宏宇
 ---
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}

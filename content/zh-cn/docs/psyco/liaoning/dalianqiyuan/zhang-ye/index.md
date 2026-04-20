@@ -1,5 +1,5 @@
 ---
-title: 大连｜张叶
+title: 张叶
 ---
 
 {{< doctor-image src="doctor.png" >}}
