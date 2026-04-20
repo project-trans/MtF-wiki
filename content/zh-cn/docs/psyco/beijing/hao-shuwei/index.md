@@ -1,5 +1,5 @@
 ---
-title: 北京｜郝树伟
+title: 郝树伟
 ---
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}
