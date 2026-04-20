@@ -1,5 +1,5 @@
 ---
-title: 喉结整形术
+title: 喉结整形术综述
 weight: 2
 aliases:
   - ../tracheal-shave
@@ -24,7 +24,7 @@ aliases:
 省市,医院名称,主刀医生,价格,备注
 北京市,北京友谊医院,[李革临]({{< ref "li-gelin" >}}),,可同时安排声带手术，[笔记]({{< ref "li-gelin#surgery-notes" >}})
 北京市,北京大学第三医院,[潘柏林]({{< ref "pan-bailin" >}}),1.5 万元,住院一天
-上海市,上海四一一医院,[赵烨德]({{< ref "sh411-tracheal-shave" >}}),约 6 千元,不能与 SRS 合并进行
+上海市,上海四一一医院,[赵烨德]({{< ref "sh411-tracheal-shave" >}}),约 6 千元,不能与 SRS 同次手术进行
 四川省成都市,四川大学华西医院,[许学文]({{< ref "xu-xuewen" >}}),,
 北京市,中国医学科学院整形外科医院,[焦虎]({{< ref "psh-tracheal-shave" >}}),约 1 万元,
 ```
