@@ -1,5 +1,5 @@
 ---
-title: 大连｜张亮
+title: 张亮
 ---
 
 {{< doctor-image src="doctor.jpg" >}}
