@@ -1,5 +1,5 @@
 id	wikidata	category	abbr	zh-cn	zh-hant	ja	en	es	source	aliases-zh-cn	aliases-zh-hant	aliases-ja	aliases-en	aliases-es	avoid	disputed	notes
-gaht	Q5903802	hrt	GAHT	性别肯定激素治疗	性別肯定激素治療	性別肯定ホルモン療法	Gender-Affirming Hormone Therapy	Terapia Hormonal de Afirmación de Género	Gender-Affirming Hormone Therapy(GAHT)	激素替代疗法/HRT/女性化激素疗法/吃糖	激素替代療法/HRT/女性化激素療法/吃糖	HRT/ホルモン補充療法	HRT/Hormone Replacement Therapy/Feminizing Hormone Therapy	THA/HRT		激素替代疗法/激素肯定疗法	"SOC-8 推荐使用""肯定 (Affirming)""而非""替代 (Replacement)""。HRT 隐含""由于缺陷而替代""的病理意味，GAHT 强调对自我认同的肯定。但中文语境常使用 HRT"
+gaht	Q5903802	hrt	GAHT	性别肯定激素治疗	性別肯定激素治療	性別適合ホルモン療法	Gender-Affirming Hormone Therapy	Terapia Hormonal de Afirmación de Género	Gender-Affirming Hormone Therapy(GAHT)	激素替代疗法/HRT/女性化激素疗法/吃糖	激素替代療法/HRT/女性化激素療法/吃糖	HRT/ホルモン補充療法/トランスジェンダー・ホルモン療法	HRT/Hormone Replacement Therapy/Feminizing Hormone Therapy	THA/HRT		激素替代疗法/激素肯定疗法	"SOC-8 推荐使用""肯定 (Affirming)""而非""替代 (Replacement)""。HRT 隐含""由于缺陷而替代""的病理意味，GAHT 强调对自我认同的肯定。但中文语境常使用 HRT"
 transgender-woman	Q1052281	identity		跨性别女性	跨性別女性	トランスジェンダー女性	Transgender Woman	Mujer Transgénero	Transgender Woman / MtF	MtF/跨女/跨性别者	MtF/跨女/跨性別者	MtF/トランス女性	MtF/Trans Woman/Trans Femme	MtF/Mujer Trans	人妖/伪娘 (混淆/冒犯)/木桶饭		
 transgender	Q189125	identity		跨性别	跨性別	トランスジェンダー	Transgender	Transgénero	Transgender	跨儿/跨性别者	跨兒/跨性別者	トランス	Trans	Trans	变性人		
 cisgender	Q1093205	identity		顺性别	順性別	シスジェンダー	Cisgender	Cisgénero	Cisgender	顺/顺性别者	順/順性別者	シス	Cis	Cis	正常人/顺直		
@@ -28,7 +28,7 @@ spironolactone	Q422188	hrt		螺内酯	螺內酯	スピロノラクトン	Spirono
 bicalutamide	Q1988832	hrt		比卡鲁胺	比卡魯胺	ビカルタミド	Bicalutamide	Bicalutamida	Bicalutamide	康士得（商品名）	康士得（商品名）	カソデックス（商品名）	Casodex	Casodex			
 gnrh-analogues	Q3606696	hrt	GnRH	GnRH 类似物	GnRH 類似物	GnRHアナログ	GnRH Analogues	Análogos de GnRH	GnRH Analogues	阻断针	阻斷針	ホルモンブロッカー/ブロッカー	Puberty Blockers/Hormone Blockers	Bloqueadores de pubertad			
 dexamethasone	Q422252	hrt		地塞米松	地塞米松	デキサメタゾン	Dexamethasone	Dexametasona	Dexamethasone						激素		
-gas	Q1053501	surgery	GAS	性别肯定手术	性別肯定手術	性別肯定手術	Gender Affirmation Surgery	Cirugía de Afirmación de Género	Gender Affirmation Surgery (GAS)	性别重置手术/SRS/性别确认手术/GCS	性別重置手術/SRS/性別確認手術/GCS	性別適合手術/SRS/GCS	SRS/GCS/Sex Reassignment Surgery/Gender Confirmation Surgery	CRS/Cirugía de Reasignación Sexual	变性手术/切除手术	性别重置手术 (SRS)	SOC-8 推荐用语
+gas	Q1053501	surgery	GAS	性别肯定手术	性別肯定手術	性別適合手術	Gender Affirmation Surgery	Cirugía de Afirmación de Género	Gender Affirmation Surgery (GAS)	性别重置手术/SRS/性别确认手术/GCS	性別重置手術/SRS/性別確認手術/GCS	SRS/GCS	SRS/GCS/Sex Reassignment Surgery/Gender Confirmation Surgery	CRS/Cirugía de Reasignación Sexual	变性手术/切除手术	性别重置手术 (SRS)	SOC-8 推荐用语
 genital-surgery		surgery		生殖器手术	生殖器手術	性器手術	Genital Surgery	Cirugía Genital	Genital surgery	生殖器性别重置手术/SRS	生殖器性別重置手術/SRS	SRS	SRS/Sex Reassignment Surgery	SRS		可以使用 SRS 特指生殖器手术吗？	中文语境常使用 SRS 特指
 vaginoplasty	Q1537534	surgery		阴道成形术	陰道成形術	腟形成術	Vaginoplasty	Vaginoplastia	Vaginoplasty	阴道造口术/SRS/造穴/下体手术	陰道造口術/SRS/造穴/下體手術	SRS/腟形成	Bottom Surgery/SRS	Cirugía de fondo/SRS	阴道成型术		
 vulvoplasty	Q111593131	surgery		外阴成形术	外陰成形術	外陰部形成術	Vulvoplasty	Vulvoplastia	Vulvoplasty	浅层阴道成形术/零深度	淺層陰道成形術/零深度		Zero-depth Vaginoplasty			零深度阴道成形术（Zero-depth Vaginoplasty）	
@@ -56,10 +56,10 @@ voice-training	Q106776480	voice	VT	嗓音训练	嗓音訓練	音声訓練	Voice 
 vocal-pitch		voice		嗓音音高	嗓音音高	音声ピッチ	Vocal Pitch	Tono Vocal	Vocal Pitch	音高/声带音高	音高/聲帶音高	ピッチ	Pitch	Tono			
 resonance		voice		共鸣	共鳴	共鳴	Resonance	Resonancia	Resonance	腔体共鸣	腔體共鳴						
 cisgender-woman	Q15145779	identity		顺性别女性	順性別女性	シスジェンダー女性	Cisgender Woman	Mujer Cisgénero	Cisgender Woman	顺女	順女	シス女性	Cis Woman	Mujer Cis			
-terf	Q55961209	social	TERF	排跨激进女权主义者	排跨激進女權主義者	トランス排除的急進フェミニスト	TERF	TERF	TERF	排除跨性别的激进女权	排除跨性別的激進女權				田园女权		
+terf	Q55961209	social	TERF	排跨激进女权主义者	排跨激進女權主義者	トランス排除的ラディカルフェミニスト	TERF	TERF	TERF	排除跨性别的激进女权	排除跨性別的激進女權				田园女权		
 detransition	Q25396757	social		逆性别过渡	逆性別過渡	デトランジション	Detransition	Detransición	Detransition	脱跨/停止转变/悔跨	脫跨/停止轉變/悔跨	デトランス	Detrans	Detransición			指停止或逆转性别过渡的过程
 gatekeeping		medical		守门	守門	ゲートキーピング	Gatekeeping	Control de Acceso	Gatekeeping	守门机制	守門機制					把关	"指医疗或心理专业人员设立高门槛（如长时间的RLE、复杂的证明），限制跨性别者获取医疗资源的行为。WPATH SOC-8 致力于减少此现象，推行""知情同意模式""。"
-trans-broken-arm		medical		跨性别断臂综合征	跨性別斷臂綜合征	トランス骨折腕症候群	Trans Broken Arm Syndrome	Síndrome del Brazo Roto Trans	Trans Broken Arm Syndrome								指医疗人员将跨性别者的所有健康问题不加分辨地归咎于激素治疗的偏见。
+trans-broken-arm		medical		跨性别断臂综合征	跨性別斷臂綜合征		Trans Broken Arm Syndrome	Síndrome del Brazo Roto Trans	Trans Broken Arm Syndrome								指医疗人员将跨性别者的所有健康问题不加分辨地归咎于激素治疗的偏见。
 self-acceptance	Q2267564	social		自我接纳	自我接納	自己受容	Self-acceptance	Autoaceptación	Self-acceptance	和解	和解						
 estradiol-monotherapy		hrt		单用雌激素	單用雌激素	エストラジオール単独療法	Estradiol Monotherapy	Monoterapia con Estradiol	Estradiol Monotherapy	单日雌	單日雌						
 thromboembolism	Q891391	lab	VTE	血栓栓塞	血栓栓塞	血栓塞栓症	Thromboembolism	Tromboembolismo	Thromboembolism	血栓	血栓		Blood Clot	Trombosis			
@@ -72,20 +72,20 @@ coming-out	Q208099	social	CO	出柜	出櫃	カミングアウト	Coming Out	Sali
 force-outing	Q1054678	social		踹柜门	踹櫃門	アウティング	Force Outing	Outing Forzado	Force Outing				Outing	Outing			
 closeted	Q2574320	social		深柜	深櫃	クローゼット	In the Closet	En el Clóset	In the Closet					En el armario	脱圈		
 stealth		social		隐形	隱形	ステルス	Stealth	Modo Sigiloso	Stealth	隐身/融入	隱身/融入						"指完全以目标性别生活，且不向周围人透露跨性别历史的状态。区别于""深柜""。"
-genetically-gifted		misc		天赋党	天賦黨	天賦党	Genetically Gifted	Genéticamente Dotado	Genetically Gifted								不建议使用
-supportive-family		misc		家长党	家長黨	家族支持派	Supportive Family	Familia de Apoyo	Supportive Family								不建议使用
-natural-disability		misc		天残党	天殘黨	天障派	Natural Disability Faction	Facción de Discapacidad Natural	Natural Disability Faction								不建议使用
+genetically-gifted		misc		天赋党	天賦黨		Genetically Gifted	Genéticamente Dotado	Genetically Gifted								不建议使用
+supportive-family		misc		家长党	家長黨		Supportive Family	Familia de Apoyo	Supportive Family								不建议使用
+natural-disability		misc		天残党	天殘黨		Natural Disability Faction	Facción de Discapacidad Natural	Natural Disability Faction								不建议使用
 diy-hrt		social	DIY	自行激素治疗	自行激素治療	自己投薬	DIY HRT	HRT Casero	DIY HRT	自行用药	自行用藥	フラホル/自己判断で服薬	Self-medication/DIY Hormones	Automedicación			
 diy-trans		social		药娘	藥娘		DIY trans	Trans DIY	DIY trans	DIY 用药者	DIY 用藥者						
-conversion-therapy	Q1538947	social		扭转治疗	扭轉治療	転換療法	Conversion Therapy	Terapia de Conversión	Conversion Therapy	矫正治疗	矯正治療	修復療法	Reparative Therapy/Ex-Gay Therapy	Terapia reparadora	修复疗法		
-internet-addiction-treatment	Q131349256	social		戒网瘾机构	戒網癮機構	インターネット依存症治療施設	Internet Addiction Treatment Institutions	Instituciones de Tratamiento de Adicción a Internet	Internet addiction treatment institutions	戒网瘾学校/特训学校	戒網癮學校/特訓學校						
+conversion-therapy	Q1538947	social		扭转治疗	扭轉治療	転向療法	Conversion Therapy	Terapia de Conversión	Conversion Therapy	矫正治疗	矯正治療	修復療法	Reparative Therapy/Ex-Gay Therapy	Terapia reparadora	修复疗法		
+internet-addiction-treatment	Q131349256	social		戒网瘾机构	戒網癮機構		Internet Addiction Treatment Institutions	Instituciones de Tratamiento de Adicción a Internet	Internet addiction treatment institutions	戒网瘾学校/特训学校	戒網癮學校/特訓學校						
 deadnaming	Q97107245	social		弃名错称	棄名錯稱	デッドネーミング	Deadnaming	Deadnaming	Deadnaming	叫原名	叫原名/舊名						指称呼跨性别者曾用过但已废弃的名字（通常是出生名）。
 misgendering	Q64737957	social		性别错称	性別錯稱	ミスジェンダリング	Misgendering	Misgendering	Misgendering	叫错性别/错称	叫錯性別/錯稱						
 clocking		social		被识破	被識破	クロッキング	Clocking	Ser Detectado	Clocking	被认出/被看穿	被認出/被看穿	バレる	Being Read	Ser leído			
 chaser	Q12972108	social		跨儿迷	跨兒迷	チェイサー	Chaser	Chaser	Chaser	跨女迷/追逐者	跨女迷/追逐者		Trans Chaser				
 employment-discrimination	Q2606784	legal		就业歧视	就業歧視	雇用差別	Employment Discrimination	Discriminación Laboral	Employment Discrimination								
 bathroom-access		legal		卫生间使用权	衛生間使用權	トイレ使用権	Bathroom Access Rights	Derechos de Acceso al Baño	Bathroom access rights								
-identity-document-mismatch		legal		人证不符	人證不符	身分証明書不一致	Identity Document Mismatch	Discrepancia de Documentos de Identidad	Identity Document Mismatch								
+identity-document-mismatch		legal		人证不符	人證不符		Identity Document Mismatch	Discrepancia de Documentos de Identidad	Identity Document Mismatch								
 afab	Q56315990	identity	AFAB	出生时指派女性	出生時指派女性	出生時に女性と割り当てられた者	Assigned Female at Birth	Asignada mujer al nacer	Assigned Female at Birth (AFAB)	指派女性	指派女性						出生时性别被医生指派为女性，不论其性别认同
 amab	Q25388691	identity	AMAB	出生时指派男性	出生時指派男性	出生時に男性と割り当てられた者	Assigned Male at Birth	Asignado hombre al nacer	Assigned Male at Birth (AMAB)	指派男性	指派男性						出生时性别被医生指派为男性，不论其性别认同
 estrogen	Q277954	hrt		雌激素	雌激素	エストロゲン	Estrogen	Estrógeno	Estrogen	雌性激素/雌激素类	雌性激素/雌激素類	卵胞ホルモン	Estrogens	Estrógenos			激素治疗语境中常用于统称雌二醇及其他雌激素类药物。
