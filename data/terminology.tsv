@@ -2,15 +2,15 @@ id	wikidata	category	abbr	zh-cn	zh-hant	ja	en	es	source	aliases-zh-cn	aliases-zh
 gaht		hrt	GAHT	性别肯定激素治疗	性別肯定激素治療	性別肯定ホルモン療法	Gender-Affirming Hormone Therapy	Terapia Hormonal de Afirmación de Género	Gender-Affirming Hormone Therapy(GAHT)	激素替代疗法（HRT)/HRT/女性化激素疗法/吃糖	激素替代療法（HRT)/HRT/女性化激素療法/吃糖	HRT/ホルモン補充療法	HRT/Hormone Replacement Therapy/Feminizing Hormone Therapy	THA/HRT		激素替代疗法/激素肯定疗法	"SOC-8 推荐使用""肯定 (Affirming)""而非""替代 (Replacement)""。HRT 隐含""由于缺陷而替代""的病理意味，GAHT 强调对自我认同的肯定。但中文语境常使用 HRT"
 transgender-woman	Q1052281	identity		跨性别女性	跨性別女性	トランスジェンダー女性	Transgender Woman	Mujer Transgénero	Transgender Woman / MtF	MtF/跨女/跨性别者/药娘	MtF/跨女/跨性別者/藥娘	MtF/トランス女性/トランスジェンダー女性	MtF/Trans Woman/Trans Femme	MtF/Mujer Trans	人妖/伪娘 (混淆/冒犯)/木桶饭		
 transgender	Q189125	identity		跨性别	跨性別	トランスジェンダー	Transgender	Transgénero	Transgender	跨儿/跨性别者	跨兒/跨性別者	トランス	Trans	Trans	变性人		
-cisgender	Q1093205	identity		顺性别	順性別	シスジェンダー	Cisgender	Cisgénero	Cisgender	Cis/顺/顺性别者	Cis/順/順性別者	シス/Cis	Cis	Cis	正常人/顺直		
+cisgender	Q1093205	identity		顺性别	順性別	シスジェンダー	Cisgender	Cisgénero	Cisgender	顺/顺性别者	順/順性別者	シスジェンダー	Cis	Cis	正常人/顺直		
 cross-dresser	Q431604	identity	CD	异装者	異裝者	異性装者	Cross-dresser	Travesti	Cross-dresser (CD)	变装者	變裝者	女装者			易装癖/伪娘		将女装视为「异装」
 transsexualism	Q190965	identity		易性症	易性症	性転換症	Transsexualism	Transexualismo	Transsexualism								过时的病理化标签，但在当前中国法律框架下仍使用，使用时需注明
 gender-dysphoria	Q1049021	identity		性别不安	性別不安	性別違和	Gender Dysphoria	Disforia de Género	Gender Dysphoria	性别焦虑/性别烦躁/性别拧巴	性別焦慮/性別煩躁	性別違和感/性同一性障害/ジェンダーディスフォリア	GD	DG	性别认同障碍	性别焦虑（在特定语境可以使用？）	ICD-11已更新为性别不一致，但在描述心理痛苦时仍常使用性别焦虑
 gender-incongruence	Q56314793	identity		性别不一致	性別不一致	性別不合	Gender Incongruence	Incongruencia de Género	Gender Incongruence	异性症/异性癖	異性症/異性癖	性同一性障害	GI			性别不合	ICD-11 诊断标准名称，去病化
 assigned-gender		identity		指派性别	指派性別	指定性別	Assigned Gender	Género Asignado	Assigned Gender/Assigned Sex at Birth			AGAB	AGAB/AFAB/AMAB	GAN	生理性别/原生性别/出生性别		
-mtf-wiki		misc		本站	本站	本サイト	This site	Este sitio	MtF.wiki	本wiki/wiki	本wiki/wiki	本wiki/wiki	wiki	wiki	本wiki/wiki	我们	统一指代 MtF.wiki 网站本身
+mtf-wiki		misc		本站	本站	本サイト	This site	Este sitio	MtF.wiki						本wiki/wiki	我们	统一指代 MtF.wiki 网站本身
 non-binary	Q48270	identity	NB	非二元性别	非二元性別	ノンバイナリー	Non-binary	No binario	Non-binary	非二元/MtX/FtX/性别酷儿/酷儿/X-gender	非二元/MtX/FtX/性別酷兒/酷兒/X-gender	Xジェンダー/ノンバイナリー	Enby	No binario			
-passing		social		过关	過關	パッシング	Passing	Pasar	Pass/Passing	Pass/顺眼/融入/过关/通过	Pass/順眼/融入/過關/通過	パス	Pass			怎么翻译	
+passing		social		过关	過關	パッシング	Passing	Pasar	Pass/Passing	顺眼/融入/过关/通过	順眼/融入/過關/通過	パス	Pass			怎么翻译	
 ymmv		misc		效果因人而异	效果因人而異	個人差あり	Your Mileage May Vary	Los Resultados Varían	Your Mileage May Vary (YMMV)	体质差异/个体差异	體質差異/個體差異	個人差	YMMV				
 estradiol-gel		hrt		雌二醇凝胶	雌二醇凝膠	エストラジオールゲル	Estradiol Gel	Gel de Estradiol	Estradiol Gel	爱斯妥（商品名）/健民（商品名）/凝胶	愛斯妥（商品名）/健民（商品名）/凝膠	エストロジェル/Oestrogel	Oestrogel/EstroGel	Oestrogel			
 estradiol-valerate-injection		hrt		戊酸雌二醇注射液	戊酸雌二醇注射液	吉草酸エストラジオール注射液	Estradiol Valerate Injection	Inyección de Valerato de Estradiol	Estradiol Valerate Injection	日雌/针剂/富士日雌	日雌/針劑/富士日雌	プロギノン・デポー	Progynon Depot				
@@ -55,7 +55,7 @@ rle		medical	RLE	实际生活体验	實際生活體驗	実生活体験	Real Life
 voice-training		voice		嗓音训练	嗓音訓練	音声訓練	Voice Training	Entrenamiento de Voz	Voice Training	伪声	偽聲	ボイトレ	VT/Voice Feminization Training	Entrenamiento vocal			
 vocal-pitch		voice		嗓音音高	嗓音音高	音声ピッチ	Vocal Pitch	Tono Vocal	Vocal Pitch	音高/声带音高	音高/聲帶音高	ピッチ	Pitch	Tono			
 resonance		voice		共鸣	共鳴	共鳴	Resonance	Resonancia	Resonance	腔体共鸣	腔體共鳴						
-cisgender-woman		identity		顺性别女性	順性別女性	シスジェンダー女性	Cisgender Woman	Mujer Cisgénero	Cisgender Woman	Cis女/顺女	Cis女/順女	シス女性	Cis Woman	Mujer Cis			
+cisgender-woman		identity		顺性别女性	順性別女性	シスジェンダー女性	Cisgender Woman	Mujer Cisgénero	Cisgender Woman	顺女	順女	シス女性	Cis Woman	Mujer Cis			
 terf		social	TERF	排跨激进女权主义者	排跨激進女權主義者	トランス排除的急進フェミニスト	TERF	TERF	TERF	排除跨性别的激进女权	排除跨性別的激進女權				田园女权		
 detransition	Q25396757	social		逆性别过渡	逆性別過渡	デトランジション	Detransition	Detransición	Detransition	脱跨/停止转变/悔跨	脫跨/停止轉變/悔跨	デトランス	Detrans	Detransición			指停止或逆转性别过渡的过程
 gatekeeping		medical		守门	守門	ゲートキーピング	Gatekeeping	Control de Acceso	Gatekeeping	守门机制	守門機制					把关	"指医疗或心理专业人员设立高门槛（如长时间的RLE、复杂的证明），限制跨性别者获取医疗资源的行为。WPATH SOC-8 致力于减少此现象，推行""知情同意模式""。"
@@ -75,7 +75,7 @@ stealth		social		隐形	隱形	ステルス	Stealth	Modo Sigiloso	Stealth	隐身
 genetically-gifted		misc		天赋党	天賦黨	天賦党	Genetically Gifted	Genéticamente Dotado	Genetically Gifted								不建议使用
 supportive-family		misc		家长党	家長黨	家族支持派	Supportive Family	Familia de Apoyo	Supportive Family								不建议使用
 natural-disability		misc		天残党	天殘黨	天障派	Natural Disability Faction	Facción de Discapacidad Natural	Natural Disability Faction								不建议使用
-diy-hrt		social	DIY	自行激素治疗	自行激素治療	自己投薬	DIY HRT	HRT Casero	DIY HRT	自行用药	自行用藥	自己投薬	Self-medication/DIY Hormones	Automedicación			
+diy-hrt		social	DIY	自行激素治疗	自行激素治療	自己投薬	DIY HRT	HRT Casero	DIY HRT	自行用药	自行用藥	フラホル/自己判断で服薬	Self-medication/DIY Hormones	Automedicación			
 diy-trans		social		药娘	藥娘	薬娘	DIY trans	Trans DIY	DIY trans	DIY 用药者	DIY 用藥者						
 conversion-therapy	Q1538947	social		扭转治疗	扭轉治療	転換療法	Conversion Therapy	Terapia de Conversión	Conversion Therapy	矫正治疗	矯正治療	修復療法	Reparative Therapy/Ex-Gay Therapy	Terapia reparadora	修复疗法		
 internet-addiction-treatment	Q131349256	social		戒网瘾机构	戒網癮機構	インターネット依存症治療施設	Internet Addiction Treatment Institutions	Instituciones de Tratamiento de Adicción a Internet	Internet addiction treatment institutions	戒网瘾学校/特训学校	戒網癮學校/特訓學校						
