@@ -1,6 +1,6 @@
 ---
 title: "MtF.wiki について"
-description: "MtF.wiki は、トランス関連の医療と生活情報を得られる、無料でオープンな、継続的に更新される知識統合サイトを目指しています。"
+description: "MtF.wiki は、無料でオープン、かつ継続的に更新されるトランス女性の知識統合サイトを目指しています。"
 weight: 0
 hidden-timeliness: true
 ---
@@ -9,7 +9,7 @@ hidden-timeliness: true
 
 <img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
-{{< project-trans >}} が運営する {{< mtf-wiki >}} は、トランス関連の医療と生活情報を得られる、無料でオープンな、継続的に更新される知識統合サイトを目指しています。
+{{< mtf-wiki >}} は {{< project-trans >}} によって運営され、無料でオープン、かつ継続的に更新されるトランス女性の知識統合サイトを目指しています。
 
 <i class="bi bi-github" aria-label="GitHub"></i> 私たちのGitHubリポジトリ [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
@@ -21,9 +21,9 @@ hidden-timeliness: true
 
 {{< github/contributors >}}
 
-情報提供やサポートをしてくださる皆さまにも感謝します。
+情報提供やサポートをいただいた、ほかの素敵な方々にも感謝します。
 
-参加したい場合はご連絡ください！
+参加したい方は、ぜひご連絡ください～！
 
 ## 連絡先
 
@@ -35,7 +35,7 @@ Twitter {{< shields/twitter MtFwikiJapan >}}
 
 ## 感謝
 
-日本語版の作成にあたって特に感謝します <http://wasadasan.com/voice2/hormon-byouin/>
+日本語版の作成にあたっては、特に <http://wasadasan.com/voice2/hormon-byouin/> に感謝します。
 
 執筆の過程で多くの資料を参考にしました。資料の作者様にも感謝いたします。
 
