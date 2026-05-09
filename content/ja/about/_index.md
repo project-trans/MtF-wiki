@@ -1,6 +1,6 @@
 ---
 title: "MtF.wiki について"
-description: "MtF.wiki は、無料でオープン、かつ継続的に更新されるトランス女性の知識統合サイトを目指しています。"
+description: "MtF.wikiは、無料でオープン、かつ継続的に更新されるトランス女性の知識統合サイトを目指しています。"
 weight: 0
 hidden-timeliness: true
 ---
@@ -9,15 +9,15 @@ hidden-timeliness: true
 
 <img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
-{{< mtf-wiki >}} は {{< project-trans >}} によって運営され、無料でオープン、かつ継続的に更新される、トランス女性のための知識統合サイトを目指しています。
+{{< mtf-wiki >}}は{{< project-trans >}}によって運営され、無料でオープン、かつ継続的に更新される、トランス女性のための知識統合サイトを目指しています。
 
-<i class="bi bi-github" aria-label="GitHub"></i> 私たちのGitHubリポジトリ [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
+<i class="bi bi-github" aria-label="GitHub"></i>私たちのGitHubリポジトリ[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> 私たちのホームページ <https://MtF.wiki>
+<i class="bi bi-link-45deg" aria-label="Website"></i>私たちのホームページ<https://MtF.wiki>
 
-関連ウィキとして、男性への性別移行ウィキ <https://FtM.wiki> があります。
+関連ウィキとして、男性への性別移行ウィキ<https://FtM.wiki>があります。
 
-以下の GitHub 貢献者の皆さまに感謝します。
+以下のGitHub貢献者の皆さまに感謝します。
 
 {{< github/contributors >}}
 
@@ -35,7 +35,7 @@ Twitter {{< shields/twitter MtFwikiJapan >}}
 
 ## 謝辞
 
-日本語版の作成にあたっては、特に <http://wasadasan.com/voice2/hormon-byouin/> を参考にしました。
+日本語版の作成にあたっては、特に<http://wasadasan.com/voice2/hormon-byouin/>を参考にしました。
 
 執筆の過程で多くの資料を参考にしました。資料の作者様にも感謝いたします。
 
