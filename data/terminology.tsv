@@ -88,4 +88,21 @@ bathroom-access		legal		卫生间使用权	衛生間使用權	トイレ使用権
 identity-document-mismatch		legal		人证不符	人證不符	身分証明書不一致	Identity Document Mismatch	Discrepancia de Documentos de Identidad	Identity Document Mismatch								
 afab	Q56315990	identity	AFAB	出生时指派女性	出生時指派女性	出生時に女性と割り当てられた者	Assigned Female at Birth	Asignada mujer al nacer	Assigned Female at Birth (AFAB)	指派女性	指派女性						出生时性别被医生指派为女性，不论其性别认同
 amab	Q25388691	identity	AMAB	出生时指派男性	出生時指派男性	出生時に男性と割り当てられた者	Assigned Male at Birth	Asignado hombre al nacer	Assigned Male at Birth (AMAB)	指派男性	指派男性						出生时性别被医生指派为男性，不论其性别认同
-
+estrogen	Q39147	hrt		雌激素	雌激素	エストロゲン	Estrogen	Estrógeno	Estrogen	雌性激素/雌激素类	雌性激素/雌激素類	卵胞ホルモン	Estrogens	Estrógenos			激素治疗语境中常用于统称雌二醇及其他雌激素类药物。
+antiandrogen	Q415178	hrt	AA	抗雄激素	抗雄激素	抗アンドロゲン薬	Antiandrogen	Antiandrógeno	Antiandrogen	雄激素拮抗剂/雄激素受体拮抗剂/抗雄	雄激素拮抗劑/雄激素受體拮抗劑/抗雄	アンチアンドロゲン	Androgen Blocker/Androgen Receptor Antagonist	Bloqueador de andrógenos			用于降低雄激素作用的药物类别。
+sex-hormone	Q827326	hrt		性激素	性激素	性ホルモン	Sex Hormone	Hormona Sexual	Sex Hormone	性腺激素	性腺激素		Gonadal Hormone	Hormona gonadal			包括雌激素、孕激素和雄激素等。
+puberty-blocker	Q7257264	hrt		青春期阻断剂	青春期阻斷劑	思春期ブロッカー	Puberty Blocker	Bloqueador de la Pubertad	Puberty Blocker	青春期阻滞剂/阻断针	青春期阻滯劑/阻斷針	ホルモンブロッカー	Puberty Suppressor/Hormone Blocker	Bloqueador hormonal			临床上常使用 GnRH 类似物实现青春期抑制。
+endocrinology	Q162555	medical		内分泌科	內分泌科	内分泌科	Endocrinology	Endocrinología	Endocrinology	内分泌门诊	內分泌門診		Endocrinology Department	Departamento de endocrinología			激素治疗就诊和随访常见科室。
+diagnosis-certificate		legal		诊断证明	診斷證明	診断書	Diagnosis Certificate	Certificado Diagnóstico	Diagnosis Certificate	诊断证明书/开证	診斷證明書/開證		Medical Certificate	Certificado médico			中文语境常用于指就医、手术或证件变更所需的诊断类证明材料。
+hyperkalemia	Q1132653	lab		高钾血症	高鉀血症	高カリウム血症	Hyperkalemia	Hiperpotasemia	Hyperkalemia	高血钾	高血鉀		High Potassium	Potasio alto			螺内酯等保钾药物相关的重要安全风险。
+breast-development		hrt		乳房发育	乳房發育	乳房発育	Breast Development	Desarrollo Mamario	Breast Development	乳腺发育	乳腺發育		Breast Growth	Desarrollo de senos			女性化激素治疗的常见预期效果之一。
+breast-cancer	Q128581	medical		乳腺癌	乳癌	乳癌	Breast Cancer	Cáncer de Mama	Breast Cancer	乳癌	乳腺癌						激素治疗风险评估和常规筛查中常见术语。
+hair-loss	Q189331	medical		脱发	脫髮	脱毛症	Hair Loss	Pérdida de Cabello	Hair Loss	掉发/雄激素性脱发	掉髮/雄激素性脫髮	薄毛	Alopecia	Alopecia			常见于头发护理、FFS 和抗雄激素相关讨论。
+finasteride	Q422212	medical		非那雄胺	非那雄胺	フィナステリド	Finasteride	Finasterida	Finasteride	保法止	保法止	プロペシア	Propecia	Propecia			用于雄激素性脱发等场景的 5α-还原酶抑制剂。
+minoxidil	Q209450	medical		米诺地尔	米諾地爾	ミノキシジル	Minoxidil	Minoxidil	Minoxidil	蔓迪/达霏欣	蔓迪/達霏欣	リアップ	Rogaine/Regaine	Rogaine			常用于脱发治疗的外用或口服药物。
+urethra	Q193997	surgery		尿道	尿道	尿道	Urethra	Uretra	Urethra								生殖器手术和术后护理中常见解剖术语。
+clitoris	Q1068962	surgery		阴蒂	陰蒂	陰核	Clitoris	Clítoris	Clitoris			クリトリス					生殖器手术和性健康语境中的解剖术语。
+labia	Q174358	surgery		阴唇	陰唇	陰唇	Labia	Labios Vulvares	Labia	外阴唇/小阴唇/大阴唇	外陰唇/小陰唇/大陰唇		Vulvar Labia	Labios vulvares			生殖器手术结果、护理和解剖说明中常见术语。
+prostate	Q19527	medical		前列腺	前列腺	前立腺	Prostate	Próstata	Prostate								跨女性健康、泌尿系统和生殖器手术说明中常见术语。
+vocal-folds	Q1765781	voice		声带	聲帶	声帯	Vocal Folds	Cuerdas Vocales	Vocal Folds	声带/声襞	聲帶/聲襞		Vocal Cords	Cuerdas vocales			嗓音训练和嗓音女性化手术中的核心解剖术语。
+fundamental-frequency	Q836020	voice	F0	基频	基頻	基本周波数	Fundamental Frequency	Frecuencia Fundamental	Fundamental Frequency (F0)	基础频率	基礎頻率		F0	F0			嗓音训练中用于描述声带振动频率，常与音高相关。
