@@ -72,9 +72,9 @@ coming-out	Q208099	social	CO	出柜	出櫃	カミングアウト	Coming Out	Sali
 force-outing	Q1054678	social		踹柜门	踹櫃門	アウティング	Force Outing	Outing Forzado	Force Outing				Outing	Outing			
 closeted	Q2574320	social		深柜	深櫃	クローゼット	In the Closet	En el Clóset	In the Closet					En el armario	脱圈		
 stealth		social		隐形	隱形	ステルス	Stealth	Modo Sigiloso	Stealth	隐身/融入	隱身/融入						"指完全以目标性别生活，且不向周围人透露跨性别历史的状态。区别于""深柜""。"
-genetically-gifted		misc		天赋党	天賦黨		Genetically Gifted	Genéticamente Dotado	Genetically Gifted								不建议使用
-supportive-family		misc		家长党	家長黨		Supportive Family	Familia de Apoyo	Supportive Family								不建议使用
-natural-disability		misc		天残党	天殘黨		Natural Disability Faction	Facción de Discapacidad Natural	Natural Disability Faction								不建议使用
+genetically-gifted		misc		天赋党	天賦黨												不建议使用
+supportive-family		misc		家长党	家長黨												不建议使用
+natural-disability		misc		天残党	天殘黨												不建议使用
 diy-hrt		social	DIY	自行激素治疗	自行激素治療	自己投薬	DIY HRT	HRT Casero	DIY HRT	自行用药	自行用藥	フラホル/自己判断で服薬	Self-medication/DIY Hormones	Automedicación			
 diy-trans		social		药娘	藥娘		DIY trans	Trans DIY	DIY trans	DIY 用药者	DIY 用藥者						
 conversion-therapy	Q1538947	social		扭转治疗	扭轉治療	転向療法	Conversion Therapy	Terapia de Conversión	Conversion Therapy	矫正治疗	矯正治療	修復療法	Reparative Therapy/Ex-Gay Therapy	Terapia reparadora	修复疗法		
