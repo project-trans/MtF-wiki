@@ -1,26 +1,26 @@
 id	wikidata	category	abbr	zh-cn	zh-hant	ja	en	es	source	aliases-zh-cn	aliases-zh-hant	aliases-ja	aliases-en	aliases-es	avoid	disputed	notes
-gaht		hrt	GAHT	性别肯定激素治疗	性別肯定激素治療	性別肯定ホルモン療法	Gender-Affirming Hormone Therapy	Terapia Hormonal de Afirmación de Género	Gender-Affirming Hormone Therapy(GAHT)	激素替代疗法（HRT)/HRT/女性化激素疗法/吃糖	激素替代療法（HRT)/HRT/女性化激素療法/吃糖	HRT/ホルモン補充療法	HRT/Hormone Replacement Therapy/Feminizing Hormone Therapy	THA/HRT		激素替代疗法/激素肯定疗法	"SOC-8 推荐使用""肯定 (Affirming)""而非""替代 (Replacement)""。HRT 隐含""由于缺陷而替代""的病理意味，GAHT 强调对自我认同的肯定。但中文语境常使用 HRT"
+gaht	Q5903802	hrt	GAHT	性别肯定激素治疗	性別肯定激素治療	性別肯定ホルモン療法	Gender-Affirming Hormone Therapy	Terapia Hormonal de Afirmación de Género	Gender-Affirming Hormone Therapy(GAHT)	激素替代疗法/HRT/女性化激素疗法/吃糖	激素替代療法/HRT/女性化激素療法/吃糖	HRT/ホルモン補充療法	HRT/Hormone Replacement Therapy/Feminizing Hormone Therapy	THA/HRT		激素替代疗法/激素肯定疗法	"SOC-8 推荐使用""肯定 (Affirming)""而非""替代 (Replacement)""。HRT 隐含""由于缺陷而替代""的病理意味，GAHT 强调对自我认同的肯定。但中文语境常使用 HRT"
 transgender-woman	Q1052281	identity		跨性别女性	跨性別女性	トランスジェンダー女性	Transgender Woman	Mujer Transgénero	Transgender Woman / MtF	MtF/跨女/跨性别者	MtF/跨女/跨性別者	MtF/トランス女性	MtF/Trans Woman/Trans Femme	MtF/Mujer Trans	人妖/伪娘 (混淆/冒犯)/木桶饭		
 transgender	Q189125	identity		跨性别	跨性別	トランスジェンダー	Transgender	Transgénero	Transgender	跨儿/跨性别者	跨兒/跨性別者	トランス	Trans	Trans	变性人		
 cisgender	Q1093205	identity		顺性别	順性別	シスジェンダー	Cisgender	Cisgénero	Cisgender	顺/顺性别者	順/順性別者	シス	Cis	Cis	正常人/顺直		
 cross-dresser	Q431604	identity	CD	异装者	異裝者	異性装者	Cross-dresser	Travesti	Cross-dresser (CD)	变装者	變裝者	女装者			易装癖/伪娘		将女装视为「异装」
 transsexualism	Q190965	identity		易性症	易性症	性転換症	Transsexualism	Transexualismo	Transsexualism								过时的病理化标签，但在当前中国法律框架下仍使用，使用时需注明
-gender-dysphoria	Q1049021	identity		性别不安	性別不安	性別違和	Gender Dysphoria	Disforia de Género	Gender Dysphoria	性别焦虑/性别烦躁/性别拧巴	性別焦慮/性別煩躁	性別違和感/性同一性障害/ジェンダーディスフォリア	GD	DG	性别认同障碍	性别焦虑（在特定语境可以使用？）	ICD-11已更新为性别不一致，但在描述心理痛苦时仍常使用性别焦虑
-gender-incongruence	Q56314793	identity		性别不一致	性別不一致	性別不合	Gender Incongruence	Incongruencia de Género	Gender Incongruence	异性症/异性癖	異性症/異性癖		GI			性别不合	ICD-11 诊断标准名称，去病化
-assigned-gender		identity		指派性别	指派性別	指定性別	Assigned Gender	Género Asignado	Assigned Gender/Assigned Sex at Birth			AGAB	AGAB	GAN	生理性别/原生性别/出生性别		
+gender-dysphoria	Q1049021	identity	GD	性别不安	性別不安	性別違和	Gender Dysphoria	Disforia de Género	Gender Dysphoria	性别焦虑/性别烦躁/性别拧巴	性別焦慮/性別煩躁	性別違和感/性同一性障害/ジェンダーディスフォリア		DG	性别认同障碍	性别焦虑（在特定语境可以使用？）	ICD-11已更新为性别不一致，但在描述心理痛苦时仍常使用性别焦虑
+gender-incongruence	Q56314793	identity	GI	性别不一致	性別不一致	性別不合	Gender Incongruence	Incongruencia de Género	Gender Incongruence	异性症/异性癖	異性症/異性癖					性别不合	ICD-11 诊断标准名称，去病化
+assigned-gender		identity	AGAB	指派性别	指派性別	指定性別	Assigned Gender	Género Asignado	Assigned Gender/Assigned Sex at Birth					GAN	生理性别/原生性别/出生性别		
 mtf-wiki		misc		本站	本站	本サイト	This site	Este sitio	MtF.wiki						本wiki/wiki	我们	统一指代 MtF.wiki 网站本身
 non-binary	Q48270	identity	NB	非二元性别	非二元性別	ノンバイナリー	Non-binary	No binario	Non-binary	非二元/MtX/FtX/性别酷儿/酷儿/X-gender	非二元/MtX/FtX/性別酷兒/酷兒/X-gender	Xジェンダー	Enby	No binario			
 passing		social		过关	過關	パッシング	Passing	Pasar	Pass/Passing	顺眼/融入/过关/通过	順眼/融入/過關/通過	パス				怎么翻译	
-ymmv		misc		效果因人而异	效果因人而異	個人差あり	Your Mileage May Vary	Los Resultados Varían	Your Mileage May Vary (YMMV)	体质差异/个体差异	體質差異/個體差異	個人差	YMMV				
+ymmv		misc	YMMV	效果因人而异	效果因人而異	個人差あり	Your Mileage May Vary	Los Resultados Varían	Your Mileage May Vary (YMMV)	体质差异/个体差异	體質差異/個體差異	個人差					
 estradiol-gel		hrt		雌二醇凝胶	雌二醇凝膠	エストラジオールゲル	Estradiol Gel	Gel de Estradiol	Estradiol Gel	爱斯妥（商品名）/健民（商品名）/凝胶	愛斯妥（商品名）/健民（商品名）/凝膠	エストロジェル/Oestrogel	Oestrogel/EstroGel	Oestrogel			
 estradiol-valerate-injection		hrt		戊酸雌二醇注射液	戊酸雌二醇注射液	吉草酸エストラジオール注射液	Estradiol Valerate Injection	Inyección de Valerato de Estradiol	Estradiol Valerate Injection	日雌/针剂/富士日雌	日雌/針劑/富士日雌	プロギノン・デポー	Progynon Depot				
-estradiol-valerate		hrt	EV	戊酸雌二醇	戊酸雌二醇	吉草酸エストラジオール	Estradiol Valerate	Valerato de Estradiol	Estradiol Valerate (EV)	补佳乐（商品名）/戊雌/戊酸/克龄蒙（商品名）	補佳樂（商品名）/戊雌/戊酸/克齡蒙（商品名）	プロギノン	Progynon/E2V	Progynon	补子/国补/糖/补		
-estradiol-benzoate		hrt	EB	苯甲酸雌二醇	苯甲酸雌二醇	安息香酸エストラジオール	Estradiol Benzoate	Benzoato de Estradiol	Estradiol Benzoate (EB)	苯甲酸	苯甲酸						
-estradiol-enanthate		hrt		庚酸雌二醇	庚酸雌二醇	エナント酸エストラジオール	Estradiol Enanthate	Enantato de Estradiol	Estradiol Enanthate								
-estradiol-cypionate		hrt		环戊丙酸雌二醇	環戊丙酸雌二醇	シピオン酸エストラジオール	Estradiol Cypionate	Cipionato de Estradiol	Estradiol Cypionate								
-estradiol-hemihydrate		hrt		半水合雌二醇	半水合雌二醇	エストラジオール半水和物	Estradiol Hemihydrate	Hemihidrato de Estradiol	Estradiol Hemihydrate								
+estradiol-valerate	Q5401768	hrt	EV	戊酸雌二醇	戊酸雌二醇	吉草酸エストラジオール	Estradiol Valerate	Valerato de Estradiol	Estradiol Valerate (EV)	补佳乐（商品名）/戊雌/戊酸/克龄蒙（商品名）	補佳樂（商品名）/戊雌/戊酸/克齡蒙（商品名）	プロギノン	Progynon/E2V	Progynon	补子/国补/糖/补		
+estradiol-benzoate	Q11450699	hrt	EB	苯甲酸雌二醇	苯甲酸雌二醇	安息香酸エストラジオール	Estradiol Benzoate	Benzoato de Estradiol	Estradiol Benzoate (EB)	苯甲酸	苯甲酸						
+estradiol-enanthate	Q5401763	hrt		庚酸雌二醇	庚酸雌二醇	エナント酸エストラジオール	Estradiol Enanthate	Enantato de Estradiol	Estradiol Enanthate								
+estradiol-cypionate	Q5401760	hrt		环戊丙酸雌二醇	環戊丙酸雌二醇	シピオン酸エストラジオール	Estradiol Cypionate	Cipionato de Estradiol	Estradiol Cypionate								
+estradiol-hemihydrate	Q27275885	hrt		半水合雌二醇	半水合雌二醇	エストラジオール半水和物	Estradiol Hemihydrate	Hemihidrato de Estradiol	Estradiol Hemihydrate								
 17b-estradiol	Q422416	hrt	E2	17β-雌二醇	17β-雌二醇	17β-エストラジオール	17β-Estradiol	17β-Estradiol	17β-Estradiol	雌二醇	雌二醇	Oestradiol	Oestradiol				
-conjugated-estrogens		hrt		结合雌激素	結合雌激素	結合型エストロゲン	Conjugated Estrogens	Estrógenos Conjugados	Conjugated Estrogens	倍美力（商品名）	倍美力（商品名）	プレマリン（商品名）	Premarin	Premarin			
+conjugated-estrogens	Q4118295	hrt		结合雌激素	結合雌激素	結合型エストロゲン	Conjugated Estrogens	Estrógenos Conjugados	Conjugated Estrogens	倍美力（商品名）	倍美力（商品名）	プレマリン（商品名）	Premarin	Premarin			
 ethinylestradiol	Q415563	hrt	EE	乙炔雌二醇	乙炔雌二醇	エチニルエストラジオール	Ethinylestradiol	Etinilestradiol	Ethinylestradiol (EE)	炔雌醇/达英-35（商品名）	炔雌醇/達英-35（商品名）	ダイアン-35（商品名）	Diane-35	Diane-35			
 progesterone	Q26963	hrt	P4	孕酮	孕酮	プロゲステロン	Progesterone	Progesterona	Progesterone	黄体酮/P	黃體酮/P		Natural Progesterone/Body-identical Progesterone	Progesterona natural			
 cyproterone-acetate	Q426185	hrt	CPA	醋酸环丙孕酮	醋酸環丙孕酮	酢酸シプロテロン	Cyproterone Acetate	Acetato de Ciproterona	Cyproterone Acetate (CPA)	色普龙	色普龍	アンドロキュール（商品名）	Androcur	Androcur	色谱龙/土色/色		
@@ -28,54 +28,54 @@ spironolactone	Q422188	hrt		螺内酯	螺內酯	スピロノラクトン	Spirono
 bicalutamide	Q1988832	hrt		比卡鲁胺	比卡魯胺	ビカルタミド	Bicalutamide	Bicalutamida	Bicalutamide	康士得（商品名）	康士得（商品名）	カソデックス（商品名）	Casodex	Casodex			
 gnrh-analogues		hrt	GnRH	GnRH 类似物	GnRH 類似物	GnRHアナログ	GnRH Analogues	Análogos de GnRH	GnRH Analogues	阻断针	阻斷針	ホルモンブロッカー/ブロッカー	Puberty Blockers/Hormone Blockers	Bloqueadores de pubertad			
 dexamethasone	Q422252	hrt		地塞米松	地塞米松	デキサメタゾン	Dexamethasone	Dexametasona	Dexamethasone						激素		
-gas	Q1053501	surgery	GAS	性别肯定手术	性別肯定手術	性別肯定手術	Gender Affirmation Surgery	Cirugía de Afirmación de Género	Gender Affirmation Surgery (GAS)	性别重置手术（SRS）/性别确认手术（GCS）	性別重置手術（SRS）/性別確認手術（GCS）	性別適合手術/SRS/GCS	SRS/GCS/Sex Reassignment Surgery/Gender Confirmation Surgery	CRS/Cirugía de Reasignación Sexual	变性手术/切除手术	性别重置手术 (SRS)	SOC-8 推荐用语
+gas	Q1053501	surgery	GAS	性别肯定手术	性別肯定手術	性別肯定手術	Gender Affirmation Surgery	Cirugía de Afirmación de Género	Gender Affirmation Surgery (GAS)	性别重置手术/SRS/性别确认手术/GCS	性別重置手術/SRS/性別確認手術/GCS	性別適合手術/SRS/GCS	SRS/GCS/Sex Reassignment Surgery/Gender Confirmation Surgery	CRS/Cirugía de Reasignación Sexual	变性手术/切除手术	性别重置手术 (SRS)	SOC-8 推荐用语
 genital-surgery		surgery		生殖器手术	生殖器手術	性器手術	Genital Surgery	Cirugía Genital	Genital surgery	生殖器性别重置手术/SRS	生殖器性別重置手術/SRS	SRS	SRS/Sex Reassignment Surgery	SRS		可以使用 SRS 特指生殖器手术吗？	中文语境常使用 SRS 特指
 vaginoplasty	Q1537534	surgery		阴道成形术	陰道成形術	腟形成術	Vaginoplasty	Vaginoplastia	Vaginoplasty	阴道造口术/SRS/造穴/下体手术	陰道造口術/SRS/造穴/下體手術	SRS/腟形成	Bottom Surgery/SRS	Cirugía de fondo/SRS	阴道成型术		
-vulvoplasty		surgery		外阴成形术	外陰成形術	外陰部形成術	Vulvoplasty	Vulvoplastia	Vulvoplasty	浅层阴道成形术/零深度	淺層陰道成形術/零深度		Zero-depth Vaginoplasty			零深度阴道成形术（Zero-depth Vaginoplasty）	
-colovaginoplasty		surgery		结肠阴道成形术	結腸陰道成形術	結腸腟形成術	Colovaginoplasty	Colovaginoplastia	Colovaginoplasty	结肠法/肠皮法	結腸法/腸皮法	結腸法	Colon Vaginoplasty				
-peritoneal-vaginoplasty		surgery		腹膜阴道成形术	腹膜陰道成形術	腹膜腟形成術	Peritoneal Vaginoplasty	Vaginoplastia Peritoneal	Peritoneal Vaginoplasty	腹膜法	腹膜法	腹膜法	PPV/Peritoneal Pull-Through				
-penile-inversion-vaginoplasty		surgery		皮瓣阴道成形术	皮瓣陰道成形術	陰茎反転腟形成術	Penile Inversion Vaginoplasty	Vaginoplastia por Inversión Peneana	Penile Inversion Vaginoplasty	皮瓣法/翻转法	皮瓣法/翻轉法	PIV	PIV/Penile Inversion				
+vulvoplasty	Q111593131	surgery		外阴成形术	外陰成形術	外陰部形成術	Vulvoplasty	Vulvoplastia	Vulvoplasty	浅层阴道成形术/零深度	淺層陰道成形術/零深度		Zero-depth Vaginoplasty			零深度阴道成形术（Zero-depth Vaginoplasty）	
+colovaginoplasty	Q2385499	surgery		结肠阴道成形术	結腸陰道成形術	結腸腟形成術	Colovaginoplasty	Colovaginoplastia	Colovaginoplasty	结肠法/肠皮法	結腸法/腸皮法	結腸法	Colon Vaginoplasty				
+peritoneal-vaginoplasty	Q116755376	surgery	PPV	腹膜阴道成形术	腹膜陰道成形術	腹膜腟形成術	Peritoneal Vaginoplasty	Vaginoplastia Peritoneal	Peritoneal Vaginoplasty	腹膜法	腹膜法	腹膜法	Peritoneal Pull-Through				
+penile-inversion-vaginoplasty	Q12205110	surgery	PIV	皮瓣阴道成形术	皮瓣陰道成形術	陰茎反転腟形成術	Penile Inversion Vaginoplasty	Vaginoplastia por Inversión Peneana	Penile Inversion Vaginoplasty	皮瓣法/翻转法	皮瓣法/翻轉法		Penile Inversion				
 orchiectomy	Q1806228	surgery		睾丸切除术	睪丸切除術	精巣摘除術	Orchiectomy	Orquiectomía	Orchiectomy	切蛋（俗语）/去势（医学术语但带有负面色彩）	切蛋（俗語）/去勢（醫學術語但帶負面色彩）	去勢	Orchi/Castration (clinical)	Orqui	阉割		
 tracheal-shave	Q1968653	surgery		甲状软骨成形术	甲狀軟骨成形術	甲状軟骨形成術	Tracheal Shave	Rasurado Traqueal	Tracheal Shave	喉结手术/喉结磨骨/喉结削切术	喉結手術/喉結磨骨/喉結削切術	のどぼとけ手術	Adam's Apple Reduction/Chondrolaryngoplasty	Reducción de nuez de Adán	割喉	喉结削切术	
 glottoplasty	Q116184264	voice		声带缩短术	聲帶縮短術	声帯短縮術	Glottoplasty	Glotoplastia	Glottoplasty	声带缝合术/声带截短术	聲帶縫合術/聲帶截短術		Wendler Glottoplasty			声带截短术	
 voice-feminization-surgery	Q139504047	voice	VFS	嗓音女性化手术	嗓音女性化手術	音声女性化手術	Voice Feminization Surgery	Cirugía de Feminización Vocal	Voice Feminization Surgery (VFS)	嗓音手术/声带缩短术	嗓音手術/聲帶縮短術						
 ffs	Q1969172	surgery	FFS	面部女性化手术	面部女性化手術	顔面女性化手術	Facial Feminization Surgery	Cirugía de Feminización Facial	Facial Feminization Surgery (FFS)	整容/面部手术/磨骨	整容/面部手術/磨骨	顔面女性化		CFF			
-breast-augmentation	Q3851652	surgery		隆乳术	隆乳術	豊胸術	Breast Augmentation	Aumento de Senos	Breast Augmentation	隆胸/丰胸	隆胸/豐胸	豊胸	Boob Job/BA	Mamoplastia/Implantes			
+breast-augmentation	Q3851652	surgery	BA	隆乳术	隆乳術	豊胸術	Breast Augmentation	Aumento de Senos	Breast Augmentation	隆胸/丰胸	隆胸/豐胸	豊胸	Boob Job	Mamoplastia/Implantes			
 electrolysis	Q2915857	hair-removal		电解脱毛	電解脫毛	電気脱毛	Electrology	Electrólisis	Electrolysis				Electrolysis				
-laser-hair-removal	Q783007	hair-removal		激光脱毛	激光脫毛	レーザー脱毛	Laser Hair Removal	Depilación Láser	Laser Hair Removal	脱毛/打激光	脫毛/打激光	脱毛	LHR	Epilación láser			
+laser-hair-removal	Q783007	hair-removal	LHR	激光脱毛	激光脫毛	レーザー脱毛	Laser Hair Removal	Depilación Láser	Laser Hair Removal	脱毛/打激光	脫毛/打激光	脱毛		Epilación láser			
 dilator		medical		扩张器	擴張器	ダイレーター	Dilator	Dilatador	Dilator	模具/通具	模具/通具		Vaginal Dilator	Dilatador vaginal	棒子	模具	
 standards-of-care		medical	SOC	照护标准	照護標準	ケア基準	Standards of Care	Estándares de Atención	Standards of Care	WPATH标准	WPATH標準	WPATH基準	WPATH Standards	Estándares WPATH			
 informed-consent		medical	IC	知情同意模式	知情同意模式	インフォームドコンセントモデル	Informed Consent Model	Modelo de Consentimiento Informado	Informed Consent Model	IC模式	IC模式	インフォームドコンセント		Consentimiento informado			
 psychological-counseling		medical		心理咨询	心理諮詢	心理カウンセリング	Psychological Counseling	Consejería Psicológica	Psychological Counseling	心理治疗	心理治療	カウンセリング	Counseling/Psychotherapy	Psicoterapia			
-sex-reassignment-certificate		legal		性别重置证明书	性別重置證明書	性別適合証明書	Sex Reassignment Certificate	Certificado de Reasignación Sexual	Sex Reassignment Certificate	变性证明	變性證明		SRC				
+sex-reassignment-certificate		legal	SRC	性别重置证明书	性別重置證明書	性別適合証明書	Sex Reassignment Certificate	Certificado de Reasignación Sexual	Sex Reassignment Certificate	变性证明	變性證明						
 transgender-certificate		legal		易性症诊断证明书	易性症診斷證明書	性転換症診断書	Transgender Certificate	Certificado de Diagnóstico Transgénero	Transgender Certificate	易性症证明/大证	易性症證明/大證						
 outpatient-records		legal		门诊病历	門診病歷	外来カルテ	Outpatient Medical Records	Historial Médico Ambulatorio	Outpatient medical records	小证/病历	小證/病歷						
 legal-gender-recognition	Q105555588	legal	LGR	性别变更	性別變更	性別変更	Legal Gender Recognition	Reconocimiento Legal de Género	Legal Gender Recognition	改证/改性别/法定性别变更	改證/改性別/法定性別變更		Gender Marker Change	Cambio de marcador de género			
 rle		medical	RLE	实际生活体验	實際生活體驗	実生活体験	Real Life Experience	Experiencia de Vida Real	Real Life Experience (RLE)	生活体验	生活體驗		Real Life Test			真实生活体验	
-voice-training		voice		嗓音训练	嗓音訓練	音声訓練	Voice Training	Entrenamiento de Voz	Voice Training	伪声	偽聲	ボイトレ	VT/Voice Feminization Training	Entrenamiento vocal			
+voice-training		voice	VT	嗓音训练	嗓音訓練	音声訓練	Voice Training	Entrenamiento de Voz	Voice Training	伪声	偽聲	ボイトレ	Voice Feminization Training	Entrenamiento vocal			
 vocal-pitch		voice		嗓音音高	嗓音音高	音声ピッチ	Vocal Pitch	Tono Vocal	Vocal Pitch	音高/声带音高	音高/聲帶音高	ピッチ	Pitch	Tono			
 resonance		voice		共鸣	共鳴	共鳴	Resonance	Resonancia	Resonance	腔体共鸣	腔體共鳴						
-cisgender-woman		identity		顺性别女性	順性別女性	シスジェンダー女性	Cisgender Woman	Mujer Cisgénero	Cisgender Woman	顺女	順女	シス女性	Cis Woman	Mujer Cis			
+cisgender-woman	Q15145779	identity		顺性别女性	順性別女性	シスジェンダー女性	Cisgender Woman	Mujer Cisgénero	Cisgender Woman	顺女	順女	シス女性	Cis Woman	Mujer Cis			
 terf		social	TERF	排跨激进女权主义者	排跨激進女權主義者	トランス排除的急進フェミニスト	TERF	TERF	TERF	排除跨性别的激进女权	排除跨性別的激進女權				田园女权		
 detransition	Q25396757	social		逆性别过渡	逆性別過渡	デトランジション	Detransition	Detransición	Detransition	脱跨/停止转变/悔跨	脫跨/停止轉變/悔跨	デトランス	Detrans	Detransición			指停止或逆转性别过渡的过程
 gatekeeping		medical		守门	守門	ゲートキーピング	Gatekeeping	Control de Acceso	Gatekeeping	守门机制	守門機制					把关	"指医疗或心理专业人员设立高门槛（如长时间的RLE、复杂的证明），限制跨性别者获取医疗资源的行为。WPATH SOC-8 致力于减少此现象，推行""知情同意模式""。"
 trans-broken-arm		medical		跨性别断臂综合征	跨性別斷臂綜合征	トランス骨折腕症候群	Trans Broken Arm Syndrome	Síndrome del Brazo Roto Trans	Trans Broken Arm Syndrome								指医疗人员将跨性别者的所有健康问题不加分辨地归咎于激素治疗的偏见。
 self-acceptance	Q2267564	social		自我接纳	自我接納	自己受容	Self-acceptance	Autoaceptación	Self-acceptance	和解	和解						
 estradiol-monotherapy		hrt		单用雌激素	單用雌激素	エストラジオール単独療法	Estradiol Monotherapy	Monoterapia con Estradiol	Estradiol Monotherapy	单日雌	單日雌						
-thromboembolism	Q891391	lab		血栓栓塞	血栓栓塞	血栓塞栓症	Thromboembolism	Tromboembolismo	Thromboembolism	血栓	血栓	VTE	VTE/Blood Clot	VTE/Trombosis			
+thromboembolism	Q891391	lab	VTE	血栓栓塞	血栓栓塞	血栓塞栓症	Thromboembolism	Tromboembolismo	Thromboembolism	血栓	血栓		Blood Clot	Trombosis			
 bone-mineral-density	Q2304401	lab	BMD	骨密度	骨密度	骨密度	Bone Mineral Density	Densidad Mineral Ósea	Bone Mineral Density (BMD)								
 liver-function		lab		肝功能	肝功能	肝機能	Liver Function	Función Hepática	Liver Function								
 testosterone	Q1318776	hrt	T	睾酮	睾酮	テストステロン	Testosterone	Testosterona	Testosterone (T)	雄激素	雄激素	アンドロゲン					
 gonadotropins	Q409770	lab	LH/FSH	促性腺激素	促性腺激素	ゴナドトロピン	Gonadotropins	Gonadotropinas	Gonadotropins (LH/FSH)								
 prolactin	Q192191	lab	PRL	泌乳素	泌乳素	プロラクチン	Prolactin	Prolactina	Prolactin（PRL）	催乳素	催乳素						
-coming-out	Q208099	social		出柜	出櫃	カミングアウト	Coming Out	Salir del Clóset	Coming Out			CO	CO	Salir del armario			
+coming-out	Q208099	social	CO	出柜	出櫃	カミングアウト	Coming Out	Salir del Clóset	Coming Out					Salir del armario			
 force-outing		social		踹柜门	踹櫃門	アウティング	Force Outing	Outing Forzado	Force Outing				Outing	Outing			
 closeted		social		深柜	深櫃	クローゼット	In the Closet	En el Clóset	In the Closet					En el armario	脱圈		
 stealth		social		隐形	隱形	ステルス	Stealth	Modo Sigiloso	Stealth	隐身/融入	隱身/融入						"指完全以目标性别生活，且不向周围人透露跨性别历史的状态。区别于""深柜""。"
 genetically-gifted		misc		天赋党	天賦黨	天賦党	Genetically Gifted	Genéticamente Dotado	Genetically Gifted								不建议使用
 supportive-family		misc		家长党	家長黨	家族支持派	Supportive Family	Familia de Apoyo	Supportive Family								不建议使用
 natural-disability		misc		天残党	天殘黨	天障派	Natural Disability Faction	Facción de Discapacidad Natural	Natural Disability Faction								不建议使用
-diy-hrt		social		自行激素治疗	自行激素治療	自己投薬	DIY HRT	HRT Casero	DIY HRT	DIY/自行用药	DIY/自行用藥	フラホル/自己判断で服薬	DIY/Self-medication/DIY Hormones	Automedicación			
+diy-hrt		social	DIY	自行激素治疗	自行激素治療	自己投薬	DIY HRT	HRT Casero	DIY HRT	自行用药	自行用藥	フラホル/自己判断で服薬	Self-medication/DIY Hormones	Automedicación			
 diy-trans		social		药娘	藥娘		DIY trans	Trans DIY	DIY trans	DIY 用药者	DIY 用藥者						
 conversion-therapy	Q1538947	social		扭转治疗	扭轉治療	転換療法	Conversion Therapy	Terapia de Conversión	Conversion Therapy	矫正治疗	矯正治療	修復療法	Reparative Therapy/Ex-Gay Therapy	Terapia reparadora	修复疗法		
 internet-addiction-treatment	Q131349256	social		戒网瘾机构	戒網癮機構	インターネット依存症治療施設	Internet Addiction Treatment Institutions	Instituciones de Tratamiento de Adicción a Internet	Internet addiction treatment institutions	戒网瘾学校/特训学校	戒網癮學校/特訓學校						
@@ -86,5 +86,6 @@ chaser	Q12972108	social		跨儿迷	跨兒迷	チェイサー	Chaser	Chaser	Chase
 employment-discrimination		legal		就业歧视	就業歧視	雇用差別	Employment Discrimination	Discriminación Laboral	Employment Discrimination								
 bathroom-access		legal		卫生间使用权	衛生間使用權	トイレ使用権	Bathroom Access Rights	Derechos de Acceso al Baño	Bathroom access rights								
 identity-document-mismatch		legal		人证不符	人證不符	身分証明書不一致	Identity Document Mismatch	Discrepancia de Documentos de Identidad	Identity Document Mismatch								
-afab	Q56315990	identity	AFAB	出生时指派女性	出生時指派女性	出生時に女性と割り当てられた者	Assigned Female at Birth	Asignada mujer al nacer	Assigned Female at Birth (AFAB)	指派女性/AFAB	指派女性/AFAB	AFAB		AFAB			出生时性别被医生指派为女性，不论其性别认同
-amab	Q25388691	identity	AMAB	出生时指派男性	出生時指派男性	出生時に男性と割り当てられた者	Assigned Male at Birth	Asignado hombre al nacer	Assigned Male at Birth (AMAB)	指派男性/AMAB	指派男性/AMAB	AMAB		AMAB			出生时性别被医生指派为男性，不论其性别认同
+afab	Q56315990	identity	AFAB	出生时指派女性	出生時指派女性	出生時に女性と割り当てられた者	Assigned Female at Birth	Asignada mujer al nacer	Assigned Female at Birth (AFAB)	指派女性	指派女性						出生时性别被医生指派为女性，不论其性别认同
+amab	Q25388691	identity	AMAB	出生时指派男性	出生時指派男性	出生時に男性と割り当てられた者	Assigned Male at Birth	Asignado hombre al nacer	Assigned Male at Birth (AMAB)	指派男性	指派男性						出生时性别被医生指派为男性，不论其性别认同
+
