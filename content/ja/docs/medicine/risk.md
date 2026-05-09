@@ -264,8 +264,8 @@ weight: 10
 [^5]: [添付文書：酢酸シプロテロン錠（Siterone）](https://tfsci.mtf.wiki/misc/siterone-nz/) （中国語）
 [^6]: [添付文書：酢酸シプロテロン錠（南アフリカ Androcur）](https://tfsci.mtf.wiki/misc/androcur-za/) （中国語）
 [^7]: [添付文書：酢酸シプロテロン錠（台湾 Androcur）](https://tfsci.mtf.wiki/misc/androcur-tw/) （中国語）
-<!-- FIXME link-image-reference-definitions [^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
-[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/> -->
+[^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
+[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/>
 [^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://tfsci.mtf.wiki/misc/casodex/>
 [^11]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-intro/>
 [^12]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/bica-adoption/>
