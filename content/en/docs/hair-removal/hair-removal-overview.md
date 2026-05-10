@@ -47,7 +47,7 @@ Only a limited proportion of follicles are in the ideal phase, anagen, at the sa
 #### Terminology
 
 - **Permanent hair reduction**: a **long-term, stable decrease in the number of regrowing hairs** observed at **6/9/12 months** after completing a treatment course. It is **not the same as** “all hair never grows back”[^1] [^2].
-- **Permanent hair removal**: specifically refers to electrolysis.
+- **Permanent hair removal**: specifically refers to electrolysis[^3] [^4].
 
 ---
 
@@ -155,7 +155,7 @@ These mainly involve skin health, systemic diseases, and medications such as pho
 
 ### Postoperative Care Consensus
 
-**Pigment changes** and **blistering/burning sensation** are the main complications[^22]. In this situation, **avoid sun exposure** and **cool adequately**[^23].
+**Pigment changes** and **blistering/burning sensation** are the main complications[^22]; **postinflammatory hyperpigmentation (PIH)** is more common and may persist longer in skin of color[^10]. In this situation, **avoid sun exposure** and **cool adequately**[^23].
 
 Use icing + daily sun protection[^24] + avoid heat/friction (≥ 48 h)[^25] + gentle skin care + shave only, do not pluck. Watch for abnormalities and seek care promptly if needed.
 
