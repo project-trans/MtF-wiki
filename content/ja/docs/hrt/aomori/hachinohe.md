@@ -2,9 +2,11 @@
 title: 八戸市・八戸クリニック産婦人科
 ---
 
-- 青森県八戸市柏崎１丁目 8-32
-- <http://www.hachinohe.jp/byouinch/byo.hachi.c.san.html>
+- 〒031-0081 青森県八戸市柏崎1-8-32
 - 電話：{{< telephone "0178-22-7725" >}}
+- <https://www.hachinohe-clinic.com/>
+
+公式サイトに GID/ホルモン療法の明示的な記載はないため、施術可否は事前に直接確認すること。
 
 ## 受付時間
 

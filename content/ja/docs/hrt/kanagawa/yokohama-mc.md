@@ -2,10 +2,13 @@
 title: 横浜市・横浜メンタルクリニック戸塚
 ---
 
-- 神奈川県横浜市戸塚区上倉田町 494-8 CROSS ROAD2 5 階
-- 電話：{{< telephone "045-869-0707">}}
-- <http://www.myclinic.ne.jp/yokohama_mct/pc/> 旧 HP  
-<http://www.yokohama-mc.or.jp/> 新 HP
+- 〒244-0816 神奈川県横浜市戸塚区上倉田町494-8 戸塚トーセイビル2階
+- 電話（再診・一般）：{{< telephone "045-869-0707">}}
+- 電話（初診）：{{< telephone "045-392-9777">}}
+- <https://www.yokohama-mc.or.jp/>
+
+- GID 初診は月曜・金曜の午前のみ
+- カウンセリング・診察に加え、ホルモン療法も実施
 
 ## 読者さんからのコメント
 

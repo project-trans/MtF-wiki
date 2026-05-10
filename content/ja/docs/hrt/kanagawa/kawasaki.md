@@ -2,10 +2,10 @@
 title: 川崎市・川崎中央クリニック（美容外科）
 ---
 
-- 神奈川県川崎市川崎区駅前本町 1-3 本田ビル 3F
-- 電話：{{< telephone "0120-190-929">}}
+- 〒210-0007 神奈川県川崎市川崎区駅前本町10-5 クリエ川崎5F
+- 電話：{{< telephone "0120-223-929">}}
 - <https://www.kawasaki-biyou.com/>
-  MTF 向けページ：<http://www.kawasaki-mens.com/mtf/index.html>
+- MTF 向けページ：<https://www.kawasaki-mens.com/mtf/>
 
 注射代：2A 4200 円 1A 2100 円（ペラニンデポー）
 

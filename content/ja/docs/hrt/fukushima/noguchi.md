@@ -6,7 +6,7 @@ title: いわき市・のぐち形成外科クリニック
 
 - 福島県いわき市自由ヶ丘 37-10
 - 電話：{{< telephone "0246-46-2311">}}（予約必須）
-- <http://www.noguchi-keisei.com/>
+- <https://noguchiclinic.info/>
 
 注射代：2A 3250 円（プロギノンデポー）
 

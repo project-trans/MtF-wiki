@@ -4,9 +4,10 @@ title: 恵比寿TGクリニック
 
 ※MTF/FTM(X)でHRTによる治療が可能。
 
-東京都渋谷区東3-23-4-2F
-【電話】03-6805-0192
-<https://ebisutgclinic.com/>
+- 東京都渋谷区広尾5-21-2 長谷部第2ビル2階（旧住所：渋谷区東3-23-4-2F より移転）
+- 電話：{{< telephone "03-6805-0192">}}
+- <https://ebisutgclinic.com/>
+- 料金ページ：<https://ebisutgclinic.com/cost>
 
 - 完全予約制・APP/WEB予約OK・初診外来OK（月曜日のみ）・クレジットカード支払いOK・男女ホルモン治療・ホルモン剤郵送+自己注射可能。
 

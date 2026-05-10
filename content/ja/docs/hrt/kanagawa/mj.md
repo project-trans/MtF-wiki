@@ -5,8 +5,8 @@ title: 川崎市・武蔵小杉 J こころのクリニック
 心療内科,精神科
 
 - 神奈川県川崎市中原区新丸子東 2-924 服部ビル 2F
-- 電話: 044-430-0310
-- <http://www.mj-kokoro.com/pc/index.html>
+- 電話：{{< telephone "044-430-0310">}}
+- <https://www.mj-kokoro.com/>
 
 ## 読者さんのコメント
 
