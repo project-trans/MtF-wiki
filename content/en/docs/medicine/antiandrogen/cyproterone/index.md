@@ -28,6 +28,7 @@ Typical pack,45 tablets,50 or 100 tablets,50 tablets
 ### Special Note
 
 {{< notice info >}}
+
 - Chlormadinone acetate also has antiandrogenic activity[^1], but it is not cyproterone acetate. Do not confuse the two.
 
 [^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)\[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>

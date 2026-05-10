@@ -28,6 +28,7 @@ description: 酢酸シプロテロン（Cyproterone Acetate）は一般的な抗
 ### 特別な注意
 
 {{< notice info >}}
+
 - クロルマジノン酢酸エステル（Chlormadinone Acetate）にも抗アンドロゲン活性がある[^1]が、酢酸シプロテロンではない。混同して使用しないこと。
 
 [^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)\[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
