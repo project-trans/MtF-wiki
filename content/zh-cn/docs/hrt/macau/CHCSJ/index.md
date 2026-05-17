@@ -17,5 +17,3 @@ title: 仁柏爵综合医院（山顶医院）
 ![卫生中心转介表（精神科）样例](psychiatry-referral-form.jpg)
 
 ![卫生中心转介表（内分泌及代谢科）样例](endocrinology-referral-form.jpg)
-
-
