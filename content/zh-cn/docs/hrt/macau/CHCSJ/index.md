@@ -10,7 +10,6 @@ title: 仁柏爵综合医院（山顶医院）
 
 ## 示例
 
-
 ![卫生中心转介至精神科（样例）](referral-to-psychiatry.jpg)
 
 ![CHCSJ内分泌预约便条（样例）](chcsj-appointment-slip.jpg)
