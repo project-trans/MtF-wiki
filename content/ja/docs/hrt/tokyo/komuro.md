@@ -4,7 +4,7 @@ title: 中央区・コムロクリニック東京銀座院（旧 コムロ美容
 
 - 東京都中央区銀座 1-6-8 DEAR GINZA 8F
 - 電話：{{< telephone "0120-566-105">}}
-- GID の相談など：{{< telephone "0120-566-317">}}
+- GID の相談など：{{< telephone "0120-566-315">}}
 - GID ホルモン療法（全院共通ページ）：<https://komuroclinic.jp/menu/other/gid/hormon.html>
 
 公式サイト掲載の料金（2026年5月時点）：
