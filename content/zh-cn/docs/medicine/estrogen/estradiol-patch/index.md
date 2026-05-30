@@ -35,7 +35,7 @@ description: 外用雌二醇贴片，经皮吸收。
 
 ### Estramon<sup>&reg;</sup>
 
-{{< figure src="/images/medicine/estradiol-patch/estramon-de.jpg" width="50%" >}}
+{{< figure src="/images/medicine/estradiol-patch/estramon-de.png" width="50%" >}}
 
 - 商品名：Estramon<sup>&reg;</sup>（欧盟、英国、澳大利亚等上市，有进口）
 - 厂商：**Hexal AG**
@@ -64,6 +64,16 @@ description: 外用雌二醇贴片，经皮吸收。
 - 规格：0.09、0.18、0.36、0.72 mg
 - 说明书：[日语原文](https://s3-ap-northeast-1.amazonaws.com/medley-medicine/prescriptionpdf/000000003134.pdf) | [中文翻译](https://tfsci.mtf.wiki/zh-cn/misc/estrana-tapes/)
 - 单片（0.72 mg）理论疗效：雌二醇测定，平均 52.0～53.8 pg/mL
+
+### Evorel<sup>&reg;</sup>
+
+{{< figure src="/images/medicine/estradiol-patch/evorel.png" width="50%" >}}
+
+- 商品名：Evorel<sup>&reg;</sup>（欧盟、英国、澳大利亚、新西兰等上市）
+- 厂商：{{< wiki Theramex en >}}
+- 规格：25、50、75、100 µg/天
+- 说明书：[英语原文](https://www.medicines.org.uk/emc/files/pil.10927.pdf)
+- 单片（100 µg/天）理论疗效：雌二醇测定，平均 104 pg/mL，最高 178 pg/mL（贴敷 96 小时后谷值约为 62 pg/mL）
 
 ## 用法用量
 
