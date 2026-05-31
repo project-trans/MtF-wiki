@@ -20,14 +20,14 @@ El contenido de MtF.wiki es redactado por personas voluntarias y, debido a diver
 - MtF.wiki puede desencadenar síntomas de estrés postraumático u otras reacciones psicológicas en algunas personas; por favor, lea con precaución.
 - MtF.wiki puede contener contenido que provoque crisis epilépticas u otros riesgos para la salud; acceda con prudencia según su propia situación.
 
-## Aviso legal
+## Advertencia legal
 
 MtF.wiki no proporciona asesoramiento legal. Aunque MtF.wiki contiene cierto contenido relacionado con cuestiones jurídicas, no podemos garantizar la precisión, actualidad o aplicabilidad del mismo. Tenga en cuenta lo siguiente:
 
 - La aplicabilidad de las leyes puede variar según la región y el momento. Aunque cierta información sea precisa en el momento de su publicación, puede no aplicarse a su situación o región específica.
 - La información jurídica en MtF.wiki es sólo de referencia y no puede sustituir el consejo de profesionales del derecho cualificados. Si necesita asistencia legal, contacte a un abogado o agencia de asistencia legal de su región.
 
-## Advertencia legal
+## Aviso médico
 
 MtF.wiki no proporciona asesoramiento médico. Aunque MtF.wiki contiene cierto contenido relacionado con la medicina, no se garantiza su precisión ni actualidad. Este contenido está escrito principalmente por personas que no son profesionales médicos y puede no aplicarse completamente a su situación específica. Tenga en cuenta lo siguiente:
 
