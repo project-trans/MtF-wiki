@@ -4,6 +4,8 @@ title: "Disclaimer"
 
 <!--Based on Wikipedia https://zh.wikipedia.org/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E Used under CC-BY-SA 4.0 license, some amendments made-->
 
+> **This disclaimer is a translation provided for informational purposes only. In case of any discrepancy or conflict, the [Chinese (Simplified) version](/zh-cn/about/disclaimer/) shall prevail as the canonical version.**
+
 **WHEREAS** {{< mtf-wiki >}} decicates to persist as a free, open and continuously updating Website that intergrates information in relation to primarily persons who identify as Transgender women;
 **WHEREAS** the contents of this Website are primarily drafted and edited by volunteers and may or may not be undergone professional scrutiny;
 **WHEREAS** it is necessary for all of the patreons of this Website to have a clear knowledge of their responsibility;
