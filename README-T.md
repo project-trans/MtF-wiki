@@ -5,7 +5,7 @@
 
 # Welcome to **MtF.wiki**
 
-[简中](README.md) | **繁體中文** | [日本語](README-JA.md) | [English](README-EN.md) | [Español](README-ES.md)
+[简中](README.md) | **繁體中文** | [日本語](README-JA.md) | [English](README-EN.md)
 
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]
