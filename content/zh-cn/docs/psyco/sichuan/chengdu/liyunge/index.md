@@ -2,7 +2,7 @@
 title: 成都市第四人民医院｜李云歌
 ---
 
-{{< notice error "无法开具诊断证明" >}}
+{{< notice warning "无法开具诊断证明" >}}
 请注意阅读医院综述页面：[成都市第四人民医院]({{< ref "chengdu" >}})
 {{< /notice >}}
 
