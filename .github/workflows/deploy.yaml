@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 克隆 Next-MtF-wiki 仓库
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: project-trans/Next-MtF-wiki
           fetch-depth: 0
@@ -35,12 +35,12 @@ jobs:
           git checkout -B master
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v6
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '22'
+          node-version: '26'
           cache: 'pnpm'
 
       - name: Install dependencies
@@ -66,7 +66,7 @@ jobs:
 
       - name: Deploy to Cloudflare Pages
         id: deploy
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
