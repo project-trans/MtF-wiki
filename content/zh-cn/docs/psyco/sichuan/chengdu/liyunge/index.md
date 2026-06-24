@@ -2,6 +2,10 @@
 title: 成都市第四人民医院｜李云歌
 ---
 
+{{< notice warning "无法开具诊断证明" >}}
+请注意阅读医院综述页面：[成都市第四人民医院]({{< ref "chengdu" >}})
+{{< /notice >}}
+
 医生姓名：李云歌
 
 所在医院：[成都市第四人民医院（九江院区）](https://www.cd-psychologist.com/)
