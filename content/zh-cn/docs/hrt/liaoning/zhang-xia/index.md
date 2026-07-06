@@ -1,5 +1,5 @@
 ---
-title: 大连医科大学附属第二医院｜张霞
+title: 大连｜张霞
 ---
 
 医生姓名：[张霞](https://www.haodf.com/doctor/9032018519.html)

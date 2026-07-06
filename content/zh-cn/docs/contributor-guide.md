@@ -4,7 +4,7 @@ title: 贡献者指南
 
 ## 贡献方式 {#method}
 
-1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "project-trans/mtf-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，如果不会处理隐私数据，请通过邮件方式贡献内容）
+1. 会 GitHub 操作，直接 <abbr title="Pull Request">PR</abbr> 或 通过 {{< shields/github-issue "project-trans/mtf-wiki" >}}（该方法的过程将是公开的，请注意处理隐私数据，例如 [Exif 信息]({{< ref "#image" >}})和[电邮地址](https://docs.github.com/en/account-and-profile/concepts/email-addresses#commit-email-addresses)，如果不会处理隐私数据，请通过邮件方式贡献内容）
 1. 发送邮件到 <mtfwiki@project-trans.org>
 1. 直接在每个页面下方的意见反馈中投递
 
@@ -63,7 +63,7 @@ title: 贡献者指南
 
 ## 关于附加资源
 
-### 图片处理
+### 图片处理 {#image}
 
 如果图片为对纸质材料的拍摄，请使用 Microsoft Lens (fbk Office Lens) 进行处理以便于提供更好的阅读体验，当然，如果有条件的话建议提供扫描件。
 照片中的 {{< wiki Exif >}} 信息可能包含设备型号、拍摄时间和地理位置等信息。建议您在上传前[移除敏感信息](https://commons.wikimedia.org/wiki/Commons:Exif#Editing_Exif_fields)。

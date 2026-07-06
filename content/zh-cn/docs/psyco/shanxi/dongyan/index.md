@@ -1,5 +1,5 @@
 ---
-title: 临汾市中心医院｜董燕
+title: 临汾｜董燕
 ---
 
 {{< doctor-image src="doctor.png" >}}

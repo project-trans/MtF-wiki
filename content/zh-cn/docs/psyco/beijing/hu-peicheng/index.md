@@ -1,5 +1,5 @@
 ---
-title: 北京｜胡佩诚
+title: 胡佩诚
 ---
 
 {{< alert theme=info >}}{{< meme/hybl >}}{{< /alert >}}

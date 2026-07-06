@@ -8,6 +8,7 @@
 /content/zh-cn/docs/useful-info/document-updates @project-trans/legal
 /content/zh-cn/docs/useful-info/legal-faq.md @project-trans/legal
 /content/zh-cn/about/disclaimer.md @project-trans/legal
+/content/zh-cn/about/privacy.md @project-trans/legal
 /content/ja @project-trans/mtfwiki-jp-editors
 
 /.github/ @project-trans/developers

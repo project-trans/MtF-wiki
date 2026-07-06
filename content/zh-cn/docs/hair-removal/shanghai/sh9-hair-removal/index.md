@@ -9,7 +9,7 @@ weight: 10
 
 ## 参考价格
 
-九院的计价单位：80元/光斑。\
+九院的计价单位：80 元/光斑。\
 光斑不等于实际操作时的打光次数，一般同区域会覆盖多次，取决于操作师。\
 部位价格可能因为院区或患者部位情况有差异。[^1]
 
@@ -27,14 +27,14 @@ weight: 10
 
 位置与交通途径：
 
-- 高科西路1908号
+- 高科西路 1908 号
 - [openstreetmap](https://www.openstreetmap.org/search?lat=31.189145&lon=121.527498)
-- 7号线，杨高南路2号口，步行约11分钟
+- 7 号线，杨高南路 2 号口，步行约 11 分钟
 
 设备：
 
 - EuroFeedback ADENA，IPL
-- Nd:YAG，1064nm激光
+- Nd:YAG，1064 nm激光
 
 {{< expand "EuroFeedback" >}}
 ![ef](eurofeedback.png)
@@ -58,13 +58,13 @@ weight: 10
 
 位置与交通途径：
 
-- 瞿溪路500号
+- 瞿溪路 500 号
 - [openstreetmap](https://www.openstreetmap.org/search?lat=31.203782&lon=121.482669)
-- 8号线，西藏南路5号口，步行约7分钟
+- 8 号线，西藏南路 5 号口，步行约 7 分钟
 
 仪器：
 
-- Alma Soprano XL，810nm
+- Alma Soprano XL，810 nm
 
 {{< expand "Alma Soprano XL" >}}
 {{< gallery pattern="alma-*" />}}
@@ -81,13 +81,13 @@ weight: 10
 
 位置与交通途径：
 
-- 制造局路639号
+- 制造局路 639 号
 - [openstreetmap](https://www.openstreetmap.org/search?lat=31.204727&lon=121.481194)
-- 8号线，西藏南路5号口，步行约13分钟
+- 8 号线，西藏南路 5 号口，步行约 13 分钟
 
 仪器：
 
-- Cynosure Elite，具备755nm和1064nm
+- Cynosure Elite，具备 755 nm 和 1064 nm
 
 {{< expand "Cynosure Elite" >}}
 ![cynosure](Cynosure.png)
@@ -95,9 +95,9 @@ weight: 10
 
 注意事项：
 
-- 人非常多，打大部位(如小腿)需要去现场进行二次预约，一般能排到半个月之后
+- 人非常多，打大部位（如小腿）需要去现场进行二次预约，一般能排到半个月之后
 - 需要拍照
 - 仪器会吹冷风，打面部会有些呼吸困难
 - 会直接给你一个冰袋敷着
 
-[^1]: 在6月和8月于浦东院区对双小腿及下颌进行脱毛，分别收费330+1248(含剃毛费)，1040
+[^1]: 在 6 月和 8 月于浦东院区对双小腿及下颌进行脱毛，分别收费 330 + 1248 元(含剃毛费)共 1040 元
