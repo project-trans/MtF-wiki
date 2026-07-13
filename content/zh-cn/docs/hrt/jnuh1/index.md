@@ -11,7 +11,7 @@ weight: 300
 
 {{< /notice >}}
 
-医生姓名：[高绿芬](https://h.jd120.com/Reserve/Doctor/21056)
+医生姓名：[高绿芬](https://hlxy.jnu.edu.cn/2025/0829/c32337a841916/page.htm)
 
 所在医院：[暨南大学附属第一医院(东圃院区)](https://amap.com/place/B0FFGSRR97)
 
