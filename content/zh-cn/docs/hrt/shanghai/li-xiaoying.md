@@ -27,13 +27,16 @@ weight: 30
 
 ## 问诊细节
 
-- 可以开具的 HRT 药物处方
+可以开具的 HRT 药物处方：
+
 - [补佳乐]({{< ref estradiol-valerate >}})
-- [色普龙]({{< ref "cyproterone" >}})
-- [雌二醇凝胶]({{< ref gel >}})
+- ~~[色普龙]({{< ref "cyproterone" >}})~~
+- ~~[雌二醇凝胶]({{< ref gel >}})~~
 
 {{< alert theme=warning >}}
-据实践，[色普龙]({{< ref "cyproterone" >}})和[雌二醇凝胶]({{< ref gel >}})仅能开具外配处方，即医院药房并无这些药物。
+~~据实践，[色普龙]({{< ref "cyproterone" >}})和[雌二醇凝胶]({{< ref gel >}})仅能开具外配处方，即医院药房并无这些药物。~~
+
+由于医院推行无纸化，目前可能无法开具手写处方
 {{< /alert >}}
 
 ## 注意事项
