@@ -2,7 +2,9 @@
 title: 新宿区と立川市・新宿美容外科クリニック
 ---
 
-ホームページ：<http://www.shinjukubiyou.com/list/gender/>
+ホームページ：<https://www.shinjukubiyou.com/>
+
+※公式サイト上に GID/ホルモン療法の独立ページは確認できず（旧 `/list/gender/` は到達不可）。横浜院は閉院済み。
 
 ## 新宿院
 
