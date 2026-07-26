@@ -80,7 +80,7 @@ description: 外用雌二醇凝胶，经皮吸收。
 {{< expand "爱斯妥用法用量说明卡" >}}
 ![爱斯妥用法用量说明卡](/images/medicine/gel/estradiol-gel-intro.jpg)
 {{< /expand >}}
-视频：[爱思妥用药指导](https://www.bilibili.com/video/BV1f44y1D7To)
+视频：[雌二醇凝胶具体使用步骤](https://www.bilibili.com/video/BV1gsKG6TE8R)
 {{< /notice >}}
 
 - **用药时机：** 建议早晨或晚上用[^5]。
