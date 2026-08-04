@@ -4,7 +4,6 @@ title: 新潟市・万代レディースクリニック
 
 内科・婦人科・性病科
 
-新潟市中央区万代 1-2-3 コープ野村万代 2F
-
+- 新潟市中央区万代 1-2-3 コープ野村万代 2F
 - 電話：{{< telephone "025-245-1735">}}
-- <http://www.bandai-lc.com/>
+- <http://bandai-ladiesclinic.com/>

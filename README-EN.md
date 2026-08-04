@@ -5,7 +5,7 @@ Brother Site: [FtM.wiki](https://ftm.wiki)
 
 # Welcome to **MtF.wiki**
 
-[简中](README.md) | [繁中](README-T.md) | [日本語](README-JA.md) | **English** | [Español](README-ES.md)
+[简中](README.md) | [繁中](README-T.md) | [日本語](README-JA.md) | **English**
 
 [![GitHub Watchers][badge-gh-watch]][repo]
 [![GitHub Stars][badge-gh-stars]][repo]

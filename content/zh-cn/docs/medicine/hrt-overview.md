@@ -1,8 +1,12 @@
 ---
-title: HRT 综述
-weight: 1
+title: HRT 全面指南
+weight: 2
 slug: overview
 ---
+
+{{< notice warning "施工中 🚧" >}}
+我们现已推出更简洁、面向年轻读者和移动设备的《[HRT 简明指南]({{< ref "zero-to-hrt" >}})》，帮助你快速了解有关 HRT/GAHT 的一切必要知识。相应地，本文将全新升级为面向成年、本科学历以上读者的《HRT 全面指南》，敬请期待。
+{{< /notice >}}
 
 > **欢迎来到 HRT 和药物介绍板块。在这里你将了解到：**
 >

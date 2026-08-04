@@ -9,10 +9,10 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest    
+    runs-on: ubuntu-latest
     steps:
       - name: 克隆 Next-MtF-wiki 仓库
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: project-trans/Next-MtF-wiki
           fetch-depth: 0
@@ -29,23 +29,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Update source submodule to PR #${{ github.event.pull_request.number }}" || true
-               
+
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v6
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '22'
+          node-version: '26'
           cache: 'pnpm'
-            
+
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
       - name: Generate timestamp
         id: gen_ts
         run: echo "TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
-        
+
       - name: Build project
         run: pnpm run build
         env:
@@ -58,10 +58,10 @@ jobs:
           NEXT_PUBLIC_EDIT_LINK_GITHUB_URL: "https://github.com/project-trans/MtF-wiki/tree/master/"
           NEXT_PUBLIC_OG_BASE_URL: "https://mtf.wiki/"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
+
       - name: Deploy to Cloudflare Pages
         id: deploy
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
