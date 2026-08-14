@@ -9,9 +9,10 @@ weight: 900
 
 ### 2026 年 7 月手术
 
-- 术后 14 天拍摄
+- 术后 30 天拍摄
 
-{{< hiddenphoto "postoperative-9.jpg" >}}
+{{< hiddenphoto "postoperative-9-1.jpg" >}}
+{{< hiddenphoto "postoperative-9-2.jpg" >}}
 
 ### 2026 年 3 月手术
 
