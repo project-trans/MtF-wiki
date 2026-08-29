@@ -1,6 +1,8 @@
 ---
 title: 中国医学科学院整形外科医院 | 喉结整形术
 hide: true
+aliases:
+  - /zh-cn/docs/srs/china/psh/psh-tracheal-shave/
 ---
 
 - 医生姓名：焦虎
