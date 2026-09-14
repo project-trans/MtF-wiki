@@ -10,7 +10,7 @@ title: Thiti 医生
 
 医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/en/doctors/thiti-chaovanalikit), 通过医生本人联系的手术会安排在与其合作的几个医院，若不在预约时特殊说明将由医生安排具体医院。
 
-截至2026年下半年Thiti医生主要在如下医院手术：[Navavej](https://navavej.com/)、[Phyathai Nawamin](https://www.phyathai.com/en/pytn)、[VimuT](https://www.vimut.com/)
+截至2026年下半年Thiti医生主要在如下医院手术：[Navavej](https://navavej.com/)、[Phyathai Nawamin](https://www.phyathai.com/en/pytn)、[VimuT](https://www.vimut.com/)。
 
 [Bumrungrad International Hospital](https://g.page/bumrungradthailand) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。
 
@@ -20,11 +20,11 @@ title: Thiti 医生
 
 ```csv
 手术方式,价格
-皮瓣（非功能性阴道）,{{< currency 320000 THB >}}，
-皮瓣（功能性阴道）,{{< currency 330000 THB >}}，
+皮瓣（浅深度）,{{< currency 320000 THB >}}，
+皮瓣（阴茎皮嫁接阴囊皮技术）,{{< currency 330000 THB >}}，
 结肠（传统技术）,{{< currency 430000 THB >}}
 结肠（腹腔镜技术）,{{< currency 570000 THB >}}
-腹膜技术,{{< currency 570000 THB >}}
+腹膜（皮瓣+腹膜,腹腔镜）,{{< currency 570000 THB >}}
 ```
 
 若选择传统结肠技术且可用皮过少或者小腹脂肪过多，可能需加收{{< currency 30000 THB >}}风险控制费用。
@@ -35,13 +35,14 @@ title: Thiti 医生
 
 手术费用包括手术费、麻醉费、住院期间医疗费、住院费、医院餐饮费用；不包括其他疾病的治疗费用及风险控制费用。
 
-请注意出院当天餐食仅包含早餐，存在因为不知道所以点了午晚餐而被院方额外收费{{< currency 300 THB >}}一餐的报告，也有因为住院期间点餐超过餐标而被额外收费的报告。
+- 请注意出院当天餐食仅包含早餐，存在因为不知道所以点了午晚餐而被院方额外收费{{< currency 300 THB >}}一餐的报告，也有因为住院期间点餐超过餐标而被额外收费的报告。
 
-不同手术医院的服务细节和额外服务的收费水平有所差别，若需要可提前与医生/中介/院方了解，但如果总报价相同则整体的服务基本处于同一水平。
+- 不同手术医院的服务细节和额外服务的收费水平有所差别，若需要可提前与医生/中介/院方了解，但如果总报价相同则整体的服务基本处于同一水平。
+
 
 出院当天医生助理会前往医院拆包，并携带一个信封，信封中包含复诊时间安排，复诊一般安排在术后第七天或者第八天，复诊地点为[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)。复诊时视恢复情况是否拔尿管，近些年大多数案例报告均在复诊时拔尿管，后继如果没有出现严重问题则无需再进行复诊。
 
-一般需要前往[Praram 9医院](https://praram9.com/zh)获取精神科诊断，两位精神科约需{{< currency 3950 THB >}}，存在只需要一位精神科的案例报告，只需一位精神科时约需{{< currency 2150 THB >}}，该医院除现金外可以使用银行卡或支付宝支付。
+一般需要前往[Praram 9医院](https://praram9.com/zh)获取精神科诊断，两位精神科约需{{< currency 3950 THB >}}，该医院除现金外可以使用银行卡或支付宝支付。
 
 
 ## 医疗中介
