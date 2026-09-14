@@ -8,40 +8,53 @@ title: Thiti 医生
 
 {{< /notice >}}
 
-医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/en/doctors/thiti-chaovanalikit), 通过医生本人联系的手术会安排在与其合作的几个医院，若不在预约时特殊说明将由医生安排具体医院。
+医生：[Dr. Thiti Chaovanalikit]((https://www.thaitransgendersurgeryclinic.com/ABOUT_Und_US/63fc7d64bb375100121653fa))
 
-截至2026年下半年Thiti医生主要在如下医院手术：[Navavej](https://navavej.com/)、[Phyathai Nawamin](https://www.phyathai.com/en/pytn)、[VimuT](https://www.vimut.com/)。
+所属诊所：[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)  
 
-[Bumrungrad International Hospital](https://g.page/bumrungradthailand) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。
+通过医生本人、诊所或者医疗中介联系的手术会安排在与其合作的多家医院之一。[Bumrungrad International Hospital](https://g.page/bumrungradthailand) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。
 
 ## 手术费用
 
-本段落信息从医疗中介处获取，仅供参考。
+手术费用信息从医疗中介处获取，仅供参考。
+
+SRS手术价格：
 
 ```csv
 手术方式,价格
-皮瓣（浅深度）,{{< currency 320000 THB >}}，
-皮瓣（阴茎皮嫁接阴囊皮技术）,{{< currency 330000 THB >}}，
+皮瓣（浅深度）,{{< currency 320000 THB >}}
+皮瓣（阴茎皮嫁接阴囊皮技术）,{{< currency 330000 THB >}}
 结肠（传统技术）,{{< currency 430000 THB >}}
 结肠（腹腔镜技术）,{{< currency 570000 THB >}}
 腹膜（皮瓣+腹膜，腹腔镜）,{{< currency 570000 THB >}}
 ```
 
+可与SRS同时进行的手术的价格：
+
+```csv
+手术类型,价格
+喉结手术,{{< currency 45000 THB >}}
+隆胸手术（美国曼托圆形假体）,{{< currency 160000 THB >}}
+隆胸手术（女王波）,{{< currency 190000 THB >}}
+```
+
 若选择传统结肠技术且可用皮过少或者小腹脂肪过多，可能需加收{{< currency 30000 THB >}}风险控制费用。
 
-若 BMI > 23，医生可能建议选择皮瓣技术。
+针对所有结肠手术的案例，若 BMI > 23，医生可能建议选择皮瓣技术。
 
-除皮瓣（非功能性阴道）技术住院时长为四晚五天外，其余手术技术的住院时长均为五晚六天。出院即可获得手术证明和适航证明。
+除皮瓣（非功能性阴道）技术住院时长为四晚五天外，其余手术技术的住院时长均为五晚六天。出院时即可获得手术证明和适航证明。
 
 手术费用包括手术费、麻醉费、住院期间医疗费、住院费、医院餐饮费用；不包括其他疾病的治疗费用及风险控制费用。
 
-请注意出院当天餐食仅包含早餐，存在因为不知道所以点了午晚餐而被院方额外收费{{< currency 300 THB >}}一餐的报告，也有因为住院期间点餐超过餐标而被额外收费的报告。
+该费用对应的对应手术及住院医院为[Navavej](https://navavej.com/)、[Phyathai Nawamin](https://www.phyathai.com/en/pytn)或[VimuT](https://www.vimut.com/)三家之一，默认由医生安排，不同手术医院的服务细节和额外服务的收费水平有所差别，若需要可提前与医生/中介/医院了解，但整体的服务属于同一水平。
 
-不同手术医院的服务细节和额外服务的收费水平有所差别，若需要可提前与医生/中介/医院了解，但若医生处的报价相同则医院的整体服务基本处于同一水平。
+请注意出院当天餐食仅包含早餐，存在因为不知道所以点了午晚餐而被院方额外收费的报告，也有因为住院期间点餐超过餐标而被额外收费的报告。对于产生额外消费的，出院结算时缴费前强烈建议要求院方出具详细的额外费用清单避免出现被乱收费乱计费的情况。
 
-出院当天医生助理会前往医院拆包，并携带一个信封，信封中包含复诊时间安排，复诊一般安排在术后第七天或者第八天，复诊地点为[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)。复诊时视恢复情况是否拔尿管，近些年大多数案例报告均在复诊时拔尿管，后继如果没有出现严重问题则无需再进行复诊。
+存在一天内进行两台手术的报告，若介意或者希望指定手术医院（只能在这三家里选）可在预约时和医生或中介沟通。
 
-一般需要前往[Praram 9医院](https://praram9.com/zh)获取精神科诊断，两位精神科约需{{< currency 3950 THB >}}，该医院除现金外可以使用银行卡或支付宝支付。
+出院当天医生助理会前往医院拆包，并携带一个信封，信封中包含复诊时间安排，复诊一般安排在术后第7-10天，复诊地点为[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)。复诊时医生会视恢复情况决定是否拔尿管，近些年大多数案例均在首次复诊时拔尿管，后继如果没有出现严重问题则无需再进行复诊。
+
+手术前一般需要前往[Praram 9医院](https://praram9.com/zh)获取精神科诊断，两位精神科约需{{< currency 3950 THB >}}，除现金外可以使用银行卡或支付宝支付。
 
 ## 医疗中介
 
@@ -57,9 +70,9 @@ Thiti 医生除复诊以外没有配套服务。
 
 复诊时拆线后医生和医生团队提供术后护理流程教学，但语速较快且不是用中文讲解。手术前三个月除了通模具外日常术后护理还包含“分分分”步骤防止组织粘连，部分步骤会接触敏感部位导致可能会有点疼。
 
-复诊时会提供S/M/L三种型号的透明玻璃模具，直径分别为28mm/32mm/35mm，费用包含在手术费用包中，若想要额外购买价格为{{< currency 1500 THB >}}一根，皮瓣技术手术提供的模具的深度为6英寸，亦有不同材质和大小的模具可以在复诊时现场购买。
+复诊时会提供模具包和S/M/L三种型号的透明玻璃模具各一根供带回使用，三根模具直径分别为28mm/32mm/35mm，费用包含在手术费用包中，若想要额外购买价格为{{< currency 1500 THB >}}一根，皮瓣技术手术提供的模具的带刻度长度为6英寸，亦有不同材质和大小的模具可以在复诊时现场购买。
 
-针对术后护理流程和通模具安排，复诊时会提供中文明白纸，但如护理不当，易出现麻烦的问题，后续再就医需要另外消费。推荐寻求专业的中介服务或护工服务，尤其是上门护理、伤口照料与其他生活指导。
+针对术后护理流程和通模具安排，复诊时会提供中文明白纸。但如护理不当，易出现麻烦的问题，后续再就医需要另外消费。推荐寻求专业的中介服务或护工服务，尤其是上门护理、伤口照料与其他生活指导。
 
 ## 医疗水平
 
@@ -71,9 +84,7 @@ Thiti 在外观上同样能取得相对自然的阴唇等结构，小阴唇内�
 
 由于使用改进的 PI 技术，Thiti 对通模具的要求较低（初期 2 &times; 45min 每日，后期可更少），且恢复期较短，常在一两个月后就可以正常生活。
 
-除此之外，Thiti也可以接收结肠SRS，若有需要时隆胸手术、喉结手术可与srs同时进行。
-
-存在一天内进行两台手术的报告。
+除皮瓣技术之外，Thiti也可以接收结肠和腹膜技术SRS。此外该医生的隆胸手术和喉结手术可与srs同时进行，方便有需要的患者。
 
 总的来说，Thiti 在外观和敏感度等方面与 [Suporn]({{< ref "suporn" >}}) 和 [Chettasak]({{< ref "chettawut" >}}) 都有一定差距，但各方面都尚可。但是对护理的需求要低得多，对于对手术本身效果没有过高要求的个体是不错的选择。
 
@@ -88,3 +99,5 @@ Thiti 在外观上同样能取得相对自然的阴唇等结构，小阴唇内�
 - 2022 年 5 月手术，一年后拍摄
 
 {{< hiddenphoto "/images/srs/thailand/thiti/post1.jpg" >}}
+
+[Thai Transgender Surgery Clinic提供的案例]((https://www.thaitransgendersurgeryclinic.com/filesdirectserver/itp1/z_itp_291120226kh1/MaletoFemaleSexAffirmationSurgeryz-z971875133576.pdf))
