@@ -42,7 +42,7 @@ Google Maps：<https://link.mtf.wiki/maps/th>
 | [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
 | [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
 | [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
-| [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
+| [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; | &#9989; |
 | [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
 
 ## 费用预期 {#fee}
