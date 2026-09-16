@@ -8,11 +8,17 @@ title: Thiti 医生
 
 {{< /notice >}}
 
-医生：[Dr. Thiti Chaovanalikit]((https://www.thaitransgendersurgeryclinic.com/ABOUT_Und_US/63fc7d64bb375100121653fa))
+医生：Dr. Thiti Chaovanalikit, M.D. （泰国医学会执业执照编号：17586）
 
-所属诊所：[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)  
+该医生为多点执业医生，横跨泰国私立/国际医疗体系和公立医疗体系，在此仅列出与SRS相关的机构。
 
-通过医生本人、诊所或者医疗中介联系的手术会安排在与其合作的多家医院之一。[Bumrungrad International Hospital](https://g.page/bumrungradthailand) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。
+私立/国际医疗体系方面：通过医生本人、诊所或者医疗中介联系的绝大多数手术案例由[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)  承接并安排在与医生团队合作的私立医院进行手术和提供住院服务。[Bumrungrad International Hospital](https://www.bumrungrad.com/) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。此外，Thiti医生也在[BPK 9 International Hospital](https://bpk9internationalhospital.com/)的整形美容中心执业，该医院可进行SRS。
+
+公立医疗体系方面：Thiti医生在泰国卫生部所属的[Lerdsin Hospital](https://www.lerdsin.go.th/)长期任职并以该单位职工身份发表学术研究文章。
+
+早期资料显示Thiti医生曾是[PAI]({{< ref "preecha" >}})的医生之一，但在多年前已离开该机构。
+
+以下内容围绕由[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)  承接的SRS案例展开，由其他机构承接的案例亦可参考。
 
 ## 手术费用
 
@@ -46,7 +52,7 @@ SRS手术价格：
 
 手术费用包括手术费、麻醉费、住院期间医疗费、住院费、医院餐饮费用；不包括其他疾病的治疗费用及风险控制费用。
 
-该费用对应的对应手术及住院医院为[Navavej](https://navavej.com/)、[Phyathai Nawamin](https://www.phyathai.com/en/pytn)或[VimuT](https://www.vimut.com/)三家之一，默认由医生安排，不同手术医院的服务细节和额外服务的收费水平有所差别，若需要可提前与医生/中介/医院了解，但整体的服务属于同一水平。
+该费用对应的对应手术及住院医院为[Navavej](https://navavej.com/)、[Phyathai Nawamin](https://www.phyathai.com/en/pytn)或[VimuT](https://www.vimut.com/)三家之一，默认由医生团队安排，不同手术医院的服务细节和额外服务的收费水平有所差别，若需要可提前与医生团队/中介/医院了解，但整体的服务属于同一水平。
 
 请注意出院当天餐食仅包含早餐，存在因为不知道所以点了午晚餐而被院方额外收费的报告，也有因为住院期间点餐超过餐标而被额外收费的报告。对于产生额外消费的，出院结算时缴费前强烈建议要求院方出具详细的额外费用清单避免出现被乱收费乱计费的情况。
 
