@@ -12,13 +12,13 @@ title: Thiti 医生
 
 该医生为多点执业医生，横跨泰国私立/国际医疗体系和公立医疗体系，在此仅列出与SRS相关的机构。
 
-私立/国际医疗体系方面：通过医生本人、诊所或者医疗中介联系的绝大多数手术案例由[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)  承接并安排在与医生团队合作的私立医院进行手术和提供住院服务。[Bumrungrad International Hospital](https://www.bumrungrad.com/) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。此外，Thiti医生也在[BPK 9 International Hospital](https://bpk9internationalhospital.com/)的整形美容中心执业，该医院可进行SRS。
+私立/国际医疗体系方面：通过医生本人联系或找诊所、医疗中介指定Thiti医生的绝大多数手术案例由[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/) 承接并安排在与医生团队合作的私立医院进行手术和提供住院服务。[Bumrungrad International Hospital](https://www.bumrungrad.com/) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。此外，Thiti医生也在[BPK 9 International Hospital](https://bpk9internationalhospital.com/)的整形美容中心执业，该医院可进行SRS。
 
 公立医疗体系方面：Thiti医生在泰国卫生部所属的[Lerdsin Hospital](https://www.lerdsin.go.th/)长期任职并以该单位职工身份发表学术研究文章。
 
 早期资料显示Thiti医生曾是[PAI]({{< ref "preecha" >}})的医生之一，但在多年前已离开该机构。
 
-以下内容围绕由[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)  承接的SRS案例展开，由其他机构承接的案例亦可参考。
+以下内容围绕由[Thai Transgender Surgery Clinic](https://www.thaitransgendersurgeryclinic.com/)  承接的Thiti医生的SRS案例展开，由其他机构承接的案例亦可参考。
 
 ## 手术费用
 
@@ -147,5 +147,3 @@ Thiti 医生除复诊以外没有配套服务。
 - 2022 年 5 月手术，一年后拍摄
 
 {{< hiddenphoto "/images/srs/thailand/thiti/post1.jpg" >}}
-
-[Thai Transgender Surgery Clinic提供的案例](https://www.thaitransgendersurgeryclinic.com/filesdirectserver/itp1/z_itp_291120226kh1/MaletoFemaleSexAffirmationSurgeryz-z971875133576.pdf)（PDF）
