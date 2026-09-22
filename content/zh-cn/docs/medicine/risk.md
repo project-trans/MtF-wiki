@@ -64,14 +64,6 @@ weight: 10
 - 有乳腺癌（尤其是携带 BRCA1/2 致病变异）家族史的个体罹患乳腺癌的风险将**显著增加**，且罹患乳腺癌的这部分患者往往分期较高、分化较差 [^35] [^36]；跨性别者如果因家族遗传倾向而增加患乳腺癌的风险，**建议接受与近亲女性相同的乳腺健康状态监测策略** [^37]。
 - 年龄较大的跨性别者可以考虑停止激素治疗，以降低患乳腺癌的风险 [^37]。
 
-### 雌激素相关资料
-
-> **EMA 确认高强度雌二醇乳膏的使用时间不超过四周** [^16] [^30]
->
-> PRAC 审查了关于高强度**雌二醇乳膏**用于治疗绝经期妇女阴道萎缩症状的安全性和有效性的现有数据。这些数据表明，绝经后妇女使用这些乳膏后，血液中的雌二醇水平高于正常绝经后的水平。PRAC 的结论是，雌二醇在血液中的吸收值得关注，可能导致与激素替代疗法 (HRT) 相似的副作用，口服或经皮肤（作为贴片）使用 HRT 的副作用包括静脉血栓栓塞（静脉血栓形成）、中风、子宫内膜癌和乳腺癌。此外，关于长期使用高强度**雌二醇乳膏**的安全性数据有限。
->
-> 基于这些原因，PRAC 建议这些乳膏一个疗程最多只能使用 4 周。
-
 ## 孕激素用药风险
 
 ### 口服与非口服天然孕酮（黄体酮）
@@ -222,7 +214,6 @@ weight: 10
 [^13]: [螺内酯片说明书](https://tfsci.mtf.wiki/misc/spiro-tablet/)
 [^14]: Solymoss B, Classen H G, Varga S. Increased hepatic microsomal activity induced by spironolactone and other steroids [J]. *Proceedings of the Society for Experimental Biology and Medicine*, 1969, 132(3): 940-941. \[DOI: [10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)]
 [^15]: Aly. Breast Cancer Risk with Hormone Therapy in Transfeminine People [EB/OL]. *Transfeminine Science*, 2020. 译文：《[关于女性化激素疗法与乳腺癌风险的简述](https://tfsci.mtf.wiki/articles/breast-cancer/)》
-[^16]: 国家药品监督管理局. [药物警戒快讯第 4 期（总第 204 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html) [EB/OL]. 2020-06-12.
 [^17]: 国家药品监督管理局. [药物警戒快讯 2012 年第 11 期（总第 115 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20121130120001399.html) [EB/OL]. 2012-11-30.
 [^18]: 国家药品监督管理局. [药物警戒快讯第 3 期（总第 203 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200416143701885.html) [EB/OL]. 2020-04-16.
 [^19]: Kattari S K, Kattari L, Johnson I, et al. Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan [J]. *International Journal of Environmental Research and Public Health*, 2020, 17(18):6805. \[DOI: [10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
@@ -237,7 +228,6 @@ weight: 10
 [^28]: European Medicines Agency. Restrictions in use of cyproterone due to meningioma risk [EB/OL]. 2020-02-14. <https://www.ema.europa.eu/en/news/restrictions-use-cyproterone-due-meningioma-risk>
 [^29]: Health Canada. Antiandrogens and hepatotoxicity [J]. *Canadian Adverse Reaction
 Newsletter*, 2012, 22(4): 3-4.
-[^30]: European Medicines Agency. PRAC confirms four-week limit for use of high-strength estradiol creams [EB/OL]. 2020-01-17. <https://www.ema.europa.eu/en/news/prac-confirms-four-week-limit-use-high-strength-estradiol-creams>
 [^31]: Chung W G, Buhler D R. The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs [J]. *Toxicology and Applied Pharmacology*, 1994, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
 [^32]: Monroe S E, Levine L, Chang R J, et al. Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas [J]. *The Journal of Clinical Endocrinology & Metabolism*, 1981, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 [^33]: ANI Pharmaceuticals Inc. LITHOBID&reg; U.S. Physicians Prescribing Information [EB/OL]. *Drugs@FDA*, 2022. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
