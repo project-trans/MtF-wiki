@@ -29,9 +29,12 @@ Google Maps：<https://link.mtf.wiki/maps/th>
 | [Chettasak]({{< ref "chettawut" >}}) |         | &#9989; | &#9989; |         |
 | [Greechart]({{< ref "greechart" >}}) | &#9989; |         | &#9989; |         |
 | [Kamol]({{< ref "kamol" >}})         | &#9989; | &#9989; | &#9989; | &#9989; |
+| [Saran](/zh-cn/docs/srs/thailand/saran/) |         | &#9989; | &#9989; | &#9989; |
 | [Suporn/Bank]({{< ref "suporn" >}})  |         | &#9989; |         |         |
-| [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; |         |
-| [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; |         |
+| [Thiti]({{< ref "thiti" >}})         | &#9989; |         | &#9989; | &#9989; |
+| [Yanhee]({{< ref "yanhee" >}})       | &#9989; |         | &#9989; | &#9989; |
+
+註：腹膜術式（PPV）近年已成為泰國多家醫院的常規選項；更新的全長腹膜瓣術式（FLPFV）目前由 [Yanhee]({{< ref "yanhee" >}}) 公開開展。上表僅反映各醫院公開提供的術式，實際方案與報價請以醫院或中介的說明為準。
 
 ## 費用預期 {#fee}
 
