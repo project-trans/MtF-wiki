@@ -98,7 +98,7 @@ title: 贡献者指南
 
 ## 关于大语言模型（LLM）的使用
 
-现阶段<sup>2026-09-22</sup>的 LLM，在 Project Trans 的各项目[^1]中可以用于：
+现阶段<sup>2026-09-22</sup>的 LLM，在 MtF.wiki 中可以用于：
 
 - 调整文件和目录结构
 - 编写代码
@@ -114,8 +114,4 @@ title: 贡献者指南
 - 对既有文档的修改
 - 修改代码，而非新增代码
 
-Project Trans 不提倡让现在的 LLM 代替自己进行内容创作，并鼓励在 Pull Request 中诚实地标注 LLM 的使用情况。
-
----
-
-[^1]: 包括但不限于：MtF.wiki、RLE.wiki、2345.LGBT。
+MtF.wiki 不提倡让现在的 LLM 代替自己进行内容创作，并鼓励在 Pull Request 中诚实地标注 LLM 的使用情况。
