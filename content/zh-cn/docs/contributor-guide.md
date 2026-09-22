@@ -88,7 +88,6 @@ title: 贡献者指南
 表格类说明建议使用内嵌 {{< wiki CSV >}} 格式
 
 <!-- markdownlint-disable-next-line -->
-
 ````
 ```csv
 表头1,表头2,表头3
@@ -98,7 +97,7 @@ title: 贡献者指南
 
 ## 关于大语言模型（LLM）的使用
 
-现阶段<sup>2026-09-22</sup>的 LLM，在 MtF.wiki 中可以用于：
+LLM 在 MtF.wiki 中可以被用于：
 
 - 调整文件和目录结构
 - 编写代码
@@ -114,4 +113,6 @@ title: 贡献者指南
 - 对既有文档的修改
 - 修改代码，而非新增代码
 
-MtF.wiki 不提倡让现在的 LLM 代替自己进行内容创作，并鼓励在 Pull Request 中诚实地标注 LLM 的使用情况。
+MtF.wiki 不提倡让 LLM 代替自己进行内容创作，并鼓励在 Pull Request 中诚实地标注 LLM 的使用情况。
+
+无论在创作过程中是否使用了 LLM，贡献者都应该对自己贡献的内容负责。
