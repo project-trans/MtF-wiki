@@ -7,67 +7,68 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 请仔细阅读说明书并在医师指导下使用药物。
 {{< /notice >}}
 
-醋酸环丙孕酮（Cyproterone Acetate，俗称「色普龙/色谱龙」）是一种常用的抗雄药物，多用于男性前列腺癌的治疗、女性因高雄激素引起的痤疮、脱发等症状治疗[^5] [^6]；现为女性化激素治疗中使用最多的抗雄药物之一[^8]。常见的商品名有 Androcur<sup>&reg;</sup>（安得卡），Siterone<sup>&reg;</sup> 等。
+醋酸环丙孕酮（Cyproterone Acetate，俗称「色普龙/色谱龙」）是一种常用的抗雄药物，多用于男性前列腺癌的治疗、女性因高雄激素引起的痤疮、脱发等症状治疗[^5] [^6]；现为女性化激素治疗中使用最多的抗雄药物之一[^8]。常见的商品名有 Androcur<sup>&reg;</sup>（安得卡）、Siterone<sup>&reg;</sup>、华典<sup>&reg;</sup>、LuciCyp<sup>&reg;</sup> 等。
 
 该药具有极强的孕激素作用，抑制卵巢功能[^15]，故也用于复方避孕药，如「达英-35」（*Diane-35*）。
 
 ## 基本信息
 
+{{< notice info >}}
+
+Androcur<sup>&reg;</sup> 的品牌归属已变更，但生产厂未变。Androcur<sup>&reg;</sup> 原为拜耳（Bayer）旗下品牌。2023 年 11 月，总部位于英国的 Advanz Pharma 宣布自拜耳收购 Androcur<sup>&reg;</sup> 的全球权利，交易于 2024 年第一季度完成[^16]。此后各市场的登记持有人陆续变更：德国改为 Advanz Pharma Limited（爱尔兰），中国香港改为 Amdipharm Mercury (Hong Kong) Limited，澳大利亚改为 Amdipharm Mercury Australia Pty Ltd，英国的原研商品名 Cyprostat<sup>&reg;</sup> 亦归 Advanz 所有；中国台湾的登记持有人则变更为美纳里尼（Menarini）台湾分公司[^18]。
+
+**但制剂的生产厂并未随品牌一并变更。** 德国与中国台湾的登记／说明书资料均显示，成品由德国 Bayer Weimar GmbH und Co. KG（魏玛）生产[^17] [^18]；德国、中国台湾、土耳其三地说明书对片剂外观的描述亦完全一致——一面有刻痕，另一面为六边形内「BV」字样。因此，**不宜再按「产地」区分不同市场销售的 Androcur<sup>&reg;</sup>**，实际生产厂请以包装标注或当地登记资料为准。
+
+{{< /notice >}}
+
 ### Androcur<sup>&reg;</sup>（安得卡）
 
-| 地区     | 上市状态                                                     |
-|----------|--------------------------------------------------------------|
-| 中国内地 | 无                                                           |
-| 台湾     | 卫署药输字第 012554 号                                       |
-| 香港     | HK-46443                                                     |
-| 土耳其   | [88/77](https://titck.gov.tr/storage/Archive/2024/kubKtAttachments/ANDROCUR50mgKB_5a468428-5f66-4d87-8ab5-8b36c5de2127.pdf)   |
+| 地区 | 登记号 | 登记持有人 | 规格 |
+| ---- | ------ | ---------- | ---- |
+| 中国内地 | 未上市 | — | — |
+| 中国台湾 | 卫署药输字第 012554 号[^18] | 新加坡商美纳里尼医药有限公司台湾分公司 | 50 mg |
+| 中国香港 | HK-46443[^19] | Amdipharm Mercury (Hong Kong) Limited | 50 mg |
+| 德国 | Zul.-Nr. 6929701.00.00[^17] | Advanz Pharma Limited（爱尔兰） | 10 mg &times; 45 片；50 mg &times; 10、50、100 片 |
+| 土耳其 | 88/77 | Bayer Türk Kimya San. Tic. Ltd. Şti. | 50 mg &times; 50 片 |
+| 土耳其 | — | Avixa İlaç San. ve Tic. A.Ş. | 100 mg &times; 30 片 |
+
+- 商品名：Androcur<sup>&reg;</sup>
+- 简称：台色（中国台湾）、土色（土耳其）、德色（德国）
+- 生产厂：德国 Bayer Weimar GmbH und Co. KG
+- 说明书：[中国台湾版（繁体中文）](/documents/androcur-zh.pdf)｜[简体中文释义](https://tfsci.mtf.wiki/misc/androcur-tw/)；[德国版（德文）](/documents/Androcur.pdf)｜[译文](https://tfsci.mtf.wiki/misc/androcur-de/)｜[南非版译文](https://tfsci.mtf.wiki/misc/androcur-za/)
+
+德国销售的 10 mg（左）与 50 mg（右）包装：
+
+{{< figure src="/images/medicine/cyproterone/androcur-10.png" width="50%" >}}
+{{< figure src="/images/medicine/cyproterone/androcur-50x100.png" width="50%" >}}
+
+中国台湾／土耳其市场的旧版包装：
 
 {{< figure src="/images/medicine/cyproterone/androcur-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/androcur-100.jpg" width="50%" >}}
 
-- 商品名：Androcur<sup>&reg;</sup>
-- 简称：土色、台色（在台湾销售的 Androcur）
-- 厂商：拜耳
-- 产地：土耳其
-- 规格：50mg &times; 50 片，100mg &times; 30 片
-- [说明书（繁体中文）](/documents/androcur-zh.pdf) [（简体中文释义）](https://tfsci.mtf.wiki/misc/androcur-tw/)
-
 {{< notice info >}}
 
-在土耳其生产的Androcur可以通过土耳其药品追踪系统查询信息：
+在土耳其销售的 Androcur 可通过土耳其药品追踪系统查询信息：
 
 <https://www.its.gov.tr/its/ilac_sorgula>
 
 {{< /notice >}}
 
-### Androcur<sup>&reg;</sup>
-
-由拜尔德国分公司生产、销售的Androcur<sup>&reg;</sup>，简称德色。
-
-```csv
-规格,10mg,50mg
-包装示例,{{< figure src="/images/medicine/cyproterone/androcur-10.png" width="200" >}},{{< figure src="/images/medicine/cyproterone/androcur-50x100.png" width="200" >}}
-每盒定量,45片,50、100片
-制造商,德国拜耳,德国拜耳
-分销商（品牌）,axicorp Pharma (Bayer)<br>Jenapharm<br>Kohlpharma (Bayer),Jenapharm<br>Kohlpharma (Bayer)
-```
-
-- [上市信息：2956.00.00](https://portal.dimdi.de/amguifree/am/docoutput/jpadocdisplay.xhtml?globalDocId=4E7A05B119CF44578188377529E83BE6&directdisplay=true&docid=7)
-- [说明书（德文）](/documents/Androcur.pdf)
-- 说明书译文：[南非版](https://tfsci.mtf.wiki/misc/androcur-za/) | [德国版](https://tfsci.mtf.wiki/misc/androcur-de/)
-
-### Siterone<sup>&reg;</sup>
+### Siterone<sup>&reg;</sup>（新西兰）
 
 {{< figure src="/images/medicine/cyproterone/siterone-50.jpg" width="50%" >}}
 {{< figure src="/images/medicine/cyproterone/siterone-100.jpg" width="50%" >}}
 
 - 商品名：Siterone<sup>&reg;</sup>
 - 简称：新色
-- 厂商：REX
-- 产地：新西兰
-- 规格：50mg &times; 50 片，100mg &times; 50 片
+- 厂商：REX Medical Ltd（新西兰奥克兰）
+- 规格：50 mg、100 mg，均为 50 片／盒
 - [上市信息](/documents/siterone.pdf)
+- [说明书（英文，Medsafe）](https://www.medsafe.govt.nz/Profs/Datasheet/s/Siteronetab.pdf)
 - [说明书（中文翻译）](https://tfsci.mtf.wiki/misc/siterone-nz/)
+
+新西兰另有 Procur<sup>&reg;</sup>（50 mg、100 mg）销售[^20]。
 
 ### 华典<sup>&reg;</sup> 醋酸环丙孕酮片 {#huadian}
 
@@ -77,17 +78,34 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 - 简称：国色
 - 厂商：武汉九珑人福药业有限责任公司
 - 批准文号：国药准字 H20056637
-- 规格：50mg &times; 24 片
+- 规格：50 mg &times; 24 片
 - [说明书（PDF）](/documents/huadian-zh.pdf)
 - [说明书（网页）](https://tfsci.mtf.wiki/zh-cn/misc/cpa-hd/)
 
-### 特別提示
+### LuciCyp<sup>&reg;</sup>（老挝）
+
+{{< figure src="/images/medicine/cyproterone/lucicyp.jpg" width="50%" >}}
+
+- 商品名：LuciCyp<sup>&reg;</sup>
+- 厂商：Lucius Pharmaceuticals (Lao) Co., Ltd（老挝万象）
+- 注册号：11 L 1038/23
+- 规格：50 mg
+- [产品信息](https://lucius-pharmaceuticals.com/drug/cyproterone-acetate/)
+
+### 其他品牌与地区
+
+- **Cyprostat<sup>&reg;</sup>（英国）**：英国的原研商品名，现由 Advanz Pharma 持有，有 50 mg、100 mg 两种规格。
+- **Cyproterone（加拿大）**：AA Pharma 生产的 50 mg 仿制药（DIN 02245898）。
+- **Androcur<sup>&reg;</sup>（澳大利亚）**：50 mg，登记持有人为 Amdipharm Mercury Australia Pty Ltd（ARTG 156920）。
+- **Androcur<sup>&reg;</sup>（韩国）**：50 mg，由拜耳韩国（Bayer Korea）持有。
+- **印度**：有多家厂商生产醋酸环丙孕酮片，如 Cipla 的 Cyproterone 50 mg。
+- 日本、美国等国家未批准醋酸环丙孕酮上市。
+
+### 特别提示
 
 {{< notice info >}}
 
-- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性 [^1]，但并非醋酸环丙孕酮，请不要误用。
-
-[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)\[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
+- 「日色」为醋酸氯地孕酮（Chlormadinone Acetate），同样具有抗雄激素活性[^1]，但并非醋酸环丙孕酮，请不要误用。
 
 {{< /notice >}}
 
@@ -101,7 +119,7 @@ description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗
 
 长期仅使用醋酸环丙孕酮单方制剂的跨性别者与多元性别群体相关的资料较少，尚待进一步研究与整理。有此类需求的群体请寻求医师的专业指导。
 
-CPA 单药治疗时，即使在最大推荐剂量（10～12.5 mg/d）下，也不能实现睾酮水平的完全抑制[^1]；只有在和雌激素合用时方可实现[^2]。
+CPA 单药治疗时，即使在最大推荐剂量（10～12.5 mg/d）下，也不能实现睾酮水平的完全抑制[^2]；只有在和雌激素合用时方可实现[^2]。
 
 - 服用方式：口服（无明显味道）
 - 建议使用剂量：**10 ~ 12.5 mg/天**[^8]
@@ -131,6 +149,7 @@ CPA 单药治疗时，即使在最大推荐剂量（10～12.5 mg/d）下，也�
 - 分子量：416.94
 - CAS：427-51-0
 
+[^1]: Wikipedia. Chlormadinone acetate [EB/OL]. (2023-11-25)\[2024-05-01]. <https://en.wikipedia.org/wiki/Chlormadinone_acetate>
 [^2]: Aly. Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People [EB/OL]. *Transfeminine Science*, 2019. 译文：《[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平](https://tfsci.mtf.wiki/articles/cpa-dosage/)》
 [^3]: Sadock B J, Ahmad S, Sadock V A. Kaplan and Sadock's Pocket Handbook of Clinical Psychiatry [M]. 6th ed. Philadelphia, US: Wolters Kluwer, 2018: 92.
 [^4]: Ramsay I D, Rushton D H. Reduced serum vitamin B12 levels during oral cyproterone-acetate and ethinyl-oestradiol therapy in women with diffuse androgen-dependent alopecia [J]. *Clinical and Experimental Dermatology*, 1990, 15(4): 277–281. DOI: [10.1111/j.1365-2230.1990.tb02089.x](https://doi.org/10.1111/j.1365-2230.1990.tb02089.x)
@@ -145,5 +164,10 @@ CPA 单药治疗时，即使在最大推荐剂量（10～12.5 mg/d）下，也�
 [^13]: Seaman H E, de Vries C S, Farmer R D T. The risk of venous thromboembolism in women prescribed cyproterone acetate in combination with ethinyl estradiol: a nested cohort analysis and case–control study [J]. *Human Reproduction*, 2003, 18(3): 522–526. DOI: [10.1093/humrep/deg120](https://doi.org/10.1093/humrep/deg120)
 [^14]: Seaman H E, Langley S E M, Farmer R D T, et al. Venous thromboembolism and cyproterone acetate in men with prostate cancer: a study using the General Practice Research Database [J]. *BJU International*, 2007, 99(6): 1398–1403. DOI: [10.1111/j.1464-410X.2007.06859.x](https://doi.org/10.1111/j.1464-410X.2007.06859.x)
 [^15]: Kumari G L, Das R P, Madoiya K K, et al. Effect of short-term cyclic administration of cyproterone acetate on pituitary-ovarian function in the human [J]. *Fertility and sterility*, 1977, 28(11): 1168–1174. DOI: [10.1016/S0015-0282(16)42912-2](https://doi.org/10.1016/S0015-0282(16)42912-2)
-<!-- FIXME link-image-reference-definitions [^16]: Rost A, Schmidt-Gollwitzer M, Hantelmann W, et al. Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer [J]. The Prostate, 1981, 2(3): 315-322. <https://doi.org/10.1002/pros.2990020310>
-[^17]: Fung R, Hellstern-Layefsky M, Lega I. Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses? [J]. International Journal of Transgenderism, 2017, 18(2): 123–128. https://doi.org/10.1080/15532739.2017.1290566 -->
+[^16]: ADVANZ PHARMA. ADVANZ PHARMA acquires global rights to Androcur® from Bayer [EB/OL]. (2023-11-07)\[2026-09-22]. <https://www.advanzpharma.com/news/2023/advanz-pharma-acquires-global-rights-to-androcur-from-bayer>
+[^17]: Advanz Pharma Limited. Androcur® 50 mg Tabletten: Fachinformation und Gebrauchsinformation [EB/OL]. (2024-09)\[2026-09-22]. <https://www.fachinfo.de/fi/pdf/002755>（上市许可持有人 Advanz Pharma Limited；生产厂 Bayer Weimar GmbH und Co. KG）
+[^18]: 卫生福利部食品药物管理署. 安得卡锭（卫署药输字第 012554 号）药品许可证资料 [EB/OL]. (2025-02-19)\[2026-09-22]. <https://mcp.fda.gov.tw/im_detail_pdf/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC012554%E8%99%9F>
+[^19]: 香港药物办公室. ANDROCUR TAB 50MG（HK-46443）登记资料 [EB/OL]. \[2026-09-22]. <https://www.drugoffice.gov.hk/eps/drug/productDetail/en/pharmaceutical_trade/154804>
+[^20]: Medsafe. PROCUR® 50 mg and 100 mg tablet: New Zealand Data Sheet [EB/OL]. (2021-08-13)\[2026-09-22]. <https://www.medsafe.govt.nz/Profs/Datasheet/p/Procurtab.pdf>
+<!-- FIXME link-image-reference-definitions [^21]: Rost A, Schmidt-Gollwitzer M, Hantelmann W, et al. Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer [J]. The Prostate, 1981, 2(3): 315-322. <https://doi.org/10.1002/pros.2990020310>
+[^22]: Fung R, Hellstern-Layefsky M, Lega I. Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses? [J]. International Journal of Transgenderism, 2017, 18(2): 123–128. https://doi.org/10.1080/15532739.2017.1290566 -->
