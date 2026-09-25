@@ -203,20 +203,6 @@ title: 广州｜贾艳滨
 
 {{< watermark "proof2.jpg" >}}
 
-## 住院材料样式
+## 住院材料样式（住院费用明细／出院记录／出院疾病诊断证明书／出院证明）
 
-### 住院费用明细
-
-{{< watermark "record-fee.webp" >}}
-
-### 出院记录
-
-{{< watermark "record-discharge1.png" >}}
-
-### 出院疾病诊断证明书
-
-{{< watermark "record-discharge2.png" >}}
-
-### 出院证明
-
-{{< watermark "record-discharge3.png" >}}
+{{< gallery pattern="record-discharge*" >}}
