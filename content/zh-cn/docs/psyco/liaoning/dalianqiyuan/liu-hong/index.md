@@ -13,6 +13,8 @@ title: 刘宏
 问诊参考：<https://github.com/project-trans/MtF-wiki/issues/498> <https://github.com/project-trans/MtF-wiki/issues/724>
 
 总成本约 900 元。
+此前简介中写有“可以开具易性症证明”，但当前简介已无相关字样。
+{{< watermark "old-intro.PNG" >}}
 
 ## 挂号与坐诊时间
 
