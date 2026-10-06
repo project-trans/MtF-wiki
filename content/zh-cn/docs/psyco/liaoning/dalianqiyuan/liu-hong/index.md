@@ -11,7 +11,7 @@ title: 刘宏
 所在医院：[大连市第七人民医院](https://amap.com/place/B019B01AD1)
 
 问诊参考：<https://github.com/project-trans/MtF-wiki/issues/498> <https://github.com/project-trans/MtF-wiki/issues/724>
-
+此前简介有此介绍关于易性症字样，但现在简介里已经没有相关字样。
 总成本约 900 元。
 
 ## 挂号与坐诊时间
