@@ -15,7 +15,7 @@ title: 刘宏
 总成本约 900 元。
 此前简介中写有“可以开具易性症证明”，但当前简介已无相关字样。
 
-![旧版简介截图，显示“可以开具易性症证明”](content/zh-cn/docs/psyco/liaoning/dalianqiyuan/liu-hong/old-intro.png)
+![旧版简介截图，显示“可以开具易性症证明”](content/old-intro.png)
 
 ## 挂号与坐诊时间
 
