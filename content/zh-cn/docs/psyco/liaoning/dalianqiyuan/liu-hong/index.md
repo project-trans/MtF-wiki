@@ -5,7 +5,7 @@ title: 刘宏
 {{< doctor-image src="doctor.jpg" >}}
 
 {{< tag/neg "需家属介入" >}}
-
+{{< tag/neg "通过医生介绍此医生失去开易性症诊断的资格（未证实）" >}}
 医生姓名：[刘宏](https://www.haodf.com/doctor/62704.html)
 
 所在医院：[大连市第七人民医院](https://amap.com/place/B019B01AD1)
