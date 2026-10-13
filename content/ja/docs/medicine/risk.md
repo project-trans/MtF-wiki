@@ -63,6 +63,13 @@ weight: 10
 
 詳細は「Transfeminine Science」に掲載された文章「[エストロゲンと血液凝固能・血栓症の危険性との関係について](https://transfemscience.org/articles/estrogens-blood-clots/)」を示す [^3]。
 
+### エストロゲンと乳癌リスク
+
+- 高いエストロゲン曝露は乳癌の発症と関連する。ホルモン療法を受けるトランス女性の乳癌リスクはシスジェンダー男性より高いが、シスジェンダー女性より低いと報告されている[^37]。
+- ホルモン療法を受けるトランスジェンダーは、原則としてシスジェンダーと同様の乳癌スクリーニング指針に従い、個別リスクに応じて調整する。
+- 乳癌家族歴、特に BRCA1/2 病的バリアントが疑われる場合、乳癌リスクは有意に上昇する。遺伝的リスクがあるトランスジェンダーは、近親女性と同等の乳房健康モニタリング戦略を検討すること[^37]。
+- 高齢のトランスジェンダーでは、乳癌リスク低減の観点からホルモン療法継続の是非を医師と相談してもよい[^37]。
+
 ## 黄体ホルモン剤による副作用・リスク
 
 経口プロゲステロン（天然の黄体ホルモンの一種類）は、神経ホルモン系物質になって代謝され、アルコール様副作用を示すことが認められている[^4]。  
@@ -78,7 +85,7 @@ weight: 10
 
 - **肝臓毒性**
 - **肝臓癌**（腹腔内出血が発生し、死亡に至ることがある）
-- **髄膜腫**
+- **髄膜腫**[^9]
 - **動・静脈血栓症**
 
 > **発生頻度が高い副作用** [^5] [^6] [^7]
@@ -86,6 +93,8 @@ weight: 10
 - 体重の増加、又は減少
 - 抑うつの発生・悪化
 - 性欲の減退、性機能障害、精子量の減少（投与中止後には可逆）
+
+髄膜腫の既往又は現病がある場合、酢酸シプロテロン含有薬は使用しない。長期・高用量使用では髄膜腫リスクに特に注意すること（テストステロン抑制には低用量でも十分との指摘がある[^8]）。
 
 本剤は日本で承認されていない。下記はニュージーランドで販売された「シテロン&reg;」の[添付文書](https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf)に表示された副作用：
 
@@ -181,7 +190,7 @@ weight: 10
 
 - 高齢者
 - 腎機能障害
-- 血中ナトリウムを上昇させる薬剤（カリウム製剤、カリウム保持性利尿剤など）の同時投与（禁忌の一種）
+- カリウムを上昇させる薬剤、カリウム製剤、カリウム保持性利尿剤、又はカリウム含有代用塩の同時使用
 
 ## 相互作用 {#drug-interactions}
 
@@ -222,8 +231,8 @@ weight: 10
 | スピロノラクトン、<br>及びその他の薬剤 | CYP3A4、又はCYP2C11で代謝される薬剤を影響すると考えられる[^21] [^31]。 |
 | ビカルタミド、<br>及びその他の薬剤 | CYP3A4で代謝される薬剤を影響する恐れがある[^10] [^22]。<br>抗凝固剤の効果を影響する恐れがある。 |
 | エストラジオール、プロゲスチン系薬物、<br>及び肝酵素を及ぼす薬剤 | 肝酵素誘導・阻害により、エストラジオール、及びプロゲスチン系薬物の代謝・効果を影響すると考えられる[^2] [^6]。 |
-| スピロノラクトン、プロゲスチン系薬物、<br>及び血清蛋白 | 蛋白結合率が高いので[^6] [^20] [^21]、アルブミンに対し、その他の薬剤の結合を競合的に阻害すると考えられる。その結果、薬剤の血中フリー濃度（非結合率）が高くなり、効果・副作用が明らかになることがある。<br>併用の場合、投与量を調節するなど注意すること。 |
-| エストラジオール、<br>及び血清蛋白 | 蛋白結合率が高いので[^2] [^26]、アルブミンに対し、その他の薬剤の結合を競合的に阻害すると考えられる。 |
+| スピロノラクトン、プロゲスチン系薬物、<br>及び血清蛋白 | 蛋白結合率が高いので[^6] [^20] [^21]、アルブミン結合を他の強結合薬と競合する可能性がある。その結果、双方の遊離血中濃度が上昇し、効果・副作用が強くなることがある。セルトラリンなどの抗うつ薬もこの種の薬剤に含まれる[^27]。<br>併用の場合、投与量を調節するなど注意すること。 |
+| エストラジオール、<br>及び血清蛋白 | 生理的濃度のエストラジオールは多くがアルブミン、一部が性ホルモン結合グロブリン（SHBG）に結合する[^2] [^26]。他の薬剤との競合に加え、エストラジオール自体が SHBG を増加させるため、遊離濃度の変動は予測しにくい。 |
 | CYP3A4で代谢される薬剤の併用 | 高用量の場合、代謝変化率が低くなり、副作用が明らかになると考えられる[^7]。<br>これらの薬剤は、必要最小限に使用すること。 |
 | アルコール | 酢酸シプロテロンの作用が減弱する恐れがある[^5] [^6] [^7]。 |
 
@@ -255,8 +264,8 @@ weight: 10
 [^5]: [添付文書：酢酸シプロテロン錠（Siterone）](https://tfsci.mtf.wiki/misc/siterone-nz/) （中国語）
 [^6]: [添付文書：酢酸シプロテロン錠（南アフリカ Androcur）](https://tfsci.mtf.wiki/misc/androcur-za/) （中国語）
 [^7]: [添付文書：酢酸シプロテロン錠（台湾 Androcur）](https://tfsci.mtf.wiki/misc/androcur-tw/) （中国語）
-<!-- FIXME link-image-reference-definitions [^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
-[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/> -->
+[^8]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/>
+[^9]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/>
 [^10]: AstraZeneca. (2017). CASODEX&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://tfsci.mtf.wiki/misc/casodex/>
 [^11]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-intro/>
 [^12]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/bica-adoption/>
@@ -276,3 +285,4 @@ weight: 10
 [^32]: Monroe, S. E., Levine, L., Chang, R. J., et al. (1981). Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas. *The Journal of Clinical Endocrinology & Metabolism*, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 [^33]: ANI Pharmaceuticals Inc. (2022). LITHOBID&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf>
 [^34]: Taylor, D. M., Barnes, T. R. E., Young, A. H. (2021). The Maudsley&reg; Prescribing Guidelines in Psychiatry. 14th ed. Hoboken: John Wiley & Sons: 851-855.
+[^37]: de Blok C J M, Wiepjes C M, Nota N M, van Engelen K, Adank M A, Dreijerink K M A et al. Breast cancer risk in transgender people receiving hormone treatment: nationwide cohort study in the Netherlands. *BMJ* 2019;365:l1652. DOI: [10.1136/bmj.l1652](https://doi.org/10.1136/bmj.l1652)
