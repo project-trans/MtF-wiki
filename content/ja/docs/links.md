@@ -7,7 +7,7 @@ title: Links
 - {{< shields/twitter MtFwikiJapan >}}\
   MtF.wiki Japan branch, Official account of <https://MtF.wiki/ja>
 - {{< shields/twitter RLSvoice >}}\
-  女声ボイストレーニングで、ときどきテレビとかにも紹介されているRose Ladies Schoolです。
+  女声ボイストレーニングで、テレビなどでも紹介されることがあるRose Ladies Schoolです。
 
 ## Website
 
