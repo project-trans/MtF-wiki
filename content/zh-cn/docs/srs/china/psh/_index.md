@@ -14,6 +14,10 @@ weight: 1050
 
 医院位于[北京市石景山区八大处路 33 号](https://amap.com/place/B000A8316D)。
 
+{{< notice info >}}
+据[可靠线索推测]({{< ref "Jinxing" >}})，本院极有可能为著名舞蹈家[金星](https://baike.baidu.com/item/%E9%87%91%E6%98%9F/3456513)进行SRS的医院。
+{{< /notice >}}
+
 ## 性别重置手术
 
 {{< notice info >}}
