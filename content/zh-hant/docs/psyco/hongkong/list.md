@@ -21,3 +21,9 @@ title: 醫生列表
   精神科專科醫生/認可性治療師
   電話: {{< telephone "+852 3709-6034" >}}
   電郵: <hongkongpsychiatry@gmail.com>
+
+- 張翱醫生 - 精神科專科醫生
+  電話: {{< telephone "+852 2813-3700" >}}
+  WhatsApp（預約用）: {{< telephone "+852 9509-6276" >}}
+  電郵: <cheungngo@gmail.com>
+  地址: [H Zentre](https://maps.app.goo.gl/GTuQuH73m3HihSP98) 8 樓 813 室 (港鐵站尖東 K / 尖沙咀 L1 出口)
