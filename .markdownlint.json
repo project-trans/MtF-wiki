@@ -9,5 +9,6 @@
   "line-length": false,
   "table-column-style": false,
   "no-blanks-blockquote": false,
-  "no-alt-text": false
+  "no-alt-text": false,
+  "MD036": false
 }
