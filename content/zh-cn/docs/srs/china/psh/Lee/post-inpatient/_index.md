@@ -233,7 +233,7 @@ weight: 300
 
 **仅作为分享，这不构成医疗建议。**
 
-模具[购买链接](https://t.co/AfGTrDUTnE)。
+模具[购买链接](https://item.taobao.com/item.htm?id=670775671951)。
 
 ![模具购买](模具购买.png)
 
