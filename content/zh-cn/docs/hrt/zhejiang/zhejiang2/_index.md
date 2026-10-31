@@ -5,7 +5,6 @@ weight: 250
 
 {{< doctor-image src="doctor.jpg" >}}
 
-
 医院：[浙江大学医学院附属第二医院](https://amap.com/place/B023B19TSO)
 
 医生：单利珍
