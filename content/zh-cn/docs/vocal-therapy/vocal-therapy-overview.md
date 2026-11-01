@@ -27,6 +27,7 @@ aliases:
 - Web
   - [Voice Tools (Alpha)](https://voice.hydev.org/)
 - Android 平台
+  - [Pitchee](https://github.com/Project-Pitchee/Pitchee-Android)
   - [Voice Tools](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
   - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 - iOS 平台
