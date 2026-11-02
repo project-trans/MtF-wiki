@@ -38,15 +38,47 @@ weight: 600
 
 ## 香港
 
-- 帶備工作: 找律師辦理改名契（如需）；有關更改性別標記所需的相關材料，請參考香港入境處發佈的《[申請更改香港身份證上性別記項的指引](https://www.immd.gov.hk/pdf/the-guideline-tc.pdf)》。
-- 地點: 入境處
-- 程序如下:
-  1. 可郵寄，約見需時 4-6 星期
-  1. 約見後，會收到臨時身份證
-  1. 再等兩星期左右，會收到新身份證
+現時香港身份證的性別記項可以變更，但變更身份證性別「並不代表該持證人的性別在法律上已獲更改並就所有法律目的而言獲正式承認」。
 
-[網上預約申領身份證(人事登記辦事處)](http://www.gov.hk/tc/residents/immigration/idcard/hkic/bookregidcard.htm)
+### 申請準則
+
+香港入境處現行《[申請更改香港身份證上性別記項的指引](https://www.immd.gov.hk/pdf/the-guideline-tc.pdf)》（[簡體中文版](https://www.immd.gov.hk/pdf/the-guideline-sc.pdf)、[英文版](https://www.immd.gov.hk/pdf/the-guideline-en.pdf)）採取如下準則：
+
+- 準則一：性器官切除及建造（切除陰莖及睪丸＋建造陰道）；
+- 準則二：性器官切除（切除陰莖及睪丸）＋性別不安診斷＋聲明已持續至少2年接受荷爾蒙治療及以另一性別生活，餘生也將繼續；
+- 準則三：因醫學原因無法接受手術或荷爾蒙治療。
+
+### 提交申請
+
+需準備以下材料：
+
+- 《[表格ROP73](https://www.immd.gov.hk/hkt/forms/forms/rop73.html)》（姓名及性別標記更新可同時申請，只需提交一份《表格ROP73》）
+- 香港身分證副本
+- （準則一）性器官手術醫學證明（模板見《指引》附件二／三），以及其他相關文件（如有）
+- （準則二）性器官手術＋荷爾蒙＋生活＋性別不安醫學證明（可以由同一位醫生填寫，模板見《指引》附件二／三），以及其他相關文件（如有），其中荷爾蒙＋生活醫學證明**須在提交《表格ROP73》當日或以後簽發**
+- （改名用）找律師辦理改名契
+- 對於中國內地籍的香港非永久居民，入境處在收到申請後可能會發函索取**已更改性別記項**的往來港澳通行證及戶口簿的副本
+
+提交申請時需提供填妥的《表格ROP73》，以及各項證明文件的副本。對於以準則二申請變更性別記項者，如果不能在提交申請當日辦理荷爾蒙＋生活醫學證明，可以在提交申請後再辦理，並在接獲入境處信件後按指示補交醫學證明。
+
+申請可通過[互聯網](https://www.gov.hk/tc/residents/immigration/idcard/applyamendrp.htm)、郵寄、親身遞交等方式提交，詳見[入境處網站](https://www.immd.gov.hk/hkt/faq/faq_hkic.html#amend_q1)。
+
+一般提交所有文件1-3個月後，將接獲入境處回覆。申請獲得批准後，將獲得到入境處辦理手續的通知。
+
+### 辦理手續
+
+收到入境處通知後，前往[人事登記辦事處](https://www.immd.gov.hk/hkt/contactus/person-registration.html)現場辦理；亦可同時申請[香港特區護照更新](https://www.immd.gov.hk/hkt/service/travel_document/apply_for_hksar_passport.html#aa&secondTab)
+
+- 出示證明文件正本
+- （準則二）簽署《指引》附件一聲明
+- 拍攝新身分證的照片、印上手指模
+- 交回現有身分證以供註銷
+- 領取《申請香港身份證收據》（「臨時身分證」）
+- 換發身份證收取費用港幣460元
+
+於《申請香港身份證收據》指定的日期（辦理手續約3-4星期後）再次前往人事登記辦事處領取新身份證及新護照（如有）並交還《申請香港身份證收據》（可[授權他人代領證件](https://www.immd.gov.hk/hkt/forms/forms/id678.html)）。
 
 ## 參考內容
 
 1. [性別變更｜臺北 LGBT 資訊專區](https://lgbt.gov.taipei/cp.aspx?n=7141B7FAB560582E)
+1. [香港身分證性別記項更新——申請步驟及教學 | Update of Gender Marker​ on HKID​ - Step-to-step Guide](https://www.hktransgenderdiverse.info/hkid-gender/guide)
