@@ -70,4 +70,4 @@ Tabitha 之前没有开过prog（孕激素），但她可以开。
 
 ## 手术相关
 
-倘若你有意向在加拿大进行相关手术，你应该和你的医生讨论这个问题。个人理解是你需要先进行hrt一年才能被你的医生refer到医院去进行手术，并且还需要一些reference letter。
+倘若你有意向在加拿大进行相关手术，你应该和你的医生讨论这个问题。个人理解是你需要先进行hrt一年才能被你的医生refer到医院去进行手术，并且还需要一些reference letter。[新的学生医保](https://studentcare.ca/rte/en/IHaveAPlan_WUSA_2SLGBTQIASupport)覆盖激光脱毛，隆乳手术，颌面整形，生殖器相关手术等。

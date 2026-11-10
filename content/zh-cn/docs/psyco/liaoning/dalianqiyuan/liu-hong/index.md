@@ -12,6 +12,16 @@ title: 刘宏
 
 问诊参考：<https://github.com/project-trans/MtF-wiki/issues/498> <https://github.com/project-trans/MtF-wiki/issues/724>
 
+总成本约 900 元。
+
+此前简介中写有「可以开具易性症证明」，但当前简介已无相关字样。
+
+{{< expand "展开查看简介" >}}
+
+{{< watermark "new-jianjie.jpg" >}}
+
+{{< /expand >}}
+
 ## 挂号与坐诊时间
 
 - 挂号费：16 元。
@@ -30,8 +40,11 @@ title: 刘宏
 检查项目：
 
 - MMPI
-- 症状自评量表
-- 艾森克个性测验
+- 心电图
+- 脑电图
+- 肝肾功能
+- 葡萄糖测定
+- 血细胞
 - 脑 CT （脑 CT 检查与取片位于医院 2 号楼一楼。如果最近做过脑 CT 直接提供检查结果即可，医生不再开具检查）
 - 性激素五项（如果最近做过性激素五项直接提供检查结果即可，医生不再开具检查）
 

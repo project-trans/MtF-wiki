@@ -1,5 +1,5 @@
 ---
-title: 色普龙（醋酸环丙孕酮）
+title: 醋酸环丙孕酮（色普龙）
 description: 醋酸环丙孕酮（Cyproterone Acetate），是一种常用的抗雄药物，常见的商品名有 Androcur（安得卡），Siterone 等。
 ---
 

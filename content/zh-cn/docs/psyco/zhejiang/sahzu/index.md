@@ -2,8 +2,8 @@
 title: 杭州｜浙江大学医学院附属第二医院
 ---
 
-医院：[浙江大学医学院附属第二医院](https://amap.com/place/B023B19TSO)
-
+{{< tag/pos "昂贵" >}}  
+医院：[浙江大学医学院附属第二医院](https://amap.com/place/B023B19TSO)  
 医生: 陈一萍
 
 ## 挂号

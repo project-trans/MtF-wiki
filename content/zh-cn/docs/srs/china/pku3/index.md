@@ -99,3 +99,16 @@ weight: 2001
 ---
 
 本页面编辑参考了<https://zhuanlan.zhihu.com/p/464156579> (<https://archive.is/uZkop>)
+
+## 术后评价
+
+{{< expand "点击展开" >}}
+
+### 2026 年 5 月手术
+
+- 术后 3 个月拍摄
+
+{{< hiddenphoto "postoperative-1-1.jpg" >}}
+{{< hiddenphoto "postoperative-1-2.jpg" >}}
+
+{{< /expand >}}
