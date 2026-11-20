@@ -6,7 +6,7 @@ title: 大连｜张霞
 
 医生姓名：[张霞](https://www.haodf.com/doctor/9032018519.html)
 
-所在医院：[大连医科大学附属第二医院](https://www.amap.com/place/B019B0AOZE)
+所在医院：[大连医科大学附属第二医院(星海院区)](https://www.amap.com/place/B019B0AOZE)
 
 ## 出诊时刻
 
