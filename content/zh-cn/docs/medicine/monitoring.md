@@ -42,6 +42,7 @@ aliases: hormone-check
 - **乳腺扫描。** 雌激素、孕激素可增长乳腺癌风险 [^8] [^9] [^14]。长年服用雌、孕激素应注意。
 - 大脑**核磁共振扫描 (MRI)。** 长年、高剂量服用醋酸环丙孕酮，应注意**脑膜瘤**风险，一经发现，须立即停药 [^10] [^16]。
 - **体重和体脂。** 睾酮水平降低将使得脂肪组织（尤其是皮下脂肪）增加，而雌激素可促进前体脂肪细胞成熟和分化，并减少皮下脂肪的分解[^25]；因此，MtF 群体中普遍可见接受 GAHT 以后体重和体脂增加的现象[^26]。应定期测量体重，适当运动，控制饮食，避免超重。
+- **维生素D。** 维生素D在维持骨骼健康方面起着至关重要的作用。它有助于骨骼的矿化和维持骨密度，从而预防骨质疏松。对于进行HRT中的MtF，由于激素的变化（类似于绝经后的顺性别女性进行HRT），骨质疏松更易发生[^34]。因部分MtF较少在晴天出门及常使用防晒霜，接收紫外线辐射这一维生素D重要来源大幅减少，口服维生素D补充剂更为重要。
 
 中国大陆任何一家三甲医院均可进行激素和其它血液指标检查。挂号时，应挂内分泌科门诊，男科、妇科也能提供相关检查。进行检查的理由可以如实坦白，如果是相对保守的地区也可以用激素相关的疾病复查作为理由。
 
@@ -205,3 +206,4 @@ aliases: hormone-check
 [^31]: Ramaswamy S, Weinbauer G F. Endocrine control of spermatogenesis: Role of FSH and LH/ testosterone [J]. *Spermatogenesis*, 2014, 4(2): e996025. DOI: [10.1080/21565562.2014.996025](https://doi.org/10.1080/21565562.2014.996025)
 [^32]: Wierckx K, Gooren L, T’Sjoen G. Clinical review: Breast development in trans women receiving cross-sex hormones [J]. *The Journal of Sexual Medicine*, 2014, *11*(5): 1240–1247. DOI: [10.1111/jsm.12487](https://doi.org/10.1111/jsm.12487)
 [^33]: Johnson M H. Essential Reproduction [M]. 8th ed. Hoboken, US: Wiley-Blackwell, 2018: 14-31.
+[^34]: Xie Z, Xia W, Zhang Z, et al. Prevalence of vitamin D inadequacy among Chinese postmenopausal women: A nationwide, multicenter, cross-sectional study [J]. Frontiers in Endocrinology, 2019, 9: 782. DOI: [10.3389/fendo.2018.00782](https://doi.org/10.3389/fendo.2018.00782)
