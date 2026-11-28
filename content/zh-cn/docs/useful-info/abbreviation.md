@@ -35,6 +35,9 @@ transgay,跨性别男同性恋（即其中一方为 transM）
 FtM,女跨男（Female-to-Male）
 MtF,男跨女（Male-to-Female）
 TS,变性者（Transsexual）
+AFAB,出生时被指定女性（Assigned female at birth）
+AMAB,出生时被指定男性（Assigned male at birth）
+AGAB,出生时指定性别（Assigned gender at birth）
 ```
 
 FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary 非二元

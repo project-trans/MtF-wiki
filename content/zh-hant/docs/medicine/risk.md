@@ -53,13 +53,6 @@ weight: 10
 
 更多詳情可參見《[雌激素對凝血功能與血栓風險之影響](https://tfsci.mtf.wiki/articles/estrogens-blood-clots/)》[^3]。
 
-### 雌激素相關資料
-
-> **EMA 確認高強度雌二醇乳膏的使用時間不超過四周** [^16] [^30]
->
-> PRAC 審查了關於高強度**雌二醇乳膏**用於治療絕經期婦女陰道萎縮症狀的安全性和有效性的現有資料。這些資料表明，絕經後婦女使用這些乳膏後，血液中的雌二醇水平高於正常絕經後的水平。PRAC 的結論是，雌二醇在血液中的吸收值得關注，可能導致與激素替代療法（HRT）相似的副作用，口服或經皮膚（作為貼片）使用 HRT 的副作用包括靜脈血栓栓塞（靜脈血栓形成）、中風、子宮內膜癌和乳腺癌。此外，關於長期使用高強度**雌二醇乳膏**的安全性資料有限。
-> 基於這些原因，PRAC 建議這些乳膏一個療程最多隻能使用 4 周。
-
 ## 黃體素用藥風險
 
 ### 口服與非口服天然黃體酮
@@ -201,7 +194,6 @@ Topiramate,
 [^13]: [螺內酯片說明書](https://tfsci.mtf.wiki/misc/spiro-tablet/)
 [^14]: Solymoss, B., Classen, H. G., & Varga, S. (1969). Increased hepatic microsomal activity induced by spironolactone and other steroids. *Proceedings of the Society for Experimental Biology and Medicine*, 132(3): 940-941. \[DOI: [10.3181/00379727-132-34342](https://doi.org/10.3181/00379727-132-34342)]
 [^15]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. 譯文：「[女性化激素療法與乳腺癌風險](https://tfsci.mtf.wiki/articles/breast-cancer/)」
-[^16]: ［中國］國家藥品監督管理局. (2020). [藥物警戒快訊第 4 期（總第 204 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20200612161701797.html).
 [^17]: ［中國］國家藥品監督管理局. (2012). [藥物警戒快訊 2012 年第 11 期（總第 115 期）](https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/yjjsh/ywjjkx/20121130120001399.html).
 [^18]: ［中國］國家藥品監督管理局. (2020). [藥物警戒快訊第 3 期（總第 203 期）](https://www.nmpa.gov.cn/xxgk/yjjsh/ywjjkx/20200416143701885.html).
 [^19]: Kattari, S. K., Kattari, L., Johnson, I., et al. (2020). Differential Experiences of Mental Health among Trans/Gender Diverse Adults in Michigan. *International Journal of Environmental Research and Public Health*, 17(18):6805. \[DOI: [10.3390/ijerph17186805](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557385/)]
@@ -216,7 +208,6 @@ Topiramate,
 [^28]: European Medicines Agency. (2020). Restrictions in use of cyproterone due to meningioma risk. <https://www.ema.europa.eu/en/news/restrictions-use-cyproterone-due-meningioma-risk>
 [^29]: Health Canada. (2012). Antiandrogens and hepatotoxicity. *Canadian Adverse Reaction
 Newsletter*, 22(4): 3-4.
-[^30]: European Medicines Agency. (2020). PRAC confirms four-week limit for use of high-strength estradiol creams. <https://www.ema.europa.eu/en/news/prac-confirms-four-week-limit-use-high-strength-estradiol-creams>
 [^31]: Chung, W. G., & Buhler, D. R. (1994). The Effect of Spironolactone Treatment on the Cytochrome P450-Mediated Metabolism of the Pyrrolizidine Alkaloid Senecionine by Hepatic Microsomes from Rats and Guinea Pigs. *Toxicology and Applied Pharmacology*, 127(2): 314–319. \[DOI: [10.1006/taap.1994.1167](https://doi.org/10.1006/taap.1994.1167)]
 [^32]: Monroe, S. E., Levine, L., Chang, R. J., et al. (1981). Prolactin-Secreting Pituitary Adenomas. V, Increased Gonadotroph Responsivity in Hyperprolactinemic Women with Pituitary Adenomas. *The Journal of Clinical Endocrinology & Metabolism*, 52(6): 1171–1178. \[DOI: [10.1210/jcem-52-6-1171](https://doi.org/10.1210/jcem-52-6-1171)]
 <!-- FIXME link-image-reference-definitions [^33]: ANI Pharmaceuticals Inc. (2022). LITHOBID&reg; U.S. Physicians Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018027s069lbl.pdf> -->

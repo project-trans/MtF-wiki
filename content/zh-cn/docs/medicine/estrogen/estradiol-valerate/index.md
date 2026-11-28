@@ -24,9 +24,17 @@ description: 戊酸雌二醇（Estradiol valerate）是一种人工合成的经�
 
 > 注：自 2025 年中以后，中国大陆销售的补佳乐陆续更换为粉色系新包装设计，药片外观（淡黄色糖衣片）不变，规格仍为 1mg × 21 片/盒。
 
-|                        泰国包装(2mg)                        |
+|                        泰国包装(旧版)(2mg)                        |
 | :---------------------------------------------------------: |
 | ![!](/images/medicine/estradiol-valerate/progynova-2mg.jpg) |
+
+|                        泰国包装(新版)(2mg)                        |
+| :---------------------------------------------------------: |
+| ![!](https://raw.githubusercontent.com/typezhi/Medicine/main/progynova/product.jpg) |
+
+> 注：自 2026 年 9 月以后泰国在售包装的商标已改为 AMDIPHAR 但实际生产仍为拜耳，
+
+- 说明书：[扫描件](https://raw.githubusercontent.com/typezhi/Medicine/main/progynova/Manual26m.png)
 
 |                          德国包装                          |
 | :--------------------------------------------------------: |
